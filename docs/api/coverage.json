@@ -14,7 +14,7 @@
   "art": 8,
   "story": 11
  },
- "how_records_are_made": "Hand-written JSON, one per node, each field carrying a provenance tier (cited / harvested / tradition / inference / field). Cited fields name a source in sources.json. Tradition fields are general knowledge of the practice and are hedged in the prose. This project never writes that a charm works or that it does not; it names who makes the claim.",
+ "how_records_are_made": "Hand-written JSON, one per node, each field carrying a provenance tier (cited / harvested / tradition / inference / field). Cited fields name a source in sources.json. Tradition fields are general knowledge of the practice and are hedged in the prose. A claim about what a charm does carries the name of whoever made it, in names who makes the claim.",
  "time": {
   "records_dated": 241,
   "still_carried": 226,

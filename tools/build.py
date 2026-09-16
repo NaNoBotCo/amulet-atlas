@@ -241,8 +241,9 @@ DAYS = ("Mo", "Tu", "We", "Th", "Fr", "Sa", "Su")
 
 def day_state(rec: dict | None) -> dict:
     """open / closed / unknown for each of the seven days. A day nobody has published stays
-    UNKNOWN — never quietly called closed, which is the difference between a directory a
-    reader can fly on and one that sends them to a locked door."""
+    UNKNOWN. A day nobody published stays unknown here rather than being filled in as
+    closed, which is the difference between a directory a reader can fly on and one that
+    sends them to a locked door."""
     out = {d: "unknown" for d in DAYS}
     h = (rec or {}).get("hours") or {}
     for d in h.get("closed", []):
@@ -364,7 +365,7 @@ def coverage(recs: list[dict], sources: dict) -> dict:
         "how_records_are_made": ("Hand-written JSON, one per node, each field carrying a provenance tier (cited / "
                                  "harvested / tradition / inference / field). Cited fields name a source in "
                                  "sources.json. Tradition fields are general knowledge of the practice and are hedged "
-                                 "in the prose. This project never writes that a charm works or that it does not; it "
+                                 "in the prose. A claim about what a charm does carries the name of whoever made it, in "
                                  "names who makes the claim."),
         "time": {"records_dated": dated, "still_carried": living, "earliest_year": oldest,
                  "reading_an_absence": ("An undated record is one nobody here could date from a source, not one with "

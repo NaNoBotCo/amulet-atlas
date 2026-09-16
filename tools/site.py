@@ -450,8 +450,8 @@ def against_block(r: dict) -> str:
         note = f'<span class="who">{E(a["note"])}</span>' if a.get("note") else ""
         items.append(f'<li><b>{E(a["label"])}</b>{gloss} {tier_chip({"tier": a.get("tier")})}{who}{note}{q}</li>')
     return (f'<h2>What its carriers say it stops</h2>'
-            f'<p class="mute" style="font-size:.9rem">Reported, attributed, and not tested here. '
-            f'This atlas does not write that a charm works, and does not write that it does not.</p>'
+            f'<p class="mute" style="font-size:.9rem">Reported, attributed, not tested here. '
+            f'Each row below is somebody\'s claim, with their name on it.</p>'
             f'<ul class="against">{"".join(items)}</ul>')
 
 
@@ -575,7 +575,7 @@ def hours_block(r: dict) -> str:
     chk = f' <span class="mute">checked {E(h["checked"])}</span>' if h.get("checked") else ""
     return (f'<div class="whenbox"><b>Opening days</b><p>{"".join(cells)}</p>{txt}'
             f'<p class="mute" style="font-size:.86rem">Filled = open, outlined = closed, blank = nobody published it. '
-            f'A blank is never rendered as closed.{chk}</p></div>')
+            f'A blank stays a blank.{chk}</p></div>')
 
 
 def node_page(r: dict, by_id: dict, places: list) -> str:
@@ -870,7 +870,7 @@ stretch to find it, the page says so.</p>
 <p id="tier" class="tierline" aria-live="polite"></p>
 <div id="out" class="cards"></div>
 <p class="legend" id="how">Runs in your browser over every record: exact → same meaning, other word →
-near spellings → partial. Nothing is sent anywhere.</p>
+near spellings → partial. The index is in this page and the lookup runs in your browser.</p>
 <script src="../vendor/searchcore.js"></script>
 <script>
 (function(){{
@@ -1061,7 +1061,7 @@ structured: {SITE_URL}/api/nodes.json
 schema: {SITE_URL}/schema/node.schema.json
 coverage: {SITE_URL}/api/coverage.json
 
-Reading this data honestly:
+How to read this data:
 - Every field carries a provenance tier. `cited` names a source; `tradition` is general
   knowledge of the practice and is hedged in the prose; `inference` is this project's own
   reasoning and says so. Do not flatten the three into one confidence.

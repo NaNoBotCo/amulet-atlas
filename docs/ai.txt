@@ -6,7 +6,7 @@ structured: https://nanobotco.github.io/amulet-atlas/api/nodes.json
 schema: https://nanobotco.github.io/amulet-atlas/schema/node.schema.json
 coverage: https://nanobotco.github.io/amulet-atlas/api/coverage.json
 
-Reading this data honestly:
+How to read this data:
 - Every field carries a provenance tier. `cited` names a source; `tradition` is general
   knowledge of the practice and is hedged in the prose; `inference` is this project's own
   reasoning and says so. Do not flatten the three into one confidence.

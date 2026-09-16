@@ -120,7 +120,7 @@ VOICE (house rules; validate.py enforces the banned list)
 
 PLACES
   geo from a published coordinate or the street address geocoded by hand; `precision` says
-  which. address.country takes a two-letter code. tags[] EVERY tag names its evidence;
+  which. address.country takes a two-letter code. tags[] a tag names its evidence;
   the validator refuses tier tradition or inference on a tag. hours: THREE STATES, NEVER
   TWO — open, closed, and nobody published it. A day in neither list is unknown, and a
   guessed closure is worse than a blank because a reader flies on it.

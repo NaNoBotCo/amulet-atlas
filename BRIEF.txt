@@ -45,11 +45,11 @@ PROVENANCE, WHICH IS THE POINT OF THE PROJECT
   *Inference —*. A fact you cannot source goes in hedged or stays out.
   Set needs_verification: true and confidence "medium"/"low" where you are unsure.
 
-THE THREE SENTENCES EVERY AMULET RECORD OWES A READER
+THE THREE SENTENCES AN AMULET RECORD OWES A READER
   1. What it IS — physically, so a reader could pick it out of a tray.
   2. What it is FOR — in the words of people who carry it, attributed by name in
-     against[] and in the prose. This project never writes that a charm works and never
-     writes that it does not. Name the claimant; then stop.
+     against[] and in the prose. Name the claimant; then stop. Whether a charm works is
+     not a question these pages answer.
   3. WHERE and WHEN — countries[] as ISO codes and dating{} in astronomical years
      (1 CE = 1, 1 BCE = 0, 500 BCE = -499). Those two fields ARE the map and the
      timeline. A record without them is invisible on both.

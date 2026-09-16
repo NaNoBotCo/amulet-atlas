@@ -202,8 +202,8 @@ def against_page(page, recs, against, by_id, site_url, E, **_) -> str:
     body = f"""
 <h1><span class="kind">Amulet Atlas</span>What it stops</h1>
 <p class="lede">{against["count"]} claims, each one belonging to somebody. This project does not
-write that a charm works and does not write that it does not; it records who says what, and
-links the source. {E(against["note"])}</p>
+record who said it and link the source. Whether a charm works is not a question this
+page answers. {E(against["note"])}</p>
 {viz.bars([{"label": h["label"], "n": h["n"]} for h in harms], 1100, " claims", 29, 270)}
 <h2>Harm against region</h2>
 <p class="mute">A blank cell is a blank — no record here makes that claim in that region. It is
@@ -483,7 +483,7 @@ def quiz_page(page, quiz, recs, site_url, E, path_of, **_) -> str:
 <h1><span class="kind">Amulet Atlas</span>Pick me one</h1>
 <p class="lede">Six questions. The atlas hands you a charm from its own records and then shows
 its working — which answers pushed it there, and by how much. It is a lookup, not an oracle,
-and nothing you click leaves your browser.</p>
+and the scoring runs in this page.</p>
 <form class="quiz" id="qz">{"".join(qs)}
 <p><button class="btn" type="button" id="go">Hand me one</button>
 <button class="btn ghost" type="button" id="again">Start over</button></p></form>
