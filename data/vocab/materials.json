@@ -1,0 +1,230 @@
+{
+ "note": "Keys for object.materials. Grouped by what a museum card would call the class.",
+ "entries": [
+  {
+   "key": "faience",
+   "label": "Faience",
+   "kind": "fired",
+   "note": "glazed quartz paste; Egypt's amulet material at scale"
+  },
+  {
+   "key": "terracotta",
+   "label": "Fired clay",
+   "kind": "fired"
+  },
+  {
+   "key": "glass",
+   "label": "Glass",
+   "kind": "fired"
+  },
+  {
+   "key": "coin",
+   "label": "A coin",
+   "kind": "metal"
+  },
+  {
+   "key": "brass",
+   "label": "Brass",
+   "kind": "metal"
+  },
+  {
+   "key": "copper",
+   "label": "Copper and bronze",
+   "kind": "metal"
+  },
+  {
+   "key": "gold",
+   "label": "Gold",
+   "kind": "metal"
+  },
+  {
+   "key": "iron",
+   "label": "Iron",
+   "kind": "metal",
+   "note": "iron itself is the charm in a great many places"
+  },
+  {
+   "key": "lead",
+   "label": "Lead",
+   "kind": "metal"
+  },
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  },
+  {
+   "key": "earth",
+   "label": "Earth and ash",
+   "kind": "mineral",
+   "note": "grave earth, temple ash, volcanic sand"
+  },
+  {
+   "key": "salt",
+   "label": "Salt",
+   "kind": "mineral"
+  },
+  {
+   "key": "pixels",
+   "label": "A screen",
+   "kind": "modern",
+   "note": "lock-screen charms, app charms, a photo of a charm"
+  },
+  {
+   "key": "plastic",
+   "label": "Plastic and resin",
+   "kind": "modern"
+  },
+  {
+   "key": "steel",
+   "label": "Steel",
+   "kind": "modern"
+  },
+  {
+   "key": "amber",
+   "label": "Amber",
+   "kind": "organic"
+  },
+  {
+   "key": "bone",
+   "label": "Bone and ivory",
+   "kind": "organic"
+  },
+  {
+   "key": "cowrie",
+   "label": "Cowrie",
+   "kind": "organic"
+  },
+  {
+   "key": "hair",
+   "label": "Hair",
+   "kind": "organic"
+  },
+  {
+   "key": "leather",
+   "label": "Leather and hide",
+   "kind": "organic"
+  },
+  {
+   "key": "coral",
+   "label": "Red coral",
+   "kind": "organic"
+  },
+  {
+   "key": "shell",
+   "label": "Shell",
+   "kind": "organic"
+  },
+  {
+   "key": "skin",
+   "label": "Skin",
+   "kind": "organic",
+   "note": "the tattooed charm"
+  },
+  {
+   "key": "tooth",
+   "label": "Tooth, tusk and claw",
+   "kind": "organic"
+  },
+  {
+   "key": "herb",
+   "label": "Herb and root",
+   "kind": "plant"
+  },
+  {
+   "key": "seed",
+   "label": "Seed and nut",
+   "kind": "plant"
+  },
+  {
+   "key": "straw",
+   "label": "Straw",
+   "kind": "plant",
+   "note": "the last sheaf; a charm that is meant to rot"
+  },
+  {
+   "key": "wood",
+   "label": "Wood",
+   "kind": "plant"
+  },
+  {
+   "key": "agate",
+   "label": "Agate and onyx",
+   "kind": "stone"
+  },
+  {
+   "key": "carnelian",
+   "label": "Carnelian",
+   "kind": "stone",
+   "note": "red; Egypt's colour for blood and life"
+  },
+  {
+   "key": "flint",
+   "label": "Flint",
+   "kind": "stone"
+  },
+  {
+   "key": "jade",
+   "label": "Jade",
+   "kind": "stone",
+   "note": "nephrite and jadeite; China, Mesoamerica, Aotearoa"
+  },
+  {
+   "key": "jet",
+   "label": "Jet",
+   "kind": "stone"
+  },
+  {
+   "key": "lapis",
+   "label": "Lapis lazuli",
+   "kind": "stone"
+  },
+  {
+   "key": "stone",
+   "label": "Stone, unspecified",
+   "kind": "stone",
+   "note": "use where a source says only 'stone'"
+  },
+  {
+   "key": "turquoise",
+   "label": "Turquoise",
+   "kind": "stone"
+  },
+  {
+   "key": "knot",
+   "label": "A knot",
+   "kind": "textile"
+  },
+  {
+   "key": "cloth",
+   "label": "Cloth",
+   "kind": "textile"
+  },
+  {
+   "key": "thread",
+   "label": "Thread and cord",
+   "kind": "textile",
+   "note": "red thread runs from the Mediterranean to Mongolia"
+  },
+  {
+   "key": "ink",
+   "label": "Ink",
+   "kind": "written"
+  },
+  {
+   "key": "palm-leaf",
+   "label": "Palm leaf",
+   "kind": "written"
+  },
+  {
+   "key": "paper",
+   "label": "Paper",
+   "kind": "written"
+  },
+  {
+   "key": "parchment",
+   "label": "Parchment and vellum",
+   "kind": "written"
+  }
+ ]
+}

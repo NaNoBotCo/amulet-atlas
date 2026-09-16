@@ -1,0 +1,562 @@
+{
+ "schema": 1,
+ "id": "lion",
+ "type": "motif",
+ "names": {
+  "name": "The lion",
+  "aliases": [
+   "lion head",
+   "leonine face",
+   "lioness",
+   "lion-headed god"
+  ]
+ },
+ "region": [
+  "ancient-egypt",
+  "mesopotamia",
+  "nubia-sudan",
+  "iran-persia",
+  "greece-aegean",
+  "rome-italy"
+ ],
+ "countries": [
+  "EG",
+  "IQ",
+  "IR",
+  "SD",
+  "GR",
+  "IT"
+ ],
+ "facets": {
+  "era": "ancient",
+  "family": "animal",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A lion's head on a human body, a lioness's paws on a hippopotamus, or a lion reared up on its hind legs. The sign is a predator set between a person and whatever is coming, and it is nearly always attached to something else — this is a face and a set of paws borrowed onto another body rather than a whole animal drawn on its own.",
+  "story": "Egypt put the lion in the birth room. The two gods most frequently invoked in Egyptian household apotropaic ritual were Taweret and Bes, and Bes is described in that account as the lion-deity, developed from the earlier dwarf god Aha, 'fighter'. James Romano, Egyptologist and former Curator of Egyptian Art at the Brooklyn Museum, holds that in its earliest inception Bes was a representation of a lion rearing up on its hind legs. Taweret takes the form of a female hippopotamus with the tail of a Nile crocodile and the paws of a lioness, features that parallel other ferocious protective deities, in her case Sekhmet the lioness goddess; her predatory form is what lets her ward evil away from the innocent.\n\nMesopotamia gave the face to the thing being warded off. Lamashtu has \"the head of a lion, the teeth of a donkey, naked breasts, a hairy body, hands stained (with blood?), long fingers and fingernails, and the feet of Anzû\", and her amulets vary: a canine or leonine face, talons, wings. An obsidian amulet in the Metropolitan Museum of Art gives her a lion-griffin-like head, raised clawed hands and the feet of a bird of prey. The lion is also overhead — the astral-medical text LBAT 1597 reads, \"If (the moon is) in the region of Leo, lamaštu, labašu, and ahhazu-demons, the seized-by-lamaštu(-disease), seized by lamaštu day-and-night(-disease), the god is a lion related to a belligerent god, Ištar, and Hand of the Ghost-disease, (in the region of) Venus and Leo.\"\n\nThis is one of the few families in the atlas where transmission is argued from excavated objects rather than from resemblance. Some scholars hold that Bes is a counterpart of the Mesopotamian Pazuzu: both are protector demons of the home, both have lion parts, wings, a long phallus and similar facial features, both sit similarly on protective amulets, and both are associated with protecting pregnant women and mothers. The contact is physical. A possible Pazuzu figure has been found in Egypt and Bes amulets at sites in Iran, and in a seventh-century-BCE fort at Nimrud five Pazuzu heads were found near a Bes amulet. The derivation, though, stays open: one theory connects both names to the king name Bazi, and the cited account states that neither Pazuzu's name has been shown to come from Bazi nor Bes's name proved to be foreign.\n\nLate antiquity mixed the head into a composite. E. A. Wallis Budge, describing the figure that carries the name Abraxas on magical gems, wrote that \"as a Pantheus, i.e. All-God, he appears on the amulets with the head of a cock (Phœbus) or of a lion (Ra or Mithras), the body of a man, and his legs are serpents which terminate in scorpions, types of the Agathodaimon.\" On other gems Abraxas stands upon a lion borne by a crocodile, and departed spirits ride the back of a crocodile or a lion on the journey to judgment. Budge's gloss names the borrowing outright: the lion head is read as Ra or Mithras, which is a syncretism rather than a coincidence.\n\nThe last dated appearance here is an instruction rather than an object. The Pseudo-Aristotelian Sirr al-Asrar, in the Arabic Hermetica perhaps dating to the ninth century CE, gives a kings' talisman that keeps harm away: under certain astrological marks, a ruby-red stone is carved on a Thursday with a winged, crowned man riding a lion with a flag, six hairless men bowing beneath his hands, and the stone is then burned in an extended ritual.",
+  "notes": "No source read here documents a living lion amulet, so this record closes in the ninth century CE rather than at the present day. That is a gap in the sources, not a statement that the sign died; it is marked so a later pass can fill it."
+ },
+ "dating": {
+  "period": "Middle Kingdom Egypt to the early Islamic period",
+  "from_year": -2039,
+  "to_year": 900,
+  "living": false,
+  "label": "c. 2040 BCE to c. 900 CE",
+  "method": "art-historical",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-apotropaic-magic",
+  "note": "The opening date is the Middle Kingdom, c. 2040-1782 BCE, when the ivory apotropaic wand carrying Taweret gained widespread popularity and Bes begins to appear on household objects; Romano's reading of Bes as a rearing lion is an interpretation of the earliest form and is not separately dated. The closing date is the ninth century CE, the date given for the Pseudo-Aristotelian Hermetica that prescribe the lion talisman. Nothing later is documented in the sources read here."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": [
+   "terracotta",
+   "copper",
+   "agate",
+   "glass"
+  ],
+  "worn": [
+   "neck",
+   "wall",
+   "cradle",
+   "grave"
+  ],
+  "source": "s:wp-pazuzu"
+ },
+ "against": [
+  {
+   "harm": "child-harm",
+   "who": "Egyptian households, for whom Bes and Taweret were the two deities most often invoked in protective ritual for mothers and children",
+   "source": "s:wp-apotropaic-magic",
+   "tier": "cited"
+  },
+  {
+   "harm": "childbirth",
+   "who": "Mesopotamian ritual, which set Pazuzu against Lamashtu to keep a woman from miscarrying",
+   "source": "s:wp-pazuzu",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the astral-medical text LBAT 1597, which ties lamashtu-disease to the moon in the region of Leo",
+   "source": "s:wp-lamashtu",
+   "tier": "cited"
+  },
+  {
+   "harm": "demons",
+   "who": "Lamashtu's own amulets, worn, attached to the body or garments, or placed near beds and doorways",
+   "source": "s:wp-lamashtu",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "the Sirr al-Asrar's kings' talisman, a crowned man riding a lion, said to keep harm away",
+   "source": "s:wp-talisman",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "bes-amulet",
+   "as": "the household god Romano reads as a lion rearing on its hind legs in its earliest form",
+   "rel": "carried-by"
+  },
+  {
+   "to": "taweret-amulet",
+   "as": "a hippopotamus with a crocodile's tail and a lioness's paws — the sign borrowed onto another animal",
+   "rel": "carried-by"
+  },
+  {
+   "to": "lamashtu-plaque",
+   "as": "the lion head on the demon rather than on the guard, which is what makes this family two-sided",
+   "rel": "carried-by"
+  },
+  {
+   "to": "pazuzu-head",
+   "as": "the Mesopotamian half of the documented contact: five of these were found beside a Bes amulet at Nimrud",
+   "rel": "carried-by"
+  },
+  {
+   "to": "magical-gem",
+   "as": "where the lion head ends up in late antiquity, stacked with a cock's head and serpent legs on the same figure",
+   "rel": "carried-by"
+  },
+  {
+   "to": "tooth-and-claw",
+   "as": "the neighbouring sign: this one borrows the predator's face, that one carries the predator's parts",
+   "rel": "parallel"
+  },
+  {
+   "to": "serpent",
+   "as": "what the lion-headed figure stands on and what its legs turn into on the gems",
+   "rel": "kin"
+  },
+  {
+   "to": "wallis-budge",
+   "as": "whose description of the Abraxas figure is the reason the lion head on these gems is read as Ra or Mithras",
+   "rel": "person"
+  },
+  {
+   "to": "mesopotamian-apotropaic",
+   "as": "the tradition that fixed the lion-headed demon and the lion-parted guard against her",
+   "rel": "tradition"
+  },
+  {
+   "to": "egyptian-amulet-craft",
+   "as": "the other tradition in the pair, and the one whose objects turned up in Iran",
+   "rel": "tradition"
+  }
+ ],
+ "links": [
+  {
+   "label": "Pazuzu — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pazuzu"
+  },
+  {
+   "label": "Lamashtu — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lamashtu"
+  }
+ ],
+ "sources": [
+  "s:wp-apotropaic-magic",
+  "s:wp-bes",
+  "s:wp-taweret",
+  "s:wp-lamashtu",
+  "s:wp-pazuzu",
+  "s:wp-abraxas",
+  "s:wp-talisman"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-pazuzu"
+  },
+  "fields": {
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-apotropaic-magic",
+    "note": "the opening date is inferred from the Middle Kingdom range the source gives for the apotropaic wand, not stated for the lion sign itself"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Bes amulet.jpg",
+  "File:Lamashtu plaque Louvre.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-17",
+ "blurb": "A lion's head on a human body, a lioness's paws on a hippopotamus, or a lion reared up on its hind legs.",
+ "region_terms": [
+  {
+   "key": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Nile valley and delta, Predynastic through Roman Egypt"
+  },
+  {
+   "key": "mesopotamia",
+   "name": "Mesopotamia",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Sumer, Akkad, Babylonia, Assyria"
+  },
+  {
+   "key": "nubia-sudan",
+   "name": "Nubia and Sudan",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "iran-persia",
+   "name": "Iran",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "greece-aegean",
+   "name": "Greece and the Aegean",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "bes-amulet",
+   "type": "amulet",
+   "name": "Bes amulet",
+   "as": "the household god Romano reads as a lion rearing on its hind legs in its earliest form",
+   "rel": "carried-by"
+  },
+  {
+   "to": "taweret-amulet",
+   "type": "amulet",
+   "name": "Taweret amulet",
+   "as": "a hippopotamus with a crocodile's tail and a lioness's paws — the sign borrowed onto another animal",
+   "rel": "carried-by"
+  },
+  {
+   "to": "lamashtu-plaque",
+   "type": "amulet",
+   "name": "Lamashtu plaque",
+   "as": "the lion head on the demon rather than on the guard, which is what makes this family two-sided",
+   "rel": "carried-by"
+  },
+  {
+   "to": "pazuzu-head",
+   "type": "amulet",
+   "name": "Pazuzu head",
+   "as": "the Mesopotamian half of the documented contact: five of these were found beside a Bes amulet at Nimrud",
+   "rel": "carried-by"
+  },
+  {
+   "to": "magical-gem",
+   "type": "amulet",
+   "name": "Magical gem",
+   "as": "where the lion head ends up in late antiquity, stacked with a cock's head and serpent legs on the same figure",
+   "rel": "carried-by"
+  },
+  {
+   "to": "tooth-and-claw",
+   "type": "motif",
+   "name": "The tooth and the claw",
+   "as": "the neighbouring sign: this one borrows the predator's face, that one carries the predator's parts",
+   "rel": "parallel"
+  },
+  {
+   "to": "serpent",
+   "type": "motif",
+   "name": "The serpent",
+   "as": "what the lion-headed figure stands on and what its legs turn into on the gems",
+   "rel": "kin"
+  },
+  {
+   "to": "wallis-budge",
+   "type": "person",
+   "name": "E. A. Wallis Budge",
+   "as": "whose description of the Abraxas figure is the reason the lion head on these gems is read as Ra or Mithras",
+   "rel": "person"
+  },
+  {
+   "to": "mesopotamian-apotropaic",
+   "type": "tradition",
+   "name": "Mesopotamian household protection",
+   "as": "the tradition that fixed the lion-headed demon and the lion-parted guard against her",
+   "rel": "tradition"
+  },
+  {
+   "to": "egyptian-amulet-craft",
+   "type": "tradition",
+   "name": "Egyptian amulet craft",
+   "as": "the other tradition in the pair, and the one whose objects turned up in Iran",
+   "rel": "tradition"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-apotropaic-magic",
+   "kind": "encyclopedia",
+   "title": "Apotropaic magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Apotropaic_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-bes",
+   "kind": "encyclopedia",
+   "title": "Bes",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bes",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-taweret",
+   "kind": "encyclopedia",
+   "title": "Taweret",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Taweret",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-lamashtu",
+   "kind": "encyclopedia",
+   "title": "Lamashtu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lamashtu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pazuzu",
+   "kind": "encyclopedia",
+   "title": "Pazuzu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pazuzu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-abraxas",
+   "kind": "encyclopedia",
+   "title": "Abraxas",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Abraxas",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-talisman",
+   "kind": "encyclopedia",
+   "title": "Talisman",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Talisman",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-pazuzu"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-pazuzu"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-apotropaic-magic",
+   "note": "the opening date is inferred from the Middle Kingdom range the source gives for the apotropaic wand, not stated for the lion sign itself"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-pazuzu"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "child-harm",
+   "label": "Harm to a child",
+   "gloss": "harm to an infant or a small child; common across the atlas, though not the largest class in it — see /story/most-of-them-are-for-children/",
+   "who": "Egyptian households, for whom Bes and Taweret were the two deities most often invoked in protective ritual for mothers and children",
+   "quote": "",
+   "source": "s:wp-apotropaic-magic",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "childbirth",
+   "label": "Death in childbirth",
+   "who": "Mesopotamian ritual, which set Pazuzu against Lamashtu to keep a woman from miscarrying",
+   "quote": "",
+   "source": "s:wp-pazuzu",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "the astral-medical text LBAT 1597, which ties lamashtu-disease to the moon in the region of Leo",
+   "quote": "",
+   "source": "s:wp-lamashtu",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "demons",
+   "label": "Demons and night-hags",
+   "who": "Lamashtu's own amulets, worn, attached to the body or garments, or placed near beds and doorways",
+   "quote": "",
+   "source": "s:wp-lamashtu",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "the Sirr al-Asrar's kings' talisman, a crowned man riding a lion, said to keep harm away",
+   "quote": "",
+   "source": "s:wp-talisman",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "terracotta",
+   "label": "Fired clay",
+   "kind": "fired"
+  },
+  {
+   "key": "copper",
+   "label": "Copper and bronze",
+   "kind": "metal"
+  },
+  {
+   "key": "agate",
+   "label": "Agate and onyx",
+   "kind": "stone"
+  },
+  {
+   "key": "glass",
+   "label": "Glass",
+   "kind": "fired"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "cradle",
+   "label": "On a cradle",
+   "group": "placed"
+  },
+  {
+   "key": "grave",
+   "label": "In the grave",
+   "group": "placed",
+   "note": "most surviving ancient amulets are here because somebody was buried in them"
+  }
+ ],
+ "form_fact": {
+  "key": "pendant",
+  "label": "Pendant"
+ },
+ "holding_facts": [],
+ "span": "2040 BCE – 900 CE",
+ "country_names": [
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  },
+  {
+   "iso": "IQ",
+   "name": "Iraq"
+  },
+  {
+   "iso": "IR",
+   "name": "Iran"
+  },
+  {
+   "iso": "SD",
+   "name": "Sudan"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "bes-amulet",
+   "type": "amulet",
+   "name": "Bes amulet",
+   "as": "the sign in his face; James Romano read his earliest form as a lion rearing on its hind legs",
+   "rel": "motif"
+  },
+  {
+   "from": "gorgoneion",
+   "type": "amulet",
+   "name": "Gorgoneion",
+   "as": "the beasts flanking the full Gorgon on the oldest standing Greek temple",
+   "rel": "motif"
+  },
+  {
+   "from": "serpent",
+   "type": "motif",
+   "name": "The serpent",
+   "as": "the other guardian animal set at doorways, and the one Egypt paired Wadjet with as Sekhmet",
+   "rel": "parallel"
+  }
+ ]
+}

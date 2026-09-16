@@ -1,0 +1,556 @@
+{
+ "schema": 1,
+ "id": "hagstone",
+ "type": "amulet",
+ "names": {
+  "name": "Hagstone",
+  "native": "Glain Neidr",
+  "script": "Latin",
+  "lang": "cy",
+  "said": "HAG-stone; the Welsh name is said glyne NAY-dir",
+  "aliases": [
+   "adder stone",
+   "witch stone",
+   "fairy stone",
+   "serpent's egg",
+   "snake's egg",
+   "milpreve",
+   "adderstane",
+   "Gloine nan Druidh",
+   "Hühnergötter"
+  ]
+ },
+ "etymology": {
+  "root": "English hag 'witch' + stone; the parallel English name adder stone comes from the claim that snakes made it. Welsh Glain Neidr is 'snake's gem', Cornish milpreve, Scots adderstane, and northern Scottish Gaelic Gloine nan Druidh 'Druids' glass'. In Germany the same stones are Hühnergötter, 'chicken gods'.",
+  "folk": "Pliny the Elder records the Druids' account: massed snakes make the egg out of slime and spit, and eject it into the air with their hissing. A second folk account has it come from a serpent's head, a third from an adder's sting.",
+  "tier": "cited",
+  "source": "s:wp-adder-stone"
+ },
+ "region": [
+  "britain-ireland",
+  "western-europe",
+  "baltic-slavic"
+ ],
+ "countries": [
+  "GB",
+  "DE",
+  "RU"
+ ],
+ "facets": {
+  "era": "ancient",
+  "status": "living",
+  "portable": "carried",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A stone with a hole worn right through it by water, usually flint, usually glassy. Nobody makes one: a hagstone is found, on a beach or in a field, and a stone holed by human hand does not count. Most are hung on a loop of string or red ribbon and put where the hole can be looked through.",
+  "story": "The oldest account is Roman and second-hand. In Natural History book XXIX, Pliny the Elder reports what the Druids of the Gallic provinces told about the anguinum: snakes twist together in summer, the slime and foam they secrete hardens into an egg, and their hissing throws it into the air, where a man must catch it in a cloak before it touches the ground and then flee on horseback until a river is between him and the snakes. They said it could be tested by setting it in gold and seeing whether it floats upstream. Pliny says he has seen one — round, about the size of a moderate apple, its shell cartilaginous, covered in cup-like marks. He also says what it was carried for, and how that ended: \"The possession of it is marvellously vaunted as ensuring success in law-suits, and a favourable reception with princes\", and a Roman of equestrian rank from the territory of the Vocontii was put to death by Tiberius for having one in his bosom during a trial.\n\nThe English record is about sleep. English folklore collectors record the same use of a holed stone hung over a person or a horse against nightmares, attested from at least the fifteenth century. Reginald Scot printed the cure in The Discoverie of Witchcraft in 1584: hang over the bed \"a stone, which stone hath naturallie such a hole in it, as wherein a string may be put through it, and so be hanged over the diseased or bewitched partie; be it man, woman, or horsse.\" Thomas Blundeville had already written it into a 1565 book on horsemanship, citing an older English writer, with a verse to be written on paper and hung up with the stone.\n\nThe practice did not stop. Edward Lovett, collecting folklore in Surrey and Sussex, reported in 1928 that the favourite objects for warding off nightmares were horseshoes and natural perforated stones, common on the beach at Brighton, and that the stones were usually on a loop of red ribbon or string, \"or are occasionally simply hooked on to one of the knobs of the bedstead.\" A woman in Essex told researchers in 1984: \"I still keep stones with holes in them on my window-sill for luck. I used to pick them up as a child from the beach in South Shields, and all my family still pick them up--because we think they're lucky.\"\n\nThe same stone does other work elsewhere. In Welsh folklore the Glain Neidr are made by a congress of snakes in spring, most auspiciously on May Eve. In Russian folklore the holed stones housed spirits called Kurinyi Bog, the chicken gods, who guarded hens and were set in farmyards against the Kikimora.",
+  "how": "Found, not made. Picked off a beach or out of a ploughed field, strung on string or red ribbon, and hung: over a bed, over a horse, on a door, on a windowsill. Several sources say the stone works best used together with a spoken or written charm about Saint George. Nothing is done to charge it and nothing is recorded about retiring it; a hagstone is kept.",
+  "today": "Still picked up and kept, and sold online and in shops that sell crystals and folk charms. The Hastings legend attached to it is live enough to name: the town is said to be under Crowley's Curse, which compels anyone who has lived there to return, and which can only be broken by taking a stone with a hole through it from Hastings beach."
+ },
+ "dating": {
+  "period": "Roman to the present",
+  "from_year": 1,
+  "to_year": null,
+  "living": true,
+  "label": "first century CE to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-adder-stone",
+  "note": "Dated from Pliny the Elder's account in Natural History book XXIX, which is first-century. The source gives no publication year, so the start is the century, not a year. The English nightmare-charm is attested from at least the fifteenth century and the practice is recorded into the 1980s."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": [
+   "flint",
+   "thread"
+  ],
+  "worn": [
+   "neck",
+   "wall",
+   "door"
+  ],
+  "made_by": "nobody — a stone shaped by human intervention is not counted as one",
+  "inscription": "",
+  "colour": [
+   "grey",
+   "white",
+   "brown"
+  ],
+  "single_use": false,
+  "source": "s:wp-adder-stone",
+  "note": "Pliny describes the one he saw as round and about the size of a moderate apple. That is a description of a Gaulish object he was shown, not a measurement of the flint stones British collectors pick off beaches, so it is not entered as a length."
+ },
+ "against": [
+  {
+   "harm": "lawsuit",
+   "who": "the Druids of the Gallic provinces, as reported by Pliny the Elder",
+   "quote": "The possession of it is marvellously vaunted as ensuring success in law-suits, and a favourable reception with princes",
+   "source": "s:wp-adder-stone",
+   "tier": "cited"
+  },
+  {
+   "harm": "demons",
+   "who": "Reginald Scot, printing the cure for the night-mare in The Discoverie of Witchcraft, 1584",
+   "quote": "hang a stone over the afflicted persons bed, which stone hath naturallie such a hole in it, as wherein a string may be put through it",
+   "source": "s:wp-adder-stone",
+   "tier": "cited",
+   "note": "the mare is the night-hag that sits on a sleeper's chest; the charm is against her, not against bad dreams in the modern sense"
+  },
+  {
+   "harm": "livestock",
+   "who": "Thomas Blundeville, 1565, citing an older English writer, on hanging a naturally holed flint above a horse",
+   "source": "s:wp-adder-stone",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "a woman in Essex, to researchers in 1984",
+   "quote": "I still keep stones with holes in them on my window-sill for luck",
+   "source": "s:wp-adder-stone",
+   "tier": "cited"
+  },
+  {
+   "harm": "house",
+   "who": "Russian folklore, in which the stones housed the Kurinyi Bog and were placed in farmyards against the Kikimora",
+   "source": "s:wp-adder-stone",
+   "tier": "tradition"
+  }
+ ],
+ "kin": [
+  {
+   "to": "rowan-cross",
+   "as": "the other thing a British household hung on the same nail, and the one that had to be cut and bound rather than found",
+   "rel": "parallel"
+  },
+  {
+   "to": "horseshoe",
+   "as": "the object Edward Lovett found beside it on Sussex bedsteads in 1928, doing the same job against the same night",
+   "rel": "parallel"
+  },
+  {
+   "to": "witch-bottle",
+   "as": "the answer when the harm was already inside the house — this stone hangs, that bottle is buried",
+   "rel": "contrast"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the tradition this belongs to, and one of its few objects that costs nothing and is made by nobody",
+   "rel": "tradition"
+  },
+  {
+   "to": "serpent",
+   "as": "the sign in the name: Glain Neidr, snake's egg, from the Druids' account of how it is made",
+   "rel": "motif"
+  },
+  {
+   "to": "edward-lovett",
+   "as": "the collector who recorded these on Brighton beach and on Surrey bedsteads, and who published the red-ribbon detail in 1928",
+   "rel": "person"
+  },
+  {
+   "to": "pitt-rivers-charms",
+   "as": "where English charms of this class sit in a public case, alongside the rowan loops",
+   "rel": "place"
+  },
+  {
+   "to": "worry-stone",
+   "as": "the present-day pocket stone, found the same way and carried for a different reason",
+   "rel": "parallel"
+  },
+  {
+   "to": "eye",
+   "as": "the family this atlas files a hole-you-look-through beside — though no source in this record says the hagstone is an eye, and this record does not say it either",
+   "rel": "parallel"
+  },
+  {
+   "to": "iron",
+   "as": "the metal English folklore trusts against the same harms; the hagstone is the stone answer to the same question",
+   "rel": "contrast"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "worry-stone",
+   "tell": "a hagstone has a hole worn through it by water and is never shaped by hand; a worry stone is a smoothed, dished pebble with no hole"
+  }
+ ],
+ "links": [
+  {
+   "label": "Adder stone — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Adder_stone"
+  }
+ ],
+ "sources": [
+  "s:wp-adder-stone",
+  "s:wp-apotropaic-magic",
+  "s:wp-edward-lovett",
+  "s:wp-iron-in-folklore"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-adder-stone"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "inference",
+    "note": "the present-day trade is reasoned from the practice the source records continuing into the 1980s; the Hastings legend is cited"
+   },
+   "object": {
+    "tier": "cited",
+    "source": "s:wp-adder-stone",
+    "note": "no measurement is entered; the one dimension in the source describes a Gaulish object Pliny was shown"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A stone with a hole worn right through it by water, usually flint, usually glassy. Nobody makes one: a hagstone is found, on a beach or in a field, and a stone holed by human hand does not count.",
+ "region_terms": [
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "western-europe",
+   "name": "Western Europe",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "baltic-slavic",
+   "name": "The Baltic and the Slavic lands",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "rowan-cross",
+   "type": "amulet",
+   "name": "Rowan cross",
+   "as": "the other thing a British household hung on the same nail, and the one that had to be cut and bound rather than found",
+   "rel": "parallel"
+  },
+  {
+   "to": "horseshoe",
+   "type": "amulet",
+   "name": "Horseshoe",
+   "as": "the object Edward Lovett found beside it on Sussex bedsteads in 1928, doing the same job against the same night",
+   "rel": "parallel"
+  },
+  {
+   "to": "witch-bottle",
+   "type": "amulet",
+   "name": "Witch bottle",
+   "as": "the answer when the harm was already inside the house — this stone hangs, that bottle is buried",
+   "rel": "contrast"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "type": "tradition",
+   "name": "European folk apotropaic craft",
+   "as": "the tradition this belongs to, and one of its few objects that costs nothing and is made by nobody",
+   "rel": "tradition"
+  },
+  {
+   "to": "serpent",
+   "type": "motif",
+   "name": "The serpent",
+   "as": "the sign in the name: Glain Neidr, snake's egg, from the Druids' account of how it is made",
+   "rel": "motif"
+  },
+  {
+   "to": "edward-lovett",
+   "type": "person",
+   "name": "Edward Lovett",
+   "as": "the collector who recorded these on Brighton beach and on Surrey bedsteads, and who published the red-ribbon detail in 1928",
+   "rel": "person"
+  },
+  {
+   "to": "pitt-rivers-charms",
+   "type": "place",
+   "name": "The amulet and charm cases, Pitt Rivers Museum",
+   "as": "where English charms of this class sit in a public case, alongside the rowan loops",
+   "rel": "place"
+  },
+  {
+   "to": "worry-stone",
+   "type": "amulet",
+   "name": "Worry stone",
+   "as": "the present-day pocket stone, found the same way and carried for a different reason",
+   "rel": "parallel"
+  },
+  {
+   "to": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "the family this atlas files a hole-you-look-through beside — though no source in this record says the hagstone is an eye, and this record does not say it either",
+   "rel": "parallel"
+  },
+  {
+   "to": "iron",
+   "type": "material",
+   "name": "Iron",
+   "as": "the metal English folklore trusts against the same harms; the hagstone is the stone answer to the same question",
+   "rel": "contrast"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-adder-stone",
+   "kind": "encyclopedia",
+   "title": "Adder stone",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Adder_stone",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-apotropaic-magic",
+   "kind": "encyclopedia",
+   "title": "Apotropaic magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Apotropaic_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-edward-lovett",
+   "kind": "encyclopedia",
+   "title": "Edward Lovett",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Edward_Lovett",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-iron-in-folklore",
+   "kind": "encyclopedia",
+   "title": "Iron in folklore",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Iron_in_folklore",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-adder-stone"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-adder-stone"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-adder-stone"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "the present-day trade is reasoned from the practice the source records continuing into the 1980s; the Hastings legend is cited"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-adder-stone"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-adder-stone"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-adder-stone",
+   "note": "no measurement is entered; the one dimension in the source describes a Gaulish object Pliny was shown"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "lawsuit",
+   "label": "A court case or an official",
+   "who": "the Druids of the Gallic provinces, as reported by Pliny the Elder",
+   "quote": "The possession of it is marvellously vaunted as ensuring success in law-suits, and a favourable reception with princes",
+   "source": "s:wp-adder-stone",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "demons",
+   "label": "Demons and night-hags",
+   "who": "Reginald Scot, printing the cure for the night-mare in The Discoverie of Witchcraft, 1584",
+   "quote": "hang a stone over the afflicted persons bed, which stone hath naturallie such a hole in it, as wherein a string may be put through it",
+   "source": "s:wp-adder-stone",
+   "tier": "cited",
+   "note": "the mare is the night-hag that sits on a sleeper's chest; the charm is against her, not against bad dreams in the modern sense"
+  },
+  {
+   "key": "livestock",
+   "label": "Harm to livestock",
+   "who": "Thomas Blundeville, 1565, citing an older English writer, on hanging a naturally holed flint above a horse",
+   "quote": "",
+   "source": "s:wp-adder-stone",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "a woman in Essex, to researchers in 1984",
+   "quote": "I still keep stones with holes in them on my window-sill for luck",
+   "source": "s:wp-adder-stone",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "house",
+   "label": "Harm to a house or a field",
+   "who": "Russian folklore, in which the stones housed the Kurinyi Bog and were placed in farmyards against the Kikimora",
+   "quote": "",
+   "source": "s:wp-adder-stone",
+   "tier": "tradition",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "flint",
+   "label": "Flint",
+   "kind": "stone"
+  },
+  {
+   "key": "thread",
+   "label": "Thread and cord",
+   "kind": "textile",
+   "note": "red thread runs from the Mediterranean to Mongolia"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "pendant",
+  "label": "Pendant"
+ },
+ "holding_facts": [],
+ "span": "1 CE to now",
+ "country_names": [
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "DE",
+   "name": "Germany"
+  },
+  {
+   "iso": "RU",
+   "name": "Russia"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "concealed-shoe",
+   "type": "amulet",
+   "name": "Concealed shoe",
+   "as": "the charm hung where visitors could see it, against the one built in where nobody could",
+   "rel": "contrast"
+  },
+  {
+   "from": "game-day-charm",
+   "type": "amulet",
+   "name": "Game-day charm",
+   "as": "the other charm here that is picked up rather than made",
+   "rel": "parallel"
+  },
+  {
+   "from": "horseshoe",
+   "type": "amulet",
+   "name": "Horseshoe",
+   "as": "what Edward Lovett found hanging beside it on Sussex bedsteads in 1928, against the same nightmares",
+   "rel": "parallel"
+  },
+  {
+   "from": "rowan-cross",
+   "type": "amulet",
+   "name": "Rowan cross",
+   "as": "what hung on the next nail, found rather than cut, and not renewed each year",
+   "rel": "parallel"
+  },
+  {
+   "from": "witch-bottle",
+   "type": "amulet",
+   "name": "Witch bottle",
+   "as": "what hung visibly over the bed while this was hidden under the hearth",
+   "rel": "contrast"
+  },
+  {
+   "from": "worry-stone",
+   "type": "amulet",
+   "name": "Worry stone",
+   "as": "the other charm in this atlas that is picked up rather than made",
+   "rel": "parallel"
+  },
+  {
+   "from": "european-folk-apotropaic",
+   "type": "tradition",
+   "name": "European folk apotropaic craft",
+   "as": "the object that shows what the tradition costs — a stone with a hole, found not bought, made by nobody",
+   "rel": "carries"
+  },
+  {
+   "from": "pitt-rivers-charms",
+   "type": "place",
+   "name": "The amulet and charm cases, Pitt Rivers Museum",
+   "as": "the perforated pebble on a string that sits at the front of the sympathetic magic material",
+   "rel": "carries"
+  },
+  {
+   "from": "wellcome-lovett",
+   "type": "place",
+   "name": "The Lovett charms at Wellcome Collection",
+   "as": "the naturally perforated stone that runs all through his English material",
+   "rel": "carries"
+  }
+ ]
+}

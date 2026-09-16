@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "id": "kathmandu-thamel",
+ "type": "place",
+ "names": {
+  "name": "Thamel",
+  "native": "ठमेल",
+  "script": "Devanagari",
+  "lang": "ne",
+  "said": "TA-mel",
+  "aliases": ["Tha Bahi", "Thamel, Kathmandu"]
+ },
+ "region": ["himalaya-tibet", "south-asia"],
+ "countries": ["NP"],
+ "facets": {"kind": "market", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A commercial neighbourhood of narrow alleys in Kathmandu, about 1.4 kilometres north of Durbar Square. Shops run wall to wall: trekking gear, handicrafts, woollens, music, groceries, guest houses. It is the district a visitor to Nepal buys things in, which makes it the counter across which most Himalayan protective objects leave the country.",
+  "story": "The name comes from Tha Bahi, which places the district's root in the Newar community, the indigenous people of the Kathmandu Valley. Thamel has been the centre of Kathmandu's tourist trade for over four decades, since the years of the overland hippie route, and it is now the valley's densest concentration of shops aimed at outsiders.\n\nWhat the shops stock is where this atlas has to be careful. The encyclopedia's account lists food, trekking gear, music, handicrafts, souvenirs and woollens, and itemises no charm. *Inference —* prayer flags, rudraksha strings, dzi beads and gau boxes are what a Himalayan souvenir lane carries, and this project has read no survey of Thamel's stalls, so the objects below are linked as kin of the district rather than asserted as stock.\n\nWhat can be cited is where the materials come from. Rudraksha — the seed of Elaeocarpus ganitrus, strung and counted by Shaivites — is cultivated in the Himalayan foothills, and the most popular varieties are found around Kathmandu and the Arun Valley. Printed cloth prayer flags reached Nepal and Tibet through the Indian monk Atisha, who died in 1054. Dzi beads are found in Tibet and in neighbouring Nepal, Bhutan, Ladakh and Sikkim, and Tibetans treat them as hereditary gems rather than as purchases.",
+  "today": "Trading, and the pre-base camp for mountaineering: gear shops, money changers, agents, guest houses. No day is marked below, because the alleys keep shop hours and nobody publishes them."
+ },
+ "dating": {
+  "period": "modern",
+  "from_year": 1970,
+  "to_year": null,
+  "living": true,
+  "label": "c. 1970s to now, as a tourist district",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-thamel",
+  "note": "Dated from the statement that Tha Bahi has been the centre of Kathmandu's tourist industry for over four decades, starting in the hippie years. The Newar settlement behind the name is older and undated here."
+ },
+ "geo": {"lat": 27.71516, "lon": 85.31005, "precision": "town", "source": "Wikidata item Q2467967 (Thamel), coordinate location P625, queried 2026-09-16"},
+ "address": {"city": "Kathmandu", "admin": "Bagmati", "country": "NP"},
+ "kin": [
+  {"to": "rudraksha", "as": "the seed whose best-known varieties grow in this valley and the Arun, strung for counting before it is ever sold to a visitor", "rel": "carries"},
+  {"to": "lungta-flag", "as": "the printed cloth flag Atisha brought to Nepal and Tibet, hung on passes above this city", "rel": "carries"},
+  {"to": "dzi-bead", "as": "the Himalayan agate a shop here will offer and a Tibetan family would not sell; the difference is the whole argument", "rel": "carries"},
+  {"to": "gau-box", "as": "the amulet case the Himalaya wears at the throat, made in metal by the valley's own smiths", "rel": "carries"},
+  {"to": "tibetan-protection", "as": "the tradition most of the objects in these alleys belong to", "rel": "tradition"},
+  {"to": "barkhor-lhasa", "as": "the pilgrim circuit on the other side of the range, where the same objects are bought by the people who use them", "rel": "contrast"},
+  {"to": "the-fake-market", "as": "the long read on copies, which a souvenir lane selling a hereditary object cannot dodge", "rel": "story"}
+ ],
+ "tags": [
+  {"tag": "market", "source": "s:wp-thamel", "tier": "cited", "note": "narrow alleys of shops and vendors selling handicrafts, souvenirs, gear and woollens"}
+ ],
+ "links": [{"label": "Thamel — Wikipedia", "url": "https://en.wikipedia.org/wiki/Thamel"}],
+ "sources": ["s:wp-thamel", "s:wp-rudraksha", "s:wp-prayer-flag", "s:wp-dzi-bead"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-thamel"},
+  "fields": {
+   "geo": {"tier": "harvested", "note": "Wikidata P625 for Thamel, queried 2026-09-16; the district is a quarter, so precision is town"},
+   "text.story": {"tier": "cited", "source": "s:wp-thamel", "note": "the stock of the shops is not sourced and is marked as inference where it appears"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Thamel Kathmandu.jpg", "File:Prayer flags Kathmandu.jpg"],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

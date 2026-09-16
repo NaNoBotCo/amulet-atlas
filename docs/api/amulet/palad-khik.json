@@ -1,0 +1,456 @@
+{
+ "schema": 1,
+ "id": "palad-khik",
+ "type": "amulet",
+ "names": {
+  "name": "Palad khik",
+  "native": "ปลัดขิก",
+  "script": "Thai",
+  "lang": "th",
+  "said": "pā-làt kʰìk",
+  "aliases": [
+   "palakhik",
+   "palat khik",
+   "honorable surrogate penis"
+  ]
+ },
+ "etymology": {
+  "root": "Thai ปลัดขิก; the phrase is rendered in English as 'honorable surrogate penis' — palad, a deputy or stand-in, and khik",
+  "note": "The name states the function: it stands in for the wearer's own, and takes what is aimed at him.",
+  "tier": "cited",
+  "source": "s:wp-palad-khik"
+ },
+ "region": [
+  "mainland-sea"
+ ],
+ "countries": [
+  "TH"
+ ],
+ "facets": {
+  "era": "medieval",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A carved phallus, from a couple of inches to several feet long, in wood, metal, bone, horn or ivory, usually with sacred inscriptions cut into it. The small ones are worn by men and boys on a cord round the waist, under the clothes, hanging to one side of the wearer's own. Wearing several at once is ordinary. The large ones are not worn at all: they stand in shops, restaurants and other premises, often by the till. Cast metal ones do not always carry the inscriptions; some carry animal figures instead.",
+  "story": "The form came from India, tied to Shiva, who is represented by the linga; the Cham carried it into Southeast Asia and it stayed. Where the linga is set with a yoni, the pair stands for creation and destruction together, and the Chinese yang is named as the comparable idea. As a phallic representation of Shiva, the palad khik is also an animist fertility sign. In Thailand a penis amulet hanging in a convenience store or a restaurant, or sold by an older woman on the street, is unremarkable.\n\nWho wears one and why is documented, and it is not what the outside write-ups usually make of it. Men wear them for three named reasons: to attract women, for luck in gambling, and for protection from dangerous objects — bullets and knives are the two the source names. Women in Thailand carry one in a purse against rape and mugging. Shopkeepers set one by the cash register to protect the business and to bring in sales.\n\nThe rule that tells you what kind of object this is has nothing to do with sex. A palad khik can be taken into places counted as lowly or unclean — a bar, a gambling house, a brothel. An amulet carrying the Buddha cannot. It is the charm you can take where the Buddha may not go, and that, not the shape, is its place in the Thai kit.",
+  "how": "Carved by monks who specialise in the form. Cutting the sacred inscriptions is treated as a rite in itself and can take days. The piece is then empowered by the repetition of incantations Thais call Kata Bucha, from the Sanskrit ghata puja; which kata depends on the maker's lineage and school. Worn on a waist cord under the clothing, off-centre; carried in a bag; or stood by a till. It is not renewed on a cycle and not retired.",
+  "today": "Still carved, still sold, still hanging by tills in Thailand as of the accounts this project has read — and routinely written up abroad as a curiosity, which is a fact about the writers rather than about the charm. This atlas describes it the way the trade does: an object with a stated function, a named maker, a lineage of incantation, and a waist cord."
+ },
+ "dating": {
+  "period": "not dated in this project's sources",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "undated: brought from India via the Cham, still worn now",
+  "method": "undated",
+  "tier": "cited",
+  "source": "s:wp-palad-khik",
+  "note": "The source traces the form to India and to transmission through the Cham without giving a single year. This project prints no year rather than a guess, which means the record carries a blank on the timeline and says so."
+ },
+ "object": {
+  "form": "figurine",
+  "materials": [
+   "wood",
+   "copper",
+   "bone",
+   "tooth"
+  ],
+  "worn": [
+   "waist",
+   "pocket",
+   "shop"
+  ],
+  "made_by": "monks who specialise in them; the empowering incantation belongs to the maker's lineage and school",
+  "inscription": "sacred inscriptions cut into the piece; cast metal examples may carry animal figures instead",
+  "script": "Khom Pali",
+  "single_use": false,
+  "source": "s:wp-palad-khik",
+  "note": "Published size range: a few inches to several feet. Materials named are wood, metal, bone, horn and ivory; this atlas has no key for horn as a material, so it is named here instead."
+ },
+ "against": [
+  {
+   "harm": "weapons",
+   "who": "Thai men who wear one, for protection from dangerous objects — the source names bullets and knives",
+   "source": "s:wp-palad-khik",
+   "tier": "cited"
+  },
+  {
+   "harm": "attraction",
+   "who": "Thai men, who wear several at once in hope of attracting women and of luck in gambling; and shopkeepers, who display one at the register for trade",
+   "source": "s:wp-palad-khik",
+   "tier": "cited"
+  },
+  {
+   "harm": "theft",
+   "who": "women in Thailand who carry one in a purse; the source names mugging and rape",
+   "source": "s:wp-palad-khik",
+   "tier": "cited"
+  },
+  {
+   "harm": "infertility",
+   "who": "the animist reading of the form as a fertility sign, through the linga of Shiva",
+   "source": "s:wp-palad-khik",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "phra-khrueang",
+   "as": "the amulet it is the complement of: a Buddha tablet cannot be taken into a bar or a casino, and this can",
+   "rel": "contrast"
+  },
+  {
+   "to": "takrut",
+   "as": "the other non-Buddha charm on the same waist cord, and the same rule about what may hang below the belt",
+   "rel": "kin"
+  },
+  {
+   "to": "phallic-sign",
+   "as": "the sign it is — the linga of Shiva, carried at the hip",
+   "rel": "motif"
+  },
+  {
+   "to": "fascinum",
+   "as": "Rome's version of the same intervention: a phallus hung on a child to take the look meant for him",
+   "rel": "parallel"
+  },
+  {
+   "to": "cornicello",
+   "as": "Naples' answer to the same problem in a different shape — a horn cut in coral rather than a linga cut in wood",
+   "rel": "parallel"
+  },
+  {
+   "to": "thai-wicha",
+   "as": "the craft it belongs to, whose incantations run by lineage rather than by book",
+   "rel": "tradition"
+  },
+  {
+   "to": "tha-phrachan",
+   "as": "the Bangkok market that sells it, from behind the counter as often as from the tray",
+   "rel": "place"
+  },
+  {
+   "to": "wearing-hidden",
+   "as": "how it is worn: under the clothes, on a cord, off-centre",
+   "rel": "practice"
+  },
+  {
+   "to": "dolhareubang",
+   "as": "the other charm in this atlas whose fertility claim rests on a shape read as phallic — Jeju's stone grandfather and its worn nose",
+   "rel": "parallel"
+  }
+ ],
+ "links": [
+  {
+   "label": "Palad khik — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Palad_khik"
+  }
+ ],
+ "sources": [
+  "s:wp-palad-khik",
+  "s:wp-thai-buddha-amulet",
+  "s:wp-takrut"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-palad-khik"
+  },
+  "fields": {
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-palad-khik",
+    "note": "no year is published in this project's sources, so the record carries none"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "the observation about outside write-ups is this project's, and is marked as such rather than sourced"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Palad khik.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A carved phallus, from a couple of inches to several feet long, in wood, metal, bone, horn or ivory, usually with sacred inscriptions cut into it.",
+ "region_terms": [
+  {
+   "key": "mainland-sea",
+   "name": "Mainland Southeast Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "phra-khrueang",
+   "type": "amulet",
+   "name": "Phra khrueang",
+   "as": "the amulet it is the complement of: a Buddha tablet cannot be taken into a bar or a casino, and this can",
+   "rel": "contrast"
+  },
+  {
+   "to": "takrut",
+   "type": "amulet",
+   "name": "Takrut",
+   "as": "the other non-Buddha charm on the same waist cord, and the same rule about what may hang below the belt",
+   "rel": "kin"
+  },
+  {
+   "to": "phallic-sign",
+   "type": "motif",
+   "name": "The phallus",
+   "as": "the sign it is — the linga of Shiva, carried at the hip",
+   "rel": "motif"
+  },
+  {
+   "to": "fascinum",
+   "type": "amulet",
+   "name": "Fascinum",
+   "as": "Rome's version of the same intervention: a phallus hung on a child to take the look meant for him",
+   "rel": "parallel"
+  },
+  {
+   "to": "cornicello",
+   "type": "amulet",
+   "name": "Cornicello",
+   "as": "Naples' answer to the same problem in a different shape — a horn cut in coral rather than a linga cut in wood",
+   "rel": "parallel"
+  },
+  {
+   "to": "thai-wicha",
+   "type": "tradition",
+   "name": "Thai wicha",
+   "as": "the craft it belongs to, whose incantations run by lineage rather than by book",
+   "rel": "tradition"
+  },
+  {
+   "to": "tha-phrachan",
+   "type": "place",
+   "name": "Tha Phrachan amulet market",
+   "as": "the Bangkok market that sells it, from behind the counter as often as from the tray",
+   "rel": "place"
+  },
+  {
+   "to": "wearing-hidden",
+   "type": "practice",
+   "name": "Wearing hidden",
+   "as": "how it is worn: under the clothes, on a cord, off-centre",
+   "rel": "practice"
+  },
+  {
+   "to": "dolhareubang",
+   "type": "amulet",
+   "name": "Dol hareubang",
+   "as": "the other charm in this atlas whose fertility claim rests on a shape read as phallic — Jeju's stone grandfather and its worn nose",
+   "rel": "parallel"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-palad-khik",
+   "kind": "encyclopedia",
+   "title": "Palad khik",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Palad_khik",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-thai-buddha-amulet",
+   "kind": "encyclopedia",
+   "title": "Thai Buddha amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thai_Buddha_amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-takrut",
+   "kind": "encyclopedia",
+   "title": "Takrut",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Takrut",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-palad-khik"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-palad-khik"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-palad-khik"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "the observation about outside write-ups is this project's, and is marked as such rather than sourced"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-palad-khik"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-palad-khik",
+   "note": "no year is published in this project's sources, so the record carries none"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-palad-khik"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "weapons",
+   "label": "Blades and bullets",
+   "gloss": "invulnerability charms; reported, never recommended",
+   "who": "Thai men who wear one, for protection from dangerous objects — the source names bullets and knives",
+   "quote": "",
+   "source": "s:wp-palad-khik",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "attraction",
+   "label": "Attracting custom, luck or love",
+   "gloss": "the charm that pulls rather than blocks",
+   "who": "Thai men, who wear several at once in hope of attracting women and of luck in gambling; and shopkeepers, who display one at the register for trade",
+   "quote": "",
+   "source": "s:wp-palad-khik",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "theft",
+   "label": "Theft",
+   "who": "women in Thailand who carry one in a purse; the source names mugging and rape",
+   "quote": "",
+   "source": "s:wp-palad-khik",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "infertility",
+   "label": "Infertility",
+   "who": "the animist reading of the form as a fertility sign, through the linga of Shiva",
+   "quote": "",
+   "source": "s:wp-palad-khik",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "wood",
+   "label": "Wood",
+   "kind": "plant"
+  },
+  {
+   "key": "copper",
+   "label": "Copper and bronze",
+   "kind": "metal"
+  },
+  {
+   "key": "bone",
+   "label": "Bone and ivory",
+   "kind": "organic"
+  },
+  {
+   "key": "tooth",
+   "label": "Tooth, tusk and claw",
+   "kind": "organic"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "waist",
+   "label": "At the waist",
+   "group": "body"
+  },
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  },
+  {
+   "key": "shop",
+   "label": "At the till",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "figurine",
+  "label": "Figurine"
+ },
+ "holding_facts": [],
+ "span": "undated",
+ "country_names": [
+  {
+   "iso": "TH",
+   "name": "Thailand"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "phra-khrueang",
+   "type": "amulet",
+   "name": "Phra khrueang",
+   "as": "the other Thai charm on the same tray, and the one that may be carried into a bar or a casino where this may not",
+   "rel": "contrast"
+  },
+  {
+   "from": "thai-wicha",
+   "type": "tradition",
+   "name": "Thai wicha",
+   "as": "the piece of the kit that can go where the Buddha may not — a bar, a gambling house, a brothel",
+   "rel": "carries"
+  },
+  {
+   "from": "phallic-sign",
+   "type": "motif",
+   "name": "The phallus",
+   "as": "Thailand's carved phallus, worn at the waist, with its own tradition behind it and no line of descent from Rome that this project can show",
+   "rel": "parallel"
+  },
+  {
+   "from": "bone-ivory",
+   "type": "material",
+   "name": "Bone and ivory",
+   "as": "carved from wood, metal, bone, horn or ivory by monks who specialise in it",
+   "rel": "carried-by"
+  },
+  {
+   "from": "tha-phrachan",
+   "type": "place",
+   "name": "Tha Phrachan amulet market",
+   "as": "also sold here, and the one stall-holders are likeliest to keep behind the counter",
+   "rel": "carries"
+  }
+ ]
+}

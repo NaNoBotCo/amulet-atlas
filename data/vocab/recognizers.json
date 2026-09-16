@@ -1,0 +1,35 @@
+{
+ "note": "Who has formally recognised a practice or a place. A recognition is counted once per recognizer. The count measures attention paid; it is never this project's ranking.",
+ "entries": [
+  {
+   "key": "unesco-ich",
+   "label": "UNESCO",
+   "what": "inscribed on a list of intangible cultural heritage",
+   "url": "https://ich.unesco.org/"
+  },
+  {
+   "key": "national-heritage",
+   "label": "A national heritage register",
+   "what": "listed by a state body",
+   "url": ""
+  },
+  {
+   "key": "museum-exhibition",
+   "label": "A museum exhibition",
+   "what": "a named show built around the practice",
+   "url": ""
+  },
+  {
+   "key": "academic-monograph",
+   "label": "An academic monograph",
+   "what": "a book-length study, named",
+   "url": ""
+  },
+  {
+   "key": "living-treasure",
+   "label": "A living-treasure designation",
+   "what": "a named maker recognised by a state programme",
+   "url": ""
+  }
+ ]
+}

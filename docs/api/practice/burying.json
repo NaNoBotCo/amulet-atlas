@@ -1,0 +1,670 @@
+{
+ "schema": 1,
+ "id": "burying",
+ "type": "practice",
+ "names": {
+  "name": "Burying",
+  "aliases": [
+   "putting it in the ground",
+   "hiding it in the fabric of a house",
+   "spiritual midden"
+  ],
+  "said": "out of sight and meant to stay there"
+ },
+ "region": [
+  "britain-ireland",
+  "north-america",
+  "western-europe",
+  "greece-aegean",
+  "rome-italy",
+  "mesopotamia",
+  "korea",
+  "balkans"
+ ],
+ "countries": [
+  "GB",
+  "US",
+  "BE",
+  "IE",
+  "GR",
+  "IT",
+  "IQ",
+  "IR",
+  "KR",
+  "BG"
+ ],
+ "facets": {
+  "stage": "dispose",
+  "era": "ancient",
+  "status": "living"
+ },
+ "text": {
+  "what": "Putting a charm in the ground and leaving it. Under a hearth, at the far corner of a property, in the threshold, in a well, in a wall. Some of these objects are working while buried and stop if disturbed; others are being got rid of. Archaeologists call the hidden caches spiritual middens, and they are the reason a great deal of this material survives at all.",
+  "story": "The English witch bottle is the clearest case of burial as the working position. Joseph Glanvill's Saducismus Triumphatus of 1681 records an old man's advice to a Suffolk household: put the wife's urine in a bottle with pins, needles and nails, cork it and set it by the fire — and when the cork blew out and that failed, bury it in the earth instead, which is what the account says worked. Folk practice holds the bottle to be active as long as it stays hidden and unbroken, and people went to trouble to hide them: bottles under fireplaces have turned up only after the rest of the building had gone.\n\nThe finds carry dates and names. Marshall Becker identified the first American witch bottle in an archaeological context, the Essington bottle, recovered on Great Tinicum Island in Delaware County, Pennsylvania. A mid-nineteenth to early twentieth-century enslaved or tenant site in Dorchester County, Maryland, produced a buried bottle whose cork bristled with straight pins. In 2016 a bottle full of nails came out of the hearth of a Civil War site in Virginia. A glass bottle found buried in a threshold in Trelissick, Cornwall, was analysed at Loughborough University and found to hold urine, a little alcohol and one human hair, with brass pins dating from the late 1840s and an ostracod. In 2020 a sixteenth-century jug turned up during the renovation of the De Zwarte Ruiter pub in Turnhout, Belgium.\n\nThe Greek and Roman world buried to deliver. Curse tablets were rolled, folded or pierced with nails and then put beneath the ground — buried in graves or tombs, thrown into wells or pools, put in underground sanctuaries or nailed to temple walls — and the ones in graves were often addressed through the dead person whose grave it was, usually somebody who had died young or violently. Mesopotamian incantation bowls were buried face down under the threshold, in courtyards, in the corners of the homes of the recently dead and in cemeteries. In Egypt, execration texts naming enemies were written on clay figurines or pottery, then smashed and buried beneath a building under construction, so that the names were symbolically smothered, or buried in a cemetery.\n\nBurial is also how some traditions end a charm. In Ireland a discarded Brigid's cross was burned or buried, and burial was preferred because of Brigid's associations with agriculture. In Korea, a mudang who does not want a relative to inherit the vocation may have their ritual gear burned or buried at their death, which severs the connection between their personal deities and the surviving family. A Bulgarian martenitsa can be put under a stone rather than tied to a tree, and whichever creature is closest to it the next day reads the year.\n\n*Inference —* burial is why the record is shaped the way it is. A charm hidden under a hearth was meant to be permanent and to be unseen, so it survives and it is undocumented; the finder is usually a builder, and the date usually comes from the bottle rather than from anyone's account of putting it there.",
+  "how": "Dig at the place the tradition specifies — hearth, threshold, far corner, grave, well, under a wall going up — put the object in, close the ground, and say nothing. In the counter-magic cases the object stays there and stays whole; in the disposal cases it does not matter what happens to it afterwards.",
+  "today": "Still done, and mostly found by accident. Witch bottles continue to be buried at the corner of a property or under a hearth in present folk practice, and fewer than a dozen probable examples have been identified in the United States to date. Objects turn up in renovations across England, Belgium and the American northeast, which is why the reporting is patchy and the dating comes from the glass."
+ },
+ "dating": {
+  "period": "early modern Europe to the present; far older in the Mediterranean and Mesopotamia",
+  "from_year": 1501,
+  "to_year": null,
+  "living": true,
+  "label": "c. 1500s to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-witch-bottle",
+  "note": "Dated from the statement that the witch-bottle tradition has been dated at least to the sixteenth century, with the earliest surviving written mention in England in 1681. Buried curse tablets and incantation bowls are much older; the bowls are dated in these sources to the sixth to eighth centuries CE and the tablets are not given a year here."
+ },
+ "object": {
+  "form": "packet",
+  "materials": [
+   "glass",
+   "terracotta",
+   "lead",
+   "iron",
+   "leather"
+  ],
+  "worn": [
+   "foundation",
+   "hearth",
+   "grave",
+   "field"
+  ],
+  "made_by": "in the English case, a white witch or folk healer prepared the bottle; elsewhere the household, a scribe, or a professional writer of tablets",
+  "single_use": true,
+  "source": "s:wp-witch-bottle"
+ },
+ "against": [
+  {
+   "harm": "witchcraft",
+   "who": "English and American folk practice, which treats the buried bottle as drawing in and trapping harm aimed at its owner",
+   "source": "s:wp-witch-bottle",
+   "tier": "cited"
+  },
+  {
+   "harm": "curse",
+   "who": "the writers of Greek and Roman defixiones, who buried the lead to hand the target to the gods below",
+   "source": "s:wp-curse-tablet",
+   "tier": "cited"
+  },
+  {
+   "harm": "demons",
+   "who": "the users of Mesopotamian incantation bowls, buried face down under thresholds and in the corners of houses",
+   "source": "s:wp-incantation-bowl",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "Korean mudang, whose gear is burned or buried at death to cut their deities off from the family",
+   "source": "s:wp-korean-shamanism",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "witch-bottle",
+   "as": "the charm whose working position is underground — active while hidden and unbroken",
+   "rel": "carried-by"
+  },
+  {
+   "to": "curse-tablet",
+   "as": "lead folded and put in a grave or a well, so that the dead carry the message",
+   "rel": "carried-by"
+  },
+  {
+   "to": "incantation-bowl",
+   "as": "buried face down under the threshold, with the writing spiralling inward",
+   "rel": "carried-by"
+  },
+  {
+   "to": "concealed-shoe",
+   "as": "the other thing found in the fabric of a house, and the commonest of them all",
+   "rel": "carried-by"
+  },
+  {
+   "to": "martenitsa",
+   "as": "put under a stone at the end of its month, to be read by whatever creature is nearest it",
+   "rel": "carried-by"
+  },
+  {
+   "to": "foundation-deposit",
+   "as": "burial done deliberately at the start of a building rather than into an existing one",
+   "rel": "parallel"
+  },
+  {
+   "to": "grave-deposit",
+   "as": "the same verb pointed at a person rather than a place",
+   "rel": "parallel"
+  },
+  {
+   "to": "burning-retirement",
+   "as": "the other end for a charm, and the one Irish practice weighs against burial",
+   "rel": "contrast"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the tradition that filled English hearths and thresholds with this material",
+   "rel": "tradition"
+  },
+  {
+   "to": "the-charm-in-the-wall",
+   "as": "the long read that follows what builders find when they take a house apart",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Witch bottle — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Witch_bottle"
+  },
+  {
+   "label": "Curse tablet — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Curse_tablet"
+  }
+ ],
+ "sources": [
+  "s:wp-witch-bottle",
+  "s:wp-curse-tablet",
+  "s:wp-incantation-bowl",
+  "s:wp-concealed-shoes",
+  "s:wp-korean-shamanism",
+  "s:wp-brigid-s-cross",
+  "s:wp-martenitsa",
+  "s:wp-magic-supernatural"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-witch-bottle"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-witch-bottle",
+    "note": "the closing paragraph about the shape of the record is this project's reading and is marked where it appears"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Witch bottle Bellarmine.jpg",
+  "File:Incantation bowl.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Putting a charm in the ground and leaving it. Under a hearth, at the far corner of a property, in the threshold, in a well, in a wall.",
+ "region_terms": [
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "western-europe",
+   "name": "Western Europe",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "greece-aegean",
+   "name": "Greece and the Aegean",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "mesopotamia",
+   "name": "Mesopotamia",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Sumer, Akkad, Babylonia, Assyria"
+  },
+  {
+   "key": "korea",
+   "name": "Korea",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "balkans",
+   "name": "The Balkans",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "witch-bottle",
+   "type": "amulet",
+   "name": "Witch bottle",
+   "as": "the charm whose working position is underground — active while hidden and unbroken",
+   "rel": "carried-by"
+  },
+  {
+   "to": "curse-tablet",
+   "type": "amulet",
+   "name": "Curse tablet",
+   "as": "lead folded and put in a grave or a well, so that the dead carry the message",
+   "rel": "carried-by"
+  },
+  {
+   "to": "incantation-bowl",
+   "type": "amulet",
+   "name": "Incantation bowl",
+   "as": "buried face down under the threshold, with the writing spiralling inward",
+   "rel": "carried-by"
+  },
+  {
+   "to": "concealed-shoe",
+   "type": "amulet",
+   "name": "Concealed shoe",
+   "as": "the other thing found in the fabric of a house, and the commonest of them all",
+   "rel": "carried-by"
+  },
+  {
+   "to": "martenitsa",
+   "type": "amulet",
+   "name": "Martenitsa",
+   "as": "put under a stone at the end of its month, to be read by whatever creature is nearest it",
+   "rel": "carried-by"
+  },
+  {
+   "to": "foundation-deposit",
+   "type": "practice",
+   "name": "Foundation deposit",
+   "as": "burial done deliberately at the start of a building rather than into an existing one",
+   "rel": "parallel"
+  },
+  {
+   "to": "grave-deposit",
+   "type": "practice",
+   "name": "Grave deposit",
+   "as": "the same verb pointed at a person rather than a place",
+   "rel": "parallel"
+  },
+  {
+   "to": "burning-retirement",
+   "type": "practice",
+   "name": "Burning at retirement",
+   "as": "the other end for a charm, and the one Irish practice weighs against burial",
+   "rel": "contrast"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "type": "tradition",
+   "name": "European folk apotropaic craft",
+   "as": "the tradition that filled English hearths and thresholds with this material",
+   "rel": "tradition"
+  },
+  {
+   "to": "the-charm-in-the-wall",
+   "type": "story",
+   "name": "The charm in the wall",
+   "as": "the long read that follows what builders find when they take a house apart",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-witch-bottle",
+   "kind": "encyclopedia",
+   "title": "Witch bottle",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Witch_bottle",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-curse-tablet",
+   "kind": "encyclopedia",
+   "title": "Curse tablet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Curse_tablet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-incantation-bowl",
+   "kind": "encyclopedia",
+   "title": "Incantation bowl",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Incantation_bowl",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-concealed-shoes",
+   "kind": "encyclopedia",
+   "title": "Concealed shoes",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Concealed_shoes",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-korean-shamanism",
+   "kind": "encyclopedia",
+   "title": "Korean shamanism",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Korean_shamanism",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-brigid-s-cross",
+   "kind": "encyclopedia",
+   "title": "Brigid's cross",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Brigid%27s_cross",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-martenitsa",
+   "kind": "encyclopedia",
+   "title": "Martenitsa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Martenitsa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-magic-supernatural",
+   "kind": "encyclopedia",
+   "title": "Magic (supernatural)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Magic_(supernatural)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-witch-bottle"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-witch-bottle",
+   "note": "the closing paragraph about the shape of the record is this project's reading and is marked where it appears"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-witch-bottle"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-witch-bottle"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-witch-bottle"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-witch-bottle"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "witchcraft",
+   "label": "Another person's sorcery",
+   "who": "English and American folk practice, which treats the buried bottle as drawing in and trapping harm aimed at its owner",
+   "quote": "",
+   "source": "s:wp-witch-bottle",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "curse",
+   "label": "A curse already laid",
+   "who": "the writers of Greek and Roman defixiones, who buried the lead to hand the target to the gods below",
+   "quote": "",
+   "source": "s:wp-curse-tablet",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "demons",
+   "label": "Demons and night-hags",
+   "who": "the users of Mesopotamian incantation bowls, buried face down under thresholds and in the corners of houses",
+   "quote": "",
+   "source": "s:wp-incantation-bowl",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "Korean mudang, whose gear is burned or buried at death to cut their deities off from the family",
+   "quote": "",
+   "source": "s:wp-korean-shamanism",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "glass",
+   "label": "Glass",
+   "kind": "fired"
+  },
+  {
+   "key": "terracotta",
+   "label": "Fired clay",
+   "kind": "fired"
+  },
+  {
+   "key": "lead",
+   "label": "Lead",
+   "kind": "metal"
+  },
+  {
+   "key": "iron",
+   "label": "Iron",
+   "kind": "metal",
+   "note": "iron itself is the charm in a great many places"
+  },
+  {
+   "key": "leather",
+   "label": "Leather and hide",
+   "kind": "organic"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "foundation",
+   "label": "In the foundations",
+   "group": "placed"
+  },
+  {
+   "key": "hearth",
+   "label": "At the hearth",
+   "group": "placed"
+  },
+  {
+   "key": "grave",
+   "label": "In the grave",
+   "group": "placed",
+   "note": "most surviving ancient amulets are here because somebody was buried in them"
+  },
+  {
+   "key": "field",
+   "label": "In a field",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "packet",
+  "label": "Sewn packet or pouch"
+ },
+ "holding_facts": [],
+ "span": "1501 CE to now",
+ "country_names": [
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "BE",
+   "name": "Belgium"
+  },
+  {
+   "iso": "IE",
+   "name": "Ireland"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "IQ",
+   "name": "Iraq"
+  },
+  {
+   "iso": "IR",
+   "name": "Iran"
+  },
+  {
+   "iso": "KR",
+   "name": "South Korea"
+  },
+  {
+   "iso": "BG",
+   "name": "Bulgaria"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "concealed-shoe",
+   "type": "amulet",
+   "name": "Concealed shoe",
+   "as": "the act itself — the charm's whole method is putting it somewhere it will not be found",
+   "rel": "practice"
+  },
+  {
+   "from": "corn-dolly",
+   "type": "amulet",
+   "name": "Corn dolly",
+   "as": "how it is retired: ploughed into the first furrow of the new season, which is the only disposal the tradition names",
+   "rel": "practice"
+  },
+  {
+   "from": "curse-tablet",
+   "type": "amulet",
+   "name": "Curse tablet",
+   "as": "the practice the whole genre depends on; the tablet works by going into the ground",
+   "rel": "practice"
+  },
+  {
+   "from": "illa",
+   "type": "amulet",
+   "name": "Illa",
+   "as": "the practice that completes it: the illa goes into the pasture the herd walks over",
+   "rel": "practice"
+  },
+  {
+   "from": "witch-bottle",
+   "type": "amulet",
+   "name": "Witch bottle",
+   "as": "the practice that completes it: Glanvill's first attempt, at the fire, fails; the bottle only works buried",
+   "rel": "practice"
+  },
+  {
+   "from": "andean-illa-practice",
+   "type": "tradition",
+   "name": "Illa practice",
+   "as": "where the oldest form of this ends — an object placed in the ground the herd walks over, and a sullu under a house's foundations",
+   "rel": "practice"
+  },
+  {
+   "from": "hair",
+   "type": "material",
+   "name": "Hair",
+   "as": "how a hair charm is delivered: the farthest corner of the property, or under the hearth",
+   "rel": "practice"
+  },
+  {
+   "from": "lead",
+   "type": "material",
+   "name": "Lead",
+   "as": "how a lead tablet is delivered: into a grave, a well, or a temple wall",
+   "rel": "practice"
+  },
+  {
+   "from": "salt",
+   "type": "material",
+   "name": "Salt",
+   "as": "the practice a filled bottle ends in, and the reason we have the bottles at all",
+   "rel": "practice"
+  },
+  {
+   "from": "burning-retirement",
+   "type": "practice",
+   "name": "Burning at retirement",
+   "as": "the other way of ending a charm, preferred in Ireland for the same objects",
+   "rel": "contrast"
+  },
+  {
+   "from": "foundation-deposit",
+   "type": "practice",
+   "name": "Foundation deposit",
+   "as": "the same verb, without a building over it",
+   "rel": "parallel"
+  },
+  {
+   "from": "the-charm-in-the-wall",
+   "type": "story",
+   "name": "The charm in the wall",
+   "as": "the act itself, which in this class is not disposal but installation",
+   "rel": "practice"
+  }
+ ]
+}

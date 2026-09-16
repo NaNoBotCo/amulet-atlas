@@ -1,0 +1,90 @@
+{
+ "schema": 1,
+ "id": "sak-yant",
+ "type": "amulet",
+ "names": {
+  "name": "Sak yant",
+  "native": "สักยันต์",
+  "script": "Thai",
+  "lang": "th",
+  "said": "sàk yan",
+  "aliases": ["yantra tattooing", "សាក់យ័ន្ត (Khmer)", "ສັກຢັນ (Lao)", "yant tattoo"]
+ },
+ "etymology": {
+  "root": "Khmer សាក់ sak 'to tattoo', from the Proto-Mon-Khmer root *cɔkʔ 'to prick', + Sanskrit yantra, from yam 'to hold, sustain' and tra 'instrument' — a sacred instrument, pricked into skin",
+  "note": "Chuon Nath's 1967 dictionary holds sak to be native Khmer and not a loan from Sanskrit or Pali. As the practice spread out of the Khmer Empire, Thai and Lao took sak over with the same sense.",
+  "tier": "cited",
+  "source": "s:wp-yantra-tattooing"
+ },
+ "region": ["mainland-sea"],
+ "countries": ["TH", "KH", "LA", "MM"],
+ "facets": {"era": "medieval", "status": "living", "portable": "worn", "restricted": "limited", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A tattoo. Geometric yantra, animals and deities, set about with phrases in Pali, Khmer or Northern Thai, pricked into the skin with a long needle — traditionally a metal rod sharpened to a point, the khem sak. The scripts are local: Khmer script in Cambodia, the Khmer-derived Khom script in central Thailand, Shan, Northern Thai or Tai Lu in the north, Lao Tham in Laos. The same designs go onto cloth and onto metal and are then hung in a house, a place of worship or a vehicle, so the tattoo is one surface among several.",
+  "story": "The practice comes out of the Khmer Empire around the ninth century, built on indigenous mainland Southeast Asian animist tattooing that runs back as far as 2,500 BCE, with the yantra designs themselves drawn from India. Tattoos held to give protection are recorded across mainland Southeast Asia and as far south as Indonesia and the Philippines; Chinese records show tattooing common in the first millennium CE among peoples as far north as the Yangzi. The yantra designs began as meditation diagrams and were taken into the body during the Khmer Empire, then spread through Cambodia, Thailand and Laos under rules meant to keep them working.\n\nThe rules are the bearer's half of the bargain. A yant confers what it confers only while the person carrying it observes certain taboos — abstaining from a named food is the example the source gives. Break them and the tattoo stops.\n\nThree kinds of effect are named. One works on the bearer, making them more eloquent. One protects, turning away evil and hardship, and is the one taken by soldiers, police, taxi drivers and people in trades they consider dangerous. One works on everybody else, invoking fear.\n\nThe tattooists are monks, Brahmin priests, ruesi and lay wicha practitioners. Wat Bang Phra in Nakhon Chaisi district, Nakhon Pathom, about 50 km west of Bangkok, is the temple most associated with the practice; its Wai Khru is held on the grounds once a year in March, honouring a former abbot, and the tattoos of those who come are renewed. The abbot in question is Phra Udom Prachanart, known as Luang Phor Pern, who ordained at Wat Bang Phra at 25 and died in 2002 at 79.\n\nThen there is the argument about foreigners, which has named people on both sides. Angelina Jolie was tattooed by Ajahn Noo Ganpai in Old Khmer script, and took a Bengal tiger yant in 2004 to mark acquiring Cambodian citizenship; the source credits that with making sak yant popular among women abroad. In 2011 Thailand's Culture Ministry moved against the trade in sacred images on foreign skin. Culture Minister Niphit Intharasombat said his ministry had complaints from residents that parlours were inking Buddha images on non-Buddhist visitors, called on parlours nationwide to stop, asked provincial governors to inspect studios, and pushed for a law: \"Foreigners see these tattoos as a fashion. They do not think of respecting religion, or they may not be aware\" that it can be offensive. Ladda Thangsupachai, director of the ministry's Cultural Surveillance Center, noted that tattooing religious images was \"not yet illegal under Thai law\". The Thai journalist Saksith Saiyasombut, writing at Siam Voices on 31 May 2011, put the case the other way: he read the move as the ministry once again defining Thai-ness on everyone's behalf, questioned what he called a monopoly claim over Buddhism, and pointed out that the Vatican does not police tattoos of Jesus. This atlas reports both and joins neither.",
+  "how": "Hand-poked with a khem sak, a metal rod sharpened to a point, by a monk, a Brahmin priest, a ruesi or a lay master. The design carries the master's lineage, and the words said over it belong to that lineage. The bearer accepts rules and taboos as part of receiving it, and the tattoo's power is described as holding only while they are kept. At Wat Bang Phra's Wai Khru in March, bearers return to pay respects and have their yant renewed.",
+  "today": "Practised in Cambodia, Laos, Thailand and parts of Burma as of 2026, and sold to visitors in Bangkok and Chiang Mai. The 2011 ministry move did not become law in anything this project has read; Ladda Thangsupachai's sentence — that the practice was not yet illegal — is the last legal statement in this record's sources."
+ },
+ "dating": {
+  "period": "Khmer Empire to the present",
+  "from_year": 800,
+  "to_year": null,
+  "living": true,
+  "label": "c. 9th century to now",
+  "method": "art-historical",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-yantra-tattooing",
+  "note": "Dated from the source's placing of yantra tattooing in the Khmer Empire around the ninth century. The same source traces the animist tattooing underneath it back as far as 2,500 BCE; that earlier date belongs to tattooing in general, not to yant designs, and is not used here."
+ },
+ "object": {
+  "form": "tattoo",
+  "materials": ["ink", "skin"],
+  "worn": ["skin"],
+  "made_by": "monks, Brahmin priests, ruesi and lay wicha practitioners, each working in a lineage",
+  "inscription": "geometric yantra with animal and deity figures, and phrases in Pali, Khmer or Northern Thai",
+  "script": "Khmer; Khom in central Thailand; Shan, Northern Thai or Tai Lu in the north; Lao Tham in Laos",
+  "single_use": false,
+  "source": "s:wp-yantra-tattooing",
+  "note": "Applied with a khem sak, a metal rod sharpened to a point. The same designs are put on cloth and metal and hung in houses, temples and vehicles."
+ },
+ "against": [
+  {"harm": "weapons", "who": "soldiers, police, taxi drivers and others in trades they count as dangerous, who take the protective class of yant", "source": "s:wp-yantra-tattooing", "tier": "cited"},
+  {"harm": "bad-luck", "who": "the protective class of yant, described as warding off evil and hardship", "source": "s:wp-yantra-tattooing", "tier": "cited"},
+  {"harm": "attraction", "who": "bearers who take yant for power, fortune, charisma — and, on cloth and metal, to increase wealth and attract lovers", "source": "s:wp-yantra-tattooing", "tier": "cited"},
+  {"harm": "illness", "who": "those who hang yant-marked cloth or metal in a house, a place of worship or a vehicle against danger and illness", "source": "s:wp-yantra-tattooing", "tier": "cited"}
+ ],
+ "restricted": {
+  "note": "A yant's design and the words said over it belong to the master's lineage, and the tattoo is described as holding only while the bearer keeps the rules and taboos taken on with it. This atlas prints what the sources publish and does not print a design's incantation or reconstruct the rules a particular master sets.",
+  "who_says": "the practice as described in the sources: sak yant is defined by strict rules intended to maintain the tattoos' power, and the incantations depend on the creator's lineage in each school",
+  "source": "s:wp-yantra-tattooing"
+ },
+ "kin": [
+  {"to": "takrut", "as": "the same yant in the same scripts, rolled into metal foil instead of pricked into skin", "rel": "parallel"},
+  {"to": "phra-khrueang", "as": "the pressed Buddha tablet that does the same work and can be taken off; this one cannot", "rel": "contrast"},
+  {"to": "thai-wicha", "as": "the craft that holds the designs, the lineages and the rules for the bearer", "rel": "tradition"},
+  {"to": "tattooing", "as": "the practice itself — hand-poked with a sharpened rod, under a master's hand", "rel": "practice"},
+  {"to": "yantra-plate", "as": "the same geometry on a flat sheet, which is where the designs started before they went into skin", "rel": "parallel"},
+  {"to": "coptic-cross-tattoo", "as": "the other tattooed charm in this atlas, marked on the body and not removable either", "rel": "parallel"},
+  {"to": "yant-flash", "as": "the sheet of designs a master works from, and the thing a visitor now picks off", "rel": "art"},
+  {"to": "skin", "as": "the material this one is made of, which is what makes the argument about who may receive it sharp", "rel": "material"},
+  {"to": "the-drawn-signs", "as": "the gallery of drawn geometries this one belongs in, before any of them reach a body", "rel": "art"},
+  {"to": "who-owns-a-charm", "as": "the long read the 2011 ministry move belongs in, with both sides named", "rel": "story"}
+ ],
+ "links": [
+  {"label": "Yantra tattooing — Wikipedia", "url": "https://en.wikipedia.org/wiki/Yantra_tattooing"},
+  {"label": "Thailand seeks to ban tourists' Buddha tattoos — AP, 2 June 2011", "url": "https://www.nbcnews.com/id/wbna43249699"}
+ ],
+ "sources": ["s:wp-yantra-tattooing", "s:wp-yantra", "s:wp-tattoo", "s:web-wp-wat-bang-phra", "s:web-ap-buddha-tattoo-ban", "s:web-saiyasombut-religious-tattoos", "s:wp-thai-buddha-amulet"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-yantra-tattooing"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:web-ap-buddha-tattoo-ban", "note": "the Wat Bang Phra paragraph is cited to s:web-wp-wat-bang-phra; the 2011 dispute to the AP report and to Saiyasombut's post, read on 2026-09-16"},
+   "text.today": {"tier": "cited", "source": "s:web-ap-buddha-tattoo-ban", "note": "no source read here records a law passing; the record says that rather than asserting the outcome"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Sak Yant tattoo.jpg", "File:Wai Khru Wat Bang Phra.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,1026 @@
+{
+ "schema": 1,
+ "id": "islamic-talismanic",
+ "type": "tradition",
+ "names": {
+  "name": "Islamic talismanic craft",
+  "native": "طِلَسْم",
+  "script": "Arabic",
+  "lang": "ar",
+  "said": "tilasm, plural talasim; the object is also called hafiz, 'protector', and himala, 'pendant'",
+  "aliases": [
+   "tilasm",
+   "ilm al-huruf",
+   "Islamic talismans",
+   "Qur'anic amulets"
+  ]
+ },
+ "etymology": {
+  "root": "Arabic ṭilasm, from ancient Greek telesma, 'completion, religious rite, payment', from teleō, 'I complete, perform a rite'; French talisman carried it into English",
+  "note": "The English word was lifted out of this tradition's vocabulary, which is why the atlas files the word under talisman-word and the practice here.",
+  "tier": "cited",
+  "source": "s:wp-talisman"
+ },
+ "region": [
+  "arabia-gulf",
+  "levant",
+  "anatolia",
+  "iran-persia",
+  "maghreb",
+  "central-asia",
+  "south-asia",
+  "west-africa",
+  "east-africa",
+  "island-sea",
+  "balkans"
+ ],
+ "countries": [
+  "SA",
+  "EG",
+  "TR",
+  "IR",
+  "IQ",
+  "SY",
+  "MA",
+  "OM",
+  "PK",
+  "IN",
+  "BD",
+  "AF",
+  "ID",
+  "MY",
+  "SN",
+  "ML",
+  "AL"
+ ],
+ "facets": {
+  "era": "living",
+  "status": "contested",
+  "restricted": "limited",
+  "language": "Arabic",
+  "hemisphere": [
+   "N",
+   "E",
+   "S"
+  ]
+ },
+ "text": {
+  "what": "Writing, worn. The tradition makes protective objects out of text — Qur'anic verses, the ninety-nine names of God, names of angels and prophets, pious phrases, invocations — set on paper, parchment, metal, cloth or a bowl, and carried, folded, sewn in, hung or drunk off. The vehicle varies by region: a folded packet in a pouch on a Cairo child's shoulder, a rolled sheet in a silver tube on an Omani necklace, a whole inscribed shirt under a Mughal or Ottoman coat, a magic square engraved on a ring. One rule holds across all of it and the tradition states it out loud: the text calls on God, or on an intercessor the tradition recognises. It does not address jinn.",
+  "story": "The scale is not marginal. Belief and practice in magic in Islam has been described by scholars of the subject as widespread and pervasive, and as a vital element of everyday life and practice, historically and now. Sixty-six Qur'anic verses are reported to bear on the subject, and the Qur'an describes magic in a negative light — but does not forbid it or prescribe a punishment for it. Three suras carry protective use in the tradition's own account: al-Falaq (113), used as a prayer to God against black magic and, per hadith literature, revealed to Muhammad to protect him against Jann, the ancestor of the jinn; al-Fatiha (1) and an-Nas (114), held to generate barakah, blessing. Ayat al-Kursi, the Throne Verse at al-Baqara 2:255, is the verse the tradition names as the verse of protection, and it is the one written on amulets more than any other.\n\nThe craft has a history with dates in it. Until the ninth century, talismans often reflect pre-Islamic artistry. From the 12th century, for reasons the scholarship does not settle, pre-Islamic designs drop out in favour of the pentagram, the Seal of Solomon and zodiacal signs — and above all the wafq, the magic square. The earliest are 3×3 squares of the numerals 1 to 9 summing to 15 in every line, a square the tradition associated with the four archangels; 6×6 squares are attested by the late tenth century but do not enter the magical vocabulary until the thirteenth. Thabit ibn Qurra, the tenth-century Abbasid mathematician, was treated as the authority: 'The noblest part of astronomy is the science of talismans.' Talismanic shirts survive only from the 15th century, though the tradition is held to predate them.\n\nThe argument about whether any of this is permitted is internal, old, live, and conducted by name. This atlas reports it and joins neither side. Tobias Nünlist's summary is that Muslim writers generally distinguished licit from illicit practice rather than condemning the field. Virtually all Muslim scholars are described as permitting a talisman that invokes God or an intercessor — Muhammad, Ali, the saints — while addressing jinn or demons is prohibited as shirk, associating a partner with God. Hadith allow magic for healing so long as it contains no act of shirk. Ahmad ibn Hanbal (780–855) refrained from condemning those who used it to heal. Ibn al-Nadim (932–995) conceded white magic and condemned black, tracing the licit back to Solomon and the illicit to Iblis. Ibn Khaldun separated karamat, miracles, as gifts of God from sihr worked by a person's own psychic power.\n\nOn the other side stand scholars who denied the whole thing had any reality. The Hanafi jurist Abu Bakr al-Jassas argued that if magic worked its practitioners would be rich and powerful rather than poor men working a market crowd. The Mu'tazilite rationalists held it to be image-making without reality. Al-Jahiz offered psychological explanations for encounters with jinn. And the modern hard line is named too: Muhammad ibn Abd al-Wahhab treated sorcery as one of the few sins carrying a divinely sanctioned death penalty; Muhammad Nasiruddin al-Albani held that those convinced sorcery has effect of its own accord, rather than by God's decision, will not enter paradise; Salafi authorities hold that amulets are forbidden outright and that wearing one is shirk.\n\nRemke Kruk's fieldwork is where the two sides meet on a stall. She found the handbooks and the pamphlets attacking them sold side by side in North African markets, and recorded how fine the line has become: contacting jinn in an exorcism to threaten them is acceptable, asking their help in a healing is shirk; dissolving Qur'anic text written on paper in water is forbidden, while writing in a bowl with ink the poured water washes off is recommended by the conservative cleric Wahid 'Abd al-Salam Bali. Kruk's own stated worry is that the rise of stricter forms of Islam has produced an attack on healing practices that used to be well integrated into Islamic life. Set against that, a Pew Research Center survey of Muslims worldwide in 2011–2012 found belief in talismans, witchcraft and spiritual healers running from roughly a quarter to a half of Muslims across the Middle East and North Africa, Turkey, South Asia and Southeast Asia.\n\nThe argument has a body count in some jurisdictions and this record states that without editorial. Saudi Arabia formalised an Anti-Witchcraft Unit in 2009; in Makkah region alone that year at least 118 people were charged with practising magic or with using the book of God in a derogatory manner, and by 2011 the unit had nine bureaus and had processed at least 586 cases. Human rights workers allege the accused are often foreign domestic workers practising folk medicine from home.",
+  "how": "Structure only, which is as far as this atlas goes. A text is chosen — a verse, a name, a square, a combination of letters. It is written by a person the client trusts to write it, in Arabic script, on paper, parchment, metal, cloth or the inside of a bowl. Where it is a packet it is folded small, sealed into a case of lead, silver or leather, and hung, pinned to a child's clothes or sewn into a garment. Where it is a bowl or a shirt it is used rather than worn hidden. Cheap ones were made at scale early: block-printed paper amulets, tarsh, are attested in the medieval Mediterranean Islamic world, sealed into cases so the contents stayed unread. The letter-and-number work that generates some of the texts is ʿilm al-ḥurūf, the science of letters, and the branch called jafr; this record names the technique and prints none of it.",
+  "today": "Live everywhere the tradition is, and arguing with itself in print. Handbooks are on market stalls in Marrakesh and Khan el-Khalili with the pamphlets against them alongside; Salafi authorities rule against the objects by name; Pew's 2011–2012 survey found belief in talismans, witchcraft and spiritual healers running from a quarter to a half of Muslims across the regions it covered, and its 2012 figures put belief in the evil eye in the majority in 20 of the 39 countries surveyed. Museum holdings run from a 10th- or 11th-century block-printed Egyptian sheet to Ottoman and Safavid talismanic shirts. Nothing in this record should be read as this atlas taking a view on whether a Muslim should wear one; both sides are named above, and the naming is the whole of the project's contribution."
+ },
+ "restricted": {
+  "note": "This tradition restricts material, and the atlas prints the restriction instead of the detail. Two lines are involved. The first is the tradition's own doctrinal one: a talisman may invoke God, angels, prophets or saints, and addressing jinn or demons is prohibited — so a formula that does the prohibited thing is not published here, and neither is a formula that does the permitted thing, because the ones in circulation are the property of the practitioners who write them. The second is the letter-and-number science, ʿilm al-ḥurūf and jafr, which this record names and does not demonstrate. No square is filled in, no name-combination is worked, no consecration wording is given. That is a deliberate blank; the reason is above it.",
+  "who_says": "the tradition's own rule as reported in the cited account — virtually all Muslim scholars permit talismans evoking God or an intercessor, while it is prohibited to address jinn or demons — and the standing scholarly dispute about the objects themselves, with Salafi authorities holding that they are forbidden altogether",
+  "source": "s:wp-islam-and-magic"
+ },
+ "dating": {
+  "period": "Early Islamic to the present",
+  "from_year": 901,
+  "to_year": null,
+  "living": true,
+  "label": "block-printed amulets from the 10th century; the practice older, the argument continuous",
+  "method": "dated-object",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-amulet",
+  "note": "from_year is the earliest dated object this atlas has read a description of — a block-printed Egyptian paper amulet of the tenth or eleventh century. The cited accounts describe the practice as running from early Islam and say pre-Islamic artistry persisted in talismans until the ninth century, so the object date is a floor, not an origin."
+ },
+ "object": {
+  "form": "packet",
+  "materials": [
+   "paper",
+   "ink",
+   "parchment",
+   "silver",
+   "lead",
+   "leather",
+   "cloth",
+   "carnelian",
+   "brass"
+  ],
+  "worn": [
+   "neck",
+   "upper-arm",
+   "sewn-in",
+   "pocket",
+   "wall",
+   "waist"
+  ],
+  "made_by": "a person trained to write the text: in North and West Africa a marabout; elsewhere a scholar, a healer, a shopkeeper selling pre-made packets, or the wearer if literate. A literate wearer could change the verse at his own discretion.",
+  "inscription": "Qur'anic verses — Ayat al-Kursi above all — the ninety-nine names of God, names of angels and prophets, pious phrases, invocations, and the wafq or magic square",
+  "script": "Arabic",
+  "single_use": false,
+  "source": "s:wp-islam-and-magic",
+  "note": "No measurement is given here; the one published dimension this atlas has read belongs to a single object and sits on the taweez record."
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "the tradition as summarised in the cited account: talismans deflect disease, danger and the evil eye and attract divine protection",
+   "source": "s:wp-talisman",
+   "tier": "cited"
+  },
+  {
+   "harm": "demons",
+   "who": "the tradition's own rule — protection against jinn and demons is a stated function, and the text addresses God about them rather than addressing them",
+   "source": "s:wp-islam-and-magic",
+   "tier": "cited"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "hadith literature, which reports Sura al-Falaq revealed to Muhammad as a prayer to God to ward off black magic",
+   "source": "s:wp-islam-and-magic",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "Islamic healing practice; hadith permit magic for healing so long as it contains no act of shirk, and medieval talismanic bowls carry inscriptions naming what each was for — colic, childbirth, a nosebleed, a scorpion sting, the bite of a mad dog",
+   "source": "s:wp-talisman",
+   "tier": "cited"
+  },
+  {
+   "harm": "war",
+   "who": "Ottoman soldiers, who carried Qur'anic scrolls into combat, and the makers of talismanic shirts, many of which were made to be worn under armour",
+   "source": "s:wp-talismanic-shirt",
+   "tier": "cited"
+  },
+  {
+   "harm": "travel",
+   "who": "the tradition's use of Ayat al-Kursi, recited before a journey, before sleep and after every obligatory prayer",
+   "source": "s:wp-throne-verse",
+   "tier": "cited"
+  },
+  {
+   "harm": "infertility",
+   "who": "the cited account of talismanic use, which names fertility alongside protection and the preservation of attractiveness",
+   "source": "s:wp-islam-and-magic",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "taweez",
+   "as": "the everyday object of this tradition — folded text in a pouch — and the one the argument is usually had about",
+   "rel": "carries"
+  },
+  {
+   "to": "hirz-pouch",
+   "as": "the same writing in a North African and Nile container, and the clearest statement of the rule: invoke God, never jinn",
+   "rel": "carries"
+  },
+  {
+   "to": "quran-pendant",
+   "as": "scripture in a metal case worn at the throat, and an object some of this tradition's own authorities say should not exist",
+   "rel": "carries"
+  },
+  {
+   "to": "talismanic-shirt",
+   "as": "the tradition at its most expensive: the whole text scaled up to a garment, worn under armour, surviving from the 15th century",
+   "rel": "carries"
+  },
+  {
+   "to": "magic-square",
+   "as": "the wafq — the mathematics this tradition turned into an amulet from the 12th century, and tied to the four archangels",
+   "rel": "motif"
+  },
+  {
+   "to": "divine-name",
+   "as": "the sign at the centre of it: one of the ninety-nine names, or an angel's, written out and carried",
+   "rel": "motif"
+  },
+  {
+   "to": "hamsa",
+   "as": "one of its objects, and the one whose Salafi critics rule against it by name",
+   "rel": "carries"
+  },
+  {
+   "to": "incantation-bowl",
+   "as": "the late antique ancestor of the medieval Islamic talismanic bowl — the same idea of a vessel you inscribe and drink from, three centuries earlier and in Aramaic",
+   "rel": "origin"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "as": "the neighbouring tradition, working the same region, the same materials and the same divine-name technique, and having almost the same internal argument about whether any of it is allowed",
+   "rel": "parallel"
+  },
+  {
+   "to": "ethiopian-scroll-craft",
+   "as": "its closest method-cousin across a religious line: scripture written out, rolled, and carried against the body",
+   "rel": "parallel"
+  },
+  {
+   "to": "west-african-charm-craft",
+   "as": "the tradition the gris-gris belongs to as much as to this one — the writing inside is Qur'anic and the maker is a marabout",
+   "rel": "parallel"
+  },
+  {
+   "to": "washing-off-ink",
+   "as": "the practice at the sharpest point of the modern argument: dissolving written Qur'an in water is ruled out, writing in a bowl the water washes off is recommended",
+   "rel": "practice"
+  }
+ ],
+ "links": [
+  {
+   "label": "Islam and magic — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Islam_and_magic"
+  },
+  {
+   "label": "Talisman — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Talisman"
+  }
+ ],
+ "sources": [
+  "s:wp-islam-and-magic",
+  "s:wp-talisman",
+  "s:wp-amulet",
+  "s:wp-throne-verse",
+  "s:wp-magic-square",
+  "s:wp-talismanic-shirt",
+  "s:wp-seal-of-solomon",
+  "s:wp-hamsa",
+  "s:wp-incantation-bowl",
+  "s:web-mwnf-hirz-oman",
+  "s:web-ms-wikipedia-azimat",
+  "s:web-id-wikipedia-jimat",
+  "s:wp-gris-gris-talisman",
+  "s:wp-evil-eye"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-islam-and-magic"
+  },
+  "fields": {
+   "text.how": {
+    "tier": "tradition",
+    "note": "structure only. The cited sources describe that texts are chosen, written and enclosed, and name the sciences involved; they do not print working formulas, and neither does this record."
+   },
+   "restricted": {
+    "tier": "cited",
+    "source": "s:wp-islam-and-magic",
+    "note": "the doctrinal line is quoted from the source; the decision not to print letter-work is this project's application of the atlas rule"
+   },
+   "countries": {
+    "tier": "cited",
+    "note": "each is named in a source read here. The list is short of the tradition's real range on purpose — it names where this project can cite, not everywhere the practice is."
+   },
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-amulet",
+    "note": "an object floor, stated as such in the note"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Talismanic shirt MET.jpg",
+  "File:Magic square Islamic amulet.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-17",
+ "blurb": "Writing, worn. The tradition makes protective objects out of text — Qur'anic verses, the ninety-nine names of God, names of angels and prophets, pious phrases, invocations — set on paper, parchment, metal, cloth or a…",
+ "region_terms": [
+  {
+   "key": "arabia-gulf",
+   "name": "Arabia and the Gulf",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "levant",
+   "name": "The Levant",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "anatolia",
+   "name": "Anatolia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "iran-persia",
+   "name": "Iran",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "maghreb",
+   "name": "The Maghreb",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Morocco, Algeria, Tunisia, Libya"
+  },
+  {
+   "key": "central-asia",
+   "name": "Central Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "west-africa",
+   "name": "West Africa",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "east-africa",
+   "name": "East Africa and the Horn",
+   "hemi": [
+    "N",
+    "S",
+    "E"
+   ]
+  },
+  {
+   "key": "island-sea",
+   "name": "Island Southeast Asia",
+   "hemi": [
+    "N",
+    "S",
+    "E"
+   ]
+  },
+  {
+   "key": "balkans",
+   "name": "The Balkans",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "taweez",
+   "type": "amulet",
+   "name": "Ta'wiz",
+   "as": "the everyday object of this tradition — folded text in a pouch — and the one the argument is usually had about",
+   "rel": "carries"
+  },
+  {
+   "to": "hirz-pouch",
+   "type": "amulet",
+   "name": "Hirz",
+   "as": "the same writing in a North African and Nile container, and the clearest statement of the rule: invoke God, never jinn",
+   "rel": "carries"
+  },
+  {
+   "to": "quran-pendant",
+   "type": "amulet",
+   "name": "Qur'an pendant",
+   "as": "scripture in a metal case worn at the throat, and an object some of this tradition's own authorities say should not exist",
+   "rel": "carries"
+  },
+  {
+   "to": "talismanic-shirt",
+   "type": "amulet",
+   "name": "Talismanic shirt",
+   "as": "the tradition at its most expensive: the whole text scaled up to a garment, worn under armour, surviving from the 15th century",
+   "rel": "carries"
+  },
+  {
+   "to": "magic-square",
+   "type": "motif",
+   "name": "The number square",
+   "as": "the wafq — the mathematics this tradition turned into an amulet from the 12th century, and tied to the four archangels",
+   "rel": "motif"
+  },
+  {
+   "to": "divine-name",
+   "type": "motif",
+   "name": "The name",
+   "as": "the sign at the centre of it: one of the ninety-nine names, or an angel's, written out and carried",
+   "rel": "motif"
+  },
+  {
+   "to": "hamsa",
+   "type": "amulet",
+   "name": "Hamsa",
+   "as": "one of its objects, and the one whose Salafi critics rule against it by name",
+   "rel": "carries"
+  },
+  {
+   "to": "incantation-bowl",
+   "type": "amulet",
+   "name": "Incantation bowl",
+   "as": "the late antique ancestor of the medieval Islamic talismanic bowl — the same idea of a vessel you inscribe and drink from, three centuries earlier and in Aramaic",
+   "rel": "origin"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "type": "tradition",
+   "name": "Practical Kabbalah",
+   "as": "the neighbouring tradition, working the same region, the same materials and the same divine-name technique, and having almost the same internal argument about whether any of it is allowed",
+   "rel": "parallel"
+  },
+  {
+   "to": "ethiopian-scroll-craft",
+   "type": "tradition",
+   "name": "Ethiopian scroll craft",
+   "as": "its closest method-cousin across a religious line: scripture written out, rolled, and carried against the body",
+   "rel": "parallel"
+  },
+  {
+   "to": "west-african-charm-craft",
+   "type": "tradition",
+   "name": "West African charm craft",
+   "as": "the tradition the gris-gris belongs to as much as to this one — the writing inside is Qur'anic and the maker is a marabout",
+   "rel": "parallel"
+  },
+  {
+   "to": "washing-off-ink",
+   "type": "practice",
+   "name": "Washing off the ink",
+   "as": "the practice at the sharpest point of the modern argument: dissolving written Qur'an in water is ruled out, writing in a bowl the water washes off is recommended",
+   "rel": "practice"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-islam-and-magic",
+   "kind": "encyclopedia",
+   "title": "Islam and magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Islam_and_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-talisman",
+   "kind": "encyclopedia",
+   "title": "Talisman",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Talisman",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-amulet",
+   "kind": "encyclopedia",
+   "title": "Amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-throne-verse",
+   "kind": "encyclopedia",
+   "title": "Throne Verse",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Throne_Verse",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-magic-square",
+   "kind": "encyclopedia",
+   "title": "Magic square",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Magic_square",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-talismanic-shirt",
+   "kind": "encyclopedia",
+   "title": "Talismanic shirt",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Talismanic_shirt",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-seal-of-solomon",
+   "kind": "encyclopedia",
+   "title": "Seal of Solomon",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Seal_of_Solomon",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-hamsa",
+   "kind": "encyclopedia",
+   "title": "Hamsa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hamsa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-incantation-bowl",
+   "kind": "encyclopedia",
+   "title": "Incantation bowl",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Incantation_bowl",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-mwnf-hirz-oman",
+   "kind": "web",
+   "title": "Hirz (Necklace) with Qur'an case",
+   "publisher": "Discover Islamic Art, Museum With No Frontiers — National Museum, Muscat",
+   "url": "https://islamicart.museumwnf.org/database_item.php?id=object;EPM;on;Mus21;16;en",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-ms-wikipedia-azimat",
+   "kind": "encyclopedia",
+   "title": "Azimat",
+   "publisher": "Wikipedia bahasa Melayu",
+   "url": "https://ms.wikipedia.org/wiki/Azimat",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-id-wikipedia-jimat",
+   "kind": "encyclopedia",
+   "title": "Jimat",
+   "publisher": "Wikipedia bahasa Indonesia",
+   "url": "https://id.wikipedia.org/wiki/Jimat",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-gris-gris-talisman",
+   "kind": "encyclopedia",
+   "title": "Gris-gris (talisman)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gris-gris_(talisman)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-evil-eye",
+   "kind": "encyclopedia",
+   "title": "Evil eye",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Evil_eye",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-islam-and-magic"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-islam-and-magic"
+  },
+  "text.how": {
+   "tier": "tradition",
+   "note": "structure only. The cited sources describe that texts are chosen, written and enclosed, and name the sciences involved; they do not print working formulas, and neither does this record."
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-islam-and-magic"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-islam-and-magic"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-amulet",
+   "note": "an object floor, stated as such in the note"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-islam-and-magic"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "the tradition as summarised in the cited account: talismans deflect disease, danger and the evil eye and attract divine protection",
+   "quote": "",
+   "source": "s:wp-talisman",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "demons",
+   "label": "Demons and night-hags",
+   "who": "the tradition's own rule — protection against jinn and demons is a stated function, and the text addresses God about them rather than addressing them",
+   "quote": "",
+   "source": "s:wp-islam-and-magic",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "witchcraft",
+   "label": "Another person's sorcery",
+   "who": "hadith literature, which reports Sura al-Falaq revealed to Muhammad as a prayer to God to ward off black magic",
+   "quote": "",
+   "source": "s:wp-islam-and-magic",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "Islamic healing practice; hadith permit magic for healing so long as it contains no act of shirk, and medieval talismanic bowls carry inscriptions naming what each was for — colic, childbirth, a nosebleed, a scorpion sting, the bite of a mad dog",
+   "quote": "",
+   "source": "s:wp-talisman",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "war",
+   "label": "War",
+   "who": "Ottoman soldiers, who carried Qur'anic scrolls into combat, and the makers of talismanic shirts, many of which were made to be worn under armour",
+   "quote": "",
+   "source": "s:wp-talismanic-shirt",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "travel",
+   "label": "Danger on a journey",
+   "who": "the tradition's use of Ayat al-Kursi, recited before a journey, before sleep and after every obligatory prayer",
+   "quote": "",
+   "source": "s:wp-throne-verse",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "infertility",
+   "label": "Infertility",
+   "who": "the cited account of talismanic use, which names fertility alongside protection and the preservation of attractiveness",
+   "quote": "",
+   "source": "s:wp-islam-and-magic",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "paper",
+   "label": "Paper",
+   "kind": "written"
+  },
+  {
+   "key": "ink",
+   "label": "Ink",
+   "kind": "written"
+  },
+  {
+   "key": "parchment",
+   "label": "Parchment and vellum",
+   "kind": "written"
+  },
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  },
+  {
+   "key": "lead",
+   "label": "Lead",
+   "kind": "metal"
+  },
+  {
+   "key": "leather",
+   "label": "Leather and hide",
+   "kind": "organic"
+  },
+  {
+   "key": "cloth",
+   "label": "Cloth",
+   "kind": "textile"
+  },
+  {
+   "key": "carnelian",
+   "label": "Carnelian",
+   "kind": "stone",
+   "note": "red; Egypt's colour for blood and life"
+  },
+  {
+   "key": "brass",
+   "label": "Brass",
+   "kind": "metal"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "upper-arm",
+   "label": "On the upper arm",
+   "group": "body"
+  },
+  {
+   "key": "sewn-in",
+   "label": "Sewn into clothing",
+   "group": "carried"
+  },
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "waist",
+   "label": "At the waist",
+   "group": "body"
+  }
+ ],
+ "form_fact": {
+  "key": "packet",
+  "label": "Sewn packet or pouch"
+ },
+ "holding_facts": [],
+ "span": "901 CE to now",
+ "country_names": [
+  {
+   "iso": "SA",
+   "name": "Saudi Arabia"
+  },
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  },
+  {
+   "iso": "TR",
+   "name": "Turkey"
+  },
+  {
+   "iso": "IR",
+   "name": "Iran"
+  },
+  {
+   "iso": "IQ",
+   "name": "Iraq"
+  },
+  {
+   "iso": "SY",
+   "name": "Syria"
+  },
+  {
+   "iso": "MA",
+   "name": "Morocco"
+  },
+  {
+   "iso": "OM",
+   "name": "Oman"
+  },
+  {
+   "iso": "PK",
+   "name": "Pakistan"
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  },
+  {
+   "iso": "BD",
+   "name": "Bangladesh"
+  },
+  {
+   "iso": "AF",
+   "name": "Afghanistan"
+  },
+  {
+   "iso": "ID",
+   "name": "Indonesia"
+  },
+  {
+   "iso": "MY",
+   "name": "Malaysia"
+  },
+  {
+   "iso": "SN",
+   "name": "Senegal"
+  },
+  {
+   "iso": "ML",
+   "name": "Mali"
+  },
+  {
+   "iso": "AL",
+   "name": "Albania"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "gris-gris",
+   "type": "amulet",
+   "name": "Gris-gris",
+   "as": "the other tradition it belongs to — the writing inside it is Qur'anic, and the maker is a marabout",
+   "rel": "tradition"
+  },
+  {
+   "from": "hamsa",
+   "type": "amulet",
+   "name": "Hamsa",
+   "as": "one of the traditions that carries it, and the one whose Salafi authorities rule against it by name",
+   "rel": "tradition"
+  },
+  {
+   "from": "hirz-pouch",
+   "type": "amulet",
+   "name": "Hirz",
+   "as": "the tradition that fills it, and the rule it obeys: invoke God, never jinn",
+   "rel": "tradition"
+  },
+  {
+   "from": "incantation-bowl",
+   "type": "amulet",
+   "name": "Incantation bowl",
+   "as": "the tradition that carried the bowl on in metal, inscribed with Qur'an and hadith and drunk from",
+   "rel": "descendant"
+  },
+  {
+   "from": "jimat",
+   "type": "amulet",
+   "name": "Jimat",
+   "as": "the tradition the word azimat comes out of, and the one whose scholars argue against the object",
+   "rel": "tradition"
+  },
+  {
+   "from": "quran-pendant",
+   "type": "amulet",
+   "name": "Qur'an pendant",
+   "as": "the tradition, and the argument about whether this object should exist",
+   "rel": "tradition"
+  },
+  {
+   "from": "tabiz",
+   "type": "amulet",
+   "name": "Tabiz",
+   "as": "the tradition that sets what may be written on it and who may be addressed by it",
+   "rel": "tradition"
+  },
+  {
+   "from": "talismanic-shirt",
+   "type": "amulet",
+   "name": "Talismanic shirt",
+   "as": "the tradition, in its most expensive and most royal form",
+   "rel": "tradition"
+  },
+  {
+   "from": "taweez",
+   "type": "amulet",
+   "name": "Ta'wiz",
+   "as": "the tradition this is the everyday object of, and the argument it sits inside",
+   "rel": "tradition"
+  },
+  {
+   "from": "tuareg-cross",
+   "type": "amulet",
+   "name": "Agadez cross",
+   "as": "the tradition of the region it is worn in, though nothing in the sources read here puts writing inside this object",
+   "rel": "parallel"
+  },
+  {
+   "from": "ethiopian-scroll-craft",
+   "type": "tradition",
+   "name": "Ethiopian scroll craft",
+   "as": "the tradition it most resembles in method — scripture written out, folded and carried — across a religious line",
+   "rel": "parallel"
+  },
+  {
+   "from": "jewish-practical-kabbalah",
+   "type": "tradition",
+   "name": "Practical Kabbalah",
+   "as": "the neighbouring tradition in the same region, working the same divine-name technique on the same materials and having almost the same internal argument about whether it is allowed",
+   "rel": "parallel"
+  },
+  {
+   "from": "west-african-charm-craft",
+   "type": "tradition",
+   "name": "West African charm craft",
+   "as": "the tradition the gris-gris strand belongs to as much as to this one — the writing is Qur'anic and the maker is a marabout",
+   "rel": "parallel"
+  },
+  {
+   "from": "magic-square",
+   "type": "motif",
+   "name": "The number square",
+   "as": "the tradition that turned the mathematics into amulets, from the 13th century onward",
+   "rel": "tradition"
+  },
+  {
+   "from": "carnelian",
+   "type": "material",
+   "name": "Carnelian",
+   "as": "the tradition that states its materials doctrine out loud, and puts carnelian near the top of it",
+   "rel": "tradition"
+  },
+  {
+   "from": "counting-beads",
+   "type": "practice",
+   "name": "Counting beads",
+   "as": "the neighbouring tradition whose count follows a list rather than a number: 99 names, 99 beads, or 33 taken three times",
+   "rel": "parallel"
+  },
+  {
+   "from": "washing-off-ink",
+   "type": "practice",
+   "name": "Washing off the ink",
+   "as": "the tradition this practice sits inside, and where the argument about it is being had",
+   "rel": "tradition"
+  },
+  {
+   "from": "khan-el-khalili",
+   "type": "place",
+   "name": "Khan el-Khalili",
+   "as": "the tradition those handbooks belong to, argued over in print in this quarter",
+   "rel": "tradition"
+  },
+  {
+   "from": "marrakesh-souk",
+   "type": "place",
+   "name": "The Marrakesh souk",
+   "as": "the tradition whose handbooks Kruk found on stalls here, with the pamphlets against them alongside",
+   "rel": "tradition"
+  },
+  {
+   "from": "shaul-shaked",
+   "type": "person",
+   "name": "Shaul Shaked",
+   "as": "the neighbouring tradition in the same region, which inherited some of the same formulas",
+   "rel": "parallel"
+  },
+  {
+   "from": "gris-gris-word",
+   "type": "term",
+   "name": "gris-gris",
+   "as": "the tradition behind the paper inside the sack: written Qur'anic text, worn",
+   "rel": "tradition"
+  },
+  {
+   "from": "talisman-word",
+   "type": "term",
+   "name": "talisman",
+   "as": "the tradition whose own vocabulary this word was lifted out of",
+   "rel": "tradition"
+  },
+  {
+   "from": "taweez-word",
+   "type": "term",
+   "name": "taweez",
+   "as": "the tradition this word belongs to, and the one that argues about it",
+   "rel": "tradition"
+  },
+  {
+   "from": "amulet-or-talisman",
+   "type": "story",
+   "name": "Amulet or talisman?",
+   "as": "the tradition ibn Qurra and his translators were writing for, where the hour of making is the definition",
+   "rel": "tradition"
+  }
+ ]
+}

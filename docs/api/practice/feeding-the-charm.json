@@ -1,0 +1,631 @@
+{
+ "schema": 1,
+ "id": "feeding-the-charm",
+ "type": "practice",
+ "names": {
+  "name": "Feeding the charm",
+  "aliases": [
+   "dressing a mojo",
+   "manje lwa",
+   "offerings to an object"
+  ],
+  "said": "giving the thing something, so it keeps working"
+ },
+ "region": [
+  "north-america",
+  "central-africa",
+  "caribbean",
+  "andes",
+  "japan",
+  "island-sea",
+  "mongolia-steppe"
+ ],
+ "countries": [
+  "US",
+  "CD",
+  "AO",
+  "HT",
+  "BO",
+  "PE",
+  "JP",
+  "ID",
+  "MN"
+ ],
+ "facets": {
+  "stage": "feed",
+  "era": "early-modern",
+  "status": "living"
+ },
+ "text": {
+  "what": "Giving the object something to consume. Liquor poured on a cloth bag, a lit cigarette in a plaster figure's mouth, rice and salt and water set out in front of a paper talisman, a nail driven into a carved figure, banknotes clipped to a statue. The traditions that do this describe the charm as alive, and feeding as what keeps it working rather than as thanks for work done.",
+  "story": "Hoodoo states it outright. A mojo bag is first fixed — filled and, in the cited account's words, awakened to life, by smoking it over incense and candles, or breathing on it, with prayers said over it. Once prepared it is dressed or fed with a liquid: alcohol, perfume, water or bodily fluids. The reason given for feeding is that the bag is alive with spirit, and feeding keeps it working.\n\nIn Kongo practice the substances go in at the start and the object is kept in service by use. The bilongo or milongo packed into an nkisi are usually translated as medicine, though they are not applied to or swallowed by the sick; scholars of the tradition suggest therapeutic substances is closer, and note the ingredients are often chosen for metaphor — bird claws to catch a wrongdoer. In the aggressive subclass, nkondi, each nail or metal piece driven in stands for a vow, a signed agreement or an effort to abolish an evil, so the object accumulates its history in iron.\n\nHaitian Vodou feeds the spirits rather than the object, and does it constantly. Offering rites are termed manje lwa, feeding the lwa, and offering food and drink is the most common ritual in the religion, done communally and at home; Danbala takes white foods, especially eggs, Legba's offerings are grilled on a fire, the Ogu and Nago lwa prefer raw rum or clairin, and Ayizan avoids alcohol.\n\nThe Andes feeds on a timetable. Ekeko figures are loaded with miniature goods, and banknotes are clipped to them as offerings; modern statues have a hole in the mouth for a cigarette, and the recent custom is that Ekeko smokes one lit cigarette a year to secure a year of prosperity. Grain is offered for good harvests. Japan feeds the household altar: the Association of Shinto Shrines recommends daily worship before the shinsatsu, with offerings of rice, salt, water or sake, and more food on special occasions. In Java, warriors made offerings to their kris at a shrine, because specific rites had to be completed to avoid calling down bad fates.\n\n*Inference —* feeding is the clearest test of whether a tradition treats a charm as an object or as a resident. Nobody feeds a lucky coin. The traditions here that feed also say, in their own words, that something lives in the thing — and those are the same traditions whose objects a museum has the hardest time labelling, because a fed figure that stops being fed is, by its own tradition's account, not the same object on the shelf.",
+  "how": "Pour, light, set down, or drive in. A liquid is poured or rubbed on a cloth bag. A cigarette is lit in a figure's mouth. Food and drink are set in front of an altar or a figure and left. A nail is hammered into a carved body to seal an agreement. Each has its own schedule, from daily to once a year.",
+  "today": "Live. Conjure workers still fix and dress mojo bags commercially. Ekeko figures are sold loaded at the Alasitas fair in La Paz every January and smoke through the year in Bolivian houses. Japanese households keep kamidana and make the daily offerings the Association of Shinto Shrines recommends. Minkisi in European and American museums are not fed, and Kongo commentators and curators disagree about what that makes them."
+ },
+ "dating": {
+  "period": "sixteenth century to the present",
+  "from_year": 1501,
+  "to_year": null,
+  "living": true,
+  "label": "c. 1500s to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-nkisi",
+  "note": "Dated from the statement that nkisi nkondi have probably been made since at least the sixteenth century; the nailed figures that European museums hold were made mostly in the nineteenth and early twentieth centuries in the northern Kongo zone."
+ },
+ "object": {
+  "form": "figurine",
+  "materials": [
+   "wood",
+   "iron",
+   "cloth",
+   "terracotta",
+   "herb",
+   "earth"
+  ],
+  "worn": [
+   "shop",
+   "wall",
+   "hearth",
+   "pocket"
+  ],
+  "made_by": "an nganga in Kongo practice; a conjure worker in hoodoo; a potter or plaster-caster for Ekeko; a shrine for the Japanese household altar",
+  "single_use": false,
+  "source": "s:wp-nkisi"
+ },
+ "against": [
+  {
+   "harm": "witchcraft",
+   "who": "Kongo banganga, whose nkondi are loaded with substances and gunpowder aimed at the ndoki",
+   "source": "s:wp-nkisi",
+   "tier": "cited"
+  },
+  {
+   "harm": "poverty",
+   "who": "Bolivian owners of Ekeko figures, who clip banknotes to them and light a cigarette once a year",
+   "source": "s:wp-ekeko",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "hoodoo practitioners, who feed a mojo to keep it working",
+   "quote": "alive with spirit",
+   "source": "s:wp-mojo-bag",
+   "tier": "cited"
+  },
+  {
+   "harm": "house",
+   "who": "Japanese households making daily offerings of rice, salt, water and sake at the kamidana",
+   "source": "s:wp-ofuda",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "nkisi",
+   "as": "the object this practice is clearest in — loaded, woken, and nailed once per agreement",
+   "rel": "carried-by"
+  },
+  {
+   "to": "gris-gris",
+   "as": "fed with alcohol, perfume or water because, in the tradition's words, it is alive",
+   "rel": "carried-by"
+  },
+  {
+   "to": "ekeko",
+   "as": "the figure that smokes one cigarette a year and wears banknotes the rest of it",
+   "rel": "carried-by"
+  },
+  {
+   "to": "ofuda",
+   "as": "the paper on the household altar in front of which rice, salt, water and sake are set out daily",
+   "rel": "carried-by"
+  },
+  {
+   "to": "keris-pusaka",
+   "as": "the blade warriors made offerings to at a shrine, and still wash once a year",
+   "rel": "carried-by"
+  },
+  {
+   "to": "bakongo-nkisi-craft",
+   "as": "the tradition that keeps the ledger of vows in nails",
+   "rel": "tradition"
+  },
+  {
+   "to": "andean-illa-practice",
+   "as": "the tradition where feeding and buying happen on the same January morning",
+   "rel": "tradition"
+  },
+  {
+   "to": "consecration",
+   "as": "the step that wakes the thing; feeding is what keeps it awake",
+   "rel": "practice"
+  },
+  {
+   "to": "renewing-yearly",
+   "as": "the calendar version of the same upkeep, done to the object instead of with food",
+   "rel": "parallel"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read this practice complicates: a figure that is no longer fed is, in its own tradition's account, not the object on the shelf",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Nkisi — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nkisi"
+  },
+  {
+   "label": "Ekeko — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ekeko"
+  }
+ ],
+ "sources": [
+  "s:wp-nkisi",
+  "s:wp-nkondi",
+  "s:wp-mojo-bag",
+  "s:wp-haitian-vodou",
+  "s:wp-ekeko",
+  "s:wp-ofuda",
+  "s:wp-kris"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-nkisi"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-mojo-bag",
+    "note": "the closing paragraph is this project's reading and is marked where it appears"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "the closing sentence describes an argument this project reports without having read a named statement from either side in these sources"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Nkisi nkondi.jpg",
+  "File:Ekeko figure.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "Giving the object something to consume. Liquor poured on a cloth bag, a lit cigarette in a plaster figure's mouth, rice and salt and water set out in front of a paper talisman, a nail driven into a carved figure…",
+ "region_terms": [
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "central-africa",
+   "name": "Central Africa",
+   "hemi": [
+    "N",
+    "S",
+    "E"
+   ]
+  },
+  {
+   "key": "caribbean",
+   "name": "The Caribbean",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "andes",
+   "name": "The Andes",
+   "hemi": [
+    "S",
+    "W"
+   ]
+  },
+  {
+   "key": "japan",
+   "name": "Japan",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "island-sea",
+   "name": "Island Southeast Asia",
+   "hemi": [
+    "N",
+    "S",
+    "E"
+   ]
+  },
+  {
+   "key": "mongolia-steppe",
+   "name": "Mongolia and the steppe",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "nkisi",
+   "type": "amulet",
+   "name": "Nkisi",
+   "as": "the object this practice is clearest in — loaded, woken, and nailed once per agreement",
+   "rel": "carried-by"
+  },
+  {
+   "to": "gris-gris",
+   "type": "amulet",
+   "name": "Gris-gris",
+   "as": "fed with alcohol, perfume or water because, in the tradition's words, it is alive",
+   "rel": "carried-by"
+  },
+  {
+   "to": "ekeko",
+   "type": "amulet",
+   "name": "Ekeko",
+   "as": "the figure that smokes one cigarette a year and wears banknotes the rest of it",
+   "rel": "carried-by"
+  },
+  {
+   "to": "ofuda",
+   "type": "amulet",
+   "name": "Ofuda",
+   "as": "the paper on the household altar in front of which rice, salt, water and sake are set out daily",
+   "rel": "carried-by"
+  },
+  {
+   "to": "keris-pusaka",
+   "type": "amulet",
+   "name": "Keris pusaka",
+   "as": "the blade warriors made offerings to at a shrine, and still wash once a year",
+   "rel": "carried-by"
+  },
+  {
+   "to": "bakongo-nkisi-craft",
+   "type": "tradition",
+   "name": "Bakongo nkisi craft",
+   "as": "the tradition that keeps the ledger of vows in nails",
+   "rel": "tradition"
+  },
+  {
+   "to": "andean-illa-practice",
+   "type": "tradition",
+   "name": "Illa practice",
+   "as": "the tradition where feeding and buying happen on the same January morning",
+   "rel": "tradition"
+  },
+  {
+   "to": "consecration",
+   "type": "practice",
+   "name": "Consecration",
+   "as": "the step that wakes the thing; feeding is what keeps it awake",
+   "rel": "practice"
+  },
+  {
+   "to": "renewing-yearly",
+   "type": "practice",
+   "name": "Renewing yearly",
+   "as": "the calendar version of the same upkeep, done to the object instead of with food",
+   "rel": "parallel"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read this practice complicates: a figure that is no longer fed is, in its own tradition's account, not the object on the shelf",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-nkisi",
+   "kind": "encyclopedia",
+   "title": "Nkisi",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nkisi",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-nkondi",
+   "kind": "encyclopedia",
+   "title": "Nkondi",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nkondi",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mojo-bag",
+   "kind": "encyclopedia",
+   "title": "Mojo bag",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mojo_bag",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-haitian-vodou",
+   "kind": "encyclopedia",
+   "title": "Haitian Vodou",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Haitian_Vodou",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ekeko",
+   "kind": "encyclopedia",
+   "title": "Ekeko",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ekeko",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ofuda",
+   "kind": "encyclopedia",
+   "title": "Ofuda",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ofuda",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-kris",
+   "kind": "encyclopedia",
+   "title": "Kris",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kris",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-nkisi"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-mojo-bag",
+   "note": "the closing paragraph is this project's reading and is marked where it appears"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-nkisi"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "the closing sentence describes an argument this project reports without having read a named statement from either side in these sources"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-nkisi"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-nkisi"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "witchcraft",
+   "label": "Another person's sorcery",
+   "who": "Kongo banganga, whose nkondi are loaded with substances and gunpowder aimed at the ndoki",
+   "quote": "",
+   "source": "s:wp-nkisi",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "poverty",
+   "label": "Poverty",
+   "who": "Bolivian owners of Ekeko figures, who clip banknotes to them and light a cigarette once a year",
+   "quote": "",
+   "source": "s:wp-ekeko",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "hoodoo practitioners, who feed a mojo to keep it working",
+   "quote": "alive with spirit",
+   "source": "s:wp-mojo-bag",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "house",
+   "label": "Harm to a house or a field",
+   "who": "Japanese households making daily offerings of rice, salt, water and sake at the kamidana",
+   "quote": "",
+   "source": "s:wp-ofuda",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "wood",
+   "label": "Wood",
+   "kind": "plant"
+  },
+  {
+   "key": "iron",
+   "label": "Iron",
+   "kind": "metal",
+   "note": "iron itself is the charm in a great many places"
+  },
+  {
+   "key": "cloth",
+   "label": "Cloth",
+   "kind": "textile"
+  },
+  {
+   "key": "terracotta",
+   "label": "Fired clay",
+   "kind": "fired"
+  },
+  {
+   "key": "herb",
+   "label": "Herb and root",
+   "kind": "plant"
+  },
+  {
+   "key": "earth",
+   "label": "Earth and ash",
+   "kind": "mineral",
+   "note": "grave earth, temple ash, volcanic sand"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "shop",
+   "label": "At the till",
+   "group": "placed"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "hearth",
+   "label": "At the hearth",
+   "group": "placed"
+  },
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  }
+ ],
+ "form_fact": {
+  "key": "figurine",
+  "label": "Figurine"
+ },
+ "holding_facts": [],
+ "span": "1501 CE to now",
+ "country_names": [
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "CD",
+   "name": "Dem. Rep. Congo"
+  },
+  {
+   "iso": "AO",
+   "name": "Angola"
+  },
+  {
+   "iso": "HT",
+   "name": "Haiti"
+  },
+  {
+   "iso": "BO",
+   "name": "Bolivia"
+  },
+  {
+   "iso": "PE",
+   "name": "Peru"
+  },
+  {
+   "iso": "JP",
+   "name": "Japan"
+  },
+  {
+   "iso": "ID",
+   "name": "Indonesia"
+  },
+  {
+   "iso": "MN",
+   "name": "Mongolia"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "ekeko",
+   "type": "amulet",
+   "name": "Ekeko",
+   "as": "the practice this record turns on: banknotes clipped on, grain offered, a cigarette lit once a year",
+   "rel": "practice"
+  },
+  {
+   "from": "illa",
+   "type": "amulet",
+   "name": "Illa",
+   "as": "what the hole in its back is for — fat, blood, and offerings poured in",
+   "rel": "practice"
+  },
+  {
+   "from": "keris-pusaka",
+   "type": "amulet",
+   "name": "Keris pusaka",
+   "as": "jamasan, the yearly cleaning the blade is owed, which wears old blades thin",
+   "rel": "practice"
+  },
+  {
+   "from": "nkisi",
+   "type": "amulet",
+   "name": "Nkisi",
+   "as": "the practice of keeping a charged object working, which here means waking and enraging it for a task",
+   "rel": "practice"
+  },
+  {
+   "from": "andean-illa-practice",
+   "type": "tradition",
+   "name": "Illa practice",
+   "as": "the practice at the centre of it — the cavity in the illa's back and the opening in Ekeko's mouth are the same idea in two materials",
+   "rel": "practice"
+  },
+  {
+   "from": "bakongo-nkisi-craft",
+   "type": "tradition",
+   "name": "Bakongo nkisi craft",
+   "as": "the practice of keeping a charged object working — here, waking it and sometimes enraging it for a task",
+   "rel": "practice"
+  },
+  {
+   "from": "herb",
+   "type": "material",
+   "name": "Herb and root",
+   "as": "the practice that keeps a plant charm renewed, since the material itself will not last",
+   "rel": "practice"
+  },
+  {
+   "from": "sewing-in",
+   "type": "practice",
+   "name": "Sewing in",
+   "as": "what happens after the bag is stitched — fixed, woken and dressed",
+   "rel": "practice"
+  }
+ ]
+}

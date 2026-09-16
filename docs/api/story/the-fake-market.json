@@ -1,0 +1,557 @@
+{
+ "schema": 1,
+ "id": "the-fake-market",
+ "type": "story",
+ "names": {
+  "name": "The fake market",
+  "aliases": [
+   "forgery and provenance",
+   "what the loupe is for",
+   "certificates and copies"
+  ]
+ },
+ "region": [
+  "mainland-sea",
+  "himalaya-tibet",
+  "mesopotamia",
+  "north-america",
+  "western-europe"
+ ],
+ "countries": [
+  "TH",
+  "CN",
+  "NP",
+  "TW",
+  "DE",
+  "IQ",
+  "US",
+  "GB"
+ ],
+ "facets": {
+  "kind": "essay",
+  "era": "living"
+ },
+ "text": {
+  "what": "Buyers at an amulet stall arrive with jeweller's loupes. They are not checking whether the clay is old — the clay is usually old enough. They are checking which mould pressed it, which temple issued it, and which monk sat over it, because those three facts are the price and none of them is visible in the image on the front. Wherever a charm's value sits in its history rather than in its material, a second trade grows beside the first: copies, certificates, experts who sell an opinion, and — at the top of the market — paperwork invented to cover a theft."
+ },
+ "sections": [
+  {
+   "h": "Thailand: the price is the provenance",
+   "text": "A Thai phra khrueang is a small moulded tablet, often of temple dirt, pollen, monk's hair and other relics, blessed in a process that can run from a week to several years. Its value is published as depending on appearance, scarcity, maker, age and reputed powers — every one of which is a claim about the object's past.\n\nThe top of the market has names and numbers. The five rarest and most sought-after types, together called Benja Phakhi, are valued at over ten million baht. The Phra Somdet Wat Rakhang was produced around 1866 to 1871 by Somdej Toh of Wat Rakhang Khositaram. The Phra Somdet Jitlada amulets were made by King Bhumibol himself and awarded between 1965 and 1970 to selected soldiers, police, officials and citizens; no more than 3,000 were made, each issued with a certificate naming the recipient, the date and the amulet's number, and as of 2013 one was worth at least two million baht.\n\nThat certificate is the interesting object. It exists because the amulet cannot testify about itself.\n\nWhere provenance is the price, forgery is the business model. The published account is blunt about the loop it creates: because money can be made with rare collector amulets of the master class, a forgery market exists, and it is what keeps the experts of the scene in a monopoly on the market. Amulets of collectable rank are rare and often require expert authentication; forgeries are common; collectors specialise in one type or one temple to make the problem small enough to know.\n\nThe scale can get away from everyone. The Jatukham Rammathep amulet was first made in 1987 by the police officer Khun Phantharak Rajjadej for the establishment of Nakhon Si Thammarat's city pillar. It became popular in the early 2000s, most sharply between his funeral on 5 July 2006 and mid-2007; as many as 150 series were planned for production in 2007, and that single type's market reached twenty billion baht that year. In late 2007 the bubble burst, popularity faded, and plenty of stock was left that could be had cheap."
+  },
+  {
+   "h": "Tibet: the copy has its own history",
+   "text": "A dzi is an etched agate bead from the Himalayan regions, black-to-brown with ivory-white patterning, prized for the number of \"eyes\" on it. The ancient \"pure dzi\" have no established source. On the published account this project read on 16 September 2026, ancient beads can reach into hundreds of thousands of US dollars, particularly those with more eyes and with \"bloodspots\" — tiny red iron inclusions in the white.\n\nBelow that sit two quite different things that both get called fake.\n\nNew dzi are agate, cut, drilled and etched by modern methods — lasers, modern sugars and chemicals, vacuum chambers — and run from about ten to two thousand US dollars depending on quality and lustre. They are gaining popularity among Tibetans as an affordable alternative, and they are not treated as inert: a new bead may be taken to a lama or guru to be blessed, carried on pilgrimage to stupas and shrines, and have mantras recited with it. One published argument in their favour is that a new bead carries none of a previous owner's bad karma.\n\nImitation dzi are something else — glass, resin, lampwork, wood, bone, plastic, metal or non-traditional etched stone. Some resin ones are weighted with a lead filling. They have a long history of their own; some go back a couple of hundred years, and the older mock beads have collectible value in their own right. Modern machine-carved, machine-drilled, highly polished beads sell for less than two US dollars, often by the strand, with etching that does not penetrate the core, and are mostly sold to mainland Chinese buyers as feng shui charms.\n\nAnd the copying is not new, nor is it all Asian: dzi-style beads were being made at Idar-Oberstein in Germany at least as early as the nineteenth century, by agate-cutters who had worked there since the Roman period.\n\n*Inference —* \"fake\" is doing at least three jobs in that paragraph: not agate, not old, and not blessed. A buyer who does not say which one they mean cannot be answered."
+  },
+  {
+   "h": "The invented letter",
+   "text": "At the top of the antiquities trade, forgery is not of the object. It is of the paper.\n\nThe Gilgamesh Dream Tablet, a cuneiform tablet bearing a portion of the Epic of Gilgamesh, left Iraq and entered the United States in 2003, bought by a US antiquities dealer from the family of a London coin dealer and shipped in without the contents being declared. In 2007 a letter of provenance was created for it, claiming it had come from a box of miscellaneous ancient bronze fragments bought at auction in 1981. On that letter the tablet was sold several times. In 2014 Hobby Lobby bought it from a London auction house for the Museum of the Bible in Washington, DC.\n\nUS law enforcement seized it in 2019. The Department of Justice obtained a forfeiture order in July 2021, and the tablet was handed back to Iraq at a ceremony that September. Jacquelyn M. Kasulis, then acting US attorney for the Eastern District of New York, said the forfeiture \"represents an important milestone on the path to returning this rare and ancient masterpiece\" to Iraq.\n\nOne sentence in that sequence is the whole subject of this record: the fake was the 1981 auction, not the tablet."
+  },
+  {
+   "h": "What the trade costs the record",
+   "text": "Looting removes the one thing an excavated amulet has that a purchased one does not — the layer it was lying in.\n\nIn 1987 a five-hundred-year-old burial mound at Slack Farm in Kentucky was looted; human remains were tossed to the side while relics were taken. It made national news and helped galvanise support for the protection of Native American graves. Protests at the Dickson Mounds site in Illinois, where Native skeletons were on display, did the same.\n\nThe museums were not bystanders. Between 1886 and 1891 E. A. Wallis Budge was sent by the British Museum to find out why cuneiform tablets from the museum's own Iraqi sites were turning up with London dealers — and to build ties with Iraqi dealers so the museum could buy at local prices instead. He smuggled Amarna tablets out of Iraq by bribery and gave his own account of it in By Nile and Tigris. The archaeologist Brian M. Fagan has called him \"one of the major illegal looters of antiquities\". Museum officials and their agents of that period moved antiquities in diplomatic pouches, bribed customs officials, or asked friends in the Egyptian Service of Antiquities to pass their cases unopened.\n\nFlinders Petrie, arriving in Egypt in 1880, described what he found as \"a house on fire, so rapid was the destruction\", and cast himself as a \"salvage man\". *Inference —* the two men are the two responses to the same market, and neither is clean. One bought fast and kept the objects; the other dug fast and kept the records. What survives to be argued over in 2026 is the product of both."
+  },
+  {
+   "h": "The argument this record does not settle",
+   "text": "Every market in this atlas carries the same live dispute, and it is not between insiders and outsiders. It runs inside each tradition.\n\nA factory-pressed evil-eye bracelet against a village bead. A machine-etched dzi at under two dollars against an ancient one at six figures — with new dzi in between, blessed by a lama and held by Tibetans to work. A Thai amulet market described as devotion, and the same market described as a financial one with devotional objects in it. A mass-moulded wedjat eye sold at an airport against one moulded in a temple workshop three thousand years ago.\n\nThis project describes a factory charm the same way it describes a hand-cut one, names who says what about both, and stops there. The certificate, the loupe and the expert are reported as what they are: instruments a trade built to answer a question its own objects cannot."
+  }
+ ],
+ "dating": {
+  "period": "the nineteenth century to the present",
+  "from_year": 1800,
+  "to_year": null,
+  "living": true,
+  "label": "c. 1800 to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-dzi-bead",
+  "note": "Dated from the earliest copying this record can name with a source — dzi-style beads cut at Idar-Oberstein at least as early as the nineteenth century, and mock dzi with a couple of hundred years behind them. Forgery of charms is certainly older; this project has read no earlier dated case."
+ },
+ "kin": [
+  {
+   "to": "phra-khrueang",
+   "as": "the tablet whose worth is its history, which is why the certificate exists at all",
+   "rel": "carries"
+  },
+  {
+   "to": "dzi-bead",
+   "as": "the bead where three different things all get called fake, and the distinctions matter to price",
+   "rel": "carries"
+  },
+  {
+   "to": "tha-phrachan",
+   "as": "the market this read starts in, because that is where the loupes are",
+   "rel": "place"
+  },
+  {
+   "to": "buying-in-a-market",
+   "as": "the practice under examination: price, provenance and the moment of trust",
+   "rel": "practice"
+  },
+  {
+   "to": "evil-eye-bracelet",
+   "as": "the factory object at the centre of the same argument, in glass instead of clay",
+   "rel": "parallel"
+  },
+  {
+   "to": "wallis-budge",
+   "as": "the museum buyer on the wrong side of this trade, in his own century's terms and in ours",
+   "rel": "person"
+  },
+  {
+   "to": "flinders-petrie",
+   "as": "the other response to the same market — dig it before the dealers do",
+   "rel": "person"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "what happens after an object with no provenance reaches a museum",
+   "rel": "story"
+  },
+  {
+   "to": "market-stall-sign",
+   "as": "the picture record: at Tha Phrachan the certificate does the work a sign would",
+   "rel": "art"
+  }
+ ],
+ "links": [
+  {
+   "label": "Thai Buddha amulet — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thai_Buddha_amulet"
+  },
+  {
+   "label": "Dzi bead — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dzi_bead"
+  }
+ ],
+ "sources": [
+  "s:wp-thai-buddha-amulet",
+  "s:wp-dzi-bead",
+  "s:wp-amulet",
+  "s:web-smithsonian-gilgamesh-tablet",
+  "s:wp-e-a-wallis-budge",
+  "s:wp-flinders-petrie",
+  "s:wp-native-american-graves-protection-and-repatriation-act"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-thai-buddha-amulet"
+  },
+  "fields": {
+   "sections": {
+    "tier": "cited",
+    "source": "s:wp-dzi-bead",
+    "note": "the two stretches of this project's own reasoning are labelled inline; the dzi prices carry no date in their source, so the date this project read them is given instead"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Dzi beads.jpg",
+  "File:Thai amulets market.jpg"
+ ],
+ "confidence": "high",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "Buyers at an amulet stall arrive with jeweller's loupes. They are not checking whether the clay is old — the clay is usually old enough.",
+ "region_terms": [
+  {
+   "key": "mainland-sea",
+   "name": "Mainland Southeast Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "himalaya-tibet",
+   "name": "The Himalaya and Tibet",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "mesopotamia",
+   "name": "Mesopotamia",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Sumer, Akkad, Babylonia, Assyria"
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "western-europe",
+   "name": "Western Europe",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "phra-khrueang",
+   "type": "amulet",
+   "name": "Phra khrueang",
+   "as": "the tablet whose worth is its history, which is why the certificate exists at all",
+   "rel": "carries"
+  },
+  {
+   "to": "dzi-bead",
+   "type": "amulet",
+   "name": "Dzi bead",
+   "as": "the bead where three different things all get called fake, and the distinctions matter to price",
+   "rel": "carries"
+  },
+  {
+   "to": "tha-phrachan",
+   "type": "place",
+   "name": "Tha Phrachan amulet market",
+   "as": "the market this read starts in, because that is where the loupes are",
+   "rel": "place"
+  },
+  {
+   "to": "buying-in-a-market",
+   "type": "practice",
+   "name": "Buying one in a market",
+   "as": "the practice under examination: price, provenance and the moment of trust",
+   "rel": "practice"
+  },
+  {
+   "to": "evil-eye-bracelet",
+   "type": "amulet",
+   "name": "Evil eye bracelet",
+   "as": "the factory object at the centre of the same argument, in glass instead of clay",
+   "rel": "parallel"
+  },
+  {
+   "to": "wallis-budge",
+   "type": "person",
+   "name": "E. A. Wallis Budge",
+   "as": "the museum buyer on the wrong side of this trade, in his own century's terms and in ours",
+   "rel": "person"
+  },
+  {
+   "to": "flinders-petrie",
+   "type": "person",
+   "name": "Flinders Petrie",
+   "as": "the other response to the same market — dig it before the dealers do",
+   "rel": "person"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "what happens after an object with no provenance reaches a museum",
+   "rel": "story"
+  },
+  {
+   "to": "market-stall-sign",
+   "type": "art",
+   "name": "The market stall sign",
+   "as": "the picture record: at Tha Phrachan the certificate does the work a sign would",
+   "rel": "art"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-thai-buddha-amulet",
+   "kind": "encyclopedia",
+   "title": "Thai Buddha amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thai_Buddha_amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-dzi-bead",
+   "kind": "encyclopedia",
+   "title": "Dzi bead",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dzi_bead",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-amulet",
+   "kind": "encyclopedia",
+   "title": "Amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-smithsonian-gilgamesh-tablet",
+   "kind": "news",
+   "title": "Smuggled Gilgamesh Dream Tablet Returns to Iraq",
+   "author": "Brigit Katz",
+   "publisher": "Smithsonian Magazine",
+   "url": "https://www.smithsonianmag.com/smart-news/hobby-lobby-forfeits-rare-gilgamesh-tablet-smuggled-iraq-180978314/",
+   "published": "2021-07-29",
+   "accessed": "2026-09-16",
+   "note": "Page states it was updated 23 September 2021."
+  },
+  {
+   "id": "s:wp-e-a-wallis-budge",
+   "kind": "encyclopedia",
+   "title": "E. A. Wallis Budge",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/E._A._Wallis_Budge",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-flinders-petrie",
+   "kind": "encyclopedia",
+   "title": "Flinders Petrie",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Flinders_Petrie",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-native-american-graves-protection-and-repatriation-act",
+   "kind": "encyclopedia",
+   "title": "Native American Graves Protection and Repatriation Act",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Native_American_Graves_Protection_and_Repatriation_Act",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-thai-buddha-amulet"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-thai-buddha-amulet"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1800 CE to now",
+ "country_names": [
+  {
+   "iso": "TH",
+   "name": "Thailand"
+  },
+  {
+   "iso": "CN",
+   "name": "China"
+  },
+  {
+   "iso": "NP",
+   "name": "Nepal"
+  },
+  {
+   "iso": "TW",
+   "name": "Taiwan"
+  },
+  {
+   "iso": "DE",
+   "name": "Germany"
+  },
+  {
+   "iso": "IQ",
+   "name": "Iraq"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "akuaba-figure",
+   "type": "amulet",
+   "name": "Akua'ba",
+   "as": "the long read on souvenir against heirloom, which the tradition's own account of akua'ba states plainly",
+   "rel": "story"
+  },
+  {
+   "from": "crystal-pendant",
+   "type": "amulet",
+   "name": "Crystal pendant",
+   "as": "the long read about what a charm costs and who gets the money",
+   "rel": "story"
+  },
+  {
+   "from": "dreamcatcher",
+   "type": "amulet",
+   "name": "Dreamcatcher",
+   "as": "the long read about what a label is worth, which the Indian Arts and Crafts Act is one answer to",
+   "rel": "story"
+  },
+  {
+   "from": "dzi-bead",
+   "type": "amulet",
+   "name": "Dzi bead",
+   "as": "the long read this bead belongs in: imitations run from 19th-century German cutting to two-dollar machine beads, and the tells are the whole trade",
+   "rel": "story"
+  },
+  {
+   "from": "four-leaf-clover",
+   "type": "amulet",
+   "name": "Four-leaf clover",
+   "as": "the long read this belongs in: 10,000 a day, grown to order, sold as the thing you were supposed to find",
+   "rel": "story"
+  },
+  {
+   "from": "hei-matau",
+   "type": "amulet",
+   "name": "Hei matau",
+   "as": "the long read about copies, which this record is one of the clearest cases in",
+   "rel": "story"
+  },
+  {
+   "from": "hex-sign",
+   "type": "amulet",
+   "name": "Hex sign",
+   "as": "the long read the 1942 souvenir sign belongs in: a traditional design, a new object, and a meaning printed on the box",
+   "rel": "story"
+  },
+  {
+   "from": "phra-khrueang",
+   "type": "amulet",
+   "name": "Phra khrueang",
+   "as": "the long read on forgery and appraisal, which starts with this object because the loupes are pointed at it",
+   "rel": "story"
+  },
+  {
+   "from": "tuareg-cross",
+   "type": "amulet",
+   "name": "Agadez cross",
+   "as": "the long read on what a visitor buys and what a wearer wears",
+   "rel": "story"
+  },
+  {
+   "from": "tupilaq",
+   "type": "amulet",
+   "name": "Tupilaq",
+   "as": "the long read about what a label promises — this record's two objects share a name and nothing else",
+   "rel": "story"
+  },
+  {
+   "from": "thai-wicha",
+   "type": "tradition",
+   "name": "Thai wicha",
+   "as": "the long read on authentication, which is a standing cost of doing business in this tradition rather than an occasional scandal",
+   "rel": "story"
+  },
+  {
+   "from": "scarab-sign",
+   "type": "motif",
+   "name": "The beetle",
+   "as": "the long read on authentication, which has a chapter's worth of scarabs in it",
+   "rel": "story"
+  },
+  {
+   "from": "glass",
+   "type": "material",
+   "name": "Glass",
+   "as": "the long read on what a mass-produced charm is, which the glass bead is the largest case of",
+   "rel": "story"
+  },
+  {
+   "from": "jet",
+   "type": "material",
+   "name": "Jet",
+   "as": "the long read on imitation, which this material has supported since the nineteenth century",
+   "rel": "story"
+  },
+  {
+   "from": "turquoise",
+   "type": "material",
+   "name": "Turquoise",
+   "as": "the long read: this stone has been imitated for so long that grading it is its own profession",
+   "rel": "story"
+  },
+  {
+   "from": "buying-in-a-market",
+   "type": "practice",
+   "name": "Buying one in a market",
+   "as": "the long read that starts at this counter, because this is where trust is priced",
+   "rel": "story"
+  },
+  {
+   "from": "grand-bazaar",
+   "type": "place",
+   "name": "The Grand Bazaar",
+   "as": "the long read on copies and their price, which a market of 4,000 shops cannot avoid",
+   "rel": "story"
+  },
+  {
+   "from": "insadong",
+   "type": "place",
+   "name": "Insa-dong",
+   "as": "the long read on copies, which an antiques quarter holding 40 per cent of a country's dealers lives inside",
+   "rel": "story"
+  },
+  {
+   "from": "kathmandu-thamel",
+   "type": "place",
+   "name": "Thamel",
+   "as": "the long read on copies, which a souvenir lane selling a hereditary object cannot dodge",
+   "rel": "story"
+  },
+  {
+   "from": "tha-phrachan",
+   "type": "place",
+   "name": "Tha Phrachan amulet market",
+   "as": "the long read about authentication, which starts here because this is where the loupes are",
+   "rel": "story"
+  },
+  {
+   "from": "unesco-ich",
+   "type": "org",
+   "name": "UNESCO Intangible Cultural Heritage",
+   "as": "the long read on authentication; an inscription settles nothing about whether a given object is what a seller says it is",
+   "rel": "story"
+  },
+  {
+   "from": "market-stall-sign",
+   "type": "art",
+   "name": "The market stall sign",
+   "as": "the long read about what the certificate is for",
+   "rel": "story"
+  },
+  {
+   "from": "the-charm-goes-digital",
+   "type": "story",
+   "name": "The charm goes digital",
+   "as": "the read that explains why an unforgeable record was worth selling in the first place",
+   "rel": "story"
+  }
+ ]
+}

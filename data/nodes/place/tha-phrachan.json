@@ -1,0 +1,47 @@
+{
+ "schema": 1,
+ "id": "tha-phrachan",
+ "type": "place",
+ "names": {
+  "name": "Tha Phrachan amulet market",
+  "native": "ตลาดพระเครื่องท่าพระจันทร์",
+  "script": "Thai",
+  "lang": "th",
+  "said": "tàa prá-jan",
+  "aliases": ["Tha Phra Chan market", "Amulet Market, Bangkok"]
+ },
+ "region": ["mainland-sea"],
+ "countries": ["TH"],
+ "facets": {"kind": "market", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "Bangkok's main amulet market, running in the lanes beside Thammasat University and the Chao Phraya river pier of the same name. Stalls are trays and glass-topped cases; buyers arrive with jeweller's loupes and go over a two-centimetre clay tablet the way a coin dealer goes over a coin.",
+  "story": "Tha Phrachan is the market Thai writing on amulets names first when it names any. Wikipedia's account puts it plainly: famous markets for amulets include Tha Phrachan Market next to Thammasat University, and rare pieces often require expert authentication because forgeries are common.\n\nWhat the loupes are for is the trade's central problem. A phra khrueang is valued by which temple pressed it, which monk consecrated it, and when — facts that live in the clay's texture, the mould's flaws and a certificate, not in the image on the front. *Tradition holds —* the specialist who reads those tells for a fee is as much a part of this market as the seller.\n\nThe scale is not small. When the Jatukham Rammathep amulet peaked in 2007, that single type's market reached twenty billion baht in a year before the bubble burst in late 2007, leaving stock that could be had cheap. *Inference —* a market that can move that much in twelve months is a financial market with devotional objects in it, and the argument over which of those two things it mainly is runs among Thai commentators, not between Thais and outsiders.",
+  "today": "Still trading as of the most recent published accounts this project has read. Hours are not published as a timetable: stalls keep their own, the lanes are busiest in daylight, and weekends draw the collectors. This project has not stood there, so no day is marked either way below."
+ },
+ "geo": {"lat": 13.7575, "lon": 100.4904, "precision": "street", "source": "hand-placed on the Tha Phrachan pier and the lanes beside Thammasat University, from the market's stated location"},
+ "address": {"city": "Bangkok", "admin": "Phra Nakhon", "country": "TH"},
+ "kin": [
+  {"to": "phra-khrueang", "as": "the object this whole market exists to trade, authenticate and argue about", "rel": "carries"},
+  {"to": "takrut", "as": "sold from the same trays — the rolled metal scroll beside the clay tablet", "rel": "carries"},
+  {"to": "palad-khik", "as": "also sold here, and the one stall-holders are likeliest to keep behind the counter", "rel": "carries"},
+  {"to": "thai-wicha", "as": "the tradition whose economy this market is", "rel": "tradition"},
+  {"to": "buying-in-a-market", "as": "the practice in its densest form — price, loupe, certificate, and a monk's name", "rel": "practice"},
+  {"to": "the-fake-market", "as": "the long read about authentication, which starts here because this is where the loupes are", "rel": "story"}
+ ],
+ "tags": [
+  {"tag": "market", "source": "s:wp-thai-buddha-amulet", "tier": "cited", "note": "named as a famous amulet market next to Thammasat University"}
+ ],
+ "links": [{"label": "Thai Buddha amulet — Wikipedia", "url": "https://en.wikipedia.org/wiki/Thai_Buddha_amulet"}],
+ "sources": ["s:wp-thai-buddha-amulet"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-thai-buddha-amulet"},
+  "fields": {
+   "geo": {"tier": "inference", "note": "geocoded by hand to the pier and the lanes beside the university; no published coordinate was read, so precision is street, not exact"},
+   "text.today": {"tier": "inference", "note": "reasoned from published accounts; nobody from this project has stood in the lanes"}
+  }
+ },
+ "images": [],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

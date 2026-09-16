@@ -1,0 +1,153 @@
+{
+ "id": "gold",
+ "names": {
+  "name": "Gold",
+  "aliases": [
+   "aurum"
+  ]
+ },
+ "region": [
+  "ancient-egypt",
+  "mesopotamia",
+  "rome-italy",
+  "balkans",
+  "britain-ireland",
+  "china"
+ ],
+ "countries": [
+  "BG",
+  "EG",
+  "IQ",
+  "IT",
+  "GB",
+  "CN",
+  "MX"
+ ],
+ "facets": {
+  "kind": "metal"
+ },
+ "text": {
+  "what": "A bright yellow metal, dense at 19.3 grams per cubic centimetre, soft, and so malleable that a single gram beats out into a sheet a metre square. It occurs native, usually in solid solution with silver. It does not corrode and it does not tarnish, which is the property every tradition that uses it eventually says something about.",
+  "story": "Gold is the earliest metal on the human record. Small quantities appear in Spanish caves from around 40,000 BCE; the oldest gold artefacts in the world come from the Varna Necropolis in Bulgaria, fifth millennium BCE — the same cemetery that produced the first faceted carnelian beads. Egyptian and Mesopotamian gold objects follow in the fourth millennium BCE.\n\nIn amulets, gold's job is usually to say who is wearing it. A Roman boy wore a bulla, a locket-like pouch with a protective amulet inside, from nine days after birth until he put on the toga of manhood. Upper-class families could afford bullae of gold or covered in gold foil; everyone else used lead, leather and cloth. The girls' equivalent is defined by Isidore of Seville: \"Lunulae are female ornaments in the likeness of the moon, little hanging gold bullae.\" Plautus has Epidicus ask a girl, \"Don't you remember my bringing you a gold lunula on your birthday, and a little gold ring for your finger?\" The same charm, on two children, in two price brackets.\n\nElsewhere gold is one option in a list. Egyptian amulets were made of faience above all, but also of stone, metal, bone, wood and gold. Late antique sheet amulets from Palestine and Syria were rolled from silver, gold, copper and lead. Milagros, the Latin American votive charms, are made from gold, silver, tin, lead, wood, bone or wax, depending on local custom and on what the person can spend. Part of the Thetford treasure in Norfolk is a gold box made to hang round the neck, found to contain sulphur for its evil-repelling qualities.\n\nGold is also the benchmark other materials are measured against, and sometimes beaten by. Jade reaching the Chinese court from Khotan is described as having status-value exceeding that of gold or silver. In the Han jade burial suits the gold is demoted to thread: emperors' suits were sewn with gold wire, princes and marquises with silver, their children with copper, lesser aristocrats with silk. *Inference —* a material hierarchy written into a burial regulation is the clearest statement in this atlas that what a charm is made of is a claim about the person in it.",
+  "today": "Gold amulets are sold everywhere amulets are sold, and are the class of charm most likely to be melted rather than kept — which is a survival bias running the opposite way to faience. The Aztecs, the gold literature notes, called the metal literally \"god excrement\"."
+ },
+ "dating": {
+  "period": "Chalcolithic to the present",
+  "from_year": -4999,
+  "to_year": null,
+  "living": true,
+  "label": "5th millennium BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-gold",
+  "note": "Dated from the Varna Necropolis gold, described as the oldest gold artefacts in the world and placed in the fifth millennium BCE. The floor is set at the start of that millennium because the source gives no closer year."
+ },
+ "against": [
+  {
+   "harm": "child-harm",
+   "who": "Roman parents, who hung a bulla on a boy nine days after birth and a lunula on a girl",
+   "source": "s:wp-bulla-amulet",
+   "tier": "cited"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "Roman use as summarised by Isidore of Seville and by writers on Roman dress",
+   "source": "s:wp-lunula-amulet",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the givers of milagros, votive charms made in gold where a family can afford gold",
+   "source": "s:wp-milagro-votive",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "bulla",
+   "as": "gold for the families that could pay for gold, lead and leather for the rest — the same charm, sorted by price",
+   "rel": "carried-by"
+  },
+  {
+   "to": "lunula",
+   "as": "defined in the sources as a little hanging gold bulla in the likeness of the moon",
+   "rel": "carried-by"
+  },
+  {
+   "to": "milagro",
+   "as": "made in gold, silver, tin, lead, wood, bone or wax, according to local custom and what the giver has",
+   "rel": "carried-by"
+  },
+  {
+   "to": "jade",
+   "as": "the material that outranked gold at the Chinese court, and demoted it to the thread holding a burial suit together",
+   "rel": "contrast"
+  },
+  {
+   "to": "silver",
+   "as": "the metal one step down, and the one most of the world's amulets are actually made of",
+   "rel": "kin"
+  },
+  {
+   "to": "lead",
+   "as": "the poor man's bulla, named as such in the same sentence",
+   "rel": "contrast"
+  },
+  {
+   "to": "greco-roman-apotropaic",
+   "as": "the tradition whose charms for children this metal grades",
+   "rel": "tradition"
+  },
+  {
+   "to": "magical-gem",
+   "as": "the engraved stone that was set in gold when the owner could manage it",
+   "rel": "kin"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read on value, ownership and what happens to a charm worth melting",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Gold — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gold"
+  }
+ ],
+ "sources": [
+  "s:wp-gold",
+  "s:wp-bulla-amulet",
+  "s:wp-lunula-amulet",
+  "s:wp-amulet",
+  "s:wp-milagro-votive",
+  "s:wp-jade",
+  "s:wp-jade-burial-suit"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-gold"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-bulla-amulet",
+    "note": "the closing sentence is this project's inference and is marked in the text"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "the melting-down argument is this project's reasoning from the metal's value; no survey backs it"
+   }
+  }
+ },
+ "x_commons_files": [
+  "File:Bulla Roman gold.jpg"
+ ],
+ "confidence": "high",
+ "schema": 1,
+ "type": "material",
+ "images": [],
+ "updated": "2026-09-16"
+}

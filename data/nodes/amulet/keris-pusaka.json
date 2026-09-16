@@ -1,0 +1,86 @@
+{
+ "schema": 1,
+ "id": "keris-pusaka",
+ "type": "amulet",
+ "names": {
+  "name": "Keris pusaka",
+  "native": "ꦏꦼꦫꦶꦱ꧀",
+  "script": "Javanese",
+  "lang": "jv",
+  "said": "KREES pu-SA-ka",
+  "aliases": ["kris", "keris", "dhuwung", "wangkingan", "tosan aji", "karih", "sele"]
+ },
+ "etymology": {
+  "root": "Old Javanese kris, 'dagger'; keris ꦏꦼꦫꦶꦱ꧀ in the Javanese ngoko register, dhuwung in krama, wangkingan in krama inggil. Pusaka is a sanctified heirloom",
+  "note": "The blade has a different name at each level of Javanese politeness, which is a measure of what kind of object it is. Malay, Sundanese, Balinese and Sasak spell it keris; Minangkabau karih; Buginese and Makassarese sele.",
+  "tier": "cited",
+  "source": "s:wp-kris"
+ },
+ "region": ["island-sea"],
+ "countries": ["ID", "MY", "BN", "PH"],
+ "facets": {"era": "medieval", "status": "living", "portable": "worn", "restricted": "open", "hemisphere": ["N", "S", "E"]},
+ "text": {
+  "what": "An asymmetrical dagger in three parts: blade (bilah), hilt (hulu) and sheath (warangka). The blade is forged from alternating laminations of iron and nickelous iron, and the contrast between them stands out on the finished surface as pamor, a pattern. Many blades are wavy — the waves are luk — and many are straight. Each part is worked: carved wood, ivory, brass, iron, silver or gold, set with stones. A blade is described by its dhapur, the form, of which there are around 60 variants; by its pamor, of which there are around 250; and by its tangguh, which is its age and origin. Worn in the belt at the back.",
+  "story": "The kris is a weapon that is also a member of the family. Javanese calls a heirloom blade tosan aji, sacred heirloom weapon, and counts it a pusaka. Blades are handed down through generations and worn at weddings and other ceremonies. A kris given by a Javanese king to a noble or a subject carried the king's confidence with it and was a great honour; the property the blade confers is piyandel, which means to add self-confidence. A Javanese groom wears one with a chain of jasmine wound round it, and the flowers say he should not be quick to anger.\n\nThe smith is the point. Making a kris was the work of an empu — 'possessor' — the honorary title in Java for an ironsmith with the skill to forge one, as against a pandai besi who makes tools and peasants' weapons. A kris empu was held to need knowledge, technical skill and spiritual prowess together, because the blade has a physical and a spiritual presence. The metal is layered from different iron ores and meteorite nickel, folded dozens or hundreds of times on a high-quality blade. Some take a short time; some take years. Empu are described as craftsmen who also know literature, history and the occult.\n\nThe blade is treated as alive and, more to the point, as not necessarily friendly. Kris are held to be vessels for spirits, good or bad. A blade can be tested: cuts on a leaf, read against the blade's width, say whether it is a good one; or the owner sleeps with it under the pillow and reads the dream — a bad dream and the blade has to go, a good one and it stays. A blade bad for one person is not bad for another, and the fit between weapon and owner is what matters. Types carry their own claims: Beras Wutah was held to grant its possessor a life without famine, and was given mainly to officials paid in foodstuffs. Pointing a kris at someone means they will die soon, so silat practitioners touch the blade tips to the ground before a demonstration.\n\nThe legends have names and centuries. The Pararaton tells of Mpu Gandring, the smith killed by his impatient customer Ken Arok in the last days of Kediri in the thirteenth century, who cursed the unfinished blade to kill seven men, Ken Arok among them. The Sejarah Melayu of Tun Sri Lanang tells of Taming Sari, made by a Javanese empu, won in a duel by the Melakan admiral Hang Tuah in the fifteenth century, and so well made that whoever held it could not be beaten. Setan Kober, 'devil of the grave', forged with thirteen luk by Empu Bayu Aji and disturbed at its charging by a crying djinn from the graveyard, made its wielders overly ambitious and impatient and finally killed Arya Penangsang in the sixteenth century.\n\nColonial law disarmed it. Firearms came into the archipelago in the sixteenth century; the forging of edged weapons fell away as sultans and rajas were subjugated, and in some regions carrying cutting and stabbing weapons was banned. The turning point in Java was 1830, when Prince Diponegoro, defeated at the end of the five-year Java War, handed his kris to the Dutch. The early twentieth century brought a ban on carrying edged weapons in the Dutch East Indies. The ceremonial and protective use continued anyway, in the kraton and istana of Indonesia, Malaysia and the Muslim-inhabited southern Philippines.\n\nIt is a live object still, with the danger that implies. In the Balinese Barong dance the segment called the keris dance has male dancers in trance stabbing themselves in the chest with their own blades and coming away unhurt. In February 2021 a 16-year-old kris dancer was stabbed to death in the heart by his own kris during a Rangda dance in Denpasar.",
+  "how": "Forged by an empu from layers of different iron ores and meteorite nickel, folded and folded again, the pamor raised by the contrast between the laminations. The smiths carried out old rites that were held to put power into the blade; this project's sources do not print them, and nor does this record. A kris needs a yearly cleaning, called jamasan in Javanese, which is part of what is owed to it — the repeated cleanings leave old blades worn and thin. Repairs used whatever was to hand locally, so a blade from Java can end up with a hilt from Bali and a sheath from Madura. Warriors made offerings to their kris at a shrine.",
+  "today": "In 2005 UNESCO put the Indonesian kris on the Representative List of the Intangible Cultural Heritage of Humanity. Making it had nearly stopped by the 1990s, under economic pressure and changing values; concerned specialists pushed a revival and craftsmanship picked up. Smiths still work in Madura, Surakarta, Yogyakarta, Makassar and Palembang, but their numbers are falling sharply and successors are hard to find. The craft survives in villages such as Banyu Sumurup in Imogiri, Bantul, near Yogyakarta, where a blade is made either as a sacred amulet ordered by an enthusiast who wants its spiritual power, or as a souvenir for a visitor — the same workshop, two customers, and the argument about whether those are the same object sits inside the trade rather than outside it."
+ },
+ "dating": {
+  "period": "Kediri and Singhasari to the present",
+  "from_year": 1200,
+  "to_year": null,
+  "living": true,
+  "label": "13th century to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-kris",
+  "note": "The earliest anchor in this project's source is the Pararaton's tale of Mpu Gandring, set in the last days of Kediri in the thirteenth century. No excavated date is given there, and none is asserted here; kris older than that are likely and are not claimed."
+ },
+ "object": {
+  "form": "nail",
+  "materials": ["iron", "gold", "silver", "brass", "wood", "bone"],
+  "worn": ["waist", "wall"],
+  "made_by": "an empu — in Java the honorary title for an ironsmith with the skill to forge a kris, as distinct from a pandai besi who makes tools",
+  "inscription": "none as writing; the blade is read by dhapur (around 60 forms), pamor (around 250 patterns) and tangguh (age and origin)",
+  "single_use": false,
+  "source": "s:wp-kris",
+  "note": "Form 'nail' is this atlas's key for a blade. Carried at the back in the belt; men usually one, women a smaller one, a fighter in battle sometimes three — his own, his father-in-law's, and the family heirloom. No published measurement was read."
+ },
+ "against": [
+  {"harm": "bad-luck", "who": "Javanese owners, who test a blade by cutting a leaf or by sleeping with it under the pillow and reading the dream — a bad dream and the blade is discarded", "source": "s:wp-kris", "tier": "cited"},
+  {"harm": "poverty", "who": "holders of the Beras Wutah type, which was held to grant its possessor an easy life without famine and was assigned mainly to officers paid in foodstuffs", "source": "s:wp-kris", "tier": "cited"},
+  {"harm": "fire", "who": "Javanese accounts of what a kris could prevent — fires, death and agricultural failure among them", "source": "s:wp-kris", "tier": "cited"},
+  {"harm": "attraction", "who": "the same accounts, on the other side of the ledger: some kris were held to bring fortune, such as bountiful harvests", "source": "s:wp-kris", "tier": "cited"},
+  {"harm": "weapons", "who": "the Barong dance of Bali, in which dancers in trance turn their own blades on their chests and are held to be made invulnerable to sharp objects", "source": "s:wp-kris", "tier": "cited", "note": "the source also records a dancer killed by his own kris during a Rangda dance in Denpasar in February 2021"}
+ ],
+ "recognitions": [
+  {"by": "unesco-ich", "what": "the Indonesian kris, on the Representative List of the Intangible Cultural Heritage of Humanity", "year": 2005, "source": "s:wp-kris"}
+ ],
+ "kin": [
+  {"to": "jimat", "as": "the Malay and Indonesian class of protective objects this belongs to, and outranks: a kris is a jimat with a smith's name on it", "rel": "whole"},
+  {"to": "iron", "as": "the material argument in full — laminations of iron and nickelous iron, folded to raise the pamor, and the reason a blade is read like a face", "rel": "material"},
+  {"to": "inheriting", "as": "what makes it a pusaka: handed down through generations, worn at weddings, given by a king to mark his confidence", "rel": "practice"},
+  {"to": "feeding-the-charm", "as": "jamasan, the yearly cleaning the blade is owed, which wears old blades thin", "rel": "practice"},
+  {"to": "unesco-ich", "as": "the body that inscribed the Indonesian kris in 2005", "rel": "org"},
+  {"to": "anting-anting", "as": "the Philippine charm carried in the same fights; kris forging continued in the Spanish East Indies while Java's was being banned", "rel": "kin"},
+  {"to": "hei-tiki", "as": "the other heirloom in this atlas treated as a person rather than a possession, and handed down the same way", "rel": "parallel"},
+  {"to": "phra-khrueang", "as": "the Thai parallel in how worth is set: maker, lineage and age decide the price, not the metal", "rel": "parallel"},
+  {"to": "mjolnir-pendant", "as": "the other weapon worn as a charm in this atlas, though that one is a hammer in miniature and this one is a working blade", "rel": "parallel"},
+  {"to": "who-owns-a-charm", "as": "the long read the Banyu Sumurup workshop belongs in: one bench, one blade for an enthusiast's shrine and one for a visitor's shelf", "rel": "story"},
+  {"to": "serpent", "as": "the sign read into the wavy blade, whose luk are counted and named", "rel": "motif"}
+ ],
+ "links": [{"label": "Kris — Wikipedia", "url": "https://en.wikipedia.org/wiki/Kris"}],
+ "sources": ["s:wp-kris", "s:web-wp-indonesian-numismatic-charm", "s:wp-iron", "s:wp-agimat"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-kris"},
+  "fields": {
+   "text.how": {"tier": "cited", "source": "s:wp-kris", "note": "the source says the smiths carried out rites that infused the blade; it does not describe them, and this record does not reconstruct them"},
+   "kin": {"tier": "cited", "source": "s:wp-kris", "note": "the serpent reading of the luk is this project's, offered as a sign-family link rather than as a Javanese gloss"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Keris Jawa.jpg", "File:Kris blade pamor.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

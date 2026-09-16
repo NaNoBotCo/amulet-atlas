@@ -1,0 +1,162 @@
+{
+ "id": "paper",
+ "names": {
+  "name": "Paper",
+  "aliases": [
+   "kamifuda",
+   "fu",
+   "bujeok",
+   "tarsh"
+  ]
+ },
+ "region": [
+  "japan",
+  "china",
+  "korea",
+  "ancient-egypt",
+  "west-africa",
+  "north-america"
+ ],
+ "countries": [
+  "JP",
+  "CN",
+  "KR",
+  "EG",
+  "ML",
+  "GH",
+  "US"
+ ],
+ "facets": {
+  "kind": "written"
+ },
+ "text": {
+  "what": "The cheapest surface a charm can be written on, and the one that lets a charm be printed. Paper amulets are issued, folded, sealed into cases, pasted to doors, swallowed, and burnt at the end of a year. Writers on amulets draw the line here: an amulet proper is usually made of something durable, metal or hard stone, and the word talisman is more often used for these less robust, more individual forms.",
+  "story": "Paper made the amulet a print run. In medieval Egypt, block-printed prayers were struck from a die called a tarsh and folded down small enough for a tiny wearable case. The Aga Khan Museum in Toronto holds an Egyptian block-printed amulet of the tenth or eleventh century: minuscule ink script on paper, 7.2 by 5.5 cm, whose final line is a verse of the Qur'an — \"So God will safeguard you from them. He is All-Hearing and All-Knowing\". Such text amulets were housed in lead cases stamped with surat al-Ikhlas, with lugs so the package could be sewn to clothing or hung from the body, and were most likely kept sealed shut — so the buyer never saw the text inside, which is one reason they were affordable.\n\nEast Asia industrialised it differently. Taoist specialists developed fulu, a calligraphy made to act; the Japanese equivalent is the ofuda, made of paper, wood, cloth or metal, with paper ones called kamifuda. The three shrines of Kumano stamped their paper talismans with stylised crows; those sheets were used in oath-taking and contract drafting, with the terms written on the blank side. The Ise talismans, the Jingu Taima, were handed out across the country by wandering shrine officials: a document of 1777 indicates that eighty-nine to ninety per cent of all households in Japan owned one. The distribution was nationalised — an imperial decree of 1871 abolished the oshi who carried them, a new department took over production in 1900, the National Association of Shinto Priests took distribution in 1927, and the Association of Shinto Shrines has it now. In Korea the paper bujeok is carried inside a small brocade bag.\n\nWest African gris-gris were fashioned as small sacks holding Qur'anic scripture written on pieces of paper, with herbs, worn at the neck; the practice moved with the Atlantic slave trade into Louisiana Voodoo and Haitian Vodou.\n\n*Inference —* paper is the reason the amulet record after about 1700 looks so much fuller than the record before it, and it has nothing to do with more people wanting charms. Printing made the charm cheap, and the same fragility that lost every earlier paper charm is still running.",
+  "how": "Written, stamped, or block-printed; then folded, rolled, cased, pasted up or carried. A paper charm usually has a term. Japanese ofuda and omamori are renewed at the year's turn and the old one returned to the shrine to be burnt.",
+  "today": "Still the world's commonest amulet material by volume, and the one most likely to be bought at a counter. Paper also marks a boundary in Jewish practice: a mezuzah must be handwritten on parchment by a qualified scribe, and a text photocopied onto paper and sold with a case is not a valid mezuzah."
+ },
+ "dating": {
+  "period": "medieval Egypt to the present",
+  "from_year": 901,
+  "to_year": null,
+  "living": true,
+  "label": "10th century CE to now",
+  "method": "dated-object",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-amulet",
+  "note": "Dated from the block-printed Egyptian paper amulet of the tenth or eleventh century in the Aga Khan Museum. Chinese fulu and its Japanese descendants are older than any year given in the sources read here."
+ },
+ "against": [
+  {
+   "harm": "demons",
+   "who": "Taoist practitioners of fulu, whose calligraphy is made against evil spirits",
+   "source": "s:wp-amulet",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "Shinto shrines, which issue ofuda for calamity and misfortune and for safety in the home",
+   "source": "s:wp-ofuda",
+   "tier": "cited"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "the makers of block-printed Islamic paper amulets, and the Qur'anic verses printed on them",
+   "source": "s:wp-amulet",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "ofuda",
+   "as": "the Japanese paper talisman, issued by a shrine, placed on the household altar and renewed yearly",
+   "rel": "carried-by"
+  },
+  {
+   "to": "omamori",
+   "as": "the pocket version of the same sheet, sewn into brocade so the paper is never seen",
+   "rel": "carried-by"
+  },
+  {
+   "to": "fu-talisman",
+   "as": "the Taoist written charm this whole family descends from",
+   "rel": "carried-by"
+  },
+  {
+   "to": "bujeok",
+   "as": "the Korean paper talisman, carried inside a small brocade bag",
+   "rel": "carried-by"
+  },
+  {
+   "to": "omikuji",
+   "as": "the paper drawn at a shrine and tied up there — the same material, spent in one use",
+   "rel": "carried-by"
+  },
+  {
+   "to": "taweez",
+   "as": "the folded or printed Qur'anic text in its case, which is where paper met the printing die",
+   "rel": "carried-by"
+  },
+  {
+   "to": "gris-gris",
+   "as": "Qur'anic verses on scraps of paper, sewn in a sack with herbs and worn at the neck",
+   "rel": "carried-by"
+  },
+  {
+   "to": "parchment",
+   "as": "the material paper is not allowed to replace, in the one tradition that says so in writing",
+   "rel": "contrast"
+  },
+  {
+   "to": "ink",
+   "as": "the other half of every charm on this page",
+   "rel": "kin"
+  },
+  {
+   "to": "burning-retirement",
+   "as": "the practice a paper charm usually ends in",
+   "rel": "practice"
+  },
+  {
+   "to": "folding",
+   "as": "how a printed sheet becomes something small enough to wear",
+   "rel": "practice"
+  }
+ ],
+ "links": [
+  {
+   "label": "Ofuda — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ofuda"
+  }
+ ],
+ "sources": [
+  "s:wp-amulet",
+  "s:wp-ofuda",
+  "s:wp-gris-gris-talisman",
+  "s:wp-mezuzah",
+  "s:wp-fulu"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-amulet"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-ofuda",
+    "note": "the closing paragraph is this project's inference and is marked in the text"
+   }
+  }
+ },
+ "x_commons_files": [
+  "File:Ofuda.jpg",
+  "File:Omamori.jpg"
+ ],
+ "confidence": "high",
+ "schema": 1,
+ "type": "material",
+ "images": [],
+ "updated": "2026-09-16"
+}

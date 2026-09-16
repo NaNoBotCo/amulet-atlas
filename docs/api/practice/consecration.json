@@ -1,0 +1,767 @@
+{
+ "schema": 1,
+ "id": "consecration",
+ "type": "practice",
+ "names": {
+  "name": "Consecration",
+  "aliases": [
+   "charging",
+   "empowerment",
+   "blessing an object",
+   "phutthaphisek",
+   "abhiseka",
+   "batèms"
+  ],
+  "said": "the step that turns an object into a charm"
+ },
+ "region": [
+  "world",
+  "mainland-sea",
+  "japan",
+  "china",
+  "south-asia",
+  "himalaya-tibet",
+  "central-africa",
+  "west-africa",
+  "caribbean",
+  "western-europe"
+ ],
+ "countries": [
+  "TH",
+  "JP",
+  "IN",
+  "LK",
+  "CN",
+  "CD",
+  "BJ",
+  "HT",
+  "IT",
+  "VA",
+  "NG"
+ ],
+ "facets": {
+  "stage": "charge",
+  "era": "living",
+  "status": "living",
+  "restricted": "limited"
+ },
+ "text": {
+  "what": "The step that makes a made thing a charm. A clay tablet pressed in a temple yard is clay until somebody chants over it; a printed slip is paper until a shrine stamps and empowers it. Traditions that agree on almost nothing agree on this: the object arrives inert and a qualified person, in a set rite, puts something into it. Who counts as qualified is the part each tradition guards.",
+  "story": "Thailand states the labour plainly. Monks chant and bless amulets in a process that can take from a week to several years, and an amulet's later value turns on which temple pressed it and which monk consecrated it. Takrut — rolled metal or palm-leaf scrolls — were being made by monks in Thailand by 1200–1300 CE, on a practice the sources say predates Buddhism's arrival there.\n\nHinduism puts the requirement as a negative. Occult yantras are consecrated and energised by a priest using mantras tied to the specific deity, and practitioners hold that a yantra not energised with a mantra is lifeless. Japan says the same thing about paper: an ofuda carries the kami's essence, in the words of the practice, by virtue of its consecration, and omamori are made sacred through ritual and said to contain busshin — spiritual offshoots — in a Shinto frame, or kesshin, manifestations, in a Buddhist one.\n\nIn Kongo practice the substances go in and the figure is then woken. The nails driven into an nkisi nkondi are not ornament: each nail or metal piece stands for a vow or an agreement, and scholars of the tradition describe the driving as a requirement of awakening the spirit. In Haitian Vodou a batèm, a baptism, makes an object a vessel for the lwa, and an object consecrated for ritual use is held to contain nanm, a spiritual essence; the ason rattle cannot be used before it. The Catholic Church files the same move under law: the Catechism lists three kinds of sacramental — blessings, consecrations and dedications, and exorcisms.\n\n*Inference —* set those side by side and the shared structure is a transfer with a gatekeeper. The rite differs, the gate does not. That is also why consecration is the point where this atlas stops writing.",
+  "how": "Structure only, which is all that is public in several of these traditions: an object is made; a person the tradition recognises — monk, priest, nganga, oungan, sofer's client, shrine office — performs a set rite over it, often with words fixed by the lineage; the object is then handled differently from how it was handled an hour earlier. In Thailand mass consecrations are held in temple halls with many monks chanting over trays of amulets for hours or days. In Japan the object then bears a shrine's seal. In Tibetan Buddhism the equivalent transfer runs the other way, into a person: an initiation or empowerment (Sanskrit abhiseka, Tibetan wangkur) consecrates a practitioner into a particular tantric practice.",
+  "today": "Live everywhere, and contested at the edges. Japanese priests have complained about the quality of factory-made omamori that shrines order when demand outruns their own production, and shops sell generic omamori carrying licensed characters that no shrine issued. Among Yoruba egúngún societies, some people make masks for sale on the international art market without consecrating or using them, and other members of the society disapprove of the practice. Both arguments are about the same thing: whether an unconsecrated copy is the object at all."
+ },
+ "dating": {
+  "period": "attested from the medieval period; older in every tradition's own account",
+  "from_year": 1200,
+  "to_year": null,
+  "living": true,
+  "label": "c. 1200 CE to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-takrut",
+  "note": "Dated from the earliest instance these sources put a year on — takrut made by monks in Thailand in 1200–1300 CE. The practice is plainly older everywhere it appears; this record dates what it can cite, not what it assumes."
+ },
+ "object": {
+  "form": "plaque",
+  "materials": [
+   "terracotta",
+   "paper",
+   "copper",
+   "wood"
+  ],
+  "worn": [
+   "neck",
+   "wall",
+   "shop"
+  ],
+  "made_by": "in each tradition, a person that tradition recognises: an ordained monk, a consecrating priest, an nganga, an oungan or manbo, a shrine office",
+  "single_use": false,
+  "source": "s:wp-thai-buddha-amulet",
+  "note": "There is no one object here. The form given is the commonest thing consecrated in the traditions this record cites."
+ },
+ "restricted": {
+  "note": "The words said over an object are restricted in several of these traditions, and this atlas does not print them. Tibetan Buddhism gates the practices themselves: without having gone through initiation, one is generally not allowed to practise the higher tantras. Taoist talismanic craft is transmitted in secret from priest to disciple. Where a rite is closed, this record describes its structure and its purpose and stops there.",
+  "who_says": "Tibetan Buddhist initiation practice as described in the cited account; Taoist transmission as described by Ge Zhaoguang of Fudan University",
+  "source": "s:wp-tibetan-buddhism"
+ },
+ "against": [
+  {
+   "harm": "bad-luck",
+   "who": "Thai amulet practice, as summarised in the cited account",
+   "source": "s:wp-thai-buddha-amulet",
+   "tier": "cited",
+   "note": "consecration is what the amulet's protective claim rests on; an unconsecrated press is not sold as one"
+  },
+  {
+   "harm": "spirits",
+   "who": "Kongo banganga, as described by scholars of minkisi",
+   "source": "s:wp-nkisi",
+   "tier": "cited",
+   "note": "the driving of nails is described as awakening the spirit that does the work"
+  },
+  {
+   "harm": "illness",
+   "who": "Taoist zhuyou practice, used in China alongside medicine, meditation, acupuncture and massage",
+   "source": "s:wp-fulu",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "phra-khrueang",
+   "as": "the object this step is priced by — which temple pressed it and which monk chanted over it is most of its value",
+   "rel": "practice"
+  },
+  {
+   "to": "takrut",
+   "as": "the earliest dated thing in this record: monks in Thailand rolling and empowering metal scrolls by 1200–1300 CE",
+   "rel": "practice"
+  },
+  {
+   "to": "ofuda",
+   "as": "paper that carries a kami's essence, in the practice's own words, by virtue of this step",
+   "rel": "practice"
+  },
+  {
+   "to": "omamori",
+   "as": "the packet made sacred through ritual, then never opened by the person carrying it",
+   "rel": "practice"
+  },
+  {
+   "to": "yantra-plate",
+   "as": "the diagram a priest energises with a mantra; practitioners hold that one left un-energised is lifeless",
+   "rel": "practice"
+  },
+  {
+   "to": "nkisi",
+   "as": "the figure woken rather than blessed — each nail a vow driven into it",
+   "rel": "practice"
+  },
+  {
+   "to": "agnus-dei",
+   "as": "the Catholic wax disc whose whole standing comes from who blessed it",
+   "rel": "practice"
+  },
+  {
+   "to": "catholic-sacramentals",
+   "as": "the tradition that wrote this step into canon law: blessings, consecrations and dedications, exorcisms",
+   "rel": "tradition"
+  },
+  {
+   "to": "thai-wicha",
+   "as": "the tradition where the consecrating monk's name is the object's provenance",
+   "rel": "tradition"
+  },
+  {
+   "to": "blessing-at-a-shrine",
+   "as": "the same transfer done over the counter, to a stranger, for a donation",
+   "rel": "parallel"
+  },
+  {
+   "to": "inscribing",
+   "as": "the step before this one — the writing that has to be right before anyone chants over it",
+   "rel": "practice"
+  },
+  {
+   "to": "tattooing",
+   "as": "consecration with no object at all: the words go over skin, and the rules stay on the person",
+   "rel": "parallel"
+  }
+ ],
+ "links": [
+  {
+   "label": "Thai Buddha amulet — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thai_Buddha_amulet"
+  },
+  {
+   "label": "Ofuda — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ofuda"
+  }
+ ],
+ "sources": [
+  "s:wp-thai-buddha-amulet",
+  "s:wp-takrut",
+  "s:wp-yantra",
+  "s:wp-ofuda",
+  "s:wp-omamori",
+  "s:wp-nkisi",
+  "s:wp-haitian-vodou",
+  "s:wp-sacramental",
+  "s:wp-tibetan-buddhism",
+  "s:wp-fulu",
+  "s:wp-west-african-vod-n"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-thai-buddha-amulet"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-thai-buddha-amulet",
+    "note": "the closing paragraph is marked as this project's inference where it appears"
+   },
+   "text.how": {
+    "tier": "tradition",
+    "note": "structure only; the cited sources describe that a rite happens and who may perform it, not what is said in it, and this record does not fill that gap"
+   },
+   "object": {
+    "tier": "inference",
+    "note": "there is no single consecrated object; the form and materials are the commonest cases in the cited traditions"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Thai amulets.jpg",
+  "File:Ofuda of Ise Jingu.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "The step that makes a made thing a charm. A clay tablet pressed in a temple yard is clay until somebody chants over it; a printed slip is paper until a shrine stamps and empowers it.",
+ "region_terms": [
+  {
+   "key": "world",
+   "name": "Everywhere",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "use for a sign or a practice documented on more than two continents"
+  },
+  {
+   "key": "mainland-sea",
+   "name": "Mainland Southeast Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "japan",
+   "name": "Japan",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "china",
+   "name": "China",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "himalaya-tibet",
+   "name": "The Himalaya and Tibet",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "central-africa",
+   "name": "Central Africa",
+   "hemi": [
+    "N",
+    "S",
+    "E"
+   ]
+  },
+  {
+   "key": "west-africa",
+   "name": "West Africa",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "caribbean",
+   "name": "The Caribbean",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "western-europe",
+   "name": "Western Europe",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "phra-khrueang",
+   "type": "amulet",
+   "name": "Phra khrueang",
+   "as": "the object this step is priced by — which temple pressed it and which monk chanted over it is most of its value",
+   "rel": "practice"
+  },
+  {
+   "to": "takrut",
+   "type": "amulet",
+   "name": "Takrut",
+   "as": "the earliest dated thing in this record: monks in Thailand rolling and empowering metal scrolls by 1200–1300 CE",
+   "rel": "practice"
+  },
+  {
+   "to": "ofuda",
+   "type": "amulet",
+   "name": "Ofuda",
+   "as": "paper that carries a kami's essence, in the practice's own words, by virtue of this step",
+   "rel": "practice"
+  },
+  {
+   "to": "omamori",
+   "type": "amulet",
+   "name": "Omamori",
+   "as": "the packet made sacred through ritual, then never opened by the person carrying it",
+   "rel": "practice"
+  },
+  {
+   "to": "yantra-plate",
+   "type": "amulet",
+   "name": "Yantra plate",
+   "as": "the diagram a priest energises with a mantra; practitioners hold that one left un-energised is lifeless",
+   "rel": "practice"
+  },
+  {
+   "to": "nkisi",
+   "type": "amulet",
+   "name": "Nkisi",
+   "as": "the figure woken rather than blessed — each nail a vow driven into it",
+   "rel": "practice"
+  },
+  {
+   "to": "agnus-dei",
+   "type": "amulet",
+   "name": "Agnus Dei",
+   "as": "the Catholic wax disc whose whole standing comes from who blessed it",
+   "rel": "practice"
+  },
+  {
+   "to": "catholic-sacramentals",
+   "type": "tradition",
+   "name": "Catholic sacramentals",
+   "as": "the tradition that wrote this step into canon law: blessings, consecrations and dedications, exorcisms",
+   "rel": "tradition"
+  },
+  {
+   "to": "thai-wicha",
+   "type": "tradition",
+   "name": "Thai wicha",
+   "as": "the tradition where the consecrating monk's name is the object's provenance",
+   "rel": "tradition"
+  },
+  {
+   "to": "blessing-at-a-shrine",
+   "type": "practice",
+   "name": "Blessing at a shrine",
+   "as": "the same transfer done over the counter, to a stranger, for a donation",
+   "rel": "parallel"
+  },
+  {
+   "to": "inscribing",
+   "type": "practice",
+   "name": "Inscribing",
+   "as": "the step before this one — the writing that has to be right before anyone chants over it",
+   "rel": "practice"
+  },
+  {
+   "to": "tattooing",
+   "type": "practice",
+   "name": "Tattooing",
+   "as": "consecration with no object at all: the words go over skin, and the rules stay on the person",
+   "rel": "parallel"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-thai-buddha-amulet",
+   "kind": "encyclopedia",
+   "title": "Thai Buddha amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thai_Buddha_amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-takrut",
+   "kind": "encyclopedia",
+   "title": "Takrut",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Takrut",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-yantra",
+   "kind": "encyclopedia",
+   "title": "Yantra",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ofuda",
+   "kind": "encyclopedia",
+   "title": "Ofuda",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ofuda",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-omamori",
+   "kind": "encyclopedia",
+   "title": "Omamori",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Omamori",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-nkisi",
+   "kind": "encyclopedia",
+   "title": "Nkisi",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nkisi",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-haitian-vodou",
+   "kind": "encyclopedia",
+   "title": "Haitian Vodou",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Haitian_Vodou",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-sacramental",
+   "kind": "encyclopedia",
+   "title": "Sacramental",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sacramental",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tibetan-buddhism",
+   "kind": "encyclopedia",
+   "title": "Tibetan Buddhism",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tibetan_Buddhism",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fulu",
+   "kind": "encyclopedia",
+   "title": "Fulu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fulu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-west-african-vod-n",
+   "kind": "encyclopedia",
+   "title": "West African Vodún",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/West_African_Vod%C3%BAn",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-thai-buddha-amulet"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-thai-buddha-amulet",
+   "note": "the closing paragraph is marked as this project's inference where it appears"
+  },
+  "text.how": {
+   "tier": "tradition",
+   "note": "structure only; the cited sources describe that a rite happens and who may perform it, not what is said in it, and this record does not fill that gap"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-thai-buddha-amulet"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-thai-buddha-amulet"
+  },
+  "object": {
+   "tier": "inference",
+   "note": "there is no single consecrated object; the form and materials are the commonest cases in the cited traditions"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "Thai amulet practice, as summarised in the cited account",
+   "quote": "",
+   "source": "s:wp-thai-buddha-amulet",
+   "tier": "cited",
+   "note": "consecration is what the amulet's protective claim rests on; an unconsecrated press is not sold as one"
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "Kongo banganga, as described by scholars of minkisi",
+   "quote": "",
+   "source": "s:wp-nkisi",
+   "tier": "cited",
+   "note": "the driving of nails is described as awakening the spirit that does the work"
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "Taoist zhuyou practice, used in China alongside medicine, meditation, acupuncture and massage",
+   "quote": "",
+   "source": "s:wp-fulu",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "terracotta",
+   "label": "Fired clay",
+   "kind": "fired"
+  },
+  {
+   "key": "paper",
+   "label": "Paper",
+   "kind": "written"
+  },
+  {
+   "key": "copper",
+   "label": "Copper and bronze",
+   "kind": "metal"
+  },
+  {
+   "key": "wood",
+   "label": "Wood",
+   "kind": "plant"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "shop",
+   "label": "At the till",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "plaque",
+  "label": "Plaque or tablet"
+ },
+ "holding_facts": [],
+ "span": "1200 CE to now",
+ "country_names": [
+  {
+   "iso": "TH",
+   "name": "Thailand"
+  },
+  {
+   "iso": "JP",
+   "name": "Japan"
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  },
+  {
+   "iso": "LK",
+   "name": "Sri Lanka"
+  },
+  {
+   "iso": "CN",
+   "name": "China"
+  },
+  {
+   "iso": "CD",
+   "name": "Dem. Rep. Congo"
+  },
+  {
+   "iso": "BJ",
+   "name": "Benin"
+  },
+  {
+   "iso": "HT",
+   "name": "Haiti"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "VA",
+   "name": "Vatican City"
+  },
+  {
+   "iso": "NG",
+   "name": "Nigeria"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "agnus-dei",
+   "type": "amulet",
+   "name": "Agnus Dei",
+   "as": "the act that makes it — a papal blessing on a seven-year cycle, which is the scarcest consecration schedule in this atlas",
+   "rel": "practice"
+  },
+  {
+   "from": "gau-box",
+   "type": "amulet",
+   "name": "Gau",
+   "as": "the step no buyer can perform for themselves — a lama's, and the reason a bought case is not yet a gau",
+   "rel": "practice"
+  },
+  {
+   "from": "nkisi",
+   "type": "amulet",
+   "name": "Nkisi",
+   "as": "the step that turns an assembled container into an nkisi, done away from the village",
+   "rel": "practice"
+  },
+  {
+   "from": "ongon",
+   "type": "amulet",
+   "name": "Ongon",
+   "as": "the step that makes an idol an ongon, done within three years of a shaman's death",
+   "rel": "practice"
+  },
+  {
+   "from": "phra-khrueang",
+   "type": "amulet",
+   "name": "Phra khrueang",
+   "as": "what turns a pressed tablet into a phra khrueang — chanting that runs from a week to several years",
+   "rel": "practice"
+  },
+  {
+   "from": "yantra-plate",
+   "type": "amulet",
+   "name": "Yantra plate",
+   "as": "the step that makes it work at all, in the practitioners' own account: unenergised, they say, the diagram is lifeless",
+   "rel": "practice"
+  },
+  {
+   "from": "bakongo-nkisi-craft",
+   "type": "tradition",
+   "name": "Bakongo nkisi craft",
+   "as": "the step that makes an assembled container into an nkisi, done in isolation away from the village",
+   "rel": "practice"
+  },
+  {
+   "from": "catholic-sacramentals",
+   "type": "tradition",
+   "name": "Catholic sacramentals",
+   "as": "the act that makes an object a sacramental at all: the Church's blessing, by a priest or by a qualified lay person where the ordinary permits",
+   "rel": "practice"
+  },
+  {
+   "from": "hindu-kavacha",
+   "type": "tradition",
+   "name": "Kavacha — the Hindu armour tradition",
+   "as": "the step that separates this tradition's formal objects from its household ones",
+   "rel": "practice"
+  },
+  {
+   "from": "thai-wicha",
+   "type": "tradition",
+   "name": "Thai wicha",
+   "as": "the step this tradition prices by: a week to several years of chanting, and the consecrating monk's name as provenance",
+   "rel": "practice"
+  },
+  {
+   "from": "tibetan-protection",
+   "type": "tradition",
+   "name": "Tibetan protection craft",
+   "as": "the step it reserves to the initiated, and the reason an empty box is not an amulet",
+   "rel": "practice"
+  },
+  {
+   "from": "blessing-at-a-shrine",
+   "type": "practice",
+   "name": "Blessing at a shrine",
+   "as": "the same transfer done privately, by somebody who knows the recipient, on an object already theirs",
+   "rel": "parallel"
+  },
+  {
+   "from": "feeding-the-charm",
+   "type": "practice",
+   "name": "Feeding the charm",
+   "as": "the step that wakes the thing; feeding is what keeps it awake",
+   "rel": "practice"
+  },
+  {
+   "from": "tattooing",
+   "type": "practice",
+   "name": "Tattooing",
+   "as": "the same transfer, with a person instead of an object on the receiving end",
+   "rel": "parallel"
+  },
+  {
+   "from": "the-charm-goes-digital",
+   "type": "story",
+   "name": "The charm goes digital",
+   "as": "the act that Crypto Amulets kept and Sega dropped — the whole argument in one practice",
+   "rel": "practice"
+  }
+ ]
+}

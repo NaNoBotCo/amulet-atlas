@@ -1,0 +1,125 @@
+{
+ "note": "Keys for object.form — the shape of the thing, not what it claims.",
+ "entries": [
+  {
+   "key": "pendant",
+   "label": "Pendant"
+  },
+  {
+   "key": "bead",
+   "label": "Bead"
+  },
+  {
+   "key": "ring",
+   "label": "Ring"
+  },
+  {
+   "key": "bracelet",
+   "label": "Bracelet"
+  },
+  {
+   "key": "cord",
+   "label": "Cord or string"
+  },
+  {
+   "key": "knot",
+   "label": "Knot"
+  },
+  {
+   "key": "plaque",
+   "label": "Plaque or tablet"
+  },
+  {
+   "key": "scroll",
+   "label": "Scroll"
+  },
+  {
+   "key": "folded-paper",
+   "label": "Folded paper"
+  },
+  {
+   "key": "packet",
+   "label": "Sewn packet or pouch"
+  },
+  {
+   "key": "bag",
+   "label": "Bag"
+  },
+  {
+   "key": "box",
+   "label": "Box or reliquary"
+  },
+  {
+   "key": "figurine",
+   "label": "Figurine"
+  },
+  {
+   "key": "coin",
+   "label": "Coin"
+  },
+  {
+   "key": "medal",
+   "label": "Medal"
+  },
+  {
+   "key": "mirror",
+   "label": "Mirror"
+  },
+  {
+   "key": "bell",
+   "label": "Bell"
+  },
+  {
+   "key": "nail",
+   "label": "Nail or blade"
+  },
+  {
+   "key": "horn",
+   "label": "Horn"
+  },
+  {
+   "key": "tattoo",
+   "label": "Tattoo"
+  },
+  {
+   "key": "garment",
+   "label": "Garment"
+  },
+  {
+   "key": "door-piece",
+   "label": "Door or lintel piece"
+  },
+  {
+   "key": "vehicle-piece",
+   "label": "Vehicle hanging"
+  },
+  {
+   "key": "card",
+   "label": "Card or sticker"
+  },
+  {
+   "key": "seal",
+   "label": "Seal or stamp"
+  },
+  {
+   "key": "rosary",
+   "label": "Strung count"
+  },
+  {
+   "key": "statue",
+   "label": "Standing image"
+  },
+  {
+   "key": "app",
+   "label": "An app or a screen"
+  },
+  {
+   "key": "bowl",
+   "label": "Bowl"
+  },
+  {
+   "key": "bottle",
+   "label": "Bottle"
+  }
+ ]
+}

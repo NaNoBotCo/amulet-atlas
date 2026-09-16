@@ -1,0 +1,506 @@
+{
+ "schema": 1,
+ "id": "bujeok",
+ "type": "amulet",
+ "names": {
+  "name": "Bujeok",
+  "native": "부적",
+  "script": "Hangul",
+  "lang": "ko",
+  "said": "POO-jŏk",
+  "aliases": [
+   "pujŏk",
+   "符籍",
+   "Korean paper talisman"
+  ]
+ },
+ "etymology": {
+  "root": "Korean 부적, from Sino-Korean 符籍 — fu, a tally or talismanic mark, plus a register; the same fu that stands at the head of the Chinese fulu",
+  "note": "The Chinese Daoist talismanic script fulu is named as the ancestor of both the Japanese ofuda and the Korean bujeok.",
+  "tier": "cited",
+  "source": "s:wp-fulu"
+ },
+ "region": [
+  "korea"
+ ],
+ "countries": [
+  "KR"
+ ],
+ "facets": {
+  "era": "medieval",
+  "status": "living",
+  "portable": "carried",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A paper talisman drawn by a mudang, the ritual specialist of Korean vernacular religion. The figures on it are built out of Hanja, the Korean forms of Chinese logograms, worked into shapes that are not ordinary writing. It goes one of two ways: folded into a small brocade bag and carried on the person, or pasted onto an interior wall of the client's house.",
+  "story": "Bujeok descend from fulu, the Daoist talismanic script of China — the same stock that produced Japan's ofuda. Fulu are described by their own scholars as deliberately hard to read: Yang Zhaohua notes that the earliest Taoist talismans were simple and legible and that later ones became cryptic to signal their divinity, and Ge Zhaoguang of Fudan University calls their unreadability a linguistic archaism designed so that only qualified clergy can produce them. A bujeok inherits that logic in Hanja.\n\nWho draws one matters more than what is on it. Mudang — the majority of them women — are the specialists of Musok, and they hand these out to the people who attended a gut, the large rite that is their central work, at the end of it. Korean vernacular religion also runs ritual specialists who divine and make amulets without performing gut at all.\n\nThe practice has been under pressure for six hundred years and is still here. Under the Joseon dynasty Confucian elites taxed and prosecuted the mudang: they were one of eight outcast groups expelled from the capital, the Gyeonggukdaejeon prescribed a hundred public lashes for anyone who supported them, a mudang was beheaded in 1398, and the Jeju governor Yi Hyŏngsang purged the island's simbang in 1702, destroying 129 shrines. The ritual taxes ran until the Kabo reforms of 1895. In 1896 police arrested mudang, pulled down shrines and burnt their equipment. Suppression continued in the mid-twentieth century through Syngman Rhee's New Life Movement and Park Chung Hee's Saemaul Undong, with a surge of police action against mudang in the 1970s.\n\nThen it turned. From the late 1970s the mudang were re-read as carriers of Korean cultural identity, several were tied to the minjung pro-democracy movement, and from the 1980s the South Korean government designated certain mudang Human Cultural Treasures. By 2009 ten regional gut styles were on the national intangible heritage register, and one of them — the Yŏngdŭng gut of Ch'ilmŏri Shrine on Jeju — went onto UNESCO's Representative List that year. Disapproval has not gone away: the anthropologist Chongho Kim's account and the survey this record draws on both record that mudang are still widely regarded in South Korea as charlatans, Christians especially.",
+  "how": "Drawn by a mudang, in figures built from Hanja. Distributed to those present at the end of a gut, or made on commission. Then either sealed into a small brocade bag and kept on the body, or pasted up on the inside wall of a house. This project has read no published account of the drawing itself — what is used, in what order, with what said over it — and prints none.",
+  "today": "South Korea holds over 200,000 mudang as of the survey this record draws on, and practitioners work abroad as well. Mudang have advertised on the internet since the 1990s and have been steadily visible on South Korean television since the 2010s, which has improved their standing. Paper talismans are sold in tourist and antique districts too, Insadong among them."
+ },
+ "dating": {
+  "period": "Goryeo to the present",
+  "from_year": 1100,
+  "to_year": null,
+  "living": true,
+  "label": "c. 12th century to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-korean-shamanism",
+  "note": "The earliest datable anchor in this project's sources is the twelfth-century record of mu practice in the Yisanggugjip and the Samguk sagi; the talismans themselves are not dated there. The scholar Jung Young Lee calls Musok's origins 'almost impossible' to trace, and this record does not date them."
+ },
+ "object": {
+  "form": "folded-paper",
+  "materials": [
+   "paper",
+   "ink",
+   "cloth"
+  ],
+  "worn": [
+   "pocket",
+   "wall"
+  ],
+  "made_by": "a mudang; in Korean vernacular religion also by ritual specialists who divine and make amulets without performing gut",
+  "inscription": "figures built from Hanja, Korean forms of Chinese logograms, worked into shapes that are not ordinary writing",
+  "script": "Hanja",
+  "single_use": false,
+  "source": "s:wp-korean-shamanism",
+  "note": "Carried in a small brocade bag, or affixed to the internal walls of a house. No published measurement was read."
+ },
+ "against": [
+  {
+   "harm": "bad-luck",
+   "who": "the mudang who make them, described as providing the bearer with good fortune",
+   "source": "s:wp-korean-shamanism",
+   "tier": "cited"
+  },
+  {
+   "harm": "attraction",
+   "who": "clients who take one home from a gut and put it on the wall — the rite itself is often sponsored to increase prosperity, or to mark a new venture such as the opening of a mall or an office building",
+   "source": "s:wp-korean-shamanism",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "Korean vernacular religion, in which mudang are the specialists called to deal with jabkwi, the wandering dead whose touch causes affliction",
+   "source": "s:wp-korean-shamanism",
+   "tier": "cited",
+   "note": "the source attaches this work to the mudang and to gut rites; it does not say the paper talisman is the instrument, so the link is the practitioner's, not the paper's"
+  }
+ ],
+ "kin": [
+  {
+   "to": "korean-bujeok-craft",
+   "as": "the tradition that makes it, and the six centuries of state pressure it survived",
+   "rel": "tradition"
+  },
+  {
+   "to": "fu-talisman",
+   "as": "the Chinese Daoist ancestor — the same illegible-on-purpose script, one border north",
+   "rel": "origin"
+  },
+  {
+   "to": "ofuda",
+   "as": "the Japanese sibling out of the same fulu stock, printed with a shrine seal where this is drawn by hand",
+   "rel": "parallel"
+  },
+  {
+   "to": "omamori",
+   "as": "Japan's pouch charm, which this matches move for move: a paper inside a small brocade bag, carried and not opened",
+   "rel": "parallel"
+  },
+  {
+   "to": "chinese-fu-craft",
+   "as": "the craft the script comes from, where the unreadability is the point",
+   "rel": "origin"
+  },
+  {
+   "to": "dolhareubang",
+   "as": "the other Korean guard in this atlas — that one stone and fixed at a gate, this one paper and pasted on an inside wall",
+   "rel": "kin"
+  },
+  {
+   "to": "insadong",
+   "as": "the Seoul district where paper talismans reach a buyer through the antique and craft trade rather than through a rite",
+   "rel": "place"
+  },
+  {
+   "to": "inscribing",
+   "as": "the act that makes it: Hanja pushed out of legibility into a figure",
+   "rel": "practice"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "the half of its use that never leaves the house, pasted to an interior wall after a gut",
+   "rel": "practice"
+  },
+  {
+   "to": "unesco-ich",
+   "as": "the body that listed the Jeju Yŏngdŭng gut in 2009, one of the rites these talismans are handed out at the end of",
+   "rel": "org"
+  }
+ ],
+ "links": [
+  {
+   "label": "Korean shamanism — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Korean_shamanism"
+  },
+  {
+   "label": "Fulu — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fulu"
+  }
+ ],
+ "sources": [
+  "s:wp-korean-shamanism",
+  "s:wp-fulu",
+  "s:wp-amulet",
+  "s:wp-insa-dong"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-korean-shamanism"
+  },
+  "fields": {
+   "text.what": {
+    "tier": "cited",
+    "source": "s:wp-amulet",
+    "note": "the brocade bag is from the Amulet article; the Hanja figures and the mudang's authorship from the Korean shamanism article"
+   },
+   "text.how": {
+    "tier": "cited",
+    "source": "s:wp-korean-shamanism",
+    "note": "the making is not described in this project's sources and is not reconstructed here"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-korean-shamanism",
+    "note": "the Insadong sentence is this project's reading of that district's antique and craft trade, cited to s:wp-insa-dong for the trade, not for talismans specifically"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Korean talisman bujeok.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A paper talisman drawn by a mudang, the ritual specialist of Korean vernacular religion. The figures on it are built out of Hanja, the Korean forms of Chinese logograms, worked into shapes that are not ordinary writing.",
+ "region_terms": [
+  {
+   "key": "korea",
+   "name": "Korea",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "korean-bujeok-craft",
+   "type": "tradition",
+   "name": "Bujeok craft",
+   "as": "the tradition that makes it, and the six centuries of state pressure it survived",
+   "rel": "tradition"
+  },
+  {
+   "to": "fu-talisman",
+   "type": "amulet",
+   "name": "Fu talisman",
+   "as": "the Chinese Daoist ancestor — the same illegible-on-purpose script, one border north",
+   "rel": "origin"
+  },
+  {
+   "to": "ofuda",
+   "type": "amulet",
+   "name": "Ofuda",
+   "as": "the Japanese sibling out of the same fulu stock, printed with a shrine seal where this is drawn by hand",
+   "rel": "parallel"
+  },
+  {
+   "to": "omamori",
+   "type": "amulet",
+   "name": "Omamori",
+   "as": "Japan's pouch charm, which this matches move for move: a paper inside a small brocade bag, carried and not opened",
+   "rel": "parallel"
+  },
+  {
+   "to": "chinese-fu-craft",
+   "type": "tradition",
+   "name": "Fulu — Taoist talismanic craft",
+   "as": "the craft the script comes from, where the unreadability is the point",
+   "rel": "origin"
+  },
+  {
+   "to": "dolhareubang",
+   "type": "amulet",
+   "name": "Dol hareubang",
+   "as": "the other Korean guard in this atlas — that one stone and fixed at a gate, this one paper and pasted on an inside wall",
+   "rel": "kin"
+  },
+  {
+   "to": "insadong",
+   "type": "place",
+   "name": "Insa-dong",
+   "as": "the Seoul district where paper talismans reach a buyer through the antique and craft trade rather than through a rite",
+   "rel": "place"
+  },
+  {
+   "to": "inscribing",
+   "type": "practice",
+   "name": "Inscribing",
+   "as": "the act that makes it: Hanja pushed out of legibility into a figure",
+   "rel": "practice"
+  },
+  {
+   "to": "hanging-at-door",
+   "type": "practice",
+   "name": "Hanging at the door",
+   "as": "the half of its use that never leaves the house, pasted to an interior wall after a gut",
+   "rel": "practice"
+  },
+  {
+   "to": "unesco-ich",
+   "type": "org",
+   "name": "UNESCO Intangible Cultural Heritage",
+   "as": "the body that listed the Jeju Yŏngdŭng gut in 2009, one of the rites these talismans are handed out at the end of",
+   "rel": "org"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-korean-shamanism",
+   "kind": "encyclopedia",
+   "title": "Korean shamanism",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Korean_shamanism",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fulu",
+   "kind": "encyclopedia",
+   "title": "Fulu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fulu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-amulet",
+   "kind": "encyclopedia",
+   "title": "Amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-insa-dong",
+   "kind": "encyclopedia",
+   "title": "Insa-dong",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Insa-dong",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-amulet",
+   "note": "the brocade bag is from the Amulet article; the Hanja figures and the mudang's authorship from the Korean shamanism article"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-korean-shamanism"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-korean-shamanism",
+   "note": "the making is not described in this project's sources and is not reconstructed here"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-korean-shamanism",
+   "note": "the Insadong sentence is this project's reading of that district's antique and craft trade, cited to s:wp-insa-dong for the trade, not for talismans specifically"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-korean-shamanism"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-korean-shamanism"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-korean-shamanism"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "the mudang who make them, described as providing the bearer with good fortune",
+   "quote": "",
+   "source": "s:wp-korean-shamanism",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "attraction",
+   "label": "Attracting custom, luck or love",
+   "gloss": "the charm that pulls rather than blocks",
+   "who": "clients who take one home from a gut and put it on the wall — the rite itself is often sponsored to increase prosperity, or to mark a new venture such as the opening of a mall or an office building",
+   "quote": "",
+   "source": "s:wp-korean-shamanism",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "Korean vernacular religion, in which mudang are the specialists called to deal with jabkwi, the wandering dead whose touch causes affliction",
+   "quote": "",
+   "source": "s:wp-korean-shamanism",
+   "tier": "cited",
+   "note": "the source attaches this work to the mudang and to gut rites; it does not say the paper talisman is the instrument, so the link is the practitioner's, not the paper's"
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "paper",
+   "label": "Paper",
+   "kind": "written"
+  },
+  {
+   "key": "ink",
+   "label": "Ink",
+   "kind": "written"
+  },
+  {
+   "key": "cloth",
+   "label": "Cloth",
+   "kind": "textile"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "folded-paper",
+  "label": "Folded paper"
+ },
+ "holding_facts": [],
+ "span": "1100 CE to now",
+ "country_names": [
+  {
+   "iso": "KR",
+   "name": "South Korea"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "dolhareubang",
+   "type": "amulet",
+   "name": "Dol hareubang",
+   "as": "the other Korean guard in this atlas — paper, portable, and drawn by a mudang, where this is basalt and does not move",
+   "rel": "kin"
+  },
+  {
+   "from": "exam-charm",
+   "type": "amulet",
+   "name": "Exam charm",
+   "as": "the Korean written talisman, made by a specialist where the exam gift is made by a confectioner",
+   "rel": "kin"
+  },
+  {
+   "from": "fu-talisman",
+   "type": "amulet",
+   "name": "Fu talisman",
+   "as": "the Korean descendant, taken up by Korean shamanism",
+   "rel": "descendant"
+  },
+  {
+   "from": "ofuda",
+   "type": "amulet",
+   "name": "Ofuda",
+   "as": "the Korean cousin out of the same Daoist stock, drawn from Hanja rather than printed with a shrine seal",
+   "rel": "parallel"
+  },
+  {
+   "from": "omamori",
+   "type": "amulet",
+   "name": "Omamori",
+   "as": "Korea's paper charm carried in a small brocade bag — the same solution to the same problem, one sea away",
+   "rel": "parallel"
+  },
+  {
+   "from": "ping-an-fu",
+   "type": "amulet",
+   "name": "Ping'an fu",
+   "as": "the Korean paper charm from the same root, and the third of the three",
+   "rel": "parallel"
+  },
+  {
+   "from": "korean-bujeok-craft",
+   "type": "tradition",
+   "name": "Bujeok craft",
+   "as": "the object itself — handed out at the end of a rite and pinned to an inside wall, not bought at a gate",
+   "rel": "carries"
+  },
+  {
+   "from": "bell",
+   "type": "motif",
+   "name": "The bell",
+   "as": "the Korean written charm made in the same tradition as the bells, by the same practitioners",
+   "rel": "kin"
+  },
+  {
+   "from": "paper",
+   "type": "material",
+   "name": "Paper",
+   "as": "the Korean paper talisman, carried inside a small brocade bag",
+   "rel": "carried-by"
+  },
+  {
+   "from": "insadong",
+   "type": "place",
+   "name": "Insa-dong",
+   "as": "the Korean written charm — made by a mudang, not sold over a counter; this district supplies the paper and ink it is drawn with",
+   "rel": "carries"
+  },
+  {
+   "from": "fu-word",
+   "type": "term",
+   "name": "fu",
+   "as": "the Korean descendant of the same script, kept in a small brocade bag",
+   "rel": "descendant"
+  }
+ ]
+}

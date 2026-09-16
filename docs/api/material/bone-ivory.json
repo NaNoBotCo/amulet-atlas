@@ -1,0 +1,501 @@
+{
+ "id": "bone-ivory",
+ "names": {
+  "name": "Bone and ivory",
+  "aliases": [
+   "ivory",
+   "tusk",
+   "whale ivory",
+   "scrimshaw"
+  ]
+ },
+ "region": [
+  "ancient-egypt",
+  "mainland-sea",
+  "pacific",
+  "siberia-arctic",
+  "west-africa",
+  "island-sea"
+ ],
+ "countries": [
+  "EG",
+  "TH",
+  "US",
+  "GL",
+  "FJ",
+  "CN",
+  "GB",
+  "ID"
+ ],
+ "facets": {
+  "kind": "organic"
+ },
+ "text": {
+  "what": "Two related things a charm gets cut from: bone, from any animal including a human one, and ivory, meaning tusk — from African and Asian elephants above all, and also from hippopotamus, walrus, narwhal and mammoth. Both carve finely, take a polish, and yellow with handling. Both come out of a body, and every tradition that uses them says something about whose body it was.",
+  "story": "Bone is on the first list of Egyptian amulet materials: faience above all, then stone, metal, bone, wood and gold. It is still on the list four thousand years later and half a world away. Thai amulets are made from plaster, metal, wood or bone, sometimes with ash, monk's hair or temple relics worked into them. The palad khik, the Thai phallic charm, is made from wood, metal, bone, horn or ivory by monks who specialise in them, and engraving its inscriptions can take days.\n\nIn the Pacific the material is a tooth as much as a tusk. The lei niho palaoa, worn at the neck by Hawaiian ali'i of both sexes, is in its nineteenth-century form a whale tooth carved into a hook and hung on plaited human hair; precontact examples were under two inches long and were also made from shell, bone, wood, stone and coral. In Greenland a tupilaq was made by an angakkuq from animal parts — bone, skin, hair, sinew — and, in the accounts that survive, from parts taken from the corpses of children.\n\n*Inference —* bone and ivory sit on the opposite side of the survival line from cloth and herb. They last in the ground, so they are heavily represented in museum trays, and they last in a collection, so they are heavily represented in the ethics literature too. Those are the same fact seen twice.",
+  "today": "Ivory is the material in this atlas with the hardest live constraint on it. Asian elephant ivory was barred from international trade by a CITES Appendix One listing in 1975; the African elephant was moved to Appendix One in October 1989, enacted in January 1990. Through the 1980s about 75,000 African elephants a year were killed for the trade, and the African elephant population fell from roughly 1.3 million to 600,000 between 1979 and 1989. China ended its domestic ivory trade and processing, with commercial activity halting on 31 March 2017. The UK Ivory Act 2018 received Royal Assent on 20 December 2018. A museum drawer of ivory charms is therefore a drawer of objects that in most cases cannot lawfully be traded now, whatever they were when they were carved."
+ },
+ "dating": {
+  "period": "Predynastic Egypt to the present",
+  "from_year": -4399,
+  "to_year": null,
+  "living": true,
+  "label": "c. 4400 BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-amulet",
+  "note": "Dated from the Badarian Predynastic period, named as the source of the oldest Egyptian amulets, with bone among the listed materials. The Badarian is conventionally placed from about 4400 BCE and the source gives no closer year."
+ },
+ "against": [
+  {
+   "harm": "weapons",
+   "who": "Thai amulet practice, where bone-bearing charms are among those blessed for invulnerability",
+   "source": "s:wp-thai-buddha-amulet",
+   "tier": "tradition",
+   "note": "reported as a claim made in the tradition and never as advice"
+  },
+  {
+   "harm": "attraction",
+   "who": "makers of the palad khik, carved in wood, metal, bone, horn or ivory",
+   "source": "s:wp-palad-khik",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "Greenlandic accounts of the tupilaq, assembled from bone, skin, hair and sinew",
+   "source": "s:wp-tupilaq",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "tooth",
+   "as": "the same body, one step along: a tusk is a tooth, and the Pacific charms cut from whale ivory are both records at once",
+   "rel": "kin"
+  },
+  {
+   "to": "palad-khik",
+   "as": "carved from wood, metal, bone, horn or ivory by monks who specialise in it",
+   "rel": "carried-by"
+  },
+  {
+   "to": "phra-khrueang",
+   "as": "pressed with bone, ash, hair and relics worked into the body of the tablet",
+   "rel": "carried-by"
+  },
+  {
+   "to": "tupilaq",
+   "as": "made from bone, skin, hair and sinew, and in the accounts that survive from human remains too",
+   "rel": "carried-by"
+  },
+  {
+   "to": "hei-matau",
+   "as": "the hook cut from bone as readily as from pounamu",
+   "rel": "carried-by"
+  },
+  {
+   "to": "inuit-amulet",
+   "as": "the Arctic charm cut from what the hunt provided, which is the whole of the material argument here",
+   "rel": "carried-by"
+  },
+  {
+   "to": "rabbits-foot",
+   "as": "the same logic at the cheap end: a part of an animal, kept because it was part of an animal",
+   "rel": "parallel"
+  },
+  {
+   "to": "nagpra",
+   "as": "the United States law that governs human remains and funerary objects in collections, and therefore some of this material",
+   "rel": "org"
+  },
+  {
+   "to": "hair",
+   "as": "the other material taken from a body, and the one that does not survive as well",
+   "rel": "kin"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read for objects whose trade is now illegal and whose display is argued about",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Ivory trade — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ivory_trade"
+  }
+ ],
+ "sources": [
+  "s:wp-amulet",
+  "s:wp-ivory-trade",
+  "s:wp-palad-khik",
+  "s:wp-thai-buddha-amulet",
+  "s:wp-tupilaq",
+  "s:wp-lei-niho-palaoa"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-ivory-trade"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-amulet",
+    "note": "the closing paragraph is this project's inference and is marked in the text"
+   },
+   "dating": {
+    "tier": "inference",
+    "source": "s:wp-amulet",
+    "note": "the source names the Badarian period but no year; the year here is the conventional start of that period and should be checked"
+   }
+  }
+ },
+ "needs_verification": true,
+ "x_commons_files": [
+  "File:Lei niho palaoa.jpg"
+ ],
+ "confidence": "medium",
+ "schema": 1,
+ "type": "material",
+ "images": [],
+ "updated": "2026-09-16",
+ "blurb": "Two related things a charm gets cut from: bone, from any animal including a human one, and ivory, meaning tusk — from African and Asian elephants above all, and also from hippopotamus, walrus, narwhal and mammoth.",
+ "region_terms": [
+  {
+   "key": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Nile valley and delta, Predynastic through Roman Egypt"
+  },
+  {
+   "key": "mainland-sea",
+   "name": "Mainland Southeast Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "pacific",
+   "name": "The Pacific",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "Polynesia, Melanesia, Micronesia"
+  },
+  {
+   "key": "siberia-arctic",
+   "name": "Siberia and the Arctic",
+   "hemi": [
+    "N",
+    "E",
+    "W"
+   ]
+  },
+  {
+   "key": "west-africa",
+   "name": "West Africa",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "island-sea",
+   "name": "Island Southeast Asia",
+   "hemi": [
+    "N",
+    "S",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "tooth",
+   "type": "material",
+   "name": "Tooth, tusk and claw",
+   "as": "the same body, one step along: a tusk is a tooth, and the Pacific charms cut from whale ivory are both records at once",
+   "rel": "kin"
+  },
+  {
+   "to": "palad-khik",
+   "type": "amulet",
+   "name": "Palad khik",
+   "as": "carved from wood, metal, bone, horn or ivory by monks who specialise in it",
+   "rel": "carried-by"
+  },
+  {
+   "to": "phra-khrueang",
+   "type": "amulet",
+   "name": "Phra khrueang",
+   "as": "pressed with bone, ash, hair and relics worked into the body of the tablet",
+   "rel": "carried-by"
+  },
+  {
+   "to": "tupilaq",
+   "type": "amulet",
+   "name": "Tupilaq",
+   "as": "made from bone, skin, hair and sinew, and in the accounts that survive from human remains too",
+   "rel": "carried-by"
+  },
+  {
+   "to": "hei-matau",
+   "type": "amulet",
+   "name": "Hei matau",
+   "as": "the hook cut from bone as readily as from pounamu",
+   "rel": "carried-by"
+  },
+  {
+   "to": "inuit-amulet",
+   "type": "amulet",
+   "name": "Inuit amulet",
+   "as": "the Arctic charm cut from what the hunt provided, which is the whole of the material argument here",
+   "rel": "carried-by"
+  },
+  {
+   "to": "rabbits-foot",
+   "type": "amulet",
+   "name": "Rabbit's foot",
+   "as": "the same logic at the cheap end: a part of an animal, kept because it was part of an animal",
+   "rel": "parallel"
+  },
+  {
+   "to": "nagpra",
+   "type": "org",
+   "name": "The Native American Graves Protection and Repatriation Act",
+   "as": "the United States law that governs human remains and funerary objects in collections, and therefore some of this material",
+   "rel": "org"
+  },
+  {
+   "to": "hair",
+   "type": "material",
+   "name": "Hair",
+   "as": "the other material taken from a body, and the one that does not survive as well",
+   "rel": "kin"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read for objects whose trade is now illegal and whose display is argued about",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-amulet",
+   "kind": "encyclopedia",
+   "title": "Amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ivory-trade",
+   "kind": "encyclopedia",
+   "title": "Ivory trade",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ivory_trade",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-palad-khik",
+   "kind": "encyclopedia",
+   "title": "Palad khik",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Palad_khik",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-thai-buddha-amulet",
+   "kind": "encyclopedia",
+   "title": "Thai Buddha amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thai_Buddha_amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tupilaq",
+   "kind": "encyclopedia",
+   "title": "Tupilaq",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tupilaq",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-lei-niho-palaoa",
+   "kind": "encyclopedia",
+   "title": "Lei niho palaoa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lei_niho_palaoa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-ivory-trade"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-amulet",
+   "note": "the closing paragraph is this project's inference and is marked in the text"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-ivory-trade"
+  },
+  "dating": {
+   "tier": "inference",
+   "source": "s:wp-amulet",
+   "note": "the source names the Badarian period but no year; the year here is the conventional start of that period and should be checked"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "weapons",
+   "label": "Blades and bullets",
+   "gloss": "invulnerability charms; reported, never recommended",
+   "who": "Thai amulet practice, where bone-bearing charms are among those blessed for invulnerability",
+   "quote": "",
+   "source": "s:wp-thai-buddha-amulet",
+   "tier": "tradition",
+   "note": "reported as a claim made in the tradition and never as advice"
+  },
+  {
+   "key": "attraction",
+   "label": "Attracting custom, luck or love",
+   "gloss": "the charm that pulls rather than blocks",
+   "who": "makers of the palad khik, carved in wood, metal, bone, horn or ivory",
+   "quote": "",
+   "source": "s:wp-palad-khik",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "Greenlandic accounts of the tupilaq, assembled from bone, skin, hair and sinew",
+   "quote": "",
+   "source": "s:wp-tupilaq",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "4400 BCE to now",
+ "country_names": [
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  },
+  {
+   "iso": "TH",
+   "name": "Thailand"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "GL",
+   "name": "Greenland"
+  },
+  {
+   "iso": "FJ",
+   "name": "Fiji"
+  },
+  {
+   "iso": "CN",
+   "name": "China"
+  },
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "ID",
+   "name": "Indonesia"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "hei-matau",
+   "type": "amulet",
+   "name": "Hei matau",
+   "as": "what most of them are carved from now — cattle bone, and whale bone under strict limits",
+   "rel": "material"
+  },
+  {
+   "from": "inuit-amulet",
+   "type": "amulet",
+   "name": "Inuit amulet",
+   "as": "the material the Arctic works, and the one most of these are made from",
+   "rel": "material"
+  },
+  {
+   "from": "rabbits-foot",
+   "type": "amulet",
+   "name": "Rabbit's foot",
+   "as": "what is left after drying, and the reason these survive in collections at all",
+   "rel": "material"
+  },
+  {
+   "from": "taweret-amulet",
+   "type": "amulet",
+   "name": "Taweret amulet",
+   "as": "the material of the Middle Kingdom wands her face is cut into",
+   "rel": "material"
+  },
+  {
+   "from": "tupilaq",
+   "type": "amulet",
+   "name": "Tupilaq",
+   "as": "what the carved figures are cut from: sperm whale tooth, then narwhal and walrus tusk, then antler",
+   "rel": "material"
+  },
+  {
+   "from": "tooth-and-claw",
+   "type": "motif",
+   "name": "The tooth and the claw",
+   "as": "the neighbouring material, and what a whale tooth is filed as once it is carved",
+   "rel": "material"
+  },
+  {
+   "from": "tooth",
+   "type": "material",
+   "name": "Tooth, tusk and claw",
+   "as": "the wider class this sits inside, and the one that gets carved rather than kept whole",
+   "rel": "whole"
+  }
+ ]
+}

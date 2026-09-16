@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "id": "fascinum",
+ "type": "amulet",
+ "names": {
+  "name": "Fascinum",
+  "native": "fascinum",
+  "script": "Latin",
+  "lang": "la",
+  "said": "FAS-ki-num; also fascinus",
+  "aliases": ["fascinus", "winged phallus", "phallic pendant", "fist-and-phallus amulet"]
+ },
+ "etymology": {
+  "root": "Latin fascinum, and the verb fascinare, 'to use the power of the fascinus' — to work magic, hence to enchant or bewitch; English fascinate comes from it",
+  "note": "Catullus uses the verb at the end of Carmen 7, wanting kisses that cannot be counted by watchers nor fascinated by a malicious tongue. Ancient writers also derived the Fescennine Verses from fascinum, with a rival derivation from the Etruscan town of Fescennia.",
+  "tier": "cited",
+  "source": "s:wp-fascinus"
+ },
+ "region": ["rome-italy", "western-europe", "britain-ireland", "maghreb"],
+ "countries": ["IT", "GB", "LY"],
+ "facets": {"era": "classical", "status": "archaeological", "portable": "worn", "restricted": "open", "hemisphere": ["N", "E", "W"]},
+ "text": {
+  "what": "A phallus, worn. Usually cast in bronze, often winged, pierced or looped for a cord; also cut as finger rings, carved in relief on walls, made into lamps and into wind chimes called tintinnabula. The soldiers' type adds a clenched fist at the base of the shaft, pointing away from the glans, and on several examples the fist is making the manus fica, the fig sign. Some combine vulvar imagery with the rest.",
+  "story": "Pliny called the fascinus a medicus invidiae — a doctor, a remedy, for invidia. Invidia is envy, and it is built from a word for looking upon. That is the whole theory of the object in two Latin words.\n\nRome put it everywhere. The Vestal Virgins tended the cult of the fascinus populi Romani, a sacred phallus counted among the tokens of the state's safety alongside the Palladium; when a general celebrated a triumph, the Vestals hung an effigy of it under his chariot to protect him from invidia. Augustine, reading Varro, reports the phallus carried on a little trolley through the countryside crossroads at the festival of Father Liber and then into the city, to secure the growth of seeds and \"repel enchantment (fascinatio) from the fields\".\n\nOn the body it was mostly for children, and mainly boys. Varro records hanging a phallic charm on a baby's neck, and phallus-bearing rings survive that are too small for anyone but a child to wear. There are very few Roman images of a person actually wearing one. A 2017 experimental archaeology project found that some pendant types were designed to stay pointing outwards, in the wearer's direction of travel, facing whatever was coming.\n\nThe imagery is not shy about the mechanism. Reliefs from Leptis Magna in present-day Libya and several instances on Hadrian's Wall show the phallus ejaculating towards a disembodied eye; a first-century BCE terracotta figurine shows \"two little phallus-men sawing an eyeball in half\". The largest known collection of fist-and-phallus amulets comes from Camulodunum, the Roman colony under modern Colchester.\n\n*Tradition holds —* the protective force is usually explained by the virile and regenerative power of an erect phallus. The cited account puts a second explanation beside it and does not choose: in most cases what diverts the evil eye is the emotion the obscenity produces — shame, or laughter."
+ },
+ "dating": {
+  "period": "Roman",
+  "from_year": -299,
+  "to_year": 399,
+  "living": false,
+  "label": "Roman antiquity",
+  "method": "textual",
+  "circa": true,
+  "tier": "inference",
+  "source": "s:wp-fascinus",
+  "note": "The cited article gives no first or last attestation. Its dated anchors are Catullus and Varro in the 1st century BCE, Pliny in the 1st century CE, a 1st-century BCE figurine, and Augustine reporting Varro around 400 CE. The span here is 'the Roman period' turned into years and should be read as a hedge."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": ["copper", "bone", "silver", "gold"],
+  "worn": ["neck", "finger", "wall", "door", "vehicle"],
+  "made_by": "no restriction recorded; the state cult version was tended by the Vestal Virgins, the domestic version made and sold like any other jewellery",
+  "inscription": "some Roman amulets carry vterfexix, utere felix, 'good luck to the user'",
+  "script": "Latin",
+  "source": "s:wp-fascinus",
+  "note": "The vehicle position is the triumphal chariot, with the effigy hung underneath. No published measurement was read."
+ },
+ "against": [
+  {"harm": "evil-eye", "who": "Pliny the Elder", "quote": "medicus invidiae", "source": "s:wp-fascinus", "tier": "cited", "note": "Pliny's phrase, rendered in the cited article as a 'doctor' or remedy for envy (invidia, a 'looking upon') or the evil eye"},
+  {"harm": "envy", "who": "Roman practice: the Vestals hung the effigy under a triumphing general's chariot against invidia", "source": "s:wp-fascinus", "tier": "cited"},
+  {"harm": "child-harm", "who": "Varro, who records the custom of hanging a phallic charm on a baby's neck; rings survive sized only for children", "source": "s:wp-fascinus", "tier": "cited"},
+  {"harm": "house", "who": "the rite of Father Liber reported by Augustine from Varro, in which the image went round the fields to repel fascinatio from them", "source": "s:wp-fascinus", "tier": "cited"},
+  {"harm": "war", "who": "Roman soldiers, among whom the fist-and-phallus type was prevalent; the largest known collection is from Camulodunum", "source": "s:wp-fascinus", "tier": "cited"}
+ ],
+ "kin": [
+  {"to": "phallic-sign", "as": "the sign this object is, in its plainest form", "rel": "motif"},
+  {"to": "fist", "as": "the second sign bolted onto it in the soldiers' type — a clenched hand making the fig", "rel": "motif"},
+  {"to": "eye", "as": "the thing it is aimed at, and on the Leptis Magna and Hadrian's Wall reliefs, literally", "rel": "contrast"},
+  {"to": "bulla", "as": "the locket a Roman boy wore, with one of these usually inside it", "rel": "whole"},
+  {"to": "lunula", "as": "the girls' equivalent — a crescent instead of a phallus, and the same nine-days-to-adulthood logic", "rel": "parallel"},
+  {"to": "cornicello", "as": "southern Italy's living descendant: the same interception, reshaped as a horn in red coral", "rel": "descendant"},
+  {"to": "gorgoneion", "as": "the Greek answer to the same problem — terror where Rome used laughter", "rel": "parallel"},
+  {"to": "greco-roman-apotropaic", "as": "the tradition it belongs to, and the one place in it where the state itself kept a charm", "rel": "tradition"},
+  {"to": "frederick-elworthy", "as": "the Victorian who assembled the European evidence for the eye and its substitutes, and put this object in the same drawer as the horn and the hand", "rel": "person"}
+ ],
+ "links": [{"label": "Fascinus — Wikipedia", "url": "https://en.wikipedia.org/wiki/Fascinus"}],
+ "sources": ["s:wp-fascinus", "s:wp-evil-eye", "s:wp-apotropaic-magic", "s:wp-fig-sign", "s:wp-cornicello"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-fascinus"},
+  "fields": {
+   "dating": {"tier": "inference", "note": "no attestation range is published in the cited article; see dating.note"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Roman winged phallus pendant.jpg", "File:Tintinnabulum MAN Napoli.jpg"],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,541 @@
+{
+ "id": "thread",
+ "names": {
+  "name": "Thread and cord",
+  "native": "חוט השני",
+  "script": "Hebrew",
+  "lang": "he",
+  "said": "khutt hashani, the scarlet thread",
+  "aliases": [
+   "red string",
+   "yarn",
+   "cord",
+   "stitches"
+  ]
+ },
+ "region": [
+  "levant",
+  "balkans",
+  "japan",
+  "china",
+  "south-asia",
+  "diaspora"
+ ],
+ "countries": [
+  "IL",
+  "BG",
+  "MK",
+  "RO",
+  "MD",
+  "AL",
+  "GR",
+  "JP",
+  "CN",
+  "IN"
+ ],
+ "facets": {
+  "kind": "textile"
+ },
+ "text": {
+  "what": "The cheapest amulet material there is, and the only one whose meaning is carried by an action rather than by a shape. A thread charm is made by tying, winding, knotting or stitching; the colour is nearly always red, or red and white, and the count usually matters.",
+  "story": "The Jewish red string is thin scarlet or crimson wool, khutt hashani, worn as a band on the wrist against the evil eye. A scarlet thread tied about the wrist appears in Genesis 38, at the birth of Tamar's twins; commentators as early as Rabbi Shmuel ben Hafni Gaon noted that a red string placed on the hand may be a good omen. The custom is popularly tied to Kabbalah, and the same red string is worn in Hindu and Chinese practice, for luck, for love, and against harm.\n\nIn Bulgaria and North Macedonia the martenitsa is white and red yarn, usually made into two small wool dolls, Pizho the male in white and Penda the female in red. It goes on at Baba Marta, 1 March, and comes off when the wearer first sees a stork, a swallow or a tree in blossom. Ethnologists read the red and white as life and purity, sunset and melting snow, and the pair as a balance. Romania and Moldova keep the same custom as martisor, Albania as verore, worn on 14 March.\n\nJapan counts. A senninbari, a thousand-person-stitch belt, is a strip of cloth carrying a thousand stitches, each normally sewn by a different woman, and given to a soldier leaving for war. They are typically 15 cm wide and 90 to 120 cm long, most often white cloth with a thousand red stitches, sometimes worked into tigers or into the slogan bu-un cho-kyu, \"eternal good luck in war\". The custom began in the First Sino-Japanese War of 1894-95. Not everyone who wore one accepted the claim: some soldiers rejected the idea that it could protect them and carried it instead as a keepsake of the women who made it.\n\nThread also holds other charms together, and the holding is graded. In a Han jade burial suit the plaques are sewn with gold wire for an emperor, silver for princes and marquises, copper for their children, and silk thread for lesser aristocrats.\n\n*Inference —* thread is the material that leaves no museum tray. It rots, it is cut off at the end of its term by design, and its whole cost is a person's time. Every count in this record — a thousand stitches, two dolls, one wrist — is doing the work a carved stone does elsewhere.",
+  "how": "Tied on, wound, knotted, or stitched, usually by somebody other than the wearer. Most thread charms have an end written into them: the martenitsa comes off at the first stork, the senninbari goes to war and does not come back."
+ },
+ "dating": {
+  "period": "Han China to the present",
+  "from_year": -201,
+  "to_year": null,
+  "living": true,
+  "label": "c. 202 BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-jade-burial-suit",
+  "note": "The earliest dated object here is the Han jade burial suit, whose plaques are sewn with thread graded by rank; the dynasty runs from 202 BCE. The red string and the martenitsa are both older than any date the sources read here will give, and the senninbari is dated precisely to 1894-95."
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "wearers of the Jewish red string, and the commentators who call it a good omen",
+   "source": "s:wp-red-string-kabbalah",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "Bulgarian and Macedonian wearers of the martenitsa, whose red and white threads carry a wish for good health",
+   "source": "s:wp-martenitsa",
+   "tier": "cited"
+  },
+  {
+   "harm": "weapons",
+   "who": "the women who stitched senninbari, and the soldiers who carried them",
+   "source": "s:wp-senninbari",
+   "tier": "cited",
+   "note": "the same source records soldiers who rejected the claim and kept the belt as a memento; both are printed here"
+  },
+  {
+   "harm": "war",
+   "who": "the stitched slogan itself, bu-un cho-kyu, 'eternal good luck in war'",
+   "source": "s:wp-senninbari",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "red-string",
+   "as": "the simplest object in this atlas: scarlet wool, a wrist, a knot",
+   "rel": "carried-by"
+  },
+  {
+   "to": "martenitsa",
+   "as": "white and red yarn with an expiry date written into the custom — the first stork ends it",
+   "rel": "carried-by"
+  },
+  {
+   "to": "senninbari",
+   "as": "a thousand stitches by a thousand women, 15 cm by 90-120 cm, given to a man going to war",
+   "rel": "carried-by"
+  },
+  {
+   "to": "red-thread",
+   "as": "the sign this material is, wherever it is worn",
+   "rel": "motif"
+  },
+  {
+   "to": "knot",
+   "as": "what thread turns into when the tying itself is the charm",
+   "rel": "motif"
+  },
+  {
+   "to": "knotting",
+   "as": "the practice that makes it, and the reason the count is recorded",
+   "rel": "practice"
+  },
+  {
+   "to": "sewing-in",
+   "as": "the practice of stitching a charm into clothing, where the thread is both charm and fixing",
+   "rel": "practice"
+  },
+  {
+   "to": "rudraksha",
+   "as": "beads strung on silk or on black or red cotton — the cord is specified, not incidental",
+   "rel": "kin"
+  },
+  {
+   "to": "gold",
+   "as": "the thread of an emperor's burial suit, where rank is written in what the stitching is made of",
+   "rel": "contrast"
+  }
+ ],
+ "links": [
+  {
+   "label": "Red string (Kabbalah) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Red_string_(Kabbalah)"
+  },
+  {
+   "label": "Senninbari — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Senninbari"
+  }
+ ],
+ "sources": [
+  "s:wp-red-string-kabbalah",
+  "s:wp-martenitsa",
+  "s:wp-senninbari",
+  "s:wp-jade-burial-suit",
+  "s:wp-rudraksha",
+  "s:wp-witch-bottle"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-red-string-kabbalah"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-senninbari",
+    "note": "the closing paragraph is this project's inference and is marked in the text"
+   }
+  }
+ },
+ "x_commons_files": [
+  "File:Martenitsa.jpg",
+  "File:Senninbari.jpg"
+ ],
+ "confidence": "high",
+ "schema": 1,
+ "type": "material",
+ "images": [],
+ "updated": "2026-09-16",
+ "blurb": "The cheapest amulet material there is, and the only one whose meaning is carried by an action rather than by a shape.",
+ "region_terms": [
+  {
+   "key": "levant",
+   "name": "The Levant",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "balkans",
+   "name": "The Balkans",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "japan",
+   "name": "Japan",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "china",
+   "name": "China",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "diaspora",
+   "name": "Diaspora",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "a practice carried out of its home region and kept"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "red-string",
+   "type": "amulet",
+   "name": "Red string",
+   "as": "the simplest object in this atlas: scarlet wool, a wrist, a knot",
+   "rel": "carried-by"
+  },
+  {
+   "to": "martenitsa",
+   "type": "amulet",
+   "name": "Martenitsa",
+   "as": "white and red yarn with an expiry date written into the custom — the first stork ends it",
+   "rel": "carried-by"
+  },
+  {
+   "to": "senninbari",
+   "type": "amulet",
+   "name": "Senninbari",
+   "as": "a thousand stitches by a thousand women, 15 cm by 90-120 cm, given to a man going to war",
+   "rel": "carried-by"
+  },
+  {
+   "to": "red-thread",
+   "type": "motif",
+   "name": "The red thread",
+   "as": "the sign this material is, wherever it is worn",
+   "rel": "motif"
+  },
+  {
+   "to": "knot",
+   "type": "motif",
+   "name": "The knot",
+   "as": "what thread turns into when the tying itself is the charm",
+   "rel": "motif"
+  },
+  {
+   "to": "knotting",
+   "type": "practice",
+   "name": "Knotting",
+   "as": "the practice that makes it, and the reason the count is recorded",
+   "rel": "practice"
+  },
+  {
+   "to": "sewing-in",
+   "type": "practice",
+   "name": "Sewing in",
+   "as": "the practice of stitching a charm into clothing, where the thread is both charm and fixing",
+   "rel": "practice"
+  },
+  {
+   "to": "rudraksha",
+   "type": "amulet",
+   "name": "Rudraksha",
+   "as": "beads strung on silk or on black or red cotton — the cord is specified, not incidental",
+   "rel": "kin"
+  },
+  {
+   "to": "gold",
+   "type": "material",
+   "name": "Gold",
+   "as": "the thread of an emperor's burial suit, where rank is written in what the stitching is made of",
+   "rel": "contrast"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-red-string-kabbalah",
+   "kind": "encyclopedia",
+   "title": "Red string (Kabbalah)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Red_string_(Kabbalah)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-martenitsa",
+   "kind": "encyclopedia",
+   "title": "Martenitsa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Martenitsa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-senninbari",
+   "kind": "encyclopedia",
+   "title": "Senninbari",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Senninbari",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-jade-burial-suit",
+   "kind": "encyclopedia",
+   "title": "Jade burial suit",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jade_burial_suit",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-rudraksha",
+   "kind": "encyclopedia",
+   "title": "Rudraksha",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rudraksha",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-witch-bottle",
+   "kind": "encyclopedia",
+   "title": "Witch bottle",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Witch_bottle",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-red-string-kabbalah"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-senninbari",
+   "note": "the closing paragraph is this project's inference and is marked in the text"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-red-string-kabbalah"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-red-string-kabbalah"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "wearers of the Jewish red string, and the commentators who call it a good omen",
+   "quote": "",
+   "source": "s:wp-red-string-kabbalah",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "Bulgarian and Macedonian wearers of the martenitsa, whose red and white threads carry a wish for good health",
+   "quote": "",
+   "source": "s:wp-martenitsa",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "weapons",
+   "label": "Blades and bullets",
+   "gloss": "invulnerability charms; reported, never recommended",
+   "who": "the women who stitched senninbari, and the soldiers who carried them",
+   "quote": "",
+   "source": "s:wp-senninbari",
+   "tier": "cited",
+   "note": "the same source records soldiers who rejected the claim and kept the belt as a memento; both are printed here"
+  },
+  {
+   "key": "war",
+   "label": "War",
+   "who": "the stitched slogan itself, bu-un cho-kyu, 'eternal good luck in war'",
+   "quote": "",
+   "source": "s:wp-senninbari",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "202 BCE to now",
+ "country_names": [
+  {
+   "iso": "IL",
+   "name": "Israel"
+  },
+  {
+   "iso": "BG",
+   "name": "Bulgaria"
+  },
+  {
+   "iso": "MK",
+   "name": "North Macedonia"
+  },
+  {
+   "iso": "RO",
+   "name": "Romania"
+  },
+  {
+   "iso": "MD",
+   "name": "Moldova"
+  },
+  {
+   "iso": "AL",
+   "name": "Albania"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "JP",
+   "name": "Japan"
+  },
+  {
+   "iso": "CN",
+   "name": "China"
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "dreamcatcher",
+   "type": "amulet",
+   "name": "Dreamcatcher",
+   "as": "the material that does the catching — nettle fibre, then sinew, then nylon",
+   "rel": "material"
+  },
+  {
+   "from": "martenitsa",
+   "type": "amulet",
+   "name": "Martenitsa",
+   "as": "the material; wool, twisted, and nothing else",
+   "rel": "material"
+  },
+  {
+   "from": "red-string",
+   "type": "amulet",
+   "name": "Red string",
+   "as": "the whole material inventory of this object",
+   "rel": "material"
+  },
+  {
+   "from": "senninbari",
+   "type": "amulet",
+   "name": "Senninbari",
+   "as": "the whole material argument: a thousand stitches were said to strengthen the cloth, and the strength to pass to the man in it",
+   "rel": "material"
+  },
+  {
+   "from": "knot",
+   "type": "motif",
+   "name": "The knot",
+   "as": "what most of these are made of, and the reason so few old ones survive",
+   "rel": "material"
+  },
+  {
+   "from": "red-thread",
+   "type": "motif",
+   "name": "The red thread",
+   "as": "the material, and the reason almost none of these survive in a museum drawer",
+   "rel": "material"
+  },
+  {
+   "from": "cloth",
+   "type": "material",
+   "name": "Cloth",
+   "as": "what cloth is made of, and what does the work when the count matters more than the fabric",
+   "rel": "material"
+  },
+  {
+   "from": "hair",
+   "type": "material",
+   "name": "Hair",
+   "as": "the other material that leaves no museum tray, and for the same reason",
+   "rel": "parallel"
+  },
+  {
+   "from": "seed",
+   "type": "material",
+   "name": "Seed and nut",
+   "as": "the cord the tradition specifies — silk, or black or red cotton — and the part that rots first",
+   "rel": "material"
+  },
+  {
+   "from": "knotting",
+   "type": "practice",
+   "name": "Knotting",
+   "as": "the material that makes this the cheapest charm in the atlas",
+   "rel": "material"
+  },
+  {
+   "from": "sewing-in",
+   "type": "practice",
+   "name": "Sewing in",
+   "as": "the material that does the work here — the stitch is the closure and, in the senninbari, the charm itself",
+   "rel": "material"
+  }
+ ]
+}

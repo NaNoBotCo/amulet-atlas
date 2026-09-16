@@ -1,0 +1,188 @@
+{
+ "schema": 1,
+ "id": "hei-matau",
+ "type": "amulet",
+ "names": {
+  "name": "Hei matau",
+  "native": "hei matau",
+  "lang": "mi",
+  "script": "Latin",
+  "said": "hei MAH-tow",
+  "aliases": [
+   "fish hook pendant",
+   "matau"
+  ]
+ },
+ "etymology": {
+  "root": "Māori hei, 'to wear around the neck', + matau, 'fish hook'",
+  "tier": "cited",
+  "source": "s:wp-hei-matau"
+ },
+ "region": [
+  "aotearoa",
+  "pacific"
+ ],
+ "countries": [
+  "NZ"
+ ],
+ "facets": {
+  "era": "living",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "limited",
+  "hemisphere": [
+   "S",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A heavily stylised fish hook, carved in bone or pounamu — the Māori term for the hard green stones, chiefly nephrite jade, found only in the South Island — and worn at the neck on a cord. Most modern pieces are not working hooks. Older matau were, and came in several forms, some plain and utilitarian, some highly ornate, some composite, and some whose function is no longer known.",
+  "story": "The shape carries a story about the country it is worn in. Māui caught the North Island out of the sea using a woven line and a hook made from his grandmother's jawbone; the Māori name for the North Island, Te Ika a Māui, the fish of Māui, holds the account, and the shape of Hawke's Bay is where the hook caught in the fish's side.\n\nFor Māori the hei matau is taonga, a cultural treasure. Wikipedia's summary of what it stands for is not a list of wishes: it represents the land, and prosperity, fertility and safe passage over water; it marks the importance of fishing to Māori and their relationship to Tangaroa, god of the sea. Matau were worn as pendants for safekeeping and were often treasured family heirlooms.\n\nMaterial is where the modern record gets complicated. Traditionally matau were carved from bone, ivory, shell, wood or pounamu. Today most are cattle bone. Some Māori carvers still work whale bone, valued for its beauty, its cultural and historical weight and its scarcity; under current law against whaling they must use ancient stock, pre-existing supplies, or bone from whales that strand. New Zealand tradition and law give Māori first claim on part of the skeleton of any whale that strands and cannot be refloated, which is a very limited supply.\n\nAnd then there is the other production line. Manufacturers in China mass-produce items resembling hei matau for the New Zealand visitor market, usually in a paste of bone and resin, and, in the words of the cited account, \"have attracted criticism for their appropriation of Māori designs\". That criticism is reported here with its subject named and is not adjudicated.",
+  "how": "Carved from bone, whale bone, shell, wood or pounamu, worked down and polished, drilled and strung. Pounamu work is slow: the stone is smoothed by abrasion and bored with sticks and water. A hei matau is worn, given and inherited, not retired.",
+  "today": "Carved by Māori artists and by collectives established by iwi that export their work, and worn by Māori and by other New Zealanders who take the hook as a New Zealand sign. Viggo Mortensen wore one after filming The Lord of the Rings, which the cited account names as part of a wider international interest in Māori art. The Chinese-made bone-and-resin versions sell on the same tourist market."
+ },
+ "dating": {
+  "period": "Māori, pre-European to the present",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "pre-European Māori to now; no first date this project could cite",
+  "method": "art-historical",
+  "tier": "cited",
+  "source": "s:wp-hei-matau",
+  "note": "The cited source dates neither the functional matau nor the pendant form."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": [
+   "bone",
+   "jade",
+   "shell",
+   "wood"
+  ],
+  "worn": [
+   "neck",
+   "boat"
+  ],
+  "made_by": "Māori carvers; whale bone is restricted by law to ancient stock, existing supplies and stranded whales, with Māori holding first claim on part of a stranded whale's skeleton",
+  "colour": [
+   "green",
+   "white",
+   "cream"
+  ],
+  "single_use": false,
+  "source": "s:wp-hei-matau",
+  "note": "Ivory is also named by the cited source. Mass-market copies are a paste of bone and resin."
+ },
+ "against": [
+  {
+   "harm": "drowning",
+   "who": "the tradition as summarised by the cited source: the hei matau represents safe passage over water",
+   "source": "s:wp-hei-matau",
+   "tier": "cited"
+  },
+  {
+   "harm": "travel",
+   "who": "the same — safe travel across water is the first thing the cited source names",
+   "source": "s:wp-hei-matau",
+   "tier": "cited"
+  },
+  {
+   "harm": "infertility",
+   "who": "the same, which names fertility among what the hook represents",
+   "source": "s:wp-hei-matau",
+   "tier": "cited",
+   "note": "a taonga is not a wish-list, and the source frames these as what the form represents rather than as claims about outcomes"
+  },
+  {
+   "harm": "poverty",
+   "who": "the same, which names prosperity",
+   "source": "s:wp-hei-matau",
+   "tier": "cited"
+  }
+ ],
+ "holdings": [
+  {
+   "museum": "te-papa",
+   "what": "hei matau in the Taonga Māori collection",
+   "source": "s:wp-hei-matau",
+   "open_access": true
+  }
+ ],
+ "kin": [
+  {
+   "to": "maori-taonga",
+   "as": "the tradition this belongs to, which is why this record does not call it a lucky charm",
+   "rel": "tradition"
+  },
+  {
+   "to": "hei-tiki",
+   "as": "the other pendant from the same stone and the same cord, for ancestors rather than for water",
+   "rel": "kin"
+  },
+  {
+   "to": "fish",
+   "as": "the sign behind the shape, and behind the name of the North Island",
+   "rel": "motif"
+  },
+  {
+   "to": "jade",
+   "as": "the material class pounamu falls into; Māori classify the stone by colour instead",
+   "rel": "material"
+  },
+  {
+   "to": "bone-ivory",
+   "as": "what most of them are carved from now — cattle bone, and whale bone under strict limits",
+   "rel": "material"
+  },
+  {
+   "to": "te-papa",
+   "as": "the museum that holds them and publishes about them in Māori terms",
+   "rel": "org"
+  },
+  {
+   "to": "dreamcatcher",
+   "as": "the North American parallel — a form mass-produced abroad and objected to by name on the same grounds",
+   "rel": "parallel"
+  },
+  {
+   "to": "st-christopher-medal",
+   "as": "the other object in this atlas most often worn against danger on a crossing",
+   "rel": "parallel"
+  },
+  {
+   "to": "the-fake-market",
+   "as": "the long read about copies, which this record is one of the clearest cases in",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Hei matau — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hei_matau"
+  }
+ ],
+ "sources": [
+  "s:wp-hei-matau",
+  "s:wp-pounamu",
+  "s:wp-hei-tiki",
+  "s:web-tepapa-taonga-maori",
+  "s:wp-cultural-appropriation"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-hei-matau"
+  },
+  "fields": {
+   "text.how": {
+    "tier": "cited",
+    "source": "s:wp-hei-tiki",
+    "note": "the pounamu working method is taken from the hei-tiki source, which describes the same abrasive technique"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

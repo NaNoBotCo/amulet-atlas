@@ -1,0 +1,93 @@
+{
+ "note": "The eleven node types and how the directory groups each one. Order here is the order on the front page.",
+ "entries": [
+  {
+   "key": "amulet",
+   "name": "Amulets",
+   "one": "amulet",
+   "path": "amulet",
+   "blurb": "The things themselves: worn, buried, nailed above a door, folded into a pocket.",
+   "group_by": "facets.era"
+  },
+  {
+   "key": "tradition",
+   "name": "Traditions",
+   "one": "tradition",
+   "path": "tradition",
+   "blurb": "The whole practice a charm belongs to, and who is entitled to make one.",
+   "group_by": "facets.era"
+  },
+  {
+   "key": "motif",
+   "name": "Signs",
+   "one": "sign",
+   "path": "sign",
+   "blurb": "An eye, a hand, a horn, a knot, a serpent — the marks that travel between traditions.",
+   "group_by": "facets.family"
+  },
+  {
+   "key": "material",
+   "name": "Materials",
+   "one": "material",
+   "path": "material",
+   "blurb": "Carnelian, iron, amber, coral, paper, hair, salt. What a charm is cut from is half of what it claims.",
+   "group_by": "facets.kind"
+  },
+  {
+   "key": "practice",
+   "name": "Practices",
+   "one": "practice",
+   "path": "practice",
+   "blurb": "Making, charging, wearing, feeding, retiring. A charm is a verb before it is a noun.",
+   "group_by": "facets.stage"
+  },
+  {
+   "key": "place",
+   "name": "Places",
+   "one": "place",
+   "path": "place",
+   "blurb": "Markets, workshops, shrines, dig sites and the museum rooms where the rest of it ended up.",
+   "group_by": "facets.kind"
+  },
+  {
+   "key": "person",
+   "name": "People",
+   "one": "person",
+   "path": "person",
+   "blurb": "Makers, monks, excavators, collectors, the scholars who wrote the catalogues.",
+   "group_by": "facets.role"
+  },
+  {
+   "key": "org",
+   "name": "Museums and projects",
+   "one": "organization",
+   "path": "org",
+   "blurb": "Who holds the objects, who publishes the images, who is asking for them back.",
+   "group_by": "facets.kind"
+  },
+  {
+   "key": "term",
+   "name": "Words",
+   "one": "word",
+   "path": "word",
+   "blurb": "Amulet, talisman, charm, ta'wiz, omamori, nazar — and what each one actually says.",
+   "group_by": "facets.language"
+  },
+  {
+   "key": "art",
+   "name": "Pictures",
+   "one": "picture",
+   "path": "art",
+   "blurb": "Catalogue plates, shop signs, votive walls, the drawn sign itself.",
+   "group_by": "facets.kind"
+  },
+  {
+   "key": "story",
+   "name": "Long reads",
+   "one": "story",
+   "path": "story",
+   "blurb": "The eye across four continents, the fake market, and who a charm in a case belongs to.",
+   "group_by": "facets.kind"
+  }
+ ]
+}

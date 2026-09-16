@@ -1,0 +1,271 @@
+{
+ "schema": 1,
+ "id": "christopher-faraone",
+ "type": "person",
+ "names": {
+  "name": "Christopher A. Faraone",
+  "aliases": [
+   "Christopher Faraone"
+  ],
+  "sort": "Faraone, Christopher A."
+ },
+ "region": [
+  "greece-aegean",
+  "rome-italy",
+  "ancient-egypt",
+  "north-america"
+ ],
+ "countries": [
+  "US",
+  "GR",
+  "IT"
+ ],
+ "facets": {
+  "role": [
+   "scholar",
+   "writer"
+  ]
+ },
+ "text": {
+  "what": "American classicist, born 1955, Edward Olson Distinguished Service Professor in Classics at the University of Chicago. He works on Greek poetry, religion and magic, and wrote \"The transformation of Greek amulets in Roman imperial times\" in 2018 — a study of how the Greek protective object changed shape, material and claim once Rome was running the Mediterranean.",
+  "story": "Faraone's first book, \"Talismans and Trojan horses: guardian statues in ancient Greek myth and ritual\", 1992, took the largest protective objects the Greeks made: statues buried or set up to guard a city. \"Ancient Greek Love Magic\" followed in 2001, on the other end of the same practice — the spells and objects aimed at one person rather than a wall.\n\nThe 2018 book is the one an amulet record reaches for. *Inference —* its subject is change rather than origin, and that is the useful move: the Greek amulet did not simply persist into the Roman empire, it acquired new stones, new inscriptions and new customers, and a record that dates an object by its shape alone will get it wrong.\n\nHe founded and directed the University of Chicago's Center for the Study of Ancient Religions from 2008 to 2018, and co-edited \"Masks of Dionysius\" with Thomas H. Carpenter in 1993 and \"Prostitutes and Courtesans in the Ancient World\" with Laura K. McClure in 2006.",
+  "today": "He holds the Edward Olson chair from the 2021–22 school year. His honours include a Guggenheim Fellowship in 1995, a National Endowment for the Humanities Fellowship in 2013, a fellowship at the Institute for Advanced Study in Princeton in 2021, and the Charles J. Goodwin Award of Merit from the Society for Classical Studies in 2024."
+ },
+ "dating": {
+  "period": "Living",
+  "from_year": 1955,
+  "to_year": null,
+  "living": true,
+  "label": "born 1955",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:web-christopher-faraone-wikipedia",
+  "note": "Birth year only. This project does not estimate anything else about a living person."
+ },
+ "kin": [
+  {
+   "to": "magical-gem",
+   "as": "the Roman-period object his 2018 book tracks the Greek amulet turning into",
+   "rel": "kin"
+  },
+  {
+   "to": "greco-roman-apotropaic",
+   "as": "the tradition he studies, and the one he argues was remade rather than simply continued under Rome",
+   "rel": "tradition"
+  },
+  {
+   "to": "curse-tablet",
+   "as": "the other half of the Greek magical record — the tablet aimed at somebody, beside the amulet aimed at nobody",
+   "rel": "contrast"
+  },
+  {
+   "to": "gorgoneion",
+   "as": "the guardian face; his first book took the guardian statue, of which this is the portable end",
+   "rel": "kin"
+  },
+  {
+   "to": "campbell-bonner",
+   "as": "the scholar who first made the late Greek amulets a corpus he is now reading for change over time",
+   "rel": "parallel"
+  },
+  {
+   "to": "amulet-or-talisman",
+   "as": "the long read on the two words; his 1992 title puts the talisman question in the Greek material directly",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Christopher A. Faraone — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Christopher_A._Faraone"
+  }
+ ],
+ "sources": [
+  "s:web-christopher-faraone-wikipedia"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-christopher-faraone-wikipedia"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-christopher-faraone-wikipedia",
+    "note": "titles and years are cited; the reading of what the 2018 book argues is marked as this project's inference"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "American classicist, born 1955, Edward Olson Distinguished Service Professor in Classics at the University of Chicago.",
+ "region_terms": [
+  {
+   "key": "greece-aegean",
+   "name": "Greece and the Aegean",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Nile valley and delta, Predynastic through Roman Egypt"
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "magical-gem",
+   "type": "amulet",
+   "name": "Magical gem",
+   "as": "the Roman-period object his 2018 book tracks the Greek amulet turning into",
+   "rel": "kin"
+  },
+  {
+   "to": "greco-roman-apotropaic",
+   "type": "tradition",
+   "name": "Greek and Roman protective magic",
+   "as": "the tradition he studies, and the one he argues was remade rather than simply continued under Rome",
+   "rel": "tradition"
+  },
+  {
+   "to": "curse-tablet",
+   "type": "amulet",
+   "name": "Curse tablet",
+   "as": "the other half of the Greek magical record — the tablet aimed at somebody, beside the amulet aimed at nobody",
+   "rel": "contrast"
+  },
+  {
+   "to": "gorgoneion",
+   "type": "amulet",
+   "name": "Gorgoneion",
+   "as": "the guardian face; his first book took the guardian statue, of which this is the portable end",
+   "rel": "kin"
+  },
+  {
+   "to": "campbell-bonner",
+   "type": "person",
+   "name": "Campbell Bonner",
+   "as": "the scholar who first made the late Greek amulets a corpus he is now reading for change over time",
+   "rel": "parallel"
+  },
+  {
+   "to": "amulet-or-talisman",
+   "type": "story",
+   "name": "Amulet or talisman?",
+   "as": "the long read on the two words; his 1992 title puts the talisman question in the Greek material directly",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:web-christopher-faraone-wikipedia",
+   "kind": "web",
+   "title": "Christopher A. Faraone",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Christopher_A._Faraone",
+   "accessed": "2026-09-16"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:web-christopher-faraone-wikipedia"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:web-christopher-faraone-wikipedia",
+   "note": "titles and years are cited; the reading of what the 2018 book argues is marked as this project's inference"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:web-christopher-faraone-wikipedia"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:web-christopher-faraone-wikipedia"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1955 CE to now",
+ "country_names": [
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "curse-tablet",
+   "type": "amulet",
+   "name": "Curse tablet",
+   "as": "the scholar who split these spells into passion-inducing and affection-encouraging, and found men and women using different halves",
+   "rel": "person"
+  },
+  {
+   "from": "greco-roman-apotropaic",
+   "type": "tradition",
+   "name": "Greek and Roman protective magic",
+   "as": "the scholar of Greek binding spells and love magic, and the reason the curse tablets can be read as a system",
+   "rel": "person"
+  },
+  {
+   "from": "lead",
+   "type": "material",
+   "name": "Lead",
+   "as": "the scholar who sorted the erotic tablets into passion spells and affection spells, and found men and women using different ones",
+   "rel": "person"
+  },
+  {
+   "from": "campbell-bonner",
+   "type": "person",
+   "name": "Campbell Bonner",
+   "as": "the classicist working the same Greek material two generations on, and asking how the amulets changed under Rome",
+   "rel": "parallel"
+  }
+ ]
+}

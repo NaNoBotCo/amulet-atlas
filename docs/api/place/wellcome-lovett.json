@@ -1,0 +1,510 @@
+{
+ "schema": 1,
+ "id": "wellcome-lovett",
+ "type": "place",
+ "names": {
+  "name": "The Lovett charms at Wellcome Collection",
+  "aliases": [
+   "Lovett Collection, Wellcome",
+   "Charmed Life"
+  ],
+  "sort": "Wellcome Lovett"
+ },
+ "region": [
+  "britain-ireland"
+ ],
+ "countries": [
+  "GB"
+ ],
+ "facets": {
+  "kind": "archive",
+  "hemisphere": [
+   "N",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "An address rather than a room. Walk into 183 Euston Road today and there is no case of Edward Lovett's London charms to look at: the permanent show of Henry Wellcome's own collecting, Medicine Man, closed for good on 27 November 2022 after fifteen years, and the permanent exhibition now is Being Human. What Wellcome still holds under Lovett's name is paper — a collection dossier in the archive of the Wellcome Historical Medical Museum, catalogued as 'Lovett Collection', reference WA/HMM/CM/Col/64, a summary sheet dated to about the 1980s — and two exhibitions' worth of history.",
+  "story": "Lovett collected by swap. He was chief cashier at a bank in the City, lived in Croydon and later Caterham, and spent his free time asking dockers, costermongers and sailors' families what they carried and why, trading them alpine plants grown in seashells for it. He wrote it up in \"Magic in Modern London\" in 1925 and he did not theorise: he recorded who gave him the thing and what they said about it, and left the explaining alone. That restraint is why his labels still work a century later.\n\nHe and Henry Wellcome corresponded for years. In 1916 Lovett curated an exhibition, 'Folklore of London', at the Wellcome Historical Medical Museum at 54a Wigmore Street. In 1930, three years before Lovett died, Wellcome's museum bought from his collection of British amulets and charms: a mole's foot from Downham Market in Norfolk, carried loose in a pocket in the 1890s or 1900s, is still catalogued with that purchase note and is now in the Science Museum Group collection as A79966.\n\nWellcome's own writing on those objects reports the claims and names the claimants. In \"Moles' feet, dried frogs and other folk medicines\", published on its website by Kate Wilkinson on 21 May 2019, it gives the reasoning as its owners gave it: \"the digging-foot of a mole (with its cramped appearance) is thought to be a cure for cramp\". A dried frog in a silk bag was carried against fits; snake vertebrae were strung against pain in the lower back; a coil of eel skin was wound round the fingers, in Scotland, against cramp; a potato was the one people were still carrying, in a pocket, against rheumatism. An old woman in Devonshire used quartzite on warts.\n\nThe charms themselves went to Oxford. When Wellcome Collection showed them again in 'Charmed Life: The solace of objects', 6 October 2011 to 26 February 2012, the museum's own page says the 1,400 amulets the artist Felicity Powell worked with were \"borrowed from Oxford University's Pitt Rivers Museum\" — the same building Lovett had been giving to since the 1890s. Powell was one of few people to have had access to them; the page describes her as caught by the silent witness they bore to personal stories now lost. Her films and medals hung beside them.\n\nThe institution has since said how the wider collecting worked. In 2021 Wellcome Collection acknowledged that Henry Wellcome's collecting was shaped by colonialism, that many objects bought at auction around the turn of the twentieth century carried no record of how they had been got, and that they may have been \"unjustly taken\"; in 2025 it returned a group of Jain manuscripts to India. *Inference —* Lovett sits oddly inside that account, because his method was a trade on a street with the owner present, and this project has not read a Wellcome statement that treats his material as contested. Saying so is not a defence of it; it is a note about what is and is not on the record.",
+  "today": "The galleries, library, café and shop at 183 Euston Road are free, and the building's own line is that \"All our permanent and temporary exhibitions, and most of our events, are free.\" Photography is allowed for personal use in most exhibitions except where signs say otherwise. To see a Lovett charm you go to Oxford or to the Science Museum Group catalogue; to read his file you book the library here."
+ },
+ "dating": {
+  "period": "1916 to now",
+  "from_year": 1916,
+  "to_year": null,
+  "living": true,
+  "label": "Lovett curated here in 1916; Wellcome bought from him in 1930; the charms were shown again in 2011–12",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-edward-lovett",
+  "note": "The 1930 purchase date is the Science Museum Group's own note on the mole's foot. The 'Lovett Collection' dossier in the Wellcome archive is dated c.1980s by the catalogue, which is the file's date, not the material's."
+ },
+ "geo": {
+  "lat": 51.526,
+  "lon": -0.1336,
+  "precision": "street",
+  "source": "hand-placed at 183 Euston Road, London NW1 2BE, from the address printed on Wellcome Collection's own Visit us page; no published coordinate was read"
+ },
+ "address": {
+  "street": "183 Euston Road",
+  "city": "London",
+  "country": "GB",
+  "postcode": "NW1 2BE"
+ },
+ "hours": {
+  "open": [
+   "Tu",
+   "We",
+   "Th",
+   "Fr",
+   "Sa"
+  ],
+  "text": "Galleries and Reading Room: Tuesday to Sunday 10.00–18.00, closed Monday. Library: Monday to Friday 10.00–18.00, Saturday 10.00–16.00, closed Sunday.",
+  "source": "s:web-wellcome-opening-times",
+  "url": "https://wellcomecollection.org/pages/opening-times",
+  "tier": "cited",
+  "checked": "2026-09-17",
+  "note": "Monday and Sunday are deliberately in neither list. On Monday the galleries are shut and the library is open; on Sunday the galleries are open and the library is shut. Which answer you need depends on which door you want, and this record will not flatten that into one."
+ },
+ "holdings": [
+  {
+   "museum": "wellcome",
+   "what": "'Lovett Collection' — a summary sheet in the Collection Dossiers of the Wellcome Historical Medical Museum archive, catalogued c.1980s",
+   "accession": "WA/HMM/CM/Col/64",
+   "url": "https://wellcomecollection.org/works/czzr75yu",
+   "source": "s:web-wellcome-lovett-dossier",
+   "open_access": false
+  },
+  {
+   "museum": "other",
+   "what": "Mole's foot amulet from Downham Market, Norfolk, 1890–1910, of skin, bone and hair, carried loose in a pocket against cramp and toothache — in the Science Museum Group collection, purchased in 1930 from Edward Lovett's collection of British amulets and charms, part of Sir Henry Wellcome's museum collection",
+   "accession": "A79966",
+   "url": "https://collection.sciencemuseumgroup.org.uk/objects/co103787/moles-foot-amulet-norfolk-england-1890-1910-mole-footamulets",
+   "source": "s:web-sciencemuseum-lovett-mole-foot",
+   "open_access": false,
+   "note": "The catalogue image is released under CC BY-NC-SA 4.0, which Wikimedia Commons does not accept, so this atlas can link it and cannot host it."
+  }
+ ],
+ "tags": [
+  {
+   "tag": "free-entry",
+   "source": "s:web-wellcome-visit",
+   "tier": "cited",
+   "note": "\"All our permanent and temporary exhibitions, and most of our events, are free.\" on the Visit us page",
+   "url": "https://wellcomecollection.org/visit-us"
+  },
+  {
+   "tag": "open-images",
+   "source": "s:web-wellcome-accessing-collections",
+   "tier": "cited",
+   "note": "mixed and applied per item: Creative Commons non-commercial, attribution and public-domain licences",
+   "url": "https://wellcomecollection.org/collections/accessing-our-collections"
+  }
+ ],
+ "kin": [
+  {
+   "to": "wellcome-collection",
+   "as": "the institution this address is, and the one that showed Lovett's charms in 1916 and again in 2011",
+   "rel": "org"
+  },
+  {
+   "to": "edward-lovett",
+   "as": "the man who swapped alpine plants for the charms in Londoners' pockets and wrote down what they said about them",
+   "rel": "person"
+  },
+  {
+   "to": "lovett-collection",
+   "as": "the collection itself, which this address holds the paper trail of rather than the objects",
+   "rel": "art"
+  },
+  {
+   "to": "pitt-rivers-charms",
+   "as": "where the charms actually are — the 1,400 amulets shown here in 2011 were borrowed back from Oxford",
+   "rel": "place"
+  },
+  {
+   "to": "caul",
+   "as": "the birth membrane Lovett recorded in the hands of London sailors' families, bought against drowning",
+   "rel": "carries"
+  },
+  {
+   "to": "hagstone",
+   "as": "the naturally perforated stone that runs all through his English material",
+   "rel": "carries"
+  },
+  {
+   "to": "rabbits-foot",
+   "as": "the pocket animal part of the same English habit as the mole's foot Wellcome bought in 1930",
+   "rel": "parallel"
+  },
+  {
+   "to": "walter-hildburgh",
+   "as": "the other amulet collector whose material passed through this building and out of it in 1985",
+   "rel": "person"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the living tradition he recorded on the street while other collectors read about its past",
+   "rel": "tradition"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read; a charm swapped face to face on a barrow is the awkward case in it",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Visit us — Wellcome Collection",
+   "url": "https://wellcomecollection.org/visit-us"
+  },
+  {
+   "label": "Charmed Life: The Solace of Objects — Wellcome Collection",
+   "url": "https://wellcomecollection.org/exhibitions/W-GYiBEAAK61cRK1"
+  },
+  {
+   "label": "Moles' feet, dried frogs and other folk medicines — Wellcome Collection",
+   "url": "https://wellcomecollection.org/stories/moles--feet--dried-frogs-and-other-folk-medicines"
+  },
+  {
+   "label": "'Lovett Collection', WA/HMM/CM/Col/64 — Wellcome Collection catalogue",
+   "url": "https://wellcomecollection.org/works/czzr75yu"
+  }
+ ],
+ "sources": [
+  "s:web-wellcome-lovett-folk-medicines",
+  "s:web-wellcome-lovett-dossier",
+  "s:web-wellcome-charmed-life",
+  "s:web-wellcome-visit",
+  "s:web-wellcome-opening-times",
+  "s:web-wellcome-whats-on",
+  "s:web-wellcome-accessing-collections",
+  "s:web-sciencemuseum-lovett-mole-foot",
+  "s:wp-edward-lovett",
+  "s:wp-wellcome-collection"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-wellcome-lovett-folk-medicines"
+  },
+  "fields": {
+   "geo": {
+    "tier": "inference",
+    "note": "geocoded by hand to 183 Euston Road from the address on the museum's own Visit us page; no published coordinate was read, so precision is street, not exact"
+   },
+   "text.what": {
+    "tier": "cited",
+    "source": "s:web-wellcome-whats-on",
+    "note": "the current permanent exhibition, Being Human, was read off the museum's own What's on page on 2026-09-17; the Medicine Man closing date comes from the encyclopedia entry; the dossier reference and its c.1980s date come from the Wellcome catalogue record"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-wellcome-charmed-life",
+    "note": "the 1,400 figure and the loan from the Pitt Rivers Museum are the museum's own words; the 1930 purchase is the Science Museum Group's note; the closing paragraph is marked as inference where it appears, and rests on an absence of reading rather than on a statement by anyone"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:web-wellcome-visit",
+    "note": "free entry and the photography rule read on the museum's own page, 2026-09-17; nobody from this project has been in the building"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Wellcome Collection building Euston Road.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-17",
+ "blurb": "An address rather than a room. Walk into 183 Euston Road today and there is no case of Edward Lovett's London charms to look at: the permanent show of Henry Wellcome's own collecting, Medicine Man, closed for good on 27…",
+ "region_terms": [
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "wellcome-collection",
+   "type": "org",
+   "name": "Wellcome Collection",
+   "as": "the institution this address is, and the one that showed Lovett's charms in 1916 and again in 2011",
+   "rel": "org"
+  },
+  {
+   "to": "edward-lovett",
+   "type": "person",
+   "name": "Edward Lovett",
+   "as": "the man who swapped alpine plants for the charms in Londoners' pockets and wrote down what they said about them",
+   "rel": "person"
+  },
+  {
+   "to": "lovett-collection",
+   "type": "art",
+   "name": "The Lovett collection",
+   "as": "the collection itself, which this address holds the paper trail of rather than the objects",
+   "rel": "art"
+  },
+  {
+   "to": "pitt-rivers-charms",
+   "type": "place",
+   "name": "The amulet and charm cases, Pitt Rivers Museum",
+   "as": "where the charms actually are — the 1,400 amulets shown here in 2011 were borrowed back from Oxford",
+   "rel": "place"
+  },
+  {
+   "to": "caul",
+   "type": "amulet",
+   "name": "Caul",
+   "as": "the birth membrane Lovett recorded in the hands of London sailors' families, bought against drowning",
+   "rel": "carries"
+  },
+  {
+   "to": "hagstone",
+   "type": "amulet",
+   "name": "Hagstone",
+   "as": "the naturally perforated stone that runs all through his English material",
+   "rel": "carries"
+  },
+  {
+   "to": "rabbits-foot",
+   "type": "amulet",
+   "name": "Rabbit's foot",
+   "as": "the pocket animal part of the same English habit as the mole's foot Wellcome bought in 1930",
+   "rel": "parallel"
+  },
+  {
+   "to": "walter-hildburgh",
+   "type": "person",
+   "name": "Walter Leo Hildburgh",
+   "as": "the other amulet collector whose material passed through this building and out of it in 1985",
+   "rel": "person"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "type": "tradition",
+   "name": "European folk apotropaic craft",
+   "as": "the living tradition he recorded on the street while other collectors read about its past",
+   "rel": "tradition"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read; a charm swapped face to face on a barrow is the awkward case in it",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:web-wellcome-lovett-folk-medicines",
+   "kind": "web",
+   "title": "Moles' feet, dried frogs and other folk medicines",
+   "author": "Kate Wilkinson",
+   "publisher": "Wellcome Collection",
+   "url": "https://wellcomecollection.org/stories/moles--feet--dried-frogs-and-other-folk-medicines",
+   "date": "2019-05-21",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-wellcome-lovett-dossier",
+   "kind": "web",
+   "title": "'Lovett Collection', WA/HMM/CM/Col/64",
+   "publisher": "Wellcome Collection, catalogue",
+   "url": "https://wellcomecollection.org/works/czzr75yu",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-wellcome-charmed-life",
+   "kind": "web",
+   "title": "Charmed Life: The Solace of Objects",
+   "publisher": "Wellcome Collection",
+   "url": "https://wellcomecollection.org/exhibitions/W-GYiBEAAK61cRK1",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-wellcome-visit",
+   "kind": "web",
+   "title": "Visit us",
+   "publisher": "Wellcome Collection",
+   "url": "https://wellcomecollection.org/visit-us",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-wellcome-opening-times",
+   "kind": "web",
+   "title": "Opening times",
+   "publisher": "Wellcome Collection",
+   "url": "https://wellcomecollection.org/pages/opening-times",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-wellcome-whats-on",
+   "kind": "web",
+   "title": "What's on",
+   "publisher": "Wellcome Collection",
+   "url": "https://wellcomecollection.org/whats-on",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-wellcome-accessing-collections",
+   "kind": "web",
+   "title": "Accessing our collections",
+   "publisher": "Wellcome Collection",
+   "url": "https://wellcomecollection.org/collections/accessing-our-collections",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-sciencemuseum-lovett-mole-foot",
+   "kind": "web",
+   "title": "Mole's foot amulet, Norfolk, England, 1890-1910",
+   "publisher": "Science Museum Group Collection",
+   "url": "https://collection.sciencemuseumgroup.org.uk/objects/co103787/moles-foot-amulet-norfolk-england-1890-1910-mole-footamulets",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:wp-edward-lovett",
+   "kind": "encyclopedia",
+   "title": "Edward Lovett",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Edward_Lovett",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-wellcome-collection",
+   "kind": "encyclopedia",
+   "title": "Wellcome Collection",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wellcome_Collection",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:web-wellcome-whats-on",
+   "note": "the current permanent exhibition, Being Human, was read off the museum's own What's on page on 2026-09-17; the Medicine Man closing date comes from the encyclopedia entry; the dossier reference and its c.1980s date come from the Wellcome catalogue record"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:web-wellcome-charmed-life",
+   "note": "the 1,400 figure and the loan from the Pitt Rivers Museum are the museum's own words; the 1930 purchase is the Science Museum Group's note; the closing paragraph is marked as inference where it appears, and rests on an absence of reading rather than on a statement by anyone"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:web-wellcome-visit",
+   "note": "free entry and the photography rule read on the museum's own page, 2026-09-17; nobody from this project has been in the building"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:web-wellcome-lovett-folk-medicines"
+  },
+  "geo": {
+   "tier": "inference",
+   "note": "geocoded by hand to 183 Euston Road from the address on the museum's own Visit us page; no published coordinate was read, so precision is street, not exact"
+  },
+  "address": {
+   "tier": "cited",
+   "source": "s:web-wellcome-lovett-folk-medicines"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [
+  {
+   "key": "free-entry",
+   "label": "Free to enter",
+   "group": "visit",
+   "evidence": "the institution's own admissions page",
+   "source": "s:web-wellcome-visit",
+   "note": "\"All our permanent and temporary exhibitions, and most of our events, are free.\" on the Visit us page",
+   "tier": "cited",
+   "url": "https://wellcomecollection.org/visit-us"
+  },
+  {
+   "key": "open-images",
+   "label": "Publishes open images",
+   "group": "collection",
+   "evidence": "the collection's own rights statement",
+   "source": "s:web-wellcome-accessing-collections",
+   "note": "mixed and applied per item: Creative Commons non-commercial, attribution and public-domain licences",
+   "tier": "cited",
+   "url": "https://wellcomecollection.org/collections/accessing-our-collections"
+  }
+ ],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [
+  {
+   "key": "wellcome",
+   "label": "Wellcome Collection",
+   "city": "London",
+   "country": "GB",
+   "url": "https://wellcomecollection.org/works/czzr75yu",
+   "open": true,
+   "what": "'Lovett Collection' — a summary sheet in the Collection Dossiers of the Wellcome Historical Medical Museum archive, catalogued c.1980s",
+   "accession": "WA/HMM/CM/Col/64",
+   "source": "s:web-wellcome-lovett-dossier"
+  },
+  {
+   "key": "other",
+   "label": "Another collection",
+   "note": "name it in `what` when it has no key here yet",
+   "what": "Mole's foot amulet from Downham Market, Norfolk, 1890–1910, of skin, bone and hair, carried loose in a pocket against cramp and toothache — in the Science Museum Group collection, purchased in 1930 from Edward Lovett's collection of British amulets and charms, part of Sir Henry Wellcome's museum collection",
+   "accession": "A79966",
+   "url": "https://collection.sciencemuseumgroup.org.uk/objects/co103787/moles-foot-amulet-norfolk-england-1890-1910-mole-footamulets",
+   "source": "s:web-sciencemuseum-lovett-mole-foot"
+  }
+ ],
+ "span": "1916 CE to now",
+ "country_names": [
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "tooth-and-claw",
+   "type": "motif",
+   "name": "The tooth and the claw",
+   "as": "the collection the wolf tooth came from before 1985",
+   "rel": "origin"
+  },
+  {
+   "from": "pitt-rivers-charms",
+   "type": "place",
+   "name": "The amulet and charm cases, Pitt Rivers Museum",
+   "as": "the London end of the same story: what Wellcome kept, and what came here in 1985",
+   "rel": "place"
+  },
+  {
+   "from": "wellcome-collection",
+   "type": "org",
+   "name": "Wellcome Collection",
+   "as": "the Lovett material inside it, which is the part of this collection this atlas sends a reader to",
+   "rel": "place"
+  },
+  {
+   "from": "lovett-collection",
+   "type": "art",
+   "name": "The Lovett collection",
+   "as": "the other room these objects come back to, most recently in Charmed Life in 2011–12",
+   "rel": "held-at"
+  }
+ ]
+}

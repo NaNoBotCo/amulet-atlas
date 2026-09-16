@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "id": "insadong",
+ "type": "place",
+ "names": {
+  "name": "Insa-dong",
+  "native": "인사동",
+  "script": "Hangul",
+  "lang": "ko",
+  "said": "IN-sa-dong",
+  "aliases": ["Insadong", "Mary's Alley"]
+ },
+ "region": ["korea"],
+ "countries": ["KR"],
+ "facets": {"kind": "market", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A neighbourhood of Jongno District, Seoul, 12.7 hectares of galleries, antique shops, paper and brush shops and tea houses along Insadong-gil and the alleys off it. It holds 40 per cent of South Korea's antique shops and art galleries and 90 per cent of its traditional stationery shops — which means it is where the brush, the ink and the paper a talisman is written on are bought.",
+  "story": "The antique trade here began as a forced sale. During the Japanese occupation wealthy Korean residents were made to move and to sell their belongings, and the district became the place that trade happened. After the Korean War it turned into a centre of artistic life and cafés; foreign visitors in the 1960s called it Mary's Alley; the 1988 Olympics brought the international trade. In 2000 the area was renovated, and after protest its rapid modernisation was halted for two years.\n\nThe temple in the neighbourhood is Jogyesa, a principal Korean Buddhist temple; the central temple of Cheondoism stands nearby, finished in 1921. Calligraphy is demonstrated on the street daily.\n\nThe Korean protective charm does not come from a shop here, and the distinction is the point of this record. A pujŏk — bujeok — is produced by a mudang, a shaman, usually built out of hanja characters, handed to clients at the end of a rite and stuck to the inside wall of a house. Mudang are concentrated in Seoul more thickly than anywhere else in the country except Jeju; a late 20th-century Korean Gallup survey found 38 per cent of South Korean adults had consulted one. *Inference —* what Insadong sells is the material and the antique, not the charm; the charm is commissioned, and this atlas has read no source that puts a bujeok counter on this street.",
+  "today": "Trading, with the backstreets gentrified into cafés and guest houses. About 100,000 visitors on a Sunday were reported in 2000. No day is marked below: the shops keep their own hours and nobody publishes them as one timetable."
+ },
+ "dating": {
+  "period": "Japanese colonial period to the present",
+  "from_year": 1910,
+  "to_year": null,
+  "living": true,
+  "label": "c. 1910s to now, as an antiques quarter",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-insa-dong",
+  "note": "Dated from the occupation-era forced sales that turned the district into an antiques market; the neighbourhood itself is some five centuries older."
+ },
+ "geo": {"lat": 37.572972, "lon": 126.98618, "precision": "street", "source": "the coordinate published in the English Wikipedia article Insa-dong, read 2026-09-16"},
+ "address": {"street": "Insadong-gil", "city": "Seoul", "admin": "Jongno District", "country": "KR"},
+ "kin": [
+  {"to": "bujeok", "as": "the Korean written charm — made by a mudang, not sold over a counter; this district supplies the paper and ink it is drawn with", "rel": "carries"},
+  {"to": "korean-bujeok-craft", "as": "the tradition behind that charm, concentrated in Seoul more than anywhere else in the country", "rel": "tradition"},
+  {"to": "paper", "as": "the material 90 per cent of the country's traditional stationery shops sell from these alleys", "rel": "material"},
+  {"to": "ink", "as": "the other half of a written charm, ground and demonstrated on this street daily", "rel": "material"},
+  {"to": "inscribing", "as": "the practice a stationery district exists to equip", "rel": "practice"},
+  {"to": "dolhareubang", "as": "the Jeju stone grandfather, the Korean object a visitor is likeliest to carry out of a shop here as a miniature", "rel": "carries"},
+  {"to": "the-fake-market", "as": "the long read on copies, which an antiques quarter holding 40 per cent of a country's dealers lives inside", "rel": "story"}
+ ],
+ "tags": [
+  {"tag": "market", "source": "s:wp-insa-dong", "tier": "cited", "note": "historically the largest market for antiques and artwork in Korea; 40 per cent of the nation's antique shops and galleries"}
+ ],
+ "links": [{"label": "Insa-dong — Wikipedia", "url": "https://en.wikipedia.org/wiki/Insa-dong"}],
+ "sources": ["s:wp-insa-dong", "s:wp-korean-shamanism"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-insa-dong"},
+  "fields": {
+   "geo": {"tier": "cited", "source": "s:wp-insa-dong", "note": "the article's own coordinate, read 2026-09-16"},
+   "text.story": {"tier": "cited", "source": "s:wp-korean-shamanism", "note": "the closing claim about what this district does not sell is marked as inference where it appears"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Insadong-gil Seoul.jpg", "File:Ssamziegil Insadong.jpg"],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

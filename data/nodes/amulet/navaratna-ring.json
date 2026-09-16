@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "id": "navaratna-ring",
+ "type": "amulet",
+ "names": {
+  "name": "Navaratna ring",
+  "native": "नवरत्न",
+  "script": "Devanagari",
+  "lang": "sa",
+  "said": "nava-RAT-na, 'nine gems'",
+  "aliases": ["navaratna", "nawarat", "noppharat", "navaratinam", "nine-gem ring"]
+ },
+ "etymology": {
+  "root": "Sanskrit nava 'nine' + ratna 'gem'",
+  "note": "The same compound travels: Navaratnam in Malayalam, Nabaratna in Bengali and Odia, Navaratinam in Tamil, Nawaratna in Malay and Nepali, Nawarat or Noppharat in Thai, Nawarat in Burmese.",
+  "tier": "cited",
+  "source": "s:wp-navaratna"
+ },
+ "region": ["south-asia", "mainland-sea", "island-sea"],
+ "countries": ["IN", "NP", "LK", "TH", "MM", "KH", "VN", "MY", "SG", "ID"],
+ "facets": {"era": "medieval", "status": "living", "portable": "worn", "restricted": "open", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "Nine stones set together in gold or silver, one for each of the nine bodies of Hindu astrology, with a ruby at the centre for the Sun. The traditional arrangement runs clockwise from the top: diamond, natural pearl, red coral, hessonite, blue sapphire, cat's eye, yellow sapphire, emerald. Nothing but a ruby or a red spinel goes in the middle, because the Sun sits at the centre of the system the ring is a model of. It is made as a ring, a pendant, a necklace and a star worn on the chest.",
+  "story": "The nine are fixed and the list is old enough to be quoted rather than explained. A Sanskrit sloka attributed to the Brihat Jataka, and repeated in the Mani-mala and the Jataka Parijata, assigns ruby to Surya, pearl to Chandra, red coral to Mangala, emerald to Budha, yellow sapphire to Brihaspati, diamond to Shukra, blue sapphire to Shani, hessonite to Rahu, the ascending lunar node, and cat's eye to Ketu, the descending one. The late Thai astrologer Horacharn Thep Sarikabutr gives the same nine in his Parichad-Jataka, chapter 2, verse 21: \"Top quality and flawless ruby is the gem for the Sun, natural pearl for the Moon, red coral for Mars, emerald for Mercury, yellow sapphire for Jupiter, diamond for Venus, blue sapphire for Saturn, hessonite for Rahu (ascending lunar node), and cat's eye for Ketu (descending lunar node).\"\n\nThe sloka's two words that matter most are sujatyam-amalam — high-born and flawless. The Garuda Purana, chapter 68, verse 17, has Sri Suta Goswami say that \"Pure, flawless gems have auspicious powers which can protect one from demons, snakes, poisons, diseases, sinful reactions, and other dangers, while flawed stones have the opposite effect.\" The Agni Purana, chapter 246, agrees in the negative: a gem that is cracked, fissured, dull, rough or sandy \"should not be used at all\".\n\n*Inference —* that is an unusual clause for an amulet. Most charms in this atlas work whatever they look like; this one is cancelled by a flaw, and a flaw is a thing only a dealer can price. The prescription and the trade are the same sentence.\n\nIn Thailand the nine gems are a state emblem. The king awards the Noppharat Ratchawaraphon, the Ancient Auspicious Order of the Nine Gems, in a single class: a Pendant of the Nine Gems on a yellow sash trimmed red, blue and green, worn over the right shoulder to the left hip by men and on a silk ribbon at the front left shoulder by women; a Star of the Nine Gems on the left chest; and a Gold Ring of the Nine Gems, for men, on the right ring finger.",
+  "how": "Prescribed before it is made. In Hindu astrology the placement of the navagrahas in a person's sidereal horoscope is read first, and either a single gem or a combination of compatible stones is advised — to draw on a beneficial planet or to counter a harmful one — which is why the tradition says to consult an astrologer before wearing one. Paramahansa Yogananda, writing in Autobiography of a Yogi, adds a weight and a placement: \"the proper jewels, metals, or plant preparations are valueless unless the required weight is secured, and unless these remedial agents are worn next to the skin\", and puts the floor at faultless jewels of not less than two carats.",
+  "today": "Made and sold across southern and southeastern Asia as of 2026, in gold for the wealthy and in small stones for everyone else, and worn regardless of religious difference — the arrangement is treated as auspicious in India, Nepal, Sri Lanka, Singapore, Myanmar, Cambodia, Vietnam, Indonesia, Thailand and Malaysia. The claimed astrological or piezoelectric benefit of wearing or donating gems has not been scientifically quantified, and this atlas does not adjudicate it either way."
+ },
+ "dating": {
+  "period": "not dated in the source; the gem-planet list is quoted from named texts",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "undated in the source; worn now",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-navaratna",
+  "note": "The Brihat Jataka, Garuda Purana and Agni Purana passages are quoted without dates in the source read, and the Thai royal order is given without a founding year. Rather than borrow a date from elsewhere, this record carries none."
+ },
+ "object": {
+  "form": "ring",
+  "materials": ["gold", "silver", "coral"],
+  "worn": ["finger", "neck", "chest"],
+  "made_by": "a jeweller, to an astrologer's reading of the wearer's horoscope",
+  "count": 9,
+  "colour": ["red", "white", "green", "blue", "yellow"],
+  "single_use": false,
+  "source": "s:wp-navaratna",
+  "note": "The nine stones are ruby, natural pearl, red coral, emerald, yellow sapphire, diamond, blue sapphire, hessonite and cat's eye. Only coral, gold and silver among them have keys in this atlas's materials list."
+ },
+ "against": [
+  {"harm": "demons", "who": "Sri Suta Goswami, narrating the Garuda Purana, chapter 68, verse 17", "quote": "\"Pure, flawless gems have auspicious powers which can protect one from demons, snakes, poisons, diseases, sinful reactions, and other dangers, while flawed stones have the opposite effect.\"", "source": "s:wp-navaratna", "tier": "cited"},
+  {"harm": "snakebite", "who": "the same Garuda Purana passage, which names snakes and poisons", "source": "s:wp-navaratna", "tier": "cited"},
+  {"harm": "illness", "who": "the same passage, which names diseases", "source": "s:wp-navaratna", "tier": "cited"},
+  {"harm": "bad-luck", "who": "the Agni Purana, chapter 246, which calls a flawless gem an escort of good luck and forbids a flawed one", "source": "s:wp-navaratna", "tier": "cited"}
+ ],
+ "kin": [
+  {"to": "hindu-kavacha", "as": "the tradition it belongs to — an object worn on the body because a text and a horoscope together say which object", "rel": "tradition"},
+  {"to": "rudraksha", "as": "the other South Asian thing worn at the body's surface, and the cheap one: a seed anybody may string, against nine graded stones an astrologer prescribes", "rel": "contrast"},
+  {"to": "coral", "as": "the red stone in the ring, standing for Mars, and the one material here this atlas files on its own", "rel": "material"},
+  {"to": "gold", "as": "the usual setting, and — in Yogananda's account — part of the prescription rather than the frame", "rel": "material"},
+  {"to": "yantra-plate", "as": "the drawn version of the same astrology: nine bodies laid out as a diagram on metal instead of nine stones set in it", "rel": "parallel"},
+  {"to": "magical-gem", "as": "the Mediterranean parallel — a cut stone prescribed by a specialist and worn against a named harm", "rel": "parallel"},
+  {"to": "crystal-pendant", "as": "what the logic becomes in a 21st-century wellness shop, with the horoscope and the flawlessness rule dropped", "rel": "contrast"},
+  {"to": "thai-wicha", "as": "the Thai side of it: in Thailand the nine gems are a royal honour as well as a charm", "rel": "kin"}
+ ],
+ "links": [{"label": "Navaratna — Wikipedia", "url": "https://en.wikipedia.org/wiki/Navaratna"}],
+ "sources": ["s:wp-navaratna", "s:wp-coral", "s:wp-amulet"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-navaratna"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:wp-navaratna", "note": "the paragraph on flaw and price is marked as this project's inference where it appears"},
+   "text.today": {"tier": "cited", "source": "s:wp-navaratna"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Navaratna.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

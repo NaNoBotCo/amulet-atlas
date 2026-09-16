@@ -1,0 +1,111 @@
+{
+ "schema": 1,
+ "id": "charm-word",
+ "type": "term",
+ "names": {
+  "name": "charm",
+  "said": "charm",
+  "aliases": [
+   "charme",
+   "carmen"
+  ]
+ },
+ "etymology": {
+  "root": "Latin carmen 'song, verse, enchantment, religious formula' (from canere 'to sing') > Old French charme 'magic charm, magic spell, incantation; song, lamentation' > Middle English charme > English charm",
+  "first_attested": "c. 1300 in English, meaning an incantation (Online Etymology Dictionary)",
+  "note": "The senses arrive in order and the dates are on record: 1590s for any item worn to avert evil; a pleasing quality by the seventeenth century; 1865 for what the Online Etymology Dictionary glosses as a “small trinket fastened to a watch-chain, etc.” Wiktionary adds that charm displaced the native Old English lybb.",
+  "tier": "cited",
+  "source": "s:web-etymonline-charm"
+ },
+ "region": [
+  "western-europe",
+  "britain-ireland",
+  "world"
+ ],
+ "countries": [
+  "GB",
+  "US",
+  "FR"
+ ],
+ "facets": {
+  "language": [
+   "English",
+   "Latin",
+   "French"
+  ]
+ },
+ "text": {
+  "what": "A word that has been three things in sequence and is still all three. A charm is a said or sung formula; a charm is a small object worn against harm or for luck; charm is what a person has who is pleasant to be near. English keeps no marker between them, so charm bracelet, charm offensive and charm against toothache are the same word doing different work.",
+  "story": "It started as the words themselves. Latin carmen is a song, a verse, a formula — from canere, to sing — and Old French charme is the spell spoken aloud. English has it by about 1300 in that sense only: an incantation. There is no object in the word yet.\n\nThe object arrives around 1590, when charm starts to mean any item worn to avert evil. The pleasing-person sense follows in the seventeenth century, and the weaker sense of being highly pleasing in the early eighteenth. The bracelet sense is the newest of the four and can be dated: 1865, for a small object fastened to a watch-chain.\n\n*Inference —* the drift is from what is said, to what is worn, to what is admired, and the hinge is the same idea each time — a thing with the power to move somebody who is not choosing to be moved. That is also why this atlas files a spoken formula and a hung pendant under one heading without apology: English already did.\n\n*Tradition holds —* the older English charm was as often spoken over an injury as hung round a neck, and the practical difference between a verse and an object narrows to nothing once the verse is written down and folded into a case."
+ },
+ "dating": {
+  "from_year": 1300,
+  "to_year": null,
+  "living": true,
+  "label": "in English from c. 1300",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:web-etymonline-charm"
+ },
+ "kin": [
+  {
+   "to": "abracadabra",
+   "as": "the charm that never stopped being only words, and the one with a dated first appearance",
+   "rel": "term"
+  },
+  {
+   "to": "amulet-word",
+   "as": "the Latinate cover-word that took over the object sense in catalogues, leaving charm to the bracelet and the compliment",
+   "rel": "contrast"
+  },
+  {
+   "to": "luck-word",
+   "as": "the word it is welded to — good luck charm is the compound most English speakers actually use",
+   "rel": "kin"
+  },
+  {
+   "to": "four-leaf-clover",
+   "as": "the object a British or American reader is likeliest to name when the word is said",
+   "rel": "term"
+  },
+  {
+   "to": "exam-charm",
+   "as": "the sense alive on a student's desk this year: an object carried for one occasion",
+   "rel": "term"
+  },
+  {
+   "to": "mascot-word",
+   "as": "the nineteenth-century French import that took over the luck-bringing sense in sport and in advertising",
+   "rel": "contrast"
+  }
+ ],
+ "links": [
+  {
+   "label": "charm — Wiktionary",
+   "url": "https://en.wiktionary.org/wiki/charm"
+  }
+ ],
+ "sources": [
+  "s:web-etymonline-charm",
+  "s:web-wiktionary-charm",
+  "s:wp-amulet",
+  "s:wp-charm-bracelet"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-etymonline-charm"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-etymonline-charm",
+    "note": "the dates are the dictionary's; the reading of the drift is marked inference where it appears"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

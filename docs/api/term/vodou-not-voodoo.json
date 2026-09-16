@@ -1,0 +1,406 @@
+{
+ "schema": 1,
+ "id": "vodou-not-voodoo",
+ "type": "term",
+ "names": {
+  "name": "Vodou and Vodún — and the spelling this atlas does not use",
+  "native": "vodún",
+  "script": "Latin",
+  "lang": "fon",
+  "said": "vo-DOO",
+  "aliases": [
+   "Vodou",
+   "Vodún",
+   "Vodu",
+   "Vodoun",
+   "Voudoun",
+   "vaudou",
+   "vaudoux",
+   "Ginen"
+  ]
+ },
+ "etymology": {
+  "root": "Fon vodún, from the Gbe languages of the Niger-Congo family, translating as 'spirit', 'God', 'divinity' or 'presence' > Haitian Creole Vodou",
+  "first_attested": "1658, in the Doctrina Christiana, where the Fon word Vôdoun is first recorded (Wikipedia's Haitian Vodou article)",
+  "note": "In Haitian Creole, Vodou first designated a style of dance and drumming, and outsiders then adopted it as a general term for Afro-Haitian religion. Many practitioners describe their tradition as Ginen instead — a moral philosophy and a code for how to live and serve the spirits. The West African religion is usually written Vodún, or Vodu, to keep it distinct; the anthropologist Timothy R. Landry argues vodúnsínsen, 'spirit worship', is the more accurate name for it.",
+  "tier": "cited",
+  "source": "s:wp-haitian-vodou"
+ },
+ "region": [
+  "caribbean",
+  "west-africa",
+  "north-america",
+  "diaspora"
+ ],
+ "countries": [
+  "HT",
+  "BJ",
+  "TG",
+  "GH",
+  "NG",
+  "US"
+ ],
+ "facets": {
+  "language": [
+   "Fon",
+   "Haitian Creole",
+   "French",
+   "English"
+  ]
+ },
+ "text": {
+  "what": "Two religions and one misspelling. Vodún is the religion of Aja, Ewe and Fon people in Benin, Togo, Ghana and Nigeria, with priesthoods, initiatory societies and the divination system Fá. Vodou is Haiti's: formed in the mid-eighteenth century out of Fon, Kongo and Yoruba traditions under colonial Saint-Domingue, with Roman Catholic and Masonic material absorbed into it, and carrying temples (ounfò), priests and priestesses (oungan and manbo), four grades of initiation, a liturgy of drum, song and dance, and a diaspora in Cuba, the Dominican Republic, Puerto Rico, France, Canada and the United States. Vodou is the spelling used by scholars, by official Haitian Creole orthography and by the United States Library of Congress. Some scholars prefer Vodoun, Voudoun or Vodun; French also carries vaudou and vaudoux. The two-o spelling, on Wikipedia's account, “is now generally avoided by practitioners and scholars when referring to the Haitian religion”.",
+  "story": "The word is older than any of the arguments about it. The Fon Vôdoun is first recorded in 1658, in the Doctrina Christiana, and in the kingdom of Dahomey it meant a spirit or a deity. Ouidah was a major slave embarkation point from the 1670s to the 1860s, and Vodún practitioners were among those shipped; with Kongo religion, theirs became one of the two main influences on what formed in Haiti. Many Haitian terms, the word Vodou included, come out of Fon.\n\nWhat happened to the spelling in English has a date and an address. The United States occupied Haiti from 1915 to 1934, and the occupation produced tourist shows and a literature — Faustin Wirkus and William Seabrook wrote the books that reached American readers. Seabrook's The Magic Island was published on 3 January 1929 by Harcourt, Brace & Company; it is described as the first popular English-language work to describe the concept of a zombie, which Seabrook defined as “a soulless human corpse, still dead, but taken from the grave and endowed by sorcery with a mechanical semblance of life”. Time said it “introduced 'zombi' into U.S. speech”. The book inspired the 1932 stage play Zombie and fed Victor Halperin's 1932 film White Zombie, with Bela Lugosi — the first feature-length zombie film, and the one that “originated several fictional tropes”, chiefly the zombie as a mindless henchman under an evil magician's spell. Jacques Tourneur's I Walked with a Zombie followed in 1943. The film “London Voodoo” of 2004 is named on the same list of works that sensationalise the religion.\n\nThe doll most people picture belongs to that literature and not to either religion. Wikipedia's article states it plainly: “The voodoo doll is not prominent in either” Haitian Vodou or “Louisiana Voodoo”.\n\nWho objects is on record. Scholars describe Vodou as one of the world's most maligned and misunderstood religions; Christians in Haiti have presented it as Satanic, and in Anglophone and Francophone writing generally it has been tied to sorcery and black magic, attitudes “sometimes linked with anti-black racism”. In U.S. popular culture Haitian Vodou is usually portrayed as destructive and malevolent, and the absence of any central Vodou authority has made those representations hard to answer. Practitioners answered anyway: after attacks on Vodouists following the overthrow of Jean-Claude Duvalier in 1986, they formed the civil rights groups Zantray and Bode Nasyonal. Haiti's 1987 constitution guaranteed freedom of religion, and President Jean-Bertrand Aristide granted Vodou official recognition in 2003. Hostility did not stop: Protestants blamed Vodou in part for the 2010 earthquake, and mobs attacked Vodouists afterwards.\n\nSo this atlas's word list bans the two-o spelling outside quotations and proper nouns, and the validator fails any record that uses it loose. The reason is not squeamishness about an old spelling. That spelling reached English through an occupation and an entertainment industry, and what it names in English is a thing those industries built — a zombie, a pin-stuck doll, a film villain. Calling a religion with clergy, liturgy, a constitution's protection and six million estimated practitioners by the name of its own caricature is the error the rule exists to stop. The exceptions are real and stay: “Louisiana Voodoo” is the proper name of a distinct tradition, and a quotation keeps its speaker's words."
+ },
+ "dating": {
+  "from_year": 1658,
+  "to_year": null,
+  "living": true,
+  "label": "the word on record from 1658 to now",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-haitian-vodou",
+  "note": "Dates the first record of the Fon word, not the practice, which the same source says predates historical documentation in West Africa."
+ },
+ "restricted": {
+  "note": "Vodou's initiations are not written out here. There are four grades, and the details of the ceremonies are kept secret by the tradition; this record names the structure and stops there.",
+  "who_says": "Wikipedia's Haitian Vodou article, reporting that there is much variation in what the initiation ceremonies entail and that the details are kept secret",
+  "source": "s:wp-haitian-vodou",
+  "url": "https://en.wikipedia.org/wiki/Haitian_Vodou"
+ },
+ "kin": [
+  {
+   "to": "gris-gris",
+   "as": "the object carried into Haiti and Louisiana under a Mande name, and kept in Haitian practice with its West African sense intact",
+   "rel": "term"
+  },
+  {
+   "to": "gris-gris-word",
+   "as": "the word whose charge changed on the American shore, in the same crossing that changed this one",
+   "rel": "contrast"
+  },
+  {
+   "to": "juju-word",
+   "as": "the neighbouring outsiders' word for West African practice, contested on its etymology rather than its spelling",
+   "rel": "contrast"
+  },
+  {
+   "to": "fetish-word",
+   "as": "the older European coinage aimed at the same coast, and the one that hardened into a theory of religion",
+   "rel": "contrast"
+  },
+  {
+   "to": "nkisi",
+   "as": "the Kongo side of what formed in Haiti, and another object renamed by the people describing it",
+   "rel": "kin"
+  },
+  {
+   "to": "west-african-charm-craft",
+   "as": "the practice the Fon word comes out of, before any of this reached print in English",
+   "rel": "tradition"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the statement of what is withheld here, including the initiations this record names and does not describe",
+   "rel": "story"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read on naming: who gets to spell somebody else's religion, and what the spelling then carries",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Haitian Vodou — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Haitian_Vodou"
+  },
+  {
+   "label": "West African Vodún — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/West_African_Vod%C3%BAn"
+  },
+  {
+   "label": "The Magic Island — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Magic_Island"
+  }
+ ],
+ "sources": [
+  "s:wp-haitian-vodou",
+  "s:wp-west-african-vod-n",
+  "s:wp-voodoo",
+  "s:wp-the-magic-island",
+  "s:wp-voodoo-in-popular-culture",
+  "s:wp-gris-gris-talisman"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-haitian-vodou"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-the-magic-island",
+    "note": "the film and book dates are from the cited articles; the closing paragraph states this project's own editorial rule and is written as such"
+   },
+   "restricted": {
+    "tier": "cited",
+    "source": "s:wp-haitian-vodou"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Two religions and one misspelling. Vodún is the religion of Aja, Ewe and Fon people in Benin, Togo, Ghana and Nigeria, with priesthoods, initiatory societies and the divination system Fá.",
+ "region_terms": [
+  {
+   "key": "caribbean",
+   "name": "The Caribbean",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "west-africa",
+   "name": "West Africa",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "diaspora",
+   "name": "Diaspora",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "a practice carried out of its home region and kept"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "gris-gris",
+   "type": "amulet",
+   "name": "Gris-gris",
+   "as": "the object carried into Haiti and Louisiana under a Mande name, and kept in Haitian practice with its West African sense intact",
+   "rel": "term"
+  },
+  {
+   "to": "gris-gris-word",
+   "type": "term",
+   "name": "gris-gris",
+   "as": "the word whose charge changed on the American shore, in the same crossing that changed this one",
+   "rel": "contrast"
+  },
+  {
+   "to": "juju-word",
+   "type": "term",
+   "name": "juju",
+   "as": "the neighbouring outsiders' word for West African practice, contested on its etymology rather than its spelling",
+   "rel": "contrast"
+  },
+  {
+   "to": "fetish-word",
+   "type": "term",
+   "name": "fetish",
+   "as": "the older European coinage aimed at the same coast, and the one that hardened into a theory of religion",
+   "rel": "contrast"
+  },
+  {
+   "to": "nkisi",
+   "type": "amulet",
+   "name": "Nkisi",
+   "as": "the Kongo side of what formed in Haiti, and another object renamed by the people describing it",
+   "rel": "kin"
+  },
+  {
+   "to": "west-african-charm-craft",
+   "type": "tradition",
+   "name": "West African charm craft",
+   "as": "the practice the Fon word comes out of, before any of this reached print in English",
+   "rel": "tradition"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "type": "story",
+   "name": "What this atlas does not print",
+   "as": "the statement of what is withheld here, including the initiations this record names and does not describe",
+   "rel": "story"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read on naming: who gets to spell somebody else's religion, and what the spelling then carries",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-haitian-vodou",
+   "kind": "encyclopedia",
+   "title": "Haitian Vodou",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Haitian_Vodou",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-west-african-vod-n",
+   "kind": "encyclopedia",
+   "title": "West African Vodún",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/West_African_Vod%C3%BAn",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-voodoo",
+   "kind": "encyclopedia",
+   "title": "Voodoo",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Voodoo",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-the-magic-island",
+   "kind": "encyclopedia",
+   "title": "The Magic Island",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Magic_Island",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-voodoo-in-popular-culture",
+   "kind": "encyclopedia",
+   "title": "Voodoo in popular culture",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Voodoo_in_popular_culture",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-gris-gris-talisman",
+   "kind": "encyclopedia",
+   "title": "Gris-gris (talisman)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gris-gris_(talisman)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-haitian-vodou"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-the-magic-island",
+   "note": "the film and book dates are from the cited articles; the closing paragraph states this project's own editorial rule and is written as such"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-haitian-vodou"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-haitian-vodou"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1658 CE to now",
+ "country_names": [
+  {
+   "iso": "HT",
+   "name": "Haiti"
+  },
+  {
+   "iso": "BJ",
+   "name": "Benin"
+  },
+  {
+   "iso": "TG",
+   "name": "Togo"
+  },
+  {
+   "iso": "GH",
+   "name": "Ghana"
+  },
+  {
+   "iso": "NG",
+   "name": "Nigeria"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "gris-gris",
+   "type": "amulet",
+   "name": "Gris-gris",
+   "as": "the spelling argument this object sits inside, because the word for the tradition changed with the Atlantic crossing too",
+   "rel": "term"
+  },
+  {
+   "from": "akodessewa-market",
+   "type": "place",
+   "name": "Akodessawa fetish market",
+   "as": "the spelling argument this record runs into in its first sentence, and the reason the two-o form appears here only in quotation marks",
+   "rel": "term"
+  },
+  {
+   "from": "fetish-word",
+   "type": "term",
+   "name": "fetish",
+   "as": "the neighbouring case: a religion renamed by the people describing it, with a spelling to match",
+   "rel": "contrast"
+  },
+  {
+   "from": "gris-gris-word",
+   "type": "term",
+   "name": "gris-gris",
+   "as": "the tradition this word was carried into, and the spelling argument that comes with naming it",
+   "rel": "contrast"
+  },
+  {
+   "from": "juju-word",
+   "type": "term",
+   "name": "juju",
+   "as": "the same argument one country over, where the spelling itself became the fight",
+   "rel": "parallel"
+  }
+ ]
+}

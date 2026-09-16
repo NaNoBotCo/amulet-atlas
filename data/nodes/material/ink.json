@@ -1,0 +1,217 @@
+{
+ "schema": 1,
+ "id": "ink",
+ "type": "material",
+ "names": {
+  "name": "Ink",
+  "native": "لوح",
+  "script": "Arabic",
+  "lang": "ar",
+  "said": "lawh, the wooden writing board; alwah in the plural",
+  "aliases": [
+   "erasure water",
+   "talismanic script",
+   "fulu ink",
+   "tattoo ink"
+  ]
+ },
+ "region": [
+  "west-africa",
+  "arabia-gulf",
+  "mesopotamia",
+  "china",
+  "japan",
+  "anatolia",
+  "south-asia",
+  "mainland-sea"
+ ],
+ "countries": [
+  "NG",
+  "CM",
+  "GH",
+  "SN",
+  "IQ",
+  "IR",
+  "SA",
+  "CN",
+  "JP",
+  "TR",
+  "IN",
+  "TH"
+ ],
+ "facets": {
+  "kind": "written"
+ },
+ "text": {
+  "what": "Pigment suspended in a liquid: charcoal and water in West Africa, sometimes with saffron added, and driven under the skin elsewhere. Ink is the only material in this atlas with a whole branch of practice built on destroying it at the moment of use. A verse is written so it can be washed off and swallowed, and what was an object for a minute becomes a dose.",
+  "story": "West Africa does it as part of learning to read. A Quran board is a wooden tablet — lawh, plural alwah — cut from locally available woods such as mahogany or baobab, on which students copy verses to memorise them. The inks are typically made from natural pigments mixed with charcoal and water, and may include ingredients said to be spiritually important, such as saffron. Once a verse or chapter has been mastered, the writing on the board is washed off and the water collected, and that water is then consumed or used in healing rituals. The practice is documented in Nigeria and Cameroon and among the Hausa and Fulani.\n\nIslamic legal writing draws a fine line through the same act. Summarising how narrow the gap between approved and disapproved practice can be, Remke Kruk notes that dissolving Qur'anic texts written on paper in water is forbidden, while \"writing in bowls with ink that is washed off by the water poured into the bowl\" is recommended by the well-known Wahhabi-oriented cleric Wahid 'Abd al-Salam Bali. The bowl form persisted: in the Islamic medieval period, talismanic bowls, most often made of metal rather than clay, were covered in Arabic script, usually Qur'anic verses or a hadith, and were most often used for healing by drinking the water left in them overnight.\n\nOne famous neighbour is not part of this. The Ethiopian talismanic scroll, the other great written-charm tradition of the region, is made of parchment and pigment and is used by being read aloud to the afflicted by a third party literate in Ge'ez, or draped around the body — the account read here records no washing and no drinking. This atlas names the absence rather than assuming the practice crossed the Red Sea.\n\nMesopotamia wrote inward. Incantation bowls were usually inscribed in a spiral, beginning at the rim and moving toward the centre, most of them in Jewish Babylonian Aramaic, from the sixth to the eighth centuries. An estimated ten per cent are not written in any real language but in pseudo-script, thought to be forgeries by illiterate scribes sold to illiterate clients — a fact that says something plain about how the writing was read.\n\nChina made illegibility the credential. Fulu are asemic Taoist talismanic scripts, painted on talismans by priests; Ge Hong noted in the Baopuzi, in the Eastern Jin, that so long as the inscription was correct, successful use did not depend on the user being able to decipher it. Yang Zhaohua records that early talismans were simple and legible and later ones deliberately cryptic in order to signal their divinity; James Robson, Gil Raz and Ge Zhaoguang all treat the incomprehensibility as central to the script's authority, Ge Zhaoguang calling it a linguistic archaism, \"a veil of unfathomable otherwordliness\". The method of writing the characters passes in secret from a Taoist priest to their disciples, and the ofuda of Japan and the bujeok of Korea are downstream of it.\n\n*Inference —* ink on a lead sheet lasts two thousand years, ink on a wooden slate lasts until the next bucket of water, and museums are built out of the first case. A survey of written charms assembled from collections will always undercount the second.",
+  "how": "Ground, mixed and brushed — onto a board, a bowl's inside, a paper slip, a shirt, or a strip of linen. Egyptian ritual rubrics instruct the practitioner to draw the wedjat eye on linen or papyrus to serve as a temporary amulet, which is the same instruction as a Hausa slate: write it, use it, lose it.",
+  "today": "The live argument about ink is chemical and is about the tattooing branch. The European Chemicals Agency has proposed restricting the intentional use or concentration of roughly 4,000 substances in tattoo inks; the EU Observatory for Nanomaterials reports that a number of modern inks contain nanomaterials and raises nanotoxicological concerns; and in October 2024 an analysis in the European Union found that nine out of ten blue and green inks sold were not compliant with the REACH legislation."
+ },
+ "dating": {
+  "period": "Sasanian Mesopotamia to the present",
+  "from_year": 501,
+  "to_year": null,
+  "living": true,
+  "label": "6th century CE to now",
+  "method": "inscribed",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-incantation-bowl",
+  "note": "Dated from the incantation bowls, produced from the sixth to the eighth centuries. Written ink charms are older — Egyptian ritual rubrics instruct drawing the wedjat eye on linen or papyrus as a temporary amulet — but no source read here gives that instruction a year, so this record does not use it as a floor."
+ },
+ "object": {
+  "form": "scroll",
+  "materials": [
+   "ink",
+   "paper",
+   "wood",
+   "parchment",
+   "cloth"
+  ],
+  "worn": [
+   "swallowed",
+   "neck",
+   "sewn-in",
+   "wall"
+  ],
+  "inscription": "Qur'anic verses, the names of God and of prophets, numbers, or script no reader is expected to decipher",
+  "script": "Arabic, Jewish Babylonian Aramaic, Mandaic, Syriac, and Taoist talismanic script",
+  "source": "s:web-wp-quran-boards"
+ },
+ "against": [
+  {
+   "harm": "illness",
+   "who": "users of the washed slate in Nigeria and Cameroon, where the collected water is consumed or used in healing rituals",
+   "source": "s:web-wp-quran-boards",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the Islamic healing literature Remke Kruk summarises, which prescribes drinking water over which Qur'anic passages have been recited",
+   "source": "s:wp-islam-and-magic",
+   "tier": "cited"
+  },
+  {
+   "harm": "demons",
+   "who": "the householders of Nippur, whose spiral-written bowls were buried face down under thresholds",
+   "source": "s:wp-incantation-bowl",
+   "tier": "cited"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "the same bowls' inscriptions, which name the evil eye, Lilith and Bagdana",
+   "source": "s:wp-incantation-bowl",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "Taoist priests, whose coin talismans mostly request Lei Gong to protect the carrier from evil spirits and misfortune",
+   "source": "s:wp-fulu",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "washing-off-ink",
+   "as": "the practice this material was made for: written, dissolved, drunk, gone",
+   "rel": "practice"
+  },
+  {
+   "to": "incantation-bowl",
+   "as": "ink written in a spiral on clay, which is the oldest dated use of the material in this atlas",
+   "rel": "carried-by"
+  },
+  {
+   "to": "fu-talisman",
+   "as": "the Taoist charm whose script is deliberately unreadable, and whose authority rests on that",
+   "rel": "carried-by"
+  },
+  {
+   "to": "ofuda",
+   "as": "the Japanese descendant of the Taoist talisman, printed from woodblocks and renewed each year",
+   "rel": "descendant"
+  },
+  {
+   "to": "ethiopian-magic-scroll",
+   "as": "the neighbouring written tradition that is read aloud and draped, not washed off — named here to mark the difference",
+   "rel": "contrast"
+  },
+  {
+   "to": "talismanic-shirt",
+   "as": "ink on a garment: Qur'anic verses, the names of God and of prophets, or numbers, worn into battle",
+   "rel": "carried-by"
+  },
+  {
+   "to": "skin",
+   "as": "the ground ink is driven into when the charm is meant never to wash off",
+   "rel": "material"
+  },
+  {
+   "to": "paper",
+   "as": "the surface ink usually sits on, and the one Islamic legal opinion treats differently from a bowl",
+   "rel": "material"
+  },
+  {
+   "to": "wood",
+   "as": "the West African slate: chosen because the ink will lift off it cleanly",
+   "rel": "material"
+  },
+  {
+   "to": "inscribing",
+   "as": "the practice of writing the charm, before anybody decides whether to keep it",
+   "rel": "practice"
+  },
+  {
+   "to": "spiral",
+   "as": "the shape the writing takes in the bowls, where the geometry is the mechanism",
+   "rel": "motif"
+  }
+ ],
+ "links": [
+  {
+   "label": "Quran boards — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Quran_boards"
+  },
+  {
+   "label": "Fulu — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fulu"
+  }
+ ],
+ "sources": [
+  "s:web-wp-quran-boards",
+  "s:wp-islam-and-magic",
+  "s:wp-incantation-bowl",
+  "s:wp-fulu",
+  "s:wp-ofuda",
+  "s:wp-talismanic-shirt",
+  "s:wp-tattoo",
+  "s:wp-eye-of-horus",
+  "s:wp-ethiopian-talismanic-scrolls",
+  "s:wp-gris-gris-talisman"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-wp-quran-boards"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-islam-and-magic",
+    "note": "the closing paragraph on undercounting is this project's inference and is marked in the text"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-tattoo"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Quranic board Nigeria.jpg",
+  "File:Taoist talisman.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-17"
+}

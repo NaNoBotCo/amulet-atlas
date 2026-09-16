@@ -1,0 +1,387 @@
+{
+ "schema": 1,
+ "id": "dating-a-charm",
+ "type": "story",
+ "names": {
+  "name": "Dating a charm",
+  "aliases": [
+   "the methods note",
+   "how /time/ is built",
+   "astronomical years"
+  ]
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "kind": "essay",
+  "era": "modern"
+ },
+ "text": {
+  "what": "The timeline on this site is drawn from one field. Every record may carry a `dating` block with a start year, an end year, a flag saying whether people still carry the thing, and a word saying how the date is known. Those four values put a bar on /time/ and nothing else does. This record is the methods note that page links to: what the numbers mean, what the four kinds of date are worth against each other, why the years are stored in a form no museum label uses, and why a record with no bar is a statement about this project rather than about the object."
+ },
+ "sections": [
+  {
+   "h": "Astronomical years, and why the arithmetic needs them",
+   "text": "This atlas stores years as astronomical integers. 1 CE is 1. 1 BCE is 0. 500 BCE is −499. 3000 BCE is −2999.\n\nThe reason is a gap. The conventional era has no year zero: 1 BCE is followed directly by 1 CE. Subtract across that boundary in the conventional numbering and the answer is wrong by one, every time, silently. A span from 500 BCE to 100 CE is not 600 years; it is 599. Astronomical numbering closes the gap by naming 1 BCE as zero, after which every span in this atlas is ordinary integer subtraction and every sort is an ordinary sort.\n\nThe conversion back out is one line, and it lives in `tools/common.py`, `tools/viz.py` and `tools/cards.py` identically:\n\n    return f\"{1 - y} BCE\" if y <= 0 else f\"{y} CE\"\n\nSo a reader never sees a negative number. −2999 prints as 3000 BCE, 79 prints as 79 CE, and a null prints as \"now\". The convention is for the code; the label is for the reader; the two are kept apart on purpose.\n\n*Inference —* the cost of this choice is that an author writing a record has to convert, and converting is where an error would enter. That is why every `dating` block in the atlas also carries `label`, the span in words as a person would say it, and `note`, saying which fact the year was taken from. Two fields that a reader can check against the integer."
+  },
+  {
+   "h": "Six ways a date is known, and they are not equivalent",
+   "text": "The `method` field takes one of seven values: excavated, inscribed, textual, art-historical, dated-object, ethnographic, undated.\n\nCounted across the 234 records written as of 17 September 2026, 195 carry years. Their methods:\n\n textual — 105\n excavated — 48\n dated-object — 19\n art-historical — 14\n ethnographic — 7\n inscribed — 1\n undated but with a period name — 1\n\n*Inference —* that distribution is a portrait of the sources, not of the subject. This atlas was built largely from encyclopedia articles, museum pages and published scholarship, so more than half its dates are textual — somebody read a text that mentions the thing. An excavated date is an object in a layer. An inscribed date is the object saying its own year. A dated-object date means a single example is dated and the form behind it is not. An ethnographic date is the year somebody stood in front of the practice and wrote it down.\n\nThose are four different claims and a timeline bar makes them look identical. `method` is the only thing on the page that prevents a reader treating a Middle Kingdom excavation and a Victorian folklorist's notebook as the same kind of fact, which is why the field is required reading and not decoration. On the chart, one distinction is drawn in ink: a bar whose method is inference, undated or art-historical is dashed rather than solid."
+  },
+  {
+   "h": "What \"still carried\" means, exactly",
+   "text": "An open end is a claim, and the schema forces it to be an explicit one.\n\n`to_year: null` plus `living: true` means people carry the thing as of the record's `updated` date. The validator refuses `living: true` with a `to_year` set — a living practice runs to null — and refuses any `to_year` later than 2026, the year the checker is pinned to. On the chart the bar runs to the right-hand gutter and ends in an open circle rather than a stop.\n\n154 of the 195 dated records are open in this sense. That is a large share and it should be read carefully. It does not mean the practice is thriving, widespread, or unchanged. It means this project read a source saying somebody still does it, and it dates from `updated`, not from now. A record last touched in September 2026 saying `living: true` is a claim about September 2026 and it will age.\n\nThe opposite case is written the same way. `the-charm-in-the-wall` closes at 1991 and is not marked living, because the account read here reports the British custom of hiding shoes as having died out during the twentieth century. A closed bar is as much a sourced claim as an open one."
+  },
+  {
+   "h": "The axis is not linear, and the page says so out loud",
+   "text": "Five thousand years drawn to a single scale gives the last two centuries about a millimetre of chart, and the last two centuries are where half these records live.\n\nSo the axis is piecewise. The anchors, in `tools/viz.py`, map years to fractions of the width:\n\n −11000 → 0.00 · −3000 → 0.14 · −1000 → 0.28 · 0 → 0.40 · 500 → 0.48 · 1000 → 0.56 · 1500 → 0.66 · 1800 → 0.76 · 1900 → 0.84 · 1950 → 0.90 · 2000 → 0.96 · 2026 → 1.00\n\nRead those as a statement of bias, because that is what they are. The twenty-six years from 2000 to 2026 get 4 per cent of the width. The eight thousand years from 11,000 BCE to 3000 BCE get 14 per cent. A century near the right-hand end is drawn roughly two hundred times wider than a century at the left.\n\nEvery anchor gets a printed tick, and a label is dropped only where it would overprint its neighbour — the tick stays, so a reader can see the stretching happening rather than be fooled by it. *Inference —* a chart that quietly rescales is worse than one that does not rescale at all, because the reader takes distance as time. Printing the ticks is the whole defence."
+  },
+  {
+   "h": "An undated record is not an undated object",
+   "text": "Nineteen amulet, tradition, sign and practice records carry no start year as of 17 September 2026, and the /time/ page lists them by name rather than dropping them: the mirror sign, the horn, the footprint, the phallic sign, ping an fu, hei matau, ojo de venado, rudraksha, palad khik, nimbu mirchi, the yantra plate, the bagua mirror, the navaratna ring, the worry stone, patua, hei tiki, tupilaq, milagro, and washing off ink.\n\nThe build's own note on that list is the sentence this record exists to explain: an undated record is one nobody here could date from a source, not one with no history.\n\nThe horn is the sharpest case. Roman use is dated through the fascinum. Illyrians used horn shapes against the same harm. Southern Italy cuts a cornicello today. What this project has not read is a published date range for the sign as a class — and stitching one together from the three would be inventing a span and then drawing it as if it were measured.\n\nThe opposite failure is also visible in the data and is handled by naming it. The gau box and the sungkhor both carry `method: dated-object` with the note that the dated example is of the 2000s while the form is older and undated here. Their bars start in the twenty-first century, which is wrong about the object and right about the evidence, and the note says which.\n\n*Inference —* the two oldest bars in the atlas are jet and the swastika sign, both starting at −9999, both excavated, both drawn from the earliest published attestation of the material or the shape rather than of any amulet. Length of bar is not antiquity of practice. It is the reach of somebody's spade plus the reach of somebody's publication, and a reader who takes the left-hand edge as the beginning of anything is reading the collecting history of archaeology."
+  }
+ ],
+ "dating": {
+  "period": "the convention as applied in this build",
+  "from_year": 2026,
+  "to_year": null,
+  "living": true,
+  "label": "2026, when this atlas was built, to now",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:repo-atlas-build",
+  "note": "This record dates itself, not its subject. The astronomical-year convention is much older than this project; the fields, the anchors and the counts described here are of this repository as read on 17 September 2026."
+ },
+ "kin": [
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the other methods note — that one on what may be said, this one on what may be dated",
+   "rel": "story"
+  },
+  {
+   "to": "free-to-use",
+   "as": "the third record about this project's own workings: who may reuse all of this, and on what terms",
+   "rel": "story"
+  },
+  {
+   "to": "most-of-them-are-for-children",
+   "as": "the read that runs the same sceptical test on the other built table, the one behind /against/",
+   "rel": "story"
+  },
+  {
+   "to": "wedjat-eye",
+   "as": "the longest single excavated span in the atlas, and the record that says why a faience amulet survives when a dough one does not",
+   "rel": "carries"
+  },
+  {
+   "to": "swastika-sign",
+   "as": "one of the two bars that start at 10,000 BCE — a date for the shape, never for an amulet",
+   "rel": "carries"
+  },
+  {
+   "to": "horn",
+   "as": "the undated case worth arguing with: dated in Rome, living in Naples, and no published span for the sign as a class",
+   "rel": "contrast"
+  },
+  {
+   "to": "gau-box",
+   "as": "the dated-object case — a twenty-first-century example standing in for a form nobody here could date",
+   "rel": "contrast"
+  },
+  {
+   "to": "the-drawn-signs",
+   "as": "the other half of what the code makes: every chart and glyph on this site is drawn by the same file",
+   "rel": "art"
+  },
+  {
+   "to": "flinders-petrie",
+   "as": "the excavator whose sequence dating is the ancestor of every excavated row here",
+   "rel": "person"
+  }
+ ],
+ "links": [],
+ "sources": [
+  "s:repo-atlas-build",
+  "s:repo-atlas-schema",
+  "s:repo-atlas-viz",
+  "s:repo-atlas-vocab"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:repo-atlas-build"
+  },
+  "fields": {
+   "sections": {
+    "tier": "cited",
+    "source": "s:repo-atlas-build",
+    "note": "every number, anchor and field name was read out of this repository on 17 September 2026; the four stretches of this project's reasoning about what the numbers mean are labelled inline"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-17",
+ "blurb": "The timeline on this site is drawn from one field. Every record may carry a `dating` block with a start year, an end year, a flag saying whether people still carry the thing, and a word saying how the date is known.",
+ "region_terms": [
+  {
+   "key": "world",
+   "name": "Everywhere",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "use for a sign or a practice documented on more than two continents"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "what-this-atlas-does-not-print",
+   "type": "story",
+   "name": "What this atlas does not print",
+   "as": "the other methods note — that one on what may be said, this one on what may be dated",
+   "rel": "story"
+  },
+  {
+   "to": "free-to-use",
+   "type": "story",
+   "name": "Free to use",
+   "as": "the third record about this project's own workings: who may reuse all of this, and on what terms",
+   "rel": "story"
+  },
+  {
+   "to": "most-of-them-are-for-children",
+   "type": "story",
+   "name": "Most of them are for children",
+   "as": "the read that runs the same sceptical test on the other built table, the one behind /against/",
+   "rel": "story"
+  },
+  {
+   "to": "wedjat-eye",
+   "type": "amulet",
+   "name": "Wedjat eye",
+   "as": "the longest single excavated span in the atlas, and the record that says why a faience amulet survives when a dough one does not",
+   "rel": "carries"
+  },
+  {
+   "to": "swastika-sign",
+   "type": "motif",
+   "name": "The swastika",
+   "as": "one of the two bars that start at 10,000 BCE — a date for the shape, never for an amulet",
+   "rel": "carries"
+  },
+  {
+   "to": "horn",
+   "type": "motif",
+   "name": "The horn",
+   "as": "the undated case worth arguing with: dated in Rome, living in Naples, and no published span for the sign as a class",
+   "rel": "contrast"
+  },
+  {
+   "to": "gau-box",
+   "type": "amulet",
+   "name": "Gau",
+   "as": "the dated-object case — a twenty-first-century example standing in for a form nobody here could date",
+   "rel": "contrast"
+  },
+  {
+   "to": "the-drawn-signs",
+   "type": "art",
+   "name": "The drawn signs",
+   "as": "the other half of what the code makes: every chart and glyph on this site is drawn by the same file",
+   "rel": "art"
+  },
+  {
+   "to": "flinders-petrie",
+   "type": "person",
+   "name": "Flinders Petrie",
+   "as": "the excavator whose sequence dating is the ancestor of every excavated row here",
+   "rel": "person"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:repo-atlas-build",
+   "kind": "repository",
+   "title": "tools/build.py, tools/harvest_commons.py and the tables in build/api/",
+   "publisher": "Amulet Atlas — this repository",
+   "accessed": "2026-09-17",
+   "note": "Read in place. Carries the timeline table, the against table, the picture pipeline and its licence allowlist. No public URL; it ships with the source."
+  },
+  {
+   "id": "s:repo-atlas-schema",
+   "kind": "repository",
+   "title": "schema/node.schema.json and tools/validate.py",
+   "publisher": "Amulet Atlas — this repository",
+   "accessed": "2026-09-16",
+   "note": "Read in place. The record schema and the checks run against it."
+  },
+  {
+   "id": "s:repo-atlas-viz",
+   "kind": "repository",
+   "title": "tools/viz.py — every drawn thing on this site, as inline SVG",
+   "publisher": "Amulet Atlas — this repository",
+   "accessed": "2026-09-16",
+   "note": "Read in place. Carries the drawn sign glyphs and the timeline axis."
+  },
+  {
+   "id": "s:repo-atlas-vocab",
+   "kind": "repository",
+   "title": "data/vocab/*.json — the controlled vocabularies, and the records in data/nodes/",
+   "publisher": "Amulet Atlas — this repository",
+   "accessed": "2026-09-17",
+   "note": "Read in place, and counted in place on 17 September 2026 across the 234 records then written. Counts quoted from it are counts of this atlas, never of the world."
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:repo-atlas-build"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:repo-atlas-build"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "2026 CE to now",
+ "country_names": [],
+ "kin_in": [
+  {
+   "from": "charm-coin",
+   "type": "amulet",
+   "name": "Chinese charm coin",
+   "as": "the long read this class is the best evidence for: reign titles, inscriptions and 5,000 catalogued types make these the datable end of the whole atlas",
+   "rel": "story"
+  },
+  {
+   "from": "concealed-shoe",
+   "type": "amulet",
+   "name": "Concealed shoe",
+   "as": "the long read about how any of these objects get a date; the shoes get theirs from the building's carpentry",
+   "rel": "story"
+  },
+  {
+   "from": "corn-dolly",
+   "type": "amulet",
+   "name": "Corn dolly",
+   "as": "the long read about evidence, which this object tests — straw rots, so almost everything known about it comes from what people said, not from what survived",
+   "rel": "story"
+  },
+  {
+   "from": "ketef-hinnom-scrolls",
+   "type": "amulet",
+   "name": "Ketef Hinnom silver scrolls",
+   "as": "the long read about what it means to date an amulet; this one is dated by a tomb, a threshold stone and three years of unrolling",
+   "rel": "story"
+  },
+  {
+   "from": "phra-khrueang",
+   "type": "amulet",
+   "name": "Phra khrueang",
+   "as": "the long read this is a hard case for: temple, mould and monk are the date, and a certificate is the evidence",
+   "rel": "story"
+  },
+  {
+   "from": "scarab",
+   "type": "amulet",
+   "name": "Scarab",
+   "as": "the long read on how a charm gets a date — and this object is its hardest case, because a king's name on it need not be his century",
+   "rel": "story"
+  },
+  {
+   "from": "cloth",
+   "type": "material",
+   "name": "Cloth",
+   "as": "the long read on why this atlas's timeline is made of stone, metal and fired clay",
+   "rel": "story"
+  },
+  {
+   "from": "faience",
+   "type": "material",
+   "name": "Faience",
+   "as": "the long read on why a material that survives distorts every date in this atlas",
+   "rel": "story"
+  },
+  {
+   "from": "hair",
+   "type": "material",
+   "name": "Hair",
+   "as": "the long read on why the timeline in this atlas looks the way it does, which this record is the extreme case of",
+   "rel": "story"
+  },
+  {
+   "from": "palm-leaf",
+   "type": "material",
+   "name": "Palm leaf",
+   "as": "the long read on why the surviving objects are not a sample of what was worn",
+   "rel": "story"
+  },
+  {
+   "from": "burning-retirement",
+   "type": "practice",
+   "name": "Burning at retirement",
+   "as": "the long read this practice skews: traditions that burn leave almost nothing to date",
+   "rel": "story"
+  },
+  {
+   "from": "met-egyptian-galleries",
+   "type": "place",
+   "name": "The Egyptian galleries, the Metropolitan Museum of Art",
+   "as": "the long read on dates; an excavation credit line is why these objects carry narrow ones",
+   "rel": "story"
+  },
+  {
+   "from": "campbell-bonner",
+   "type": "person",
+   "name": "Campbell Bonner",
+   "as": "the long read on dating; an uninscribed gem with no find-spot is the hard case his typology exists for",
+   "rel": "story"
+  },
+  {
+   "from": "flinders-petrie",
+   "type": "person",
+   "name": "Flinders Petrie",
+   "as": "the long read on how a charm gets a date; his pottery seriation is where the method starts",
+   "rel": "story"
+  },
+  {
+   "from": "free-to-use",
+   "type": "story",
+   "name": "Free to use",
+   "as": "the other note about how this site is built, rather than about what it describes",
+   "rel": "story"
+  },
+  {
+   "from": "most-of-them-are-for-children",
+   "type": "story",
+   "name": "Most of them are for children",
+   "as": "the methods note for the other half of this problem — what the numbers on the timeline are and are not",
+   "rel": "story"
+  },
+  {
+   "from": "what-this-atlas-does-not-print",
+   "type": "story",
+   "name": "What this atlas does not print",
+   "as": "the other methods note — why an undated record is not an undated object",
+   "rel": "story"
+  }
+ ]
+}

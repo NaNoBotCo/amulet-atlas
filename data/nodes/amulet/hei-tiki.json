@@ -1,0 +1,196 @@
+{
+ "schema": 1,
+ "id": "hei-tiki",
+ "type": "amulet",
+ "names": {
+  "name": "Hei-tiki",
+  "native": "hei tiki",
+  "lang": "mi",
+  "script": "Latin",
+  "said": "hei TEE-kee; hei means to wear around the neck",
+  "aliases": [
+   "tiki",
+   "pounamu pendant"
+  ]
+ },
+ "etymology": {
+  "root": "Māori hei, 'to wear around the neck', + tiki, which originally refers to the first mortal",
+  "tier": "cited",
+  "source": "s:wp-hei-tiki"
+ },
+ "region": [
+  "aotearoa",
+  "pacific"
+ ],
+ "countries": [
+  "NZ"
+ ],
+ "facets": {
+  "era": "living",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "limited",
+  "hemisphere": [
+   "S",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A pendant of a human figure, head tilted, hands on thigh and chest or both on the thighs, carved from pounamu and suspended on a plaited cord fastened with a loop and toggle. Pounamu is the Māori term for several hard, tough stones found only in the South Island — nephrite jade in the varieties Māori classify by colour as kahurangi, īnanga and kawakawa, and the translucent bowenite called tangiwai. A hei-tiki is a taonga: a treasure with whakapapa, an ancestral line of its own.",
+  "story": "Hei-tiki are, in Te Papa's summary of Māori adornment, the most famous and most highly prized of Māori personal ornaments. Two readings of the figure are given by Horatio Gordon Robley in A History of the Maori Tiki: that they are memorials to ancestors, or that they represent Hineteiwaiwa, the goddess of childbirth. Both have practices attached. A hei-tiki was often buried when its kaitiaki, its guardian, died, and retrieved later to be brought out at tangihanga, the mourning. And because of the connection with Hineteiwaiwa, hei-tiki were often given to a woman by her husband's family if she was having trouble conceiving.\n\nThe mana of one is not in the carving. Dougal Austin's 2014 thesis, supervised by Peter Adds and based on Te Papa's hei-tiki collection with early-contact pieces in overseas collections, finds that the mana of hei-tiki comes from the \"agency of prolonged ancestral use\", and that the form was \"highly developed ... from the outset to conform to adze-shaped pieces of pounamu\". Pounamu taonga gain mana as they pass between generations; the stone is held to take on the mana of past owners, and heirloom pieces are named after former owners. That is why the most prized taonga are the ones with known histories running back many generations, and why they were given to seal agreements.\n\nThe collections are large and their history is not neutral. Te Papa holds over 200 hei-tiki and the British Museum about 50; some were exchanged or gifted to European travellers and sailors at the earliest point of contact, and, in Wikipedia's words, \"the majority were stolen or improperly obtained through colonial processes\".\n\nOne story sits oddly beside the rest and is reported here as somebody else's reading, not this atlas's. The captain of HMS New Zealand, a battlecruiser funded by the New Zealand government in 1911, wore a hei-tiki and a piupiu into three First World War battles; the crew attributed the ship's lack of casualties to it and called her a lucky ship. That is a Pākehā crew's account of a taonga, and it is what a taonga becomes when it is read by people outside the whakapapa it belongs to.\n\nIn 1997 the Crown returned ownership of all naturally occurring pounamu to Ngāi Tahu, the South Island iwi, under the Ngāi Tahu Claims Settlement.",
+  "how": "The stone was first cut roughly as a small adze — pounamu is hard and valuable enough that a carver removes as little as possible, which is why the head tilts. It is then smoothed by abrasive rubbing, shaped and bored with sticks and water, and polished over a long time. Finished, it is hung on a plaited cord with a loop and toggle. It is not retired; it is inherited, and its history is the point of it.",
+  "today": "Carved by Māori artists, including collectives set up by iwi that export jewellery and carvings, and worn by Māori and by other New Zealanders as a mark of identity. Retailers also sell visitor versions in jade, other stone, plastic and other materials; the Wikipedia account of pounamu notes that much of the carved \"greenstone\" in souvenir shops is jade sourced overseas. As of 2026 the two trades run side by side, and this atlas reports the difference without ranking the buyers."
+ },
+ "dating": {
+  "period": "Māori, pre-European to the present",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "pre-European Māori to now; no first date this project could cite",
+  "method": "art-historical",
+  "tier": "cited",
+  "source": "s:wp-hei-tiki",
+  "note": "Neither cited source dates the form's origin. Ngāi Tahu reached the South Island in the middle of the 18th century, after which pounamu production increased — that is a date for the trade, not for the hei-tiki."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": [
+   "jade",
+   "bone",
+   "plastic"
+  ],
+  "worn": [
+   "neck",
+   "grave"
+  ],
+  "made_by": "Māori carvers; pounamu in its natural state has been owned by Ngāi Tahu since the 1997 settlement",
+  "colour": [
+   "green",
+   "white"
+  ],
+  "single_use": false,
+  "source": "s:wp-hei-tiki",
+  "note": "Pounamu is nephrite jade or bowenite; jade is the nearest key in this project's materials list and is not the Māori classification, which is by colour. Plastic is listed because retail versions are named by the cited source, not because a taonga is made of it."
+ },
+ "against": [
+  {
+   "harm": "infertility",
+   "who": "Māori families, per Robley's account: a hei-tiki was often given to a woman by her husband's family if she was having trouble conceiving",
+   "source": "s:wp-hei-tiki",
+   "tier": "cited",
+   "note": "tied to Hineteiwaiwa, the goddess of childbirth; a taonga is not reducible to this, and this record does not reduce it"
+  },
+  {
+   "harm": "war",
+   "who": "the crew of HMS New Zealand, who attributed the ship's lack of casualties to the hei-tiki their captain wore",
+   "source": "s:wp-hei-tiki",
+   "tier": "cited",
+   "note": "a Pākehā crew's reading, reported here as theirs"
+  }
+ ],
+ "holdings": [
+  {
+   "museum": "te-papa",
+   "what": "over 200 hei-tiki",
+   "source": "s:wp-hei-tiki",
+   "open_access": true
+  },
+  {
+   "museum": "british-museum",
+   "what": "about 50 hei-tiki",
+   "source": "s:wp-hei-tiki",
+   "note": "the cited source says the majority of hei-tiki in overseas collections were stolen or improperly obtained through colonial processes"
+  }
+ ],
+ "kin": [
+  {
+   "to": "maori-taonga",
+   "as": "the tradition this belongs to, and the one that decides that this is a treasure with whakapapa and not an ornament",
+   "rel": "tradition"
+  },
+  {
+   "to": "hei-matau",
+   "as": "the other pendant worn at the same neck, carved from the same stone, for water rather than for ancestors",
+   "rel": "kin"
+  },
+  {
+   "to": "jade",
+   "as": "the material class pounamu falls into for a mineralogist, and does not fall into for Māori, who classify it by colour",
+   "rel": "material"
+  },
+  {
+   "to": "te-papa",
+   "as": "the museum holding over 200 of them and publishing about them in Māori terms",
+   "rel": "org"
+  },
+  {
+   "to": "te-papa-taonga",
+   "as": "the room a reader can stand in and see them",
+   "rel": "place"
+  },
+  {
+   "to": "british-museum",
+   "as": "the overseas collection holding about fifty, and part of the reason repatriation is a live question",
+   "rel": "org"
+  },
+  {
+   "to": "inheriting",
+   "as": "the practice that makes one: mana accumulates by passing between generations, not by carving",
+   "rel": "practice"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read this record is central to",
+   "rel": "story"
+  },
+  {
+   "to": "dreamcatcher",
+   "as": "the North American parallel — an Indigenous form now also made by everybody else, and objected to by name",
+   "rel": "parallel"
+  },
+  {
+   "to": "grave-deposit",
+   "as": "the practice recorded here: buried with a kaitiaki, and lifted again for the tangihanga",
+   "rel": "practice"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "hei-matau",
+   "tell": "hei-tiki is a human figure with a tilted head; hei matau is a stylised fish hook. Both are taonga and both hang from the same kind of cord"
+  }
+ ],
+ "links": [
+  {
+   "label": "Hei-tiki — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hei-tiki"
+  },
+  {
+   "label": "Taonga Māori at Te Papa",
+   "url": "https://collections.tepapa.govt.nz/topic/1702"
+  }
+ ],
+ "sources": [
+  "s:wp-hei-tiki",
+  "s:wp-pounamu",
+  "s:web-tepapa-taonga-maori",
+  "s:wp-te-papa",
+  "s:wp-british-museum"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-hei-tiki"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-pounamu",
+    "note": "the souvenir-trade point is the cited source's; the side-by-side reading of the two trades is this project's and is stated as such"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

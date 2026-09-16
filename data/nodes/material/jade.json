@@ -1,0 +1,162 @@
+{
+ "id": "jade",
+ "names": {
+  "name": "Jade",
+  "native": "玉",
+  "script": "Han",
+  "lang": "zh",
+  "said": "yù in Mandarin; pounamu in Maori",
+  "aliases": [
+   "nephrite",
+   "jadeite",
+   "fei cui",
+   "pounamu",
+   "greenstone"
+  ]
+ },
+ "etymology": {
+  "root": "Spanish piedra de ijada, 'flank stone', first recorded 1565, via French l'ejade and Latin ilia, the flanks and kidney area",
+  "note": "Named for a reputed power over ailments of the loins and kidneys. Nephrite carries the same claim through Latin lapis nephriticus, from the Greek for kidney: wearing it at the waist was held to cure kidney disease.",
+  "tier": "cited",
+  "source": "s:wp-jade"
+ },
+ "region": [
+  "china",
+  "mesoamerica",
+  "aotearoa",
+  "mainland-sea",
+  "korea",
+  "island-sea"
+ ],
+ "countries": [
+  "CN",
+  "MM",
+  "GT",
+  "MX",
+  "NZ",
+  "KR",
+  "TW",
+  "PH",
+  "CA"
+ ],
+ "facets": {
+  "kind": "stone"
+ },
+ "text": {
+  "what": "Two different rocks under one word. Nephrite is a felted mass of calcium-magnesium amphibole, slightly softer but very tough; jadeite is a sodium-aluminium pyroxene, harder, rarer, documented from fewer than a dozen places on earth. The French mineralogist Alexis Damour separated them in 1863; before that they were one stone in every language that had a word for it. Neither can be flaked. Jade is abraded to shape with quartz or garnet sand and polished with bamboo, which is why a jade object represents time more than skill.",
+  "story": "China worked jade before it worked bronze. The Neolithic nephrite sources were Ningshao in the Yangtze delta, worked by the Liangzhu culture between 3400 and 2250 BCE, and Liaoning and Inner Mongolia, worked by the Hongshan between 4700 and 2200 BCE; Dushan jade was being mined as early as 6000 BCE. White jade came as tribute from the Kingdom of Khotan down the southern Silk Road, and its status-value is described as exceeding that of gold or silver. Han royalty were buried in jade burial suits, plaques drilled at the corners and sewn together with wire, and the Book of Later Han sets out who got which thread: gold for emperors, silver for princes, princesses, dukes and marquises, copper for their children, silk for lesser aristocrats, and nobody else at all.\n\nIn Mesoamerica the Olmec, the Maya and their neighbours had a single source, the Motagua River valley in Guatemala, and jade stayed an elite good — carved into figurines, inscribed with glyphs, hung on a goddess as water. Burmese jadeite reached China in quantity only after about 1800, as fei cui, kingfisher jade, and became the Qing aristocracy's stone while scholars kept to white nephrite.\n\nIn Aotearoa New Zealand nephrite is pounamu, and its record is about ownership rather than trade. Pounamu is a taonga, a treasure, found only in the South Island — Te Wai Pounamu, the land of greenstone water. Taonga gain mana as they pass down the generations; pounamu is held to absorb the mana of its past owners, and the most prized pieces have known histories going back many generations and were given to seal agreements. In 1997 the Crown returned ownership of all naturally occurring pounamu to Ngai Tahu under the Ngai Tahu Claims Settlement. The same source notes the market reality beside it: \"much of the carved 'greenstone' sold in souvenir shops is jade sourced overseas\".\n\nIslamic amulet writing puts jade alongside jasper as a material credited with protective and medicinal properties — victory in battle, protection from lightning, treatment of diseases of the internal organs — and reads jade set with carnelian as fertility and embryogenesis.",
+  "today": "Myanmar is estimated to produce upwards of 70% of the world's high-quality jadeite, most of it from the Jade Tract in Lonkin Township, Kachin State, and most of it cut elsewhere. Mining there was a state enterprise from 1964 to 1981, after which the gemstone laws were changed in 1981, 1985 and 1995 to admit private operators. New Zealand's pounamu is at the other pole: the resource belongs to an iwi by law, and the souvenir stone next to it on the shelf usually does not come from the country it is sold in."
+ },
+ "dating": {
+  "period": "Neolithic China to the present",
+  "from_year": -5999,
+  "to_year": null,
+  "living": true,
+  "label": "c. 6000 BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-jade",
+  "note": "Dated from Dushan jade, reported as mined as early as 6000 BCE. The Hongshan culture's nephrite working, from 4700 BCE, is the earliest securely cultural date."
+ },
+ "against": [
+  {
+   "harm": "illness",
+   "who": "the Spanish name-givers, who called it flank stone for a reputed power over the loins and kidneys",
+   "source": "s:wp-jade",
+   "tier": "cited"
+  },
+  {
+   "harm": "the-dead",
+   "who": "Han burial practice, which encased the body in plaques sewn with wire graded by rank",
+   "source": "s:wp-jade-burial-suit",
+   "tier": "cited"
+  },
+  {
+   "harm": "weapons",
+   "who": "writers on Islamic amulets, who record a claim of victory in battle for jade and jasper",
+   "source": "s:wp-amulet",
+   "tier": "cited",
+   "note": "reported as a claim made in the tradition, not as advice"
+  }
+ ],
+ "kin": [
+  {
+   "to": "hei-tiki",
+   "as": "the pendant this stone is best known as outside Asia, and a taonga whose mana is held to accumulate with each owner",
+   "rel": "carried-by"
+  },
+  {
+   "to": "hei-matau",
+   "as": "the hook, carved from pounamu or from bone, worn at the neck",
+   "rel": "carried-by"
+  },
+  {
+   "to": "ping-an-fu",
+   "as": "the Chinese safety charm cut from this stone and hung on a cord",
+   "rel": "carried-by"
+  },
+  {
+   "to": "maori-taonga",
+   "as": "the tradition in which this stone is not a material but an inheritance",
+   "rel": "tradition"
+  },
+  {
+   "to": "te-papa-taonga",
+   "as": "where pounamu taonga are held and shown in the country they come from",
+   "rel": "held-at"
+  },
+  {
+   "to": "gold",
+   "as": "the metal jade outranked at the Chinese court, and reduced to thread in a burial suit",
+   "rel": "contrast"
+  },
+  {
+   "to": "carnelian",
+   "as": "its partner in Islamic amulet practice, where the pair is read as fertility",
+   "rel": "kin"
+  },
+  {
+   "to": "inheriting",
+   "as": "the practice that makes a jade object worth more than the stone in it",
+   "rel": "practice"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read this stone's 1997 settlement belongs to",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Jade — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jade"
+  },
+  {
+   "label": "Pounamu — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pounamu"
+  }
+ ],
+ "sources": [
+  "s:wp-jade",
+  "s:wp-pounamu",
+  "s:wp-jade-burial-suit",
+  "s:wp-jade-use-in-mesoamerica",
+  "s:wp-amulet"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-jade"
+  }
+ },
+ "x_commons_files": [
+  "File:Hei-tiki.jpg",
+  "File:Jade burial suit.jpg"
+ ],
+ "confidence": "high",
+ "schema": 1,
+ "type": "material",
+ "images": [],
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,177 @@
+{
+ "schema": 1,
+ "id": "glass",
+ "type": "material",
+ "names": {
+  "name": "Glass",
+  "native": "nazar boncuğu",
+  "lang": "tr",
+  "said": "boncuk is Turkic for bead",
+  "aliases": [
+   "eye bead",
+   "boncuk",
+   "glass paste"
+  ]
+ },
+ "region": [
+  "anatolia",
+  "mesopotamia",
+  "ancient-egypt",
+  "greece-aegean",
+  "rome-italy",
+  "britain-ireland",
+  "north-america"
+ ],
+ "countries": [
+  "TR",
+  "GR",
+  "EG",
+  "IQ",
+  "IR",
+  "IT",
+  "TN",
+  "LB",
+  "GB",
+  "US"
+ ],
+ "facets": {
+  "kind": "fired"
+ },
+ "text": {
+  "what": "Silica melted, coloured through and worked hot. Glass does two things no other material in this atlas does at once: it holds a colour all the way through a bead the size of a fingernail, and it comes out of the ground three thousand years later looking much as it went in. That is why the eye bead has a continuous record from the Bronze Age to a rack by a shop till, and why a reader can compare one to the other.",
+  "story": "The eye bead is the oldest thing here. Written documentation and extant beads date from as early as the 16th century BCE, and the design spread with glassmaking itself — Mesopotamia to Egypt, Carthage to Greece, Phoenicia to Persia, and right through the Roman imperial period. The account of the evil eye puts the same turn slightly differently: after glass-bead production got going around the eastern Mediterranean about 1500 BCE, blue-and-white concentric eye beads spread among Phoenicians, Persians, Greeks, Romans, Arabs and Ottomans.\n\nEgypt supplies the join. Beginning in the thirteenth century BCE, glass beads bearing eye-like spots were strung on necklaces together with wedjat amulets, and that pairing may be the origin of the modern nazar. Wedjat amulets themselves were cut in faience, glass, gold and semiprecious stones such as lapis lazuli, so the same drawer holds the drawn eye and the spotted bead side by side.\n\nGlass and faience are cousins, not twins, and the British Museum's collection note is the clearest statement of the difference: glazed composition is related to glass, but glass is formed by completely fusing the ingredients in a liquid melted at high temperature, while Egyptian faience is a quartz body only partly fused and considerably more porous than glass proper.\n\nGlass turns up where you would not look for it. Pazuzu heads were made chiefly of terracotta but also of bronze, iron, gold, glass and bone. At the Hermitage plantation in Nashville, Tennessee, archaeologists found hexagonal glass beads used by enslaved African Americans for fertility and other spiritual purposes, alongside blue beads, mojo hands and lucky roots in a slave cabin. English witch bottles start as salt-glazed stoneware and end as glass: the later ones are glass bottles and small glass vials, and the one dug from a threshold in Cornwall and shown on Antiques Roadshow in 2016 was glass.\n\n*Inference —* glass is the reason this atlas can draw a timeline for the eye and cannot draw one for thread. Nothing about a bead is more durable than a stitch except the material. Where a tradition used both, the glass is what survived to be counted.",
+  "how": "Melted, gathered on a rod, and dotted while soft: concentric circles or a teardrop in dark blue, white, light blue and black, sometimes rimmed in yellow or gold. Turkish sellers give the ingredients as part of the claim, not as a manufacturing note: \"The bead is made of a mixture of molten glass, iron, copper, water, and salt, ingredients that are thought to shield people from evil.\"",
+  "today": "Traditional production of the nazar boncuğu is now carried on at Nazarköy in Kemalpaşa, in İzmir province, using a few simple hand tools and mostly blue and white glass, and the Cultural Research Foundation runs research, documentation and documentary film work on it. Everywhere else the bead is factory output, sold by the tray at the Grand Bazaar, at Monastiraki, in airport shops and on phone cases. Whether a moulded bead is the same object as a lampworked one is argued by sellers and buyers alike; this record describes both the same way."
+ },
+ "dating": {
+  "period": "Late Bronze Age to the present",
+  "from_year": -1599,
+  "to_year": null,
+  "living": true,
+  "label": "16th century BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-nazar-amulet",
+  "note": "Dated from the statement that written documentation and extant eye beads date from as early as the 16th century BCE. The account of the evil eye dates the regional bead industry to about 1500 BCE, and the Egyptian pairing of spotted glass beads with wedjat amulets to the thirteenth century BCE."
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "Turkish sellers and wearers, who name the blue and the ingredients",
+   "quote": "According to Turkish belief, blue acts as a shield against evil and even absorbs negativity.",
+   "source": "s:wp-nazar-amulet",
+   "tier": "cited"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "carriers of the concentric blue-and-white bead from the Phoenicians to the Ottomans",
+   "source": "s:wp-evil-eye",
+   "tier": "cited"
+  },
+  {
+   "harm": "infertility",
+   "who": "enslaved African Americans at the Hermitage plantation, Nashville, whose hexagonal glass beads archaeologists read as used for fertility and other spiritual purposes",
+   "source": "s:wp-mojo-bag",
+   "tier": "cited"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "English householders who buried glass witch bottles under thresholds and hearths",
+   "source": "s:wp-witch-bottle",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "nazar",
+   "as": "the bead this material was invented for, and the form most of the world now buys the eye in",
+   "rel": "carried-by"
+  },
+  {
+   "to": "eye",
+   "as": "the sign glass carries better than any other material, because a dot of colour set in a dot of colour is what glass does easily",
+   "rel": "motif"
+  },
+  {
+   "to": "wedjat-eye",
+   "as": "the Egyptian amulet that shared a string with the first spotted glass beads, from the thirteenth century BCE",
+   "rel": "kin"
+  },
+  {
+   "to": "faience",
+   "as": "the near relation: the same quartz and alkali, only partly fused, porous where glass is solid",
+   "rel": "contrast"
+  },
+  {
+   "to": "terracotta",
+   "as": "the other fired material, and the other reason this atlas can date anything at all",
+   "rel": "parallel"
+  },
+  {
+   "to": "witch-bottle",
+   "as": "the English charm that changed material under the practice: stoneware jug first, glass bottle later, same buried job",
+   "rel": "carried-by"
+  },
+  {
+   "to": "pazuzu-head",
+   "as": "made chiefly in terracotta, but glass is one of the six materials the heads turn up in",
+   "rel": "carried-by"
+  },
+  {
+   "to": "evil-eye-bracelet",
+   "as": "the factory descendant, which this atlas describes in the same words as a lampworked bead",
+   "rel": "descendant"
+  },
+  {
+   "to": "grand-bazaar",
+   "as": "the counter where the bead reaches most of its buyers now",
+   "rel": "place"
+  },
+  {
+   "to": "the-fake-market",
+   "as": "the long read on what a mass-produced charm is, which the glass bead is the largest case of",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Nazar (amulet) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nazar_(amulet)"
+  }
+ ],
+ "sources": [
+  "s:wp-nazar-amulet",
+  "s:wp-evil-eye",
+  "s:wp-eye-of-horus",
+  "s:wp-egyptian-faience",
+  "s:wp-pazuzu",
+  "s:wp-witch-bottle",
+  "s:wp-mojo-bag",
+  "s:web-kultur-evil-eye-izmir"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-nazar-amulet"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-nazar-amulet",
+    "note": "the closing paragraph on survival is this project's inference and is marked in the text"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:web-kultur-evil-eye-izmir"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Nazar boncugu.jpg",
+  "File:Roman glass eye bead.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-17"
+}

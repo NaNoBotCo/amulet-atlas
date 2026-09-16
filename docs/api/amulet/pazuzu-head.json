@@ -1,0 +1,545 @@
+{
+ "schema": 1,
+ "id": "pazuzu-head",
+ "type": "amulet",
+ "names": {
+  "name": "Pazuzu head",
+  "native": "𒀭𒅆𒊒𒍪𒍪",
+  "script": "cuneiform",
+  "lang": "akk",
+  "said": "pa-ZU-zu, Akkadian pà.zu.zu",
+  "aliases": [
+   "Pazuzu amulet",
+   "Pazuzu pendant"
+  ]
+ },
+ "region": [
+  "mesopotamia"
+ ],
+ "countries": [
+  "IQ",
+  "SY"
+ ],
+ "facets": {
+  "era": "ancient",
+  "status": "archaeological",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A head, cast or carved, with a hole or a loop through the top for a cord. The face is the point: gazelle horns, human ears, a dog's muzzle, bulging eyes, wrinkled cheeks. Terracotta is the common material; bronze, iron, gold, glass and bone examples survive too. Some heads were fixed to cylinder seals or worn as brooches; larger stone versions hung on a wall. The full figure, where it appears, has a scaled canine body, two pairs of wings, a scorpion's tail, bird talons, right hand up and left hand down.",
+  "story": "Pazuzu is a demon employed as a doorman. He is the south-western wind, he carries plague, and the texts that address him call him \"Agony of Mankind\" and tell him to stay out of the house — and the same culture hung his face over the bed. In the bilingual Compendia he introduces himself: \"I am Pazuzu, son of Ḫanbu, king of the evil lilû-demons. I was enraged (in violent motion) against the strong mountains and ascended them.\"\n\nWhat he is for is Lamashtu. She snatches babies; he forces her back to the underworld. Ritual texts from Uruk direct that a woman be given a bronze Pazuzu necklace so that Lamashtu cannot make her miscarry; a Late Babylonian incantation against Lamashtu tells the reader to make a Pazuzu necklace and hang it round the afflicted person's neck; an Assyrian ritual text prescribes a Pazuzu head to banish sickness. Franz Wiggermann dates the figure's sudden appearance to the Early Iron Age, with the first images in the eighth century BCE from the tombs at Nimrud, the first texts in the seventh, the bulk of the finds in the seventh and sixth, and the latest under the Seleucids.\n\nOne of the large wall amulets was found where it fell. At Dur-Katlimmu, a Neo-Assyrian town, it lay on the floor of the main reception room, facing the entryway it had been hung to watch.\n\n*Inference —* the heads are uniform and there are a great many of them. Eckart Frahm's study finds the appearance barely changes across his history. An object that looks the same everywhere and turns up everywhere was made in quantity by people who were not improvising, which is what the cited scholarship means when it calls the representations mass-produced."
+ },
+ "dating": {
+  "period": "Neo-Assyrian to Seleucid",
+  "from_year": -799,
+  "to_year": -62,
+  "living": false,
+  "label": "8th century BCE to the Seleucid period",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-pazuzu",
+  "note": "First visual depictions in the 8th century BCE at Nimrud, first texts in the 7th, most representations 7th–6th, the most recent finds dating to the Seleucid Empire."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": [
+   "terracotta",
+   "copper",
+   "iron",
+   "gold",
+   "glass",
+   "bone"
+  ],
+  "worn": [
+   "neck",
+   "wall",
+   "door",
+   "grave"
+  ],
+  "made_by": "made in quantity and to a near-uniform pattern; the cited scholarship calls the heads, amulets and statues mass-produced",
+  "inscription": "invocations of Pazuzu, cut on the backs of the representations or on accompanying tablets",
+  "script": "cuneiform",
+  "source": "s:wp-pazuzu",
+  "note": "Heads have been found in graves as well as houses. No published measurement was read, so none is given."
+ },
+ "against": [
+  {
+   "harm": "childbirth",
+   "who": "ritual texts from Uruk, which prescribe a bronze Pazuzu necklace against miscarriage caused by Lamashtu",
+   "source": "s:wp-pazuzu",
+   "tier": "cited"
+  },
+  {
+   "harm": "child-harm",
+   "who": "the householders who set his image in dwellings to protect infants, and the pregnant women who wore his head",
+   "source": "s:wp-pazuzu",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "an Assyrian ritual text, which prescribes a Pazuzu head to banish sickness",
+   "source": "s:wp-pazuzu",
+   "tier": "cited"
+  },
+  {
+   "harm": "demons",
+   "who": "Pazuzu himself, in a text narrated in his voice",
+   "quote": "I ascended a mighty mountain that shook, and the (evil) winds I encountered there were heading West; One by one I broke their wings.",
+   "source": "s:wp-pazuzu",
+   "tier": "cited"
+  },
+  {
+   "harm": "fever",
+   "who": "Mesopotamian religion, which pairs him with plague and with winds that carry pestilence",
+   "source": "s:wp-pazuzu",
+   "tier": "cited"
+  }
+ ],
+ "holdings": [
+  {
+   "museum": "british-museum",
+   "what": "a bronze head of Pazuzu",
+   "source": "s:wp-pazuzu"
+  },
+  {
+   "museum": "met",
+   "what": "Pazuzu material in the ancient Near Eastern collection",
+   "source": "s:wp-pazuzu"
+  }
+ ],
+ "kin": [
+  {
+   "to": "lamashtu-plaque",
+   "as": "the demon he is bought for; the necklace in the Uruk texts exists because she is in the room",
+   "rel": "contrast"
+  },
+  {
+   "to": "mesopotamian-apotropaic",
+   "as": "the tradition that made a household guard out of a wind that brings plague",
+   "rel": "tradition"
+  },
+  {
+   "to": "bes-amulet",
+   "as": "the Egyptian counterpart scholars keep comparing him to — both lion-parted, winged, long-phallused, and both standing over mothers and infants; five Pazuzu heads turned up near a Bes amulet in a 7th-century fort at Nimrud",
+   "rel": "parallel"
+  },
+  {
+   "to": "gorgoneion",
+   "as": "the same device in Greek: a face too frightening to walk past, mounted where the danger comes in",
+   "rel": "parallel"
+  },
+  {
+   "to": "horn",
+   "as": "the gazelle horns that identify the face at a glance",
+   "rel": "motif"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "the practice the Dur-Katlimmu find caught in the act — hung on the wall facing the entryway",
+   "rel": "practice"
+  },
+  {
+   "to": "terracotta",
+   "as": "the material most of the surviving heads are made of, and the reason there are so many",
+   "rel": "material"
+  },
+  {
+   "to": "grave-deposit",
+   "as": "why some of these are still here: they were buried with the people who wore them",
+   "rel": "practice"
+  },
+  {
+   "to": "incantation-bowl",
+   "as": "the later Mesopotamian object doing the same job with writing instead of a face",
+   "rel": "descendant"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "lamashtu-plaque",
+   "tell": "if the figure is female, bare-breasted, holding serpents and standing on a donkey, it is Lamashtu; Pazuzu is a horned dog-muzzled head, usually just a head"
+  }
+ ],
+ "links": [
+  {
+   "label": "Pazuzu — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pazuzu"
+  }
+ ],
+ "sources": [
+  "s:wp-pazuzu",
+  "s:wp-lamashtu",
+  "s:wp-mesopotamian-mythology",
+  "s:wp-bes"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-pazuzu"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-pazuzu",
+    "note": "the closing paragraph is this project's reading of the uniformity argument, marked where it appears"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Pazuzu Louvre MNB467.jpg",
+  "File:Demon Pazuzu head.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A head, cast or carved, with a hole or a loop through the top for a cord. The face is the point: gazelle horns, human ears, a dog's muzzle, bulging eyes, wrinkled cheeks.",
+ "region_terms": [
+  {
+   "key": "mesopotamia",
+   "name": "Mesopotamia",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Sumer, Akkad, Babylonia, Assyria"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "lamashtu-plaque",
+   "type": "amulet",
+   "name": "Lamashtu plaque",
+   "as": "the demon he is bought for; the necklace in the Uruk texts exists because she is in the room",
+   "rel": "contrast"
+  },
+  {
+   "to": "mesopotamian-apotropaic",
+   "type": "tradition",
+   "name": "Mesopotamian household protection",
+   "as": "the tradition that made a household guard out of a wind that brings plague",
+   "rel": "tradition"
+  },
+  {
+   "to": "bes-amulet",
+   "type": "amulet",
+   "name": "Bes amulet",
+   "as": "the Egyptian counterpart scholars keep comparing him to — both lion-parted, winged, long-phallused, and both standing over mothers and infants; five Pazuzu heads turned up near a Bes amulet in a 7th-century fort at Nimrud",
+   "rel": "parallel"
+  },
+  {
+   "to": "gorgoneion",
+   "type": "amulet",
+   "name": "Gorgoneion",
+   "as": "the same device in Greek: a face too frightening to walk past, mounted where the danger comes in",
+   "rel": "parallel"
+  },
+  {
+   "to": "horn",
+   "type": "motif",
+   "name": "The horn",
+   "as": "the gazelle horns that identify the face at a glance",
+   "rel": "motif"
+  },
+  {
+   "to": "hanging-at-door",
+   "type": "practice",
+   "name": "Hanging at the door",
+   "as": "the practice the Dur-Katlimmu find caught in the act — hung on the wall facing the entryway",
+   "rel": "practice"
+  },
+  {
+   "to": "terracotta",
+   "type": "material",
+   "name": "Fired clay",
+   "as": "the material most of the surviving heads are made of, and the reason there are so many",
+   "rel": "material"
+  },
+  {
+   "to": "grave-deposit",
+   "type": "practice",
+   "name": "Grave deposit",
+   "as": "why some of these are still here: they were buried with the people who wore them",
+   "rel": "practice"
+  },
+  {
+   "to": "incantation-bowl",
+   "type": "amulet",
+   "name": "Incantation bowl",
+   "as": "the later Mesopotamian object doing the same job with writing instead of a face",
+   "rel": "descendant"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-pazuzu",
+   "kind": "encyclopedia",
+   "title": "Pazuzu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pazuzu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-lamashtu",
+   "kind": "encyclopedia",
+   "title": "Lamashtu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lamashtu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mesopotamian-mythology",
+   "kind": "encyclopedia",
+   "title": "Mesopotamian mythology",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mesopotamian_mythology",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-bes",
+   "kind": "encyclopedia",
+   "title": "Bes",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bes",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-pazuzu"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-pazuzu",
+   "note": "the closing paragraph is this project's reading of the uniformity argument, marked where it appears"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-pazuzu"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-pazuzu"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "childbirth",
+   "label": "Death in childbirth",
+   "who": "ritual texts from Uruk, which prescribe a bronze Pazuzu necklace against miscarriage caused by Lamashtu",
+   "quote": "",
+   "source": "s:wp-pazuzu",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "child-harm",
+   "label": "Harm to a child",
+   "gloss": "harm to an infant or a small child; common across the atlas, though not the largest class in it — see /story/most-of-them-are-for-children/",
+   "who": "the householders who set his image in dwellings to protect infants, and the pregnant women who wore his head",
+   "quote": "",
+   "source": "s:wp-pazuzu",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "an Assyrian ritual text, which prescribes a Pazuzu head to banish sickness",
+   "quote": "",
+   "source": "s:wp-pazuzu",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "demons",
+   "label": "Demons and night-hags",
+   "who": "Pazuzu himself, in a text narrated in his voice",
+   "quote": "I ascended a mighty mountain that shook, and the (evil) winds I encountered there were heading West; One by one I broke their wings.",
+   "source": "s:wp-pazuzu",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "fever",
+   "label": "Fever and plague",
+   "who": "Mesopotamian religion, which pairs him with plague and with winds that carry pestilence",
+   "quote": "",
+   "source": "s:wp-pazuzu",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "terracotta",
+   "label": "Fired clay",
+   "kind": "fired"
+  },
+  {
+   "key": "copper",
+   "label": "Copper and bronze",
+   "kind": "metal"
+  },
+  {
+   "key": "iron",
+   "label": "Iron",
+   "kind": "metal",
+   "note": "iron itself is the charm in a great many places"
+  },
+  {
+   "key": "gold",
+   "label": "Gold",
+   "kind": "metal"
+  },
+  {
+   "key": "glass",
+   "label": "Glass",
+   "kind": "fired"
+  },
+  {
+   "key": "bone",
+   "label": "Bone and ivory",
+   "kind": "organic"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  },
+  {
+   "key": "grave",
+   "label": "In the grave",
+   "group": "placed",
+   "note": "most surviving ancient amulets are here because somebody was buried in them"
+  }
+ ],
+ "form_fact": {
+  "key": "pendant",
+  "label": "Pendant"
+ },
+ "holding_facts": [
+  {
+   "key": "british-museum",
+   "label": "The British Museum",
+   "city": "London",
+   "country": "GB",
+   "url": "",
+   "what": "a bronze head of Pazuzu",
+   "accession": "",
+   "source": "s:wp-pazuzu"
+  },
+  {
+   "key": "met",
+   "label": "The Metropolitan Museum of Art",
+   "city": "New York",
+   "country": "US",
+   "url": "",
+   "open": true,
+   "what": "Pazuzu material in the ancient Near Eastern collection",
+   "accession": "",
+   "source": "s:wp-pazuzu"
+  }
+ ],
+ "span": "800 BCE – 63 BCE",
+ "country_names": [
+  {
+   "iso": "IQ",
+   "name": "Iraq"
+  },
+  {
+   "iso": "SY",
+   "name": "Syria"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "bes-amulet",
+   "type": "amulet",
+   "name": "Bes amulet",
+   "as": "Mesopotamia's grimacing household figure, hung for the same reason and looking just as unpleasant on purpose",
+   "rel": "parallel"
+  },
+  {
+   "from": "gorgoneion",
+   "type": "amulet",
+   "name": "Gorgoneion",
+   "as": "Mesopotamia's version of the argument: a frightening head, mounted facing the way in",
+   "rel": "parallel"
+  },
+  {
+   "from": "lamashtu-plaque",
+   "type": "amulet",
+   "name": "Lamashtu plaque",
+   "as": "the counter-figure cut on the same plaques, shown chasing her down the river; a household could own both and they were not opposites in the tray",
+   "rel": "contrast"
+  },
+  {
+   "from": "mesopotamian-apotropaic",
+   "type": "tradition",
+   "name": "Mesopotamian household protection",
+   "as": "the counter-power, cast by the thousand and worn at the neck",
+   "rel": "part"
+  },
+  {
+   "from": "lion",
+   "type": "motif",
+   "name": "The lion",
+   "as": "the Mesopotamian half of the documented contact: five of these were found beside a Bes amulet at Nimrud",
+   "rel": "carried-by"
+  },
+  {
+   "from": "copper",
+   "type": "material",
+   "name": "Copper and bronze",
+   "as": "cast in bronze for the cases that mattered most, and prescribed by name in the Uruk texts",
+   "rel": "carried-by"
+  },
+  {
+   "from": "glass",
+   "type": "material",
+   "name": "Glass",
+   "as": "made chiefly in terracotta, but glass is one of the six materials the heads turn up in",
+   "rel": "carried-by"
+  },
+  {
+   "from": "terracotta",
+   "type": "material",
+   "name": "Fired clay",
+   "as": "chiefly terracotta, drilled to hang, and found in numbers because a mould made it cheap",
+   "rel": "carried-by"
+  }
+ ]
+}

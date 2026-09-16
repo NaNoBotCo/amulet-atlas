@@ -1,0 +1,762 @@
+{
+ "schema": 1,
+ "id": "nazar",
+ "type": "amulet",
+ "names": {
+  "name": "Nazar",
+  "native": "نَظَر",
+  "script": "Arabic",
+  "lang": "ar",
+  "said": "na-ZAR, Arabic for 'sight', 'surveillance', 'attention'",
+  "aliases": [
+   "nazar boncuğu",
+   "göz boncuğu",
+   "eye bead",
+   "máti",
+   "cheshm nazar",
+   "nazar qurbani"
+  ]
+ },
+ "etymology": {
+  "root": "Arabic naẓar, 'sight' or 'looking' — the same word for the look that does the harm and for the bead that answers it; Turkish nazar boncuğu adds boncuk, Turkic for 'bead'",
+  "note": "The word travels: Albanian, Azerbaijani, Bengali, Hebrew, Hindi–Urdu, Kurdish, Pashto, Persian, Punjabi, Sindhi and Turkish all use it. Greek calls the object máti, 'eye'. In India and Pakistan the phrase nazar lag gai says somebody has been hit by it.",
+  "tier": "cited",
+  "source": "s:wp-nazar-amulet"
+ },
+ "region": [
+  "anatolia",
+  "greece-aegean",
+  "iran-persia",
+  "south-asia",
+  "balkans",
+  "caucasus"
+ ],
+ "countries": [
+  "TR",
+  "GR",
+  "IR",
+  "AF",
+  "IN",
+  "PK",
+  "BD",
+  "AL",
+  "AZ",
+  "IL"
+ ],
+ "facets": {
+  "era": "living",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A handmade glass bead: concentric circles, or a teardrop, in dark blue, white, light blue and black, sometimes rimmed in yellow or gold. The Turkish boncuk is blue glass with a blue, white and black dot set on a white or yellow centre. It hangs at a neck, on a wrist, over a door, from a mirror, above a till, on a cradle.",
+  "story": "The bead is older than any of the countries that sell it. Glass eye beads are documented and extant from as early as the 16th century BCE, and the design spread with glassmaking itself — Mesopotamia to Egypt, Carthage to Greece, Phoenicia to Persia, and right through the Roman imperial period.\n\nThe explanations people give for the colour are specific. \"According to Turkish belief, blue acts as a shield against evil and even absorbs negativity.\" And the materials are part of the claim, not just the manufacture: \"The bead is made of a mixture of molten glass, iron, copper, water, and salt, ingredients that are thought to shield people from evil.\" A second explanation in the cited account runs the other way round — in the Middle East and the Mediterranean, blue eyes are relatively rare, so people with light eyes were held able to curse with a look, and the Assyrians already had turquoise and blue-eye amulets.\n\nThe bead also has a rule for its own death. If one breaks, a very strong nazar has hit the wearer, and the bead stored it all up and broke in order to protect them. That is the only retirement instruction in this batch that the object gives itself.",
+  "today": "Mass-produced and sold everywhere: the Grand Bazaar in Istanbul, Monastiraki in Athens, airport shops, phone cases. A Turkish budget airline, Fly Air, carried the nazar boncuğu on the tail fins of its aircraft. The bead was added to Unicode as U+1F9FF 🧿 NAZAR AMULET in 2018, which makes it one of the very few amulets in this atlas that a reader can send in a message. Whether a factory bead is the same object as a lampworked one is argued by sellers and buyers alike; this atlas reports the argument and describes both the same way."
+ },
+ "dating": {
+  "period": "Late Bronze Age to the present",
+  "from_year": -1599,
+  "to_year": null,
+  "living": true,
+  "label": "glass eye beads from as early as the 16th century BCE; still made and worn",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-nazar-amulet",
+  "note": "Dated from the cited article's statement that written documentation and extant beads date from as early as the 16th century BCE."
+ },
+ "object": {
+  "form": "bead",
+  "materials": [
+   "glass",
+   "iron",
+   "copper",
+   "salt"
+  ],
+  "worn": [
+   "neck",
+   "wrist",
+   "door",
+   "vehicle",
+   "shop",
+   "cradle",
+   "phone"
+  ],
+  "made_by": "glassmakers; the cited account describes the bead as handmade, and the modern market is largely factory-made",
+  "colour": [
+   "dark blue",
+   "light blue",
+   "white",
+   "black",
+   "yellow"
+  ],
+  "single_use": false,
+  "source": "s:wp-nazar-amulet",
+  "note": "Iron, copper, water and salt are named in the cited account as ingredients of the glass mixture and as part of what the bead is held to work by. No published measurement was read."
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "carriers across Turkey, Greece, Iran, Afghanistan and South Asia",
+   "quote": "According to Turkish belief, blue acts as a shield against evil and even absorbs negativity.",
+   "source": "s:wp-nazar-amulet",
+   "tier": "cited"
+  },
+  {
+   "harm": "envy",
+   "who": "the same users; the Hindi-Urdu slogan chashm-e-baddoor asks that the eye keep away",
+   "source": "s:wp-nazar-amulet",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "the mythology of the bead itself: if one breaks, it took the whole hit and broke to protect the wearer",
+   "source": "s:wp-nazar-amulet",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "eye",
+   "as": "the sign, in the form most of the world now buys it in",
+   "rel": "motif"
+  },
+  {
+   "to": "wedjat-eye",
+   "as": "the same argument four thousand years earlier, drawn in faience instead of blown in glass",
+   "rel": "parallel"
+  },
+  {
+   "to": "hamsa",
+   "as": "the hand this bead is usually set into, and sold beside",
+   "rel": "kin"
+  },
+  {
+   "to": "glass",
+   "as": "the material that turned a sign into something a market could sell by the tray",
+   "rel": "material"
+  },
+  {
+   "to": "grand-bazaar",
+   "as": "the market that sells more of these than anywhere else",
+   "rel": "place"
+  },
+  {
+   "to": "monastiraki",
+   "as": "the Athens equivalent, where the same bead is called máti",
+   "rel": "place"
+  },
+  {
+   "to": "evil-eye-bracelet",
+   "as": "what it becomes on a modern wrist, and the version the argument about factories is actually about",
+   "rel": "descendant"
+  },
+  {
+   "to": "nazar-word",
+   "as": "the word — sight, the look, and the bead, all one noun",
+   "rel": "same-word"
+  },
+  {
+   "to": "gorgoneion",
+   "as": "the Greek ancestor in the same soil: a frightening face doing by terror what the bead does by looking back",
+   "rel": "parallel"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "as": "the long read this bead is the cover of",
+   "rel": "story"
+  },
+  {
+   "to": "the-charm-goes-digital",
+   "as": "the long read about charms on screens; this one has its own Unicode code point",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Nazar (amulet) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nazar_(amulet)"
+  }
+ ],
+ "sources": [
+  "s:wp-nazar-amulet",
+  "s:wp-evil-eye",
+  "s:wp-hamsa",
+  "s:wp-apotropaic-magic",
+  "s:wp-grand-bazaar-istanbul"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-nazar-amulet"
+  },
+  "fields": {
+   "countries": {
+    "tier": "cited",
+    "source": "s:wp-nazar-amulet",
+    "note": "read off the list of languages that use the word, plus Turkey and Greece which the article names directly"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Nazar boncugu.jpg",
+  "File:Turkish evil eye beads.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A handmade glass bead: concentric circles, or a teardrop, in dark blue, white, light blue and black, sometimes rimmed in yellow or gold.",
+ "region_terms": [
+  {
+   "key": "anatolia",
+   "name": "Anatolia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "greece-aegean",
+   "name": "Greece and the Aegean",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "iran-persia",
+   "name": "Iran",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "balkans",
+   "name": "The Balkans",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "caucasus",
+   "name": "The Caucasus",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "the sign, in the form most of the world now buys it in",
+   "rel": "motif"
+  },
+  {
+   "to": "wedjat-eye",
+   "type": "amulet",
+   "name": "Wedjat eye",
+   "as": "the same argument four thousand years earlier, drawn in faience instead of blown in glass",
+   "rel": "parallel"
+  },
+  {
+   "to": "hamsa",
+   "type": "amulet",
+   "name": "Hamsa",
+   "as": "the hand this bead is usually set into, and sold beside",
+   "rel": "kin"
+  },
+  {
+   "to": "glass",
+   "type": "material",
+   "name": "Glass",
+   "as": "the material that turned a sign into something a market could sell by the tray",
+   "rel": "material"
+  },
+  {
+   "to": "grand-bazaar",
+   "type": "place",
+   "name": "The Grand Bazaar",
+   "as": "the market that sells more of these than anywhere else",
+   "rel": "place"
+  },
+  {
+   "to": "monastiraki",
+   "type": "place",
+   "name": "Monastiraki",
+   "as": "the Athens equivalent, where the same bead is called máti",
+   "rel": "place"
+  },
+  {
+   "to": "evil-eye-bracelet",
+   "type": "amulet",
+   "name": "Evil eye bracelet",
+   "as": "what it becomes on a modern wrist, and the version the argument about factories is actually about",
+   "rel": "descendant"
+  },
+  {
+   "to": "nazar-word",
+   "type": "term",
+   "name": "nazar",
+   "as": "the word — sight, the look, and the bead, all one noun",
+   "rel": "same-word"
+  },
+  {
+   "to": "gorgoneion",
+   "type": "amulet",
+   "name": "Gorgoneion",
+   "as": "the Greek ancestor in the same soil: a frightening face doing by terror what the bead does by looking back",
+   "rel": "parallel"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "type": "story",
+   "name": "The eye everywhere",
+   "as": "the long read this bead is the cover of",
+   "rel": "story"
+  },
+  {
+   "to": "the-charm-goes-digital",
+   "type": "story",
+   "name": "The charm goes digital",
+   "as": "the long read about charms on screens; this one has its own Unicode code point",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-nazar-amulet",
+   "kind": "encyclopedia",
+   "title": "Nazar (amulet)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nazar_(amulet)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-evil-eye",
+   "kind": "encyclopedia",
+   "title": "Evil eye",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Evil_eye",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-hamsa",
+   "kind": "encyclopedia",
+   "title": "Hamsa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hamsa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-apotropaic-magic",
+   "kind": "encyclopedia",
+   "title": "Apotropaic magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Apotropaic_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-grand-bazaar-istanbul",
+   "kind": "encyclopedia",
+   "title": "Grand Bazaar, Istanbul",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Grand_Bazaar,_Istanbul",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-nazar-amulet"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-nazar-amulet"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-nazar-amulet"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-nazar-amulet"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-nazar-amulet"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-nazar-amulet"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "carriers across Turkey, Greece, Iran, Afghanistan and South Asia",
+   "quote": "According to Turkish belief, blue acts as a shield against evil and even absorbs negativity.",
+   "source": "s:wp-nazar-amulet",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "envy",
+   "label": "Envy",
+   "gloss": "a neighbour's ill will, named as such",
+   "who": "the same users; the Hindi-Urdu slogan chashm-e-baddoor asks that the eye keep away",
+   "quote": "",
+   "source": "s:wp-nazar-amulet",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "the mythology of the bead itself: if one breaks, it took the whole hit and broke to protect the wearer",
+   "quote": "",
+   "source": "s:wp-nazar-amulet",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "glass",
+   "label": "Glass",
+   "kind": "fired"
+  },
+  {
+   "key": "iron",
+   "label": "Iron",
+   "kind": "metal",
+   "note": "iron itself is the charm in a great many places"
+  },
+  {
+   "key": "copper",
+   "label": "Copper and bronze",
+   "kind": "metal"
+  },
+  {
+   "key": "salt",
+   "label": "Salt",
+   "kind": "mineral"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "wrist",
+   "label": "On the wrist",
+   "group": "body"
+  },
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  },
+  {
+   "key": "vehicle",
+   "label": "In a vehicle",
+   "group": "placed"
+  },
+  {
+   "key": "shop",
+   "label": "At the till",
+   "group": "placed"
+  },
+  {
+   "key": "cradle",
+   "label": "On a cradle",
+   "group": "placed"
+  },
+  {
+   "key": "phone",
+   "label": "On a phone",
+   "group": "carried"
+  }
+ ],
+ "form_fact": {
+  "key": "bead",
+  "label": "Bead"
+ },
+ "holding_facts": [],
+ "span": "1600 BCE to now",
+ "country_names": [
+  {
+   "iso": "TR",
+   "name": "Turkey"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "IR",
+   "name": "Iran"
+  },
+  {
+   "iso": "AF",
+   "name": "Afghanistan"
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  },
+  {
+   "iso": "PK",
+   "name": "Pakistan"
+  },
+  {
+   "iso": "BD",
+   "name": "Bangladesh"
+  },
+  {
+   "iso": "AL",
+   "name": "Albania"
+  },
+  {
+   "iso": "AZ",
+   "name": "Azerbaijan"
+  },
+  {
+   "iso": "IL",
+   "name": "Israel"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "azabache",
+   "type": "amulet",
+   "name": "Azabache",
+   "as": "the same harm answered with glass and an eye instead of jet and a hand",
+   "rel": "parallel"
+  },
+  {
+   "from": "bagua-mirror",
+   "type": "amulet",
+   "name": "Bagua mirror",
+   "as": "the other thing hung facing out over a door, which answers a look rather than a corner",
+   "rel": "parallel"
+  },
+  {
+   "from": "cornicello",
+   "type": "amulet",
+   "name": "Cornicello",
+   "as": "the object it competes with across the Mediterranean, answering the same harm with the opposite strategy",
+   "rel": "parallel"
+  },
+  {
+   "from": "dzi-bead",
+   "type": "amulet",
+   "name": "Dzi bead",
+   "as": "the other eye-bead with a market in the millions — glass instead of agate, and priced by the tray instead of by the eye",
+   "rel": "parallel"
+  },
+  {
+   "from": "evil-eye-bracelet",
+   "type": "amulet",
+   "name": "Evil eye bracelet",
+   "as": "the bead itself, which this record is the wrist-sized retail packaging of",
+   "rel": "whole"
+  },
+  {
+   "from": "gorgoneion",
+   "type": "amulet",
+   "name": "Gorgoneion",
+   "as": "the same mechanism reduced to a bead, and the version still sold in Athens and Istanbul",
+   "rel": "parallel"
+  },
+  {
+   "from": "hamsa",
+   "type": "amulet",
+   "name": "Hamsa",
+   "as": "the bead it is most often sold beside, and most often combined with",
+   "rel": "kin"
+  },
+  {
+   "from": "horseshoe",
+   "type": "amulet",
+   "name": "Horseshoe",
+   "as": "what it is combined with in Turkey — the shoe and the all-seeing eye on one object",
+   "rel": "kin"
+  },
+  {
+   "from": "nimbu-mirchi",
+   "type": "amulet",
+   "name": "Nimbu mirchi",
+   "as": "the glass bead sold for the same harm two thousand kilometres west, and the one this atlas usually shows first",
+   "rel": "parallel"
+  },
+  {
+   "from": "ojo-de-venado",
+   "type": "amulet",
+   "name": "Ojo de venado",
+   "as": "the same logic in glass, and the same story about a charm that breaks because it took the look",
+   "rel": "parallel"
+  },
+  {
+   "from": "tabiz",
+   "type": "amulet",
+   "name": "Tabiz",
+   "as": "the glass answer to the harm this paper answers in words",
+   "rel": "parallel"
+  },
+  {
+   "from": "wedjat-eye",
+   "type": "amulet",
+   "name": "Wedjat eye",
+   "as": "the eye answering the eye, four thousand years later and in glass rather than faience",
+   "rel": "parallel"
+  },
+  {
+   "from": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "the sign as a glass bead, which is the form most of the world now buys it in",
+   "rel": "carried-by"
+  },
+  {
+   "from": "hand",
+   "type": "motif",
+   "name": "The hand",
+   "as": "the glass bead this hand is sold beside, and is often set into",
+   "rel": "kin"
+  },
+  {
+   "from": "open-palm",
+   "type": "motif",
+   "name": "The open palm",
+   "as": "the bead it is most often sold with, and often set with",
+   "rel": "kin"
+  },
+  {
+   "from": "glass",
+   "type": "material",
+   "name": "Glass",
+   "as": "the bead this material was invented for, and the form most of the world now buys the eye in",
+   "rel": "carried-by"
+  },
+  {
+   "from": "iron",
+   "type": "material",
+   "name": "Iron",
+   "as": "iron goes into the glass batch itself, named in the recipe among the things said to shield the wearer",
+   "rel": "material"
+  },
+  {
+   "from": "salt",
+   "type": "material",
+   "name": "Salt",
+   "as": "salt is named in the batch the bead is made from, fired into the glass",
+   "rel": "material"
+  },
+  {
+   "from": "wearing-hidden",
+   "type": "practice",
+   "name": "Wearing hidden",
+   "as": "the charm built to be seen, which is what this practice is defined against",
+   "rel": "contrast"
+  },
+  {
+   "from": "grand-bazaar",
+   "type": "place",
+   "name": "The Grand Bazaar",
+   "as": "the bead this market sells by the tray, and the reason most of the world pictures the eye as blue glass",
+   "rel": "carries"
+  },
+  {
+   "from": "monastiraki",
+   "type": "place",
+   "name": "Monastiraki",
+   "as": "the bead sold here under its Greek name, máti",
+   "rel": "carries"
+  },
+  {
+   "from": "pitt-rivers-charms",
+   "type": "place",
+   "name": "The amulet and charm cases, Pitt Rivers Museum",
+   "as": "the blue glass eye in these cases, one of them donated as early as 1885",
+   "rel": "carries"
+  },
+  {
+   "from": "alan-dundes",
+   "type": "person",
+   "name": "Alan Dundes",
+   "as": "one subject of that casebook — the Mediterranean bead, argued over by the writers he collected",
+   "rel": "kin"
+  },
+  {
+   "from": "siegfried-seligmann",
+   "type": "person",
+   "name": "Siegfried Seligmann",
+   "as": "the bead form of the sign, one of the many he catalogued rather than one he singled out",
+   "rel": "kin"
+  },
+  {
+   "from": "nazar-word",
+   "type": "term",
+   "name": "nazar",
+   "as": "the object the word rides on: the blue glass disc itself",
+   "rel": "term"
+  },
+  {
+   "from": "most-of-them-are-for-children",
+   "type": "story",
+   "name": "Most of them are for children",
+   "as": "the form most of the world now pins to a baby's shirt, in glass",
+   "rel": "parallel"
+  },
+  {
+   "from": "the-charm-goes-digital",
+   "type": "story",
+   "name": "The charm goes digital",
+   "as": "the bead that became a Unicode character in 2018 and is now on every handset",
+   "rel": "carries"
+  },
+  {
+   "from": "the-eye-everywhere",
+   "type": "story",
+   "name": "The eye everywhere",
+   "as": "the glass bead the documented Mediterranean line ends in, and the form most of the world now buys",
+   "rel": "carried-by"
+  }
+ ]
+}

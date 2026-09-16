@@ -1,0 +1,641 @@
+{
+ "schema": 1,
+ "id": "skin",
+ "type": "material",
+ "names": {
+  "name": "Skin",
+  "native": "สักยันต์",
+  "script": "Thai",
+  "lang": "th",
+  "said": "sak yant — sak is Khmer for 'to prick'",
+  "aliases": [
+   "the tattooed charm",
+   "irezumi",
+   "sicanje",
+   "yantra tattoo"
+  ]
+ },
+ "region": [
+  "mainland-sea",
+  "ancient-egypt",
+  "nubia-sudan",
+  "western-europe",
+  "balkans",
+  "south-asia",
+  "island-sea"
+ ],
+ "countries": [
+  "TH",
+  "KH",
+  "LA",
+  "MM",
+  "EG",
+  "SD",
+  "IT",
+  "AT",
+  "BA",
+  "IN",
+  "PH",
+  "PK",
+  "AF"
+ ],
+ "facets": {
+  "kind": "organic"
+ },
+ "text": {
+  "what": "The only amulet material a person cannot put down. Pigment is driven into the dermis — the layer of skin under the surface — where macrophages engulf it and hold it in a band just below the boundary between the two layers. The surface flakes away and takes the loose pigment with it; what stays, stays for life, migrating slowly deeper, which is why an old tattoo looks blurred.",
+  "story": "The dates here are good, and they come from bodies rather than from objects. Ötzi, found in glacial ice in the Alps and dated to 3250 BCE, carried 61 tattoos; radiological examination showed age- or strain-induced degeneration of his bones — osteochondrosis and slight spondylosis in the lumbar spine, wear in the knee and especially the ankle — corresponding to many of the tattooed areas, which has been read as a form of pain treatment. In 2018 the oldest figurative tattoos in the world were identified on two Egyptian mummies dated between 3351 and 3017 BCE. One of them, the naturally mummified Gebelein man from a shallow grave in upper Egypt, has two overlapping tattoos on his right forearm: a bovine, and another horned animal. He was eighteen to twenty-one when he died, so he was marked young.\n\nBy 500 BCE men in Nubia were tattooed, typically on the hands or arms and rarely on the face. A female mummy from Aksha, dated to the fourth century BCE, carries a tattoo of Bes on her thigh — Bes, the dwarfed god associated with fertility and childbirth, was a popular image tattooed onto women in both Egypt and Nubia.\n\nSoutheast Asia runs the largest living version. Sak yant originates in the Khmer Empire around the ninth century, built on indigenous mainland Southeast Asian animist tattooing practices dating back as far as 2,500 BCE, with designs influenced by Indian yantras. Sak is a native Khmer word from the Proto Mon-Khmer root *cɔkʔ, 'to prick'; yant is the sacred geometry. Carriers name three effects: something that benefits the wearer, such as eloquence; protection, which the account says is used by military personnel, police, taxi drivers and others in dangerous work; and an effect on people nearby, such as invoking fear.\n\nElsewhere the mark is a declaration. Many Copts have the cross tattooed on the inside of the right arm at the wrist as a sign of faith. Catholic Croats of Bosnia, especially children and women, used sicanje for protection against conversion to Islam during Ottoman rule. Among Austronesian societies tattoos were regarded as magical wards against dangers including evil spirits and illnesses, and in Rajasthan they were held to protect the wearer from evil spirits and bring good fortune.\n\n*Inference —* every dated charm in this record comes from a body that did not rot. Ice, desert sand and deliberate mummification are the only three conditions under which this material reaches an excavator, and each of them is rare. Forensic pathologists note the other half of it: pigment lies encapsulated deep in the skin, so tattoos are not easily destroyed even when the skin is burned. The material survives; the person has to survive first.",
+  "how": "Some traditions cut the design into the skin and rub the wound with ink, ashes or other agents, as an adjunct to scarification. Others hand-tap the ink in with sharpened sticks or animal bone needles fitted with clay discs, or, now, actual needles. The modern electric machine drives its needles in and out 80 to 150 times a second.",
+  "today": "Two arguments are running. In 2011 Thailand's Culture Ministry sought to stop the tattooing of Buddha images on foreign visitors; the ministry's position and the tattooists' were both reported at the time, and this atlas prints the disagreement rather than settling it. The other argument is chemical: the European Chemicals Agency has proposed restricting the intentional use or concentration of about 4,000 substances in tattoo inks, the EU Observatory for Nanomaterials has raised nanotoxicological concerns about modern inks, and an analysis in the European Union in October 2024 found that nine out of ten blue and green inks sold were not compliant with the REACH legislation. A 2025 United States opinion poll found 37 per cent held favourable and 26 per cent unfavourable views of tattoos."
+ },
+ "restricted": {
+  "note": "This record does not print which yant a master gives to which person, the conditions attached to a given design, or the words said over it. The tradition itself makes that the point: the cited account states that a yantra tattoo confers its powers only so long as the bearer observes rules and taboos set for them, such as abstaining from a particular food. Those rules are given to a named person by a named master, and they are not ours to publish as a list.",
+  "who_says": "the practice's own rule, as reported in the cited account of yantra tattooing",
+  "source": "s:wp-yantra-tattooing",
+  "url": "https://en.wikipedia.org/wiki/Yantra_tattooing"
+ },
+ "dating": {
+  "period": "Predynastic Egypt to the present",
+  "from_year": -3350,
+  "to_year": null,
+  "living": true,
+  "label": "c. 3351 BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-tattoo",
+  "note": "Dated from the Gebelein man and the second Egyptian mummy, radiocarbon dated between 3351 and 3017 BCE, which in 2018 were identified as the oldest figurative tattoos known. Ötzi, at 3250 BCE, is the oldest tattooed body in Europe. The cited account of sak yant refers to indigenous mainland Southeast Asian tattooing dating back as far as 2,500 BCE, which this record does not use as a floor because no dated body is named for it."
+ },
+ "object": {
+  "form": "tattoo",
+  "materials": [
+   "skin",
+   "ink"
+  ],
+  "worn": [
+   "skin",
+   "upper-arm",
+   "wrist",
+   "chest",
+   "head"
+  ],
+  "made_by": "in the sak yant tradition, a master who sets the bearer's rules with the design",
+  "script": "Khmer in Cambodia; Khom, derived from Khmer, in central Thailand; Shan, northern Thai or Tai Lu in northern Thailand; Lao Tham in Laos",
+  "source": "s:wp-yantra-tattooing"
+ },
+ "against": [
+  {
+   "harm": "weapons",
+   "who": "sak yant wearers in dangerous work — the cited account names military personnel, police and taxi drivers",
+   "source": "s:wp-yantra-tattooing",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "Austronesian carriers, among whom tattoos were regarded as wards against evil spirits and illnesses, and tattooed people in Rajasthan",
+   "source": "s:wp-tattoo",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "readings of Ötzi's 61 tattoos, which correspond to areas of degeneration in his bones and have been read as pain treatment",
+   "source": "s:wp-tattoo",
+   "tier": "cited",
+   "note": "an interpretation by the researchers, reported as such"
+  },
+  {
+   "harm": "childbirth",
+   "who": "women in Egypt and Nubia tattooed with Bes, the god associated with fertility and childbirth",
+   "source": "s:wp-tattoo",
+   "tier": "cited"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "Catholic Croats of Bosnia, who used sicanje against forced conversion under Ottoman rule",
+   "source": "s:wp-tattoo",
+   "tier": "cited",
+   "note": "the harm named in the source is conversion, not witchcraft; this row is filed under the nearest available key and the prose gives the actual claim"
+  }
+ ],
+ "kin": [
+  {
+   "to": "sak-yant",
+   "as": "the largest living tradition written in this material, and the one that sets rules the bearer has to keep for it to hold",
+   "rel": "carried-by"
+  },
+  {
+   "to": "coptic-cross-tattoo",
+   "as": "the same material used as a declaration rather than a shield — inside the right wrist, where it will be seen",
+   "rel": "carried-by"
+  },
+  {
+   "to": "ink",
+   "as": "what is actually driven in; skin is the ground, ink is the mark",
+   "rel": "material"
+  },
+  {
+   "to": "tattooing",
+   "as": "the practice that makes it, from cut-and-rub to hand-tapping to a machine at 80 to 150 strokes a second",
+   "rel": "practice"
+  },
+  {
+   "to": "bes-amulet",
+   "as": "the same god, worn as a pendant in Egypt and cut into a woman's thigh at Aksha in the fourth century BCE",
+   "rel": "parallel"
+  },
+  {
+   "to": "yantra-plate",
+   "as": "the same sacred geometry on cloth or metal, put in a house or a vehicle instead of into a person",
+   "rel": "contrast"
+  },
+  {
+   "to": "wearing-hidden",
+   "as": "the opposite instruction: this material cannot be taken off, so hiding it means covering it",
+   "rel": "contrast"
+  },
+  {
+   "to": "yant-flash",
+   "as": "the drawn designs, which is as far as this atlas goes in showing them",
+   "rel": "art"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the long read behind this record's restricted block",
+   "rel": "story"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read the 2011 Thai argument belongs to",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Yantra tattooing — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra_tattooing"
+  },
+  {
+   "label": "Tattoo — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tattoo"
+  }
+ ],
+ "sources": [
+  "s:wp-tattoo",
+  "s:wp-yantra-tattooing",
+  "s:wp-coptic-cross",
+  "s:wp-bes",
+  "s:web-ap-buddha-tattoo-ban",
+  "s:web-saiyasombut-religious-tattoos"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-tattoo"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-tattoo",
+    "note": "the closing paragraph on survival conditions is this project's inference and is marked in the text"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:web-ap-buddha-tattoo-ban"
+   },
+   "restricted": {
+    "tier": "cited",
+    "source": "s:wp-yantra-tattooing"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Sak Yant.jpg",
+  "File:Coptic cross tattoo.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-17",
+ "blurb": "The only amulet material a person cannot put down. Pigment is driven into the dermis — the layer of skin under the surface — where macrophages engulf it and hold it in a band just below the boundary between the two…",
+ "region_terms": [
+  {
+   "key": "mainland-sea",
+   "name": "Mainland Southeast Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Nile valley and delta, Predynastic through Roman Egypt"
+  },
+  {
+   "key": "nubia-sudan",
+   "name": "Nubia and Sudan",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "western-europe",
+   "name": "Western Europe",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "balkans",
+   "name": "The Balkans",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "island-sea",
+   "name": "Island Southeast Asia",
+   "hemi": [
+    "N",
+    "S",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "sak-yant",
+   "type": "amulet",
+   "name": "Sak yant",
+   "as": "the largest living tradition written in this material, and the one that sets rules the bearer has to keep for it to hold",
+   "rel": "carried-by"
+  },
+  {
+   "to": "coptic-cross-tattoo",
+   "type": "amulet",
+   "name": "Coptic cross tattoo",
+   "as": "the same material used as a declaration rather than a shield — inside the right wrist, where it will be seen",
+   "rel": "carried-by"
+  },
+  {
+   "to": "ink",
+   "type": "material",
+   "name": "Ink",
+   "as": "what is actually driven in; skin is the ground, ink is the mark",
+   "rel": "material"
+  },
+  {
+   "to": "tattooing",
+   "type": "practice",
+   "name": "Tattooing",
+   "as": "the practice that makes it, from cut-and-rub to hand-tapping to a machine at 80 to 150 strokes a second",
+   "rel": "practice"
+  },
+  {
+   "to": "bes-amulet",
+   "type": "amulet",
+   "name": "Bes amulet",
+   "as": "the same god, worn as a pendant in Egypt and cut into a woman's thigh at Aksha in the fourth century BCE",
+   "rel": "parallel"
+  },
+  {
+   "to": "yantra-plate",
+   "type": "amulet",
+   "name": "Yantra plate",
+   "as": "the same sacred geometry on cloth or metal, put in a house or a vehicle instead of into a person",
+   "rel": "contrast"
+  },
+  {
+   "to": "wearing-hidden",
+   "type": "practice",
+   "name": "Wearing hidden",
+   "as": "the opposite instruction: this material cannot be taken off, so hiding it means covering it",
+   "rel": "contrast"
+  },
+  {
+   "to": "yant-flash",
+   "type": "art",
+   "name": "Yant flash",
+   "as": "the drawn designs, which is as far as this atlas goes in showing them",
+   "rel": "art"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "type": "story",
+   "name": "What this atlas does not print",
+   "as": "the long read behind this record's restricted block",
+   "rel": "story"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read the 2011 Thai argument belongs to",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-tattoo",
+   "kind": "encyclopedia",
+   "title": "Tattoo",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tattoo",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-yantra-tattooing",
+   "kind": "encyclopedia",
+   "title": "Yantra tattooing",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra_tattooing",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-coptic-cross",
+   "kind": "encyclopedia",
+   "title": "Coptic cross",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Coptic_cross",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-bes",
+   "kind": "encyclopedia",
+   "title": "Bes",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bes",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-ap-buddha-tattoo-ban",
+   "kind": "news",
+   "title": "Thailand seeks to ban tourists' Buddha tattoos",
+   "author": "Sinfah Tunsarawuth and Todd Pitman",
+   "publisher": "The Associated Press, via NBC News",
+   "date": "2011-06-02",
+   "url": "https://www.nbcnews.com/id/wbna43249699",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-saiyasombut-religious-tattoos",
+   "kind": "web",
+   "title": "Thai Culture Ministry to crack down on religious tattoos on foreign skin",
+   "author": "Saksith Saiyasombut",
+   "publisher": "Siam Voices, republished at saiyasombut.com",
+   "date": "2011-05-31",
+   "url": "https://saiyasombut.com/blog/2011/06/02/thai-culture-ministry-to-crack-down-on-religious-tattoos-on-foreign-skin",
+   "accessed": "2026-09-16"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-tattoo"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-tattoo",
+   "note": "the closing paragraph on survival conditions is this project's inference and is marked in the text"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-tattoo"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:web-ap-buddha-tattoo-ban"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-tattoo"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-tattoo"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "weapons",
+   "label": "Blades and bullets",
+   "gloss": "invulnerability charms; reported, never recommended",
+   "who": "sak yant wearers in dangerous work — the cited account names military personnel, police and taxi drivers",
+   "quote": "",
+   "source": "s:wp-yantra-tattooing",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "Austronesian carriers, among whom tattoos were regarded as wards against evil spirits and illnesses, and tattooed people in Rajasthan",
+   "quote": "",
+   "source": "s:wp-tattoo",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "readings of Ötzi's 61 tattoos, which correspond to areas of degeneration in his bones and have been read as pain treatment",
+   "quote": "",
+   "source": "s:wp-tattoo",
+   "tier": "cited",
+   "note": "an interpretation by the researchers, reported as such"
+  },
+  {
+   "key": "childbirth",
+   "label": "Death in childbirth",
+   "who": "women in Egypt and Nubia tattooed with Bes, the god associated with fertility and childbirth",
+   "quote": "",
+   "source": "s:wp-tattoo",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "witchcraft",
+   "label": "Another person's sorcery",
+   "who": "Catholic Croats of Bosnia, who used sicanje against forced conversion under Ottoman rule",
+   "quote": "",
+   "source": "s:wp-tattoo",
+   "tier": "cited",
+   "note": "the harm named in the source is conversion, not witchcraft; this row is filed under the nearest available key and the prose gives the actual claim"
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "skin",
+   "label": "Skin",
+   "kind": "organic",
+   "note": "the tattooed charm"
+  },
+  {
+   "key": "ink",
+   "label": "Ink",
+   "kind": "written"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "skin",
+   "label": "In the skin",
+   "group": "body",
+   "note": "tattooed"
+  },
+  {
+   "key": "upper-arm",
+   "label": "On the upper arm",
+   "group": "body"
+  },
+  {
+   "key": "wrist",
+   "label": "On the wrist",
+   "group": "body"
+  },
+  {
+   "key": "chest",
+   "label": "On the chest, under the shirt",
+   "group": "body"
+  },
+  {
+   "key": "head",
+   "label": "On the head",
+   "group": "body"
+  }
+ ],
+ "form_fact": {
+  "key": "tattoo",
+  "label": "Tattoo"
+ },
+ "holding_facts": [],
+ "span": "3351 BCE to now",
+ "country_names": [
+  {
+   "iso": "TH",
+   "name": "Thailand"
+  },
+  {
+   "iso": "KH",
+   "name": "Cambodia"
+  },
+  {
+   "iso": "LA",
+   "name": "Laos"
+  },
+  {
+   "iso": "MM",
+   "name": "Myanmar"
+  },
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  },
+  {
+   "iso": "SD",
+   "name": "Sudan"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "AT",
+   "name": "Austria"
+  },
+  {
+   "iso": "BA",
+   "name": "Bosnia and Herz."
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  },
+  {
+   "iso": "PH",
+   "name": "Philippines"
+  },
+  {
+   "iso": "PK",
+   "name": "Pakistan"
+  },
+  {
+   "iso": "AF",
+   "name": "Afghanistan"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "caul",
+   "type": "amulet",
+   "name": "Caul",
+   "as": "what it is, and the reason so few survive",
+   "rel": "material"
+  },
+  {
+   "from": "coptic-cross-tattoo",
+   "type": "amulet",
+   "name": "Coptic cross tattoo",
+   "as": "the material, which is also the wearer",
+   "rel": "material"
+  },
+  {
+   "from": "sak-yant",
+   "type": "amulet",
+   "name": "Sak yant",
+   "as": "the material this one is made of, which is what makes the argument about who may receive it sharp",
+   "rel": "material"
+  },
+  {
+   "from": "ink",
+   "type": "material",
+   "name": "Ink",
+   "as": "the ground ink is driven into when the charm is meant never to wash off",
+   "rel": "material"
+  },
+  {
+   "from": "parchment",
+   "type": "material",
+   "name": "Parchment",
+   "as": "the same substance, on a living body instead of a scraped one",
+   "rel": "kin"
+  },
+  {
+   "from": "tattooing",
+   "type": "practice",
+   "name": "Tattooing",
+   "as": "the material, which is also the wearer — the reason this practice has rules no object needs",
+   "rel": "material"
+  }
+ ]
+}

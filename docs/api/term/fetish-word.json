@@ -1,0 +1,364 @@
+{
+ "schema": 1,
+ "id": "fetish-word",
+ "type": "term",
+ "names": {
+  "name": "fetish",
+  "said": "FET-ish",
+  "aliases": [
+   "feitiço",
+   "Fetisso",
+   "fétiche",
+   "fatisso",
+   "fetishism"
+  ]
+ },
+ "etymology": {
+  "root": "Latin facticius 'made by art, artificial' (William Pietz points instead to facere, 'to make') > late medieval Portuguese feitiço 'spell' > sixteenth-century pidgin Fetisso on the West African coast > French fétiche > English fetish",
+  "first_attested": "1610s in English, as fatisso (Online Etymology Dictionary)",
+  "note": "The Latin root is itself disputed. Pietz points to facere; the philosopher Charles de Brosses, who is credited as the source of the term fetishism, traced it to fatum, fanum and fari. Some scholars read that instability as symptomatic of the concept's own confusion between what is enchanted and what is manufactured.",
+  "tier": "cited",
+  "source": "s:wp-fetishism"
+ },
+ "region": [
+  "west-africa",
+  "western-europe",
+  "central-africa"
+ ],
+ "countries": [
+  "PT",
+  "FR",
+  "GB",
+  "TG",
+  "BJ"
+ ],
+ "facets": {
+  "language": [
+   "English",
+   "Portuguese",
+   "French"
+  ]
+ },
+ "text": {
+  "what": "A European word, applied from outside, to objects Europeans met on the West African coast and could not file. This atlas carries the word for its own history and for nothing else: no object anywhere in this project is described as a fetish. What the word describes is an act of labelling, and the labelling had consequences — it supplied the bottom rung of a ladder of religions that European writers then climbed, with themselves at the top.",
+  "story": "William Pietz, whose 1994 ethno-historical study is the standard account, argues the term originated on the coast of West Africa in the sixteenth and seventeenth centuries, in the encounter itself. He keeps two things apart: actual African objects that Europeans called fetishes, together with the local theories of those objects, and 'fetish' as an idea about a kind of object. The second is European property.\n\nHe traces the chain in one sentence: from the late medieval Portuguese feitiço, to the sixteenth-century pidgin Fetisso on the African coast, to various northern European versions of the word by way of the 1602 text of the Dutchman Pieter de Marees. The Portuguese developed the concept for objects used in West African religious practice. What went into the category was then decided by exclusion: objects were classed as fetishes indiscriminately because, from a European standpoint, they did not fit anywhere else.\n\nThe travel literature spread it. Ramusio's Viaggio e Navigazioni of 1550, de Bry's India Orientalis of 1597, Purchas's Hakluytus Posthumus of 1625, Churchill's Collection of Voyages and Travels of 1732, Astley's A New General Collection of Voyages and Travels of 1746, Prevost's Histoire générale des voyages of 1748: these are the books the eighteenth-century theorists read.\n\nThen it became a theory. Charles de Brosses popularised the term around 1760, in Du culte des dieux fétiches, comparing West African religion with the magical side of ancient Egyptian religion. Auguste Comte put fetishism first in his sequence of religious development, ahead of polytheism and monotheism. G. W. F. Hegel, in Lectures on the Philosophy of History, held that Africans were incapable of abstract thought and that a fetish object could therefore be anything arbitrarily given 'imaginary powers'. Modern scholarship reads the whole sequence as colonial: the Portuguese, Dutch and British deployed the category to criticise how colonised people dealt with material objects, and built European rationality by contrast.\n\nThe word then kept moving away from the coast. Around 1837 it meant an object of blind devotion among the New England Transcendentalists. In 1897 Havelock Ellis fixed the psycho-sexual sense, which is the sense most English speakers now hear first.\n\nAnd it did not stay only in European mouths. The market at Akodessawa, a district of Lomé in Togo, carries the word in its own French name: Marché des Féticheurs. Wikipedia's account of it says the market sells fetishes used in vodún religious practice. *Inference —* a word coined about people can be taken up by them, for trade, for tourism, or because it is the word the customer knows. That does not undo the coinage, and this atlas still does not use it to describe an object.\n\n*Tradition holds —* the objects themselves have their own names in their own languages — nkisi among Kikongo speakers is the clearest case — and those names are what this project files them under."
+ },
+ "dating": {
+  "from_year": 1610,
+  "to_year": null,
+  "living": true,
+  "label": "in English from the 1610s",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:web-etymonline-fetish"
+ },
+ "kin": [
+  {
+   "to": "nkisi",
+   "as": "the Kikongo word for objects Europeans filed under this one — the name the makers use, and the one this atlas uses",
+   "rel": "contrast"
+  },
+  {
+   "to": "bakongo-nkisi-craft",
+   "as": "the tradition most damaged by the labelling, and the one whose vocabulary replaces it here",
+   "rel": "tradition"
+  },
+  {
+   "to": "akodessewa-market",
+   "as": "the market in Lomé that carries the word in its own French name, which is the complication this record cannot tidy away",
+   "rel": "place"
+  },
+  {
+   "to": "juju-word",
+   "as": "the other outsiders' word for West African practice, contested in the same way and still current",
+   "rel": "contrast"
+  },
+  {
+   "to": "vodou-not-voodoo",
+   "as": "the neighbouring case: a religion renamed by the people describing it, with a spelling to match",
+   "rel": "contrast"
+  },
+  {
+   "to": "amulet-word",
+   "as": "the cover-word Europeans used for their own protective objects while this one was used for other people's",
+   "rel": "contrast"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read this record feeds: who gets to name a thing, and what the naming does",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Fetishism — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fetishism"
+  }
+ ],
+ "sources": [
+  "s:wp-fetishism",
+  "s:web-etymonline-fetish",
+  "s:wp-akodessawa-fetish-market",
+  "s:wp-nkisi",
+  "s:wp-cultural-appropriation"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-fetishism"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-fetishism",
+    "note": "Pietz, de Brosses, Comte and Hegel are from the cited article; the Akodessawa paragraph's reading is marked inference where it appears"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A European word, applied from outside, to objects Europeans met on the West African coast and could not file.",
+ "region_terms": [
+  {
+   "key": "west-africa",
+   "name": "West Africa",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "western-europe",
+   "name": "Western Europe",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "central-africa",
+   "name": "Central Africa",
+   "hemi": [
+    "N",
+    "S",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "nkisi",
+   "type": "amulet",
+   "name": "Nkisi",
+   "as": "the Kikongo word for objects Europeans filed under this one — the name the makers use, and the one this atlas uses",
+   "rel": "contrast"
+  },
+  {
+   "to": "bakongo-nkisi-craft",
+   "type": "tradition",
+   "name": "Bakongo nkisi craft",
+   "as": "the tradition most damaged by the labelling, and the one whose vocabulary replaces it here",
+   "rel": "tradition"
+  },
+  {
+   "to": "akodessewa-market",
+   "type": "place",
+   "name": "Akodessawa fetish market",
+   "as": "the market in Lomé that carries the word in its own French name, which is the complication this record cannot tidy away",
+   "rel": "place"
+  },
+  {
+   "to": "juju-word",
+   "type": "term",
+   "name": "juju",
+   "as": "the other outsiders' word for West African practice, contested in the same way and still current",
+   "rel": "contrast"
+  },
+  {
+   "to": "vodou-not-voodoo",
+   "type": "term",
+   "name": "Vodou and Vodún — and the spelling this atlas does not use",
+   "as": "the neighbouring case: a religion renamed by the people describing it, with a spelling to match",
+   "rel": "contrast"
+  },
+  {
+   "to": "amulet-word",
+   "type": "term",
+   "name": "amulet",
+   "as": "the cover-word Europeans used for their own protective objects while this one was used for other people's",
+   "rel": "contrast"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read this record feeds: who gets to name a thing, and what the naming does",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-fetishism",
+   "kind": "encyclopedia",
+   "title": "Fetishism",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fetishism",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-etymonline-fetish",
+   "kind": "web",
+   "title": "fetish — Etymology, Origin & Meaning",
+   "publisher": "Online Etymology Dictionary (Douglas Harper)",
+   "url": "https://www.etymonline.com/word/fetish",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-akodessawa-fetish-market",
+   "kind": "encyclopedia",
+   "title": "Akodessawa Fetish Market",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Akodessawa_Fetish_Market",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-nkisi",
+   "kind": "encyclopedia",
+   "title": "Nkisi",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nkisi",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cultural-appropriation",
+   "kind": "encyclopedia",
+   "title": "Cultural appropriation",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cultural_appropriation",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-fetishism"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-fetishism",
+   "note": "Pietz, de Brosses, Comte and Hegel are from the cited article; the Akodessawa paragraph's reading is marked inference where it appears"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-fetishism"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-fetishism"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1610 CE to now",
+ "country_names": [
+  {
+   "iso": "PT",
+   "name": "Portugal"
+  },
+  {
+   "iso": "FR",
+   "name": "France"
+  },
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "TG",
+   "name": "Togo"
+  },
+  {
+   "iso": "BJ",
+   "name": "Benin"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "nkisi",
+   "type": "amulet",
+   "name": "Nkisi",
+   "as": "the European label applied to this object from outside, and the word's own history — which is about Portuguese traders on the West African coast, not about Kongo practice",
+   "rel": "term"
+  },
+  {
+   "from": "bakongo-nkisi-craft",
+   "type": "tradition",
+   "name": "Bakongo nkisi craft",
+   "as": "the European label applied to these objects from outside, with its own sixteenth-century coastal history",
+   "rel": "term"
+  },
+  {
+   "from": "west-african-charm-craft",
+   "type": "tradition",
+   "name": "West African charm craft",
+   "as": "the European label stuck on this whole region's objects from the sixteenth century on, and the market in Lomé that now carries it as a name",
+   "rel": "term"
+  },
+  {
+   "from": "akodessewa-market",
+   "type": "place",
+   "name": "Akodessawa fetish market",
+   "as": "the word in this market's own French name, and an argument older than the market",
+   "rel": "same-word"
+  },
+  {
+   "from": "amulet-word",
+   "type": "term",
+   "name": "amulet",
+   "as": "the other European cover-word for other people's objects — and the one this atlas uses for its own history only",
+   "rel": "contrast"
+  },
+  {
+   "from": "juju-word",
+   "type": "term",
+   "name": "juju",
+   "as": "the earlier European coinage for the same coast, and the one that hardened into a theory of religion",
+   "rel": "contrast"
+  },
+  {
+   "from": "mojo-word",
+   "type": "term",
+   "name": "mojo",
+   "as": "what European writers called the objects this word names, before anyone asked the makers",
+   "rel": "contrast"
+  },
+  {
+   "from": "vodou-not-voodoo",
+   "type": "term",
+   "name": "Vodou and Vodún — and the spelling this atlas does not use",
+   "as": "the older European coinage aimed at the same coast, and the one that hardened into a theory of religion",
+   "rel": "contrast"
+  }
+ ]
+}

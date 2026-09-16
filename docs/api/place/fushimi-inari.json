@@ -1,0 +1,388 @@
+{
+ "schema": 1,
+ "id": "fushimi-inari",
+ "type": "place",
+ "names": {
+  "name": "Fushimi Inari-taisha",
+  "native": "伏見稲荷大社",
+  "script": "Han",
+  "lang": "ja",
+  "said": "foo-shee-mee EE-na-ree TIGH-sha",
+  "aliases": [
+   "Fushimi Inari Shrine",
+   "Oinari-san"
+  ]
+ },
+ "region": [
+  "japan"
+ ],
+ "countries": [
+  "JP"
+ ],
+ "facets": {
+  "kind": "shrine",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "The head shrine of Inari, at the foot of a 233-metre mountain in Fushimi-ku, Kyoto. Paths climb four kilometres to smaller shrines, roofed most of the way by torii gates — roughly 10,000 of them, each one paid for by a Japanese business, about 800 set close enough together to make a tunnel. Tens of thousands of rock altars, otsuka, stand along the way, set up by private people and cut with their own names for Inari.",
+  "story": "The shrine was formally founded in 711 CE by the Hata clan, immigrants from the Korean peninsula who brought irrigation, sericulture and sake brewing into Yamashiro. The Yamashiro fudoki tells it as an arrow, a rice cake that turned into a white bird, and rice growing where the bird came down. Inari began as the kami of rice and agriculture and stays that; merchants took Inari up as the patron of business, which is why the gates are donated by companies.\n\nDonating a torii to have a wish granted, or in thanks for one granted, spread from the Edo period onward and has not stopped. Unlike most Shinto shrines, this one leaves the main object of worship — a mirror — in open view. Foxes stand at the gates as Inari's messengers, often with a granary key in the mouth.\n\nThe shrine was in the first rank of state-supported shrines from 1871 to 1946. Police counted 2.69 million worshippers over three days of the new year in 2006, the largest count in western Japan. Around 32,000 branch shrines carry Inari elsewhere in the country.\n\nOn the approach, sweet shops sell tsujiura senbei, a folded fortune cracker documented at least to the 19th century and argued to be the ancestor of the American fortune cookie.\n\n*Inference —* an omamori bought at a shrine gate is the shrine's own object, and a head shrine of this size is one of the places the practice runs at scale. This atlas has read no published stock list for this shrine's own counter, so the charm records below are linked as kin rather than as inventory.",
+  "today": "Open, with no entrance fee. The approach and the main hall are lit all night."
+ },
+ "dating": {
+  "period": "Nara to the present",
+  "from_year": 711,
+  "to_year": null,
+  "living": true,
+  "label": "711 CE to now",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-fushimi-inari-taisha",
+  "note": "The traditional foundation date; the earliest structures are dated to 711 on Inariyama, with a relocation in 816 and the main structure built in 1499."
+ },
+ "geo": {
+  "lat": 34.96722,
+  "lon": 135.77278,
+  "precision": "exact",
+  "source": "the coordinate published in the English Wikipedia article Fushimi Inari-taisha, read 2026-09-16"
+ },
+ "address": {
+  "city": "Kyoto",
+  "admin": "Fushimi-ku",
+  "country": "JP"
+ },
+ "hours": {
+  "open": [
+   "Mo",
+   "Tu",
+   "We",
+   "Th",
+   "Fr",
+   "Sa",
+   "Su"
+  ],
+  "text": "Open 24 hours; the approach and the main hall are illuminated all night. No entrance fee.",
+  "source": "s:wp-fushimi-inari-taisha",
+  "tier": "cited",
+  "url": "https://en.wikipedia.org/wiki/Fushimi_Inari-taisha",
+  "note": "Taken from the encyclopedia article, not from the shrine's own page, which this project has not read. No day is marked closed, because none is published as closed."
+ },
+ "kin": [
+  {
+   "to": "omamori",
+   "as": "the brocade packet a shrine issues and renews each year; this is the head shrine of the kami most of Japan asks for business luck",
+   "rel": "carries"
+  },
+  {
+   "to": "ofuda",
+   "as": "the paper or wood tablet taken home to the house shelf from a shrine like this one",
+   "rel": "carries"
+  },
+  {
+   "to": "omikuji",
+   "as": "the drawn fortune, cousin of the folded senbei cracker sold on this approach since the 19th century",
+   "rel": "carries"
+  },
+  {
+   "to": "japanese-engimono",
+   "as": "the tradition of luck-bringing objects this shrine's counter belongs to",
+   "rel": "tradition"
+  },
+  {
+   "to": "maneki-neko",
+   "as": "the beckoning cat a shop keeps for the same reason a company pays for a torii here",
+   "rel": "parallel"
+  },
+  {
+   "to": "mirror-sign",
+   "as": "the sign in the sanctuary — Inari shrines leave the mirror in open view",
+   "rel": "motif"
+  },
+  {
+   "to": "blessing-at-a-shrine",
+   "as": "the practice, at the scale of 32,000 branch shrines",
+   "rel": "practice"
+  },
+  {
+   "to": "senso-ji",
+   "as": "the other end of Japan's charm trade in this atlas: a temple approach lined with 72 shops rather than a mountain of gates",
+   "rel": "parallel"
+  }
+ ],
+ "tags": [
+  {
+   "tag": "free-entry",
+   "source": "s:wp-fushimi-inari-taisha",
+   "tier": "cited",
+   "note": "the article states there is no entrance fee; this project has not read the shrine's own admissions page"
+  },
+  {
+   "tag": "pilgrimage",
+   "source": "s:wp-fushimi-inari-taisha",
+   "tier": "cited",
+   "note": "a four-kilometre mountain circuit of sub-shrines and rock altars, walked by millions at the new year"
+  }
+ ],
+ "links": [
+  {
+   "label": "Fushimi Inari-taisha — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fushimi_Inari-taisha"
+  }
+ ],
+ "sources": [
+  "s:wp-fushimi-inari-taisha",
+  "s:wp-omamori",
+  "s:wp-o-mikuji"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-fushimi-inari-taisha"
+  },
+  "fields": {
+   "geo": {
+    "tier": "cited",
+    "source": "s:wp-fushimi-inari-taisha",
+    "note": "the article's own coordinate, read 2026-09-16"
+   },
+   "hours": {
+    "tier": "cited",
+    "source": "s:wp-fushimi-inari-taisha",
+    "note": "from the encyclopedia, not from the shrine; no closure is claimed"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Fushimi Inari-taisha, senbon torii.jpg",
+  "File:Fushimi Inari Taisha fox statue.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "The head shrine of Inari, at the foot of a 233-metre mountain in Fushimi-ku, Kyoto.",
+ "region_terms": [
+  {
+   "key": "japan",
+   "name": "Japan",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "omamori",
+   "type": "amulet",
+   "name": "Omamori",
+   "as": "the brocade packet a shrine issues and renews each year; this is the head shrine of the kami most of Japan asks for business luck",
+   "rel": "carries"
+  },
+  {
+   "to": "ofuda",
+   "type": "amulet",
+   "name": "Ofuda",
+   "as": "the paper or wood tablet taken home to the house shelf from a shrine like this one",
+   "rel": "carries"
+  },
+  {
+   "to": "omikuji",
+   "type": "amulet",
+   "name": "Omikuji",
+   "as": "the drawn fortune, cousin of the folded senbei cracker sold on this approach since the 19th century",
+   "rel": "carries"
+  },
+  {
+   "to": "japanese-engimono",
+   "type": "tradition",
+   "name": "Engimono",
+   "as": "the tradition of luck-bringing objects this shrine's counter belongs to",
+   "rel": "tradition"
+  },
+  {
+   "to": "maneki-neko",
+   "type": "amulet",
+   "name": "Maneki-neko",
+   "as": "the beckoning cat a shop keeps for the same reason a company pays for a torii here",
+   "rel": "parallel"
+  },
+  {
+   "to": "mirror-sign",
+   "type": "motif",
+   "name": "The mirror",
+   "as": "the sign in the sanctuary — Inari shrines leave the mirror in open view",
+   "rel": "motif"
+  },
+  {
+   "to": "blessing-at-a-shrine",
+   "type": "practice",
+   "name": "Blessing at a shrine",
+   "as": "the practice, at the scale of 32,000 branch shrines",
+   "rel": "practice"
+  },
+  {
+   "to": "senso-ji",
+   "type": "place",
+   "name": "Sensō-ji",
+   "as": "the other end of Japan's charm trade in this atlas: a temple approach lined with 72 shops rather than a mountain of gates",
+   "rel": "parallel"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-fushimi-inari-taisha",
+   "kind": "encyclopedia",
+   "title": "Fushimi Inari-taisha",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fushimi_Inari-taisha",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-omamori",
+   "kind": "encyclopedia",
+   "title": "Omamori",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Omamori",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-o-mikuji",
+   "kind": "encyclopedia",
+   "title": "O-mikuji",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/O-mikuji",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-fushimi-inari-taisha"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-fushimi-inari-taisha"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-fushimi-inari-taisha"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-fushimi-inari-taisha"
+  },
+  "geo": {
+   "tier": "cited",
+   "source": "s:wp-fushimi-inari-taisha",
+   "note": "the article's own coordinate, read 2026-09-16"
+  },
+  "address": {
+   "tier": "cited",
+   "source": "s:wp-fushimi-inari-taisha"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [
+  {
+   "key": "free-entry",
+   "label": "Free to enter",
+   "group": "visit",
+   "evidence": "the institution's own admissions page",
+   "source": "s:wp-fushimi-inari-taisha",
+   "note": "the article states there is no entrance fee; this project has not read the shrine's own admissions page",
+   "tier": "cited",
+   "url": ""
+  },
+  {
+   "key": "pilgrimage",
+   "label": "A pilgrimage site",
+   "group": "visit",
+   "evidence": "the site's own description or a named study",
+   "source": "s:wp-fushimi-inari-taisha",
+   "note": "a four-kilometre mountain circuit of sub-shrines and rock altars, walked by millions at the new year",
+   "tier": "cited",
+   "url": ""
+  }
+ ],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "711 CE to now",
+ "country_names": [
+  {
+   "iso": "JP",
+   "name": "Japan"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "exam-charm",
+   "type": "amulet",
+   "name": "Exam charm",
+   "as": "one shrine where the charm counter is a shop floor and the scale of the trade is visible from the queue",
+   "rel": "place"
+  },
+  {
+   "from": "ofuda",
+   "type": "amulet",
+   "name": "Ofuda",
+   "as": "one of the shrines that issues its own alongside the Ise talisman",
+   "rel": "place"
+  },
+  {
+   "from": "omamori",
+   "type": "amulet",
+   "name": "Omamori",
+   "as": "the shrine whose New Year crowds are the clearest published measure of what this trade moves — 2.69 million over three days in 2006",
+   "rel": "place"
+  },
+  {
+   "from": "omikuji",
+   "type": "amulet",
+   "name": "Omikuji",
+   "as": "one of the shrines the racks of folded slips stand in, thickest at New Year",
+   "rel": "place"
+  },
+  {
+   "from": "japanese-engimono",
+   "type": "tradition",
+   "name": "Engimono",
+   "as": "the counter at the scale of 32,000 branch shrines",
+   "rel": "place"
+  },
+  {
+   "from": "blessing-at-a-shrine",
+   "type": "practice",
+   "name": "Blessing at a shrine",
+   "as": "the practice at the scale of 32,000 branch shrines",
+   "rel": "place"
+  },
+  {
+   "from": "senso-ji",
+   "type": "place",
+   "name": "Sensō-ji",
+   "as": "the Kyoto shrine at the other scale — a mountain of donated gates instead of a street of shops",
+   "rel": "parallel"
+  },
+  {
+   "from": "omamori-word",
+   "type": "term",
+   "name": "omamori",
+   "as": "one of the shrines the word is bought at, at the scale that makes factories an issue",
+   "rel": "place"
+  }
+ ]
+}

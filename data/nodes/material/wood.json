@@ -1,0 +1,219 @@
+{
+ "schema": 1,
+ "id": "wood",
+ "type": "material",
+ "names": {
+  "name": "Wood",
+  "native": "絵馬",
+  "script": "Han",
+  "lang": "ja",
+  "said": "ema, 'picture-horse', the wooden plaque hung at a shrine",
+  "aliases": [
+   "timber",
+   "board",
+   "slate",
+   "kifuda",
+   "carved figure"
+  ]
+ },
+ "region": [
+  "japan",
+  "britain-ireland",
+  "west-africa",
+  "central-africa",
+  "mesoamerica",
+  "north-america",
+  "nordic"
+ ],
+ "countries": [
+  "JP",
+  "GB",
+  "NG",
+  "CM",
+  "GH",
+  "CD",
+  "MX",
+  "US",
+  "NO",
+  "SE",
+  "FI"
+ ],
+ "facets": {
+  "kind": "plant"
+ },
+ "text": {
+  "what": "Cut, carved, split or planed. Wood is probably the commonest amulet material in the world and one of the rarest in a museum tray older than a few centuries, because it burns, rots, and in a great many traditions is meant to.",
+  "story": "Japan writes on it and then burns it. Ema are small wooden plaques, typically 15 cm wide and 9 cm tall, on which Shinto and Buddhist worshippers write prayers or wishes and hang them at the shrine, where they stay until they are ritually burned at special events — the burning understood as releasing the wish. The substitution behind them is documented: horses were held to carry messages from the kami, live horses were expensive, and a wooden statue or painted plaque could stand in as a katashiro, a substitute effigy. The earliest text record of such a substitution is the Honcho Bunsui of 1013, recording an offering of three paper horses at the Kitano Tenjin shrine, and clay or wood horse figures survive from the Nara period.\n\nJapan also keeps a sliver of it. Ofuda are made of paper, wood, cloth or metal, and the wooden ones are called kifuda; the best-known form of the Jingū Taima is a wooden tablet containing a sliver of cedar known as the gyoshin, the sacred core, wrapped in paper printed with the shrine's name and stamped with its seals. A document of 1777 indicates that between eighty-nine and ninety per cent of households in the country owned an Ise talisman at the time.\n\nWest Africa writes on it and then washes it. The Qur'an board is a wooden tablet of locally available woods such as mahogany or baobab, on which a student copies verses; when the passage is mastered the writing is washed off and the water is collected and drunk or used in healing.\n\nCentral and West Africa carve it. An nkondi is most often a carved human figure with open cavities in its body — most commonly in the belly, but also on the head or in pouches at the neck — for the bilongo, the medicines that make it the home of a spirit, usually hidden behind resin-fixed mirrors; people drive nails into the figure as a petition for help, healing or witness, and the nailing is described as waking and sometimes enraging it. Akua'ba are wooden fertility dolls with large disc-like heads, from western Ghana and particularly associated with the Fanti, used by young women seeking to conceive; when not in use they are ritually washed and cared for in the homestead.\n\nEurope's protective wood has a species. The rowan, Sorbus aucuparia, is a small deciduous tree 4 to 12 metres tall; its wood is dense and used for carving, turning, tool handles and walking sticks. James Frazer reported in 1890 a Scottish tradition of planting it near a gate or front door, and Thomas Keightley recorded that mortals could safely watch the fairy rades by placing a rowan branch over their doors. In the Highlands there were strong taboos against using any part of the tree save the berries, except for ritual: a threshing tool of rowan called a buaitean was used on grain meant for rituals and celebrations. The Old English name cwic-bēam survives as quickbeam, and by the nineteenth century had been reinterpreted as connected to the word witch, producing wicken-tree, wich-tree, wicky and wiggan-tree.\n\nNorth America bends it. A dreamcatcher is a handmade willow hoop with a net woven across it; Frances Densmore recorded in 1929 that mothers and grandmothers wove webs for children using willow hoops and sinew or plant cordage, and that in old times the netting was made of nettle fibre. Mexico sells crosses of ocote wood for good luck at the Mercado de Sonora.\n\n*Inference —* look at what those examples have in common. The ema is burned, the ofuda is replaced yearly, the slate is washed, the dreamcatcher's hoop is green wood. This material is chosen for traditions with an expiry date built into them, and a museum collects the ones that failed to expire.",
+  "how": "Carved, split, planed into a board, or bent green into a hoop. The Kongo case is the most explicit about who: an nkondi is built by an nganga, often isolated in a hidden camp away from the village, and the figure is composed at the edge of the village because the edge and the entrances are what need guarding.",
+  "today": "Akua'ba are now more commonly seen as mass-produced works of art or souvenirs than as heirlooms in ritual use, though traditional use continues in some areas among the Fante and other Akan peoples, and the form has become a symbol of good luck more broadly. Europeans visiting Africa in the 1800s were keenly interested in Fante dolls, which is why so many are in European museums. Japan's ema have their own commercial argument: two shrines dedicated to education sold ema for examination success in 1979 and, after public outcry, turned the funds into a scholarship in 1980."
+ },
+ "dating": {
+  "period": "Nara Japan to the present",
+  "from_year": 710,
+  "to_year": null,
+  "living": true,
+  "label": "Nara period to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-ema-shinto",
+  "note": "The earliest dated wooden charm cited here is the group of clay and wood horse figures found dating to the Nara period, conventionally 710-794; the earliest text record of the substitution is 1013. Wood is far older than either and this record does not claim a floor for the material."
+ },
+ "object": {
+  "form": "plaque",
+  "materials": [
+   "wood",
+   "ink"
+  ],
+  "worn": [
+   "wall",
+   "door",
+   "neck",
+   "cradle",
+   "burnt"
+  ],
+  "length_mm": 150,
+  "single_use": true,
+  "source": "s:wp-ema-shinto",
+  "note": "the measurement is the published typical ema, 15 cm wide and 9 cm tall"
+ },
+ "against": [
+  {
+   "harm": "exams",
+   "who": "Japanese worshippers who buy ema for examination success — and the shrines criticised in 1979 for profiting from them",
+   "source": "s:wp-ema-shinto",
+   "tier": "cited"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "British folklorists of the Victorian era, reporting the rowan's warding of witches; James Frazer recorded the tree planted at a Scottish gate or front door in 1890",
+   "source": "s:wp-rowan",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "Thomas Keightley's account: a rowan branch over the door let mortals watch the fairy rades safely",
+   "source": "s:wp-rowan",
+   "tier": "cited"
+  },
+  {
+   "harm": "child-harm",
+   "who": "Ojibwe mothers and grandmothers, in the account Frances Densmore recorded in 1929, who wove willow hoops for children",
+   "source": "s:wp-dreamcatcher",
+   "tier": "cited"
+  },
+  {
+   "harm": "infertility",
+   "who": "young Fanti women seeking to conceive, who keep an akua'ba and have it washed and cared for in the homestead",
+   "source": "s:wp-akuaba",
+   "tier": "cited"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "Kongo communities, whose publicly held nkondi were used to affirm oaths and to protect villages from witches or evildoers",
+   "source": "s:wp-nkondi",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "ofuda",
+   "as": "the Japanese talisman whose grandest form is a wooden tablet wrapped round a sliver of cedar called the sacred core",
+   "rel": "carried-by"
+  },
+  {
+   "to": "omikuji",
+   "as": "the paper fortune that ends up tied to a pine, which is the tree doing the holding",
+   "rel": "kin"
+  },
+  {
+   "to": "akuaba-figure",
+   "as": "carved wood with a disc for a head, washed and kept in the house between uses",
+   "rel": "carried-by"
+  },
+  {
+   "to": "nkisi",
+   "as": "the carved figure with a cavity cut in its belly for the medicines that make it inhabited",
+   "rel": "carried-by"
+  },
+  {
+   "to": "dreamcatcher",
+   "as": "a bent willow hoop with a net across it, hung over a cradle",
+   "rel": "carried-by"
+  },
+  {
+   "to": "rowan-cross",
+   "as": "the European protective wood with a species name, and a taboo about which parts may be used",
+   "rel": "carried-by"
+  },
+  {
+   "to": "ink",
+   "as": "what the West African slate is for: a surface chosen because the writing will lift off it",
+   "rel": "material"
+  },
+  {
+   "to": "burning-retirement",
+   "as": "the practice most of this material is built for — a wish released by fire",
+   "rel": "practice"
+  },
+  {
+   "to": "renewing-yearly",
+   "as": "the other reason wooden charms are young: they are replaced on a schedule",
+   "rel": "practice"
+  },
+  {
+   "to": "tree",
+   "as": "the standing version of the same material, where the charm is the tree and not the plank",
+   "rel": "motif"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read behind the Fante dolls that ended up in European museums after the 1800s",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Ema (Shinto) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ema_(Shinto)"
+  },
+  {
+   "label": "Akuaba — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Akuaba"
+  }
+ ],
+ "sources": [
+  "s:wp-ema-shinto",
+  "s:wp-ofuda",
+  "s:web-wp-quran-boards",
+  "s:wp-nkondi",
+  "s:wp-akuaba",
+  "s:wp-rowan",
+  "s:wp-dreamcatcher",
+  "s:wp-mercado-de-sonora"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-ema-shinto"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-ofuda",
+    "note": "the closing paragraph on built-in expiry is this project's inference and is marked in the text"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-akuaba"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Ema at a Shinto shrine.jpg",
+  "File:Akua ba figure.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-17"
+}

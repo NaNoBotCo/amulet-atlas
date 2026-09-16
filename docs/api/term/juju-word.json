@@ -1,0 +1,301 @@
+{
+ "schema": 1,
+ "id": "juju-word",
+ "type": "term",
+ "names": {
+  "name": "juju",
+  "said": "JOO-joo",
+  "aliases": [
+   "ju-ju",
+   "juju man"
+  ]
+ },
+ "etymology": {
+  "root": "Contested. Two proposals are in print and neither has won. Wikipedia's article reports an origin in Hausa, where the term means 'evil spirit'. The same article, and the Online Etymology Dictionary, report a derivation from French joujou, 'toy, plaything' — the dictionary calls it supposed.",
+  "first_attested": "1860 in English (Online Etymology Dictionary)",
+  "note": "This project reports both proposals with their proposers and picks neither. The two pull opposite ways: one African and grave, one French and diminishing.",
+  "tier": "cited",
+  "source": "s:wp-juju"
+ },
+ "region": [
+  "west-africa",
+  "diaspora"
+ ],
+ "countries": [
+  "NG",
+  "BJ",
+  "TG",
+  "CM",
+  "GH"
+ ],
+ "facets": {
+  "language": [
+   "English",
+   "Hausa",
+   "French"
+  ]
+ },
+ "text": {
+  "what": "In central West Africa — Nigeria, Benin, Togo, Cameroon, Ghana — juju names a body of practice and the objects and spells inside it. In looser English it means magical properties dealing with luck, good or bad. Across the West African diaspora the word covers charms made in African traditional and African diaspora religions generally. Wikipedia's article records the practitioner's title plainly: a juju man is any man vetted by local traditions and well versed in traditional spiritual medicines.",
+  "story": "The word reached English print through colonial officials. James George Frazer published it in Folk-Lore volume XXVI under the title 'A Priest-King in Nigeria', from a communication he received from P. A. Talbot, District Commissioner in southern Nigeria. Talbot described the dominant Ju-Ju of Elele, a town in the north-west of the Degema district, as a Priest-King elected for a term of seven years, and wrote: 'The whole prosperity of the town, especially the fruitfulness of farm, byre, and marriage-bed, was linked with his life. Should he fall sick, therefore, it entailed famine and grave disaster upon the inhabitants ...'\n\nOthers were already writing it down. Le Comte C. N. de Cardi documented the practice among Igbo, Ibibio and Yoruba people of the Niger Delta in an article of 1899; Alan Maxwell Boisragon in a book of 1897.\n\nOn what the word covers, Wikipedia's article is careful and worth quoting rather than paraphrasing: according to some authors, 'It is neither good nor bad, but it may be used for constructive purposes as well as for nefarious deeds.' Its commonest reported use is the treatment of physical and spiritual complaints — insect and animal bites, and the countering of curses. It is also used to bind a contract or secure compliance, with the practitioner paid for the service. Used against somebody, it is reported as a means of revenge and of causing misfortune.\n\n*Inference —* the etymological fight matters because of what each answer implies. Hausa 'evil spirit' makes the word a local name for a serious thing. French joujou makes it a European joke about somebody else's religion. Which root a nineteenth-century writer preferred has usually said more about the writer than about the word, and the sources have not settled it."
+ },
+ "dating": {
+  "from_year": 1860,
+  "to_year": null,
+  "living": true,
+  "label": "in English from 1860",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:web-etymonline-juju"
+ },
+ "kin": [
+  {
+   "to": "mojo-word",
+   "as": "the American cousin: another word with contested African roots that popular music carried out of its home",
+   "rel": "contrast"
+  },
+  {
+   "to": "gris-gris-word",
+   "as": "the Mande word for the object, where this one is an outsiders' word for the whole practice",
+   "rel": "contrast"
+  },
+  {
+   "to": "fetish-word",
+   "as": "the earlier European coinage for the same coast, and the one that hardened into a theory of religion",
+   "rel": "contrast"
+  },
+  {
+   "to": "west-african-charm-craft",
+   "as": "the tradition the word is pointed at, which has its own names for everything in it",
+   "rel": "tradition"
+  },
+  {
+   "to": "nkisi",
+   "as": "a Central African object often swept under this word by writers who did not ask what its makers called it",
+   "rel": "contrast"
+  },
+  {
+   "to": "vodou-not-voodoo",
+   "as": "the same argument one country over, where the spelling itself became the fight",
+   "rel": "parallel"
+  }
+ ],
+ "links": [
+  {
+   "label": "Juju — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Juju"
+  }
+ ],
+ "sources": [
+  "s:wp-juju",
+  "s:web-etymonline-juju",
+  "s:wp-west-african-vod-n"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-juju"
+  },
+  "fields": {
+   "etymology": {
+    "tier": "cited",
+    "source": "s:wp-juju",
+    "note": "both proposals reported; the atlas takes no side, because neither source does"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "In central West Africa — Nigeria, Benin, Togo, Cameroon, Ghana — juju names a body of practice and the objects and spells inside it. In looser English it means magical properties dealing with luck, good or bad.",
+ "region_terms": [
+  {
+   "key": "west-africa",
+   "name": "West Africa",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "diaspora",
+   "name": "Diaspora",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "a practice carried out of its home region and kept"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "mojo-word",
+   "type": "term",
+   "name": "mojo",
+   "as": "the American cousin: another word with contested African roots that popular music carried out of its home",
+   "rel": "contrast"
+  },
+  {
+   "to": "gris-gris-word",
+   "type": "term",
+   "name": "gris-gris",
+   "as": "the Mande word for the object, where this one is an outsiders' word for the whole practice",
+   "rel": "contrast"
+  },
+  {
+   "to": "fetish-word",
+   "type": "term",
+   "name": "fetish",
+   "as": "the earlier European coinage for the same coast, and the one that hardened into a theory of religion",
+   "rel": "contrast"
+  },
+  {
+   "to": "west-african-charm-craft",
+   "type": "tradition",
+   "name": "West African charm craft",
+   "as": "the tradition the word is pointed at, which has its own names for everything in it",
+   "rel": "tradition"
+  },
+  {
+   "to": "nkisi",
+   "type": "amulet",
+   "name": "Nkisi",
+   "as": "a Central African object often swept under this word by writers who did not ask what its makers called it",
+   "rel": "contrast"
+  },
+  {
+   "to": "vodou-not-voodoo",
+   "type": "term",
+   "name": "Vodou and Vodún — and the spelling this atlas does not use",
+   "as": "the same argument one country over, where the spelling itself became the fight",
+   "rel": "parallel"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-juju",
+   "kind": "encyclopedia",
+   "title": "Juju",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Juju",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-etymonline-juju",
+   "kind": "web",
+   "title": "juju — Etymology, Origin & Meaning",
+   "publisher": "Online Etymology Dictionary (Douglas Harper)",
+   "url": "https://www.etymonline.com/word/juju",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-west-african-vod-n",
+   "kind": "encyclopedia",
+   "title": "West African Vodún",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/West_African_Vod%C3%BAn",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-juju"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-juju"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-juju",
+   "note": "both proposals reported; the atlas takes no side, because neither source does"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-juju"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1860 CE to now",
+ "country_names": [
+  {
+   "iso": "NG",
+   "name": "Nigeria"
+  },
+  {
+   "iso": "BJ",
+   "name": "Benin"
+  },
+  {
+   "iso": "TG",
+   "name": "Togo"
+  },
+  {
+   "iso": "CM",
+   "name": "Cameroon"
+  },
+  {
+   "iso": "GH",
+   "name": "Ghana"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "west-african-charm-craft",
+   "type": "tradition",
+   "name": "West African charm craft",
+   "as": "the Hausa-derived word English took, and what it covers and does not",
+   "rel": "term"
+  },
+  {
+   "from": "fetish-word",
+   "type": "term",
+   "name": "fetish",
+   "as": "the other outsiders' word for West African practice, contested in the same way and still current",
+   "rel": "contrast"
+  },
+  {
+   "from": "gris-gris-word",
+   "type": "term",
+   "name": "gris-gris",
+   "as": "the outsiders' cover-word that often swallowed this one in English writing",
+   "rel": "contrast"
+  },
+  {
+   "from": "mojo-word",
+   "type": "term",
+   "name": "mojo",
+   "as": "the parallel argument over an African etymology, fought with different candidates",
+   "rel": "contrast"
+  },
+  {
+   "from": "vodou-not-voodoo",
+   "type": "term",
+   "name": "Vodou and Vodún — and the spelling this atlas does not use",
+   "as": "the neighbouring outsiders' word for West African practice, contested on its etymology rather than its spelling",
+   "rel": "contrast"
+  }
+ ]
+}

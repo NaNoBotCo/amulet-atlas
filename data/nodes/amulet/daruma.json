@@ -1,0 +1,83 @@
+{
+ "schema": 1,
+ "id": "daruma",
+ "type": "amulet",
+ "names": {
+  "name": "Daruma",
+  "native": "達磨",
+  "script": "Japanese",
+  "lang": "ja",
+  "said": "DA-ru-ma",
+  "aliases": ["daruma doll", "だるま", "okiagari-koboshi kin", "hime daruma", "onna daruma", "Goshiki Daruma"]
+ },
+ "etymology": {
+  "root": "Japanese 達磨, the transcription of Dharma in Bodhidharma — the fifth- or sixth-century monk credited with carrying Chan, later Zen, to China",
+  "note": "The limbless shape is read back into the legend: Bodhidharma is said to have sat facing a wall for nine years until his arms and legs wasted. The tumbler body it borrows is the okiagari-kobōshi, a self-righting monk toy popular in the Kinki region in the mid-seventeenth century, itself introduced from Ming China.",
+  "tier": "cited",
+  "source": "s:wp-daruma-doll"
+ },
+ "region": ["japan"],
+ "countries": ["JP"],
+ "facets": {"era": "modern", "status": "living", "portable": "placed", "restricted": "open", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A hollow papier-mâché figure, round, weighted at the base so it rights itself when knocked over, usually red, with a bearded scowling face and two oversized white eyes left blank. Sold with no pupils. The owner inks one in when they set a goal and the other when they reach it. Other colours exist: a set of five — blue, yellow, red, white, black — is sold as Goshiki Daruma, and gold ones are sold for money.",
+  "story": "The doll has a home town. Shorinzan Daruma Temple in Takasaki, Gunma, north of Tokyo, is where its present sense as a luck charm starts. Josef Kyburz records that the founder of that Daruma-dera drew New Year charms of Bodhidharma, which parishioners kept to \"bring happiness and prosperity and ward off accidents and misfortune\". The charms expired after a year, so the demand came round again every twelve months, and the ninth priest, Togaku, solved the problem near the start of the Meiwa period (1764–72) by cutting wooden block moulds and handing them to the parishioners to make their own papier-mâché charms. Kyburz notes it is not known when the Bodhidharma charm and the tumbler toy merged; by the mid-nineteenth century the two were treated as the same thing. Takasaki's families were mostly silk farmers, a crop that turns on luck, and the doll became the region's mascot.\n\nThe red has a second history. *Tradition holds —* red is the colour of a high-ranking priest's robe, and the art historian James T. Ulak has traced depictions of Bodhidharma in red robes before any doll existed. In the late Edo period red was tied to smallpox: during measles and smallpox outbreaks in Edo and nearby cities, households strung red paper strips on ropes around the house, dressed the sick child in red, and set up a small altar with daruma figures on it for the God of Smallpox. The red was to please the deity; the self-righting body was to tell the patient to get up as fast as they went down.\n\nThe eye-painting reached national television through politics. Time reported in 1967 that in the Tokyo headquarters of the Liberal Democratic Party, Premier Eisaku Satō inked the right eye of his daruma and said: \"The eyes, are as big as my own.\" Party headquarters at election time are still photographed with a large one.\n\nA feminine line runs alongside. Hime daruma and onna daruma — Princess and Lady Daruma — began in the Edo merchant culture that made fun of what its betters held sacred, including a version of Bodhidharma drawn as a prostitute, on the grounds that prostitutes showed the same okiagari resilience. The satire faded; the dolls stayed, wholesome.",
+  "how": "Bought blank-eyed, often at a New Year market. The owner picks one goal, inks the left eye with a brush, and keeps the figure in view; the right eye is filled in when the goal is met. Traditionally only the head of the household did the painting. Matsukawa daruma are sold with both eyes already painted, because their job is to watch over the house rather than to track a goal. At the end of the year every daruma goes back to the temple it came from for the daruma kuyō, a burning held just after New Year's Day — the best known at Nishi-Arai Daishi in Tokyo and Dairyū-ji in Gifu — where tens of thousands are burnt together after the monks' procession, sutras and horns. Then you buy next year's.",
+  "today": "Takasaki still holds its Daruma Doll Festival, the daruma-ichi, at the Shorinzan. The city's own website says over 400,000 people come from across the Kanto Plain to buy new dolls for the year, and that Takasaki makes 80% of Japan's daruma. The festival also carries a 24-hour reading of sutras by the Shorinzan monks for world peace. The shape is common property now: snowmen in Japanese are yukidaruma, the children's game Darumasan ga Koronda is the local Red Light Green Light, and Pokémon put out Darumaka and Darmanitan in 2010."
+ },
+ "dating": {
+  "period": "Meiwa to the present",
+  "from_year": 1764,
+  "to_year": null,
+  "living": true,
+  "label": "c. 1764 to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-daruma-doll",
+  "note": "Dated from the block moulds cut by the ninth priest Togaku near the beginning of the Meiwa period (1764–72). The merger of the Bodhidharma charm with the tumbler doll is undated; Kyburz puts the two as synonymous by the mid-nineteenth century."
+ },
+ "object": {
+  "form": "figurine",
+  "materials": ["paper", "ink", "wood", "terracotta"],
+  "worn": ["shop", "wall", "hearth"],
+  "made_by": "households from temple block moulds, in the original arrangement; now Takasaki's makers, who supply 80% of Japan's dolls",
+  "inscription": "the goal is not written; the two eyes are the record — left at the setting, right at the reaching",
+  "colour": ["red", "gold", "blue", "yellow", "white", "black"],
+  "count": 2,
+  "single_use": true,
+  "source": "s:wp-daruma-doll",
+  "note": "Papier-mâché over a mould, hollow, weighted at the base. The 'triangle' daruma is a rolled cardboard cone on a rounded clay base. Count 2 is the eyes, which are the working part."
+ },
+ "against": [
+  {"harm": "bad-luck", "who": "Josef Kyburz, on the New Year charms the Daruma-dera's founder drew", "quote": "bring happiness and prosperity and ward off accidents and misfortune", "source": "s:wp-daruma-doll", "tier": "cited"},
+  {"harm": "illness", "who": "Edo households during measles and smallpox outbreaks, who set daruma figures on a small altar for the God of Smallpox", "source": "s:wp-daruma-doll", "tier": "cited"},
+  {"harm": "attraction", "who": "buyers at the Takasaki market, where gold ones are sold for luck in money matters", "source": "s:wp-daruma-doll", "tier": "cited"},
+  {"harm": "exams", "who": "the goal-setting use, of which the best-documented public instance is a political party inking one at election time", "source": "s:wp-daruma-doll", "tier": "cited", "note": "the source names elections and goals rather than examinations specifically; this entry maps that use onto the nearest key and says so"}
+ ],
+ "kin": [
+  {"to": "maneki-neko", "as": "the other figure sold off the same tray, and the opposite deal: this one has a year and a fire waiting at the end of it", "rel": "contrast"},
+  {"to": "japanese-engimono", "as": "the tradition it sits at the centre of, with its own annual market at Takasaki", "rel": "tradition"},
+  {"to": "omamori", "as": "the pocket charm from the same economy, working on the same twelve-month clock", "rel": "kin"},
+  {"to": "renewing-yearly", "as": "the rule that gave the doll its shape: the founder's charms expired in a year, so the parishioners came back", "rel": "practice"},
+  {"to": "burning-retirement", "as": "the ending: daruma kuyō, tens of thousands burnt together after New Year", "rel": "practice"},
+  {"to": "teru-teru-bozu", "as": "the other Japanese figure made to be discharged — one is burnt at the temple, the other floated down a river", "rel": "parallel"},
+  {"to": "ekeko", "as": "another figure a household buys and asks a year's worth of gain from", "rel": "parallel"},
+  {"to": "exam-charm", "as": "the genre the blank eye feeds: a goal, a deadline, and a physical thing that watches you", "rel": "kin"},
+  {"to": "mascot-word", "as": "what Takasaki turned it into, and the route from a temple charm to a civic emblem", "rel": "term"}
+ ],
+ "links": [{"label": "Daruma doll — Wikipedia", "url": "https://en.wikipedia.org/wiki/Daruma_doll"}],
+ "sources": ["s:wp-daruma-doll", "s:web-ja-wikipedia-engimono", "s:wp-list-of-lucky-symbols"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-daruma-doll"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:wp-daruma-doll", "note": "the robe-colour explanation is marked inline as tradition; the source itself says reliable English sources for it are hard to find"},
+   "text.today": {"tier": "cited", "source": "s:wp-daruma-doll", "note": "the 400,000 attendance and the 80% production share are attributed there to the Takasaki city website; no year is given for either"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Daruma doll.jpg", "File:Takasaki Daruma.jpg"],
+ "confidence": "high",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,48 @@
+{
+ "schema": 1,
+ "id": "edward-lovett",
+ "type": "person",
+ "names": {
+  "name": "Edward Lovett",
+  "sort": "Lovett, Edward"
+ },
+ "region": ["britain-ireland", "western-europe"],
+ "countries": ["GB", "BE", "NL"],
+ "facets": {"role": ["collector", "writer", "scholar"]},
+ "text": {
+  "what": "English folklorist, July 1852 – 1933, who collected charms off London streets while working as a chief cashier at a bank in the City. He gathered the things people were actually carrying — a mole's foot, a dried frog, a blue bead, a caul — and wrote them up in \"Magic in Modern London\" in 1925. His material is now spread across the Pitt Rivers Museum, the Cuming Museum in Southwark, the Wellcome collection and two museums of childhood.",
+  "story": "Lovett collected on his walks. He lived in Croydon and later Caterham, and worked the London streets, Sussex and Surrey in his spare time — costers' barrows, dock workers, sailors' families — asking what people had in their pockets and why. He grew alpine plants in seashells and traded the small specimens for amulets from the people he met. That is the whole method: a swap, on a street, recorded on the spot.\n\nHe donated to the Pitt Rivers Museum between 1896 and 1911. He joined the Folklore Society in 1900 and published in its journal: \"The Modern Commercial Aspect of an Ancient Superstition\" in 1902, \"Superstitions and Survivals amongst Shepherds\" and \"Amulets from Costers' Barrows in London, Rome, and Naples\" both in 1909. In a 1906 Museums Journal article he set out a plan for a folk museum of Britain and campaigned for it into the early 1920s. It was never built.\n\nHe corresponded with Henry Wellcome, and in 1916 curated an exhibition, 'Folklore of London', at the Wellcome Historical Medical Museum. In 1914 he showed over five hundred dolls at the National Museum of Wales, meaning to give adults what he called a \"scientific history of the doll, from the standpoints of ethnography and folklore\". His theory that the coffin dolls found on Arthur's Seat in Edinburgh in the 1830s were substitution burials for sailors lost at sea has not been supported by recent scholarship.\n\nWhat separates him from most collectors of his generation is what he did not do. Lovett did not venture into theorising on folklore, confining his research to the collection of talismans and other objects with claims attached. *Inference —* that restraint is why his labels still work: he wrote down who gave him the thing and what they said about it, and left the explaining to other people.",
+  "today": "The Wellcome Collection showed his amulets in 'Charmed Life: The solace of objects', 6 October 2011 to 26 February 2012, alongside new work by the artist and curator Felicity Powell. Wellcome also publishes an online piece on his collections, \"Moles' feet, dried frogs and other folk medicines\", by Kate Wilkinson, dated 21 May 2019."
+ },
+ "dating": {
+  "period": "Victorian to interwar",
+  "from_year": 1852,
+  "to_year": 1933,
+  "living": false,
+  "label": "July 1852 – 1933",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-edward-lovett",
+  "note": "Birth month and year are published; the death year is given without a date."
+ },
+ "kin": [
+  {"to": "lovett-collection", "as": "the collection itself — the trays of London street charms he swapped alpine plants for", "rel": "art"},
+  {"to": "wellcome-collection", "as": "the museum that exhibited his amulets in 1916 and again in 2011, and that publishes on them now", "rel": "org"},
+  {"to": "pitt-rivers-museum", "as": "where his donations went between 1896 and 1911, and where a large part of the material still sits", "rel": "org"},
+  {"to": "caul", "as": "one of the objects he recorded in the hands of London sailors' families rather than in a book", "rel": "kin"},
+  {"to": "european-folk-apotropaic", "as": "the living tradition he recorded on the street while other collectors were reading about its past", "rel": "tradition"},
+  {"to": "frederick-elworthy", "as": "his contemporary on the same subject, working Mediterranean markets where Lovett worked London barrows", "rel": "parallel"},
+  {"to": "buying-in-a-market", "as": "the practice his method depended on — he bought and swapped rather than excavated", "rel": "practice"},
+  {"to": "charm-word", "as": "the word he used for what he collected, in the sense his informants used it", "rel": "term"}
+ ],
+ "links": [
+  {"label": "Edward Lovett — Wikipedia", "url": "https://en.wikipedia.org/wiki/Edward_Lovett"}
+ ],
+ "sources": ["s:wp-edward-lovett", "s:wp-pitt-rivers-museum", "s:wp-wellcome-collection", "s:wp-caul"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-edward-lovett"}
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

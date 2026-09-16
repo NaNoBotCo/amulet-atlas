@@ -1,0 +1,713 @@
+{
+ "schema": 1,
+ "id": "hamsa",
+ "type": "amulet",
+ "names": {
+  "name": "Hamsa",
+  "native": "خمسة",
+  "script": "Arabic",
+  "lang": "ar",
+  "said": "KHAM-sa, Arabic for 'five'",
+  "aliases": [
+   "khamsa",
+   "khmisa",
+   "Hand of Fatima",
+   "Hand of Miriam",
+   "Hand of Mary",
+   "hamesh",
+   "afus"
+  ]
+ },
+ "etymology": {
+  "root": "Arabic khamsa, 'five' — the five fingers; Maghrebi variants khmisa and khmisa; Hebrew hamesh, also 'five'; Berber afus, 'hand'",
+  "note": "'Hand of Fatima' is a colonial nickname rather than an Arabic term: Europeans in French colonial North Africa popularised Main de Fatma, and in colonial-era French 'fatma' meant a Muslim or Arab woman. The Arabic phrase yad Fatima is rare in pre-modern usage. Levantine Christians call it kef Miryam, the Virgin Mary's hand; Sephardi and Mizrahi Jews call it the Hand of Miriam.",
+  "tier": "cited",
+  "source": "s:wp-hamsa"
+ },
+ "region": [
+  "maghreb",
+  "levant",
+  "iberia",
+  "anatolia",
+  "iran-persia",
+  "south-asia"
+ ],
+ "countries": [
+  "MA",
+  "DZ",
+  "TN",
+  "EG",
+  "IL",
+  "ES",
+  "TR",
+  "IR",
+  "IQ",
+  "IN",
+  "PK"
+ ],
+ "facets": {
+  "era": "living",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "An open palm, usually made symmetrical so it has a thumb on both sides, in silver more often than anything else, historically also carved in jet. An eye is often set in the palm. Fingers spread turns evil away; fingers together brings luck; pointing up wards off, pointing down blesses. The most stylised versions stop looking like a hand at all and become five circles around a sixth. It is also painted in red on house walls, sometimes with the blood of a sacrificed animal, and hung on the doorway of a room where a woman is expecting or a baby has just arrived.",
+  "story": "The open hand is old in the Near East and the line back from the modern object is argued rather than established. Amulets of the hand of Ishtar were used in Mesopotamia and Babylon to keep evil or disease out of a building. An Iron Age tomb at Khirbet el-Qom in Judah carries an engraved hand beside an inscription, generally read as protective in a funerary setting, though the exact meaning is debated. Another line runs to the Mano Pantea, known to ancient Egyptians as the Two Fingers, where the two fingers are Isis and Osiris and the thumb is Horus, used to call a parent's protection over a child.\n\nEva-Maria von Kemnitz traces the medieval route in one sentence: \"the Berbers brought the khamsa to al-Andalūs. Later, the expelled Muslim and Jewish population took it back to North Africa, introducing different motifs and techniques.\" In al-Andalus its use as an amulet is well documented from the thirteenth century on. Among the Moriscos of Granada, khamsa pendants were described as large engraved medals with a hand inscribed with letters — likely Qur'anic verses. A reform council banned them as Islamic symbols in 1526 and ordered crosses in their place; the Synod of Guadix renewed the prohibition in 1554. Christians wore them anyway, and a Nasrid-period gold pendant survives inscribed Ave Maria gratia plena.\n\nThe disagreement is live and it is not between insiders and outsiders. Von Kemnitz, citing Bruno Barbatti, calls the hamsa the most important apotropaic sign in the Islamic world. Salafi authorities reject it: one fatwa states that hanging the khamsa is impermissible, and another lists hands of Fatima among prohibited amulets. In Shia Islam the five fingers are read as the panjtan — Muhammad, Ali, Fatimah, Hasan, Husayn — with invocations written on the fingers, and the open palm became an emblem in Muharram processions and on ʿalams. In Judaism the hand doubles as the letter shin, first letter of Shaddai; Shalom Sabar suggests Jews exiled from Spain in 1492 carried it as protection into the countries they reached, while noting the assumption is hard to prove.\n\nWhat people say while using it is the plainest evidence of what they take it for. Khamsa fi ainek — 'five [fingers] in your eye' — said while raising the right palm, fingers slightly apart, to blind the aggressor. Khamsa wa-khamis, 'five and Thursday'. Or the whole formula with the spitting sound: \"Khamsa, Khamsa, Khamsa, tfu, tfu, tfu.\"",
+  "today": "The hamsa is one of Algeria's national symbols and appears in its emblem. In Egypt it is the most popular amulet against the evil eye, ahead of the eye itself and the hirz; women in baladi quarters make khamaysa, five objects — peppers, hands, circles, stars — hung from hooks on a child's hair or black apron. Its use fell away in some places during periods of modernisation and came back as a secular good-luck charm: necklaces, keychains, postcards, lottery cards, advertisements, tilework, wall decorations. It was added to Unicode as U+1FAAC in 2021."
+ },
+ "dating": {
+  "period": "Iron Age to the present",
+  "from_year": -799,
+  "to_year": null,
+  "living": true,
+  "label": "claimed from c. 800 BCE; documented as an amulet from the 13th century CE; still worn",
+  "method": "art-historical",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-hamsa",
+  "note": "The 800 BCE floor is the cited article's statement that one of the first appearances was in Israelite tombs of that date, which it frames as speculation about Sephardi use rather than as an established lineage. The firm date in the article is al-Andalus from the thirteenth century onwards. Read the floor as the claim and the thirteenth century as the documentation."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": [
+   "silver",
+   "jet",
+   "gold"
+  ],
+  "worn": [
+   "neck",
+   "door",
+   "wall",
+   "vehicle",
+   "shop",
+   "cradle"
+  ],
+  "made_by": "no restriction recorded; jewellers across North Africa and the Levant, and now factories everywhere",
+  "inscription": "on Morisco examples, letters likely to be Qur'anic verses; in Shia use, the names of the panjtan placed on the fingers",
+  "script": "Arabic",
+  "colour": [
+   "silver",
+   "red"
+  ],
+  "source": "s:wp-hamsa",
+  "note": "Silver is singled out in the cited article as a metal held to represent purity. No published measurement was read."
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "carriers across North Africa and the Middle East, who say khamsa fi ainek — 'five [fingers] in your eye'",
+   "quote": "Khamsa, Khamsa, Khamsa, tfu, tfu, tfu",
+   "source": "s:wp-hamsa",
+   "tier": "cited",
+   "note": "the spitting sound is part of the formula"
+  },
+  {
+   "harm": "envy",
+   "who": "the same users; the evil eye is glossed in the cited article as a malicious stare held to cause illness, death or general misfortune",
+   "source": "s:wp-hamsa",
+   "tier": "cited"
+  },
+  {
+   "harm": "child-harm",
+   "who": "households that paint or hang it on the doorway of a room holding an expectant mother or a new baby",
+   "source": "s:wp-hamsa",
+   "tier": "cited"
+  },
+  {
+   "harm": "infertility",
+   "who": "the hand-amulet tradition the cited article traces it to — the Hand of Venus and the Hand of Mary, used to protect women from the eye, boost fertility and lactation and promote healthy pregnancies",
+   "source": "s:wp-hamsa",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the Mesopotamian precedent von Kemnitz names: amulets of the hand of Ishtar, used to keep evil or disease from entering a building",
+   "source": "s:wp-hamsa",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "hand",
+   "as": "the sign this object is, and the reason it works in traditions that share nothing else",
+   "rel": "motif"
+  },
+  {
+   "to": "open-palm",
+   "as": "the gesture it freezes — right hand up, fingers slightly apart, aimed at the looker",
+   "rel": "motif"
+  },
+  {
+   "to": "eye",
+   "as": "the sign usually set in the palm; two charms stacked on one piece of silver",
+   "rel": "motif"
+  },
+  {
+   "to": "nazar",
+   "as": "the bead it is most often sold beside, and most often combined with",
+   "rel": "kin"
+  },
+  {
+   "to": "islamic-talismanic",
+   "as": "one of the traditions that carries it, and the one whose Salafi authorities rule against it by name",
+   "rel": "tradition"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "as": "the other tradition that carries it, where the hand doubles as the letter shin for Shaddai",
+   "rel": "tradition"
+  },
+  {
+   "to": "silver",
+   "as": "the metal it is usually made of, named in the tradition for purity",
+   "rel": "material"
+  },
+  {
+   "to": "jet",
+   "as": "the black stone it was historically carved from, and the same stone Spain cuts a fist out of",
+   "rel": "material"
+  },
+  {
+   "to": "figa",
+   "as": "the Iberian and Brazilian hand-charm this one sits next to in a Spanish tray",
+   "rel": "parallel"
+  },
+  {
+   "to": "khan-el-khalili",
+   "as": "the Cairo market where it outsells every other charm against the eye",
+   "rel": "place"
+  },
+  {
+   "to": "hamsa-word",
+   "as": "the word itself, which is just the number five",
+   "rel": "same-word"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "as": "the long read; the hand and the eye travel together across this whole map",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Hamsa — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hamsa"
+  }
+ ],
+ "sources": [
+  "s:wp-hamsa",
+  "s:wp-evil-eye",
+  "s:wp-nazar-amulet",
+  "s:wp-islam-and-magic",
+  "s:wp-silver",
+  "s:wp-jet-gemstone"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-hamsa"
+  },
+  "fields": {
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-hamsa",
+    "note": "the floor is the article's own speculation, labelled as such; see dating.note"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Hamsa.jpg",
+  "File:Khamsa silver Morocco.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "An open palm, usually made symmetrical so it has a thumb on both sides, in silver more often than anything else, historically also carved in jet. An eye is often set in the palm.",
+ "region_terms": [
+  {
+   "key": "maghreb",
+   "name": "The Maghreb",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Morocco, Algeria, Tunisia, Libya"
+  },
+  {
+   "key": "levant",
+   "name": "The Levant",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "iberia",
+   "name": "Iberia",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "anatolia",
+   "name": "Anatolia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "iran-persia",
+   "name": "Iran",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "hand",
+   "type": "motif",
+   "name": "The hand",
+   "as": "the sign this object is, and the reason it works in traditions that share nothing else",
+   "rel": "motif"
+  },
+  {
+   "to": "open-palm",
+   "type": "motif",
+   "name": "The open palm",
+   "as": "the gesture it freezes — right hand up, fingers slightly apart, aimed at the looker",
+   "rel": "motif"
+  },
+  {
+   "to": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "the sign usually set in the palm; two charms stacked on one piece of silver",
+   "rel": "motif"
+  },
+  {
+   "to": "nazar",
+   "type": "amulet",
+   "name": "Nazar",
+   "as": "the bead it is most often sold beside, and most often combined with",
+   "rel": "kin"
+  },
+  {
+   "to": "islamic-talismanic",
+   "type": "tradition",
+   "name": "Islamic talismanic craft",
+   "as": "one of the traditions that carries it, and the one whose Salafi authorities rule against it by name",
+   "rel": "tradition"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "type": "tradition",
+   "name": "Practical Kabbalah",
+   "as": "the other tradition that carries it, where the hand doubles as the letter shin for Shaddai",
+   "rel": "tradition"
+  },
+  {
+   "to": "silver",
+   "type": "material",
+   "name": "Silver",
+   "as": "the metal it is usually made of, named in the tradition for purity",
+   "rel": "material"
+  },
+  {
+   "to": "jet",
+   "type": "material",
+   "name": "Jet",
+   "as": "the black stone it was historically carved from, and the same stone Spain cuts a fist out of",
+   "rel": "material"
+  },
+  {
+   "to": "figa",
+   "type": "amulet",
+   "name": "Figa",
+   "as": "the Iberian and Brazilian hand-charm this one sits next to in a Spanish tray",
+   "rel": "parallel"
+  },
+  {
+   "to": "khan-el-khalili",
+   "type": "place",
+   "name": "Khan el-Khalili",
+   "as": "the Cairo market where it outsells every other charm against the eye",
+   "rel": "place"
+  },
+  {
+   "to": "hamsa-word",
+   "type": "term",
+   "name": "hamsa",
+   "as": "the word itself, which is just the number five",
+   "rel": "same-word"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "type": "story",
+   "name": "The eye everywhere",
+   "as": "the long read; the hand and the eye travel together across this whole map",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-hamsa",
+   "kind": "encyclopedia",
+   "title": "Hamsa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hamsa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-evil-eye",
+   "kind": "encyclopedia",
+   "title": "Evil eye",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Evil_eye",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-nazar-amulet",
+   "kind": "encyclopedia",
+   "title": "Nazar (amulet)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nazar_(amulet)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-islam-and-magic",
+   "kind": "encyclopedia",
+   "title": "Islam and magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Islam_and_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-silver",
+   "kind": "encyclopedia",
+   "title": "Silver",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Silver",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-jet-gemstone",
+   "kind": "encyclopedia",
+   "title": "Jet (gemstone)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jet_(gemstone)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-hamsa"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-hamsa"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-hamsa"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-hamsa"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-hamsa",
+   "note": "the floor is the article's own speculation, labelled as such; see dating.note"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-hamsa"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "carriers across North Africa and the Middle East, who say khamsa fi ainek — 'five [fingers] in your eye'",
+   "quote": "Khamsa, Khamsa, Khamsa, tfu, tfu, tfu",
+   "source": "s:wp-hamsa",
+   "tier": "cited",
+   "note": "the spitting sound is part of the formula"
+  },
+  {
+   "key": "envy",
+   "label": "Envy",
+   "gloss": "a neighbour's ill will, named as such",
+   "who": "the same users; the evil eye is glossed in the cited article as a malicious stare held to cause illness, death or general misfortune",
+   "quote": "",
+   "source": "s:wp-hamsa",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "child-harm",
+   "label": "Harm to a child",
+   "gloss": "harm to an infant or a small child; common across the atlas, though not the largest class in it — see /story/most-of-them-are-for-children/",
+   "who": "households that paint or hang it on the doorway of a room holding an expectant mother or a new baby",
+   "quote": "",
+   "source": "s:wp-hamsa",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "infertility",
+   "label": "Infertility",
+   "who": "the hand-amulet tradition the cited article traces it to — the Hand of Venus and the Hand of Mary, used to protect women from the eye, boost fertility and lactation and promote healthy pregnancies",
+   "quote": "",
+   "source": "s:wp-hamsa",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "the Mesopotamian precedent von Kemnitz names: amulets of the hand of Ishtar, used to keep evil or disease from entering a building",
+   "quote": "",
+   "source": "s:wp-hamsa",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  },
+  {
+   "key": "jet",
+   "label": "Jet",
+   "kind": "stone"
+  },
+  {
+   "key": "gold",
+   "label": "Gold",
+   "kind": "metal"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "vehicle",
+   "label": "In a vehicle",
+   "group": "placed"
+  },
+  {
+   "key": "shop",
+   "label": "At the till",
+   "group": "placed"
+  },
+  {
+   "key": "cradle",
+   "label": "On a cradle",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "pendant",
+  "label": "Pendant"
+ },
+ "holding_facts": [],
+ "span": "800 BCE to now",
+ "country_names": [
+  {
+   "iso": "MA",
+   "name": "Morocco"
+  },
+  {
+   "iso": "DZ",
+   "name": "Algeria"
+  },
+  {
+   "iso": "TN",
+   "name": "Tunisia"
+  },
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  },
+  {
+   "iso": "IL",
+   "name": "Israel"
+  },
+  {
+   "iso": "ES",
+   "name": "Spain"
+  },
+  {
+   "iso": "TR",
+   "name": "Turkey"
+  },
+  {
+   "iso": "IR",
+   "name": "Iran"
+  },
+  {
+   "iso": "IQ",
+   "name": "Iraq"
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  },
+  {
+   "iso": "PK",
+   "name": "Pakistan"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "evil-eye-bracelet",
+   "type": "amulet",
+   "name": "Evil eye bracelet",
+   "as": "the hand that usually carries this eye in its palm, sold from the same stands",
+   "rel": "kin"
+  },
+  {
+   "from": "nazar",
+   "type": "amulet",
+   "name": "Nazar",
+   "as": "the hand this bead is usually set into, and sold beside",
+   "rel": "kin"
+  },
+  {
+   "from": "red-string",
+   "type": "amulet",
+   "name": "Red string",
+   "as": "the other Jewish charm against the eye, and the one with a long documented object history",
+   "rel": "contrast"
+  },
+  {
+   "from": "islamic-talismanic",
+   "type": "tradition",
+   "name": "Islamic talismanic craft",
+   "as": "one of its objects, and the one whose Salafi critics rule against it by name",
+   "rel": "carries"
+  },
+  {
+   "from": "mesopotamian-apotropaic",
+   "type": "tradition",
+   "name": "Mesopotamian household protection",
+   "as": "the hand of Ishtar, used in Mesopotamia and Babylon against evil or disease entering a building, is one of the antecedents claimed for it",
+   "rel": "descendant"
+  },
+  {
+   "from": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "the hand that usually has this eye set in its palm — two signs stacked on one object",
+   "rel": "kin"
+  },
+  {
+   "from": "hand",
+   "type": "motif",
+   "name": "The hand",
+   "as": "the amulet this sign is named for across North Africa and the Middle East",
+   "rel": "carried-by"
+  },
+  {
+   "from": "open-palm",
+   "type": "motif",
+   "name": "The open palm",
+   "as": "the amulet itself — this record is the sign, that record is the object in the tray",
+   "rel": "carried-by"
+  },
+  {
+   "from": "jet",
+   "type": "material",
+   "name": "Jet",
+   "as": "most commonly carved in jet or formed in silver, per the same sources",
+   "rel": "carried-by"
+  },
+  {
+   "from": "silver",
+   "type": "material",
+   "name": "Silver",
+   "as": "carved in jet or formed in silver, which its makers tie to purity",
+   "rel": "carried-by"
+  },
+  {
+   "from": "khan-el-khalili",
+   "type": "place",
+   "name": "Khan el-Khalili",
+   "as": "the hand sold across this trade's whole range, from Morocco to the Gulf",
+   "rel": "carries"
+  },
+  {
+   "from": "marrakesh-souk",
+   "type": "place",
+   "name": "The Marrakesh souk",
+   "as": "the hand this region cuts in silver, and the sign a Moroccan market is likeliest to sell",
+   "rel": "carries"
+  },
+  {
+   "from": "pitt-rivers-charms",
+   "type": "place",
+   "name": "The amulet and charm cases, Pitt Rivers Museum",
+   "as": "the Hand of Fatima in gold filigree from Tunis, and a silver Hebrew-inscribed hand beside it",
+   "rel": "carries"
+  },
+  {
+   "from": "hamsa-word",
+   "type": "term",
+   "name": "hamsa",
+   "as": "the object the word counts: the open hand, usually with an eye set in the palm",
+   "rel": "term"
+  }
+ ]
+}

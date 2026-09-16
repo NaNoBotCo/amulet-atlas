@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "id": "martenitsa",
+ "type": "amulet",
+ "names": {
+  "name": "Martenitsa",
+  "native": "мартеница",
+  "script": "Cyrillic",
+  "lang": "bg",
+  "said": "MAR-te-nit-sa; Macedonian martinka, Romanian mărțișor, Greek mártis, Albanian verore",
+  "aliases": ["martinka", "mărțișor", "mártis", "verore", "Pizho and Penda"]
+ },
+ "region": ["balkans"],
+ "countries": ["BG", "MK", "RO", "MD", "GR", "AL"],
+ "facets": {"era": "living", "status": "living", "portable": "worn", "restricted": "open", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "Twisted white and red yarn, most often made into two small wool dolls: Pizho, the male one, mostly white; Penda, the female one, mostly red and wearing a skirt. It is pinned to clothing or tied at the wrist or neck from Baba Marta Day, the first of March. Modern ones take other shapes and add coloured beads.",
+  "story": "Two rules govern the object, and both are about other people and about time. It is always given, never bought for oneself — to family, friends, anyone you feel close to. And it comes off on a sign, not a date: the wearer takes it off on first seeing a stork, a swallow returning from migration, or a tree in blossom. Failing all three, the end of March.\n\nBaba Marta means Grandma March, and Bulgarian and Macedonian folklore makes her a bad-tempered old woman whose mood turns fast. Wearing her colours is described as asking her for mercy, so that winter passes and spring comes; the first stork or swallow says she is in a good humour and about to retire.\n\nTaking it off has its own local rules. Some tie the martenitsa to the branch of a fruit tree, giving the tree the health and luck the wearer has had while wearing it. Others put it under a stone and look the next day: a larva or a worm means a healthy, successful year; an ant means the same but with hard work for it; a spider means trouble.\n\nOn where it comes from, the cited account offers several accounts and settles none. The custom is tied to the pre-Christian history of the Balkans and to agricultural cults of nature; the twisted white-and-red woollen threads specifically are said to suggest Thracian, possibly Hellenic or Roman origins. Some ethnographers trace it to the Eleusinian Mysteries, with the ancient equivalent of the Greek mártis being the kroke; the custom is mentioned in Photios' Lexicon, which records that the priests wrapped a red thread round the right hand and foot. At that time red and other coloured threads were used to protect children and young people from evil spirits and witchcraft. An early twentieth-century Bulgarian story puts the first martenitsa at the seventh-century Battle of Ongal: after the Bulgar victory, Khan Asparuh sent doves with white threads to carry the news, and the threads turned bloody in flight.\n\n*Inference —* the ethnographers' colour readings are worth quoting rather than choosing between. White for the purity of melting snow, red for the setting sun growing stronger as spring comes; white for purity, red for life and passion; the two together for the cycle of life and death, for good and evil, for sorrow and happiness, for the male and female beginnings and the balance between them. A charm that means that many things at once is a charm doing social work, and the rule that it must be given rather than bought says so out loud."
+ },
+ "dating": {
+  "period": "Attested in Byzantine lexicography; living tradition",
+  "from_year": 801,
+  "to_year": null,
+  "living": true,
+  "label": "the earliest text named is Photios' Lexicon; the practice is living and inscribed by UNESCO in 2017",
+  "method": "textual",
+  "circa": true,
+  "tier": "inference",
+  "source": "s:wp-martenitsa",
+  "note": "The cited article names Photios' Lexicon as the text in which the custom is mentioned but gives it no date. This project dates Photios to the ninth century from general knowledge, not from the article, so the floor is marked inference. The Thracian, Hellenic and Roman origins the article offers are hedged in the article itself and are not used as a date."
+ },
+ "object": {
+  "form": "cord",
+  "materials": ["thread"],
+  "worn": ["wrist", "neck", "chest"],
+  "made_by": "given, never bought for oneself; rural elders teach young girls the making, and in towns it is taught at ethnographic-museum workshops and in schools",
+  "colour": ["red", "white"],
+  "count": 2,
+  "single_use": true,
+  "source": "s:wp-martenitsa",
+  "note": "Count is the two dolls, Pizho and Penda; many martenitsi are a plain twist with no dolls at all. The chest position is the pin on clothing."
+ },
+ "against": [
+  {"harm": "illness", "who": "Bulgarian and Macedonian tradition, in which the red and white threads carry the wish for good health", "source": "s:wp-martenitsa", "tier": "cited"},
+  {"harm": "spirits", "who": "the ancient practice the ethnographers connect it to, in which red or otherwise coloured threads protected children and young people from evil spirits", "source": "s:wp-martenitsa", "tier": "cited"},
+  {"harm": "witchcraft", "who": "the same account, which names witchcraft alongside evil spirits", "source": "s:wp-martenitsa", "tier": "cited"},
+  {"harm": "bad-luck", "who": "UNESCO's description of the element: a red and white thread, untied when the first blossom tree, swallow or stork is seen, held to protect against harsh and unpredictable seasonal change", "source": "s:web-unesco-march-1", "tier": "cited"}
+ ],
+ "recognitions": [
+  {"by": "unesco-ich", "what": "inscribed on the Representative List of the Intangible Cultural Heritage of Humanity as 'Cultural practices associated to the 1st of March', submitted jointly by Bulgaria, North Macedonia, the Republic of Moldova and Romania", "year": 2017, "source": "s:web-unesco-march-1", "url": "https://ich.unesco.org/en/RL/cultural-practices-associated-to-the-1st-of-march-01287"}
+ ],
+ "kin": [
+  {"to": "red-thread", "as": "the sign, and the reason this record and a Jerusalem wrist bracelet are filed together", "rel": "motif"},
+  {"to": "red-string", "as": "the other red thread on a wrist in this atlas — that one has no text behind it, this one has a UNESCO file", "rel": "parallel"},
+  {"to": "thread", "as": "the material; wool, twisted, and nothing else", "rel": "material"},
+  {"to": "knotting", "as": "the practice — twisting and tying is the whole making", "rel": "practice"},
+  {"to": "renewing-yearly", "as": "the practice this object defines: one month, then it goes on a fruit tree or under a stone", "rel": "practice"},
+  {"to": "lunula", "as": "the other amulet here that is defined by the moment it comes off", "rel": "parallel"},
+  {"to": "corn-dolly", "as": "the European neighbour: a figure made of a plant, worn or kept for a season, then given back to the field", "rel": "parallel"},
+  {"to": "european-folk-apotropaic", "as": "the tradition it sits in, at its most calendar-bound", "rel": "tradition"},
+  {"to": "unesco-ich", "as": "the body that inscribed it in 2017, on a file four countries submitted together", "rel": "org"}
+ ],
+ "links": [
+  {"label": "Martenitsa — Wikipedia", "url": "https://en.wikipedia.org/wiki/Martenitsa"},
+  {"label": "Cultural practices associated to the 1st of March — UNESCO", "url": "https://ich.unesco.org/en/RL/cultural-practices-associated-to-the-1st-of-march-01287"}
+ ],
+ "sources": ["s:wp-martenitsa", "s:web-unesco-march-1", "s:wp-red-string-kabbalah", "s:wp-apotropaic-magic"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-martenitsa"},
+  "fields": {
+   "dating": {"tier": "inference", "note": "the ninth-century floor is this project's dating of Photios, not the article's; see dating.note"},
+   "text.story": {"tier": "cited", "source": "s:wp-martenitsa", "note": "the closing paragraph is this project's reading, marked where it appears"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Martenitsa.jpg", "File:Martenitsi on a tree.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

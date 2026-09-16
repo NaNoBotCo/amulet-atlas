@@ -1,0 +1,422 @@
+{
+ "id": "coral",
+ "names": {
+  "name": "Red coral",
+  "native": "珊瑚",
+  "script": "Han",
+  "lang": "zh",
+  "said": "shanhu in Chinese",
+  "aliases": [
+   "precious coral",
+   "corallo"
+  ]
+ },
+ "region": [
+  "rome-italy",
+  "china",
+  "caribbean",
+  "western-europe",
+  "maghreb"
+ ],
+ "countries": [
+  "IT",
+  "CN",
+  "PR",
+  "DE",
+  "CH",
+  "GB"
+ ],
+ "facets": {
+  "kind": "organic"
+ },
+ "text": {
+  "what": "The hard red skeleton of a colonial marine animal, cut and polished like a stone. What it is has been argued about for as long as it has been worn: Theophrastus described red coral, korallion, in his book on stones, implying a mineral, and as a deep-sea plant in his work on plants. Pliny the Elder placed several sea creatures, coral among them, as \"neither animals nor plants, but are possessed of a third nature\". The Babylonian Talmud lists coral among trees, and Rashi, writing in eleventh-century France, calls it \"a type of tree that grows underwater\".",
+  "story": "Coral's amulet career runs on two things: it is red, and it comes out of the sea already branched. In southern Italy the cornicello, the little twisted horn worn against the malocchio, is carved from red coral as often as it is cast in gold or silver, and the coral is read as sacred to Venus. In Puerto Rico the azabache bracelet — the commonest protection put on a child there — carries a black or red coral amulet in the shape of a fist with the index-finger knuckle protruding. In Alsace, southern Germany and Switzerland, Jewish boys wore textile neckbands for their brit milah with a coin or a piece of coloured coral set in the middle, to draw the evil eye away from the child during the circumcision; the practice continued into the early twentieth century.\n\nAt the other end of the network, coral is court material. Chinese writing has long associated red coral with auspiciousness and longevity, for its colour and its resemblance to deer antlers. It peaked under the Qing, when it was almost exclusively reserved for the emperor, worked into coral beads for court jewellery, often with pearls, or into decorative miniature trees. The Qianlong Emperor established a code in 1759 setting strict rules for its use. The route that supplied it is named: an early-modern coral network beginning in the Mediterranean and reaching Qing China through the English East India Company.\n\nBy the middle of the nineteenth century coral fisheries were working the Mediterranean, the Red Sea and the Persian Gulf. The gear is described plainly: two heavy wooden beams crossed at right angles, weighted with stones, netting slung beneath, lowered on a strong rope over an outcrop and dragged by the boat until the coral breaks off into the net.",
+  "today": "Intensely red coral is still prized as a gemstone, and it is now scarce. Writers on coral say why in the same breath: red coral is very rare because of overharvesting, and giving coral as a gift is inadvisable while corals are in decline from climate change, pollution and unsustainable fishing. A charm cut from a reef animal is the clearest case in this atlas of a material whose supply is a live argument, and the argument is not about amulets."
+ },
+ "dating": {
+  "period": "antiquity to the present",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "antiquity to now; the datable points are 1759 and after",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-coral",
+  "note": "No source read here dates coral's earliest amulet use. The dated anchors available are the Qianlong Emperor's code of 1759, coral fisheries in the Mediterranean, Red Sea and Persian Gulf by the mid-19th century, and the brit milah neckbands, which ran into the early 20th century. The material is older than all three and this record does not pretend to a floor."
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "southern Italian wearers of the cornicello, where the coral is part of the argument",
+   "source": "s:wp-cornicello",
+   "tier": "cited"
+  },
+  {
+   "harm": "child-harm",
+   "who": "Jewish families in Alsace, southern Germany and Switzerland, who set coral on a boy's brit milah neckband to pull the eye off him",
+   "source": "s:wp-evil-eye",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "Chinese court usage, which ties red coral to auspiciousness and longevity",
+   "source": "s:wp-coral",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "cornicello",
+   "as": "the horn cut from this material, and the reason Naples has a coral trade at all",
+   "rel": "carried-by"
+  },
+  {
+   "to": "azabache",
+   "as": "the Puerto Rican child's bracelet, whose fist is black jet or red coral",
+   "rel": "carried-by"
+  },
+  {
+   "to": "figa",
+   "as": "the same closed fist with the thumb through, cut in coral where coral is to hand",
+   "rel": "carried-by"
+  },
+  {
+   "to": "horn",
+   "as": "the sign this material is most often cut into around the Mediterranean",
+   "rel": "motif"
+  },
+  {
+   "to": "fist",
+   "as": "the other sign it is cut into, for the same harm and the same wearer",
+   "rel": "motif"
+  },
+  {
+   "to": "jet",
+   "as": "coral's black opposite in the same bracelet: one red, one black, both on the same infant",
+   "rel": "parallel"
+  },
+  {
+   "to": "amber",
+   "as": "the other organic material traded far from where it is found and hung on children",
+   "rel": "parallel"
+  },
+  {
+   "to": "most-of-them-are-for-children",
+   "as": "the long read: nearly every coral charm named here goes on a baby",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Coral — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Coral"
+  }
+ ],
+ "sources": [
+  "s:wp-coral",
+  "s:wp-cornicello",
+  "s:wp-evil-eye"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-coral"
+  }
+ },
+ "x_commons_files": [
+  "File:Corallium rubrum.jpg",
+  "File:Cornicello.jpg"
+ ],
+ "confidence": "high",
+ "schema": 1,
+ "type": "material",
+ "images": [],
+ "updated": "2026-09-16",
+ "blurb": "The hard red skeleton of a colonial marine animal, cut and polished like a stone.",
+ "region_terms": [
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "china",
+   "name": "China",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "caribbean",
+   "name": "The Caribbean",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "western-europe",
+   "name": "Western Europe",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "maghreb",
+   "name": "The Maghreb",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Morocco, Algeria, Tunisia, Libya"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "cornicello",
+   "type": "amulet",
+   "name": "Cornicello",
+   "as": "the horn cut from this material, and the reason Naples has a coral trade at all",
+   "rel": "carried-by"
+  },
+  {
+   "to": "azabache",
+   "type": "amulet",
+   "name": "Azabache",
+   "as": "the Puerto Rican child's bracelet, whose fist is black jet or red coral",
+   "rel": "carried-by"
+  },
+  {
+   "to": "figa",
+   "type": "amulet",
+   "name": "Figa",
+   "as": "the same closed fist with the thumb through, cut in coral where coral is to hand",
+   "rel": "carried-by"
+  },
+  {
+   "to": "horn",
+   "type": "motif",
+   "name": "The horn",
+   "as": "the sign this material is most often cut into around the Mediterranean",
+   "rel": "motif"
+  },
+  {
+   "to": "fist",
+   "type": "motif",
+   "name": "The fig fist",
+   "as": "the other sign it is cut into, for the same harm and the same wearer",
+   "rel": "motif"
+  },
+  {
+   "to": "jet",
+   "type": "material",
+   "name": "Jet",
+   "as": "coral's black opposite in the same bracelet: one red, one black, both on the same infant",
+   "rel": "parallel"
+  },
+  {
+   "to": "amber",
+   "type": "material",
+   "name": "Amber",
+   "as": "the other organic material traded far from where it is found and hung on children",
+   "rel": "parallel"
+  },
+  {
+   "to": "most-of-them-are-for-children",
+   "type": "story",
+   "name": "Most of them are for children",
+   "as": "the long read: nearly every coral charm named here goes on a baby",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-coral",
+   "kind": "encyclopedia",
+   "title": "Coral",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Coral",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cornicello",
+   "kind": "encyclopedia",
+   "title": "Cornicello",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cornicello",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-evil-eye",
+   "kind": "encyclopedia",
+   "title": "Evil eye",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Evil_eye",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-coral"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-coral"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-coral"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-coral"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "southern Italian wearers of the cornicello, where the coral is part of the argument",
+   "quote": "",
+   "source": "s:wp-cornicello",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "child-harm",
+   "label": "Harm to a child",
+   "gloss": "harm to an infant or a small child; common across the atlas, though not the largest class in it — see /story/most-of-them-are-for-children/",
+   "who": "Jewish families in Alsace, southern Germany and Switzerland, who set coral on a boy's brit milah neckband to pull the eye off him",
+   "quote": "",
+   "source": "s:wp-evil-eye",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "Chinese court usage, which ties red coral to auspiciousness and longevity",
+   "quote": "",
+   "source": "s:wp-coral",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "undated",
+ "country_names": [
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "CN",
+   "name": "China"
+  },
+  {
+   "iso": "PR",
+   "name": "Puerto Rico"
+  },
+  {
+   "iso": "DE",
+   "name": "Germany"
+  },
+  {
+   "iso": "CH",
+   "name": "Switzerland"
+  },
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "cornicello",
+   "type": "amulet",
+   "name": "Cornicello",
+   "as": "the old material, red, sacred to Venus in the tradition's own account, and the one a Naples workshop still cuts",
+   "rel": "material"
+  },
+  {
+   "from": "dzi-bead",
+   "type": "amulet",
+   "name": "Dzi bead",
+   "as": "what a dzi is flanked with on a Tibetan necklace — and, like the bead, something that reached Tibet from somewhere else",
+   "rel": "material"
+  },
+  {
+   "from": "navaratna-ring",
+   "type": "amulet",
+   "name": "Navaratna ring",
+   "as": "the red stone in the ring, standing for Mars, and the one material here this atlas files on its own",
+   "rel": "material"
+  },
+  {
+   "from": "horn",
+   "type": "motif",
+   "name": "The horn",
+   "as": "the red material that gives the Neapolitan horn its colour and half its story",
+   "rel": "material"
+  },
+  {
+   "from": "tree",
+   "type": "motif",
+   "name": "The tree",
+   "as": "the sea animal the Talmud files among trees, and Rashi calls a tree that grows underwater",
+   "rel": "kin"
+  },
+  {
+   "from": "amber",
+   "type": "material",
+   "name": "Amber",
+   "as": "the other organic charm traded the length of a continent and hung on children",
+   "rel": "parallel"
+  },
+  {
+   "from": "jet",
+   "type": "material",
+   "name": "Jet",
+   "as": "the red half of the azabache bracelet, where jet is the black half",
+   "rel": "parallel"
+  },
+  {
+   "from": "turquoise",
+   "type": "material",
+   "name": "Turquoise",
+   "as": "its partner in Tibetan and Mongolian silverwork, red against blue on the same setting",
+   "rel": "kin"
+  },
+  {
+   "from": "san-gregorio-armeno",
+   "type": "place",
+   "name": "Via San Gregorio Armeno",
+   "as": "the material the horn is cut from, and the one Naples has worked longest",
+   "rel": "material"
+  }
+ ]
+}

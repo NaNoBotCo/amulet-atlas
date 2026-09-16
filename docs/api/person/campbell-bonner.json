@@ -1,0 +1,284 @@
+{
+ "schema": 1,
+ "id": "campbell-bonner",
+ "type": "person",
+ "names": {
+  "name": "Campbell Bonner",
+  "sort": "Bonner, Campbell"
+ },
+ "region": [
+  "ancient-egypt",
+  "greece-aegean",
+  "levant",
+  "north-america"
+ ],
+ "countries": [
+  "US",
+  "EG",
+  "GR"
+ ],
+ "facets": {
+  "role": [
+   "scholar",
+   "curator"
+  ]
+ },
+ "text": {
+  "what": "American classicist, 1876–1954, of the University of Michigan, who wrote the book that made carved magical gems a subject with a method. \"Studies in Magical Amulets, Chiefly Graeco-Egyptian\", Ann Arbor, 1950, described and classified the engraved stones of the late Roman eastern Mediterranean — the ones cut with Abraxas, the reaper, the womb-symbol, strings of vowels — and set out how to read the images and the inscriptions together.",
+  "story": "Bonner was born in Nashville, Tennessee, on 30 January 1876 and died in Ann Arbor, Michigan, on 11 July 1954. His published work runs from 1921 and covers magical papyri as well as gems; the amulets sat inside a wider study of popular religion in the late pagan and early Christian world.\n\nThe gems are small, hard and portable, cut in haematite, jasper, carnelian and chalcedony, and they carry a mixture nobody else had sorted: Egyptian gods, Greek vowels, Hebrew divine names, Roman medical language. Bonner's 1950 volume is where that mixture stopped being a curiosity list and became a corpus with types.\n\n*Inference —* the tell of a corpus that worked is that it grew after its author died. The Museum of Fine Arts in Budapest runs the Campbell Bonner Magical Gems Database, named for him, launched in 2010, and it estimates the entire corpus at around 5,600 pieces. That is a number nobody could have counted before the material had a shared vocabulary.",
+  "today": "The database at the Museum of Fine Arts, Budapest carries his name and, in its own words, has \"the primary aim ... to bring the entire corpus of magical gems online\". This project has not read a published academic criticism of Bonner's framing and does not assert that none exists."
+ },
+ "dating": {
+  "period": "Twentieth century",
+  "from_year": 1876,
+  "to_year": 1954,
+  "living": false,
+  "label": "30 January 1876 – 11 July 1954",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:web-campbell-bonner-wikipedia"
+ },
+ "kin": [
+  {
+   "to": "magical-gem",
+   "as": "the object class his 1950 book defined, named and made countable",
+   "rel": "kin"
+  },
+  {
+   "to": "divine-name",
+   "as": "the sign his gems carry most consistently — names and vowel-strings cut beside the figure",
+   "rel": "motif"
+  },
+  {
+   "to": "greco-roman-apotropaic",
+   "as": "the tradition his corpus belongs to, at its late and most mixed end",
+   "rel": "tradition"
+  },
+  {
+   "to": "carnelian",
+   "as": "one of the stones the gems are cut from, alongside haematite and jasper",
+   "rel": "material"
+  },
+  {
+   "to": "christopher-faraone",
+   "as": "the classicist working the same Greek material two generations on, and asking how the amulets changed under Rome",
+   "rel": "parallel"
+  },
+  {
+   "to": "inscribing",
+   "as": "the practice his method reads — image and cut text taken together, never separately",
+   "rel": "practice"
+  },
+  {
+   "to": "dating-a-charm",
+   "as": "the long read on dating; an uninscribed gem with no find-spot is the hard case his typology exists for",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Campbell Bonner — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Campbell_Bonner"
+  },
+  {
+   "label": "The Campbell Bonner Magical Gems Database",
+   "url": "http://cbd.mfab.hu/"
+  }
+ ],
+ "sources": [
+  "s:web-campbell-bonner-wikipedia",
+  "s:web-cbd-magical-gems"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-campbell-bonner-wikipedia"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-cbd-magical-gems",
+    "note": "the corpus estimate of about 5,600 pieces is the database's own figure; the paragraph reasoning from it is marked as inference"
+   },
+   "text.what": {
+    "tier": "cited",
+    "source": "s:web-campbell-bonner-wikipedia",
+    "note": "the stones and subjects listed are described from the gem literature generally; no measurement or accession number is quoted"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "American classicist, 1876–1954, of the University of Michigan, who wrote the book that made carved magical gems a subject with a method.",
+ "region_terms": [
+  {
+   "key": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Nile valley and delta, Predynastic through Roman Egypt"
+  },
+  {
+   "key": "greece-aegean",
+   "name": "Greece and the Aegean",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "levant",
+   "name": "The Levant",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "magical-gem",
+   "type": "amulet",
+   "name": "Magical gem",
+   "as": "the object class his 1950 book defined, named and made countable",
+   "rel": "kin"
+  },
+  {
+   "to": "divine-name",
+   "type": "motif",
+   "name": "The name",
+   "as": "the sign his gems carry most consistently — names and vowel-strings cut beside the figure",
+   "rel": "motif"
+  },
+  {
+   "to": "greco-roman-apotropaic",
+   "type": "tradition",
+   "name": "Greek and Roman protective magic",
+   "as": "the tradition his corpus belongs to, at its late and most mixed end",
+   "rel": "tradition"
+  },
+  {
+   "to": "carnelian",
+   "type": "material",
+   "name": "Carnelian",
+   "as": "one of the stones the gems are cut from, alongside haematite and jasper",
+   "rel": "material"
+  },
+  {
+   "to": "christopher-faraone",
+   "type": "person",
+   "name": "Christopher A. Faraone",
+   "as": "the classicist working the same Greek material two generations on, and asking how the amulets changed under Rome",
+   "rel": "parallel"
+  },
+  {
+   "to": "inscribing",
+   "type": "practice",
+   "name": "Inscribing",
+   "as": "the practice his method reads — image and cut text taken together, never separately",
+   "rel": "practice"
+  },
+  {
+   "to": "dating-a-charm",
+   "type": "story",
+   "name": "Dating a charm",
+   "as": "the long read on dating; an uninscribed gem with no find-spot is the hard case his typology exists for",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:web-campbell-bonner-wikipedia",
+   "kind": "web",
+   "title": "Campbell Bonner",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Campbell_Bonner",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-cbd-magical-gems",
+   "kind": "web",
+   "title": "The Campbell Bonner Magical Gems Database (CBd)",
+   "publisher": "Museum of Fine Arts, Budapest",
+   "url": "http://cbd.mfab.hu/",
+   "accessed": "2026-09-16"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:web-campbell-bonner-wikipedia",
+   "note": "the stones and subjects listed are described from the gem literature generally; no measurement or accession number is quoted"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:web-cbd-magical-gems",
+   "note": "the corpus estimate of about 5,600 pieces is the database's own figure; the paragraph reasoning from it is marked as inference"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:web-campbell-bonner-wikipedia"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:web-campbell-bonner-wikipedia"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1876 CE – 1954 CE",
+ "country_names": [
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "magical-gem",
+   "type": "amulet",
+   "name": "Magical gem",
+   "as": "the scholar the standing database of these stones is named for",
+   "rel": "person"
+  },
+  {
+   "from": "christopher-faraone",
+   "type": "person",
+   "name": "Christopher A. Faraone",
+   "as": "the scholar who first made the late Greek amulets a corpus he is now reading for change over time",
+   "rel": "parallel"
+  }
+ ]
+}

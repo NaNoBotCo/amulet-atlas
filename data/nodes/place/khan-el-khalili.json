@@ -1,0 +1,61 @@
+{
+ "schema": 1,
+ "id": "khan-el-khalili",
+ "type": "place",
+ "names": {
+  "name": "Khan el-Khalili",
+  "native": "خان الخليلي",
+  "script": "Arabic",
+  "lang": "ar",
+  "said": "khaan el-kha-LEE-lee",
+  "aliases": ["Khan al-Khalili", "the Cairo bazaar"]
+ },
+ "region": ["ancient-egypt", "arabia-gulf"],
+ "countries": ["EG"],
+ "facets": {"kind": "market", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "Cairo's bazaar quarter, in the medieval city between al-Muizz Street, al-Muski Street and the mosque and shrine of al-Hussein. Shops sit at ground level in the walls of old khans — multi-storey merchant inns built round a courtyard — with workshops above and behind them. Goldsmiths hold their own souq inside it, and it is the goldsmiths' lane that matters to this atlas: a charm in Cairo is usually something small, stamped or cast in metal, and bought where metal is sold.",
+  "story": "The quarter is named after a stable-master. During Sultan Barquq's first reign, between 1382 and 1389, his amir akhur Jaharkas al-Khalili pulled down the Fatimid royal mausoleum that stood here — the Turbat az-Za'faraan, the Saffron Tomb — and put up a large khan in its place. He is reported to have thrown the bones of the Fatimid caliphs onto the rubbish hills east of the city. The khan took his name, then the whole district did.\n\nSultan al-Ghuri, the last effective Mamluk sultan, demolished al-Khalili's building and rebuilt it in 1511, laying out a souq with monumental stone gates. Two of those gates still stand on Sikkat al-Badistan. By the end of the Mamluk period there were 21 khans and wikalas here; by the end of the 18th century, some 39. El-Fishawy's coffeehouse, still in the lanes, was established in 1773.\n\nThe present trade is aimed at visitors and at Cairenes in different lanes. Shops sell souvenirs, antiques and jewellery; the goldsmiths' souq still serves locals; crafts workshops run in the courtyards and upper floors. The scholar Remke Kruk found books on magic and sorcery well represented in street stalls and bookshops across the Muslim world around 2005, from Marrakesh to Cairo to Yemen, alongside religious pamphlets condemning the practices those books describe — an argument conducted stall to stall, in print, in the same streets.\n\n*Inference —* the pharaonic amulet shapes a visitor buys here — scarab, wedjat eye, ankh — are jewellery made now, not survivals. This atlas has read no source that surveys what the Khan's stalls actually stock, so the record stops at what the goldsmiths' souq and the workshops are documented to be.\n\nThe market has twice been attacked. A suicide bombing on 7 April 2005 killed 21 people; a second attack on 22 February 2009 killed a 17-year-old French visitor and injured 22 people.",
+  "today": "Trading, and oriented to tourism in its best-known lanes, as of the most recent published account this project has read. No day is marked open or closed below: the district's hours are the individual shopkeepers' and nobody publishes them as a timetable."
+ },
+ "dating": {
+  "period": "Burji Mamluk to the present",
+  "from_year": 1382,
+  "to_year": null,
+  "living": true,
+  "label": "1382 to now",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-khan-el-khalili",
+  "note": "Dated from the foundation of al-Khalili's khan during Barquq's first reign (1382-1389); the commercial quarter around it is older."
+ },
+ "geo": {"lat": 30.0475, "lon": 31.26222, "precision": "street", "source": "the coordinate published in the English Wikipedia article Khan el-Khalili, read 2026-09-16"},
+ "address": {"street": "Sikkat al-Badistan, off al-Muizz Street", "city": "Cairo", "admin": "Cairo Governorate", "country": "EG"},
+ "kin": [
+  {"to": "egyptian-amulet-craft", "as": "the tradition whose shapes are cut in this city's gold four thousand years after the workshops that invented them closed", "rel": "tradition"},
+  {"to": "scarab", "as": "sold here now as jewellery; the excavated ones are a mile away in the Egyptian Museum", "rel": "carries"},
+  {"to": "hamsa", "as": "the hand sold across this trade's whole range, from Morocco to the Gulf", "rel": "carries"},
+  {"to": "taweez", "as": "the written charm the bookstalls serve — Kruk found the handbooks and the pamphlets against them on the same streets", "rel": "carries"},
+  {"to": "islamic-talismanic", "as": "the tradition those handbooks belong to, argued over in print in this quarter", "rel": "tradition"},
+  {"to": "buying-in-a-market", "as": "the practice, in a quarter purpose-built for it since the Mamluks taxed stalls into stone shops", "rel": "practice"},
+  {"to": "grand-bazaar", "as": "the Ottoman answer to the same problem — how to roof a city's trade and lock it at night", "rel": "parallel"},
+  {"to": "marrakesh-souk", "as": "the other end of Kruk's line, where the same books are sold", "rel": "parallel"}
+ ],
+ "tags": [
+  {"tag": "market", "source": "s:wp-khan-el-khalili", "tier": "cited", "note": "a bazaar district of shops, workshops and a goldsmiths' souq in the historic centre of Cairo"}
+ ],
+ "links": [{"label": "Khan el-Khalili — Wikipedia", "url": "https://en.wikipedia.org/wiki/Khan_el-Khalili"}],
+ "sources": ["s:wp-khan-el-khalili", "s:wp-islam-and-magic", "s:wp-amulet"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-khan-el-khalili"},
+  "fields": {
+   "geo": {"tier": "cited", "source": "s:wp-khan-el-khalili", "note": "the article's own coordinate, read 2026-09-16; it sits in the lanes, so precision is street"},
+   "text.today": {"tier": "inference", "note": "reasoned from published accounts; nobody from this project has walked these lanes"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Khan el-Khalili 2019.jpg", "File:Cairo, khan el-khalili, 01.JPG"],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

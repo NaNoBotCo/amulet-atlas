@@ -1,0 +1,577 @@
+{
+ "schema": 1,
+ "id": "rowan-cross",
+ "type": "amulet",
+ "names": {
+  "name": "Rowan cross",
+  "native": "caorann",
+  "script": "Latin",
+  "lang": "gd",
+  "said": "ROH-an; the Gaelic name for the tree is said KUR-an",
+  "aliases": [
+   "rowan and red thread",
+   "rowan loop",
+   "witch-wood cross",
+   "quickbeam cross"
+  ]
+ },
+ "etymology": {
+  "root": "English rowan, recorded from 1804 and detached from an earlier rowan-tree, rountree, attested in northern English and Scots from the 1540s; probably from a North Germanic source related to Old Norse reynir, ultimately from Germanic *raud-inan 'to redden', for the berries.",
+  "note": "The tree's Old English name was cwic-bēam, which survives as quickbeam. By the nineteenth century that name had been reinterpreted through the dialect form wick, producing wicken-tree, wich-tree and wiggan-tree — so the tree ends up sounding as though it were named for the witches it was cut against.",
+  "tier": "cited",
+  "source": "s:wp-rowan"
+ },
+ "region": [
+  "britain-ireland",
+  "nordic",
+  "western-europe"
+ ],
+ "countries": [
+  "GB",
+  "IE",
+  "IM"
+ ],
+ "facets": {
+  "era": "early-modern",
+  "status": "living",
+  "portable": "carried",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "Two rowan twigs laid across each other and bound at the crossing with red thread or wool, a few inches across. A variant is a loop rather than a cross: a single withy bent round and tied. Both are cut green, and both are meant to be renewed.",
+  "story": "The rowan's reputation is older than the charm's paperwork. British folklorists of the Victorian era reported the belief in the tree's power to turn away witches: Edwin Lees wrote it up for the Wyre Forest in 1856, James Frazer reported it from Scotland in 1890 — where the tree was often planted by a gate or a front door — and Charles Godfrey Leland reported English traditions of the same in 1891, citing the Denham Tracts, collected between 1846 and 1859. Frazer singled out the flying rowan, a rowan seeded by bird droppings into the fork of an oak or a maple and growing as an epiphyte, as especially potent against witches and as a counter-charm against sorcery.\n\nWhat the twigs were for is agricultural before it is anything else. In Scottish folklore boughs of rowan were taken into cattle byres in May to protect the livestock, rowan trees were planted in pastures for the same reason, and twigs were used to drive cattle out to grass for the first time in spring to secure their health and fertility. In English folklore the wood was worked into the shafts of farm implements to keep animals and produce out of reach of witches' spells, and rowan was chosen for the post or mantel over a fireplace. Thomas Keightley recorded that mortals could safely watch the fairy rades — the mounted processions the fairies were said to hold at the onset of summer — by putting a rowan branch over their doors.\n\nThe objects survive because a clergyman posted them to Oxford. On 28 February 1893 the Rev. Canon John Christopher Atkinson, of Danby Parsonage, Grosmont, in the North Riding of Yorkshire, gave the Pitt Rivers Museum three rowan loops, accessioned as 1893.18.1–3, the smallest 70 mm across; Atkinson had published on the practice in 1891. The museum's account records that from Scotland to Cornwall crosses of the same wood were bound with red thread and carried in pockets or sewn into the linings of coats, and that in Strathspey a loop of rowan was made at May Day and flocks of sheep and lambs were driven through it morning and evening.\n\n*Tradition holds —* the charm goes with a couplet, usually given in Scots as \"Rowan tree and red thread, gar the witches tyne their speed\" — gar is to compel, tyne is to lose. This record has not read that rhyme in any of the sources it cites, and prints it here as a thing people say rather than as a documented text.",
+  "how": "Cut green, from a living tree, at a named time — the Pitt Rivers account gives St Helen's Day for collecting, and May Day and Lammas for the rites the loops belong to. Two twigs are crossed and lashed at the join with red thread or wool; a loop is bent from one withy and tied. The finished charm goes over a door or a byre lintel, into a pocket, or into a coat lining. *Tradition holds —* it is cut fresh each year, the old one discarded, which is why so few reach museums.",
+  "today": "Made and sold by British craftworkers and by shops trading in folk charms, and made at home by people who have read about it. *Inference —* the continuous farming practice the Victorian folklorists recorded is not what is happening now; what is happening now is a revival working from those same published accounts, and this record separates the two rather than running them together."
+ },
+ "dating": {
+  "period": "Victorian folklore record to the present",
+  "from_year": 1846,
+  "to_year": null,
+  "living": true,
+  "label": "recorded from the 1840s; still made",
+  "method": "ethnographic",
+  "circa": true,
+  "tier": "tradition",
+  "source": "s:web-prm-rowan-loop",
+  "note": "Dated from the earliest collections this record has read: the Denham Tracts, gathered 1846–1859; Edwin Lees on the Wyre Forest, 1856; Frazer on Scotland, 1890; Atkinson's Yorkshire loops, given to the Pitt Rivers Museum in 1893. The practice is certainly older than its first collector and this record does not guess how much older."
+ },
+ "object": {
+  "form": "knot",
+  "materials": [
+   "wood",
+   "thread"
+  ],
+  "worn": [
+   "pocket",
+   "sewn-in",
+   "door",
+   "field"
+  ],
+  "made_by": "anyone in the household; no restriction is recorded",
+  "inscription": "",
+  "colour": [
+   "red",
+   "pale brown"
+  ],
+  "single_use": true,
+  "source": "s:web-prm-rowan-loop",
+  "note": "The Pitt Rivers Museum records three loops from Atkinson, the smallest 70 mm across. That is a measurement of one object in one accession, not a typical dimension, so it is not entered as length_mm."
+ },
+ "against": [
+  {
+   "harm": "witchcraft",
+   "who": "Victorian folklorists reporting British practice — Edwin Lees for the Wyre Forest in 1856, James Frazer for Scotland in 1890, Charles Godfrey Leland for England in 1891",
+   "source": "s:wp-rowan",
+   "tier": "cited"
+  },
+  {
+   "harm": "livestock",
+   "who": "Scottish practice, as recorded of rowan boughs taken into byres in May and trees planted in pastures",
+   "source": "s:wp-sorbus-aucuparia",
+   "tier": "cited",
+   "note": "twigs were also used to drive cattle out to pasture for the first time in spring, for health and fertility"
+  },
+  {
+   "harm": "spirits",
+   "who": "Thomas Keightley, on mortals who put a rowan branch over their doors to watch the fairy rades safely",
+   "source": "s:wp-rowan",
+   "tier": "cited"
+  },
+  {
+   "harm": "house",
+   "who": "English building practice, in which rowan was chosen for the post or mantel over a fireplace to discourage witchcraft",
+   "source": "s:wp-apotropaic-magic",
+   "tier": "cited"
+  }
+ ],
+ "holdings": [
+  {
+   "museum": "pitt-rivers",
+   "what": "three loops of rowan tree given by the Rev. Canon John Christopher Atkinson of Danby Parsonage, Grosmont, Yorkshire, on 28 February 1893; the smallest is 70 mm across",
+   "accession": "1893.18.1-3",
+   "url": "https://england.prm.ox.ac.uk/englishness-loop-of-rowan-tree.html",
+   "source": "s:web-prm-rowan-loop"
+  }
+ ],
+ "kin": [
+  {
+   "to": "red-thread",
+   "as": "the second half of the charm and the half that does the binding — wood alone is not the object",
+   "rel": "motif"
+  },
+  {
+   "to": "tree",
+   "as": "the sign behind it: this is the one British charm whose power is attributed to a named species and not to a shape",
+   "rel": "motif"
+  },
+  {
+   "to": "hagstone",
+   "as": "what hung on the next nail, found rather than cut, and not renewed each year",
+   "rel": "parallel"
+  },
+  {
+   "to": "horseshoe",
+   "as": "the iron answer to the same door, and the one that stayed up all year",
+   "rel": "parallel"
+  },
+  {
+   "to": "brigids-cross",
+   "as": "the other woven cross of these islands, made on one named day, hung in the rafters, and replaced at the next feast",
+   "rel": "parallel"
+  },
+  {
+   "to": "knotting",
+   "as": "the practice that makes it — the red thread at the crossing is the whole operation",
+   "rel": "practice"
+  },
+  {
+   "to": "sewing-in",
+   "as": "how it was carried where it could not be seen, stitched into a coat lining from Scotland to Cornwall",
+   "rel": "practice"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "where it mostly went: over a door, over a byre lintel, above a hearth",
+   "rel": "practice"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the tradition it belongs to, and its clearest case of a plant used as a metal would be",
+   "rel": "tradition"
+  },
+  {
+   "to": "pitt-rivers-charms",
+   "as": "the case these loops have sat in since 1893, and the reason we can say how big they are",
+   "rel": "place"
+  },
+  {
+   "to": "witch-bottle",
+   "as": "the same fear answered indoors and out of sight, with urine and pins instead of wood and thread",
+   "rel": "contrast"
+  }
+ ],
+ "links": [
+  {
+   "label": "Rowan — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rowan"
+  },
+  {
+   "label": "A Loop of Rowan Tree — Pitt Rivers Museum",
+   "url": "https://england.prm.ox.ac.uk/englishness-loop-of-rowan-tree.html"
+  }
+ ],
+ "sources": [
+  "s:wp-rowan",
+  "s:wp-sorbus-aucuparia",
+  "s:web-prm-rowan-loop",
+  "s:wp-apotropaic-magic",
+  "s:wp-pitt-rivers-museum"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-prm-rowan-loop"
+  },
+  "fields": {
+   "dating": {
+    "tier": "tradition",
+    "source": "s:web-prm-rowan-loop",
+    "note": "dated from the first collectors, not from the practice's own beginning, which is unknown"
+   },
+   "text.how": {
+    "tier": "tradition",
+    "source": "s:web-prm-rowan-loop",
+    "note": "the collecting days and the May Day rite are cited; the yearly renewal is marked in the prose as tradition"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "no survey of present-day makers stands behind this; the paragraph says so"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "Two rowan twigs laid across each other and bound at the crossing with red thread or wool, a few inches across. A variant is a loop rather than a cross: a single withy bent round and tied.",
+ "region_terms": [
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "nordic",
+   "name": "Scandinavia and the North",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "western-europe",
+   "name": "Western Europe",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "red-thread",
+   "type": "motif",
+   "name": "The red thread",
+   "as": "the second half of the charm and the half that does the binding — wood alone is not the object",
+   "rel": "motif"
+  },
+  {
+   "to": "tree",
+   "type": "motif",
+   "name": "The tree",
+   "as": "the sign behind it: this is the one British charm whose power is attributed to a named species and not to a shape",
+   "rel": "motif"
+  },
+  {
+   "to": "hagstone",
+   "type": "amulet",
+   "name": "Hagstone",
+   "as": "what hung on the next nail, found rather than cut, and not renewed each year",
+   "rel": "parallel"
+  },
+  {
+   "to": "horseshoe",
+   "type": "amulet",
+   "name": "Horseshoe",
+   "as": "the iron answer to the same door, and the one that stayed up all year",
+   "rel": "parallel"
+  },
+  {
+   "to": "brigids-cross",
+   "type": "amulet",
+   "name": "Brigid's cross",
+   "as": "the other woven cross of these islands, made on one named day, hung in the rafters, and replaced at the next feast",
+   "rel": "parallel"
+  },
+  {
+   "to": "knotting",
+   "type": "practice",
+   "name": "Knotting",
+   "as": "the practice that makes it — the red thread at the crossing is the whole operation",
+   "rel": "practice"
+  },
+  {
+   "to": "sewing-in",
+   "type": "practice",
+   "name": "Sewing in",
+   "as": "how it was carried where it could not be seen, stitched into a coat lining from Scotland to Cornwall",
+   "rel": "practice"
+  },
+  {
+   "to": "hanging-at-door",
+   "type": "practice",
+   "name": "Hanging at the door",
+   "as": "where it mostly went: over a door, over a byre lintel, above a hearth",
+   "rel": "practice"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "type": "tradition",
+   "name": "European folk apotropaic craft",
+   "as": "the tradition it belongs to, and its clearest case of a plant used as a metal would be",
+   "rel": "tradition"
+  },
+  {
+   "to": "pitt-rivers-charms",
+   "type": "place",
+   "name": "The amulet and charm cases, Pitt Rivers Museum",
+   "as": "the case these loops have sat in since 1893, and the reason we can say how big they are",
+   "rel": "place"
+  },
+  {
+   "to": "witch-bottle",
+   "type": "amulet",
+   "name": "Witch bottle",
+   "as": "the same fear answered indoors and out of sight, with urine and pins instead of wood and thread",
+   "rel": "contrast"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-rowan",
+   "kind": "encyclopedia",
+   "title": "Rowan",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rowan",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-sorbus-aucuparia",
+   "kind": "encyclopedia",
+   "title": "Sorbus aucuparia",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sorbus_aucuparia",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-prm-rowan-loop",
+   "kind": "web",
+   "title": "A Loop of Rowan Tree: amulets against witchcraft",
+   "author": "Sandra Modh",
+   "publisher": "Pitt Rivers Museum, University of Oxford — England: The Other Within",
+   "url": "https://england.prm.ox.ac.uk/englishness-loop-of-rowan-tree.html",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-apotropaic-magic",
+   "kind": "encyclopedia",
+   "title": "Apotropaic magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Apotropaic_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pitt-rivers-museum",
+   "kind": "encyclopedia",
+   "title": "Pitt Rivers Museum",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pitt_Rivers_Museum",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:web-prm-rowan-loop"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:web-prm-rowan-loop"
+  },
+  "text.how": {
+   "tier": "tradition",
+   "source": "s:web-prm-rowan-loop",
+   "note": "the collecting days and the May Day rite are cited; the yearly renewal is marked in the prose as tradition"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "no survey of present-day makers stands behind this; the paragraph says so"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:web-prm-rowan-loop"
+  },
+  "dating": {
+   "tier": "tradition",
+   "source": "s:web-prm-rowan-loop",
+   "note": "dated from the first collectors, not from the practice's own beginning, which is unknown"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:web-prm-rowan-loop"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "witchcraft",
+   "label": "Another person's sorcery",
+   "who": "Victorian folklorists reporting British practice — Edwin Lees for the Wyre Forest in 1856, James Frazer for Scotland in 1890, Charles Godfrey Leland for England in 1891",
+   "quote": "",
+   "source": "s:wp-rowan",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "livestock",
+   "label": "Harm to livestock",
+   "who": "Scottish practice, as recorded of rowan boughs taken into byres in May and trees planted in pastures",
+   "quote": "",
+   "source": "s:wp-sorbus-aucuparia",
+   "tier": "cited",
+   "note": "twigs were also used to drive cattle out to pasture for the first time in spring, for health and fertility"
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "Thomas Keightley, on mortals who put a rowan branch over their doors to watch the fairy rades safely",
+   "quote": "",
+   "source": "s:wp-rowan",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "house",
+   "label": "Harm to a house or a field",
+   "who": "English building practice, in which rowan was chosen for the post or mantel over a fireplace to discourage witchcraft",
+   "quote": "",
+   "source": "s:wp-apotropaic-magic",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "wood",
+   "label": "Wood",
+   "kind": "plant"
+  },
+  {
+   "key": "thread",
+   "label": "Thread and cord",
+   "kind": "textile",
+   "note": "red thread runs from the Mediterranean to Mongolia"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  },
+  {
+   "key": "sewn-in",
+   "label": "Sewn into clothing",
+   "group": "carried"
+  },
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  },
+  {
+   "key": "field",
+   "label": "In a field",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "knot",
+  "label": "Knot"
+ },
+ "holding_facts": [
+  {
+   "key": "pitt-rivers",
+   "label": "The Pitt Rivers Museum",
+   "city": "Oxford",
+   "country": "GB",
+   "url": "https://england.prm.ox.ac.uk/englishness-loop-of-rowan-tree.html",
+   "what": "three loops of rowan tree given by the Rev. Canon John Christopher Atkinson of Danby Parsonage, Grosmont, Yorkshire, on 28 February 1893; the smallest is 70 mm across",
+   "accession": "1893.18.1-3",
+   "source": "s:web-prm-rowan-loop"
+  }
+ ],
+ "span": "1846 CE to now",
+ "country_names": [
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "IE",
+   "name": "Ireland"
+  },
+  {
+   "iso": "IM",
+   "name": "Isle of Man"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "brigids-cross",
+   "type": "amulet",
+   "name": "Brigid's cross",
+   "as": "the other cross of two crossed things bound at the centre, made for the same rafters against a differently named harm",
+   "rel": "parallel"
+  },
+  {
+   "from": "concealed-shoe",
+   "type": "amulet",
+   "name": "Concealed shoe",
+   "as": "the same household's charm on the outside of the door, renewed yearly, while this one stayed in the chimney for six centuries",
+   "rel": "contrast"
+  },
+  {
+   "from": "hagstone",
+   "type": "amulet",
+   "name": "Hagstone",
+   "as": "the other thing a British household hung on the same nail, and the one that had to be cut and bound rather than found",
+   "rel": "parallel"
+  },
+  {
+   "from": "european-folk-apotropaic",
+   "type": "tradition",
+   "name": "European folk apotropaic craft",
+   "as": "its clearest case of a plant used the way iron is used, bound with red thread and kept at a door",
+   "rel": "carries"
+  },
+  {
+   "from": "cross",
+   "type": "motif",
+   "name": "The cross",
+   "as": "two twigs of rowan bound crosswise, which is a cross made of the material's power rather than the shape's",
+   "rel": "carried-by"
+  },
+  {
+   "from": "tree",
+   "type": "motif",
+   "name": "The tree",
+   "as": "the charm cut from the tree at the gate, which is this sign reduced to two sticks and a thread",
+   "rel": "carried-by"
+  },
+  {
+   "from": "herb",
+   "type": "material",
+   "name": "Herb and root",
+   "as": "the tree whose berries were permitted and whose wood was not, except for ritual",
+   "rel": "kin"
+  },
+  {
+   "from": "wood",
+   "type": "material",
+   "name": "Wood",
+   "as": "the European protective wood with a species name, and a taboo about which parts may be used",
+   "rel": "carried-by"
+  }
+ ]
+}

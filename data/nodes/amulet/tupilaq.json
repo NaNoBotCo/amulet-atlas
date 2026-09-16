@@ -1,0 +1,148 @@
+{
+ "schema": 1,
+ "id": "tupilaq",
+ "type": "amulet",
+ "names": {
+  "name": "Tupilaq",
+  "native": "ᑐᐱᓚᒃ",
+  "script": "Canadian Aboriginal syllabics",
+  "lang": "iu",
+  "said": "TOO-pee-lak; plural tupilait",
+  "aliases": [
+   "tupilak",
+   "tupilait"
+  ]
+ },
+ "region": [
+  "siberia-arctic",
+  "north-america"
+ ],
+ "countries": [
+  "GL",
+  "CA"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "living",
+  "portable": "carried",
+  "restricted": "limited",
+  "hemisphere": [
+   "N",
+   "W",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "Two different things share this name, and a reader should hold them apart. The first is what the word originally named in Greenland: an avenging creature assembled by an angakkuq from animal parts — bone, skin, hair, sinew — and, in the accounts, from parts taken from the bodies of children, brought to life by chants and sent into the sea after a named enemy. None survive; they were made in secret, in isolated places, out of materials that rot. The second is the carved figure: a small grotesque cut from sperm whale tooth, and today from narwhal and walrus tusk, wood and caribou antler, a few centimetres high, made to be looked at and bought.",
+  "story": "The second object exists because of the first. Early European visitors to Greenland were fascinated by the accounts they heard and wanted to see what a tupilaq looked like, so Inuit began carving representations of them out of sperm whale teeth. That carving is now an important part of Greenlandic Inuit art and is prized by collectors. It is a picture of a thing, made for an audience that had asked. That is not the same as the thing.\n\nThe first object came with a risk attached. Sending a tupilaq at somebody with greater power than the maker could turn it back on its maker — and the escape from that was public confession of the deed. The published ethnography places this inside a wider Greenlandic logic in which concealment carries magical consequences and confession neutralises them: a concealed miscarriage or infanticide could produce a monster called an anngiaq, a concealed breach of taboo could bring harm on the whole community, and angakkuit resolved a taboo breach by getting the breacher to confess in public. A young hunter's first kill was neutralised the same way, by making every adult share in it.\n\nThe word also does not mean the same thing across the Arctic. At Igloolik a tupilaq was an invisible ghost, the restless soul of a dead person whose death taboo had been breached, visible only to the angakkuq, and it drove the game away until the angakkuq scared it off with a knife. Among the Kivallirmiut it was an invisible chimera with a human head and parts of different animals, dangerous to the settlement, which the angakkuq fought and devoured with helping spirits. Among the Copper Inuit, the Inuinnait, tupilak came to mean something close to the Christian devil. Only in Greenland is it primarily a physical, human-made object.\n\n*Inference —* the tupilaq is the clearest case in this atlas of a word that a museum label flattens. A tray of carved tupilait in a gift shop in Nuuk and a sentence in Knud Rasmussen's notebooks are not describing the same category, and the difference is not one of quality.",
+  "how": "The carved figure is cut from tusk, tooth, antler or wood with hand tools and polished; it is signed and sold. How the older object was made is not printed here. See the note below.",
+  "today": "Carved tupilait are made in many shapes and sizes in Greenland from narwhal and walrus tusk, wood and caribou antler, form an important part of Greenlandic Inuit art, and are highly prized as collectibles. This project has read no dated price and names no living carver."
+ },
+ "restricted": {
+  "note": "The making of a tupilaq was done in secret, at night, alone. Published ethnography describes the procedure; this atlas prints the fact of the secrecy and not the procedure, and does not reconstruct it from scattered sources.",
+  "who_says": "Inge Kleivan and B. Sonne, Eskimos: Greenland and Canada (1985), and Knud Rasmussen's Greenland records, as summarised in the cited source, which states that tupilaq were made in secret and in isolated places",
+  "source": "s:wp-tupilaq"
+ },
+ "dating": {
+  "period": "Greenlandic Inuit practice; carved figures from the period of early European contact",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "undated at its start; the carved form is still made",
+  "method": "ethnographic",
+  "tier": "cited",
+  "source": "s:wp-tupilaq",
+  "note": "The cited source dates neither the practice nor the first carved figure, saying only that early European visitors prompted the carvings. living refers to the carving, which continues; the sending of a tupilaq is not claimed here to be current."
+ },
+ "object": {
+  "form": "figurine",
+  "materials": [
+   "bone",
+   "tooth",
+   "wood",
+   "skin"
+  ],
+  "worn": [
+   "pocket",
+   "shop"
+  ],
+  "made_by": "an angakkuq, for the older object; Greenlandic Inuit carvers, for the figures sold today",
+  "single_use": true,
+  "source": "s:wp-tupilaq",
+  "note": "single_use applies to the older object, which was sent once. The carved figure is a work of art and is not consumed. No published measurement was read."
+ },
+ "kin": [
+  {
+   "to": "inuit-amulet",
+   "as": "the thing this is not: an amulet stays with its owner, a tupilaq was sent at somebody else",
+   "rel": "contrast"
+  },
+  {
+   "to": "curse-tablet",
+   "as": "the Mediterranean parallel — an object made to reach a named person and do them harm",
+   "rel": "parallel"
+  },
+  {
+   "to": "nkisi",
+   "as": "the other figure in this atlas made to go after somebody, with its own specialists and its own rules",
+   "rel": "parallel"
+  },
+  {
+   "to": "the-fake-market",
+   "as": "the long read about what a label promises — this record's two objects share a name and nothing else",
+   "rel": "story"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the long read explaining the restriction on this record",
+   "rel": "story"
+  },
+  {
+   "to": "bone-ivory",
+   "as": "what the carved figures are cut from: sperm whale tooth, then narwhal and walrus tusk, then antler",
+   "rel": "material"
+  },
+  {
+   "to": "dreamcatcher",
+   "as": "the North American parallel — an object that acquired a second life made for outsiders, and an argument about whether that is the same object",
+   "rel": "parallel"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "inuit-amulet",
+   "tell": "if it was carried for its owner's protection it is an amulet; a tupilaq was built to be sent away"
+  }
+ ],
+ "links": [
+  {
+   "label": "Tupilaq — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tupilaq"
+  }
+ ],
+ "sources": [
+  "s:wp-tupilaq",
+  "s:wp-inuit-religion"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-tupilaq"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-tupilaq",
+    "note": "the closing paragraph is marked as this project's inference where it appears"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-tupilaq",
+    "note": "the cited source describes the present carving trade; no price or carver's name was read"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

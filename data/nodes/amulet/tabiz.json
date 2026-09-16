@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "id": "tabiz",
+ "type": "amulet",
+ "names": {
+  "name": "Tabiz",
+  "native": "تعویز",
+  "script": "Arabic",
+  "lang": "ur",
+  "said": "ta-WEEZ",
+  "aliases": ["taweez", "ta'wiz", "taʿwīdh", "तावीज़"]
+ },
+ "etymology": {
+  "root": "Arabic taʿwīdh 'amulet, charm', from the verb ʿawwadha, 'to fortify someone with an amulet or incantation'; into Urdu and Hindi as ta'wiz",
+  "tier": "cited",
+  "source": "s:wp-amulet"
+ },
+ "region": ["south-asia", "central-asia", "arabia-gulf"],
+ "countries": ["PK", "IN", "AF"],
+ "facets": {"era": "medieval", "status": "living", "portable": "worn", "restricted": "open", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A written prayer, folded small and shut inside something. In South Asia the container is usually a flat or tubular metal case on a black cord at the neck or tied to the upper arm; the paper inside carries Qur'anic verse, a hadith, one of the ninety-nine names of God, or the names of prophets and their companions. A tabiz may also be a pendant with the text carved straight into metal, or a framed du'a on a wall. Cases are meant to stay shut, so most wearers have never seen the page they carry.",
+  "story": "The writing is the object. In Muslim practice the texts chosen for amulets are prayers, passages from the Qur'an, hadith, religious narratives and religious names; the word Allah is especially common, and many hold that touching or seeing it turns evil away. Names of prophets and of religious figures are used to connect the wearer to the person named — Solomon, Ali ibn Abi Talib and his sons Hasan and Husain, and the Seven Sleepers of Ephesus are among the favoured.\n\nThe oldest dated thing of this kind read for this record is not South Asian. In the medieval Mediterranean Islamic world, prayers were printed from a block or die — tarsh — onto paper, then folded down small enough for a tubular case. The Aga Khan Museum in Toronto holds an Egyptian block-printed amulet of the tenth or eleventh century, ink on paper at 7.2 by 5.5 cm, whose last line is Qur'an 20:46: 'So God will safeguard you from them. He is All-Hearing and All-Knowing.' Such text amulets were housed in lead cases stamped with surat al-Ikhlas, with lugs so the package could be sewn to clothing or hung from the body. The cases were most likely kept sealed, which means the contents were invisible to an owner who could not afford a hand-written one.\n\nIn South Asia the tabiz crosses the line the word implies. Amulets in North India and Pakistan include threads with a taveez attached — a small cylinder holding a prayer verse — worn against nazar, the harmful look. A tabiz worn by Hindus often bears the Om sign instead.\n\nWhether a Muslim should wear one at all is argued in the tradition, not about it. Some hadith condemn wearing talismans, and some Muslims, notably Salafis, hold that amulets and talismans are forbidden. On the other side, virtually all Muslim scholars permit a talisman that invokes God or an intercessor — Muhammad, Ali, the saints — while addressing jinn or demons is prohibited; and Sunni Muslims are permitted to wear ta'wiz so long as it strengthens the wearer's bond with Allah and does not come from a belief that the ta'wiz itself cures or protects.",
+  "how": "Written by hand, or pre-made. Texts packaged in tawiz are most often pre-made for the public, though a literate wearer can change the verse at will. The paper is folded, sometimes to a triangle, and closed in metal; in Central and West Asia triangular packets holding a sacred verse are fastened to the clothes of babies and small children. The same triangle is woven into kilims, where, as the carpet scholar Jon Thompson puts it, the amulet in a rug is not a theme: \"the device in the rug has a materiality, it generates a field of force able to interact with other unseen forces and is not merely an intellectual abstraction.\"",
+  "today": "Worn and sold across Pakistan, India and Afghanistan as of 2026. In Afghanistan fortunetellers work from small shops or outside mosques and shrines and sell amulets against evil spirits alongside marriage advice, and their clients are mostly women and the elderly; the same trade is widespread in Iran and Pakistan."
+ },
+ "dating": {
+  "period": "medieval Islamic world to the present",
+  "from_year": 900,
+  "to_year": null,
+  "living": true,
+  "label": "10th century to now",
+  "method": "dated-object",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-amulet",
+  "note": "The start year is the tenth-or-eleventh-century Egyptian block-printed paper amulet, which is the earliest dated object of this class read for this record. It is not a South Asian object, and no dated South Asian example was read. Treat the start as the class's, not the region's."
+ },
+ "object": {
+  "form": "packet",
+  "materials": ["paper", "ink", "silver", "lead", "thread"],
+  "worn": ["neck", "upper-arm", "sewn-in", "wall"],
+  "made_by": "written by a literate specialist or bought pre-made; the wearer need not be able to read it",
+  "inscription": "Qur'anic verse, a hadith, a name of God, or the names of prophets and their companions; a Hindu-worn tabiz often carries Om instead",
+  "script": "Arabic",
+  "single_use": false,
+  "source": "s:wp-amulet",
+  "note": "No South Asian measurement was read. The 7.2 × 5.5 cm figure in the story belongs to one Egyptian block-printed amulet and is not typical of anything else here."
+ },
+ "against": [
+  {"harm": "evil-eye", "who": "wearers in North India and Pakistan, where threads with a taveez attached are among the objects used against nazar", "source": "s:wp-nazar-battu", "tier": "cited"},
+  {"harm": "demons", "who": "Muslim users, as summarised in scholarship on Islamic talismanic practice", "source": "s:wp-islam-and-magic", "tier": "cited", "note": "listed there with the evil eye, misfortune and jinn; the same account says talismans invoking God are permitted by nearly all scholars and those addressing jinn are not"},
+  {"harm": "child-harm", "who": "parents in Central and West Asia, who fasten triangular packets holding a sacred verse to the clothes of babies and small children", "source": "s:wp-amulet", "tier": "cited", "note": "this practice is recorded for Central and West Asia in the source, not specifically for South Asia"},
+  {"harm": "illness", "who": "Islamic amulet practice generally, which the same account says was meant to promote health, longevity, fertility and potency", "source": "s:wp-amulet", "tier": "cited"}
+ ],
+ "kin": [
+  {"to": "taweez", "as": "the same object under its Arabic name, written up from the Arabic-speaking side of the practice", "rel": "kin"},
+  {"to": "taweez-word", "as": "the word itself, and the verb it comes from — to fortify someone with an amulet", "rel": "same-word"},
+  {"to": "islamic-talismanic", "as": "the tradition that sets what may be written on it and who may be addressed by it", "rel": "tradition"},
+  {"to": "quran-pendant", "as": "the same text worn without a fold — the verse legible on the surface rather than sealed in a case", "rel": "parallel"},
+  {"to": "nimbu-mirchi", "as": "what hangs in the doorway of the same street against the same look, made of a lemon rather than a verse", "rel": "parallel"},
+  {"to": "nazar", "as": "the glass answer to the harm this paper answers in words", "rel": "parallel"},
+  {"to": "sewing-in", "as": "the practice the lugs on a lead case were for — the amulet stitched to clothing rather than hung", "rel": "practice"},
+  {"to": "gau-box", "as": "the Himalayan neighbour: another sealed metal container whose contents the wearer is not expected to open", "rel": "parallel"},
+  {"to": "hindu-kavacha", "as": "the tradition next door that borrowed the object and changed the writing to Om", "rel": "contrast"},
+  {"to": "paper", "as": "the material that made a prayer portable, and printable from a block long before Europe printed", "rel": "material"}
+ ],
+ "confusable_with": [
+  {"id": "hirz-pouch", "tell": "both are cases for written prayer; the hirz is the North African pouch in leather, the tabiz the South Asian cylinder or plaque in metal"}
+ ],
+ "links": [{"label": "Amulet — Wikipedia", "url": "https://en.wikipedia.org/wiki/Amulet"}],
+ "sources": ["s:wp-amulet", "s:wp-islam-and-magic", "s:wp-nazar-battu", "s:wp-throne-verse", "s:wp-talisman"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-amulet"},
+  "fields": {
+   "dating": {"tier": "cited", "source": "s:wp-amulet", "note": "dated from one Egyptian object, not from a South Asian one; flagged in the field's own note"},
+   "text.today": {"tier": "cited", "source": "s:wp-islam-and-magic"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Taweez.jpg"],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

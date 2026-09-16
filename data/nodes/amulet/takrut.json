@@ -1,0 +1,93 @@
+{
+ "schema": 1,
+ "id": "takrut",
+ "type": "amulet",
+ "names": {
+  "name": "Takrut",
+  "native": "ตะกรุด",
+  "script": "Thai",
+  "lang": "th",
+  "said": "tà-krùt",
+  "aliases": ["tangkai", "rolled yant scroll"]
+ },
+ "etymology": {
+  "root": "Thai ตะกรุด; the word is the same in singular and plural, and takes no -s",
+  "note": "Called tangkai in some neighbouring usages. The Thai word covers the object whatever is rolled inside it.",
+  "tier": "cited",
+  "source": "s:wp-takrut"
+ },
+ "region": ["mainland-sea"],
+ "countries": ["TH"],
+ "facets": {"era": "medieval", "status": "living", "portable": "worn", "restricted": "limited", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A tube. A thin sheet of metal or a strip of palm leaf is inscribed with yant — sacred geometry and Pali phrases — then rolled tight into an elongated scroll and bound with cord, or sealed in a case. Nothing on the outside shows what is inside. It is tied to the body on a cord at the waist, hung at the chest on a chain, or worn like any other piece of jewellery. Some are small enough to hold between the teeth.",
+  "story": "The takrut is the amulet Thai literature reaches for first. It is the form mentioned more often than any other in Khun Chang Khun Phaen, the Thai epic, and the source this record follows puts it in Thai culture before Buddhism arrived, with the monk-made takrut becoming the earliest form of Buddhist amulet around 1200 to 1300 CE. That last claim carries no citation in the source, so it is dated here with a flag rather than a full stop.\n\nWhat goes on the sheet is yant — yantra — incantations and geometric designs carrying Pali gatha and Buddhist invocations. The script is usually Khom Pali, the variant of Khmer script used in Thailand; in the north, Lan Na Tai Tham. The same writing appears on cloth, on metal plates and in skin, so a takrut is one surface among several for a single body of design.\n\nThe demand was practical. In older Thailand, with constant warfare and poor security, takrut were blessed mainly for safe keeping — invulnerability — and issued to people going to work, to travel on business, or to war.\n\nThe positions carry meanings. A takrut is worn about a part of the body to protect that part, or to grant it power. The one held between the teeth is for speech: the power is called sariga, after the golden-tongued celestial magpie of Vedic and Thai Buddhist legend, and it makes the carrier a stronger speaker.",
+  "how": "Inscribe the yant on metal foil — or on palm leaf — roll it into a tube, bind it with cord, case it. Which yant, and what is said over it, belongs to the maker's lineage. Thai amulet rules place the takrut outside the Buddha-image restrictions: because it carries no monk and no Buddha image, it may be put in a trouser pocket, where an amulet bearing the Buddha may not go below the waist at all. Worn at the waist or at the chest, the purpose is the same either way — protection of the person carrying it.",
+  "today": "Still made, still sold, still worn, and sold from the same trays as the pressed Buddha tablets at Tha Phrachan in Bangkok, as of the accounts this project has read. Online dealers list them by monk, by temple and by year in the same way collectors grade a phra khrueang."
+ },
+ "dating": {
+  "period": "pre-Buddhist Thailand, then Buddhist from around the 13th century",
+  "from_year": 1200,
+  "to_year": null,
+  "living": true,
+  "label": "c. 1200 to now as a Buddhist amulet; older as a Thai one",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-takrut",
+  "note": "The source states that takrut predate Buddhism in Thailand and that monk-made takrut became the earliest form of Buddhist amulet in 1200–1300 CE. That statement is uncited there, so this record marks it and sets confidence to medium."
+ },
+ "object": {
+  "form": "scroll",
+  "materials": ["silver", "gold", "copper", "lead", "palm-leaf", "ink", "thread"],
+  "worn": ["waist", "neck", "chest", "pocket"],
+  "made_by": "monks and lay masters working in a named lineage; which yant and which incantation belongs to that lineage",
+  "inscription": "yant — geometric designs with Pali gatha and Buddhist invocations",
+  "script": "Khom Pali, a Khmer-derived script used in Thailand; Lan Na Tai Tham in the north",
+  "single_use": false,
+  "source": "s:wp-takrut",
+  "note": "Elongated, scroll-shaped, tied to the body with a cord, often kept in a case. No published measurement was read."
+ },
+ "against": [
+  {"harm": "weapons", "who": "Thai wearers, in the category Kong Grapan — invincibility; the source says takrut are blessed mainly for safe keeping", "source": "s:wp-takrut", "tier": "cited"},
+  {"harm": "war", "who": "Thai practice in a period of constant warfare, when takrut were blessed for people going to war", "source": "s:wp-takrut", "tier": "cited"},
+  {"harm": "travel", "who": "Thai wearers, blessed for safety in daily work and on business trips", "source": "s:wp-takrut", "tier": "cited"},
+  {"harm": "attraction", "who": "Thai wearers, in the categories Maha Sanaeh (attraction), Metta Mahaniyom (popularity and business success) and Maha Pokasap (drawing riches)", "source": "s:wp-takrut", "tier": "cited"},
+  {"harm": "poverty", "who": "Thai wearers, in the category Maha Lap — the drawing of wealth", "source": "s:wp-takrut", "tier": "cited"}
+ ],
+ "restricted": {
+  "note": "Which yant goes on a takrut, and the incantation said over it, belong to the maker's school and lineage. This atlas prints what the sources publish about the object and does not print a consecration formula.",
+  "who_says": "Thai amulet practice as described in the sources: the incantations depend on the creator's lineage in each school",
+  "source": "s:wp-palad-khik"
+ },
+ "kin": [
+  {"to": "phra-khrueang", "as": "the pressed tablet it hangs beside, and the rule that separates them: no Buddha image here, so this one may go in a pocket", "rel": "kin"},
+  {"to": "sak-yant", "as": "the same yant, same script, same lineages — put into skin instead of rolled into foil", "rel": "parallel"},
+  {"to": "yantra-plate", "as": "the South Asian version of the design on metal, flat rather than rolled", "rel": "parallel"},
+  {"to": "taweez", "as": "the Islamic rolled written charm in a case — the same solution reached along a different road", "rel": "parallel"},
+  {"to": "ethiopian-magic-scroll", "as": "the other great rolled text in this atlas: written protection kept in a tube and carried on the body", "rel": "parallel"},
+  {"to": "thai-wicha", "as": "the craft that makes it, in which the yant and the incantation are a lineage's property", "rel": "tradition"},
+  {"to": "inscribing", "as": "the act that charges it: the writing, not the metal, is the amulet", "rel": "practice"},
+  {"to": "wearing-hidden", "as": "how it works — a sealed tube whose contents nobody sees, tied under the clothes", "rel": "practice"},
+  {"to": "tha-phrachan", "as": "the Bangkok market that sells it from the same tray as the clay tablets", "rel": "place"},
+  {"to": "yant-flash", "as": "the sheet of designs the yant on this tube is drawn from", "rel": "art"}
+ ],
+ "confusable_with": [
+  {"id": "phra-khrueang", "tell": "a takrut is a plain rolled tube with nothing to look at; a phra khrueang carries an image in relief"},
+  {"id": "taweez", "tell": "both are rolled written charms in a case — a takrut carries yant in Khom Pali, a taweez carries Arabic"}
+ ],
+ "links": [{"label": "Takrut — Wikipedia", "url": "https://en.wikipedia.org/wiki/Takrut"}],
+ "sources": ["s:wp-takrut", "s:wp-thai-buddha-amulet", "s:wp-yantra-tattooing", "s:wp-yantra", "s:wp-palad-khik"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-takrut"},
+  "fields": {
+   "dating": {"tier": "cited", "source": "s:wp-takrut", "note": "the 1200–1300 CE date is uncited in the source; it is carried here with that flag and the record's confidence set to medium"},
+   "text.today": {"tier": "inference", "note": "reasoned from published accounts of the Bangkok trade; nobody from this project has stood at the stalls"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Takrut.jpg"],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

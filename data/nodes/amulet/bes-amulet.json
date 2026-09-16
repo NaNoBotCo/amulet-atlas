@@ -1,0 +1,86 @@
+{
+ "schema": 1,
+ "id": "bes-amulet",
+ "type": "amulet",
+ "names": {
+  "name": "Bes amulet",
+  "native": "Ⲃⲏⲥ",
+  "script": "Coptic",
+  "lang": "cop",
+  "said": "BESS; Arabic ويصا, Wīssa",
+  "aliases": ["Bes", "Bisu", "Beset (the feminine counterpart)"]
+ },
+ "etymology": {
+  "root": "Uncertain. 'Bes' means 'cat' in Nubian, which fits a god regularly drawn with feline features; the name may instead come from the hieroglyphs bs 'flame' or bz 'to be initiated, to introduce', the latter possibly pointing at masks used in his cult.",
+  "tier": "cited",
+  "source": "s:wp-bes"
+ },
+ "region": ["ancient-egypt", "nubia-sudan", "levant", "iberia", "iran-persia", "greece-aegean"],
+ "countries": ["EG", "SD", "SY", "ES", "CY", "IR", "GR"],
+ "facets": {"era": "ancient", "status": "archaeological", "portable": "worn", "restricted": "open", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A squat bearded figure with a lion's face, a feathered crown, a protruding tongue and bandy legs, shown full-face when every other Egyptian god is shown in profile. He is ithyphallic, sometimes in a soldier's tunic, sometimes brandishing a knife. He comes as an amulet, as a mask, moulded onto faience baby bottles, cut into the legs of furniture and headrests, painted on storage jars, and inked into skin.",
+  "story": "Bes faces you. That is the whole design argument: Egyptian gods are drawn in profile, and Bes is drawn head-on, dressed for a fight, so that anything approaching the house meets him looking straight at it.\n\nHe is a household god, not a temple one. What he is for is specific and domestic — killing snakes, driving off evil spirits, watching children, and standing with Taweret at a birth to fight off what comes for women in labour. Because he drove off harm he also came to stand for the good things: music, dance, sexual pleasure.\n\nHis origin is southern. People in Upper Egypt venerated him long before Lower Egypt did, his sub-Saharan features and his feathered crown point at Kush or the C-Group, and Donald Mackenzie in 1907 called him a Middle Kingdom import from Nubia whose cult only spread from the start of the New Kingdom. That story has since been complicated: thirteen Bes-like figurines were found at Tell el-Farkha in deposits from the predynastic Naqada period.\n\nHe travelled further than most. His image reaches Syria in the north and the Balearic Islands in the west, then the Roman and Achaemenid empires. From the end of the sixth century BCE Bes spreads across the Achaemenid empire while Egypt is part of it; he turns up at Susa and as far as central Asia, and over time gets redrawn in Persian clothes and a Persian headdress. Beset, the female form, was more popular on Minoan Crete; the male form took with the Phoenicians and the Cypriots.\n\nHe was also worn under the skin. A wall painting from the workmen's village at Deir el-Medina, Nineteenth Dynasty, shows a dancing Bes tattooed on the thigh of a female musician playing her instrument; New Kingdom tattoos of Bes are recorded on the thighs of dancers, musicians and servant girls. A female mummy from Aksha in Nubia, fourth century BCE, carries a Bes on her thigh.\n\nHe lasted. In the Ptolemaic period chambers were built at Saqqara painted with Bes and Beset, which Egyptologists take to have been for curing fertility problems or for general healing. A Bes-vase of the second century BCE has been found to carry traces of Peganum harmala and of the blue water lily, Nymphaea nouchali var. caerulea. The latest evidence the source names is a jug showing Bes from Tell Edfu, dated to the tenth century CE — Coptic Egypt, long after the temples closed.",
+  "how": "Moulded in faience, carved, or painted on. Kept in the house rather than worn only on the body: a statue set up as a doorkeeper, a face on the jar, a face on the bed, a face on the baby's bottle. Tattooed on the thigh in the New Kingdom. Nothing in the sources read here restricts who may own one.",
+  "today": "Not made as a household god. Bes turns up now as a museum object, as a character in fiction and games, and as a tattoo design. As of 2026 this project has read no account of anyone standing a Bes at a door for what the Egyptians stood him there for."
+ },
+ "dating": {
+  "period": "Middle Kingdom to Coptic Egypt",
+  "from_year": -2054,
+  "to_year": 999,
+  "living": false,
+  "label": "c. 2055 BCE to the tenth century CE",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-bes",
+  "note": "from_year is the Middle Kingdom, when the source says Bes is depicted on amulets among other objects; the Middle Kingdom's span, c. 2055–1650 BCE, is taken from s:wp-taweret. to_year is the source's latest dated evidence for Bes at all — a jug from Tell Edfu, tenth century CE — which is evidence of worship, not of an amulet, and is hedged for that reason. Bes-like figurines from predynastic Naqada deposits at Tell el-Farkha are earlier than this window and undated in the source."
+ },
+ "object": {
+  "form": "figurine",
+  "materials": ["faience", "terracotta", "gold", "skin"],
+  "worn": ["neck", "door", "cradle", "skin", "hearth"],
+  "made_by": "household workshops; no restriction named in the sources read here",
+  "inscription": "none; the face is the message",
+  "colour": ["blue-green"],
+  "single_use": false,
+  "source": "s:wp-bes",
+  "note": "skin is entered because the New Kingdom wore him as a tattoo — see s:wp-tattoo. No measurement was read, so length_mm is absent."
+ },
+ "against": [
+  {"harm": "child-harm", "who": "Egyptian household practice, as summarised in the source: Bes watched after children, and his face was moulded onto faience baby bottles found at el-Lisht", "source": "s:wp-bes", "tier": "cited"},
+  {"harm": "childbirth", "who": "Egyptian household practice — Bes aided women in labour by fighting off evil spirits, and was present with Taweret at births", "source": "s:wp-bes", "tier": "cited"},
+  {"harm": "snakebite", "who": "the source, which lists killing snakes first among his tasks", "source": "s:wp-bes", "tier": "cited"},
+  {"harm": "demons", "who": "Egyptian householders, who kept his image indoors; the source says he scared demons away from houses, so his statue was put up as a protector", "source": "s:wp-bes", "tier": "cited"},
+  {"harm": "infertility", "who": "Egyptologists, reading the Ptolemaic Bes chambers at Saqqara as built for curing fertility problems or for general healing", "source": "s:wp-bes", "tier": "cited", "note": "the source marks this as a scholarly reading, not an Egyptian statement"}
+ ],
+ "holdings": [
+  {"museum": "british-museum", "what": "Bes amulets and Bes-jars in the Egyptian collection", "source": "s:wp-british-museum"},
+  {"museum": "met", "what": "Bes figures in the Egyptian galleries", "source": "s:wp-metropolitan-museum-of-art", "open_access": true}
+ ],
+ "kin": [
+  {"to": "taweret-amulet", "as": "the goddess he stands beside at a birth; the two are the working pair of Egyptian domestic protection", "rel": "kin"},
+  {"to": "egyptian-amulet-craft", "as": "the tradition that made him, and the part of it that stayed in the house instead of going into the tomb", "rel": "tradition"},
+  {"to": "lion", "as": "the sign in his face; James Romano read his earliest form as a lion rearing on its hind legs", "rel": "motif"},
+  {"to": "phallic-sign", "as": "the other thing he is drawn with, and the same interception logic Rome put in the fascinum", "rel": "motif"},
+  {"to": "tattooing", "as": "the practice that put him on the thighs of New Kingdom dancers and musicians", "rel": "practice"},
+  {"to": "hanging-at-door", "as": "where his statue stood — the source says he was put up as a protector because he drove harm off", "rel": "practice"},
+  {"to": "most-of-them-are-for-children", "as": "the long read he belongs to: a god whose day job was watching somebody else's baby", "rel": "story"},
+  {"to": "pazuzu-head", "as": "Mesopotamia's grimacing household figure, hung for the same reason and looking just as unpleasant on purpose", "rel": "parallel"},
+  {"to": "faience", "as": "the material that put his face on a baby's feeding bottle", "rel": "material"},
+  {"to": "gorgoneion", "as": "the Greek face-on-the-object, staring out the same way for the same reason", "rel": "parallel"}
+ ],
+ "links": [{"label": "Bes — Wikipedia", "url": "https://en.wikipedia.org/wiki/Bes"}],
+ "sources": ["s:wp-bes", "s:wp-taweret", "s:wp-tattoo", "s:wp-egyptian-faience", "s:wp-apotropaic-magic", "s:wp-british-museum", "s:wp-metropolitan-museum-of-art"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-bes"},
+  "fields": {
+   "dating": {"tier": "cited", "source": "s:wp-bes", "note": "the closing date is worship evidence, not an amulet; flagged in the dating note"},
+   "text.today": {"tier": "inference", "note": "reasoned from the absence of any living Bes cult in the sources read; not a survey"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Bes amulet MET DP109376.jpg", "File:Egypt Bes.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

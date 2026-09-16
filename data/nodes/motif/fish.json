@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "id": "fish",
+ "type": "motif",
+ "names": {
+  "name": "The fish",
+  "native": "ΙΧΘΥΣ",
+  "script": "Greek",
+  "lang": "grc",
+  "said": "ikh-THOOS",
+  "aliases": ["ichthys", "ichthus", "Jesus fish", "fish charm", "yu"]
+ },
+ "region": ["levant", "anatolia", "rome-italy", "greece-aegean", "china", "aotearoa"],
+ "countries": ["TR", "IT", "GR", "SY", "IL", "CN", "NZ"],
+ "facets": {"era": "classical", "family": "animal", "hemisphere": ["N", "S", "E", "W"]},
+ "text": {
+  "what": "A fish in outline, usually two curved strokes crossing at the tail. In Christian use the Greek letters ΙΧΘΥΣ are sometimes written inside it. In China it is cast as a coin charm shaped like a fish and hung on a child. In Aotearoa the related shape is not a fish but the hook that catches one.",
+  "story": "The Christian fish is an acrostic before it is an animal. ΙΧΘΥΣ spells out Ἰησοῦς Χρῑστός Θεοῦ Υἱός Σωτήρ — Jesus Christ, God's Son, Saviour. It appears in Christian art and literature from the second century CE and is widespread by the late second to fourth. It is found in the Catacombs of Saint Sebastian and the Catacomb of Priscilla, in the marble ruins of Ephesus, and on funerary stelae carrying inscriptions such as ΙΧΘΥϹ ΖΩΝΤΩΝ, fish of the living.\n\nThe story most people have heard about it is disputed. Robert Mowat proposed in 1900 that it was a secret sign among persecuted Christians, arguing from silence. Modern scholarship disputes that: Rasimus lists it among solutions that were once popular, and no early Christian source ties the fish to persecution. The connections the early sources do make are to baptism, to the Eucharist and to the feeding of the multitude.\n\nThe fish also turns up on a dated amulet with a word square on its back. The earliest Sator square with explicit Christian imagery is a sixth-century bronze amulet from Asia Minor: two fish turned towards one another on one side, the Sator square in Greek characters on the other, and ICHTHUS written above the square. It is in the Berlin State Museums.\n\nChina's fish is a coin. Among the shapes Chinese numismatic charms took as they separated from circulating coinage were spades, locks, fish, peaches and gourds, and fish and lock charms were worn mainly by young children and infants — daily wear rather than festival wear.\n\n*Inference —* this atlas has not found a source connecting the Christian fish and the Chinese fish charm, and does not connect them. A fish is a common animal and an easy outline; two traditions reaching for it is not evidence of contact."
+ },
+ "kin": [
+  {"to": "cross", "as": "the sign that succeeded the fish as the emblem of Christianity from the second century", "rel": "descendant"},
+  {"to": "palindrome-word", "as": "the sixth-century amulet carries both — two fish on one face, the Sator square on the other", "rel": "kin"},
+  {"to": "charm-coin", "as": "the Chinese fish-shaped charm, worn mainly by infants and young children", "rel": "carried-by"},
+  {"to": "hei-matau", "as": "the Māori fish hook, which is a different object with its own account and no line to either of these", "rel": "contrast"},
+  {"to": "cimaruta", "as": "one of the shapes that sprouts from the Neapolitan silver sprig is a fish", "rel": "carried-by"},
+  {"to": "coin-square", "as": "the shape the Chinese fish charm departs from — the round coin with the square hole", "rel": "parallel"},
+  {"to": "divine-name", "as": "the fish spells a name; it belongs with the written charms as much as with the animal ones", "rel": "kin"}
+ ],
+ "dating": {
+  "period": "2nd century CE onward",
+  "from_year": 101,
+  "to_year": null,
+  "living": true,
+  "label": "2nd century CE to now",
+  "method": "art-historical",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-ichthys",
+  "note": "First appearances in Christian art and literature date to the second century CE, with widespread use by the late second to fourth. The Chinese fish charm is dated only by the Han-onward history of the charm coin and is not used for from_year."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": ["copper", "silver", "stone"],
+  "worn": ["neck", "grave", "wall", "vehicle"],
+  "inscription": "ΙΧΘΥΣ; on funerary stelae, ΙΧΘΥϹ ΖΩΝΤΩΝ, fish of the living",
+  "script": "Greek",
+  "source": "s:wp-ichthys"
+ },
+ "against": [
+  {"harm": "child-harm", "who": "Chinese practice, in which fish and lock charms were worn mainly by young children and infants", "source": "s:wp-chinese-numismatic-charm", "tier": "cited"},
+  {"harm": "the-dead", "who": "early Christian funerary use — the sign is cut on stelae and in catacombs", "source": "s:wp-ichthys", "tier": "cited"}
+ ],
+ "holdings": [
+  {"museum": "other", "what": "Berlin State Museums: 6th-century bronze amulet from Asia Minor with two facing fish and a Greek-character Sator square", "source": "s:wp-sator-square"}
+ ],
+ "links": [{"label": "Ichthys — Wikipedia", "url": "https://en.wikipedia.org/wiki/Ichthys"}],
+ "sources": ["s:wp-ichthys", "s:wp-sator-square", "s:wp-chinese-numismatic-charm", "s:wp-cimaruta", "s:wp-hei-matau"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-ichthys"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:wp-ichthys", "note": "the closing refusal to link the Christian and Chinese fish is this project's position and is marked inference"},
+   "object": {"tier": "tradition", "note": "materials pooled from the Christian and Chinese uses; no single catalogue entry behind them"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Ichthus.svg", "File:Fish coin charm China.jpg"],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

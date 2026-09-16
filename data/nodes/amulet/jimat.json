@@ -1,0 +1,90 @@
+{
+ "schema": 1,
+ "id": "jimat",
+ "type": "amulet",
+ "names": {
+  "name": "Jimat",
+  "native": "جيمت",
+  "script": "Jawi",
+  "lang": "ms",
+  "said": "JI-mat",
+  "aliases": ["azimat", "tamimah", "tangkal", "rajah", "uang gobog", "pis bolong"]
+ },
+ "etymology": {
+  "root": "Malay and Indonesian azimat, borrowed from Arabic عزيمة ʿazīmah, 'determination, firmness of resolve'; shortened in Indonesian to jimat. The Malay synonym is tangkal (Jawi تڠكل); the Arabic-derived tamimah is also used",
+  "note": "Malay Wikipedia defines azimat as an object held to give tuah — luck — and protection to its owner. Indonesian Wikipedia defines jimat as an object or piece of writing hung on the body, a vehicle or a building.",
+  "tier": "cited",
+  "source": "s:web-ms-wikipedia-azimat"
+ },
+ "region": ["island-sea"],
+ "countries": ["ID", "MY"],
+ "facets": {"era": "medieval", "status": "living", "portable": "carried", "restricted": "open", "hemisphere": ["N", "S", "E"]},
+ "text": {
+  "what": "A class rather than a shape. Jimat covers any object or piece of writing hung on a body, a vehicle or a building to keep its owner from harm. Inside the class, three things are described in detail by the sources this record uses: a rajah, a charm written out in inscribed characters; a baju rajah, a garment carrying that writing; and the cast coin-charms of Java and Bali, flat discs of copper and brass with a square hole, made like Chinese cash coins but never spent.",
+  "story": "The coin-charms are the part of this class with dates on it. Indonesian collectors call them uang gobog, gobog wayang or koin gobog; in Bali they are pis bolong; Dutch sources called them Indonesische tempelmunten, Indonesian temple coins. The first gobog amulets in Java appeared during the Majapahit Empire. Gobog wayang in copper and brass were produced in the eighteenth century, and evidence for making them at scale runs only from the beginning of the twentieth.\n\nThey left the island early. Sir Thomas Stamford Raffles took 106 gobog wayang cash coins with him from Java to Britain, and they are in the British Museum. Joe Cribb built the standard catalogue on them: Magic coins of Java, Bali, and the Malay Peninsula, 13th century to 20th century — A Catalogue based on the Raffles Collection of Coin-shaped charms from Java in the British Museum, published in 1999. That subtitle is also the clearest published statement of the span.\n\nWhat the pieces are held to do is stated type by type. A Yogyakarta numismatist describes the function of gobog amulets as \"a complement to the requirements or ritual offerings in Java\". In Bali they remain in use in Hindu rites, as tokens of faith and as bringers of good fortune, and individual types carry individual claims — the Pis Anoman is said to give its holder strength and energy like the wind.\n\nThe class carries an argument inside it. Indonesian Wikipedia's article on jimat states the Islamic position flatly: \"Penggunaan jimat di dalam ajaran Islam adalah perbuatan terlarang. Hal ini dikarenakan perbuatan tersebut merupakan bentuk meminta perlindungan dan penyembuhan kepada selain Allah\" — using a jimat is forbidden in Islamic teaching, because it amounts to seeking protection and healing from other than God — and adds that the practice belongs to pre-Islamic society and should not be followed. The same article illustrates the baju rajah as a thing people wear. Both statements sit on the same page. That is where the word stands in Indonesian and Malay now, and this atlas reports it without settling it.",
+  "how": "Cast, for the coins: metal of a composition close to Chinese cash, in moulds, with wayang figures on the face. Written, for the rajah: characters inscribed on paper or onto cloth, as in the baju rajah. Then hung — on the body, on a vehicle, on a building — or set out with ritual offerings, which is the use a Yogyakarta numismatist names for the gobog in Java. This project has read no published account of the making rite for either, and prints none.",
+  "today": "Still in use in Bali in Hindu rites as of the accounts this project has read, and still argued over in Indonesian-language religious writing, where the class is described as forbidden by Islamic teaching and illustrated at the same time. The Raffles pieces remain in London."
+ },
+ "dating": {
+  "period": "Majapahit to the present",
+  "from_year": 1200,
+  "to_year": null,
+  "living": true,
+  "label": "13th century to now",
+  "method": "dated-object",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:web-wp-indonesian-numismatic-charm",
+  "note": "The span is Cribb's: his catalogue is subtitled '13th century to 20th century'. The source also states that the first gobog amulets in Java appeared during the Majapahit Empire, that copper-and-brass gobog wayang were produced in the 18th century, and that large-scale production is evidenced only from the start of the 20th. The dates belong to the coin-charms; the wider class of jimat is not dated here."
+ },
+ "object": {
+  "form": "coin",
+  "materials": ["copper", "brass", "paper", "ink", "cloth"],
+  "worn": ["neck", "vehicle", "wall", "pocket"],
+  "made_by": "casters, for the coins; for the rajah, a writer of the characters — this project's sources name no maker",
+  "inscription": "wayang figures on the gobog; inscribed characters on a rajah and on a baju rajah",
+  "script": "Javanese and Jawi",
+  "single_use": false,
+  "source": "s:web-wp-indonesian-numismatic-charm",
+  "note": "Form 'coin' describes the one type these sources describe physically. Jimat as a class takes in written sheets, garments, stones, statues, rings and more, none of which is measured or dated in this project's sources."
+ },
+ "against": [
+  {"harm": "illness", "who": "Indonesian Wikipedia's definition: a jimat is hung to protect its owner and to ward off illness — menangkal penyakit", "source": "s:web-id-wikipedia-jimat", "tier": "cited"},
+  {"harm": "bad-luck", "who": "the same definition: tolak bala, to repel misfortune", "source": "s:web-id-wikipedia-jimat", "tier": "cited"},
+  {"harm": "attraction", "who": "Balinese use of pis bolong in Hindu rites, as tokens of faith and as bringers of good fortune; and the Malay definition of azimat as an object giving tuah, luck", "source": "s:web-wp-indonesian-numismatic-charm", "tier": "cited"},
+  {"harm": "weapons", "who": "the Pis Anoman type, which a collector's account says gives its holder more strength and energy, like the wind", "source": "s:web-wp-indonesian-numismatic-charm", "tier": "cited", "note": "the claim is strength, not invulnerability; the key here is the nearest available and is flagged"}
+ ],
+ "holdings": [
+  {"museum": "british-museum", "what": "106 gobog wayang cash coins brought from Java by Sir Thomas Stamford Raffles, catalogued by Joe Cribb in 1999", "source": "s:web-wp-indonesian-numismatic-charm", "note": "no accession number is given here because this project read none off a catalogue page"}
+ ],
+ "kin": [
+  {"to": "keris-pusaka", "as": "the heirloom blade of the same islands, which is a jimat with a name, a smith and a lineage attached", "rel": "kin"},
+  {"to": "anting-anting", "as": "the Philippine cousin: the Javanese anting-anting, an ear-hung ornament, is where the Tagalog word comes from", "rel": "kin"},
+  {"to": "charm-coin", "as": "the Chinese coin-shaped charm the gobog is modelled on — same square hole, different pantheon on the face", "rel": "origin"},
+  {"to": "taweez", "as": "the written Islamic charm this word's Arabic root belongs to, and the practice the Islamic objection to jimat is aimed at too", "rel": "parallel"},
+  {"to": "islamic-talismanic", "as": "the tradition the word azimat comes out of, and the one whose scholars argue against the object", "rel": "tradition"},
+  {"to": "takrut", "as": "the mainland Southeast Asian written charm doing the same work one sea north", "rel": "parallel"},
+  {"to": "british-museum", "as": "where the Raffles coins ended up, and where the standard catalogue of them was written", "rel": "held-at"},
+  {"to": "hanging-at-door", "as": "the practice the Indonesian definition leads with: hung on a body, a vehicle or a building", "rel": "practice"},
+  {"to": "inscribing", "as": "what makes a rajah a rajah — the characters, not the paper", "rel": "practice"}
+ ],
+ "links": [
+  {"label": "Jimat — Wikipedia bahasa Indonesia", "url": "https://id.wikipedia.org/wiki/Jimat"},
+  {"label": "Azimat — Wikipedia bahasa Melayu", "url": "https://ms.wikipedia.org/wiki/Azimat"},
+  {"label": "Indonesian numismatic charm — Wikipedia", "url": "https://en.wikipedia.org/wiki/Indonesian_numismatic_charm"}
+ ],
+ "sources": ["s:web-id-wikipedia-jimat", "s:web-ms-wikipedia-azimat", "s:web-wp-indonesian-numismatic-charm", "s:wp-kris", "s:wp-agimat", "s:wp-amulet"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:web-wp-indonesian-numismatic-charm"},
+  "fields": {
+   "etymology": {"tier": "cited", "source": "s:web-ms-wikipedia-azimat", "note": "the Arabic root and the Malay and Indonesian definitions were read on 2026-09-16"},
+   "text.story": {"tier": "cited", "source": "s:web-wp-indonesian-numismatic-charm", "note": "the Indonesian quotation is from s:web-id-wikipedia-jimat, translated in the same sentence"},
+   "object": {"tier": "cited", "source": "s:web-wp-indonesian-numismatic-charm", "note": "the physical description covers the coin-charms only; the wider class is not described physically in these sources"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Gobog wayang.jpg", "File:Pis bolong Bali.jpg"],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

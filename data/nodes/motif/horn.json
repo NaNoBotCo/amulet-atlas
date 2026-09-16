@@ -1,0 +1,68 @@
+{
+ "schema": 1,
+ "id": "horn",
+ "type": "motif",
+ "names": {
+  "name": "The horn",
+  "native": "cornicello",
+  "script": "Latin",
+  "lang": "it",
+  "said": "kor-nee-CHEL-lo, 'little horn'",
+  "aliases": ["cornetto", "corno", "corno portafortuna", "curniciello", "Italian horn", "mano cornuta"]
+ },
+ "region": ["rome-italy", "diaspora"],
+ "countries": ["IT", "US", "AR", "AU"],
+ "facets": {"era": "modern", "family": "horn", "hemisphere": ["N", "S", "E", "W"]},
+ "text": {
+  "what": "A single twisted horn, tapering to a point, hung at a neck or a rear-view mirror. Gold, silver, plastic, bone, terracotta, or the red coral that is the version Naples is known for. A few centimetres long. The hand version — the mano cornuta, two fingers extended and held pointing downward with a swivelling motion — is the same sign made of fingers.",
+  "story": "The horn is worn against the malocchio, the evil eye, and against bad luck generally, and historically for fertility and virility. It is a regional amulet before it is an Italian one: most often worn by men in southern Italy, above all in Campania, then Lazio, Apulia and Basilicata, and less in Sicily and Calabria.\n\nWhat the horn is a horn of is an open question. Cornicelli are thought to be modelled on an eland horn. The red ones look like a chili pepper, and dried chilies are hung in some southern Italian houses against the malocchio — but chilies reached Europe only after the Columbian exchange, so the resemblance is younger than the shape. The classical lines pull in several directions at once: the cornucopia broken from a goat by Zeus; coral sacred to Venus; silver sacred to Luna; the phallic outline and the red pointing to Priapus; the horn itself to Pan.\n\nWhat the harm is said to reach is specific. The malocchio is described as harming nursing mothers and their babies, fruiting trees, milking animals and the sperm of men — the forces of generation, in that order.\n\nThe horn moved from the animal to the machine without changing shape. Cornicelli hang from rear-view mirrors now, which the sources trace to the older custom of hanging them on draft horses.\n\n*Inference —* this atlas files the horn beside the eye rather than as an unrelated sign, because the logic its carriers describe is the same interception: a thing conspicuous enough to take the look meant for somebody else.",
+  "today": "Made in gold and silver for jewellers, and in plastic by the tray for the tourist trade. San Gregorio Armeno in Naples sells both, on the same street, a few metres apart."
+ },
+ "kin": [
+  {"to": "cornicello", "as": "the amulet itself — the twisted coral horn in a Neapolitan window", "rel": "carried-by"},
+  {"to": "eye", "as": "the harm it is aimed at, and the sign it stands in for in southern Italy", "rel": "parallel"},
+  {"to": "coral", "as": "the red material that gives the Neapolitan horn its colour and half its story", "rel": "material"},
+  {"to": "crescent", "as": "the other two-pointed sign in the Mediterranean, and one it is regularly confused with", "rel": "contrast"},
+  {"to": "hand", "as": "the mano cornuta makes the same horn out of two fingers", "rel": "kin"},
+  {"to": "phallic-sign", "as": "the Roman answer to the same harm; the horn's phallic outline is one reading of why it works", "rel": "origin"},
+  {"to": "san-gregorio-armeno", "as": "the Naples street where it is sold by the hundred, beside the crib figures", "rel": "place"},
+  {"to": "cimaruta", "as": "the Neapolitan silver sprig that hangs a crescent and a snake and a key on one stalk", "rel": "kin"}
+ ],
+ "dating": {
+  "period": "documented in modern southern Italy",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "in use in southern Italy and in the Italian diaspora, still made",
+  "method": "ethnographic",
+  "tier": "cited",
+  "source": "s:wp-cornicello",
+  "note": "No start date is published in what was read. The article says only that the horn shape is far older than the chili-pepper resemblance, which places it before the Columbian exchange."
+ },
+ "object": {
+  "form": "horn",
+  "materials": ["coral", "gold", "silver", "plastic", "bone", "terracotta"],
+  "worn": ["neck", "vehicle", "wall"],
+  "colour": ["red", "gold"],
+  "source": "s:wp-cornicello"
+ },
+ "against": [
+  {"harm": "evil-eye", "who": "southern Italian wearers; the harm is named malocchio", "source": "s:wp-cornicello", "tier": "cited"},
+  {"harm": "bad-luck", "who": "the amulet's own Italian name, corno portafortuna — the horn that brings luck", "source": "s:wp-cornicello", "tier": "cited"},
+  {"harm": "infertility", "who": "historic use, for fertility and virility", "source": "s:wp-cornicello", "tier": "cited"},
+  {"harm": "livestock", "who": "the malocchio is described as reaching milking animals and fruiting trees as well as people", "source": "s:wp-cornicello", "tier": "cited"},
+  {"harm": "child-harm", "who": "the same account names nursing mothers and their babies first", "source": "s:wp-cornicello", "tier": "cited"}
+ ],
+ "links": [{"label": "Cornicello — Wikipedia", "url": "https://en.wikipedia.org/wiki/Cornicello"}],
+ "sources": ["s:wp-cornicello", "s:wp-evil-eye", "s:wp-coral", "s:wp-cimaruta", "s:wp-via-san-gregorio-armeno"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-cornicello"},
+  "fields": {
+   "text.today": {"tier": "inference", "note": "the two grades on one street are reasoned from the Naples street's published description; nobody from this project has walked it"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Cornicello.jpg", "File:Corno portafortuna napoletano.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

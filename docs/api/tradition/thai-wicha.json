@@ -1,0 +1,775 @@
+{
+ "schema": 1,
+ "id": "thai-wicha",
+ "type": "tradition",
+ "names": {
+  "name": "Thai wicha",
+  "native": "วิชา",
+  "script": "Thai",
+  "lang": "th",
+  "said": "wí-chaa — knowledge, a taught craft; from Sanskrit vidyā",
+  "aliases": [
+   "Thai amulet craft",
+   "saiyasat",
+   "Thai protective craft"
+  ]
+ },
+ "etymology": {
+  "root": "Thai wicha, 'knowledge, subject, learned craft', from Sanskrit vidyā through Pali vijjā — the same root as the yantra word the practice inscribes",
+  "note": "The word names the thing that is transmitted rather than the thing that is sold. A yant belongs to a lineage; an amulet belongs to whoever buys it.",
+  "tier": "inference"
+ },
+ "region": [
+  "mainland-sea"
+ ],
+ "countries": [
+  "TH",
+  "KH",
+  "LA",
+  "MM"
+ ],
+ "facets": {
+  "era": "living",
+  "status": "living",
+  "restricted": "limited",
+  "language": "Thai",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "The taught craft behind Thailand's protective objects: the designs, the scripts, the incantations and the rules that go with them. Its outputs are a pressed clay or metal tablet of the Buddha or a revered monk, a rolled metal or palm-leaf scroll in a case, a small carved phallus on a waist cord, and a tattoo. What ties them together is not the shape but the transmission — a yant and the words said over it belong to a master's lineage, and an amulet's price is set by which temple pressed it and which monk chanted over it.",
+  "story": "The tablets come first and they are older than the idea of a charm. Buddhism reached what is now Thailand in the Dvaravati period carrying India's votive-tablet practice, and Dvaravati tablets were made to perpetuate the religion. Under Srivijaya and Mahayana influence, tablets were pressed to dedicate merit to the dead and toward becoming a bodhisattva. By Ayutthaya they were being made for protection, and warriors carried them into battle in place of the phrajiat, the takrut or a herbal charm. In the early Rattanakosin period the protective amulet took off, the class acquired the name phra khrueang, and temples began using them to raise funds — a monk would give one as a gift in return for a donation. The term 'amulet' in this sense first appears under King Rama IV.\n\nTakrut are older than Thai Buddhism in the sources' own account. They are the form the Khun Chang Khun Phaen epic mentions most, and after Buddhism took root monks were making them in 1200–1300 CE. The tattoo comes from the other direction: sak yant originates in the Khmer Empire around the ninth century, built on mainland Southeast Asian animist tattooing that the sources run back as far as 2,500 BCE, with the geometry drawn from Indian yantras. Cambodia writes them in Khmer script, central Thailand in Khom, northern Thailand in Shan, Northern Thai or Tai Lu, Laos in Lao Tham.\n\nThe craft states its own rules and they run on the bearer, not the object. A yant confers what it confers only while the person carrying it observes the taboos taken on with it — abstaining from a named food is the example the source gives. Break them and it stops. Three classes of effect are named: one that works on the bearer, making them more eloquent; one that protects, taken by soldiers, police, taxi drivers and people in trades they count as dangerous; one that works on everyone else, invoking fear.\n\nAnd there is a live economy with dated figures. In 1987 a policeman, Khun Phantharak Rajjadej, created the Jatukham Rammathep amulet for the founding of Nakhon Si Thammarat's city pillar; it names two Srivijaya princes the city holds to be its guardians, is round, and runs about 5 cm across. It caught on in the early 2000s, hard, from the time of its creator's funeral on 5 July 2006 into mid-2007. As many as 150 series were planned for production in 2007, and the market for that one amulet reached twenty billion baht that year. In late 2007 the bubble burst: the popularity faded fast, leaving plenty of stock that could be had at low prices. The source gives no figure for what the collapse cost anybody, so none is given here.\n\nThe other prices are collectors' prices and carry what their source carries. The Benja Phakhi — Phra Somdej, Phra Rod, Phra Nang Phaya, Phra Phong Suphan, Phra Sum Kor — are valued at over 10 million baht, with no year attached in the source, so none is printed. A Phra Somdet Jitlada, one of no more than 3,000 made by King Bhumibol and awarded between 1965 and 1970 with a numbered certificate naming its recipient, was worth at least two million baht as of 2013.\n\n*Inference —* the argument about whether this is devotion or trade is Thai, conducted in Thai, and older than any foreign observer's version of it. The atlas reports both halves: temples have funded themselves this way since the early Rattanakosin period and say so plainly, and a market that can move twenty billion baht in twelve months behaves like a market. Neither half is a debunking of the other.",
+  "how": "Amulets are pressed from plaster, metal, wood or bone, often with ash, a monk's hair or temple relics mixed in, then chanted over and blessed in a process that can take from a week to several years, and usually cased before wear. Takrut are inscribed with yant in Khom, Lan Na Tai Tham or another script, rolled into a tube, cased, and tied to the body — at the neck, at chest level, at the waist, or over a body part the wearer wants covered. Value afterwards turns on appearance, scarcity, maker, age and reputation, which is why buyers arrive at a market with a loupe and why specialist authenticators are part of the trade. A sak yant is applied by needle by a monk, a Brahmin priest, a ruesi or a lay wicha practitioner, and the rules travel home with the bearer.",
+  "today": "Live and internationally visible, with the frictions that brings. Angelina Jolie was tattooed by Ajahn Noo Ganpai in Old Khmer script and took a Bengal tiger yant in 2004 on acquiring Cambodian citizenship, which the source credits with the practice's popularity among women abroad. In 2011 Thailand's Culture Ministry moved against parlours inking Buddha images on non-Buddhist visitors. Wat Bang Phra in Nakhon Pathom holds its Wai Khru on the grounds once a year in March, when the tattoos of those who come are renewed. In 2021 a Thai project put monk-blessed amulets on a blockchain as NFTs. Tha Phrachan market in Bangkok still trades the tablets, and forgery is common enough that expert authentication is a standing part of the transaction."
+ },
+ "restricted": {
+  "note": "A yant's design and the words said over it belong to the master's lineage that holds them, and the incantations differ from school to school. This atlas prints what the tradition publishes — what the classes of effect are, who applies them, that rules come with them — and does not print an incantation, a consecration wording, or the specific taboos a particular master sets on a particular bearer. It does not reconstruct them from scattered sources either. The blank is deliberate.",
+  "who_says": "the practice as described in the cited account: sak yant is defined by strict rules intended to maintain the tattoos' power, the incantations depend on the creator's lineage in each school, and the tattoo holds only while the bearer keeps the taboos taken on with it",
+  "source": "s:wp-yantra-tattooing"
+ },
+ "dating": {
+  "period": "Khmer Empire to the present",
+  "from_year": 801,
+  "to_year": null,
+  "living": true,
+  "label": "9th century to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-yantra-tattooing",
+  "note": "from_year is the ninth-century Khmer Empire origin the source gives for yantra tattooing, which is the earliest date any strand of this craft carries. The animist tattooing underneath it is dated in the same source as far back as 2,500 BCE, but as a regional practice rather than as this craft; monks making takrut are dated to 1200–1300 CE; the amulet class acquires the name phra khrueang in the early Rattanakosin period."
+ },
+ "object": {
+  "form": "plaque",
+  "materials": [
+   "terracotta",
+   "copper",
+   "brass",
+   "gold",
+   "silver",
+   "wood",
+   "bone",
+   "palm-leaf",
+   "hair"
+  ],
+  "worn": [
+   "neck",
+   "chest",
+   "waist",
+   "skin",
+   "vehicle",
+   "shop",
+   "wall"
+  ],
+  "made_by": "a monk, a Brahmin priest, a ruesi or a lay wicha practitioner, working in a named lineage; temples run the pressing and the mass consecrations, and the consecrating monk's name is the object's provenance",
+  "inscription": "yant — sacred geometry with Pali gatha and Buddhist invocations — in Khom Pali script in central Thailand, Khmer in Cambodia, Lan Na Tai Tham, Shan or Tai Lu in the north, Lao Tham in Laos",
+  "script": "Khom Pali, Khmer, Lan Na Tai Tham",
+  "single_use": false,
+  "source": "s:wp-thai-buddha-amulet",
+  "note": "The one measurement given is the Jatukham Rammathep's, about 5 cm across, and it belongs to that type alone; it sits in the story rather than here."
+ },
+ "against": [
+  {
+   "harm": "weapons",
+   "who": "the craft's own category kong grapan, invulnerability, and the takrut blessed for safe keeping; sak yant protection is taken by soldiers, police and taxi drivers",
+   "source": "s:wp-takrut",
+   "tier": "cited"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "the cited account of phra khrueang, which names protection from black magic alongside danger and disaster",
+   "source": "s:wp-thai-buddha-amulet",
+   "tier": "cited"
+  },
+  {
+   "harm": "attraction",
+   "who": "the craft's categories maha sanaeh, attraction, and metta mahaniyom, popularity and business success; the Khun Phaen amulet is named for a folklore figure who used a love formula",
+   "source": "s:wp-takrut",
+   "tier": "cited"
+  },
+  {
+   "harm": "poverty",
+   "who": "the same categories — maha pokasap, the drawing of riches — and shopkeepers who set a palad khik by the till to bring in sales",
+   "source": "s:wp-palad-khik",
+   "tier": "cited"
+  },
+  {
+   "harm": "theft",
+   "who": "Thai women, who the source says carry a palad khik in a purse against rape and mugging",
+   "source": "s:wp-palad-khik",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the Phra Kring, made in the image of Bhaisajyaguru the medicine Buddha, of whom the tradition says that whoever hears his name in passing or sees his image will be healed",
+   "source": "s:wp-thai-buddha-amulet",
+   "tier": "cited"
+  },
+  {
+   "harm": "war",
+   "who": "Ayutthaya-period warriors, who carried votive tablets into battle in place of the phrajiat, the takrut or a herbal charm",
+   "source": "s:wp-thai-buddha-amulet",
+   "tier": "cited"
+  }
+ ],
+ "holdings": [
+  {
+   "museum": "national-museum-thailand",
+   "what": "votive tablets and Thai Buddhist material",
+   "source": "s:wp-thai-buddha-amulet",
+   "note": "listed as the national collection for this material; this project read no catalogue entry, so no object and no accession number is given"
+  }
+ ],
+ "kin": [
+  {
+   "to": "phra-khrueang",
+   "as": "the tradition's central object, and the one whose price is a monk's name and a temple's date",
+   "rel": "carries"
+  },
+  {
+   "to": "takrut",
+   "as": "its oldest strand — rolled metal or palm-leaf, made here before Buddhism arrived and by monks from 1200–1300 CE",
+   "rel": "carries"
+  },
+  {
+   "to": "sak-yant",
+   "as": "the same craft with the object removed: the yant goes into skin, and the rules stay on the person",
+   "rel": "carries"
+  },
+  {
+   "to": "palad-khik",
+   "as": "the piece of the kit that can go where the Buddha may not — a bar, a gambling house, a brothel",
+   "rel": "carries"
+  },
+  {
+   "to": "yant-flash",
+   "as": "the drawn sheets the practitioners work from, and the rules that come attached to them",
+   "rel": "art"
+  },
+  {
+   "to": "consecration",
+   "as": "the step this tradition prices by: a week to several years of chanting, and the consecrating monk's name as provenance",
+   "rel": "practice"
+  },
+  {
+   "to": "tattooing",
+   "as": "the practice that holds the lineages, the refusals and the annual renewal at Wat Bang Phra",
+   "rel": "practice"
+  },
+  {
+   "to": "buying-in-a-market",
+   "as": "the practice at its most monetised anywhere in this atlas — loupe, certificate, forgery, and a twenty-billion-baht year on the record",
+   "rel": "practice"
+  },
+  {
+   "to": "tha-phrachan",
+   "as": "the market this tradition's economy runs through, beside Thammasat University in Bangkok",
+   "rel": "place"
+  },
+  {
+   "to": "hindu-kavacha",
+   "as": "where the geometry comes from: the Indian yantra, arriving through the Khmer Empire and staying under a Thai name",
+   "rel": "origin"
+  },
+  {
+   "to": "yantra-word",
+   "as": "the word at the other end of that journey, shortened to yant",
+   "rel": "term"
+  },
+  {
+   "to": "the-fake-market",
+   "as": "the long read on authentication, which is a standing cost of doing business in this tradition rather than an occasional scandal",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Thai Buddha amulet — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thai_Buddha_amulet"
+  },
+  {
+   "label": "Yantra tattooing — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra_tattooing"
+  }
+ ],
+ "sources": [
+  "s:wp-thai-buddha-amulet",
+  "s:wp-takrut",
+  "s:wp-palad-khik",
+  "s:wp-yantra-tattooing",
+  "s:wp-yantra",
+  "s:web-wp-wat-bang-phra",
+  "s:web-ap-buddha-tattoo-ban",
+  "s:web-saiyasombut-religious-tattoos",
+  "s:web-coconuts-crypto-amulets",
+  "s:wp-buddha-footprint"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-thai-buddha-amulet"
+  },
+  "fields": {
+   "etymology": {
+    "tier": "inference",
+    "note": "the root is standard, but the reading of what the word names — the transmission rather than the object — is this project's"
+   },
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-yantra-tattooing",
+    "note": "the ninth-century start is the earliest date the sources attach to any strand; the note lists the other strands' dates rather than merging them"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-thai-buddha-amulet",
+    "note": "every money figure carries the date its source gives it, and where the source gives no year — the Benja Phakhi valuation — none is printed. The closing paragraph is marked inference where it appears."
+   },
+   "holdings": {
+    "tier": "inference",
+    "note": "named as the national collection for this material; no catalogue page was read and no accession number appears"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Thai amulets Tha Phrachan.jpg",
+  "File:Sak yant tattoo.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-17",
+ "blurb": "The taught craft behind Thailand's protective objects: the designs, the scripts, the incantations and the rules that go with them.",
+ "region_terms": [
+  {
+   "key": "mainland-sea",
+   "name": "Mainland Southeast Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "phra-khrueang",
+   "type": "amulet",
+   "name": "Phra khrueang",
+   "as": "the tradition's central object, and the one whose price is a monk's name and a temple's date",
+   "rel": "carries"
+  },
+  {
+   "to": "takrut",
+   "type": "amulet",
+   "name": "Takrut",
+   "as": "its oldest strand — rolled metal or palm-leaf, made here before Buddhism arrived and by monks from 1200–1300 CE",
+   "rel": "carries"
+  },
+  {
+   "to": "sak-yant",
+   "type": "amulet",
+   "name": "Sak yant",
+   "as": "the same craft with the object removed: the yant goes into skin, and the rules stay on the person",
+   "rel": "carries"
+  },
+  {
+   "to": "palad-khik",
+   "type": "amulet",
+   "name": "Palad khik",
+   "as": "the piece of the kit that can go where the Buddha may not — a bar, a gambling house, a brothel",
+   "rel": "carries"
+  },
+  {
+   "to": "yant-flash",
+   "type": "art",
+   "name": "Yant flash",
+   "as": "the drawn sheets the practitioners work from, and the rules that come attached to them",
+   "rel": "art"
+  },
+  {
+   "to": "consecration",
+   "type": "practice",
+   "name": "Consecration",
+   "as": "the step this tradition prices by: a week to several years of chanting, and the consecrating monk's name as provenance",
+   "rel": "practice"
+  },
+  {
+   "to": "tattooing",
+   "type": "practice",
+   "name": "Tattooing",
+   "as": "the practice that holds the lineages, the refusals and the annual renewal at Wat Bang Phra",
+   "rel": "practice"
+  },
+  {
+   "to": "buying-in-a-market",
+   "type": "practice",
+   "name": "Buying one in a market",
+   "as": "the practice at its most monetised anywhere in this atlas — loupe, certificate, forgery, and a twenty-billion-baht year on the record",
+   "rel": "practice"
+  },
+  {
+   "to": "tha-phrachan",
+   "type": "place",
+   "name": "Tha Phrachan amulet market",
+   "as": "the market this tradition's economy runs through, beside Thammasat University in Bangkok",
+   "rel": "place"
+  },
+  {
+   "to": "hindu-kavacha",
+   "type": "tradition",
+   "name": "Kavacha — the Hindu armour tradition",
+   "as": "where the geometry comes from: the Indian yantra, arriving through the Khmer Empire and staying under a Thai name",
+   "rel": "origin"
+  },
+  {
+   "to": "yantra-word",
+   "type": "term",
+   "name": "yantra",
+   "as": "the word at the other end of that journey, shortened to yant",
+   "rel": "term"
+  },
+  {
+   "to": "the-fake-market",
+   "type": "story",
+   "name": "The fake market",
+   "as": "the long read on authentication, which is a standing cost of doing business in this tradition rather than an occasional scandal",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-thai-buddha-amulet",
+   "kind": "encyclopedia",
+   "title": "Thai Buddha amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thai_Buddha_amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-takrut",
+   "kind": "encyclopedia",
+   "title": "Takrut",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Takrut",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-palad-khik",
+   "kind": "encyclopedia",
+   "title": "Palad khik",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Palad_khik",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-yantra-tattooing",
+   "kind": "encyclopedia",
+   "title": "Yantra tattooing",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra_tattooing",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-yantra",
+   "kind": "encyclopedia",
+   "title": "Yantra",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-wp-wat-bang-phra",
+   "kind": "encyclopedia",
+   "title": "Wat Bang Phra",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wat_Bang_Phra",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-ap-buddha-tattoo-ban",
+   "kind": "news",
+   "title": "Thailand seeks to ban tourists' Buddha tattoos",
+   "author": "Sinfah Tunsarawuth and Todd Pitman",
+   "publisher": "The Associated Press, via NBC News",
+   "date": "2011-06-02",
+   "url": "https://www.nbcnews.com/id/wbna43249699",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-saiyasombut-religious-tattoos",
+   "kind": "web",
+   "title": "Thai Culture Ministry to crack down on religious tattoos on foreign skin",
+   "author": "Saksith Saiyasombut",
+   "publisher": "Siam Voices, republished at saiyasombut.com",
+   "date": "2011-05-31",
+   "url": "https://saiyasombut.com/blog/2011/06/02/thai-culture-ministry-to-crack-down-on-religious-tattoos-on-foreign-skin",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-coconuts-crypto-amulets",
+   "kind": "news",
+   "title": "Crypto Amulets: Monk-blessed NFTs enter the blockchain in Thailand",
+   "publisher": "Coconuts Bangkok",
+   "url": "https://coconuts.co/bangkok/news/crypto-amulets-monk-blessed-nfts-enter-the-blockchain-in-thailand/",
+   "published": "2021-06-15",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-buddha-footprint",
+   "kind": "encyclopedia",
+   "title": "Buddha footprint",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Buddha_footprint",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-thai-buddha-amulet"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-thai-buddha-amulet",
+   "note": "every money figure carries the date its source gives it, and where the source gives no year — the Benja Phakhi valuation — none is printed. The closing paragraph is marked inference where it appears."
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-thai-buddha-amulet"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-thai-buddha-amulet"
+  },
+  "etymology": {
+   "tier": "inference",
+   "note": "the root is standard, but the reading of what the word names — the transmission rather than the object — is this project's"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-yantra-tattooing",
+   "note": "the ninth-century start is the earliest date the sources attach to any strand; the note lists the other strands' dates rather than merging them"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-thai-buddha-amulet"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "weapons",
+   "label": "Blades and bullets",
+   "gloss": "invulnerability charms; reported, never recommended",
+   "who": "the craft's own category kong grapan, invulnerability, and the takrut blessed for safe keeping; sak yant protection is taken by soldiers, police and taxi drivers",
+   "quote": "",
+   "source": "s:wp-takrut",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "witchcraft",
+   "label": "Another person's sorcery",
+   "who": "the cited account of phra khrueang, which names protection from black magic alongside danger and disaster",
+   "quote": "",
+   "source": "s:wp-thai-buddha-amulet",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "attraction",
+   "label": "Attracting custom, luck or love",
+   "gloss": "the charm that pulls rather than blocks",
+   "who": "the craft's categories maha sanaeh, attraction, and metta mahaniyom, popularity and business success; the Khun Phaen amulet is named for a folklore figure who used a love formula",
+   "quote": "",
+   "source": "s:wp-takrut",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "poverty",
+   "label": "Poverty",
+   "who": "the same categories — maha pokasap, the drawing of riches — and shopkeepers who set a palad khik by the till to bring in sales",
+   "quote": "",
+   "source": "s:wp-palad-khik",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "theft",
+   "label": "Theft",
+   "who": "Thai women, who the source says carry a palad khik in a purse against rape and mugging",
+   "quote": "",
+   "source": "s:wp-palad-khik",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "the Phra Kring, made in the image of Bhaisajyaguru the medicine Buddha, of whom the tradition says that whoever hears his name in passing or sees his image will be healed",
+   "quote": "",
+   "source": "s:wp-thai-buddha-amulet",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "war",
+   "label": "War",
+   "who": "Ayutthaya-period warriors, who carried votive tablets into battle in place of the phrajiat, the takrut or a herbal charm",
+   "quote": "",
+   "source": "s:wp-thai-buddha-amulet",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "terracotta",
+   "label": "Fired clay",
+   "kind": "fired"
+  },
+  {
+   "key": "copper",
+   "label": "Copper and bronze",
+   "kind": "metal"
+  },
+  {
+   "key": "brass",
+   "label": "Brass",
+   "kind": "metal"
+  },
+  {
+   "key": "gold",
+   "label": "Gold",
+   "kind": "metal"
+  },
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  },
+  {
+   "key": "wood",
+   "label": "Wood",
+   "kind": "plant"
+  },
+  {
+   "key": "bone",
+   "label": "Bone and ivory",
+   "kind": "organic"
+  },
+  {
+   "key": "palm-leaf",
+   "label": "Palm leaf",
+   "kind": "written"
+  },
+  {
+   "key": "hair",
+   "label": "Hair",
+   "kind": "organic"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "chest",
+   "label": "On the chest, under the shirt",
+   "group": "body"
+  },
+  {
+   "key": "waist",
+   "label": "At the waist",
+   "group": "body"
+  },
+  {
+   "key": "skin",
+   "label": "In the skin",
+   "group": "body",
+   "note": "tattooed"
+  },
+  {
+   "key": "vehicle",
+   "label": "In a vehicle",
+   "group": "placed"
+  },
+  {
+   "key": "shop",
+   "label": "At the till",
+   "group": "placed"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "plaque",
+  "label": "Plaque or tablet"
+ },
+ "holding_facts": [
+  {
+   "key": "national-museum-thailand",
+   "label": "The National Museum Bangkok",
+   "city": "Bangkok",
+   "country": "TH",
+   "url": "",
+   "what": "votive tablets and Thai Buddhist material",
+   "accession": "",
+   "source": "s:wp-thai-buddha-amulet"
+  }
+ ],
+ "span": "801 CE to now",
+ "country_names": [
+  {
+   "iso": "TH",
+   "name": "Thailand"
+  },
+  {
+   "iso": "KH",
+   "name": "Cambodia"
+  },
+  {
+   "iso": "LA",
+   "name": "Laos"
+  },
+  {
+   "iso": "MM",
+   "name": "Myanmar"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "navaratna-ring",
+   "type": "amulet",
+   "name": "Navaratna ring",
+   "as": "the Thai side of it: in Thailand the nine gems are a royal honour as well as a charm",
+   "rel": "kin"
+  },
+  {
+   "from": "palad-khik",
+   "type": "amulet",
+   "name": "Palad khik",
+   "as": "the craft it belongs to, whose incantations run by lineage rather than by book",
+   "rel": "tradition"
+  },
+  {
+   "from": "phra-khrueang",
+   "type": "amulet",
+   "name": "Phra khrueang",
+   "as": "the body of craft and lineage this belongs to, and the reason a monk's name sets a price",
+   "rel": "tradition"
+  },
+  {
+   "from": "sak-yant",
+   "type": "amulet",
+   "name": "Sak yant",
+   "as": "the craft that holds the designs, the lineages and the rules for the bearer",
+   "rel": "tradition"
+  },
+  {
+   "from": "takrut",
+   "type": "amulet",
+   "name": "Takrut",
+   "as": "the craft that makes it, in which the yant and the incantation are a lineage's property",
+   "rel": "tradition"
+  },
+  {
+   "from": "footprint",
+   "type": "motif",
+   "name": "The footprint",
+   "as": "the tradition that keeps Phra Phutthabat and presses its amulets",
+   "rel": "tradition"
+  },
+  {
+   "from": "palm-leaf",
+   "type": "material",
+   "name": "Palm leaf",
+   "as": "the tradition whose written charms this leaf carried before metal was common",
+   "rel": "tradition"
+  },
+  {
+   "from": "consecration",
+   "type": "practice",
+   "name": "Consecration",
+   "as": "the tradition where the consecrating monk's name is the object's provenance",
+   "rel": "tradition"
+  },
+  {
+   "from": "tattooing",
+   "type": "practice",
+   "name": "Tattooing",
+   "as": "the tradition that holds the lineages, the rules and the refusals",
+   "rel": "tradition"
+  },
+  {
+   "from": "tha-phrachan",
+   "type": "place",
+   "name": "Tha Phrachan amulet market",
+   "as": "the tradition whose economy this market is",
+   "rel": "tradition"
+  },
+  {
+   "from": "unesco-ich",
+   "type": "org",
+   "name": "UNESCO Intangible Cultural Heritage",
+   "as": "the kind of living craft tradition the Convention's traditional-craftsmanship domain is written for",
+   "rel": "tradition"
+  },
+  {
+   "from": "yantra-word",
+   "type": "term",
+   "name": "yantra",
+   "as": "the tradition it belongs to at the other end of the journey",
+   "rel": "tradition"
+  },
+  {
+   "from": "yant-flash",
+   "type": "art",
+   "name": "Yant flash",
+   "as": "the tradition whose practitioners draw these, and set the rules that come with them",
+   "rel": "tradition"
+  }
+ ]
+}

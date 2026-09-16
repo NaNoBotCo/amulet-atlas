@@ -1,0 +1,668 @@
+{
+ "schema": 1,
+ "id": "charm-coin",
+ "type": "amulet",
+ "names": {
+  "name": "Chinese charm coin",
+  "native": "厭勝錢",
+  "script": "Han",
+  "lang": "zh",
+  "said": "yàn shèng qián",
+  "aliases": [
+   "yansheng coin",
+   "yasheng coin",
+   "huaqian",
+   "flower coin",
+   "patterned coin",
+   "play coin",
+   "Chinese numismatic charm"
+  ]
+ },
+ "etymology": {
+  "root": "Chinese 厭勝錢 yànshèng qián; the formal older pronunciation was yāshèng qián, 押勝錢 / 压胜钱",
+  "note": "Also called 花錢 huāqián, flower coins or patterned coins, and 玩钱 wanqian, play coins. In modern China and Taiwan flower coins is the commoner name.",
+  "tier": "cited",
+  "source": "s:wp-chinese-numismatic-charm"
+ },
+ "region": [
+  "china",
+  "korea",
+  "japan",
+  "mainland-sea"
+ ],
+ "countries": [
+  "CN",
+  "TW",
+  "VN",
+  "KR",
+  "JP"
+ ],
+ "facets": {
+  "era": "ancient",
+  "status": "living",
+  "portable": "carried",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A cast bronze disc with a hole through it, shaped like a Chinese cash coin and never spendable as one. Where a government coin carries two or four characters, a charm coin usually carries more, and often a picture as well: a dragon, a zodiac animal, a scene, an eight-trigram diagram, a line of Taoist talismanic script. Most are cast, not struck — machine striking only reaches China in the 19th century. They have also been made in iron, lead, tin, silver, gold, porcelain, jade and paper.",
+  "story": "They start as coins going strange. Yansheng coins first appear in the Western Han as a variant of the Ban Liang and Wu Zhu cash then in circulation, used to speak to the dead, to pray for a favourable outcome, to terrify ghosts, or as lucky money. From the start of the Han to the end of the Northern and Southern dynasties, 206 BCE to 589 CE, most of them look like the circulating coinage; the difference is on the reverse — tortoises, snakes, double-edged swords, sun, moon, stars, famous people, the twelve zodiac animals. They were mostly privately funded and cast by wealthy families for their own ceremonies, though governments and religious orders cast some, and they circulated alongside real money because a copper-alloy disc was worth its metal.\n\nThe typologies are published and large. In Cast Chinese Amulets, 2020, the British numismatist David Hartill documented over 5,000 different types. Catalogues sort them by shape, by size, by meaning, by an emperor's name, or by any other shared feature; some deliberately refuse those categories, on the grounds that a novice cannot tell whether a given amulet is a lucky, religious, family or coin type. The standing classes run by function — good luck, safe journey, peace, burial, marriage and sex education, house, palace; by shape and design — gourd, vault protector, open-work, 24-character, spade, lock, nine-fold seal script, fish, peach, little shoe, pendant, palindrome, Ming cloisonné, money tree; and by theme — astronomy, zodiac, Eight Treasures, the Book of Changes and Bagua, five poisons, Confucian, Taoist, Buddhist temple coins, horse coins, even xiangqi pieces.\n\nSome classes are exact enough to identify by measurement. \"Laid to Rest\" burial charms are bronze, 2.4 to 2.45 cm across and 1.3 to 1.4 mm thick, with the obverse inscription rù tǔ wéi ān, 'to be laid to rest', and a blank reverse; they turn up mostly in late Qing graves. They are often left out of reference books on Chinese coins and charms, because they were placed in the mouths of the dead and are considered unlucky and disturbing, and most collectors do not want them.\n\nThe five poisons charms are dated to a day: the fifth day of the fifth month, the most inauspicious in the calendar, when summer opened with dangerous animals, infectious disease and, in the account, evil spirits. The five poisons are snakes, scorpions, centipedes, toads and spiders, sometimes with lizards, the three-legged toad or the tiger, and the reasoning given is that poison can only be thwarted with poison. One example carries the legend 五日午时, 'noon of the 5th day', and the charms were worn on that day.\n\nPeace charms have an archaeology. A find of the 1980s established that the tài píng bǎi qián was first cast by the Kingdom of Shu after the collapse of the Han, worth a hundred cash and cut in a calligraphic style closer to a charm than to the coinage of its day. Under the Qing, charms reading tiān xià tài píng — peace under heaven — became a common sight.",
+  "how": "Cast in moulds, privately and in temples, then carried, hung, sewn on or buried. Open-work charms of the Tang and Song were used as clothing accessories, as ornament, and to decorate horses; fish charms meant to be worn at the waist come in under the Khitan Liao. House charms were set into buildings during construction, and into temples; Bagua charms decorate ridgepoles alongside red paper and cloth banners. Palace cash, which David Hartill notes were only produced at the establishment of a new reign era title, were wrapped in a rectangular cloth and given at New Year to imperial guards and eunuchs, who hung them below lamps, and were replaced with new reign titles each time an emperor died.",
+  "today": "Collected, catalogued and reproduced. Use was revitalised in the Republic of China era, and the charms remain the best-catalogued class of amulet in this atlas — Hartill's 5,000-odd types are a finding aid a reader can actually use, which is a thing almost no other tradition here has. Feng shui coins on red cord are sold worldwide as of 2026; whether a modern cast disc is the same object as a Qing one is the same argument the dzi market has."
+ },
+ "dating": {
+  "period": "Western Han to the present",
+  "from_year": -205,
+  "to_year": null,
+  "living": true,
+  "label": "206 BCE to now",
+  "method": "dated-object",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-chinese-numismatic-charm",
+  "note": "206 BCE is the start of the Han as the source gives it, in the sentence that runs the early charms from the start of the Han to the end of the Northern and Southern dynasties in 589 CE. The latest dated revival the source names is the Republic of China era; the living flag covers the present-day market, which the source does not survey."
+ },
+ "object": {
+  "form": "coin",
+  "materials": [
+   "brass",
+   "copper",
+   "iron",
+   "lead",
+   "silver",
+   "gold",
+   "jade",
+   "paper"
+  ],
+  "worn": [
+   "pocket",
+   "waist",
+   "door",
+   "wall",
+   "grave"
+  ],
+  "made_by": "mostly privately cast by wealthy families for their own ceremonies; also by governments, temples and religious orders",
+  "inscription": "four to many characters, often with pictures; Taoist charms may open and close with talismanic script",
+  "script": "Han",
+  "single_use": false,
+  "source": "s:wp-chinese-numismatic-charm",
+  "note": "Two published measurements, both for particular classes rather than for charms in general: \"Laid to Rest\" burial charms are 2.4–2.45 cm across and 1.3–1.4 mm thick; Qing palace cash coins tend to be 30–40 mm in diameter."
+ },
+ "against": [
+  {
+   "harm": "bad-luck",
+   "who": "the good luck charms class, which the source says was traditionally used to scare away evil and protect families",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited"
+  },
+  {
+   "harm": "travel",
+   "who": "the safe journey charms class",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited"
+  },
+  {
+   "harm": "animal-attack",
+   "who": "the five poisons charms, worn on the fifth day of the fifth month against snakes, scorpions, centipedes, toads and spiders",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited",
+   "note": "the reasoning given is that poison can only be thwarted with poison"
+  },
+  {
+   "harm": "spirits",
+   "who": "Taoist charms, the Lei Ting curse charms, which ask Leigong to kill evil spirits and bogies",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited"
+  },
+  {
+   "harm": "exams",
+   "who": "good luck charms wishing the carrier good results in the imperial examination system",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited"
+  },
+  {
+   "harm": "the-dead",
+   "who": "burial coins, placed in graves from the Shang onward — first cowrie shells, later replica currency, in the belief the money would serve in the afterlife",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited"
+  },
+  {
+   "harm": "war",
+   "who": "peace charms, privately cast with the wish for peace and used daily through China's turbulent history",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "coin-square",
+   "as": "the sign it is: a round disc with a square hole, the shape money had for two thousand years and the shape a charm borrowed",
+   "rel": "motif"
+  },
+  {
+   "to": "fu-talisman",
+   "as": "the writing cast into the Taoist ones — fulu open and close their inscriptions",
+   "rel": "carries"
+  },
+  {
+   "to": "chinese-fu-craft",
+   "as": "the tradition behind the Taoist and Buddhist classes of them",
+   "rel": "tradition"
+  },
+  {
+   "to": "bagua-mirror",
+   "as": "the other object that puts the eight trigrams to work, on a wall rather than in a pocket",
+   "rel": "kin"
+  },
+  {
+   "to": "challenge-coin",
+   "as": "the modern descendant of a coin that is not money: carried, shown, and valued for who issued it",
+   "rel": "parallel"
+  },
+  {
+   "to": "grave-deposit",
+   "as": "the practice behind the burial classes, and the reason the \"Laid to Rest\" charms are documented at all",
+   "rel": "practice"
+  },
+  {
+   "to": "ping-an-fu",
+   "as": "the paper peace charm that carries the same two characters, ping'an, at a fraction of the weight",
+   "rel": "kin"
+  },
+  {
+   "to": "jade",
+   "as": "one of the costlier materials the same charms were cut from",
+   "rel": "material"
+  },
+  {
+   "to": "dating-a-charm",
+   "as": "the long read this class is the best evidence for: reign titles, inscriptions and 5,000 catalogued types make these the datable end of the whole atlas",
+   "rel": "story"
+  },
+  {
+   "to": "cowrie-strand",
+   "as": "what the burial money started as, before replica coins replaced shells to deter grave robbers",
+   "rel": "origin"
+  }
+ ],
+ "links": [
+  {
+   "label": "Chinese numismatic charm — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chinese_numismatic_charm"
+  }
+ ],
+ "sources": [
+  "s:wp-chinese-numismatic-charm",
+  "s:wp-numismatic-charm",
+  "s:wp-fulu",
+  "s:wp-bagua",
+  "s:wp-cowrie"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-chinese-numismatic-charm"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "inference",
+    "note": "the present-day feng shui trade is reasoned, not surveyed; the source's own last dated point is the Republic era revival"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Chinese numismatic charm.jpg",
+  "File:Yansheng coin.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A cast bronze disc with a hole through it, shaped like a Chinese cash coin and never spendable as one.",
+ "region_terms": [
+  {
+   "key": "china",
+   "name": "China",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "korea",
+   "name": "Korea",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "japan",
+   "name": "Japan",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "mainland-sea",
+   "name": "Mainland Southeast Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "coin-square",
+   "type": "motif",
+   "name": "The square hole",
+   "as": "the sign it is: a round disc with a square hole, the shape money had for two thousand years and the shape a charm borrowed",
+   "rel": "motif"
+  },
+  {
+   "to": "fu-talisman",
+   "type": "amulet",
+   "name": "Fu talisman",
+   "as": "the writing cast into the Taoist ones — fulu open and close their inscriptions",
+   "rel": "carries"
+  },
+  {
+   "to": "chinese-fu-craft",
+   "type": "tradition",
+   "name": "Fulu — Taoist talismanic craft",
+   "as": "the tradition behind the Taoist and Buddhist classes of them",
+   "rel": "tradition"
+  },
+  {
+   "to": "bagua-mirror",
+   "type": "amulet",
+   "name": "Bagua mirror",
+   "as": "the other object that puts the eight trigrams to work, on a wall rather than in a pocket",
+   "rel": "kin"
+  },
+  {
+   "to": "challenge-coin",
+   "type": "amulet",
+   "name": "Challenge coin",
+   "as": "the modern descendant of a coin that is not money: carried, shown, and valued for who issued it",
+   "rel": "parallel"
+  },
+  {
+   "to": "grave-deposit",
+   "type": "practice",
+   "name": "Grave deposit",
+   "as": "the practice behind the burial classes, and the reason the \"Laid to Rest\" charms are documented at all",
+   "rel": "practice"
+  },
+  {
+   "to": "ping-an-fu",
+   "type": "amulet",
+   "name": "Ping'an fu",
+   "as": "the paper peace charm that carries the same two characters, ping'an, at a fraction of the weight",
+   "rel": "kin"
+  },
+  {
+   "to": "jade",
+   "type": "material",
+   "name": "Jade",
+   "as": "one of the costlier materials the same charms were cut from",
+   "rel": "material"
+  },
+  {
+   "to": "dating-a-charm",
+   "type": "story",
+   "name": "Dating a charm",
+   "as": "the long read this class is the best evidence for: reign titles, inscriptions and 5,000 catalogued types make these the datable end of the whole atlas",
+   "rel": "story"
+  },
+  {
+   "to": "cowrie-strand",
+   "type": "amulet",
+   "name": "Cowrie strand",
+   "as": "what the burial money started as, before replica coins replaced shells to deter grave robbers",
+   "rel": "origin"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-chinese-numismatic-charm",
+   "kind": "encyclopedia",
+   "title": "Chinese numismatic charm",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chinese_numismatic_charm",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-numismatic-charm",
+   "kind": "encyclopedia",
+   "title": "Numismatic charm",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Numismatic_charm",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fulu",
+   "kind": "encyclopedia",
+   "title": "Fulu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fulu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-bagua",
+   "kind": "encyclopedia",
+   "title": "Bagua",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bagua",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cowrie",
+   "kind": "encyclopedia",
+   "title": "Cowrie",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cowrie",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-chinese-numismatic-charm"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-chinese-numismatic-charm"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-chinese-numismatic-charm"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "the present-day feng shui trade is reasoned, not surveyed; the source's own last dated point is the Republic era revival"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-chinese-numismatic-charm"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-chinese-numismatic-charm"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-chinese-numismatic-charm"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "the good luck charms class, which the source says was traditionally used to scare away evil and protect families",
+   "quote": "",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "travel",
+   "label": "Danger on a journey",
+   "who": "the safe journey charms class",
+   "quote": "",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "animal-attack",
+   "label": "Dangerous animals",
+   "who": "the five poisons charms, worn on the fifth day of the fifth month against snakes, scorpions, centipedes, toads and spiders",
+   "quote": "",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited",
+   "note": "the reasoning given is that poison can only be thwarted with poison"
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "Taoist charms, the Lei Ting curse charms, which ask Leigong to kill evil spirits and bogies",
+   "quote": "",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "exams",
+   "label": "Failing an exam",
+   "gloss": "a whole modern genre, Japan and Korea especially",
+   "who": "good luck charms wishing the carrier good results in the imperial examination system",
+   "quote": "",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "the-dead",
+   "label": "Danger to the dead",
+   "gloss": "charms put in a grave for the person in it",
+   "who": "burial coins, placed in graves from the Shang onward — first cowrie shells, later replica currency, in the belief the money would serve in the afterlife",
+   "quote": "",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "war",
+   "label": "War",
+   "who": "peace charms, privately cast with the wish for peace and used daily through China's turbulent history",
+   "quote": "",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "brass",
+   "label": "Brass",
+   "kind": "metal"
+  },
+  {
+   "key": "copper",
+   "label": "Copper and bronze",
+   "kind": "metal"
+  },
+  {
+   "key": "iron",
+   "label": "Iron",
+   "kind": "metal",
+   "note": "iron itself is the charm in a great many places"
+  },
+  {
+   "key": "lead",
+   "label": "Lead",
+   "kind": "metal"
+  },
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  },
+  {
+   "key": "gold",
+   "label": "Gold",
+   "kind": "metal"
+  },
+  {
+   "key": "jade",
+   "label": "Jade",
+   "kind": "stone",
+   "note": "nephrite and jadeite; China, Mesoamerica, Aotearoa"
+  },
+  {
+   "key": "paper",
+   "label": "Paper",
+   "kind": "written"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  },
+  {
+   "key": "waist",
+   "label": "At the waist",
+   "group": "body"
+  },
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "grave",
+   "label": "In the grave",
+   "group": "placed",
+   "note": "most surviving ancient amulets are here because somebody was buried in them"
+  }
+ ],
+ "form_fact": {
+  "key": "coin",
+  "label": "Coin"
+ },
+ "holding_facts": [],
+ "span": "206 BCE to now",
+ "country_names": [
+  {
+   "iso": "CN",
+   "name": "China"
+  },
+  {
+   "iso": "TW",
+   "name": "Taiwan"
+  },
+  {
+   "iso": "VN",
+   "name": "Vietnam"
+  },
+  {
+   "iso": "KR",
+   "name": "South Korea"
+  },
+  {
+   "iso": "JP",
+   "name": "Japan"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "bagua-mirror",
+   "type": "amulet",
+   "name": "Bagua mirror",
+   "as": "the pocket-sized carrier of the same eight trigrams, cast in bronze",
+   "rel": "kin"
+  },
+  {
+   "from": "challenge-coin",
+   "type": "amulet",
+   "name": "Challenge coin",
+   "as": "the Chinese coin-shaped charm that was never currency either, and the other object in this atlas that borrows a coin's authority without being one",
+   "rel": "parallel"
+  },
+  {
+   "from": "cowrie-strand",
+   "type": "amulet",
+   "name": "Cowrie strand",
+   "as": "the other object here that is money and charm at once, cast in bronze rather than grown in the sea",
+   "rel": "parallel"
+  },
+  {
+   "from": "evil-eye-bracelet",
+   "type": "amulet",
+   "name": "Evil eye bracelet",
+   "as": "another mass-produced charm this atlas describes in the same terms as a hand-cut one",
+   "rel": "parallel"
+  },
+  {
+   "from": "fu-talisman",
+   "type": "amulet",
+   "name": "Fu talisman",
+   "as": "where the script goes when it is cast in bronze: fulu open and close the inscription of a Taoist coin charm",
+   "rel": "carried-by"
+  },
+  {
+   "from": "jimat",
+   "type": "amulet",
+   "name": "Jimat",
+   "as": "the Chinese coin-shaped charm the gobog is modelled on — same square hole, different pantheon on the face",
+   "rel": "origin"
+  },
+  {
+   "from": "maneki-neko",
+   "type": "amulet",
+   "name": "Maneki-neko",
+   "as": "the coin in its paw: a koban, which makes this a coin charm with a cat wrapped round it",
+   "rel": "motif"
+  },
+  {
+   "from": "chinese-fu-craft",
+   "type": "tradition",
+   "name": "Fulu — Taoist talismanic craft",
+   "as": "the same script cast in metal — fulu opening and closing an inscription that in many cases nobody has yet read",
+   "rel": "carries"
+  },
+  {
+   "from": "coin-square",
+   "type": "motif",
+   "name": "The square hole",
+   "as": "the object this sign is the shape of — the charm in the tray",
+   "rel": "carried-by"
+  },
+  {
+   "from": "fish",
+   "type": "motif",
+   "name": "The fish",
+   "as": "the Chinese fish-shaped charm, worn mainly by infants and young children",
+   "rel": "carried-by"
+  },
+  {
+   "from": "swastika-sign",
+   "type": "motif",
+   "name": "The swastika",
+   "as": "Chinese charms that carry the wan character, multiplying the wish by ten thousand",
+   "rel": "carried-by"
+  },
+  {
+   "from": "copper",
+   "type": "material",
+   "name": "Copper and bronze",
+   "as": "the object this metal made possible in bulk: a cast coin that was never legal tender and circulated anyway",
+   "rel": "carried-by"
+  }
+ ]
+}

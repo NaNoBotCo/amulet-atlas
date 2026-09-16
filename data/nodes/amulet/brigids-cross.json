@@ -1,0 +1,81 @@
+{
+ "schema": 1,
+ "id": "brigids-cross",
+ "type": "amulet",
+ "names": {
+  "name": "Brigid's cross",
+  "native": "Cros Bhríde",
+  "script": "Latin",
+  "lang": "ga",
+  "said": "kross VREE-djeh",
+  "aliases": ["St Brigid's cross", "Crosóg Bhríde", "Bogha Bhríde", "St Brigid's Bow", "wheel cross"]
+ },
+ "etymology": {
+  "root": "Irish Cros Bhríde, 'Brigid's cross', for Brigid of Kildare; the variants Crosóg Bhríde, 'Brigid's little cross', and Bogha Bhríde, 'Brigid's bow'.",
+  "tier": "cited",
+  "source": "s:wp-brigid-s-cross"
+ },
+ "region": ["britain-ireland", "diaspora"],
+ "countries": ["IE", "GB"],
+ "facets": {"era": "early-modern", "status": "living", "portable": "placed", "restricted": "open", "hemisphere": ["N", "W"]},
+ "text": {
+  "what": "A small cross woven from straw or rushes, defined by its material rather than its shape. The National Museum of Ireland sorts them into seven classes: diamond, single or multiple; the swastika type, with four arms or three; the wheel type; the interlaced type; plain Latin crosses made of straw or rush; bare wooden crosses in the Latin or Greek style bound with straw; and a miscellaneous class. The commonest is the diamond or lozenge: two sticks crossed to make a frame, with straw woven into a diamond at the centre, and sometimes further diamonds on each of the four arms.",
+  "story": "The cross is woven on 1 February, the feast day of Brigid of Kildare and the date of Imbolc in pre-Christian Ireland, and hung from the rafters to bring the saint's blessing and protection for the rest of the year. The practice of making them is first attested in the seventeenth century.\n\nBrigid herself left no historical record; she was born around 450 in Leinster, and almost everything about her comes from a hagiography written by the monk Cogitosus some two hundred years later. The story attached to the cross is a deathbed conversion: telling a pagan chieftain — in some versions her father — about the Crucifixion, Brigid gathered rushes from the floor and wove them into a cross, and the chieftain asked to be baptised. In another story she was handed a poisoned drink by a woman who meant her harm, and wove the cross to neutralise it.\n\nThe household version has a timetable. Families gathered rushes on 31 January. After the evening meal the head of the household supervised the rest of the family weaving, the finished crosses were left out overnight to receive Brigid's blessing, and on 1 February they went up in the main dwelling, the outhouses and the stables. Some households took the old ones down and replaced them each year; others let them accumulate between feasts. Discarded crosses were burned or buried, burial preferred, because of Brigid's associations with agriculture. The weaving was not confined to the feast: friends gave each other crosses to strengthen a bond, and newly married couples were given womb crosses to hang over the door, Brigid being a patron of fertility too. Outside Ireland, the crosses are hung in Glastonbury, on a local legend that Brigid visited the town in 488, and Irish families send them to relatives abroad or carry one when they leave.\n\nThe shape carries arguments. Some historians compare the central lozenge to the Mexican god's eye and to the Eurasian magic square. The swastika type, with its arms set at right angles off a central diamond, reads as a wheel in motion and may have originally stood for the sun; in parts of Ulster the same motion is made with three arms, which has been compared to the triskelion.\n\nIts second life is national. After the Irish Free State gained independence in 1922 the cross became one of the motifs artists used to build a cultural identity separate from Britain's, alongside the shamrock and the harp. It went into the logo of the Irish Department of Health in the 1950s and, as of 2024, was still part of the logo of the Nursing and Midwifery Board of Ireland. It was chosen as the first station identification marker for Raidió Teilifís Éireann in 1962 — Alice Curtayne wrote that it was picked to evoke \"the image of quiet, serene places in the springtime of our history, of rush-bordered rivers in a serene arcadian landscape\" — survived nine redesigns, and was dropped in 1995 in favour of what the broadcaster called \"a clean striking piece of modern design\". Carol Coulter wrote in The Irish Times that Saint Brigid's cross had lost its place as a symbol of national identity, at least as far as the national broadcaster was concerned.",
+  "how": "Gather rushes or straw on the eve of the feast, 31 January. Weave after the evening meal, the household together. Leave the crosses out overnight for the saint's blessing. Hang them on 1 February in the house, the outhouses and the stables. Take them down and replace them at the next feast, or leave them to accumulate. Retire by burning or, preferably, burying. The direction they were hung in is not recorded — but the centre is described as a lozenge rather than a square, which suggests the cross was displayed as a saltire rather than upright.",
+  "today": "Still woven. The weaving declined through the twentieth century, partly because house renovations made the crosses hard to hang in the old way, and 1 February has since been declared a national holiday in Ireland. In 1942 the Irish Folklore Commission ran a questionnaire on the Feast of Saint Brigid and collected several hundred crosses; in 2022 twenty-one of them went on display at the National Museum of Ireland – Country Life in Castlebar."
+ },
+ "dating": {
+  "period": "Early modern to the present",
+  "from_year": 1600,
+  "to_year": null,
+  "living": true,
+  "label": "17th century to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-brigid-s-cross",
+  "note": "The source dates the first attestation of the practice to the seventeenth century. Brigid of Kildare was born around 450, but nothing dates the object to her lifetime and this record does not date it there."
+ },
+ "object": {
+  "form": "door-piece",
+  "materials": ["straw", "wood", "thread"],
+  "worn": ["roof", "wall", "door", "lintel"],
+  "made_by": "the household together, supervised by its head, on the eve of the feast",
+  "inscription": "",
+  "colour": ["gold", "green"],
+  "count": 4,
+  "single_use": true,
+  "source": "s:wp-brigid-s-cross",
+  "note": "count is the arms of the commonest type; the Ulster variant has three. Rushes are used for the interlaced type and straw for most of the rest. Straw and rush are not keys in this atlas's material list and straw is entered as itself."
+ },
+ "against": [
+  {"harm": "house", "who": "Irish households, who hang the cross in the rafters and over entryways to invoke the saint's blessing and protection for the year", "source": "s:wp-brigid-s-cross", "tier": "cited"},
+  {"harm": "livestock", "who": "the same custom, which puts crosses in the outhouses and stables as well as the dwelling", "source": "s:wp-brigid-s-cross", "tier": "cited"},
+  {"harm": "infertility", "who": "the practice of giving newly married couples womb crosses to hang above their door, Brigid being a patron of fertility", "source": "s:wp-brigid-s-cross", "tier": "cited"},
+  {"harm": "illness", "who": "one of the two stories attached to the cross, in which Brigid wove it to neutralise a poisoned drink handed to her by a woman of ill intent", "source": "s:wp-brigid-s-cross", "tier": "tradition", "note": "a story about the first cross rather than a claim about the ones people hang; poisoning has no key in this atlas's harm list, so it is filed under illness"}
+ ],
+ "recognitions": [
+  {"by": "museum-exhibition", "what": "twenty-one crosses from the several hundred collected by the Irish Folklore Commission in 1942, displayed at the National Museum of Ireland – Country Life, Castlebar", "year": 2022, "source": "s:wp-brigid-s-cross"}
+ ],
+ "kin": [
+  {"to": "corn-dolly", "as": "the other straw weave of these islands: the same hands, the other end of the year, and the harvest knots of County Armagh use the same lozenge", "rel": "kin"},
+  {"to": "cross", "as": "the sign it is named for, made in the one material a cross is almost never made in", "rel": "motif"},
+  {"to": "swastika-sign", "as": "the National Museum of Ireland's own name for one of its seven classes, and a reason this object needs the long read", "rel": "motif"},
+  {"to": "knotting", "as": "the making: rushes gathered on the eve, woven by the household after the meal, left out overnight", "rel": "practice"},
+  {"to": "renewing-yearly", "as": "the rhythm — one a year on 1 February, or a rafter's worth accumulating over decades", "rel": "practice"},
+  {"to": "hanging-at-door", "as": "where it goes: the rafters, the entryway, the outhouse and the stable", "rel": "practice"},
+  {"to": "burning-retirement", "as": "one of the two disposals the custom allows; burial is the preferred one, for a saint associated with agriculture", "rel": "practice"},
+  {"to": "european-folk-apotropaic", "as": "the tradition it sits inside, and the clearest case of a Christian saint's day carrying an older calendar date", "rel": "tradition"},
+  {"to": "catholic-sacramentals", "as": "what it is not, formally: no priest blesses it, no indulgence attaches, and the blessing is asked of the saint overnight", "rel": "contrast"},
+  {"to": "rowan-cross", "as": "the other cross of two crossed things bound at the centre, made for the same rafters against a differently named harm", "rel": "parallel"},
+  {"to": "the-swastika-problem", "as": "the long read the museum's own class name requires", "rel": "story"}
+ ],
+ "links": [{"label": "Brigid's cross — Wikipedia", "url": "https://en.wikipedia.org/wiki/Brigid%27s_cross"}],
+ "sources": ["s:wp-brigid-s-cross", "s:wp-corn-dolly", "s:wp-cross", "s:wp-swastika"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-brigid-s-cross"}
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

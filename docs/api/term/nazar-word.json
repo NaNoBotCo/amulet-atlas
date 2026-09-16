@@ -1,0 +1,320 @@
+{
+ "schema": 1,
+ "id": "nazar-word",
+ "type": "term",
+ "names": {
+  "name": "nazar",
+  "native": "نَظَر",
+  "script": "Arabic",
+  "lang": "ar",
+  "said": "na-ZAR",
+  "aliases": [
+   "naẓar",
+   "nazar boncuğu",
+   "máti",
+   "cheshm nazar",
+   "nazar qurbāni"
+  ]
+ },
+ "etymology": {
+  "root": "Arabic naẓar (نَظَر) 'sight, surveillance, attention' > borrowed into Albanian, Azerbaijani, Bengali, Hebrew, Hindi-Urdu, Kurdish, Pashto, Persian, Punjabi, Sindhi and Turkish",
+  "first_attested": "",
+  "note": "The word names the look, not the object. Turkish nazar boncuğu compounds it with boncuk, Turkic for bead, so the Turkish for the object is literally 'nazar bead' — the borrowed word plus a native one. Greek does not borrow at all: the object there is máti (μάτι), 'eye'.",
+  "tier": "cited",
+  "source": "s:wp-nazar-amulet"
+ },
+ "region": [
+  "anatolia",
+  "arabia-gulf",
+  "iran-persia",
+  "south-asia",
+  "greece-aegean",
+  "balkans",
+  "caucasus"
+ ],
+ "countries": [
+  "TR",
+  "IR",
+  "AZ",
+  "AL",
+  "GR",
+  "IN",
+  "PK",
+  "BD"
+ ],
+ "facets": {
+  "language": [
+   "Arabic",
+   "Turkish",
+   "Persian",
+   "Urdu",
+   "Greek"
+  ]
+ },
+ "text": {
+  "what": "A word for a glance that has ended up as the name of a glass disc. Naẓar in Arabic is sight, surveillance, attention. Across a dozen languages it names the harmful look — in India and Pakistan nazar lag gai says somebody has been struck by it — and by extension the bead sold against it. Persian and Afghan usage says cheshm nazar or nazar qurbāni; Turkish says nazar boncuğu, the nazar bead; Greek, which did not borrow the word, says máti.",
+  "story": "The phrase that keeps it away is its own small piece of evidence. In India and Pakistan the Hindi-Urdu chashm-e-baddoor — 'may the evil eye keep away' — is said aloud, without any object involved at all. The bead is the same sentence in glass.\n\nWhat the bead is is described the same way by everyone selling it: handmade glass, concentric circles or teardrops in dark blue, white, light blue and black, sometimes edged yellow or gold. Wikipedia's article quotes the recipe as “a mixture of molten glass, iron, copper, water, and salt, ingredients that are thought to shield people from evil”, and reports the colour logic in a wearer's terms: 'According to Turkish belief, blue acts as a shield against evil and even absorbs negativity.' It also carries the argument from rarity — in the Middle East and the Mediterranean, blue eyes are uncommon, and light-eyed people were held able to curse with a look.\n\nThe bead is old and the word is not the oldest thing about it. The Turkish boncuk, the blue glass eye bead, is a design of great antiquity; written documentation and surviving beads date from as early as the sixteenth century BCE, and glass beads were made and used from Mesopotamia to Egypt, from Carthage to Greece, from Phoenicia to Persia and through the Roman imperial period.\n\nAnd it now has a code point. Unicode added U+1F9FF 🧿 NAZAR AMULET in 2018. *Inference —* that is the moment the word finished its journey: a name for a look, then a bead, then a character available on every phone on earth, sent by people who have never heard the Arabic.\n\n*Tradition holds —* wearers say a bead that breaks has taken a strong nazar and stored it, and broken in order to protect the person wearing it."
+ },
+ "kin": [
+  {
+   "to": "nazar",
+   "as": "the object the word rides on: the blue glass disc itself",
+   "rel": "term"
+  },
+  {
+   "to": "eye",
+   "as": "the sign the word is about, and the one thing every language in its range agrees on",
+   "rel": "motif"
+  },
+  {
+   "to": "evil-eye-bracelet",
+   "as": "what the word now sells by the million, in airports and online",
+   "rel": "term"
+  },
+  {
+   "to": "hamsa-word",
+   "as": "the other word for the same harm, which names a number instead of a look",
+   "rel": "contrast"
+  },
+  {
+   "to": "grand-bazaar",
+   "as": "the market where the word and the bead are both on every stall",
+   "rel": "place"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "as": "the long read this word is the modern end of",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Nazar (amulet) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nazar_(amulet)"
+  }
+ ],
+ "sources": [
+  "s:wp-nazar-amulet",
+  "s:wp-evil-eye",
+  "s:wp-nazar-battu"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-nazar-amulet"
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A word for a glance that has ended up as the name of a glass disc. Naẓar in Arabic is sight, surveillance, attention.",
+ "region_terms": [
+  {
+   "key": "anatolia",
+   "name": "Anatolia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "arabia-gulf",
+   "name": "Arabia and the Gulf",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "iran-persia",
+   "name": "Iran",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "greece-aegean",
+   "name": "Greece and the Aegean",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "balkans",
+   "name": "The Balkans",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "caucasus",
+   "name": "The Caucasus",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "nazar",
+   "type": "amulet",
+   "name": "Nazar",
+   "as": "the object the word rides on: the blue glass disc itself",
+   "rel": "term"
+  },
+  {
+   "to": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "the sign the word is about, and the one thing every language in its range agrees on",
+   "rel": "motif"
+  },
+  {
+   "to": "evil-eye-bracelet",
+   "type": "amulet",
+   "name": "Evil eye bracelet",
+   "as": "what the word now sells by the million, in airports and online",
+   "rel": "term"
+  },
+  {
+   "to": "hamsa-word",
+   "type": "term",
+   "name": "hamsa",
+   "as": "the other word for the same harm, which names a number instead of a look",
+   "rel": "contrast"
+  },
+  {
+   "to": "grand-bazaar",
+   "type": "place",
+   "name": "The Grand Bazaar",
+   "as": "the market where the word and the bead are both on every stall",
+   "rel": "place"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "type": "story",
+   "name": "The eye everywhere",
+   "as": "the long read this word is the modern end of",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-nazar-amulet",
+   "kind": "encyclopedia",
+   "title": "Nazar (amulet)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nazar_(amulet)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-evil-eye",
+   "kind": "encyclopedia",
+   "title": "Evil eye",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Evil_eye",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-nazar-battu",
+   "kind": "encyclopedia",
+   "title": "Nazar battu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nazar_battu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-nazar-amulet"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-nazar-amulet"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-nazar-amulet"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "",
+ "country_names": [
+  {
+   "iso": "TR",
+   "name": "Turkey"
+  },
+  {
+   "iso": "IR",
+   "name": "Iran"
+  },
+  {
+   "iso": "AZ",
+   "name": "Azerbaijan"
+  },
+  {
+   "iso": "AL",
+   "name": "Albania"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  },
+  {
+   "iso": "PK",
+   "name": "Pakistan"
+  },
+  {
+   "iso": "BD",
+   "name": "Bangladesh"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "nazar",
+   "type": "amulet",
+   "name": "Nazar",
+   "as": "the word — sight, the look, and the bead, all one noun",
+   "rel": "same-word"
+  },
+  {
+   "from": "hamsa-word",
+   "type": "term",
+   "name": "hamsa",
+   "as": "the other word for the same harm, naming the look where this one names the answer",
+   "rel": "contrast"
+  }
+ ]
+}

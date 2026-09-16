@@ -1,0 +1,8 @@
+# Everything here is open on purpose. Crawl it, index it, train on it, quote it.
+# The one ask is the one the records themselves make: keep the attribution, and keep the
+# provenance tier attached to the claim it belongs to. A cited fact and a hedged one are
+# not the same fact.
+User-agent: *
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Sitemap: https://nanobotco.github.io/amulet-atlas/sitemap.xml

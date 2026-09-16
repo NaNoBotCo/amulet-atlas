@@ -1,0 +1,671 @@
+{
+ "schema": 1,
+ "id": "bakongo-nkisi-craft",
+ "type": "tradition",
+ "names": {
+  "name": "Bakongo nkisi craft",
+  "native": "kinganga",
+  "script": "Latin",
+  "lang": "kg",
+  "said": "the maker is an nganga, plural banganga; the object is an nkisi, plural minkisi",
+  "aliases": [
+   "Kongo minkisi",
+   "nganga practice",
+   "nkisi nkondi making"
+  ]
+ },
+ "region": [
+  "central-africa",
+  "diaspora"
+ ],
+ "countries": [
+  "CD",
+  "CG",
+  "AO"
+ ],
+ "facets": {
+  "era": "early-modern",
+  "status": "contested",
+  "restricted": "closed",
+  "language": "Kikongo",
+  "hemisphere": [
+   "S",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "The practice, among the Bakongo of the Congo Basin and the Songye of Kasai, of assembling containers that a spirit inhabits. The maker is an nganga: a healer, diviner and mediator. The container is an nkisi: a pot, a gourd, a horn, a shell, a bundle, a carved figure — or a grave, since the dead are what the practice draws on. The substances inside are bilongo. Everything else follows from those four words.",
+  "story": "Close communication with ancestors, and confidence in what they can do, is what minkisi are for. Among the peoples of the Congo Basin, exceptional human powers are held to come from some kind of communication with the dead, and banganga are the people who do that communicating — working as healers, diviners and mediators, defending the living against harmful workings and supplying remedies against sicknesses caused either by those workings or by the demands of the bakisi, the spirits who are emissaries from the land of the dead.\n\nThe substances are chosen by metaphor, not by pharmacy. Wyatt MacGaffey's correction is the one this record follows: bilongo is usually translated 'medicine', but they are not applied to the sick or swallowed, so 'therapeutic substances' is closer. Bird claws to catch a wrongdoer. Fruit, charcoal, mushrooms. Minerals from places associated with the dead — grave earth, riverbed earth. White clay, because white carries dead skin, moral rightness and spiritual positivity against the black of negativity; red ochre where the powers of the dead are being mediated. Many minkisi contain earth or relics from the grave of a powerful person as a prime ingredient, which is why the objects have been described as portable graves.\n\nThe practice sorts itself. Minkisi and the afflictions that go with them are classed 'of the above' and 'of the below'. The above are the sky, rain and thunderstorms, counted masculine, tied to violence and violent forces, used to maintain order, serve justice and seal treaties; their motifs are birds of prey, lightning, weapons, fire, and they affect the upper body, so head, neck and chest pains are attributed to them. The below are the earth and the waters on land. Some figures are animals — most often dogs, kozo, sometimes carved with two heads, because a dog lives in two worlds at once, the village of the living and the forest of the dead. Na monanga minkisi are made carefully, with tranquil expressions, and are associated with a powerful person of great reasoning who brings happiness and fortune; npezo figures are made to look menacing and their power is held to be weakened by laughter. Personal minkisi are anonymous and kept in a private house; community ones are placed to be seen, often overlooking the village, though kept in their own enclosure by day.\n\nThe word is old in writing and older in use. Its earliest attestations are in Kikongo dialects in the early seventeenth century, transliterated into Dutch as mokissie; Dutch visitors to Loango used it in 1668 for both the object and the spirit in it; when Kongo converted in the sixteenth century, the Kikongo Catechism of 1624 used ukisi to translate 'holy'.\n\nThe practice crossed the Atlantic. Aspects of Kongo spirituality reached the Americas with the slave trade, and Hoodoo and Palo carry them; the art historian Robert Farris Thompson has been the influential identifier of Kongo elements in African-descended populations of the Americas. The Kikongo word mooyo, the cavity in an nkisi where charged items sit, is where the American word mojo comes from. Archaeologists working at the African Burial Ground in Lower Manhattan found Kongo-related material — minkisi and nkisi bundles — buried with African remains.\n\nThe objects left. Collectors wanted the nailed figures as soon as the German Loango expedition published them in the 1870s; Robert Visser, a German trader and diplomat, supplied Berlin and Stuttgart. Many were purchased, others confiscated or removed by colonial authorities, and often found their way to museums, while many also remain in private hands. Where they should be now is an argument with names attached: the 2018 Report on the Restitution of African Cultural Heritage by Felwine Sarr and Bénédicte Savoy, which moved the debate onto moral rather than only legal ground; the Royal Museum for Central Africa in Belgium, holding more than 180,000 objects mainly from the former Belgian Congo and rebuilt around decolonisation; the Pitt Rivers Museum's four tenets of provenance, transparency, repatriation and redress, and its 2020 Restitution of Knowledge project with Savoy and colleagues at Technische Universität Berlin; and the British Museum, which has consistently refused to return objects, citing the British Museum Act 1963.\n\n*Inference —* the European word for these objects came out of Portuguese traders on the West African coast in the sixteenth and seventeenth centuries and was applied to Central African things from outside. This atlas treats it as a term with a history, filed under fetish-word, and does not use it to describe what an nganga makes.",
+  "how": "The nganga gathers the bilongo and assembles them, most often into a carved figure with a cavity cut for them at the belly, the head, or in pouches at the neck, closed with a resin-fixed mirror. He then either becomes possessed by the spirit or leaves the object in a graveyard or another place spirits frequent. Nkondi are often composed at the edge of the village, on the reasoning that a village, like a body, must have its entrances guarded; the nganga works isolated in a hidden camp and comes back covered in paint and behaving strangely. Before use he recites invocations to wake the nkondi. Banganga paint themselves for performances — white circles around the eyes to see past the physical world, white stripes on participants — dress unlike anyone else, wear ornate jewellery and work knots into their clothing, knots being tied to closing up or sealing spiritual forces.",
+  "today": "Contested, and split three ways: Kongo communities, museum stores in Europe and North America, and private hands. Artists have taken the form up — Renee Stout, Tania Bruguera, Kara Walker, Dread Scott, Karen Seneferu, Wesley Clark, Stephanie Dinkins, Michael MacGarry, Andrew Lamprecht, Justin Par. The Republic of the Congo painter Trigo Piula made a New Fetish series against what he called the rebuffing of traditional objects, and described the work as \"a way of engaging with my community and a way of denouncing things that I believe are impacting us, like television for example\". As of 2026 this project has read no count of how many minkisi are held outside Central Africa, and no source dating an end to the practice inside it."
+ },
+ "restricted": {
+  "note": "This record prints no bilongo recipe and no invocation. Both belong to the nganga, and the tradition's own arrangement puts them out of sight: the nganga assembles and charges the object isolated in a hidden camp, away from the village, and learns its proper use and its songs before bringing it back. What is printed here is the class of substances, the reasoning that selects them, and what Kongo testimony says the nails and the mirrors are for.",
+  "who_says": "the practice as described in the sources, and in the Kongo testimony of the early twentieth century edited and translated by Wyatt MacGaffey",
+  "source": "s:wp-nkondi"
+ },
+ "dating": {
+  "period": "early seventeenth century to the present",
+  "from_year": 1600,
+  "to_year": null,
+  "living": true,
+  "label": "attested from the early seventeenth century; nailed figures mainly 1800s–1900s",
+  "method": "textual",
+  "circa": true,
+  "tier": "inference",
+  "source": "s:wp-nkisi",
+  "note": "from_year is the earliest dated attestation of the word in Kikongo, early seventeenth century. Minkisi nkondi have probably been made since at least the sixteenth century, the source says, and the practice is older than either. living is entered true because no source read here dates an end; that is this project's reading of silence, which is why the record is flagged for verification."
+ },
+ "object": {
+  "form": "figurine",
+  "materials": [
+   "wood",
+   "iron",
+   "earth",
+   "herb",
+   "glass",
+   "cloth",
+   "bone"
+  ],
+  "made_by": "an nganga, plural banganga — nobody else",
+  "colour": [
+   "white",
+   "red",
+   "black"
+  ],
+  "source": "s:wp-nkisi",
+  "note": "The figure is one container among many: pots, gourds, horns, shells and bundles are all minkisi, and so, the source says, can a grave be."
+ },
+ "against": [
+  {
+   "harm": "witchcraft",
+   "who": "Kongo practice, in which banganga defend the living against harmful workings and supply remedies against the sicknesses that follow",
+   "source": "s:wp-nkisi",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the same practice — many minkisi are used for healing",
+   "source": "s:wp-nkisi",
+   "tier": "cited"
+  },
+  {
+   "harm": "theft",
+   "who": "the nkondi class, whose name comes from -konda, 'to hunt', and whose commonest use the source gives as locating and punishing wrongdoers",
+   "source": "s:wp-nkondi",
+   "tier": "cited"
+  },
+  {
+   "harm": "lawsuit",
+   "who": "villages, which used publicly held nkondi to affirm oaths and seal treaties",
+   "source": "s:wp-nkondi",
+   "tier": "cited"
+  },
+  {
+   "harm": "poverty",
+   "who": "the source, which names success in hunting and in trade among the purposes minkisi serve",
+   "source": "s:wp-nkisi",
+   "tier": "cited"
+  },
+  {
+   "harm": "curse",
+   "who": "oath-takers, who declare themselves open to a nkondi's sickness should they break the oath",
+   "source": "s:wp-nkondi",
+   "tier": "cited"
+  }
+ ],
+ "holdings": [
+  {
+   "museum": "pitt-rivers",
+   "what": "a nkondi, published with text, in a museum running a repatriation and redress programme",
+   "source": "s:wp-nkondi"
+  },
+  {
+   "museum": "quai-branly",
+   "what": "Central African collections — the museum holds 70,000 of the 90,000 sub-Saharan objects in France",
+   "source": "s:wp-mus-e-du-quai-branly-jacques-chirac"
+  },
+  {
+   "museum": "met",
+   "what": "Kongo power figures in the African collections",
+   "source": "s:wp-nkondi"
+  },
+  {
+   "museum": "smithsonian",
+   "what": "the minkisi shown in Astonishment and Power, with commentary by Wyatt MacGaffey",
+   "source": "s:wp-nkisi"
+  }
+ ],
+ "kin": [
+  {
+   "to": "nkisi",
+   "as": "the object this tradition makes, and the word that names the spirit and the container at once",
+   "rel": "carries"
+  },
+  {
+   "to": "fetish-word",
+   "as": "the European label applied to these objects from outside, with its own sixteenth-century coastal history",
+   "rel": "term"
+  },
+  {
+   "to": "mojo-word",
+   "as": "the Kikongo mooyo — the cavity where the charged substances sit — carried to the American South as the name of a bag",
+   "rel": "term"
+  },
+  {
+   "to": "west-african-charm-craft",
+   "as": "the practice a thousand miles up the coast that this one is regularly merged with in English, and shouldn't be",
+   "rel": "contrast"
+  },
+  {
+   "to": "consecration",
+   "as": "the step that makes an assembled container into an nkisi, done in isolation away from the village",
+   "rel": "practice"
+  },
+  {
+   "to": "feeding-the-charm",
+   "as": "the practice of keeping a charged object working — here, waking it and sometimes enraging it for a task",
+   "rel": "practice"
+  },
+  {
+   "to": "knotting",
+   "as": "the practice worked into the nganga's own clothing, knots being tied to closing up and sealing spiritual forces",
+   "rel": "practice"
+  },
+  {
+   "to": "mirror-sign",
+   "as": "the reflective disc over the cavity and in the eyes, held to be how the nkisi sees into the spirit world",
+   "rel": "motif"
+  },
+  {
+   "to": "iron",
+   "as": "the nails, and the reason the nailed figures can be dated at all",
+   "rel": "material"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read this tradition sits at the centre of: purchased, confiscated or removed, and argued over by name since 2018",
+   "rel": "story"
+  },
+  {
+   "to": "pitt-rivers-museum",
+   "as": "a holder running a provenance, transparency, repatriation and redress programme over material like this",
+   "rel": "org"
+  },
+  {
+   "to": "quai-branly",
+   "as": "the Paris holder at the centre of the French restitution debate after the Sarr and Savoy report",
+   "rel": "org"
+  }
+ ],
+ "links": [
+  {
+   "label": "Nkisi — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nkisi"
+  },
+  {
+   "label": "Nkondi — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nkondi"
+  }
+ ],
+ "sources": [
+  "s:wp-nkisi",
+  "s:wp-nkondi",
+  "s:wp-fetishism",
+  "s:wp-mojo-bag",
+  "s:wp-repatriation-cultural-property",
+  "s:wp-mus-e-du-quai-branly-jacques-chirac",
+  "s:wp-pitt-rivers-museum",
+  "s:wp-british-museum"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-nkisi"
+  },
+  "fields": {
+   "dating": {
+    "tier": "inference",
+    "source": "s:wp-nkisi",
+    "note": "living is this project's reading of silence in the sources, not a statement anybody made"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-nkondi",
+    "note": "the artists and exhibitions are cited; the three-way split is this project's summary"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Nkisi nkondi.jpg"
+ ],
+ "confidence": "high",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "The practice, among the Bakongo of the Congo Basin and the Songye of Kasai, of assembling containers that a spirit inhabits. The maker is an nganga: a healer, diviner and mediator.",
+ "region_terms": [
+  {
+   "key": "central-africa",
+   "name": "Central Africa",
+   "hemi": [
+    "N",
+    "S",
+    "E"
+   ]
+  },
+  {
+   "key": "diaspora",
+   "name": "Diaspora",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "a practice carried out of its home region and kept"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "nkisi",
+   "type": "amulet",
+   "name": "Nkisi",
+   "as": "the object this tradition makes, and the word that names the spirit and the container at once",
+   "rel": "carries"
+  },
+  {
+   "to": "fetish-word",
+   "type": "term",
+   "name": "fetish",
+   "as": "the European label applied to these objects from outside, with its own sixteenth-century coastal history",
+   "rel": "term"
+  },
+  {
+   "to": "mojo-word",
+   "type": "term",
+   "name": "mojo",
+   "as": "the Kikongo mooyo — the cavity where the charged substances sit — carried to the American South as the name of a bag",
+   "rel": "term"
+  },
+  {
+   "to": "west-african-charm-craft",
+   "type": "tradition",
+   "name": "West African charm craft",
+   "as": "the practice a thousand miles up the coast that this one is regularly merged with in English, and shouldn't be",
+   "rel": "contrast"
+  },
+  {
+   "to": "consecration",
+   "type": "practice",
+   "name": "Consecration",
+   "as": "the step that makes an assembled container into an nkisi, done in isolation away from the village",
+   "rel": "practice"
+  },
+  {
+   "to": "feeding-the-charm",
+   "type": "practice",
+   "name": "Feeding the charm",
+   "as": "the practice of keeping a charged object working — here, waking it and sometimes enraging it for a task",
+   "rel": "practice"
+  },
+  {
+   "to": "knotting",
+   "type": "practice",
+   "name": "Knotting",
+   "as": "the practice worked into the nganga's own clothing, knots being tied to closing up and sealing spiritual forces",
+   "rel": "practice"
+  },
+  {
+   "to": "mirror-sign",
+   "type": "motif",
+   "name": "The mirror",
+   "as": "the reflective disc over the cavity and in the eyes, held to be how the nkisi sees into the spirit world",
+   "rel": "motif"
+  },
+  {
+   "to": "iron",
+   "type": "material",
+   "name": "Iron",
+   "as": "the nails, and the reason the nailed figures can be dated at all",
+   "rel": "material"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read this tradition sits at the centre of: purchased, confiscated or removed, and argued over by name since 2018",
+   "rel": "story"
+  },
+  {
+   "to": "pitt-rivers-museum",
+   "type": "org",
+   "name": "The Pitt Rivers Museum",
+   "as": "a holder running a provenance, transparency, repatriation and redress programme over material like this",
+   "rel": "org"
+  },
+  {
+   "to": "quai-branly",
+   "type": "org",
+   "name": "Musée du quai Branly — Jacques Chirac",
+   "as": "the Paris holder at the centre of the French restitution debate after the Sarr and Savoy report",
+   "rel": "org"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-nkisi",
+   "kind": "encyclopedia",
+   "title": "Nkisi",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nkisi",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-nkondi",
+   "kind": "encyclopedia",
+   "title": "Nkondi",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nkondi",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fetishism",
+   "kind": "encyclopedia",
+   "title": "Fetishism",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fetishism",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mojo-bag",
+   "kind": "encyclopedia",
+   "title": "Mojo bag",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mojo_bag",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-repatriation-cultural-property",
+   "kind": "encyclopedia",
+   "title": "Repatriation (cultural property)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Repatriation_(cultural_property)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mus-e-du-quai-branly-jacques-chirac",
+   "kind": "encyclopedia",
+   "title": "Musée du Quai Branly – Jacques Chirac",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mus%C3%A9e_du_Quai_Branly_%E2%80%93_Jacques_Chirac",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pitt-rivers-museum",
+   "kind": "encyclopedia",
+   "title": "Pitt Rivers Museum",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pitt_Rivers_Museum",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-british-museum",
+   "kind": "encyclopedia",
+   "title": "British Museum",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/British_Museum",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-nkisi"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-nkisi"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-nkisi"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-nkondi",
+   "note": "the artists and exhibitions are cited; the three-way split is this project's summary"
+  },
+  "dating": {
+   "tier": "inference",
+   "source": "s:wp-nkisi",
+   "note": "living is this project's reading of silence in the sources, not a statement anybody made"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-nkisi"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "witchcraft",
+   "label": "Another person's sorcery",
+   "who": "Kongo practice, in which banganga defend the living against harmful workings and supply remedies against the sicknesses that follow",
+   "quote": "",
+   "source": "s:wp-nkisi",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "the same practice — many minkisi are used for healing",
+   "quote": "",
+   "source": "s:wp-nkisi",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "theft",
+   "label": "Theft",
+   "who": "the nkondi class, whose name comes from -konda, 'to hunt', and whose commonest use the source gives as locating and punishing wrongdoers",
+   "quote": "",
+   "source": "s:wp-nkondi",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "lawsuit",
+   "label": "A court case or an official",
+   "who": "villages, which used publicly held nkondi to affirm oaths and seal treaties",
+   "quote": "",
+   "source": "s:wp-nkondi",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "poverty",
+   "label": "Poverty",
+   "who": "the source, which names success in hunting and in trade among the purposes minkisi serve",
+   "quote": "",
+   "source": "s:wp-nkisi",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "curse",
+   "label": "A curse already laid",
+   "who": "oath-takers, who declare themselves open to a nkondi's sickness should they break the oath",
+   "quote": "",
+   "source": "s:wp-nkondi",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "wood",
+   "label": "Wood",
+   "kind": "plant"
+  },
+  {
+   "key": "iron",
+   "label": "Iron",
+   "kind": "metal",
+   "note": "iron itself is the charm in a great many places"
+  },
+  {
+   "key": "earth",
+   "label": "Earth and ash",
+   "kind": "mineral",
+   "note": "grave earth, temple ash, volcanic sand"
+  },
+  {
+   "key": "herb",
+   "label": "Herb and root",
+   "kind": "plant"
+  },
+  {
+   "key": "glass",
+   "label": "Glass",
+   "kind": "fired"
+  },
+  {
+   "key": "cloth",
+   "label": "Cloth",
+   "kind": "textile"
+  },
+  {
+   "key": "bone",
+   "label": "Bone and ivory",
+   "kind": "organic"
+  }
+ ],
+ "worn_facts": [],
+ "form_fact": {
+  "key": "figurine",
+  "label": "Figurine"
+ },
+ "holding_facts": [
+  {
+   "key": "pitt-rivers",
+   "label": "The Pitt Rivers Museum",
+   "city": "Oxford",
+   "country": "GB",
+   "url": "",
+   "what": "a nkondi, published with text, in a museum running a repatriation and redress programme",
+   "accession": "",
+   "source": "s:wp-nkondi"
+  },
+  {
+   "key": "quai-branly",
+   "label": "Musée du quai Branly — Jacques Chirac",
+   "city": "Paris",
+   "country": "FR",
+   "url": "",
+   "what": "Central African collections — the museum holds 70,000 of the 90,000 sub-Saharan objects in France",
+   "accession": "",
+   "source": "s:wp-mus-e-du-quai-branly-jacques-chirac"
+  },
+  {
+   "key": "met",
+   "label": "The Metropolitan Museum of Art",
+   "city": "New York",
+   "country": "US",
+   "url": "",
+   "open": true,
+   "what": "Kongo power figures in the African collections",
+   "accession": "",
+   "source": "s:wp-nkondi"
+  },
+  {
+   "key": "smithsonian",
+   "label": "Smithsonian Institution",
+   "city": "Washington",
+   "country": "US",
+   "url": "",
+   "open": true,
+   "what": "the minkisi shown in Astonishment and Power, with commentary by Wyatt MacGaffey",
+   "accession": "",
+   "source": "s:wp-nkisi"
+  }
+ ],
+ "span": "1600 CE to now",
+ "country_names": [
+  {
+   "iso": "CD",
+   "name": "Dem. Rep. Congo"
+  },
+  {
+   "iso": "CG",
+   "name": "Congo"
+  },
+  {
+   "iso": "AO",
+   "name": "Angola"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "nkisi",
+   "type": "amulet",
+   "name": "Nkisi",
+   "as": "the tradition that makes it, and the banganga without whom there is no nkisi at all",
+   "rel": "tradition"
+  },
+  {
+   "from": "west-african-charm-craft",
+   "type": "tradition",
+   "name": "West African charm craft",
+   "as": "the Central African practice it is regularly confused with, and shouldn't be: different peoples, different specialists, different objects",
+   "rel": "contrast"
+  },
+  {
+   "from": "feeding-the-charm",
+   "type": "practice",
+   "name": "Feeding the charm",
+   "as": "the tradition that keeps the ledger of vows in nails",
+   "rel": "tradition"
+  },
+  {
+   "from": "quai-branly",
+   "type": "org",
+   "name": "Musée du quai Branly — Jacques Chirac",
+   "as": "the tradition much of its Central African holding comes from",
+   "rel": "tradition"
+  },
+  {
+   "from": "fetish-word",
+   "type": "term",
+   "name": "fetish",
+   "as": "the tradition most damaged by the labelling, and the one whose vocabulary replaces it here",
+   "rel": "tradition"
+  },
+  {
+   "from": "mojo-word",
+   "type": "term",
+   "name": "mojo",
+   "as": "the tradition the bag and the word both come out of",
+   "rel": "tradition"
+  }
+ ]
+}

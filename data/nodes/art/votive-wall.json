@@ -1,0 +1,40 @@
+{
+ "schema": 1,
+ "id": "votive-wall",
+ "type": "art",
+ "names": {
+  "name": "The votive wall",
+  "aliases": ["wall of tamata", "ema rack", "wall of offerings"]
+ },
+ "region": ["greece-aegean", "rome-italy", "japan", "western-europe", "north-america"],
+ "countries": ["GR", "IT", "JP", "FR", "CA"],
+ "facets": {"kind": "votive", "era": "living"},
+ "text": {
+  "what": "A surface at a shrine covered edge to edge in small identical-format objects left by strangers: hammered metal plaques the size of a playing card, wooden tablets on hooks, crutches wired to a grille. Each one is a single person's business with a saint or a kami. Together they read as one picture, and the picture is a count.",
+  "story": "The format is what makes the wall work. Japanese ema are wooden plaques typically 15 cm wide and 9 cm tall, hung at the shrine where the kami are held to receive them, and burnt at intervals — the burning is described as liberating the wish. Because every plaque is the same size and shape, a hundred of them hung together look like a ledger. *Tradition holds —* in older Shinto practice a living horse (shinme) was offered, and the plaque is the substitute for the horse; the earliest text record of a substitution names three paper horses offered at the Kitano Tenjin shrine in 1013.\n\nEastern Orthodox tamata do the same work in metal and correspond almost exactly to the milagros of Mexico, Spain and the southern United States. In the long Votive Chapel of Saint Joseph's Oratory in Montreal, hundreds of crutches, canes and braces are fixed to iron grilles by pilgrims who said they were healed while meeting Brother André; Pope Benedict XVI canonised him as Saint André Bessette in 2011. At Notre-Dame de la Garde in Marseille the wall takes paintings, plaques, model ships, war medals and football shirts given by players and supporters of Olympique de Marseille.\n\n*Inference —* the wall is the only amulet picture in this atlas that is made by a crowd and not by a maker. Nobody designs it. It accumulates, and it can be read for what a place is asked for — legs at one shrine, eyes at another, exam passes at a third — in a way a single object never can.",
+  "today": "Still filling, and now with new subjects. Since the rise of pop-culture pilgrimage in Japan, plaques painted with manga and game characters — ita-ema — hang on the same racks, thickest at Kanda Shrine near Akihabara. Some shrines have been criticised for profiting from plaque sales: in 1979 two shrines dedicated to education sold plaques for examination success, and after public complaint turned the money into a scholarship in 1980."
+ },
+ "kin": [
+  {"to": "tama-votive", "as": "the metal plaque this wall is mostly made of in Greece and the Orthodox world", "rel": "carries"},
+  {"to": "milagro", "as": "its Latin American twin — the same body parts, hammered in tin instead of silver", "rel": "carries"},
+  {"to": "ex-voto-wall", "as": "the painted version of the same surface: a panel that tells the story instead of naming the part", "rel": "kin"},
+  {"to": "blessing-at-a-shrine", "as": "the practice that fills it — you leave the plaque where the power is, not where you live", "rel": "practice"},
+  {"to": "exam-charm", "as": "the wish that dominates certain Japanese racks every winter, and once caused a scandal about who keeps the money", "rel": "parallel"},
+  {"to": "quiapo-church", "as": "a shrine where the same accumulation happens around the doors rather than on a rack", "rel": "place"}
+ ],
+ "links": [
+  {"label": "Ema (Shinto) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Ema_(Shinto)"},
+  {"label": "Ex-voto — Wikipedia", "url": "https://en.wikipedia.org/wiki/Ex-voto"}
+ ],
+ "sources": ["s:wp-ema-shinto", "s:wp-ex-voto", "s:wp-milagro-votive", "s:wp-votive-offering"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-ema-shinto"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:wp-ex-voto", "note": "the horse-substitution stretch is hedged and the closing paragraph is marked as this project's inference, both inline"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Ema at Fushimi Inari-taisha.jpg", "File:Tamata votive offerings.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

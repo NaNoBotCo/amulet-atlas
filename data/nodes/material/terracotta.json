@@ -1,0 +1,183 @@
+{
+ "schema": 1,
+ "id": "terracotta",
+ "type": "material",
+ "names": {
+  "name": "Fired clay",
+  "aliases": [
+   "terracotta",
+   "earthenware",
+   "stoneware",
+   "glazed composition",
+   "baked clay"
+  ]
+ },
+ "region": [
+  "mesopotamia",
+  "ancient-egypt",
+  "greece-aegean",
+  "rome-italy",
+  "levant",
+  "mainland-sea",
+  "britain-ireland",
+  "japan"
+ ],
+ "countries": [
+  "IQ",
+  "IR",
+  "SY",
+  "EG",
+  "GR",
+  "IT",
+  "TH",
+  "GB",
+  "JP"
+ ],
+ "facets": {
+  "kind": "fired"
+ },
+ "text": {
+  "what": "Clay pressed into a mould or worked by hand, then fired until it stops being clay. Fired clay is the cheapest way to make the same charm a thousand times, and the one that survives burial best: it does not rot, rust, corrode or dissolve. A great deal of what this atlas can date at all, it can date because somebody fired it.",
+  "story": "Start with the bowls, because they are the clearest case of the material doing the work. Incantation bowls are clay bowls inscribed in a spiral from the rim inward, made in Upper Mesopotamia and Syria from the sixth to the eighth centuries, most of them in Jewish Babylonian Aramaic. The scholar John Charles Arnold sets out how they were used: \"When placed upside down under each corner of a house, demons would follow the inscribed charms that spiraled from the outer rim inward, only to be caught in the center.\" Almost every house excavated in the Jewish settlement at Nippur had them buried in it.\n\nMesopotamia also gives the mass-produced amulet. Large numbers of Pazuzu heads have been found, chiefly of terracotta though also of bronze, iron, gold, glass and bone, with holes or loops at the top so they could hang at a neck; ritual texts from Uruk record a woman being given a Pazuzu amulet to protect her from miscarrying through the interference of Lamashtu. One larger stone example, from a house in the Neo-Assyrian town of Dur-Katlimmu, was found on the floor of the main reception room and is thought to have hung on the wall facing the entryway.\n\nGreece fired the face. Two groups of seventh-century BCE terracotta gorgoneion masks survive: wearable helmet masks from Tiryns, and non-wearable votive masks from the Sanctuary of Orthia at Sparta, the Spartan ones with deep S-shaped furrows either side of a wide-mouthed grimace — features that resemble much earlier terracotta plaques of Humbaba. Rome fired the joke: a first-century BCE terracotta figurine shows \"two little phallus-men sawing an eyeball in half\".\n\nClay also gets fired in order to be destroyed. Egyptian execration texts, appearing around the Twelfth Dynasty, listed enemies' names on clay figurines or pottery, which were then smashed and buried beneath a building under construction or in a cemetery.\n\nThe trade is old and still running on one street. In classical times a temple to Ceres stood on what is now Via San Gregorio Armeno in Naples, and citizens offered small terracotta figurines made in the workshops nearby; the Neapolitan nativity trade dates from the end of the eighteenth century, and the same street's workshops now turn out figurines all year round. Elsewhere the fired tablet is a temple's income: Buddhist votive tablets are small clay or terracotta plaques bearing images and text, left at sacred sites by pilgrims, with rarer and more expensive ones made of metal — in Thailand they are the Thai Buddha amulets, produced to raise temple funds.\n\n*Inference —* the survival argument runs both ways. Fired clay is over-represented in every museum tray in this atlas, and hair, herb, cloth and wood are under-represented, and neither fact says anything about what people actually carried.",
+  "how": "Moulded or thrown, dried, fired. A mould is the point: Pazuzu heads, votive tablets and nativity figures are all made the same way, which is why they exist in numbers and why two examples can be compared.",
+  "today": "Fired clay is also the atlas's clearest live ethical problem, and the bowls are where it sits. Only around 2,000 incantation bowls have been registered as archaeological finds, but they are widely dug up in the Middle East, and the cited account estimates there may be tens of thousands in the hands of private collectors and traders. A bowl without a findspot cannot be dated by its context, cannot be tied to the house it protected, and cannot be returned. Naples fires figures for a living and Nippur is dug for one, and only one of those trades keeps a record."
+ },
+ "dating": {
+  "period": "Middle Kingdom Egypt to the present",
+  "from_year": -1999,
+  "to_year": null,
+  "living": true,
+  "label": "c. 2000 BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-curse-tablet",
+  "note": "The earliest dated use cited here is the Egyptian execration texts, which appear around the time of the Twelfth Dynasty, conventionally beginning about 2000 BCE; the terracotta gorgoneion masks are seventh century BCE and the incantation bowls sixth to eighth centuries CE. Fired clay is older than all three and this record does not claim a floor for the material itself."
+ },
+ "object": {
+  "form": "plaque",
+  "materials": [
+   "terracotta"
+  ],
+  "worn": [
+   "neck",
+   "wall",
+   "foundation",
+   "grave",
+   "door"
+  ],
+  "source": "s:wp-pazuzu"
+ },
+ "against": [
+  {
+   "harm": "demons",
+   "who": "the householders of Nippur, in the reading of the bowls given by John Charles Arnold",
+   "quote": "When placed upside down under each corner of a house, demons would follow the inscribed charms that spiraled from the outer rim inward, only to be caught in the center.",
+   "source": "s:wp-incantation-bowl",
+   "tier": "cited"
+  },
+  {
+   "harm": "childbirth",
+   "who": "ritual texts from Uruk, which prescribe a Pazuzu amulet against miscarriage caused by Lamashtu",
+   "source": "s:wp-pazuzu",
+   "tier": "cited"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "the bowls' own inscriptions, which name the evil eye, Lilith and Bagdana among the influences they act against",
+   "source": "s:wp-incantation-bowl",
+   "tier": "cited"
+  },
+  {
+   "harm": "curse",
+   "who": "Egyptian officials, who wrote enemies' names on clay and smashed it under a foundation",
+   "source": "s:wp-curse-tablet",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "incantation-bowl",
+   "as": "the charm that is a clay bowl and nothing else — the material and the object are the same thing here",
+   "rel": "carried-by"
+  },
+  {
+   "to": "pazuzu-head",
+   "as": "chiefly terracotta, drilled to hang, and found in numbers because a mould made it cheap",
+   "rel": "carried-by"
+  },
+  {
+   "to": "gorgoneion",
+   "as": "fired as masks at Tiryns and Sparta in the seventh century BCE, which is the earliest physical form of that face",
+   "rel": "carried-by"
+  },
+  {
+   "to": "phra-khrueang",
+   "as": "the Thai clay votive tablet, pressed in its thousands and sold to fund the temple that pressed it",
+   "rel": "carried-by"
+  },
+  {
+   "to": "glass",
+   "as": "the other fired material, and the other reason half this atlas has dates",
+   "rel": "parallel"
+  },
+  {
+   "to": "san-gregorio-armeno",
+   "as": "the Naples street that has been firing small figures since there was a temple to Ceres on it",
+   "rel": "place"
+  },
+  {
+   "to": "witch-bottle",
+   "as": "begins as a salt-glazed stoneware Bartmann jug with a bearded face on it, before glass takes over",
+   "rel": "carried-by"
+  },
+  {
+   "to": "foundation-deposit",
+   "as": "the practice that puts fired clay under a building, whether to protect it or to curse somebody beneath it",
+   "rel": "practice"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read this record's last paragraph belongs to: bowls dug without a findspot, and who ends up holding them",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Incantation bowl — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Incantation_bowl"
+  }
+ ],
+ "sources": [
+  "s:wp-incantation-bowl",
+  "s:wp-pazuzu",
+  "s:wp-gorgons",
+  "s:wp-fascinus",
+  "s:wp-curse-tablet",
+  "s:wp-via-san-gregorio-armeno",
+  "s:wp-votive-offering",
+  "s:wp-witch-bottle",
+  "s:wp-cornicello",
+  "s:wp-maneki-neko"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-incantation-bowl"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-pazuzu",
+    "note": "the closing paragraph on over- and under-representation is this project's inference and is marked in the text"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Incantation bowl.jpg",
+  "File:Pazuzu head Louvre.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-17"
+}

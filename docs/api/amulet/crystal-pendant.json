@@ -1,0 +1,471 @@
+{
+ "schema": 1,
+ "id": "crystal-pendant",
+ "type": "amulet",
+ "names": {
+  "name": "Crystal pendant",
+  "said": "KRIS-tl PEN-dnt",
+  "aliases": [
+   "healing crystal",
+   "crystal point pendant",
+   "rose quartz pendant",
+   "amethyst pendant",
+   "tumbled stone pendant"
+  ]
+ },
+ "etymology": {
+  "root": "Greek κρύσταλλος krýstallos, 'ice' — the ancient Greek reading of clear quartz was water frozen so hard it stayed solid",
+  "tier": "cited",
+  "source": "s:wp-crystal-healing"
+ },
+ "region": [
+  "north-america",
+  "britain-ireland",
+  "world"
+ ],
+ "countries": [
+  "US",
+  "GB",
+  "MG"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "S",
+   "E",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A cut or tumbled stone hung at the neck, usually in a wire cage or a silver bezel: a six-sided quartz point, a rose quartz lozenge, a lump of amethyst, a polished bead of agate or turquoise. It is worn, held, placed on the body, or meditated with. The same stones are sold loose by the kilo, and the pendant is the wearable end of a trade that also fills bowls in shop windows.",
+  "story": "Two arguments run through this object, and they are not the same argument. This record reports the first and stays out of it, and reports the second at length because there are names and dates in it.\n\nThe first argument is whether the stones do anything. The cited account calls crystal healing \"a pseudoscientific, alternative medicine practice\" and says adherents \"claim that these have healing powers, but there is no scientific basis for this claim\". Practitioners, in the same account's words, hold that they can \"boost low energy, prevent bad energy, release blocked energy, and transform a body's aura\"; that physical properties — shape, colour, markings — decide what a stone can treat, with published lists of the correspondences; and, at the same time, \"that crystals have no intrinsic qualities but that, instead, their quality changes according to both\" the participants, which the account itself flags as a paradox. Stuart McLean calls the practice \"the middle-class New Age healing activity par excellence\". Against all that, Christopher French of the anomalistic psychology research unit at the University of London and colleagues from Goldsmiths College ran eighty volunteers meditating with either a quartz crystal or an indistinguishable placebo stone, reported typical crystal effects either way, and concluded at the British Psychological Society Centenary Annual Conference in 2001: \"There is no evidence that crystal healing works over and above a placebo effect.\" Every sentence in this paragraph belongs to somebody named. This atlas does not add one.\n\nThe second argument has coordinates. Worldwide retail sales of crystals were estimated at more than US$1 billion a year in 2019. India, China, Brazil and Madagascar are the main producers. In Madagascar most crystals come out of unsafe, non-industrial mines — \"homemade\", in the cited account's word — dug with shovels by parents and children working together in pits and tunnels. Miners are paid between 17 and 23 US cents per kilogram for rose quartz, which is roughly 8 to 11 cents a pound; a miner's income may be 0.1 per cent of the final retail price. The reporting behind those figures is Tess McClure's, published in The Guardian on 17 September 2019 under the title \"Dark crystals: the brutal reality behind a booming wellness craze\"; this project could not fetch the original and read it instead through Aaron Gilbreath's Longreads piece of 25 September 2019, which gives the rose quartz village as Anjoma Ramartina, puts the going rate at 800 ariary — about 23 US cents — per kilo, enough to buy a cup of rice at the village market, and quotes one mine worker, Rakotondrasolo: \"I was afraid, and was afraid for my children because of this soil. It can collapse on them.\"\n\nOn why the pay is that low, the cited account gives both industry answers and endorses neither: \"Some people in the industry say that the low pay for miners is because customers in developed countries want low retail prices; others say that it is due to shops in developed countries wanting to be more profitable.\" Those are the two sides, in the trade's own mouths, and this atlas prints them and stops.\n\nOne further hazard is documented and belongs to whoever handles the stone rather than to whoever mined it: some crystals sold in the trade, shungite among them, frequently contain heavy metals and carry a toxicity risk for people handling them over long periods or ingesting anything that has been in contact with them.\n\n*Inference —* the useful thing about this object for the rest of the atlas is that its supply chain is documented and a Bronze Age bead's is not. What a reader can see here — a wage, a village, a named miner, a retail figure, a 0.1 per cent — is the thing every other record in this collection would want and cannot have.",
+  "how": "Mined, tumbled or faceted, wire-wrapped or set, and sold in mineral shops, gift shops, wellness retailers and online. Practitioners select stones by colour or by the qualities they attribute to them and place them on parts of the body; the pendant version keeps one stone at the sternum permanently. There is no consecration and no restriction on who may make or wear one. Nothing is said in the sources read here about retiring one.",
+  "today": "Sold everywhere in 2026, in every price band, alongside reiki, flower essences and homeopathy in the same shops. The sourcing argument has been in print since 2019 and this project has read nothing showing it changed the supply chain. The worry stone record points here for exactly this reason: it is the same stones, the same trade, the same question."
+ },
+ "dating": {
+  "period": "the modern New Age trade; lapidary medicine is much older",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "undated here; the earliest dated events in the sources are a 1999 study and a 2001 conference; worn now",
+  "method": "undated",
+  "tier": "cited",
+  "source": "s:wp-crystal-healing",
+  "note": "The cited source gives no start date for the modern practice. The dated events it carries are the 1999 French and Williams placebo study, the 2001 British Psychological Society conference paper, and the 2019 retail estimate. Lapidary medicine — ancient Egyptian amulets, the ancient Greek reading of quartz, Hopi use of quartz crystals in diagnosis, the medieval lapidaries — is treated by the source as an older and separate history and is not dated into this record."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": [
+   "agate",
+   "turquoise",
+   "amber",
+   "silver"
+  ],
+  "worn": [
+   "neck",
+   "chest",
+   "pocket"
+  ],
+  "made_by": "lapidaries, tumbling shops and jewellers; the rough is dug in India, China, Brazil and Madagascar, more than 80 per cent of it by hand",
+  "colour": [
+   "clear",
+   "pink",
+   "purple",
+   "green"
+  ],
+  "single_use": false,
+  "source": "s:wp-crystal-healing",
+  "note": "Quartz, amethyst, rose quartz, opal and shungite are the stones the cited source names, and none of them has a key in this project's materials list; the four entered here are the nearest keys it does have. No published measurement was read, so no length_mm is entered."
+ },
+ "against": [
+  {
+   "harm": "illness",
+   "who": "adherents of crystal healing, as summarised by the cited account, which attaches its own contradiction in the same sentence",
+   "quote": "Adherents of the practice claim that these have healing powers, but there is no scientific basis for this claim.",
+   "source": "s:wp-crystal-healing",
+   "tier": "cited",
+   "note": "printed with the hedge the source prints it with. The named counter-finding is Christopher French and colleagues at Goldsmiths, 2001: there is no evidence of an effect over and above placebo."
+  },
+  {
+   "harm": "bad-luck",
+   "who": "practitioners, in the cited account's summary of what they hold the stones do",
+   "quote": "boost low energy, prevent bad energy, release blocked energy, and transform a body's aura",
+   "source": "s:wp-crystal-healing",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "worry-stone",
+   "as": "the same stones and the same trade, cut for the thumb instead of the throat — that record sends its sourcing question here",
+   "rel": "kin"
+  },
+  {
+   "to": "turquoise",
+   "as": "one of the stones cut for it, and one with a much older amulet history of its own",
+   "rel": "material"
+  },
+  {
+   "to": "amber",
+   "as": "another, and the one whose protective claims predate the crystal trade by millennia",
+   "rel": "material"
+  },
+  {
+   "to": "jade",
+   "as": "the stone this trade's logic was already applied to in China and Mesoamerica, long before anybody said aura",
+   "rel": "parallel"
+  },
+  {
+   "to": "navaratna-ring",
+   "as": "the older system that also assigns stones to conditions, with nine of them and a planetary scheme behind it",
+   "rel": "parallel"
+  },
+  {
+   "to": "evil-eye-bracelet",
+   "as": "the other mass-produced charm in this atlas whose hand-made and factory versions are argued over",
+   "rel": "parallel"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read where a supply chain and a spiritual claim end up in the same paragraph",
+   "rel": "story"
+  },
+  {
+   "to": "buying-in-a-market",
+   "as": "the act that makes it yours, and the point at which the 0.1 per cent gets decided",
+   "rel": "practice"
+  },
+  {
+   "to": "the-fake-market",
+   "as": "the long read about what a charm costs and who gets the money",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Crystal healing — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Crystal_healing"
+  },
+  {
+   "label": "Your Healing Crystals Are Part of the Capitalist Exploitation Machine — Longreads",
+   "url": "https://longreads.com/2019/09/25/your-healing-crystals-are-part-of-the-capitalist-exploitation-machine/"
+  },
+  {
+   "label": "Dark crystals: the brutal reality behind a booming wellness craze — Tess McClure, The Guardian, 17 September 2019",
+   "url": "https://www.theguardian.com/lifeandstyle/2019/sep/17/healing-crystals-wellness-mining-madagascar"
+  }
+ ],
+ "sources": [
+  "s:wp-crystal-healing",
+  "s:web-longreads-healing-crystals"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-crystal-healing"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-longreads-healing-crystals",
+    "note": "The Guardian original by Tess McClure could not be fetched and was NOT read; the village name, the 800 ariary rate and the quoted miner reach this project through the Longreads piece, which says so in the prose. The wage range, the 0.1 per cent and the US$1 billion figure are from the crystal healing article. The stretch marked *Inference —* is this project's."
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "current retail reasoned from the cited accounts; no market survey since 2019 was read, and the record says so rather than assuming nothing changed"
+   },
+   "object.materials": {
+    "tier": "inference",
+    "source": "s:wp-crystal-healing",
+    "note": "the stones the source names have no keys in this project's list; the keys entered are the nearest available and the note says which"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Rose quartz pendant.jpg",
+  "File:Amethyst pendant.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-17",
+ "blurb": "A cut or tumbled stone hung at the neck, usually in a wire cage or a silver bezel: a six-sided quartz point, a rose quartz lozenge, a lump of amethyst, a polished bead of agate or turquoise.",
+ "region_terms": [
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "world",
+   "name": "Everywhere",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "use for a sign or a practice documented on more than two continents"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "worry-stone",
+   "type": "amulet",
+   "name": "Worry stone",
+   "as": "the same stones and the same trade, cut for the thumb instead of the throat — that record sends its sourcing question here",
+   "rel": "kin"
+  },
+  {
+   "to": "turquoise",
+   "type": "material",
+   "name": "Turquoise",
+   "as": "one of the stones cut for it, and one with a much older amulet history of its own",
+   "rel": "material"
+  },
+  {
+   "to": "amber",
+   "type": "material",
+   "name": "Amber",
+   "as": "another, and the one whose protective claims predate the crystal trade by millennia",
+   "rel": "material"
+  },
+  {
+   "to": "jade",
+   "type": "material",
+   "name": "Jade",
+   "as": "the stone this trade's logic was already applied to in China and Mesoamerica, long before anybody said aura",
+   "rel": "parallel"
+  },
+  {
+   "to": "navaratna-ring",
+   "type": "amulet",
+   "name": "Navaratna ring",
+   "as": "the older system that also assigns stones to conditions, with nine of them and a planetary scheme behind it",
+   "rel": "parallel"
+  },
+  {
+   "to": "evil-eye-bracelet",
+   "type": "amulet",
+   "name": "Evil eye bracelet",
+   "as": "the other mass-produced charm in this atlas whose hand-made and factory versions are argued over",
+   "rel": "parallel"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read where a supply chain and a spiritual claim end up in the same paragraph",
+   "rel": "story"
+  },
+  {
+   "to": "buying-in-a-market",
+   "type": "practice",
+   "name": "Buying one in a market",
+   "as": "the act that makes it yours, and the point at which the 0.1 per cent gets decided",
+   "rel": "practice"
+  },
+  {
+   "to": "the-fake-market",
+   "type": "story",
+   "name": "The fake market",
+   "as": "the long read about what a charm costs and who gets the money",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-crystal-healing",
+   "kind": "encyclopedia",
+   "title": "Crystal healing",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Crystal_healing",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-longreads-healing-crystals",
+   "kind": "web",
+   "title": "Your Healing Crystals Are Part of the Capitalist Exploitation Machine",
+   "author": "Aaron Gilbreath",
+   "publisher": "Longreads",
+   "url": "https://longreads.com/2019/09/25/your-healing-crystals-are-part-of-the-capitalist-exploitation-machine/",
+   "date": "2019-09-25",
+   "accessed": "2026-09-17",
+   "note": "Excerpts and links Tess McClure, 'Dark crystals: the brutal reality behind a booming wellness craze', The Guardian, 17 September 2019, https://www.theguardian.com/lifeandstyle/2019/sep/17/healing-crystals-wellness-mining-madagascar. The Guardian original could not be fetched for this batch and was NOT read; the miner's wage, the village name and the quoted words reach this project through the Longreads page, which is what is cited."
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-crystal-healing"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:web-longreads-healing-crystals",
+   "note": "The Guardian original by Tess McClure could not be fetched and was NOT read; the village name, the 800 ariary rate and the quoted miner reach this project through the Longreads piece, which says so in the prose. The wage range, the 0.1 per cent and the US$1 billion figure are from the crystal healing article. The stretch marked *Inference —* is this project's."
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-crystal-healing"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "current retail reasoned from the cited accounts; no market survey since 2019 was read, and the record says so rather than assuming nothing changed"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-crystal-healing"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-crystal-healing"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-crystal-healing"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "adherents of crystal healing, as summarised by the cited account, which attaches its own contradiction in the same sentence",
+   "quote": "Adherents of the practice claim that these have healing powers, but there is no scientific basis for this claim.",
+   "source": "s:wp-crystal-healing",
+   "tier": "cited",
+   "note": "printed with the hedge the source prints it with. The named counter-finding is Christopher French and colleagues at Goldsmiths, 2001: there is no evidence of an effect over and above placebo."
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "practitioners, in the cited account's summary of what they hold the stones do",
+   "quote": "boost low energy, prevent bad energy, release blocked energy, and transform a body's aura",
+   "source": "s:wp-crystal-healing",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "agate",
+   "label": "Agate and onyx",
+   "kind": "stone"
+  },
+  {
+   "key": "turquoise",
+   "label": "Turquoise",
+   "kind": "stone"
+  },
+  {
+   "key": "amber",
+   "label": "Amber",
+   "kind": "organic"
+  },
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "chest",
+   "label": "On the chest, under the shirt",
+   "group": "body"
+  },
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  }
+ ],
+ "form_fact": {
+  "key": "pendant",
+  "label": "Pendant"
+ },
+ "holding_facts": [],
+ "span": "undated",
+ "country_names": [
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "MG",
+   "name": "Madagascar"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "navaratna-ring",
+   "type": "amulet",
+   "name": "Navaratna ring",
+   "as": "what the logic becomes in a 21st-century wellness shop, with the horoscope and the flawlessness rule dropped",
+   "rel": "contrast"
+  },
+  {
+   "from": "rudraksha",
+   "type": "amulet",
+   "name": "Rudraksha",
+   "as": "what the bead becomes in a wellness shop outside the tradition — a stone sold by its properties, with no mantra to count",
+   "rel": "contrast"
+  },
+  {
+   "from": "worry-stone",
+   "type": "amulet",
+   "name": "Worry stone",
+   "as": "the same stones, sold through the same trade, with the same sourcing argument attached",
+   "rel": "kin"
+  },
+  {
+   "from": "amber",
+   "type": "material",
+   "name": "Amber",
+   "as": "its shelf-mate in the present-day stone trade, sold on a claim about the substance itself",
+   "rel": "parallel"
+  },
+  {
+   "from": "turquoise",
+   "type": "material",
+   "name": "Turquoise",
+   "as": "the present-day trade in treated and synthetic stone, sold on a claim about the substance",
+   "rel": "parallel"
+  }
+ ]
+}

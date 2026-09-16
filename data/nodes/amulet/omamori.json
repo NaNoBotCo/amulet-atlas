@@ -1,0 +1,90 @@
+{
+ "schema": 1,
+ "id": "omamori",
+ "type": "amulet",
+ "names": {
+  "name": "Omamori",
+  "native": "御守",
+  "script": "Japanese",
+  "lang": "ja",
+  "said": "o-MA-mo-ri",
+  "aliases": ["o-mamori", "お守り", "Japanese shrine charm"]
+ },
+ "etymology": {
+  "root": "Japanese mamori 守り 'protection', with the honorific prefix o- (sonkeigo) — 'the honoured protection'",
+  "note": "The same character stands behind ofuda's shinsatsu vocabulary; omamori shares its origin with ofuda and is described as the smaller, portable version of it.",
+  "tier": "cited",
+  "source": "s:wp-omamori"
+ },
+ "region": ["japan"],
+ "countries": ["JP"],
+ "facets": {"era": "modern", "status": "living", "portable": "carried", "restricted": "open", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A small brocade pouch, a few centimetres tall, drawn shut at the top with a cord and printed with the name of the shrine or temple that issued it. Inside is a slip of paper or a chip of wood carrying a prayer or an invocation. The pouch stays shut: nobody who carries one opens it. Most hang from a bag, a school satchel, a phone strap or a car mirror rather than round the neck.",
+  "story": "Omamori are issued by Shinto shrines and by Buddhist temples alike, dedicated to particular kami or to Buddhist figures, and sold to anyone regardless of what they believe. The shrine consecrates the contents by rite; a Shinto one is described as holding busshin, spiritual offshoots of the deity, a Buddhist one kesshin, manifestations.\n\nThe folklorist Yanagita Kunio dated the thing a reader now recognises to the Tokugawa period at the earliest. Writing in 1969 he put it this way: \"Japanese have probably always believed in amulets of one kind or another, but the modern printed charms now given out by shrines and temples first became popular in the Tokugawa period or later, and the practice of a person wearing miniature charms is also new. The latter custom is particularly common in cities.\" Two claims sit in that sentence — the printed charm is early modern, the pocket-sized charm is later still, and urban.\n\nThe demand outgrew the shrines. Where a popular shrine or temple cannot keep up, it orders omamori from a factory, and priests have objected to the quality and to what they call the \"authenticity\" of the factory product. Both halves of that get reported here: the factory pouch and the hand-finished one come off the same counter, and the argument over whether they are the same object is an argument inside the tradition.\n\n*Inference —* a charm designed to be replaced every twelve months is a charm with a business model, and the New Year crowds are the year's trade. Fushimi Inari-taisha alone drew 2.69 million worshippers over three days at the New Year in 2006, a police figure and the largest in western Japan. No source this project has read publishes what any shrine takes in omamori money, so no figure is given here.",
+  "how": "Received, not bought — the verb the tradition uses is sazukaru, to be granted, and the money handed over is hatsuhoryō, a first-fruit offering. If a visitor cannot find one for their need, they may ask a priest to have one made; if enough people ask for the same one, the shrine starts stocking it. The pouch is then carried, tied to a bag or a strap, and not opened; opening it loses what is in it. It is customarily swapped for a new one once a year. The old one goes back to the shrine or temple it came from, usually on or just after New Year, and is burnt rather than thrown out, at the Sagichō or Dondoyaki fire held at the Little New Year on 14 or 15 January. Most Shinto shrines will accept another shrine's omamori; many will not accept a Buddhist one, and the reverse holds too.",
+  "today": "Still issued by nearly every shrine and temple in Japan as of 2026, in a spread of categories a buyer picks from: kōtsū-anzen for the road, gakugyō-jōju for exams, shōbai-hanjō for trade, en-musubi for finding a partner, anzan for a safe delivery, kanai-anzen for the household, yaku-yoke against a bad year. Alongside them, shops sell omamori-shaped goods with Mickey Mouse, Hello Kitty, Snoopy or Kewpie on them, issued by no shrine and consecrated by nobody — a separate product that borrows the shape."
+ },
+ "dating": {
+  "period": "Tokugawa (Edo) to the present",
+  "from_year": 1603,
+  "to_year": null,
+  "living": true,
+  "label": "c. 1603 to now, for the printed charm; the pouch worn on a person is later",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-omamori",
+  "note": "Dated from Yanagita Kunio's statement that the modern printed charms given out by shrines and temples became popular in the Tokugawa period or later. The start of that period, 1603, is used as the earliest year the statement can carry; it is not an attestation."
+ },
+ "object": {
+  "form": "packet",
+  "materials": ["cloth", "paper", "wood"],
+  "worn": ["pocket", "phone", "vehicle", "neck"],
+  "made_by": "the shrine or temple, which consecrates the contents by rite; where demand outruns the counter, a factory makes the pouch",
+  "inscription": "a prayer or invocation on the paper or wood inside, and the shrine's or temple's name on the outside",
+  "script": "Japanese",
+  "single_use": true,
+  "source": "s:wp-omamori",
+  "note": "The pouch is not opened, so the contents are described from the tradition's own account rather than from an inspection. Modern issues have also been made as bumper decals, bicycle reflectors and card-shaped charms."
+ },
+ "against": [
+  {"harm": "traffic", "who": "the shrines, in the category kōtsū-anzen — road safety for drivers and travellers of every kind", "source": "s:wp-omamori", "tier": "cited"},
+  {"harm": "exams", "who": "the shrines, in the category gakugyō-jōju — for students and scholars, passing examinations", "source": "s:wp-omamori", "tier": "cited"},
+  {"harm": "attraction", "who": "the shrines, in the categories shōbai-hanjō for prosperity in business and en-musubi for finding a partner", "source": "s:wp-omamori", "tier": "cited"},
+  {"harm": "childbirth", "who": "the shrines, in the category anzan — a healthy pregnancy and an easy delivery", "source": "s:wp-omamori", "tier": "cited"},
+  {"harm": "house", "who": "the shrines, in the category kanai-anzen — the well-being of a household", "source": "s:wp-omamori", "tier": "cited"},
+  {"harm": "bad-luck", "who": "the shrines, in the category yaku-yoke — avoidance of evil, and the year just gone", "source": "s:wp-omamori", "tier": "cited"}
+ ],
+ "kin": [
+  {"to": "ofuda", "as": "the parent: omamori shares its origin with the ofuda and is the smaller, portable version of it, the one that leaves the house", "rel": "origin"},
+  {"to": "omikuji", "as": "the other paper a visitor leaves the same counter with — but a drawn fortune, not a charm, and tied to a rack rather than carried", "rel": "contrast"},
+  {"to": "japanese-engimono", "as": "the class of shrine-and-temple goods this belongs to, sold on the same trays as the daruma and the beckoning cat", "rel": "tradition"},
+  {"to": "renewing-yearly", "as": "the rule that shapes the whole object — twelve months, then a new one", "rel": "practice"},
+  {"to": "burning-retirement", "as": "how it ends: returned to the shrine and burnt at the Sagichō or Dondoyaki fire in mid-January", "rel": "practice"},
+  {"to": "blessing-at-a-shrine", "as": "the rite that makes the pouch more than brocade, performed before it reaches the counter", "rel": "practice"},
+  {"to": "fushimi-inari", "as": "the shrine whose New Year crowds are the clearest published measure of what this trade moves — 2.69 million over three days in 2006", "rel": "place"},
+  {"to": "senso-ji", "as": "a Buddhist counter issuing the same class of charm, in Tokyo's oldest temple", "rel": "place"},
+  {"to": "bujeok", "as": "Korea's paper charm carried in a small brocade bag — the same solution to the same problem, one sea away", "rel": "parallel"},
+  {"to": "exam-charm", "as": "the genre omamori feeds: gakugyō-jōju is an exam charm printed and priced as one", "rel": "kin"},
+  {"to": "phone-charm", "as": "where most of them now hang, which is the modern answer to 'worn at the neck'", "rel": "kin"},
+  {"to": "senninbari", "as": "the charm Japanese women made by hand for soldiers when a shrine pouch was not enough", "rel": "contrast"}
+ ],
+ "confusable_with": [
+  {"id": "ofuda", "tell": "an ofuda is a flat tablet or sheet that stands on a household altar or goes on a wall; an omamori is a closed pouch that travels with a person"},
+  {"id": "omikuji", "tell": "an omikuji is a loose paper strip with a graded fortune printed on it, drawn at random; an omamori is sewn shut and chosen by category"}
+ ],
+ "links": [{"label": "Omamori — Wikipedia", "url": "https://en.wikipedia.org/wiki/Omamori"}],
+ "sources": ["s:wp-omamori", "s:wp-ofuda", "s:wp-fushimi-inari-taisha", "s:wp-sens-ji", "s:wp-amulet", "s:web-ja-wikipedia-engimono"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-omamori"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:wp-omamori", "note": "the closing paragraph is marked inline as this project's inference; the 2006 Fushimi Inari figure is cited to s:wp-fushimi-inari-taisha"},
+   "text.today": {"tier": "cited", "source": "s:wp-omamori", "note": "the category list and the character-licensed versions are both from the source; the 2026 date is the date of this record"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Omamori.jpg", "File:Japanese amulet omamori.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

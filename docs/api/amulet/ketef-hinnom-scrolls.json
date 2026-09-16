@@ -1,0 +1,453 @@
+{
+ "schema": 1,
+ "id": "ketef-hinnom-scrolls",
+ "type": "amulet",
+ "names": {
+  "name": "Ketef Hinnom silver scrolls",
+  "native": "כתף הינום",
+  "script": "Hebrew",
+  "lang": "he",
+  "said": "KEH-tef hi-NOM, 'shoulder of Hinnom'",
+  "aliases": [
+   "Ketef Hinnom amulets",
+   "the silver scrolls",
+   "KH1 and KH2"
+  ]
+ },
+ "region": [
+  "levant"
+ ],
+ "countries": [
+  "IL"
+ ],
+ "facets": {
+  "era": "ancient",
+  "status": "archaeological",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "Two sheets of silver, tiny, rolled tight, each scratched with a passage of the Priestly Blessing from the Book of Numbers. They were found rolled and had to be opened; the method for doing it without losing them took three years to develop. They hold what may be the oldest surviving text of the Hebrew Bible.",
+  "story": "Ketef Hinnom is the shoulder of rock where the Valley of Rephaim meets the Valley of Hinnom, on the old road from Jerusalem to Bethlehem, beside St Andrew's Church. Gabriel Barkay reported the first season there in 1975: a salvage excavation on the hill between the church road and the road down into the valley, prompted by a block of stone 2.80 m long lying on the surface, which turned out to be a threshold still in place in a monumental complex. Underneath were rock-cut burial chambers in natural caverns, Iron Age Judahite, of the seventh and sixth centuries BCE.\n\nIn 1979 the two silver scrolls came out of one of those chambers. The excavation report describes them as apparently once used as amulets. They are dated to the First Temple period, late seventh to early sixth century BCE, before the Babylonian Exile. They are now in the Israel Museum.\n\n*Inference —* two things about this object are unusual for the atlas at once. It is a written charm that survives from before the tradition it belongs to had a canon to quote from, and it is a charm whose text is not a spell but a blessing. Whether the people who rolled them up would have called them amulets is a question the excavation cannot answer, and the cited report does not claim more than 'apparently'.",
+  "how": "Silver, hammered thin, inscribed, rolled, and worn or carried. How they were suspended is not published in what this project read; what is documented is where they ended up, which is a burial chamber."
+ },
+ "dating": {
+  "period": "Iron Age Judah, First Temple period",
+  "from_year": -624,
+  "to_year": -574,
+  "living": false,
+  "label": "late 7th to early 6th century BCE",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-ketef-hinnom",
+  "note": "The cited article gives both 'dated to 600 BC' and 'late 7th to early 6th century BCE'. The years here are that century-span in astronomical form; the tomb complex itself is dated to the 7th and 6th centuries BCE."
+ },
+ "object": {
+  "form": "scroll",
+  "materials": [
+   "silver"
+  ],
+  "worn": [
+   "grave"
+  ],
+  "made_by": "not published in the sources this project read",
+  "inscription": "portions of the Priestly Blessing of Numbers 6:24–26",
+  "script": "palaeo-Hebrew",
+  "source": "s:wp-ketef-hinnom",
+  "note": "No published measurement was read; the article calls them tiny. Worn is given as grave because the findspot is the one placement the excavation establishes."
+ },
+ "against": [
+  {
+   "harm": "bad-luck",
+   "who": "the excavation report, which describes the scrolls as apparently once used as amulets; the text on them is a blessing rather than a named harm",
+   "source": "s:wp-ketef-hinnom",
+   "tier": "cited",
+   "note": "the Priestly Blessing asks that the wearer be blessed and kept; it names no enemy, and this record does not supply one"
+  },
+  {
+   "harm": "the-dead",
+   "who": "the findspot: an Iron Age Judahite burial chamber",
+   "source": "s:wp-ketef-hinnom",
+   "tier": "tradition",
+   "note": "filed from where the object was found, not from anything the object says; the atlas does not know whether they were buried as grave goods or simply worn to the grave"
+  }
+ ],
+ "holdings": [
+  {
+   "museum": "israel-museum",
+   "what": "the two silver scrolls, preserved and displayed",
+   "source": "s:wp-ketef-hinnom"
+  }
+ ],
+ "kin": [
+  {
+   "to": "tefillin",
+   "as": "the commandment that puts the same kind of verses in a box on the body — and the object this one keeps getting read backwards through",
+   "rel": "descendant"
+  },
+  {
+   "to": "mezuzah",
+   "as": "the other Jewish text-in-a-container, fixed to a doorpost instead of worn",
+   "rel": "kin"
+  },
+  {
+   "to": "kamea",
+   "as": "the written Jewish amulet as a class, of which this is the oldest dated survivor",
+   "rel": "descendant"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "as": "the tradition of writing a holy text to carry, a thousand years before it had that name",
+   "rel": "tradition"
+  },
+  {
+   "to": "silver",
+   "as": "the metal that let a text this small survive two and a half thousand years in a tomb",
+   "rel": "material"
+  },
+  {
+   "to": "grave-deposit",
+   "as": "the practice that is the reason this object exists to be read",
+   "rel": "practice"
+  },
+  {
+   "to": "taweez",
+   "as": "the same object in another scripture — a verse, rolled small, worn",
+   "rel": "parallel"
+  },
+  {
+   "to": "quran-pendant",
+   "as": "scripture in a case at the throat; this is that idea's oldest dated instance in the atlas",
+   "rel": "parallel"
+  },
+  {
+   "to": "dating-a-charm",
+   "as": "the long read about what it means to date an amulet; this one is dated by a tomb, a threshold stone and three years of unrolling",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Ketef Hinnom — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ketef_Hinnom"
+  }
+ ],
+ "sources": [
+  "s:wp-ketef-hinnom",
+  "s:wp-tefillin",
+  "s:wp-mezuzah",
+  "s:wp-amulet"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-ketef-hinnom"
+  },
+  "fields": {
+   "object": {
+    "tier": "cited",
+    "source": "s:wp-ketef-hinnom",
+    "note": "script is given as palaeo-Hebrew, which is the First Temple period script; the cited article names the period, not the script, so treat that field as unverified"
+   },
+   "text.how": {
+    "tier": "inference",
+    "note": "reasoned from the object's material and findspot; no manufacturing account was read"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Ketef Hinnom scroll.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "Two sheets of silver, tiny, rolled tight, each scratched with a passage of the Priestly Blessing from the Book of Numbers.",
+ "region_terms": [
+  {
+   "key": "levant",
+   "name": "The Levant",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "tefillin",
+   "type": "amulet",
+   "name": "Tefillin",
+   "as": "the commandment that puts the same kind of verses in a box on the body — and the object this one keeps getting read backwards through",
+   "rel": "descendant"
+  },
+  {
+   "to": "mezuzah",
+   "type": "amulet",
+   "name": "Mezuzah",
+   "as": "the other Jewish text-in-a-container, fixed to a doorpost instead of worn",
+   "rel": "kin"
+  },
+  {
+   "to": "kamea",
+   "type": "amulet",
+   "name": "Kamea",
+   "as": "the written Jewish amulet as a class, of which this is the oldest dated survivor",
+   "rel": "descendant"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "type": "tradition",
+   "name": "Practical Kabbalah",
+   "as": "the tradition of writing a holy text to carry, a thousand years before it had that name",
+   "rel": "tradition"
+  },
+  {
+   "to": "silver",
+   "type": "material",
+   "name": "Silver",
+   "as": "the metal that let a text this small survive two and a half thousand years in a tomb",
+   "rel": "material"
+  },
+  {
+   "to": "grave-deposit",
+   "type": "practice",
+   "name": "Grave deposit",
+   "as": "the practice that is the reason this object exists to be read",
+   "rel": "practice"
+  },
+  {
+   "to": "taweez",
+   "type": "amulet",
+   "name": "Ta'wiz",
+   "as": "the same object in another scripture — a verse, rolled small, worn",
+   "rel": "parallel"
+  },
+  {
+   "to": "quran-pendant",
+   "type": "amulet",
+   "name": "Qur'an pendant",
+   "as": "scripture in a case at the throat; this is that idea's oldest dated instance in the atlas",
+   "rel": "parallel"
+  },
+  {
+   "to": "dating-a-charm",
+   "type": "story",
+   "name": "Dating a charm",
+   "as": "the long read about what it means to date an amulet; this one is dated by a tomb, a threshold stone and three years of unrolling",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-ketef-hinnom",
+   "kind": "encyclopedia",
+   "title": "Ketef Hinnom",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ketef_Hinnom",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tefillin",
+   "kind": "encyclopedia",
+   "title": "Tefillin",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tefillin",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mezuzah",
+   "kind": "encyclopedia",
+   "title": "Mezuzah",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mezuzah",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-amulet",
+   "kind": "encyclopedia",
+   "title": "Amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-ketef-hinnom"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-ketef-hinnom"
+  },
+  "text.how": {
+   "tier": "inference",
+   "note": "reasoned from the object's material and findspot; no manufacturing account was read"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-ketef-hinnom"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-ketef-hinnom",
+   "note": "script is given as palaeo-Hebrew, which is the First Temple period script; the cited article names the period, not the script, so treat that field as unverified"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "the excavation report, which describes the scrolls as apparently once used as amulets; the text on them is a blessing rather than a named harm",
+   "quote": "",
+   "source": "s:wp-ketef-hinnom",
+   "tier": "cited",
+   "note": "the Priestly Blessing asks that the wearer be blessed and kept; it names no enemy, and this record does not supply one"
+  },
+  {
+   "key": "the-dead",
+   "label": "Danger to the dead",
+   "gloss": "charms put in a grave for the person in it",
+   "who": "the findspot: an Iron Age Judahite burial chamber",
+   "quote": "",
+   "source": "s:wp-ketef-hinnom",
+   "tier": "tradition",
+   "note": "filed from where the object was found, not from anything the object says; the atlas does not know whether they were buried as grave goods or simply worn to the grave"
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "grave",
+   "label": "In the grave",
+   "group": "placed",
+   "note": "most surviving ancient amulets are here because somebody was buried in them"
+  }
+ ],
+ "form_fact": {
+  "key": "scroll",
+  "label": "Scroll"
+ },
+ "holding_facts": [
+  {
+   "key": "israel-museum",
+   "label": "The Israel Museum",
+   "city": "Jerusalem",
+   "country": "IL",
+   "url": "",
+   "what": "the two silver scrolls, preserved and displayed",
+   "accession": "",
+   "source": "s:wp-ketef-hinnom"
+  }
+ ],
+ "span": "625 BCE – 575 BCE",
+ "country_names": [
+  {
+   "iso": "IL",
+   "name": "Israel"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "kamea",
+   "type": "amulet",
+   "name": "Kamea",
+   "as": "the oldest surviving Hebrew written charm, six centuries before the Talmudic practice this record starts from",
+   "rel": "origin"
+  },
+  {
+   "from": "mezuzah",
+   "type": "amulet",
+   "name": "Mezuzah",
+   "as": "the oldest surviving Hebrew text-object in the atlas, and the thing every argument about this one eventually reaches for",
+   "rel": "origin"
+  },
+  {
+   "from": "quran-pendant",
+   "type": "amulet",
+   "name": "Qur'an pendant",
+   "as": "the oldest dated instance of this idea anywhere in the atlas: a blessing, rolled small, carried",
+   "rel": "parallel"
+  },
+  {
+   "from": "tefillin",
+   "type": "amulet",
+   "name": "Tefillin",
+   "as": "the oldest surviving Hebrew verses written small and carried — six centuries before the earliest tefillin finds",
+   "rel": "origin"
+  },
+  {
+   "from": "jewish-practical-kabbalah",
+   "type": "tradition",
+   "name": "Practical Kabbalah",
+   "as": "the oldest object in the family: silver strips carrying the Priestly Blessing, written to be worn a thousand years before the tradition had a name",
+   "rel": "origin"
+  },
+  {
+   "from": "lead",
+   "type": "material",
+   "name": "Lead",
+   "as": "the same idea in silver: a thin sheet, a written formula, rolled and worn, aimed at protecting rather than binding",
+   "rel": "parallel"
+  },
+  {
+   "from": "silver",
+   "type": "material",
+   "name": "Silver",
+   "as": "two rolled sheets of this metal, and the oldest surviving text of the Hebrew Bible",
+   "rel": "carried-by"
+  },
+  {
+   "from": "folding",
+   "type": "practice",
+   "name": "Folding",
+   "as": "the oldest rolled charm this atlas dates, found still rolled in a Jerusalem burial chamber",
+   "rel": "practice"
+  },
+  {
+   "from": "grave-deposit",
+   "type": "practice",
+   "name": "Grave deposit",
+   "as": "silver worn in life and found in a burial chamber, carrying the oldest surviving biblical text known",
+   "rel": "carried-by"
+  },
+  {
+   "from": "inscribing",
+   "type": "practice",
+   "name": "Inscribing",
+   "as": "the oldest dated thing this practice made: a blessing punched into silver and worn to the grave around 600 BCE",
+   "rel": "practice"
+  },
+  {
+   "from": "joseph-naveh",
+   "type": "person",
+   "name": "Joseph Naveh",
+   "as": "the rolled silver amulet strip from Jerusalem — the object class his palaeography dates",
+   "rel": "kin"
+  }
+ ]
+}

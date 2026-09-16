@@ -1,0 +1,102 @@
+{
+ "schema": 1,
+ "id": "game-day-charm",
+ "type": "amulet",
+ "names": {
+  "name": "Game-day charm",
+  "said": "in the anthropological literature, a fetish; in a clubhouse, a lucky one",
+  "aliases": ["lucky shoes", "rally cap", "lucky number", "rally chew", "rally shoe", "lucky jersey"]
+ },
+ "etymology": {
+  "root": "English mascot, from French mascotte, 'lucky charm', itself from Provençal masco, 'sorceress' — a gamblers' slang word before it was anything else",
+  "first_attested": "the word mascotte is first recorded in 1867 and was popularised by Edmond Audran's opera La mascotte, staged in December 1880; it entered English in 1881",
+  "note": "Before the nineteenth century the word attached to inanimate objects — a lock of hair, a ship's figurehead — rather than to a costumed person on a touchline.",
+  "tier": "cited",
+  "source": "s:wp-mascot"
+ },
+ "region": ["north-america"],
+ "countries": ["US", "CA"],
+ "facets": {"era": "modern", "status": "living", "portable": "carried", "restricted": "open", "hemisphere": ["N", "W"]},
+ "text": {
+  "what": "Whatever was in the room the last time it went well. A pair of borrowed baseball shoes. A round rock picked up off a field. A uniform number. A cap turned inside out and worn backwards. A crucifix touched before every at-bat. A stick of gum, a yellow sandal, a particular arrangement of footwear in a locker. The object is ordinary and the selection rule is the only thing that is not: it gets chosen by what it was present for.",
+  "story": "The best-documented charm in this atlas is a pair of shoes a man borrowed because he forgot his own.\n\nGeorge Gmelch, an anthropologist at Union College who played professional baseball before he wrote about it, defines the class flatly: \"Fetishes or charms are material objects believed to embody 'supernatural' power that can aid or protect the owner. Good luck charms are standard equipment for some ballplayers.\" His list runs from coins, chains and crucifixes to a favourite hat. And the origin rule is the interesting part: \"The fetishized object may be a new possession or something a player found that happens to coincide with the start of a streak and which he holds responsible for his good fortune.\" Alan Foster, playing in the Pacific Coast League, left his baseball shoes behind on a road trip and borrowed a teammate's. He pitched a no-hitter that night, attributed it to the shoes, bought them off the teammate afterwards, and they became a fetish.\n\nMark LaRosa, a farmhand in the Montreal Expos system, gave Gmelch a different account of the same kind of object: \"I found it on the field in Elmira after I had gotten bombed. It's unusual, perfectly round, and it caught my attention. I keep it to remind me of how important it is to concentrate. When I am going well I look at the rock and remember to keep my focus, the rock reminds me of what can happen when I lose my concentration.\" *Inference —* that is a charm whose owner says out loud it is a memory aid and not a power, and it sits in the same pocket as the shoes. Both accounts are the wearers' own and this atlas prints both without deciding which kind of object it is.\n\nNumbers work the same way. Ricky Henderson paid outfielder Turner Ward US$25,000 in 1993 for the right to wear number 24 when he joined the Blue Jays. Vida Blue switched from 35 to 14 — his high-school quarterback number — at the Oakland A's, and switched back when it produced nothing. Jack Clark went from 25 to 00 to break a slump, got four hits in a doubleheader that day, hurt his back, and was hit in the cheekbone by a batting-practice ball three days later. Larry Walker of the Colorado Rockies wore 33, took three practice swings, showered from the third nozzle, set his alarm three minutes past the hour and married on 3 November at 3:33 p.m. Gmelch notes there is no consensus on number 13: some refuse it, some do not care, a few ask for it.\n\nOn the fan's side of the rail the same logic produces the rally cap — a baseball cap worn inside out and backwards, or otherwise wrongly, to turn a game around; the team's logo has to show for it to work. The documented instances start early: on 23 August 1887 a Giants mascot turned his cap inside out during a close game against Pittsburgh and outfielder George Gore followed. Detroit Tigers fans recalled players doing it in the 1940s without the comeback meaning attached. The Texas Rangers used it in 1977 and 1978. Mets fans at Shea Stadium were wearing caps inside out in 1985, and the practice reached national attention during the 1986 World Series when Mets players wore rally caps in the dugout in Game 6. The genre has since branched: rally chew, rally gum during Detroit's 2006 run, and a yellow Birkenstock worn on a fan's head before the Mariners' 10–9 comeback on 8 October 2022.\n\nGmelch's own explanation is borrowed twice over and he says so. From Bronisław Malinowski: Trobriand islanders used no magic for lagoon fishing, where skill was enough, and a great deal of it for the open sea, where it was dangerous and the catch varied — and Gmelch maps that onto baseball, where magic clusters around pitching and hitting rather than fielding. From B. F. Skinner: a pigeon rewarded on a fixed timer starts repeating whatever it happened to be doing, and one of Skinner's birds hopped side to side ten thousand times without a pellet before giving up. Gmelch's closing sentence gives his own verdict, and it is his and not this atlas's: the rituals \"do not make a pitch travel faster or a batted ball find the gaps between the fielders, nor do the Trobriand rituals calm the seas or bring fish. What both do, however, is give their practitioners a sense of control, with that added confidence, at no cost.\"\n\n*Inference —* the phrase worth keeping from him is \"standard equipment\". A charm nobody in the trade regards as remarkable is the hardest kind for an atlas to find, because nobody writes it down. Gmelch wrote it down because he had been in the clubhouse.",
+  "how": "Not made and not bought. Retained. An object acquires the status by having been present at a win, and keeps it by being carried, worn or arranged the same way every time. Clothing gets the same treatment: Jim Davenport found he had missed a buttonhole the day he hit two home runs and left the same button undone for the rest of his career; Brian Hunter switched between high-top and low-top shoes by which pair had failed to get a hit; Bo Kennedy told the clubhouse boys never to move his shoes, wanting the Ponys in front and the turfs to the right, each pair touching. The object is dropped when the streak ends, which is the one respect in which Gmelch says ballplayers beat pigeons.",
+  "today": "Live in every clubhouse and half the stands. The published record this atlas relies on runs to Gmelch's 2000 revision and the rally-cap instances up to 2022; no survey newer than that was read for this record, and no dated price, because almost nothing here is bought."
+ },
+ "dating": {
+  "period": "the modern professional game",
+  "from_year": 1887,
+  "to_year": null,
+  "living": true,
+  "label": "the earliest dated instance is 23 August 1887; carried now",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-rally-cap",
+  "note": "1887 is the documented rally-cap instance in a Giants–Pittsburgh game, which is the oldest dated event in the sources read here. The practice of carrying a lucky object into a contest is older and undated in these sources, and no earlier year is asserted."
+ },
+ "object": {
+  "materials": ["cloth", "coin", "leather"],
+  "worn": ["head", "pocket", "wallet"],
+  "made_by": "nobody — the object is found, borrowed, issued or already owned, and becomes a charm by association",
+  "single_use": false,
+  "source": "s:web-gmelch-baseball-magic",
+  "note": "No form key is entered. Gmelch's documented examples are shoes, a rock, a cap, a crucifix, coins, chains and a uniform number, and no single form in this project's list covers them. The materials entered are the nearest keys for those examples and are not a published list."
+ },
+ "against": [
+  {
+   "harm": "bad-luck",
+   "who": "George Gmelch, reporting what professional baseball players say about the objects they carry",
+   "quote": "Fetishes or charms are material objects believed to embody \"supernatural\" power that can aid or protect the owner. Good luck charms are standard equipment for some ballplayers.",
+   "source": "s:web-gmelch-baseball-magic",
+   "tier": "cited"
+  },
+  {
+   "harm": "attraction",
+   "who": "Mark LaRosa, a Montreal Expos farmhand, on the round rock he picked up at Elmira",
+   "quote": "I keep it to remind me of how important it is to concentrate. When I am going well I look at the rock and remember to keep my focus.",
+   "source": "s:web-gmelch-baseball-magic",
+   "tier": "cited",
+   "note": "the owner's own account makes this a memory aid rather than a power, and it is printed here in his words because it is the counter-case inside the same source"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "baseball fans, on the rally cap — worn inside out and backwards to turn a game around, and no good unless the team's logo shows",
+   "source": "s:wp-rally-cap",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {"to": "mascot-word", "as": "the word for this whole family, and a gamblers' slang term before it was a costume", "rel": "term"},
+  {"to": "rabbits-foot", "as": "the charm on Stouffer's list of what American soldiers carried in the Second World War, which Gmelch cites as the same behaviour under worse stakes", "rel": "parallel"},
+  {"to": "challenge-coin", "as": "the coin in the same pocket that claims nothing — Gmelch's list of fetishes opens with coins, and this is the one that does not qualify", "rel": "contrast"},
+  {"to": "exam-charm", "as": "the same object with an answer sheet instead of a scoreboard, and a shrine counter behind it instead of a locker", "rel": "parallel"},
+  {"to": "worry-stone", "as": "the other found stone in this atlas whose owner says its job is to tell him something rather than to keep something away", "rel": "parallel"},
+  {"to": "hagstone", "as": "the other charm here that is picked up rather than made", "rel": "parallel"},
+  {"to": "luck-word", "as": "the word the whole practice runs on, and the one nobody in a clubhouse defines", "rel": "term"},
+  {"to": "alan-dundes", "as": "the folklorist who took this kind of everyday American material as a serious object of study", "rel": "person"},
+  {"to": "most-of-them-are-for-children", "as": "the long read this cuts against — here the charms are carried by adults at work, and the work is televised", "rel": "story"}
+ ],
+ "links": [
+  {"label": "Baseball Magic — George Gmelch (PDF)", "url": "https://www.meissinger.com/uploads/3/4/9/1/34919185/gmelch_baseball_magic.pdf"},
+  {"label": "Rally cap — Wikipedia", "url": "https://en.wikipedia.org/wiki/Rally_cap"},
+  {"label": "Mascot — Wikipedia", "url": "https://en.wikipedia.org/wiki/Mascot"}
+ ],
+ "sources": [
+  "s:web-gmelch-baseball-magic",
+  "s:wp-rally-cap",
+  "s:wp-mascot",
+  "s:wp-luck"
+ ],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:web-gmelch-baseball-magic"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:web-gmelch-baseball-magic", "note": "every player, quotation and figure is Gmelch's; the rally-cap paragraph is from the cited Wikipedia article. The two stretches marked *Inference —* are this project's."},
+   "text.today": {"tier": "inference", "note": "reasoned from the cited accounts; nothing newer than the 2022 rally-shoe instance was read"},
+   "object": {"tier": "cited", "source": "s:web-gmelch-baseball-magic", "note": "no form key fits the class and none is entered; the note says why"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Rally cap.jpg", "File:Baseball cap inside out.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-17"
+}

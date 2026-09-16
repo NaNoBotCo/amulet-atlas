@@ -1,0 +1,78 @@
+{
+ "schema": 1,
+ "id": "ongon",
+ "type": "amulet",
+ "names": {
+  "name": "Ongon",
+  "native": "онгон",
+  "script": "Cyrillic",
+  "lang": "mn",
+  "said": "ON-gon; plural ongod",
+  "aliases": ["ongod", "yazguur ongod", "geriin ongod", "lineage talisman", "household talisman"]
+ },
+ "region": ["mongolia-steppe", "siberia-arctic"],
+ "countries": ["MN", "RU"],
+ "facets": {"era": "modern", "status": "living", "portable": "placed", "restricted": "limited", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "Two things under one word. An ongon is a spirit in the shamanic belief of Mongolia — after death, shamans become shamanic souls, ongod — and it is also the made object that stands for that spirit in the physical world, put together by a shaman and central to the ritual that calls on the spirit's protection. Idols can be consecrated to a dead shaman within three years of the death, and are kept in the house, as a home ongon, or out in the open in a shelter, as a field ongon.",
+  "story": "The objects are described one at a time in the ethnography, and this record keeps them that way. For the Tuvan shamaness Yamaan, an ancestor spirit is represented in the handle of a drum: a carved figure with a pink head and chest, a black crown, and red eyes and forehead, with a wire for arms and, on a second wire, suspended holbogo standing for the spirit's earring.\n\nSome ongod are not made at all but inhabited. Agaaryn Khairhan, a mountain in Khövsgöl Province, carries the name of one of the most powerful shamanesses of the Darkhad clan — Agaaryn Khairhan, also called Bagdan Udgan — who lived on that mountain in the eighteenth century.\n\nAmong the Darkhad in present-day Northern Mongolia, clusters of ongod stand in transitional places: the mouths of rivers, the border between taiga and steppe. That border is also a religious one, with the taiga and the mountains the traditional ground of shamanism and the steppe the ground of Buddhism. Many Darkhad households own lineage talismans, yazguur ongod, or household talismans, geriin ongod, which both contain and attract spirits.\n\nThe ongon matters most in black shamanism: the main job of the khar talynkh, the black shaman, is to bring people into contact with the ongon, whose spirit they call up while drumming in a trance. Otgony Purev records that in late-nineteenth-century Mongolia yellow shamans revered ongod as well, and that every three years they gathered at Dayan Deerh monastery in Khövsgöl Province to renew these ancestral spirits. Dayan Deerh is itself one of the well-known ongod.",
+  "how": "Made by a shaman, not by a household member, and consecrated to a particular dead shaman. The renewal Purev records for yellow shamans ran on a three-year cycle at a named monastery. This atlas does not print how an ongon is made or what is said over it: the sources read describe particular objects among particular peoples — a Tuvan shamaness's drum handle, Darkhad household talismans — and do not publish a procedure, and neither a Darkhad practice nor a Tuvan one stands in for the other.",
+  "today": "Recorded in the Darkhad Valley of Northern Mongolia in the ethnography of the 2010s, with household and lineage talismans in ordinary houses and clusters of ongod at the edges between taiga and steppe. Morten Axel Pedersen's Not Quite Shamans, 2011, and Ágnes Birtalan's 2011 study of Dayan Deerh are the recent published accounts this record leans on; Dmitry Zelenin's Культ онгонов в Сибири, 1936, is the old one."
+ },
+ "restricted": {
+  "note": "This record names the people each practice is recorded among — Darkhad, Tuvan, the yellow shamans Otgony Purev describes — and does not generalise any of it to Mongolians or Siberians at large. It prints no procedure for making or consecrating an ongon, because the sources read describe objects and not methods, and filling that gap from a neighbouring people's practice would be a guess.",
+  "who_says": "this project, following the ethnographic record as cited: Pedersen, Birtalan, Pegg, Shimamura and Purev each write of named peoples and named shamans",
+  "source": "s:wp-ongon",
+  "url": "https://en.wikipedia.org/wiki/Ongon"
+ },
+ "dating": {
+  "period": "18th-century shamaness to the present ethnographic record",
+  "from_year": 1700,
+  "to_year": null,
+  "living": true,
+  "label": "18th century to now",
+  "method": "ethnographic",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-ongon",
+  "note": "The earliest dated person in the source is the Darkhad shamaness Agaaryn Khairhan, who lived on the mountain that carries her name in the eighteenth century. That is the bar used. It dates the record, not the practice, which the sources read do not date at all."
+ },
+ "object": {
+  "form": "figurine",
+  "materials": ["wood", "iron", "cloth"],
+  "worn": ["wall", "field", "hearth"],
+  "made_by": "a shaman; consecrated to a particular dead shaman within three years of the death",
+  "single_use": false,
+  "source": "s:wp-ongon",
+  "note": "Materials are taken from the one object described closely in the source — Yamaan's drum-handle figure, carved, with wire arms and suspended holbogo. They are that object's, not a general specification, and no measurement is published."
+ },
+ "against": [
+  {"harm": "spirits", "who": "Mongolian shamanic practice, in which the made ongon plays a central part in the ritual that invokes the protection of the spirit", "source": "s:wp-ongon", "tier": "cited"},
+  {"harm": "the-dead", "who": "the practice of consecrating an idol to a dead shaman within three years of the death", "source": "s:wp-ongon", "tier": "cited", "note": "the relation here is contact and continuation rather than defence; the source frames the black shaman's work as bringing people into contact with the ongon"},
+  {"harm": "house", "who": "Darkhad households, many of which own lineage talismans (yazguur ongod) or household talismans (geriin ongod) that both contain and attract spirits", "source": "s:wp-ongon", "tier": "cited"}
+ ],
+ "kin": [
+  {"to": "toli-mirror", "as": "the other object on the same shaman's body — the mirror worn as armour, where this one holds an ancestor", "rel": "kin"},
+  {"to": "nkisi", "as": "the Kongo parallel: an object a specialist assembles so that a spirit will live in it and work through it", "rel": "parallel"},
+  {"to": "tupilaq", "as": "the Arctic made figure with a spirit put into it, and the other place this atlas has to name a people rather than a region", "rel": "parallel"},
+  {"to": "inuit-amulet", "as": "the neighbouring northern practice, recorded people by people in the same way", "rel": "parallel"},
+  {"to": "tibetan-protection", "as": "what stands on the other side of the line the ongod cluster along — the steppe is Buddhist ground where the taiga is shamanic", "rel": "contrast"},
+  {"to": "consecration", "as": "the step that makes an idol an ongon, done within three years of a shaman's death", "rel": "practice"},
+  {"to": "inheriting", "as": "how a yazguur ongon moves — down a lineage, with the house", "rel": "practice"},
+  {"to": "gau-box", "as": "the Buddhist container that shares Mongolia with it, filled by a lama rather than by a shaman", "rel": "contrast"}
+ ],
+ "links": [{"label": "Ongon — Wikipedia", "url": "https://en.wikipedia.org/wiki/Ongon"}],
+ "sources": ["s:wp-ongon", "s:wp-shamanism-in-siberia", "s:wp-toli-shamanism"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-ongon"},
+  "fields": {
+   "text.today": {"tier": "cited", "source": "s:wp-ongon", "note": "the named studies are those the source lists in its bibliography; this project has read the source, not the monographs"},
+   "restricted": {"tier": "inference", "note": "the restraint is this project's, taken from the shape of the ethnographic record rather than from a stated prohibition"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Ongon.jpg"],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

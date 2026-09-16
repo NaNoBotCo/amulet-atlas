@@ -1,0 +1,168 @@
+{
+ "id": "cowrie",
+ "names": {
+  "name": "Cowrie",
+  "native": "कौड़ी",
+  "script": "Devanagari",
+  "lang": "hi",
+  "said": "KOW-ree",
+  "aliases": [
+   "cowry",
+   "kaudi",
+   "buzios",
+   "miigis",
+   "money cowrie"
+  ]
+ },
+ "etymology": {
+  "root": "Hindi kaudi, from Sanskrit kaparda",
+  "note": "Italian porcellana, the old name for the shell, gave English porcelain, for the resemblance of the glaze to the shell's surface.",
+  "tier": "cited",
+  "source": "s:wp-cowrie"
+ },
+ "region": [
+  "west-africa",
+  "south-asia",
+  "china",
+  "north-america",
+  "brazil",
+  "pacific",
+  "ancient-egypt",
+  "levant"
+ ],
+ "countries": [
+  "MV",
+  "IN",
+  "LK",
+  "NG",
+  "BJ",
+  "GH",
+  "CA",
+  "US",
+  "BR",
+  "FJ",
+  "EG",
+  "CN",
+  "KE",
+  "SL"
+ ],
+ "facets": {
+  "kind": "organic"
+ },
+ "text": {
+  "what": "The shell of a sea snail of the family Cypraeidae: egg-shaped, glossy as glazed porcelain, with a long toothed slit down the flat underside. Species run from 5 mm to 19 cm. The shells used as money and as charms come mostly from the Indian Ocean — collected around the Maldives, Sri Lanka, the Malabar coast, Borneo, Maluku, Papua New Guinea, and along the African coast from Ras Hafun in Somalia to Mozambique.",
+  "story": "No other amulet material in this atlas was also the currency. Cowries were the most widely used shell money in the world. The Chinese character for money, 貝, began as a stylised drawing of a Maldivian cowrie, and words for money, property and wealth take it as their radical; shells or copies of them circulated in China from more than three thousand years ago. After the 1500s the shell's monetary use widened sharply: European traders, chiefly through the slave trade, moved enormous numbers of Maldivian cowries into Africa. Between 1500 and 1875 at least 30 billion cowries were imported into the Bight of Benin, accounting for 44% of the total value of trade; the shell money literature puts profits on the traffic as high as 500%, and the resulting inflation damaged local economies. In parts of British West Africa cowries were accepted for tax until the early twentieth century, and Ghana named its currency, the cedi, after them in 1965.\n\nThe ritual record is just as wide. Cowries are used in divination among the Yoruba, and in Brazil, carried there by the Atlantic slave trade, buzios are thrown to consult the Orixas. The Kaniyar Panicker astrologers of Kerala used them for divination. In West Bengal a cowrie is given as the token fare for the departed soul's ferry across the Vaitarani, and shells are used at cremations and in the worship of Lakshmi. The Ojibwe use cowrie shells, miigis or whiteshells, in Midewiwin ceremonies, and Whiteshell Provincial Park in Manitoba is named for them; how shells from that far away came to be that far inland is an open question, with oral accounts and birch bark scrolls describing them as found in the ground or washed up on lakeshores. This atlas prints what the published accounts say about Midewiwin and stops there.\n\nIn parts of Africa cowries were prized charms and were said to be associated with fecundity, sexual pleasure and good luck; in Mende and Kikuyu usage the shell stands for womanhood, fertility, birth and wealth. One modern ethnographic writer reads the underside as a vulva or an eye. On Fiji a drilled golden cowrie was worn on a string at the neck by chiefs as a badge of rank.\n\nThe shell is also old in graves. In predynastic Egypt and the Neolithic southern Levant, cowries were placed in the burials of young girls, modified and arranged around the skull; by the Bronze Age they are commoner as funerary goods, with women and children. Egypt then made the cowroid — a seal amulet imitating the shell — and copies in stone and faience appear from the early second millennium BCE.",
+  "today": "Still strung, still sold, still thrown for divination on three continents. The cowrie is also the material in this atlas with the heaviest history attached to its supply: the same shell that a West African household kept as a charm arrived, in the millions, on ships in the trade in people."
+ },
+ "dating": {
+  "period": "Predynastic Egypt to the present",
+  "from_year": -3999,
+  "to_year": null,
+  "living": true,
+  "label": "c. 4000 BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-cowrie",
+  "note": "Dated from cowries placed in the graves of young girls in predynastic Egypt and the Neolithic southern Levant. The imitations in stone and faience are dated separately to the early second millennium BCE."
+ },
+ "against": [
+  {
+   "harm": "infertility",
+   "who": "users in parts of Africa, where cowries were prized charms associated with fecundity",
+   "source": "s:wp-cowrie",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "the same accounts, which name good luck alongside fertility",
+   "source": "s:wp-cowrie",
+   "tier": "cited"
+  },
+  {
+   "harm": "the-dead",
+   "who": "predynastic Egyptian and Neolithic Levantine burial practice, and the Bengali ferry-fare for the departed soul",
+   "source": "s:wp-cowrie",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "cowrie-strand",
+   "as": "the strung form of this shell, and the amulet most of the world means when it says cowrie",
+   "rel": "carried-by"
+  },
+  {
+   "to": "scarab",
+   "as": "the cowroid is the Egyptian seal amulet that copies this shell, cut the way a scarab is cut",
+   "rel": "parallel"
+  },
+  {
+   "to": "faience",
+   "as": "the paste Egypt used to counterfeit the shell once the shell itself was scarce",
+   "rel": "material"
+  },
+  {
+   "to": "west-african-charm-craft",
+   "as": "the tradition where this shell is charm, currency and divining instrument at once",
+   "rel": "tradition"
+  },
+  {
+   "to": "akodessewa-market",
+   "as": "a West African market where shells and animal parts are sold for exactly these uses",
+   "rel": "place"
+  },
+  {
+   "to": "grave-deposit",
+   "as": "the practice that puts cowries around a girl's skull, and the reason we have any from 4000 BCE",
+   "rel": "practice"
+  },
+  {
+   "to": "gris-gris",
+   "as": "the West African charm packet whose contents and whose route out of Africa run alongside this shell's",
+   "rel": "kin"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read for a material whose supply history is the Atlantic slave trade",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Cowrie — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cowrie"
+  },
+  {
+   "label": "Shell money — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shell_money"
+  }
+ ],
+ "sources": [
+  "s:wp-cowrie",
+  "s:wp-shell-money",
+  "s:wp-ojibwe"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-cowrie"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-shell-money",
+    "note": "the trade figures are from the shell money article and are quoted as published"
+   }
+  }
+ },
+ "x_commons_files": [
+  "File:Monetaria moneta.jpg",
+  "File:Cowrie shells.jpg"
+ ],
+ "confidence": "high",
+ "schema": 1,
+ "type": "material",
+ "images": [],
+ "updated": "2026-09-16"
+}

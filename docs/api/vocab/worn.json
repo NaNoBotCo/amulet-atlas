@@ -1,0 +1,154 @@
+{
+ "note": "Where the thing goes. Half the meaning of a charm is its position — this is what /wear/ is drawn from.",
+ "entries": [
+  {
+   "key": "head",
+   "label": "On the head",
+   "group": "body"
+  },
+  {
+   "key": "hair",
+   "label": "In the hair",
+   "group": "body"
+  },
+  {
+   "key": "ear",
+   "label": "In the ear",
+   "group": "body"
+  },
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "chest",
+   "label": "On the chest, under the shirt",
+   "group": "body"
+  },
+  {
+   "key": "upper-arm",
+   "label": "On the upper arm",
+   "group": "body"
+  },
+  {
+   "key": "wrist",
+   "label": "On the wrist",
+   "group": "body"
+  },
+  {
+   "key": "finger",
+   "label": "On a finger",
+   "group": "body"
+  },
+  {
+   "key": "waist",
+   "label": "At the waist",
+   "group": "body"
+  },
+  {
+   "key": "ankle",
+   "label": "At the ankle",
+   "group": "body"
+  },
+  {
+   "key": "skin",
+   "label": "In the skin",
+   "group": "body",
+   "note": "tattooed"
+  },
+  {
+   "key": "sewn-in",
+   "label": "Sewn into clothing",
+   "group": "carried"
+  },
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  },
+  {
+   "key": "wallet",
+   "label": "In a wallet",
+   "group": "carried"
+  },
+  {
+   "key": "phone",
+   "label": "On a phone",
+   "group": "carried"
+  },
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  },
+  {
+   "key": "lintel",
+   "label": "Above the lintel",
+   "group": "placed"
+  },
+  {
+   "key": "roof",
+   "label": "On the roof",
+   "group": "placed"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "foundation",
+   "label": "In the foundations",
+   "group": "placed"
+  },
+  {
+   "key": "hearth",
+   "label": "At the hearth",
+   "group": "placed"
+  },
+  {
+   "key": "shop",
+   "label": "At the till",
+   "group": "placed"
+  },
+  {
+   "key": "vehicle",
+   "label": "In a vehicle",
+   "group": "placed"
+  },
+  {
+   "key": "boat",
+   "label": "On a boat",
+   "group": "placed"
+  },
+  {
+   "key": "field",
+   "label": "In a field",
+   "group": "placed"
+  },
+  {
+   "key": "cradle",
+   "label": "On a cradle",
+   "group": "placed"
+  },
+  {
+   "key": "grave",
+   "label": "In the grave",
+   "group": "placed",
+   "note": "most surviving ancient amulets are here because somebody was buried in them"
+  },
+  {
+   "key": "swallowed",
+   "label": "Swallowed or drunk",
+   "group": "taken",
+   "note": "washed-off ink, dissolved paper"
+  },
+  {
+   "key": "burnt",
+   "label": "Burnt",
+   "group": "taken"
+  }
+ ]
+}

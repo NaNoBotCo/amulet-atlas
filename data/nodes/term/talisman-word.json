@@ -1,0 +1,124 @@
+{
+ "schema": 1,
+ "id": "talisman-word",
+ "type": "term",
+ "names": {
+  "name": "talisman",
+  "native": "طِلَسْم",
+  "script": "Arabic",
+  "lang": "ar",
+  "said": "TAL-iz-man; Arabic ṭilsam",
+  "aliases": [
+   "ṭilsam",
+   "ṭalāsim",
+   "telesma"
+  ]
+ },
+ "etymology": {
+  "root": "Greek teleō 'I complete, perform a rite' (from telos 'end, fulfilment') > Byzantine Greek telesma 'completion, religious rite, payment' > Arabic ṭilsam (طِلَسْم, plural ṭalāsim) > French talisman > English talisman",
+  "first_attested": "1630s in English, for a magical figure cut or engraved on stone or metal under certain observances (Online Etymology Dictionary)",
+  "note": "A figurative sense — any means of attaining extraordinary results — follows by 1784. The Arabic word was also taken into Turkish, Persian and Hindi, so a reader meets it again in each of those languages before it ever reached English.",
+  "tier": "cited",
+  "source": "s:web-etymonline-talisman"
+ },
+ "region": [
+  "greece-aegean",
+  "arabia-gulf",
+  "western-europe",
+  "world"
+ ],
+ "countries": [
+  "GB",
+  "US",
+  "FR",
+  "EG",
+  "TR",
+  "IR"
+ ],
+ "facets": {
+  "language": [
+   "English",
+   "Arabic",
+   "Greek",
+   "French"
+  ]
+ },
+ "text": {
+  "what": "The word for a made object whose power the maker claims to have put in it. Where amulet turns harm away, talisman brings fortune in — that is the split most English writers use, and Wikipedia's talisman article states it as the key difference. Its amulet article, one click away, says the two have interchangeable meanings. Both are in print. The Arabic ṭilsam behind the English word carries something the English lost: a sense of manufacture under conditions, made at a particular hour for a particular end.",
+  "story": "The root is a verb about finishing a rite. Greek teleō, 'I complete, perform a rite'; telesma, the completion or the payment. Arabic took it as ṭilsam, French took it from Arabic, English took it from French in the 1630s.\n\nWhat the Arabic word names is a craft with a timetable. The tenth-century Abbasid mathematician Thabit ibn Qurra was held to be the expert; in one of his texts on talismans he wrote, 'The noblest part of astronomy is the science of talismans.' In John of Seville and Limia's twelfth-century version of ibn Qurra's De imaginibus, talismans and astronomy matter more to wisdom than geometry or philosophy do. Adelard of Bath's translation of the same text insists on knowledge of both astronomy and astrology, because a talisman has to be made at the moment of an auspicious celestial event — and because, in that text, a maker who is distracted or in doubt produces a powerless one.\n\nThe instructions are specific about material. Adelard's translation specifies lead, iron, bronze, gold or silver for a talisman meant to earn love from a king, a family member or a peer; pitch and tar, bitumen and aloes for one meant to set people against each other, take money, defend or destroy a place, or win a legal case.\n\n*Inference —* the English word kept the object and dropped the clock. A modern English speaker who calls a lucky coin a talisman is using a word that once meant a thing timed to a sky."
+ },
+ "dating": {
+  "from_year": 1630,
+  "to_year": null,
+  "living": true,
+  "label": "in English from the 1630s",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:web-etymonline-talisman"
+ },
+ "kin": [
+  {
+   "to": "amulet-word",
+   "as": "the word it is set against — fortune in, harm away — by writers who split them at all",
+   "rel": "contrast"
+  },
+  {
+   "to": "taweez-word",
+   "as": "the Arabic word for the worn object, where this one is the Arabic word for the made figure",
+   "rel": "contrast"
+  },
+  {
+   "to": "islamic-talismanic",
+   "as": "the tradition whose own vocabulary this word was lifted out of",
+   "rel": "tradition"
+  },
+  {
+   "to": "magical-gem",
+   "as": "exactly the thing the 1630s English sense named: a figure cut in stone under stated observances",
+   "rel": "term"
+  },
+  {
+   "to": "talismanic-shirt",
+   "as": "the largest object the word covers — a garment written all over and worn under armour",
+   "rel": "term"
+  },
+  {
+   "to": "yantra-word",
+   "as": "the Sanskrit parallel: another word meaning an instrument built to do work, later meaning a drawn figure",
+   "rel": "parallel"
+  },
+  {
+   "to": "amulet-or-talisman",
+   "as": "the long read on this pair of words and the museum labels that pick between them",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Talisman — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Talisman"
+  }
+ ],
+ "sources": [
+  "s:wp-talisman",
+  "s:wp-amulet",
+  "s:web-etymonline-talisman",
+  "s:wp-islam-and-magic"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-talisman"
+  },
+  "fields": {
+   "etymology": {
+    "tier": "cited",
+    "source": "s:web-etymonline-talisman"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

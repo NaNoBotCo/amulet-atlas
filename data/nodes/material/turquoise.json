@@ -1,0 +1,148 @@
+{
+ "id": "turquoise",
+ "names": {
+  "name": "Turquoise",
+  "native": "فیروزه",
+  "script": "Arabic",
+  "lang": "fa",
+  "said": "firuzeh in Persian; chalchihuitl in Nahuatl",
+  "aliases": [
+   "firuzeh",
+   "pirozah",
+   "chalchihuitl",
+   "callais"
+  ]
+ },
+ "etymology": {
+  "root": "Old French turquois, 'Turkish', because the stone reached Europe through the Ottoman Empire from Khorasan in Iran",
+  "note": "A misnomer, as the mineral is Persian and is not found in Turkey. Persian speakers called it pirozah, 'victory', which became Arabic fayruzah and modern Persian firuzeh. Pliny the Elder called it callais; the Aztecs called it chalchihuitl.",
+  "folk": "The English name says the stone is Turkish. It is not; it only passed through.",
+  "tier": "cited",
+  "source": "s:wp-turquoise"
+ },
+ "region": [
+  "iran-persia",
+  "ancient-egypt",
+  "mesoamerica",
+  "north-america",
+  "himalaya-tibet",
+  "china",
+  "mongolia-steppe"
+ ],
+ "countries": [
+  "IR",
+  "EG",
+  "MX",
+  "US",
+  "CN",
+  "MN",
+  "GR"
+ ],
+ "facets": {
+  "kind": "stone"
+ },
+ "text": {
+  "what": "A hydrous phosphate of copper and aluminium, opaque, sky-blue where copper dominates and green where iron replaces it. It is soft for a gemstone — just under 6 on the Mohs scale, about the hardness of window glass — and porous, so it takes colour and oil from whatever touches it. It almost never forms crystals; it fills veins and fractures, or replaces a fossil.",
+  "story": "The claim made for turquoise almost everywhere it is worn is the same one, and it is unusual: the stone reports. Writers on the ancient cultures that used it — Egypt, the Aztecs, Persia, Mesopotamia, the Indus Valley, Shang China — record a common belief that turquoise held prophylactic qualities, that it changed colour with the wearer's health, and that it protected the wearer from untoward forces. A porous stone that darkens with skin oil and sunlight will in fact change, which is a rare case of a claim and a material property lining up.\n\nIn Iran it was the national stone for millennia, worked into everything from turbans to bridles, and used on domes because its blue stood for heaven on earth. Persian turquoise was often engraved with devotional words in Arabic script and the letters inlaid with gold. The Persian style went to India with the Mughals.\n\nIn Mesoamerica the Aztecs took turquoise as an embodiment of fire and gave it properties of heat and smokiness, inlaying it with gold, quartz, malachite, jet, jade, coral and shell into mosaic masks, some built on a human skull, and into knives and shields, bedded in resin, bitumen and wax. In the North American Southwest the Pueblo, Navajo and Apache prized it for amuletic use; Apache tradition holds that the stone gives an archer dead aim, and in Navajo use it is described as \"a spiritual protection and blessing\". Writers on the stone credit the Ancestral Puebloans of Chaco Canyon and the surrounding region with prospering greatly on producing and trading it.\n\nEgypt mined it in Sinai and then imitated it: the blue-green glaze on faience exists in order to look like this stone and like lapis lazuli.",
+  "today": "Tibetan and Mongolian silver and gold work still sets imported turquoise beside coral, with a greener hue preferred. Writers on the stone report both halves of the present trade without settling it: most pieces made today are roughly polished cabochons set simply in silver, meant for inexpensive export to Western markets, and are probably not accurate representations of the original style. The stone has also been devalued in finer grades by treatments, imitations and synthetics. Mining boomed and broke: prices peaked in 1890 and had collapsed by 1912, ending large-scale operations."
+ },
+ "dating": {
+  "period": "Bronze Age to the present",
+  "from_year": -1499,
+  "to_year": null,
+  "living": true,
+  "label": "c. 1500 BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-turquoise",
+  "note": "Dated from turquoise beads and figures found in Greece from the Mycenaean era, 1500 BCE. Egyptian, Chinese and pre-Columbian North American use is also reported, with China given as a source for 3,000 years or more, but without a year this record can anchor to."
+ },
+ "against": [
+  {
+   "harm": "illness",
+   "who": "the several ancient cultures whose common belief held that the stone changed colour with the wearer's health",
+   "source": "s:wp-turquoise",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "Navajo use, described in the sources as spiritual protection and blessing",
+   "source": "s:wp-turquoise",
+   "tier": "cited"
+  },
+  {
+   "harm": "war",
+   "who": "Apache tradition, which holds that the stone affords the archer dead aim",
+   "source": "s:wp-turquoise",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "faience",
+   "as": "the glaze invented to look like this stone, and the reason Egypt could sell the colour without the mine",
+   "rel": "contrast"
+  },
+  {
+   "to": "coral",
+   "as": "its partner in Tibetan and Mongolian silverwork, red against blue on the same setting",
+   "rel": "kin"
+  },
+  {
+   "to": "silver",
+   "as": "the metal it is nearly always set in, from Nishapur to Arizona",
+   "rel": "kin"
+  },
+  {
+   "to": "gau-box",
+   "as": "the Himalayan amulet box this stone is set into, with coral, on silver",
+   "rel": "carried-by"
+  },
+  {
+   "to": "tibetan-protection",
+   "as": "the tradition that imports the stone and prefers the greener grades of it",
+   "rel": "tradition"
+  },
+  {
+   "to": "jet",
+   "as": "one of the materials inlaid beside it in Aztec mosaic masks",
+   "rel": "kin"
+  },
+  {
+   "to": "crystal-pendant",
+   "as": "the present-day trade in treated and synthetic stone, sold on a claim about the substance",
+   "rel": "parallel"
+  },
+  {
+   "to": "the-fake-market",
+   "as": "the long read: this stone has been imitated for so long that grading it is its own profession",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Turquoise — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Turquoise"
+  }
+ ],
+ "sources": [
+  "s:wp-turquoise",
+  "s:wp-egyptian-faience"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-turquoise"
+  }
+ },
+ "x_commons_files": [
+  "File:Turquoise.jpg",
+  "File:Aztec turquoise mosaic mask.jpg"
+ ],
+ "confidence": "high",
+ "schema": 1,
+ "type": "material",
+ "images": [],
+ "updated": "2026-09-16"
+}

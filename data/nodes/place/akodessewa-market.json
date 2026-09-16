@@ -1,0 +1,54 @@
+{
+ "schema": 1,
+ "id": "akodessewa-market",
+ "type": "place",
+ "names": {
+  "name": "Akodessawa fetish market",
+  "native": "Marché des Féticheurs",
+  "script": "Latin",
+  "lang": "fr",
+  "said": "a-ko-des-SA-wa; the French name is mar-SHAY day fay-tee-SHUR",
+  "aliases": ["Akodessewa market", "Marché d'Akodessewa", "Lomé fetish market"]
+ },
+ "region": ["west-africa"],
+ "countries": ["TG"],
+ "facets": {"kind": "market", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A supply market in the Akodessawa district of Lomé, Togo, for the materials used in Vodun practice. The stock is animal: monkey heads, skulls, dried birds, crocodiles, skins. Sellers work from tables, buyers come with a need, and a practitioner puts the material together for them. The encyclopedia calls it \"the world's largest voodoo market\", using a spelling this atlas otherwise keeps out of its own sentences.",
+  "story": "Vodun is long established in Togo, and the route it took is a loop rather than a line. Enslaved people carried Yoruba gods to the Caribbean and South America; there the gods were joined to Catholic saints and church symbols and changed meaning; when freed people and their families came back to West Africa, they built a Vodun practice in the country their families had left.\n\nThe word in the market's French name is the difficult one. A fetish here is comparable to an orisha: it may be a god, or a person, a plant, an animal or a material, depending on the rite and the situation, and in the rite it is activated and strengthened. Some are held to have been particular people.\n\nThis atlas does not print rite detail. What a practitioner does with a material bought at these tables is the practitioner's to publish, and the sources read for this record do not publish it. What is on the record is the trade: a district, a named market, sellers, stock, and customers who come for a specific thing.\n\n*Inference —* the market is photographed more than it is documented. This project found no published price list, no seller interview and no survey it could cite; the record therefore stays with what the encyclopedia states and says plainly that the rest is missing rather than filling it from a travel column.",
+  "today": "In trade, on the published account this project has read. No day is marked open or closed below, and no prices are recorded, because none were read."
+ },
+ "geo": {"lat": 6.157639, "lon": 1.267056, "precision": "street", "source": "Wikidata item Q27030937 (Akodessawa Fetish Market), coordinate location P625, queried 2026-09-16"},
+ "address": {"street": "Akodessawa", "city": "Lomé", "country": "TG"},
+ "restricted": {
+  "note": "What is done with the materials sold here belongs to Vodun practitioners, and the sources read for this record do not publish it. This atlas prints the trade and stops. It does not reconstruct a rite from scattered accounts and does not fill the gap with a neighbouring tradition's practice.",
+  "who_says": "this project's own rule, applied because the published sources read for this record describe the market's stock and not its rites",
+  "source": "s:wp-akodessawa-fetish-market"
+ },
+ "kin": [
+  {"to": "west-african-charm-craft", "as": "the tradition this market supplies materials to", "rel": "tradition"},
+  {"to": "gris-gris", "as": "the West African charm whose name travelled to New Orleans while the practice stayed here", "rel": "carries"},
+  {"to": "nkisi", "as": "the Kongo container-object built from assembled materials — the nearest kin in this atlas to what a practitioner makes from these tables", "rel": "parallel"},
+  {"to": "fetish-word", "as": "the word in this market's own French name, and an argument older than the market", "rel": "same-word"},
+  {"to": "vodou-not-voodoo", "as": "the spelling argument this record runs into in its first sentence, and the reason the two-o form appears here only in quotation marks", "rel": "term"},
+  {"to": "tooth-and-claw", "as": "the sign family most of the stock belongs to, taken from the animal it came from", "rel": "motif"},
+  {"to": "who-owns-a-charm", "as": "the long read this market sits inside: who gets to describe a practice, and in whose words", "rel": "story"}
+ ],
+ "tags": [
+  {"tag": "market", "source": "s:wp-akodessawa-fetish-market", "tier": "cited", "note": "a named market in the Akodessawa district of Lomé selling materials used in Vodun practice"}
+ ],
+ "links": [{"label": "Akodessawa Fetish Market — Wikipedia", "url": "https://en.wikipedia.org/wiki/Akodessawa_Fetish_Market"}],
+ "sources": ["s:wp-akodessawa-fetish-market", "s:wp-west-african-vod-n", "s:wp-fetishism"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-akodessawa-fetish-market"},
+  "fields": {
+   "geo": {"tier": "harvested", "note": "Wikidata P625 for the market, queried 2026-09-16; Lomé is 6 degrees north of the equator, and the latitude is positive"},
+   "text.story": {"tier": "cited", "source": "s:wp-akodessawa-fetish-market", "note": "the gap in the sources is stated as this project's finding and marked as inference where it appears"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Marche des feticheurs Lome Togo.jpg"],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

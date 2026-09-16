@@ -1,0 +1,417 @@
+{
+ "schema": 1,
+ "id": "british-museum-room-1",
+ "type": "place",
+ "names": {
+  "name": "Room 1: Enlightenment, the British Museum",
+  "aliases": [
+   "The Enlightenment Gallery",
+   "The King's Library",
+   "BM Room 1"
+  ],
+  "sort": "British Museum Room 1"
+ },
+ "region": [
+  "britain-ireland",
+  "world"
+ ],
+ "countries": [
+  "GB"
+ ],
+ "facets": {
+  "kind": "gallery",
+  "hemisphere": [
+   "N",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "One long room off the Great Court, lined with tall wall presses and galleried in dark wood. The museum calls it the oldest room in the present building, put up for King George III's library and now holding a permanent display of eighteenth-century collecting. The objects are not grouped by country. They are grouped in seven disciplines an eighteenth-century collector would have recognised — the natural world, the birth of archaeology, art and civilisation, classifying the world, ancient scripts, ritual and religion, trade and discovery — so a Pacific shield, a Sumerian tablet and an astrolabe stand within a few steps of each other.",
+  "story": "This is the room about how the rest of the museum filled up. Sir Hans Sloane's cabinets are here; the museum's own gallery text says his collection, with several additional libraries, became the foundation of the British Museum, established by Act of Parliament on 7 June 1753.\n\nThe museum does not hedge about what else the period was. Its own page for this room says the Enlightenment \"witnessed the aggressive global expansion of European colonialism and the transatlantic slave trade\" and that \"This room's displays reflect the close connection between Enlightenment and empire.\" Under Ritual and religion it writes that \"Christian mistrust of superstition and idols, rituals and magic led to ignorance about other religions\", that scholars set out to dispel that by studying the religions they met, collecting religious artefacts and grouping gods into families — and that \"Much of this activity took place within the context of colonialism.\" Under Trade and discovery it names the East India and Royal Africa Companies, \"whose wealth was made possible through the use of enslaved labour\".\n\nOne object in this room carries a live claim. The museum's catalogue places a bark-and-wood shield, registration number Oc1978,Q.839, on display in Room 1, Trade & Discovery, Wall Press 96; it was donated by the Lords of the Admiralty and first registered and given a Q number in 1978. Rodney Kelly, a Gweagal man from Bermagui, began campaigning for the shield's return after it appeared in the exhibition Encounters at the National Museum of Australia, 27 November 2015 to 28 March 2016, and travelled to Britain three times, once in 2016 and twice in 2017; the chair of the La Perouse Local Aboriginal Land Council, Noeleen Timbery, has backed the return. The British Museum has refused, on the ground that British law does not permit it to hand the object over.\n\nThe identification is itself contested, and the museum says so on its own object page. Its curator's comments open: \"Once thought to have been obtained on Captain Cook's first voyage to the Pacific, when he visited Botany Bay near present day Sydney, New South Wales, in 1770.\" The record now dates the shield \"1771 (or earlier)\" and finds the match with Sydney Parkinson's and John Frederick Miller's drawings only an apparent one. *Inference —* an object whose owner and whose date are both argued over is the right object to meet first in a museum, and this room is where a reader of this atlas should start before walking to the Egyptian cases.",
+  "today": "Open with the rest of the museum, free, and unchanged in layout. The museum's own warning stands beside its hours: \"Occasionally we may need to close galleries at short notice.\" This project has not stood in the room."
+ },
+ "dating": {
+  "period": "Georgian room, present display",
+  "from_year": 1753,
+  "to_year": null,
+  "living": true,
+  "label": "the museum from 1753; this room's display as it now stands",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:web-bm-room-1-enlightenment",
+  "note": "1753 is the founding Act, which the gallery's own text gives as 7 June 1753. This project did not read a date for the present display's installation."
+ },
+ "geo": {
+  "lat": 51.519413,
+  "lon": -0.126957,
+  "precision": "street",
+  "source": "the coordinate published on the British Museum's own Visit page, 51.519413319978, -0.12695659999997, read 2026-09-17; it locates the building, not Room 1 inside it"
+ },
+ "address": {
+  "street": "Great Russell Street",
+  "city": "London",
+  "country": "GB",
+  "postcode": "WC1B 3DG"
+ },
+ "hours": {
+  "open": [
+   "Mo",
+   "Tu",
+   "We",
+   "Th",
+   "Fr",
+   "Sa",
+   "Su"
+  ],
+  "text": "Daily 10.00–17.00; Fridays until 20.30.",
+  "seasonal": "Closed 24–26 December.",
+  "source": "s:web-bm-room-1-enlightenment",
+  "url": "https://www.britishmuseum.org/collection/galleries/enlightenment",
+  "tier": "cited",
+  "checked": "2026-09-17",
+  "note": "The same times are printed on the gallery's own page and on the museum's Visit page. The museum adds that galleries can close at short notice, so a day marked open here is the museum's published timetable and not a guarantee about this room."
+ },
+ "holdings": [
+  {
+   "museum": "british-museum",
+   "what": "Shield of bark and red mangrove wood, found at Botany Bay, displayed in this room at Wall Press 96; the subject of Rodney Kelly's claim",
+   "accession": "Oc1978,Q.839",
+   "url": "https://www.britishmuseum.org/collection/object/E_Oc1978-Q-839",
+   "source": "s:web-bm-shield-oc1978",
+   "open_access": false,
+   "note": "Height 97.3 cm, width 32.3 cm, depth 12 cm, weight 2157 g, as published on the museum's object page."
+  }
+ ],
+ "tags": [
+  {
+   "tag": "free-entry",
+   "source": "s:web-bm-visit",
+   "tier": "cited",
+   "note": "\"Free entry\" on the museum's Visit page; a free timed ticket is recommended in advance",
+   "url": "https://www.britishmuseum.org/visit"
+  },
+  {
+   "tag": "repatriation",
+   "source": "s:web-gweagal-shield-wikipedia",
+   "tier": "cited",
+   "note": "Rodney Kelly's campaign for the return of the Botany Bay shield from 2016, refused by the museum on statutory grounds; the museum's own catalogue places that shield in this room"
+  }
+ ],
+ "kin": [
+  {
+   "to": "british-museum",
+   "as": "the institution this room explains — its founding collection, and the argument it makes about keeping things",
+   "rel": "org"
+  },
+  {
+   "to": "wallis-budge",
+   "as": "the keeper who did the next century's buying; the Egyptian amulets he brought are shown in other rooms, not this one",
+   "rel": "person"
+  },
+  {
+   "to": "met-egyptian-galleries",
+   "as": "the comparison across the Atlantic: rooms that show what was dug, where this one shows who did the collecting",
+   "rel": "contrast"
+  },
+  {
+   "to": "pitt-rivers-charms",
+   "as": "Oxford's answer to the same question — group by what a thing is for, not by which discipline collected it",
+   "rel": "contrast"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read on ownership; Wall Press 96 is where it stops being abstract",
+   "rel": "story"
+  },
+  {
+   "to": "free-to-use",
+   "as": "the long read on licensing; this museum's images can be linked from here and not hosted here",
+   "rel": "story"
+  },
+  {
+   "to": "wikimedia-commons",
+   "as": "the repository that cannot take this room's photographs, because the museum's licence bars commercial use",
+   "rel": "contrast"
+  }
+ ],
+ "links": [
+  {
+   "label": "Enlightenment (Room 1) — British Museum",
+   "url": "https://www.britishmuseum.org/collection/galleries/enlightenment"
+  },
+  {
+   "label": "Visit — British Museum",
+   "url": "https://www.britishmuseum.org/visit"
+  },
+  {
+   "label": "shield, Oc1978,Q.839 — British Museum collection online",
+   "url": "https://www.britishmuseum.org/collection/object/E_Oc1978-Q-839"
+  }
+ ],
+ "sources": [
+  "s:web-bm-room-1-enlightenment",
+  "s:web-bm-visit",
+  "s:web-bm-shield-oc1978",
+  "s:web-gweagal-shield-wikipedia",
+  "s:wp-british-museum"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-bm-room-1-enlightenment"
+  },
+  "fields": {
+   "geo": {
+    "tier": "cited",
+    "source": "s:web-bm-visit",
+    "note": "the museum's own published coordinate for the building, read 2026-09-17; the room is not separately geocoded, so precision is street"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-bm-shield-oc1978",
+    "note": "the display location, the registration number, the donor and the curator's doubt about the Cook attribution come from the museum's own object page; the claim history comes from the Gweagal shield article; the closing sentence is marked as inference where it appears"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:web-bm-visit",
+    "note": "hours and the short-notice closure warning are the museum's own words; nobody from this project has stood in the room"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:British Museum Enlightenment Gallery.jpg",
+  "File:King's Library British Museum.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-17",
+ "blurb": "One long room off the Great Court, lined with tall wall presses and galleried in dark wood.",
+ "region_terms": [
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "world",
+   "name": "Everywhere",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "use for a sign or a practice documented on more than two continents"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "british-museum",
+   "type": "org",
+   "name": "The British Museum",
+   "as": "the institution this room explains — its founding collection, and the argument it makes about keeping things",
+   "rel": "org"
+  },
+  {
+   "to": "wallis-budge",
+   "type": "person",
+   "name": "E. A. Wallis Budge",
+   "as": "the keeper who did the next century's buying; the Egyptian amulets he brought are shown in other rooms, not this one",
+   "rel": "person"
+  },
+  {
+   "to": "met-egyptian-galleries",
+   "type": "place",
+   "name": "The Egyptian galleries, the Metropolitan Museum of Art",
+   "as": "the comparison across the Atlantic: rooms that show what was dug, where this one shows who did the collecting",
+   "rel": "contrast"
+  },
+  {
+   "to": "pitt-rivers-charms",
+   "type": "place",
+   "name": "The amulet and charm cases, Pitt Rivers Museum",
+   "as": "Oxford's answer to the same question — group by what a thing is for, not by which discipline collected it",
+   "rel": "contrast"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read on ownership; Wall Press 96 is where it stops being abstract",
+   "rel": "story"
+  },
+  {
+   "to": "free-to-use",
+   "type": "story",
+   "name": "Free to use",
+   "as": "the long read on licensing; this museum's images can be linked from here and not hosted here",
+   "rel": "story"
+  },
+  {
+   "to": "wikimedia-commons",
+   "type": "org",
+   "name": "Wikimedia Commons",
+   "as": "the repository that cannot take this room's photographs, because the museum's licence bars commercial use",
+   "rel": "contrast"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:web-bm-room-1-enlightenment",
+   "kind": "web",
+   "title": "Enlightenment (Room 1)",
+   "publisher": "The British Museum",
+   "url": "https://www.britishmuseum.org/collection/galleries/enlightenment",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-bm-visit",
+   "kind": "web",
+   "title": "Visit",
+   "publisher": "The British Museum",
+   "url": "https://www.britishmuseum.org/visit",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-bm-shield-oc1978",
+   "kind": "web",
+   "title": "shield, museum number Oc1978,Q.839",
+   "publisher": "The British Museum, collection online",
+   "url": "https://www.britishmuseum.org/collection/object/E_Oc1978-Q-839",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-gweagal-shield-wikipedia",
+   "kind": "web",
+   "title": "Gweagal shield",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gweagal_shield",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:wp-british-museum",
+   "kind": "encyclopedia",
+   "title": "British Museum",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/British_Museum",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:web-bm-room-1-enlightenment"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:web-bm-shield-oc1978",
+   "note": "the display location, the registration number, the donor and the curator's doubt about the Cook attribution come from the museum's own object page; the claim history comes from the Gweagal shield article; the closing sentence is marked as inference where it appears"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:web-bm-visit",
+   "note": "hours and the short-notice closure warning are the museum's own words; nobody from this project has stood in the room"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:web-bm-room-1-enlightenment"
+  },
+  "geo": {
+   "tier": "cited",
+   "source": "s:web-bm-visit",
+   "note": "the museum's own published coordinate for the building, read 2026-09-17; the room is not separately geocoded, so precision is street"
+  },
+  "address": {
+   "tier": "cited",
+   "source": "s:web-bm-room-1-enlightenment"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [
+  {
+   "key": "free-entry",
+   "label": "Free to enter",
+   "group": "visit",
+   "evidence": "the institution's own admissions page",
+   "source": "s:web-bm-visit",
+   "note": "\"Free entry\" on the museum's Visit page; a free timed ticket is recommended in advance",
+   "tier": "cited",
+   "url": "https://www.britishmuseum.org/visit"
+  },
+  {
+   "key": "repatriation",
+   "label": "Repatriation under way",
+   "group": "collection",
+   "evidence": "a published claim, agreement or return, named and dated",
+   "source": "s:web-gweagal-shield-wikipedia",
+   "note": "Rodney Kelly's campaign for the return of the Botany Bay shield from 2016, refused by the museum on statutory grounds; the museum's own catalogue places that shield in this room",
+   "tier": "cited",
+   "url": ""
+  }
+ ],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [
+  {
+   "key": "british-museum",
+   "label": "The British Museum",
+   "city": "London",
+   "country": "GB",
+   "url": "https://www.britishmuseum.org/collection/object/E_Oc1978-Q-839",
+   "what": "Shield of bark and red mangrove wood, found at Botany Bay, displayed in this room at Wall Press 96; the subject of Rodney Kelly's claim",
+   "accession": "Oc1978,Q.839",
+   "source": "s:web-bm-shield-oc1978"
+  }
+ ],
+ "span": "1753 CE to now",
+ "country_names": [
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "foundation-deposit",
+   "type": "practice",
+   "name": "Foundation deposit",
+   "as": "where deposits meant never to be seen are now on shelves",
+   "rel": "held-at"
+  },
+  {
+   "from": "met-egyptian-galleries",
+   "type": "place",
+   "name": "The Egyptian galleries, the Metropolitan Museum of Art",
+   "as": "the comparison in London: a room about the collectors, where these are rooms about the dig",
+   "rel": "contrast"
+  },
+  {
+   "from": "te-papa-taonga",
+   "type": "place",
+   "name": "Mana Whenua, Te Papa",
+   "as": "the other side of the same argument: a London room that keeps what it holds, where this one gave a meeting house's title back",
+   "rel": "contrast"
+  },
+  {
+   "from": "british-museum",
+   "type": "org",
+   "name": "The British Museum",
+   "as": "the room inside it this atlas sends a reader to",
+   "rel": "place"
+  }
+ ]
+}

@@ -1,0 +1,383 @@
+{
+ "schema": 1,
+ "id": "toli-mirror",
+ "type": "amulet",
+ "names": {
+  "name": "Toli",
+  "native": "толь",
+  "script": "Cyrillic",
+  "lang": "mn",
+  "said": "TOL-ee",
+  "aliases": [
+   "toli mirror",
+   "neker-toli",
+   "shaman's mirror"
+  ]
+ },
+ "region": [
+  "mongolia-steppe",
+  "siberia-arctic",
+  "china"
+ ],
+ "countries": [
+  "MN",
+  "RU",
+  "CN"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "limited",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A metal disc, brass, copper or bronze, ornamented on one face and polished on the other, worn on a shaman's body. Small ones are sewn onto the deel or the apron in quantity, laid like overlapping scales; large ones hang at the neck and over the chest. Worn together they are armour, and they are described that way.",
+  "story": "The counts are recorded people by people, and this record keeps them apart. Among the Daur, small toli were set on the costume like overlapping scales, with eight large mirrors and one medium one to protect the heart — the neker-toli, which might be plated in nickel. In Hure Banner, shamans wore nine mirrors, and nine is a number of particular weight in Mongolian religion and mythology. The practice is also recorded among the Buryats in the Republic of Buryatia and among the Tsaatan in Mongolia.\n\nWalther Heissig, documenting shamans in Hure Banner in the 1940s, recorded that the toli held the white horses of the shamans and served as a vehicle for the shaman.\n\nWhat the mirrors are said to do beyond armour: purify and empower water or vodka; collect and trap hostile spirits; give helper spirits somewhere to live. In Mongolia they are described as vessels for the shaman's spiritual power, the wind horse, and as collecting and storing the power of blessings. A toli also says what its wearer is — the mirrors signify the shaman's authority and role, and how many of them there are is read as a measure of standing.\n\n*Inference —* a polished disc worn at the chest does two jobs at once that this atlas usually finds split between two objects: it faces outward like a door charm and it is worn like a pendant. The Chinese bagua mirror does the first from a wall. This one walks.",
+  "how": "Worn on the costume and at the neck, in numbers. The sources read describe what the mirrors are and what they are for, and do not publish how one is made, charged or passed on; this record stops where they stop and does not borrow a procedure from a neighbouring people.",
+  "today": "Still worn by practising shamans in Mongolia, Buryatia and among the Daur, as the published ethnography describes them; the atlas has not read a survey dated to 2026 and does not claim numbers. Bronze mirrors of this kind also circulate as collectibles, which is a different object with the same shape."
+ },
+ "restricted": {
+  "note": "This record names the people each detail is recorded among — Daur, Hure Banner shamans, Buryats, Tsaatan — and does not generalise across them or to Siberia at large. It prints no making, charging or transmission of a toli, because the sources read describe the object and its use and publish no procedure.",
+  "who_says": "this project, following an ethnographic record that is itself people-by-people: Walther Heissig for Hure Banner in the 1940s, and the Daur, Buryat and Tsaatan material cited in the Toli article",
+  "source": "s:wp-toli-shamanism",
+  "url": "https://en.wikipedia.org/wiki/Toli_(shamanism)"
+ },
+ "dating": {
+  "period": "recorded in 20th-century ethnography; worn now",
+  "from_year": 1940,
+  "to_year": null,
+  "living": true,
+  "label": "1940s record to now",
+  "method": "ethnographic",
+  "tier": "cited",
+  "source": "s:wp-toli-shamanism",
+  "note": "1940 is the decade of Heissig's documentation in Hure Banner, which is the earliest dated observation in the source. Metal mirrors on shamans' costumes are older than that; the source read does not date the practice, so this bar dates the record."
+ },
+ "object": {
+  "form": "mirror",
+  "materials": [
+   "brass",
+   "copper"
+  ],
+  "worn": [
+   "neck",
+   "chest"
+  ],
+  "made_by": "not published in the sources read",
+  "count": 9,
+  "colour": [
+   "metal"
+  ],
+  "single_use": false,
+  "source": "s:wp-toli-shamanism",
+  "note": "Bronze is the third metal named and has no key in this atlas's materials list. The count of nine is the Hure Banner practice; the Daur wore eight large mirrors and one medium heart mirror, the neker-toli, plus small ones across the costume. No measurement is published in the source read."
+ },
+ "against": [
+  {
+   "harm": "spirits",
+   "who": "the account of the mirrors as ritual armour, which has them ward off harmful or attacking spirits and collect and trap hostile ones",
+   "source": "s:wp-toli-shamanism",
+   "tier": "cited",
+   "note": "the same account has them house helper spirits, so the mirror both repels and shelters, depending on whose spirit it is"
+  }
+ ],
+ "kin": [
+  {
+   "to": "mirror-sign",
+   "as": "the sign it is — a polished surface that sends a thing back, worn instead of hung",
+   "rel": "motif"
+  },
+  {
+   "to": "ongon",
+   "as": "the other object in the same shaman's kit: the ongon holds an ancestor, the toli holds power and turns spirits away",
+   "rel": "kin"
+  },
+  {
+   "to": "bagua-mirror",
+   "as": "the Chinese neighbour doing the same optical job from a doorway, on a building rather than on a body",
+   "rel": "parallel"
+  },
+  {
+   "to": "lungta-flag",
+   "as": "the other thing in this region called wind horse — there a printed flag left to the wind, here the power a mirror is said to hold",
+   "rel": "kin"
+  },
+  {
+   "to": "tibetan-protection",
+   "as": "the Buddhist practice that shares the same territory, and sometimes the same households",
+   "rel": "contrast"
+  },
+  {
+   "to": "wearing-hidden",
+   "as": "the opposite rule: a toli is worn to be seen and to catch the light, where most of this atlas's charms are worn out of sight",
+   "rel": "contrast"
+  },
+  {
+   "to": "gorgoneion",
+   "as": "the far-off parallel — a disc worn on the chest as armour, meant for whatever is looking",
+   "rel": "parallel"
+  }
+ ],
+ "links": [
+  {
+   "label": "Toli (shamanism) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Toli_(shamanism)"
+  }
+ ],
+ "sources": [
+  "s:wp-toli-shamanism",
+  "s:wp-ongon",
+  "s:wp-shamanism-in-siberia"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-toli-shamanism"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-toli-shamanism",
+    "note": "the closing comparison is marked as this project's inference where it appears"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "no dated 2026 observation was read; the record says so rather than claiming one"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Shaman mirror toli.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A metal disc, brass, copper or bronze, ornamented on one face and polished on the other, worn on a shaman's body.",
+ "region_terms": [
+  {
+   "key": "mongolia-steppe",
+   "name": "Mongolia and the steppe",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "siberia-arctic",
+   "name": "Siberia and the Arctic",
+   "hemi": [
+    "N",
+    "E",
+    "W"
+   ]
+  },
+  {
+   "key": "china",
+   "name": "China",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "mirror-sign",
+   "type": "motif",
+   "name": "The mirror",
+   "as": "the sign it is — a polished surface that sends a thing back, worn instead of hung",
+   "rel": "motif"
+  },
+  {
+   "to": "ongon",
+   "type": "amulet",
+   "name": "Ongon",
+   "as": "the other object in the same shaman's kit: the ongon holds an ancestor, the toli holds power and turns spirits away",
+   "rel": "kin"
+  },
+  {
+   "to": "bagua-mirror",
+   "type": "amulet",
+   "name": "Bagua mirror",
+   "as": "the Chinese neighbour doing the same optical job from a doorway, on a building rather than on a body",
+   "rel": "parallel"
+  },
+  {
+   "to": "lungta-flag",
+   "type": "amulet",
+   "name": "Lung ta prayer flag",
+   "as": "the other thing in this region called wind horse — there a printed flag left to the wind, here the power a mirror is said to hold",
+   "rel": "kin"
+  },
+  {
+   "to": "tibetan-protection",
+   "type": "tradition",
+   "name": "Tibetan protection craft",
+   "as": "the Buddhist practice that shares the same territory, and sometimes the same households",
+   "rel": "contrast"
+  },
+  {
+   "to": "wearing-hidden",
+   "type": "practice",
+   "name": "Wearing hidden",
+   "as": "the opposite rule: a toli is worn to be seen and to catch the light, where most of this atlas's charms are worn out of sight",
+   "rel": "contrast"
+  },
+  {
+   "to": "gorgoneion",
+   "type": "amulet",
+   "name": "Gorgoneion",
+   "as": "the far-off parallel — a disc worn on the chest as armour, meant for whatever is looking",
+   "rel": "parallel"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-toli-shamanism",
+   "kind": "encyclopedia",
+   "title": "Toli (shamanism)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Toli_(shamanism)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ongon",
+   "kind": "encyclopedia",
+   "title": "Ongon",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ongon",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-shamanism-in-siberia",
+   "kind": "encyclopedia",
+   "title": "Shamanism in Siberia",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shamanism_in_Siberia",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-toli-shamanism"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-toli-shamanism",
+   "note": "the closing comparison is marked as this project's inference where it appears"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-toli-shamanism"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "no dated 2026 observation was read; the record says so rather than claiming one"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-toli-shamanism"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-toli-shamanism"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "the account of the mirrors as ritual armour, which has them ward off harmful or attacking spirits and collect and trap hostile ones",
+   "quote": "",
+   "source": "s:wp-toli-shamanism",
+   "tier": "cited",
+   "note": "the same account has them house helper spirits, so the mirror both repels and shelters, depending on whose spirit it is"
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "brass",
+   "label": "Brass",
+   "kind": "metal"
+  },
+  {
+   "key": "copper",
+   "label": "Copper and bronze",
+   "kind": "metal"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "chest",
+   "label": "On the chest, under the shirt",
+   "group": "body"
+  }
+ ],
+ "form_fact": {
+  "key": "mirror",
+  "label": "Mirror"
+ },
+ "holding_facts": [],
+ "span": "1940 CE to now",
+ "country_names": [
+  {
+   "iso": "MN",
+   "name": "Mongolia"
+  },
+  {
+   "iso": "RU",
+   "name": "Russia"
+  },
+  {
+   "iso": "CN",
+   "name": "China"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "bagua-mirror",
+   "type": "amulet",
+   "name": "Bagua mirror",
+   "as": "the steppe cousin — a metal mirror worn on a shaman's body as armour, where this one is bolted to a building",
+   "rel": "parallel"
+  },
+  {
+   "from": "ongon",
+   "type": "amulet",
+   "name": "Ongon",
+   "as": "the other object on the same shaman's body — the mirror worn as armour, where this one holds an ancestor",
+   "rel": "kin"
+  },
+  {
+   "from": "mirror-sign",
+   "type": "motif",
+   "name": "The mirror",
+   "as": "the Mongolian and Buryat shaman's mirror, worn on the body rather than fixed to a building",
+   "rel": "carried-by"
+  }
+ ]
+}

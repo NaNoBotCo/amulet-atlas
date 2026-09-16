@@ -1,0 +1,120 @@
+{
+ "schema": 1,
+ "id": "ward-word",
+ "type": "term",
+ "names": {
+  "name": "ward",
+  "said": "ward",
+  "aliases": [
+   "ward off",
+   "weard",
+   "weardian"
+  ]
+ },
+ "etymology": {
+  "root": "Proto-Germanic *wardōną 'to guard' > Old English weardian 'to watch, guard, keep, protect' (noun weard 'watching, ward, protection, guardianship') > Middle English warden > English ward; English guard is the same word returned through Old French",
+  "first_attested": "",
+  "note": "Wiktionary marks ward and guard as doublets and glosses the transitive verb 'To fend off, to repel, to turn aside', usually with off. No dated first attestation is given there, so none is claimed here.",
+  "tier": "cited",
+  "source": "s:web-wiktionary-ward"
+ },
+ "region": [
+  "britain-ireland",
+  "western-europe",
+  "north-america"
+ ],
+ "countries": [
+  "GB",
+  "IE",
+  "US",
+  "CA",
+  "AU",
+  "NZ",
+  "FR"
+ ],
+ "facets": {
+  "language": [
+   "English",
+   "Old English"
+  ]
+ },
+ "text": {
+  "what": "The English verb for what the carriers of every object in this atlas say it does. Ward off: fend off, repel, turn aside. It is the plainest word available for the job, it is older in English than amulet or talisman, and it has no scholarly air at all — which is why the adjective apotropaic, whose Greek verb means exactly this, is the one that ended up on museum labels.",
+  "story": "Old English weardian is to watch, to guard, to keep, to protect; the noun weard is the watching itself. The Norman conquest sent the same Germanic root back across the Channel and returned it as guard, so English carries the word twice, once early and Germanic and once late and French, and uses the two for different registers.\n\nThe noun went somewhere the verb did not. In law a ward is not the thing that protects but the person protected: a minor or an incapacitated adult placed under a guardian or a court. That sense runs out of feudal wardship, where custody of a minor heir's lands, of the heir, and of the heir's choice of marriage partner were rights that got sold to the highest bidder or granted as a favour. Henry VIII sponsored the Statute of Uses in 1535 to protect his income from wardship and established the Court of Wards and Liveries in 1540. The court lost its function in 1646 with the abolition of feudal tenure in England and Wales, and was abolished in 1660.\n\nThe word then travelled with the common law. In Australia, New Zealand and the United States a child is a ward of the court; in Ireland and the United Kingdom, a ward of court with no article; in Canada, a permanent ward, except in Ontario, which says Crown ward. In France a pupille de l'État is a minor under the responsibility of the state.\n\n*Inference —* one root, two ends that face each other. The horseshoe over a door wards. The child inside the house is a ward. English has kept both without ever needing to notice."
+ },
+ "dating": {
+  "period": "Old English to the present",
+  "from_year": 700,
+  "to_year": null,
+  "living": true,
+  "label": "Old English onwards",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:web-wiktionary-ward",
+  "note": "The from_year is a rounded date for Old English, not a first attestation this project read."
+ },
+ "kin": [
+  {
+   "to": "apotropaic-word",
+   "as": "the Greek adjective whose verb means precisely this, and the one the academy uses instead",
+   "rel": "same-word"
+  },
+  {
+   "to": "horseshoe",
+   "as": "the object an English speaker is likeliest to use the verb about — nailed up, it wards",
+   "rel": "term"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "the practice the verb is nearly always attached to in English writing",
+   "rel": "practice"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the tradition that thinks in this word rather than in the Greek one",
+   "rel": "tradition"
+  },
+  {
+   "to": "amulet-word",
+   "as": "the noun for the thing that does the warding, arriving in English a thousand years later",
+   "rel": "contrast"
+  },
+  {
+   "to": "concealed-shoe",
+   "as": "a warding practice found in walls and under floors, named in English long before anyone called it apotropaic",
+   "rel": "term"
+  }
+ ],
+ "links": [
+  {
+   "label": "ward — Wiktionary",
+   "url": "https://en.wiktionary.org/wiki/ward"
+  },
+  {
+   "label": "Ward (law) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ward_(law)"
+  }
+ ],
+ "sources": [
+  "s:web-wiktionary-ward",
+  "s:wp-ward-law",
+  "s:wp-apotropaic-magic"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-wiktionary-ward"
+  },
+  "fields": {
+   "dating": {
+    "tier": "inference",
+    "note": "rounded to the Old English period; no first attestation was read"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

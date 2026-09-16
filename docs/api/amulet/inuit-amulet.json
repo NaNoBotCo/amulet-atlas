@@ -1,0 +1,431 @@
+{
+ "schema": 1,
+ "id": "inuit-amulet",
+ "type": "amulet",
+ "names": {
+  "name": "Inuit amulet",
+  "said": "the Inuit terms vary by group and are not collapsed into one here",
+  "aliases": [
+   "Netsilik amulet",
+   "Iglulik amulet",
+   "arnguaq"
+  ]
+ },
+ "region": [
+  "siberia-arctic",
+  "north-america"
+ ],
+ "countries": [
+  "CA",
+  "GL",
+  "US"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "limited",
+  "hemisphere": [
+   "N",
+   "W",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "Small worked or unworked pieces of animal and bird — bone, claw, tooth, skin, feather — sewn to clothing or carried, one amulet to one spirit. There is no single form. The class is defined by the relation, not the shape: published ethnography states that the effect of an Inuit amulet is attributed to the spirit that corresponds to it.",
+  "story": "Two numbers in the ethnographic record say more about this practice than any description of an object does.\n\nThe first is 80. Wikipedia's summary of the published ethnography of Inuit religion records that the Netsilik used a great many amulets — even dogs could have them — and gives one recorded instance of a young boy who had eighty, so many that he could hardly play. The second is 17: one man carried seventeen names taken from his ancestors, and the names were themselves intended to protect him. Beside that sits the Iglulik, who used few.\n\nAmulets sit inside a system with other parts. Inuit religion holds that human illness can be caused by offending the spirits, and that fear of retribution produces caution; to avoid giving offence, people have observed rules and taboos, offered prayers and songs, worn amulets, and consulted the angakkuit, the ritual specialists who mediate between people and spirits. An amulet might be made by an angakkuq, but lay people made them too.\n\n*Inference —* an eighty-amulet child and a seventeen-name man describe a practice where protection is cumulative rather than singular, which is a different logic from the one-charm-one-neck traditions that fill most of this atlas. This project states that as its own reading of the published record and not as anybody's account of their own practice.\n\nThis record prints what published ethnography and Inuit and Greenlandic institutions have made public, and no more. It does not reconstruct which animal answers which spirit, and it does not fill the gaps from a neighbouring tradition.",
+  "how": "Selected and attached: sewn to a parka, hung at the neck, set into a hood. An amulet corresponds to a spirit, and the rest of the making is not printed here. Names function alongside objects — a name taken from an ancestor is described in the ethnography as protective in itself.",
+  "today": "Inuit amulet practice is documented by twentieth-century ethnographers working in the Canadian Arctic and Greenland; Inuit religious practice continues alongside Christianity across the Arctic. This project has read no dated present-day account it can cite, so no claim is made here about what any community carries in 2026."
+ },
+ "restricted": {
+  "note": "This record prints only what published ethnography and Inuit institutions have themselves made public. It does not set out which amulet answers which spirit, and does not reconstruct any rite from scattered sources.",
+  "who_says": "this project's own limit, applied under the atlas's rule on restricted knowledge; no Inuit authority has been cited here as imposing it",
+  "source": "s:wp-inuit-religion"
+ },
+ "dating": {
+  "period": "recorded by twentieth-century ethnographers",
+  "from_year": 1900,
+  "to_year": null,
+  "living": true,
+  "label": "recorded from c. 1900; older, and undated here",
+  "method": "ethnographic",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-inuit-religion",
+  "note": "1900 marks the period the ethnographers whose records this rests on were working, not the start of the practice. Whether every form of it is still carried is not something this project has a dated source for."
+ },
+ "object": {
+  "materials": [
+   "bone",
+   "tooth",
+   "skin",
+   "hair"
+  ],
+  "worn": [
+   "neck",
+   "sewn-in",
+   "pocket"
+  ],
+  "made_by": "an angakkuq, or a lay person; the ethnography records both",
+  "single_use": false,
+  "source": "s:wp-inuit-religion",
+  "note": "No single form: the class is defined by the amulet's relation to a spirit. Form is left blank rather than forced into a key."
+ },
+ "against": [
+  {
+   "harm": "illness",
+   "who": "the published ethnography of Inuit religion, which holds that illness can be caused by offending the spirits",
+   "source": "s:wp-inuit-religion",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "the same record: amulets are worn among the means of avoiding offence and retribution",
+   "source": "s:wp-inuit-religion",
+   "tier": "cited"
+  },
+  {
+   "harm": "child-harm",
+   "who": "the Netsilik, in the recorded instance of a boy carrying eighty",
+   "source": "s:wp-inuit-religion",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "tupilaq",
+   "as": "the object this one is most often confused with, and its opposite: an amulet is carried for its owner, a tupilaq was sent at somebody else",
+   "rel": "contrast"
+  },
+  {
+   "to": "tooth-and-claw",
+   "as": "the sign family most of these belong to — the animal, kept as a part of itself",
+   "rel": "motif"
+  },
+  {
+   "to": "ongon",
+   "as": "the Siberian parallel, across the same Arctic, with its own specialists and its own rules",
+   "rel": "parallel"
+  },
+  {
+   "to": "sewing-in",
+   "as": "how one is carried: stitched into a parka rather than hung where it can be seen",
+   "rel": "practice"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the long read explaining why this record stops where it stops",
+   "rel": "story"
+  },
+  {
+   "to": "most-of-them-are-for-children",
+   "as": "the long read this belongs in — the best-known figure in this record is a child carrying eighty",
+   "rel": "story"
+  },
+  {
+   "to": "bone-ivory",
+   "as": "the material the Arctic works, and the one most of these are made from",
+   "rel": "material"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "tupilaq",
+   "tell": "an amulet protects the person carrying it; a tupilaq was made to be sent away at an enemy. The carved figures sold in Greenland today are tupilaq, not amulets"
+  }
+ ],
+ "links": [
+  {
+   "label": "Inuit religion — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Inuit_religion"
+  }
+ ],
+ "sources": [
+  "s:wp-inuit-religion",
+  "s:wp-tupilaq",
+  "s:wp-shamanism-in-siberia"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-inuit-religion"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-inuit-religion",
+    "note": "the paragraph about cumulative protection is marked as this project's inference where it appears"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "no dated present-day account was read; the record says so rather than guessing"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "Small worked or unworked pieces of animal and bird — bone, claw, tooth, skin, feather — sewn to clothing or carried, one amulet to one spirit. There is no single form.",
+ "region_terms": [
+  {
+   "key": "siberia-arctic",
+   "name": "Siberia and the Arctic",
+   "hemi": [
+    "N",
+    "E",
+    "W"
+   ]
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "tupilaq",
+   "type": "amulet",
+   "name": "Tupilaq",
+   "as": "the object this one is most often confused with, and its opposite: an amulet is carried for its owner, a tupilaq was sent at somebody else",
+   "rel": "contrast"
+  },
+  {
+   "to": "tooth-and-claw",
+   "type": "motif",
+   "name": "The tooth and the claw",
+   "as": "the sign family most of these belong to — the animal, kept as a part of itself",
+   "rel": "motif"
+  },
+  {
+   "to": "ongon",
+   "type": "amulet",
+   "name": "Ongon",
+   "as": "the Siberian parallel, across the same Arctic, with its own specialists and its own rules",
+   "rel": "parallel"
+  },
+  {
+   "to": "sewing-in",
+   "type": "practice",
+   "name": "Sewing in",
+   "as": "how one is carried: stitched into a parka rather than hung where it can be seen",
+   "rel": "practice"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "type": "story",
+   "name": "What this atlas does not print",
+   "as": "the long read explaining why this record stops where it stops",
+   "rel": "story"
+  },
+  {
+   "to": "most-of-them-are-for-children",
+   "type": "story",
+   "name": "Most of them are for children",
+   "as": "the long read this belongs in — the best-known figure in this record is a child carrying eighty",
+   "rel": "story"
+  },
+  {
+   "to": "bone-ivory",
+   "type": "material",
+   "name": "Bone and ivory",
+   "as": "the material the Arctic works, and the one most of these are made from",
+   "rel": "material"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-inuit-religion",
+   "kind": "encyclopedia",
+   "title": "Inuit religion",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Inuit_religion",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tupilaq",
+   "kind": "encyclopedia",
+   "title": "Tupilaq",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tupilaq",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-shamanism-in-siberia",
+   "kind": "encyclopedia",
+   "title": "Shamanism in Siberia",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shamanism_in_Siberia",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-inuit-religion"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-inuit-religion",
+   "note": "the paragraph about cumulative protection is marked as this project's inference where it appears"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-inuit-religion"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "no dated present-day account was read; the record says so rather than guessing"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-inuit-religion"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-inuit-religion"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "the published ethnography of Inuit religion, which holds that illness can be caused by offending the spirits",
+   "quote": "",
+   "source": "s:wp-inuit-religion",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "the same record: amulets are worn among the means of avoiding offence and retribution",
+   "quote": "",
+   "source": "s:wp-inuit-religion",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "child-harm",
+   "label": "Harm to a child",
+   "gloss": "harm to an infant or a small child; common across the atlas, though not the largest class in it — see /story/most-of-them-are-for-children/",
+   "who": "the Netsilik, in the recorded instance of a boy carrying eighty",
+   "quote": "",
+   "source": "s:wp-inuit-religion",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "bone",
+   "label": "Bone and ivory",
+   "kind": "organic"
+  },
+  {
+   "key": "tooth",
+   "label": "Tooth, tusk and claw",
+   "kind": "organic"
+  },
+  {
+   "key": "skin",
+   "label": "Skin",
+   "kind": "organic",
+   "note": "the tattooed charm"
+  },
+  {
+   "key": "hair",
+   "label": "Hair",
+   "kind": "organic"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "sewn-in",
+   "label": "Sewn into clothing",
+   "group": "carried"
+  },
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  }
+ ],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1900 CE to now",
+ "country_names": [
+  {
+   "iso": "CA",
+   "name": "Canada"
+  },
+  {
+   "iso": "GL",
+   "name": "Greenland"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "ongon",
+   "type": "amulet",
+   "name": "Ongon",
+   "as": "the neighbouring northern practice, recorded people by people in the same way",
+   "rel": "parallel"
+  },
+  {
+   "from": "tupilaq",
+   "type": "amulet",
+   "name": "Tupilaq",
+   "as": "the thing this is not: an amulet stays with its owner, a tupilaq was sent at somebody else",
+   "rel": "contrast"
+  },
+  {
+   "from": "tooth-and-claw",
+   "type": "motif",
+   "name": "The tooth and the claw",
+   "as": "the Arctic class this sign belongs to, described by its holders rather than by its material",
+   "rel": "carried-by"
+  },
+  {
+   "from": "bone-ivory",
+   "type": "material",
+   "name": "Bone and ivory",
+   "as": "the Arctic charm cut from what the hunt provided, which is the whole of the material argument here",
+   "rel": "carried-by"
+  },
+  {
+   "from": "tooth",
+   "type": "material",
+   "name": "Tooth, tusk and claw",
+   "as": "the Arctic version of the same argument: the charm is a part of the animal it came from",
+   "rel": "parallel"
+  }
+ ]
+}

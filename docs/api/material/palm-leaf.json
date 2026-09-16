@@ -1,0 +1,370 @@
+{
+ "id": "palm-leaf",
+ "names": {
+  "name": "Palm leaf",
+  "aliases": [
+   "tala patra",
+   "lontar",
+   "bai lan"
+  ]
+ },
+ "region": [
+  "south-asia",
+  "mainland-sea",
+  "island-sea",
+  "himalaya-tibet"
+ ],
+ "countries": [
+  "IN",
+  "LK",
+  "TH",
+  "KH",
+  "LA",
+  "MM",
+  "ID",
+  "NP"
+ ],
+ "facets": {
+  "kind": "plant"
+ },
+ "text": {
+  "what": "Leaves of the Palmyra or talipot palm, cooked, dried and smoke-treated until they take a line. The writing is not laid on the surface but cut into it with a stylus; colouring is then rubbed over the leaf so the pigment settles into the grooves and the letters appear. The result is flexible, light, and cheap wherever the palms grow.",
+  "story": "Palm leaf carries scripture across half of Asia, and carries charms with it. It is in use in the Indian subcontinent as early as the fifth century BCE and spreads to Sri Lanka and Southeast Asia — Cambodia from Angkorian times, Myanmar from twelfth-century Bagan, Indonesia in the Majapahit period of the fourteenth and fifteenth centuries.\n\nIn Thailand the takrut, the tubular amulet worn on a cord, is made of metal or of palm leaf: a strip inscribed with yant, the sacred geometry and Pali phrases usually written in Khom script, or in Lan Na Tai Tham in the north, then rolled and cased. Whether a given takrut is metal or leaf is not a difference in the spell. It is a difference in what will survive.\n\n*Inference —* this is the clearest survival-bias case in the atlas. A palm-leaf text lasts between a few decades and roughly six hundred years before moisture, insects, mould and sheer fragility take it, and the oldest survivals are all from colder, drier places — parts of Nepal, Tibet, Central Asia. In the monsoon belt where palm leaf is actually from, nothing lasts. Hindu temples and monasteries handled this by copying texts onto new leaves as the old ones wore out, which keeps the words and destroys the objects. So the amulet record of mainland Southeast Asia is weighted almost entirely to metal, clay and stone, and the leaf charms that stood beside them for two thousand years are simply absent.",
+  "how": "Cut to a strip, inscribed with a stylus, inked or coloured so the grooves show, then rolled and tied, or bound between boards. A takrut of leaf is rolled tight, bound with cord, and often cased so the leaf is never touched.",
+  "today": "Still written, still copied, and now digitised in large collections. As an amulet material it survives mainly in Thai and Khmer practice, alongside the metal sheet that has always been its more durable alternative."
+ },
+ "dating": {
+  "period": "5th century BCE to the present",
+  "from_year": -499,
+  "to_year": null,
+  "living": true,
+  "label": "c. 500 BCE to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-palm-leaf-manuscript",
+  "note": "Dated from the earliest reported use of palm leaf for writing in the Indian subcontinent. No surviving leaf is anything like that old; the material's own lifespan is a few decades to about six hundred years."
+ },
+ "against": [
+  {
+   "harm": "weapons",
+   "who": "Thai makers of takrut, which are blessed for kong grapan, invulnerability",
+   "source": "s:wp-takrut",
+   "tier": "cited",
+   "note": "reported as the claim made by makers and wearers; this atlas does not recommend it"
+  },
+  {
+   "harm": "attraction",
+   "who": "the same makers, for maha sanaeh and metta mahaniyom — attraction and popularity",
+   "source": "s:wp-takrut",
+   "tier": "cited"
+  },
+  {
+   "harm": "travel",
+   "who": "Thai wearers, who take takrut on work journeys and to war",
+   "source": "s:wp-takrut",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "takrut",
+   "as": "the amulet that is either metal or this leaf, rolled the same way, saying the same thing",
+   "rel": "carried-by"
+  },
+  {
+   "to": "yantra-plate",
+   "as": "the same yant, put on a surface that will outlast the leaf",
+   "rel": "parallel"
+  },
+  {
+   "to": "sak-yant",
+   "as": "the same designs again, put where nothing can be stolen and nothing survives the wearer",
+   "rel": "parallel"
+  },
+  {
+   "to": "thai-wicha",
+   "as": "the tradition whose written charms this leaf carried before metal was common",
+   "rel": "tradition"
+  },
+  {
+   "to": "paper",
+   "as": "its successor: cheaper still, printable, and just as perishable",
+   "rel": "parallel"
+  },
+  {
+   "to": "parchment",
+   "as": "the dry world's equivalent, and the reason the Mediterranean amulet record is fuller than the monsoon one",
+   "rel": "contrast"
+  },
+  {
+   "to": "inscribing",
+   "as": "the practice this material demands — a stylus cutting, not a pen laying down ink",
+   "rel": "practice"
+  },
+  {
+   "to": "dating-a-charm",
+   "as": "the long read on why the surviving objects are not a sample of what was worn",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Palm-leaf manuscript — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Palm-leaf_manuscript"
+  }
+ ],
+ "sources": [
+  "s:wp-palm-leaf-manuscript",
+  "s:wp-takrut",
+  "s:wp-yantra-tattooing"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-palm-leaf-manuscript"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-palm-leaf-manuscript",
+    "note": "the survival-bias paragraph is this project's inference from the published lifespan figures and is marked in the text"
+   }
+  }
+ },
+ "x_commons_files": [
+  "File:Palm leaf manuscript.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "schema": 1,
+ "type": "material",
+ "images": [],
+ "updated": "2026-09-16",
+ "blurb": "Leaves of the Palmyra or talipot palm, cooked, dried and smoke-treated until they take a line.",
+ "region_terms": [
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "mainland-sea",
+   "name": "Mainland Southeast Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "island-sea",
+   "name": "Island Southeast Asia",
+   "hemi": [
+    "N",
+    "S",
+    "E"
+   ]
+  },
+  {
+   "key": "himalaya-tibet",
+   "name": "The Himalaya and Tibet",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S"
+ ],
+ "kin_out": [
+  {
+   "to": "takrut",
+   "type": "amulet",
+   "name": "Takrut",
+   "as": "the amulet that is either metal or this leaf, rolled the same way, saying the same thing",
+   "rel": "carried-by"
+  },
+  {
+   "to": "yantra-plate",
+   "type": "amulet",
+   "name": "Yantra plate",
+   "as": "the same yant, put on a surface that will outlast the leaf",
+   "rel": "parallel"
+  },
+  {
+   "to": "sak-yant",
+   "type": "amulet",
+   "name": "Sak yant",
+   "as": "the same designs again, put where nothing can be stolen and nothing survives the wearer",
+   "rel": "parallel"
+  },
+  {
+   "to": "thai-wicha",
+   "type": "tradition",
+   "name": "Thai wicha",
+   "as": "the tradition whose written charms this leaf carried before metal was common",
+   "rel": "tradition"
+  },
+  {
+   "to": "paper",
+   "type": "material",
+   "name": "Paper",
+   "as": "its successor: cheaper still, printable, and just as perishable",
+   "rel": "parallel"
+  },
+  {
+   "to": "parchment",
+   "type": "material",
+   "name": "Parchment",
+   "as": "the dry world's equivalent, and the reason the Mediterranean amulet record is fuller than the monsoon one",
+   "rel": "contrast"
+  },
+  {
+   "to": "inscribing",
+   "type": "practice",
+   "name": "Inscribing",
+   "as": "the practice this material demands — a stylus cutting, not a pen laying down ink",
+   "rel": "practice"
+  },
+  {
+   "to": "dating-a-charm",
+   "type": "story",
+   "name": "Dating a charm",
+   "as": "the long read on why the surviving objects are not a sample of what was worn",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-palm-leaf-manuscript",
+   "kind": "encyclopedia",
+   "title": "Palm-leaf manuscript",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Palm-leaf_manuscript",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-takrut",
+   "kind": "encyclopedia",
+   "title": "Takrut",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Takrut",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-yantra-tattooing",
+   "kind": "encyclopedia",
+   "title": "Yantra tattooing",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra_tattooing",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-palm-leaf-manuscript"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-palm-leaf-manuscript",
+   "note": "the survival-bias paragraph is this project's inference from the published lifespan figures and is marked in the text"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-palm-leaf-manuscript"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-palm-leaf-manuscript"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-palm-leaf-manuscript"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "weapons",
+   "label": "Blades and bullets",
+   "gloss": "invulnerability charms; reported, never recommended",
+   "who": "Thai makers of takrut, which are blessed for kong grapan, invulnerability",
+   "quote": "",
+   "source": "s:wp-takrut",
+   "tier": "cited",
+   "note": "reported as the claim made by makers and wearers; this atlas does not recommend it"
+  },
+  {
+   "key": "attraction",
+   "label": "Attracting custom, luck or love",
+   "gloss": "the charm that pulls rather than blocks",
+   "who": "the same makers, for maha sanaeh and metta mahaniyom — attraction and popularity",
+   "quote": "",
+   "source": "s:wp-takrut",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "travel",
+   "label": "Danger on a journey",
+   "who": "Thai wearers, who take takrut on work journeys and to war",
+   "quote": "",
+   "source": "s:wp-takrut",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "500 BCE to now",
+ "country_names": [
+  {
+   "iso": "IN",
+   "name": "India"
+  },
+  {
+   "iso": "LK",
+   "name": "Sri Lanka"
+  },
+  {
+   "iso": "TH",
+   "name": "Thailand"
+  },
+  {
+   "iso": "KH",
+   "name": "Cambodia"
+  },
+  {
+   "iso": "LA",
+   "name": "Laos"
+  },
+  {
+   "iso": "MM",
+   "name": "Myanmar"
+  },
+  {
+   "iso": "ID",
+   "name": "Indonesia"
+  },
+  {
+   "iso": "NP",
+   "name": "Nepal"
+  }
+ ],
+ "kin_in": []
+}

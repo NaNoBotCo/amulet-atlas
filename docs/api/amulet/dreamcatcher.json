@@ -1,0 +1,456 @@
+{
+ "schema": 1,
+ "id": "dreamcatcher",
+ "type": "amulet",
+ "names": {
+  "name": "Dreamcatcher",
+  "native": "ᐊᓴᐱᑫᔒᓐᐦ",
+  "script": "Canadian Aboriginal syllabics",
+  "lang": "oj",
+  "said": "asabikeshiinh, the inanimate form of the Ojibwe word for spider",
+  "aliases": [
+   "asabikeshiinh",
+   "asubakacin",
+   "bwaajige ngwaagan",
+   "spider web charm",
+   "dream snare"
+  ]
+ },
+ "etymology": {
+  "root": "Ojibwe asabikeshiinh, 'little net maker', the word for spider; White Earth Nation asubakacin, 'net-like'; Curve Lake First Nation bwaajige ngwaagan, 'dream snare'",
+  "note": "The English name \"dream catcher\" was published in mainstream, non-Native media in the 1970s. The Ojibwe names do not all mention dreams; two of the three name the net.",
+  "tier": "cited",
+  "source": "s:wp-dreamcatcher"
+ },
+ "region": [
+  "north-america"
+ ],
+ "countries": [
+  "US",
+  "CA"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "living",
+  "portable": "placed",
+  "restricted": "limited",
+  "hemisphere": [
+   "N",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A willow hoop with a net woven across it in sinew or plant cordage, tied off at a centre point, sometimes with feathers or beads added. Hung over a cradleboard or a bed. The mass-market version substitutes a steel or plastic ring, synthetic cord, dyed craft feathers and glass or plastic beads, and comes in sizes from earring to wall hanging.",
+  "story": "It is Anishinaabe, and its oldest published account is a record of a charm for infants, not for dreams. The ethnographer Frances Densmore wrote down an Ojibwe account in 1929 of Asibikaashi, Spider Woman, who looks after the children and the people on the land; when the Ojibwe Nation spread to the corners of North America she could no longer reach every child, so mothers and grandmothers wove webs for them on willow hoops. Densmore's own words are plain about the purpose: the webs hung on the hoop of a cradle board \"caught any harm that might be in the air as a spider's web catches and holds whatever comes in contact with it\". In the old days the netting was nettle fibre, and two webs usually went on the hoop. Basil Johnston, an elder from Neyaashiinigmiing, gives Spider as a trickster catching Snake in his web in Ojibway Heritage, 1976.\n\nThen it travelled. Derivative forms were taken up in the Pan-Indian movement of the 1960s and 1970s as a symbol of unity across different Native American cultures, and as a general mark of identification with Native or First Nations identity. Native Languages of the Americas, which is run by a Native-language non-profit, puts the spread carefully: \"Ojibway dreamcatchers started to get popular in other Native American tribes, even those in disparate places like the Cherokee, Lakota, and Navajo. So dreamcatchers aren't traditional in most Indian cultures, per se, but they're sort of neo-traditional.\"\n\nThe name reached mainstream non-Native media in the 1970s; by the 1980s it was a widely marketed craft item, and by the early 1990s Wikipedia's account calls it \"one of the most popular and marketable\" of them. Forms appeared that bear little resemblance to traditional styles and use materials that were never traditionally used, made and sold by New Age groups and individuals.\n\nThat is the argument, and it has named people on both sides of it. Nudrat Karim, writing for The Indigenous Foundation, states the objection: \"The appropriation of dreamcatchers exemplifies the dismissiveness of Native American culture and the borrowing of their spirituality to accommodate settlers,\" and draws the line by maker, not by object — \"when non-Native people make and sell dreamcatchers it is in fact cultural appropriation however, when Indigenous people choose to make and sell dreamcatchers as they always have, it is not.\" Native Languages of the Americas is blunter about the trade: \"Most of what you see when you search for 'Native American dreamcatchers' are cheap objects mass-produced in an Asian sweatshop somewhere or glued together by non-native teenagers with eBay accounts,\" and points readers to the Indian Arts and Crafts Act of 1990 and to buying from Native artists. Against that sit the pan-Indian communities for whom the hoop became a shared sign in the first place, and Ojibwe makers who sell them. This atlas prints both and settles neither.\n\nThe object is also still doing work in its own communities. A mounted and framed dreamcatcher is used as a shared symbol of hope and healing by the Little Thunderbirds Drum and Dance Troupe from the Red Lake Indian Reservation in Minnesota, who have taken it to students at other schools where shootings have happened, and passed it on.",
+  "how": "This record does not give instructions. Named Native writers say the making is not open, and the atlas prints the restriction rather than the method. What is published and reported here is the material: a hoop of willow, and a net of sinew or of cordage made from plants, historically nettle fibre; two webs to a cradle hoop, per Densmore.",
+  "today": "Made and sold by Ojibwe and other Native artists; made and sold in enormous volume by everybody else, worldwide, as of 2026, in craft shops, service stations and airports. The Indian Arts and Crafts Act of 1990 governs what may be marketed as Native American-made in the United States."
+ },
+ "restricted": {
+  "note": "Named Native writers say making and selling dreamcatchers belongs to Native makers. This record describes the object, its published history and the objection, and prints no instructions for making one.",
+  "who_says": "Nudrat Karim, writing for The Indigenous Foundation, and Native Languages of the Americas",
+  "source": "s:web-indigenous-foundation-dreamcatchers",
+  "url": "https://www.theindigenousfoundation.org/articles/dreamcatchers"
+ },
+ "dating": {
+  "period": "Anishinaabe practice, recorded from 1929; mass market from the 1980s",
+  "from_year": 1929,
+  "to_year": null,
+  "living": true,
+  "label": "recorded 1929; carried now",
+  "method": "ethnographic",
+  "tier": "cited",
+  "source": "s:wp-dreamcatcher",
+  "note": "1929 is the year Frances Densmore recorded the Ojibwe account, not the year the practice began. Nothing in the sources read here dates its origin."
+ },
+ "object": {
+  "form": "knot",
+  "materials": [
+   "wood",
+   "thread",
+   "plastic"
+  ],
+  "worn": [
+   "cradle",
+   "wall",
+   "vehicle"
+  ],
+  "made_by": "Ojibwe mothers and grandmothers, per Densmore's 1929 record; the question of who may make one now is the live argument this record reports",
+  "colour": [
+   "brown",
+   "white"
+  ],
+  "count": 2,
+  "single_use": false,
+  "source": "s:wp-dreamcatcher",
+  "note": "Densmore records two webs to a cradle hoop. Form is entered as knot because this project's list has no key for a woven hoop; it is hung, not worn."
+ },
+ "against": [
+  {
+   "harm": "child-harm",
+   "who": "Frances Densmore's Ojibwe informants, 1929",
+   "quote": "caught any harm that might be in the air as a spider's web catches and holds whatever comes in contact with it",
+   "source": "s:wp-dreamcatcher",
+   "tier": "cited",
+   "note": "the cited source stresses that the purpose recorded is apotropaic and not explicitly about dreams"
+  }
+ ],
+ "kin": [
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read this record is the test case for — who may make a thing, and what changes when somebody else does",
+   "rel": "story"
+  },
+  {
+   "to": "hei-matau",
+   "as": "the Pacific parallel: an Indigenous form mass-produced abroad, and objected to by name on the same grounds",
+   "rel": "parallel"
+  },
+  {
+   "to": "tupilaq",
+   "as": "the Arctic parallel — an object that acquired a second life as a thing carved for visitors",
+   "rel": "parallel"
+  },
+  {
+   "to": "hei-tiki",
+   "as": "another taonga sold in plastic beside the original, and another argument this atlas reports rather than settles",
+   "rel": "parallel"
+  },
+  {
+   "to": "the-fake-market",
+   "as": "the long read about what a label is worth, which the Indian Arts and Crafts Act is one answer to",
+   "rel": "story"
+  },
+  {
+   "to": "nagpra",
+   "as": "the other United States statute in this atlas about Native material and who holds it",
+   "rel": "org"
+  },
+  {
+   "to": "thread",
+   "as": "the material that does the catching — nettle fibre, then sinew, then nylon",
+   "rel": "material"
+  },
+  {
+   "to": "most-of-them-are-for-children",
+   "as": "the long read this belongs in — the earliest published account is a charm for an infant on a cradleboard",
+   "rel": "story"
+  },
+  {
+   "to": "knot",
+   "as": "the sign: a net, which holds what touches it",
+   "rel": "motif"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the long read explaining why this record carries a restriction and no method",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Dreamcatcher — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dreamcatcher"
+  },
+  {
+   "label": "Dreamcatchers are not your \"aesthetic\" — The Indigenous Foundation",
+   "url": "https://www.theindigenousfoundation.org/articles/dreamcatchers"
+  },
+  {
+   "label": "Native American Dreamcatchers — Native Languages of the Americas",
+   "url": "https://www.native-languages.org/dreamcatchers.htm"
+  }
+ ],
+ "sources": [
+  "s:wp-dreamcatcher",
+  "s:web-indigenous-foundation-dreamcatchers",
+  "s:web-native-languages-dreamcatchers",
+  "s:wp-ojibwe",
+  "s:wp-cultural-appropriation"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-dreamcatcher"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "inference",
+    "note": "the present scale of the trade is reasoned from the cited sources' accounts; no market figure was read"
+   },
+   "restricted": {
+    "tier": "cited",
+    "source": "s:web-indigenous-foundation-dreamcatchers"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A willow hoop with a net woven across it in sinew or plant cordage, tied off at a centre point, sometimes with feathers or beads added. Hung over a cradleboard or a bed.",
+ "region_terms": [
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read this record is the test case for — who may make a thing, and what changes when somebody else does",
+   "rel": "story"
+  },
+  {
+   "to": "hei-matau",
+   "type": "amulet",
+   "name": "Hei matau",
+   "as": "the Pacific parallel: an Indigenous form mass-produced abroad, and objected to by name on the same grounds",
+   "rel": "parallel"
+  },
+  {
+   "to": "tupilaq",
+   "type": "amulet",
+   "name": "Tupilaq",
+   "as": "the Arctic parallel — an object that acquired a second life as a thing carved for visitors",
+   "rel": "parallel"
+  },
+  {
+   "to": "hei-tiki",
+   "type": "amulet",
+   "name": "Hei-tiki",
+   "as": "another taonga sold in plastic beside the original, and another argument this atlas reports rather than settles",
+   "rel": "parallel"
+  },
+  {
+   "to": "the-fake-market",
+   "type": "story",
+   "name": "The fake market",
+   "as": "the long read about what a label is worth, which the Indian Arts and Crafts Act is one answer to",
+   "rel": "story"
+  },
+  {
+   "to": "nagpra",
+   "type": "org",
+   "name": "The Native American Graves Protection and Repatriation Act",
+   "as": "the other United States statute in this atlas about Native material and who holds it",
+   "rel": "org"
+  },
+  {
+   "to": "thread",
+   "type": "material",
+   "name": "Thread and cord",
+   "as": "the material that does the catching — nettle fibre, then sinew, then nylon",
+   "rel": "material"
+  },
+  {
+   "to": "most-of-them-are-for-children",
+   "type": "story",
+   "name": "Most of them are for children",
+   "as": "the long read this belongs in — the earliest published account is a charm for an infant on a cradleboard",
+   "rel": "story"
+  },
+  {
+   "to": "knot",
+   "type": "motif",
+   "name": "The knot",
+   "as": "the sign: a net, which holds what touches it",
+   "rel": "motif"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "type": "story",
+   "name": "What this atlas does not print",
+   "as": "the long read explaining why this record carries a restriction and no method",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-dreamcatcher",
+   "kind": "encyclopedia",
+   "title": "Dreamcatcher",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dreamcatcher",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-indigenous-foundation-dreamcatchers",
+   "kind": "web",
+   "title": "Dreamcatchers are not your \"aesthetic\"",
+   "author": "Nudrat Karim",
+   "publisher": "The Indigenous Foundation",
+   "url": "https://www.theindigenousfoundation.org/articles/dreamcatchers",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-native-languages-dreamcatchers",
+   "kind": "web",
+   "title": "Native American Dreamcatchers: Ojibwe and other Indian dream-catcher crafts",
+   "publisher": "Native Languages of the Americas",
+   "url": "https://www.native-languages.org/dreamcatchers.htm",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-ojibwe",
+   "kind": "encyclopedia",
+   "title": "Ojibwe",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ojibwe",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cultural-appropriation",
+   "kind": "encyclopedia",
+   "title": "Cultural appropriation",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cultural_appropriation",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-dreamcatcher"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-dreamcatcher"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-dreamcatcher"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "the present scale of the trade is reasoned from the cited sources' accounts; no market figure was read"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-dreamcatcher"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-dreamcatcher"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-dreamcatcher"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "child-harm",
+   "label": "Harm to a child",
+   "gloss": "harm to an infant or a small child; common across the atlas, though not the largest class in it — see /story/most-of-them-are-for-children/",
+   "who": "Frances Densmore's Ojibwe informants, 1929",
+   "quote": "caught any harm that might be in the air as a spider's web catches and holds whatever comes in contact with it",
+   "source": "s:wp-dreamcatcher",
+   "tier": "cited",
+   "note": "the cited source stresses that the purpose recorded is apotropaic and not explicitly about dreams"
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "wood",
+   "label": "Wood",
+   "kind": "plant"
+  },
+  {
+   "key": "thread",
+   "label": "Thread and cord",
+   "kind": "textile",
+   "note": "red thread runs from the Mediterranean to Mongolia"
+  },
+  {
+   "key": "plastic",
+   "label": "Plastic and resin",
+   "kind": "modern"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "cradle",
+   "label": "On a cradle",
+   "group": "placed"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "vehicle",
+   "label": "In a vehicle",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "knot",
+  "label": "Knot"
+ },
+ "holding_facts": [],
+ "span": "1929 CE to now",
+ "country_names": [
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "CA",
+   "name": "Canada"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "hei-matau",
+   "type": "amulet",
+   "name": "Hei matau",
+   "as": "the North American parallel — a form mass-produced abroad and objected to by name on the same grounds",
+   "rel": "parallel"
+  },
+  {
+   "from": "hei-tiki",
+   "type": "amulet",
+   "name": "Hei-tiki",
+   "as": "the North American parallel — an Indigenous form now also made by everybody else, and objected to by name",
+   "rel": "parallel"
+  },
+  {
+   "from": "tupilaq",
+   "type": "amulet",
+   "name": "Tupilaq",
+   "as": "the North American parallel — an object that acquired a second life made for outsiders, and an argument about whether that is the same object",
+   "rel": "parallel"
+  },
+  {
+   "from": "wood",
+   "type": "material",
+   "name": "Wood",
+   "as": "a bent willow hoop with a net across it, hung over a cradle",
+   "rel": "carried-by"
+  },
+  {
+   "from": "nagpra",
+   "type": "org",
+   "name": "The Native American Graves Protection and Repatriation Act",
+   "as": "the Ojibwe object most often sold by people with no claim to it — a market this Act does not touch",
+   "rel": "contrast"
+  }
+ ]
+}

@@ -1,0 +1,51 @@
+The records in data/ and the pages built from them are licensed
+Creative Commons Attribution 4.0 International (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+
+Parts of this repository are NOT under that licence, and carry their own:
+
+  data/images/** and docs/images/**
+      each picture carries its own licence in its record and on the page that shows
+      it: CC0, public domain, CC BY, CC BY-SA, the Free Art Licence, or a "no known
+      copyright restrictions" rights statement from the holding institution. None of
+      them is relicensed by this repository.
+
+  quoted text
+      every quotation on this site is short, in quotation marks, and attributed to a
+      named speaker or a named publication, as fair dealing / fair use. Nothing here
+      reproduces a copyrighted work at length.
+
+  the drawn signs (tools/viz.py GLYPHS, and the figure, house, car and boat on /wear/)
+      drawn for this project from published descriptions, not traced from any one
+      object or from anybody else's drawing. They are CC BY 4.0 with the records.
+
+Country outlines in data/geo/world.json: Natural Earth, 1:110m, public domain.
+https://www.naturalearthdata.com/
+
+Some of the material this atlas describes is restricted by the traditions it belongs
+to. Where that is so, the record carries a `restricted` block and the detail is absent
+by design. A licence permitting reuse of these records is not permission to fill that
+absence from elsewhere, and this project asks that reusers keep the restriction with
+the record it belongs to.
+
+The code in tools/ is MIT:
+
+Copyright (c) 2026 NaN
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in the
+Software without restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the
+Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR OTHERWISE ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

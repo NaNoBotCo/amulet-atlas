@@ -1,0 +1,221 @@
+AMULET ATLAS — WRITING A RECORD
+===============================
+
+One JSON file per node, in data/nodes/<type>/<id>.json. The schema is
+schema/node.schema.json. Copy an exemplar and change every field:
+
+  data/nodes/amulet/wedjat-eye.json      an amulet (rich: what / story / how / today, dating, object, against, kin)
+  data/nodes/motif/eye.json              a sign that crosses traditions
+  data/nodes/place/tha-phrachan.json     a place (geo, address, hours, tags)
+
+Run  python3 tools/validate.py  until your records pass. Kin targets nobody has
+written yet show as warnings; expect that while the set is still being built.
+
+TYPES
+  amulet     a kind of charm            tradition  the whole practice it belongs to
+  motif      a sign cut into it         material   what it is made from
+  practice   making, charging, wearing, feeding, retiring
+  place      market, workshop, shrine, dig site, museum room
+  person     maker, monk, excavator, scholar, collector
+  org        museum, archive, research project, registry
+  term       a word, with its root      art        a plate, a sign, a votive wall, a drawn sign
+  story      a long read
+
+THE THREE THINGS THIS SITE IS FOR
+  1. Say what the thing IS, physically, so a reader could pick it out of a tray.
+  2. Say what it is FOR, in the words of the people who carry it — reported, attributed,
+     never adjudicated. This project does not test whether a charm works and does not
+     tell a reader it does not. "Wearers say", "the text promises", "Elworthy recorded".
+  3. Say WHERE and WHEN, precisely enough to put a dot on a map and a bar on a timeline.
+  A record that cannot do all three is still worth writing; say which one it cannot do.
+
+FIELDS THAT CARRY THE WEIGHT
+  names.name    what the tradition calls it, romanised. names.native = its own script,
+                with names.script and names.lang. names.said = how it is said out loud.
+  text.what     one plain paragraph. Present tense. What it is, physically.
+  text.story    narrative, told as narrative. Scenes, dates, names, excavations.
+                Mark each stretch inline:
+                  plain prose         = cited in this record's sources
+                  *Tradition holds —*   general knowledge of the practice, hedged
+                  *Inference —*         this project's own reasoning, labelled
+  text.how      made, charged, worn, kept, renewed, retired. text.today = now, dated.
+  kin[]         what another node IS to this one, said from here. One sentence a reader
+                standing on this page wants — not "see also" but the fact that joins them
+                ("the eye it carries is the same eye Naples cuts into coral"). The other
+                record answers in its own words. Link only to cast-list ids.
+                5-12 kin on a rich record, 3-6 on a small one. Reach across batches.
+  dating        from_year / to_year in ASTRONOMICAL YEARS: 1 CE is 1, 1 BCE is 0,
+                500 BCE is -499, 3000 BCE is -2999. to_year null means still carried;
+                set living: true as well. label is the span in words, the way you would
+                say it. method says how the date is known: excavated, inscribed, textual,
+                ethnographic, art-historical, dated-object, undated. This field is what
+                /time/ is drawn from — a record without it does not appear there.
+  countries[]   ISO 3166-1 alpha-2, every country the practice is DOCUMENTED in, not
+                every country somebody has sold one in. This is what /map/ is drawn from.
+                Use the ones you can name a source for. Two is better than twelve guesses.
+  object        form, materials[], worn[], inscription, script, made_by. Keys from
+                data/vocab/forms.json, materials.json, worn.json. length_mm only where a
+                source publishes a measurement — never a guess from a photograph.
+  against[]     {harm, who, quote, source}. harm from data/vocab/against.json. `who` names
+                whose claim it is: the maker, a named text, wearers, an ethnographer.
+                A quote goes in quotation marks and carries a name. NO harm entry without
+                a source. This is what /against/ is drawn from.
+  holdings[]    where an example can be seen. An accession number goes in ONLY when you
+                read it off a published catalogue page and can give that page's URL.
+                No URL, no accession. `museum` from data/vocab/museums.json.
+  restricted    set it where a tradition limits what outsiders may be told or shown. The
+                site then prints your note INSTEAD of the detail — and you do not write
+                the detail anywhere else in the record either. See the rule below.
+  etymology     required on type=term, welcome anywhere a name has a root. Folk
+                etymologies go in `folk`, labelled.
+  sources[]     ids from data/sources/sources.json ONLY. Add your own to
+                data/sources/new-<your-batch>.json in the same shape; build.py merges them.
+                Wikipedia: s:wp-<slug>. A web page: s:web-<slug> with real title, publisher,
+                url, and the date you read it. A book: title, author, publisher, year —
+                never an ISBN you did not see.
+  provenance    default tier + per-field overrides. Tiers: cited, harvested, tradition,
+                inference, field. A date, a first attestation, an accession number, a
+                price, a death: cite it or hedge it in the prose.
+  images[]      leave empty. Put candidate Commons titles in
+                x_commons_files: ["File:...jpg"]; tools/harvest_commons.py fetches them
+                with their licences. Only CC0 / PD / CC BY / CC BY-SA / FAL.
+  confidence    high / medium / low. needs_verification: true where a fact stays unchecked.
+
+RESTRICTED KNOWLEDGE — THE RULE THAT OUTRANKS COMPLETENESS
+  Some of this material is not ours to publish. Where a tradition restricts an object, a
+  design or a rite to initiates, to one gender, to one clan, or to the dead, this atlas
+  prints the restriction and stops. Write what is already public in the tradition's own
+  publications and in its own framing; set `restricted` with a note saying who says so and
+  where. Do not reconstruct a rite from scattered sources, do not print a consecration
+  formula a tradition guards, and do not fill a gap with a neighbouring tradition's
+  practice. A blank that says "this is not published, and here is who says it should not
+  be" is a better record than a full one that guesses. Australia is mostly blank on this
+  map for exactly this reason, and /story/what-this-atlas-does-not-print says so.
+
+VOICE (house rules; validate.py enforces the banned list)
+  BANNED WORDS, hard error: superstition, superstitious, primitive, savage, backward,
+  witch doctor, mumbo jumbo, hocus pocus, trinket, knick-knack, exotic, authentic,
+  inauthentic, genuine article, the real thing, mere, merely, just a charm, so-called,
+  voodoo (the tradition is Vodou or Vodun; the spelling with two o's belongs in a
+  quotation or a proper name and nowhere else).
+  A quotation in quotation marks is exempt — so quote and attribute instead of asserting.
+
+  EFFICACY IS NEVER THIS PROJECT'S SENTENCE. Not "it protects against the evil eye" and
+  not "it is believed to protect" with nobody named. Write "a Neapolitan coral seller told
+  Elworthy the horn takes the look meant for the child" or "the Qur'anic verse written on
+  it is Ayat al-Kursi, which the tradition names as the verse of protection". Name who
+  says it. Then stop.
+
+  ARGUMENTS GET REPORTED, NEVER JOINED. Whether a mass-produced evil-eye bracelet is the
+  same object as a village one, whether a dreamcatcher sold in an airport is anything at
+  all, whether a Thai amulet market is devotion or trade: every one of those is a live
+  argument with named people on both sides. Give both sides their names and their words.
+  A factory charm gets described the same way a hand-cut one does.
+
+  Write short. Lead with a verb. Cut "the" and "what" wherever the sentence survives it.
+  Fewer adjectives, more verbs. Contractions are fine. Define every non-obvious word in a
+  clause at first use — a reader who has never heard of faience should not have to leave.
+  No sentence that announces the next sentence. No closing summary. Prices carry their
+  date and their currency. Measurements carry their source.
+
+PLACES
+  geo from a published coordinate or the street address geocoded by hand; `precision` says
+  which. address.country takes a two-letter code. tags[] EVERY tag names its evidence;
+  the validator refuses tier tradition or inference on a tag. hours: THREE STATES, NEVER
+  TWO — open, closed, and nobody published it. A day in neither list is unknown, and a
+  guessed closure is worse than a blank because a reader flies on it.
+
+FINISH BY
+  running, from the repo root:  BUILD_DRAFT=1 python3 tools/validate.py
+  Fix every ERROR that names one of YOUR records. Kin-target warnings for records other
+  agents are still writing are expected and fine.
+  Then report: how many records you wrote, which cast-list ids you could NOT source and
+  why, and every fact you had to hedge.
+
+CAST LIST (ids that exist or are being written; link only to these)
+
+  amulet — Africa and the Nile
+    scarab heart-scarab wedjat-eye ankh-amulet djed-pillar tyet-knot bes-amulet
+    taweret-amulet cippus-of-horus ethiopian-magic-scroll coptic-cross-tattoo
+    gris-gris nkisi akuaba-figure tuareg-cross cowrie-strand hirz-pouch
+  amulet — West Asia and the Mediterranean
+    lamashtu-plaque pazuzu-head incantation-bowl ketef-hinnom-scrolls gorgoneion
+    fascinum bulla lunula magical-gem curse-tablet holy-rider-pendant
+    mezuzah tefillin kamea hamsa red-string nazar taweez talismanic-shirt
+    quran-pendant martenitsa
+  amulet — Europe
+    mjolnir-pendant hagstone rowan-cross witch-bottle horseshoe cimaruta cornicello
+    four-leaf-clover rabbits-foot caul corn-dolly brigids-cross hex-sign
+    concealed-shoe st-christopher-medal miraculous-medal brown-scapular agnus-dei
+    ladanka tama-votive
+  amulet — South, Central and East Asia
+    rudraksha tabiz nimbu-mirchi navaratna-ring yantra-plate gau-box sungkhor
+    dzi-bead lungta-flag ping-an-fu fu-talisman charm-coin bagua-mirror
+    bujeok dolhareubang omamori ofuda omikuji maneki-neko daruma teru-teru-bozu
+    senninbari ongon toli-mirror
+  amulet — Southeast Asia and the islands
+    phra-khrueang takrut palad-khik sak-yant jimat anting-anting keris-pusaka
+  amulet — the Americas, the Pacific and the Arctic
+    milagro ojo-de-venado azabache figa patua ekeko illa dreamcatcher
+    hei-tiki hei-matau inuit-amulet tupilaq
+  amulet — carried now
+    evil-eye-bracelet car-saint worry-stone crystal-pendant exam-charm phone-charm
+    challenge-coin game-day-charm
+
+  tradition
+    egyptian-amulet-craft mesopotamian-apotropaic greco-roman-apotropaic
+    jewish-practical-kabbalah islamic-talismanic ethiopian-scroll-craft
+    hindu-kavacha tibetan-protection chinese-fu-craft japanese-engimono
+    korean-bujeok-craft thai-wicha west-african-charm-craft bakongo-nkisi-craft
+    andean-illa-practice european-folk-apotropaic catholic-sacramentals
+    latin-american-folk-catholic maori-taonga
+
+  motif
+    eye hand horn knot serpent scarab-sign fish tooth-and-claw crescent cross
+    coin-square mirror-sign red-thread swastika-sign magic-square palindrome-word
+    divine-name footprint key bell spiral tree lion phallic-sign fist open-palm
+
+  material
+    carnelian faience iron silver gold jade amber coral cowrie jet turquoise
+    bone-ivory tooth paper palm-leaf parchment thread salt herb ink lead glass
+    hair skin
+
+  practice
+    consecration inscribing folding knotting sewing-in wearing-hidden feeding-the-charm
+    renewing-yearly burning-retirement burying hanging-at-door foundation-deposit
+    grave-deposit washing-off-ink inheriting buying-in-a-market blessing-at-a-shrine
+    tattooing counting-beads
+
+  place
+    tha-phrachan khan-el-khalili grand-bazaar marrakesh-souk kathmandu-thamel
+    barkhor-lhasa fushimi-inari senso-ji insadong quiapo-church monastiraki
+    san-gregorio-armeno mercado-de-sonora mercado-de-las-brujas-lima
+    mercado-de-las-brujas-la-paz akodessewa-market merkato-addis
+    te-papa-taonga british-museum-room-1 pitt-rivers-charms wellcome-lovett
+    met-egyptian-galleries
+
+  person
+    flinders-petrie wallis-budge frederick-elworthy edward-lovett campbell-bonner
+    alan-dundes christopher-faraone joseph-naveh shaul-shaked siegfried-seligmann
+    walter-hildburgh augustus-pitt-rivers
+
+  org
+    british-museum metropolitan-museum pitt-rivers-museum wellcome-collection
+    te-papa quai-branly unesco-ich wikimedia-commons aiatsis nagpra
+
+  term
+    amulet-word talisman-word charm-word phylactery-word apotropaic-word periapt
+    fetish-word juju-word mojo-word gris-gris-word taweez-word omamori-word
+    nazar-word hamsa-word fu-word yantra-word mascot-word luck-word ward-word
+    abracadabra vodou-not-voodoo
+
+  art
+    petrie-amulet-plates budge-plates lovett-collection votive-wall market-stall-sign
+    yant-flash ex-voto-wall the-drawn-signs
+
+  story
+    the-eye-everywhere who-owns-a-charm what-this-atlas-does-not-print the-fake-market
+    the-charm-in-the-wall amulet-or-talisman most-of-them-are-for-children
+    the-charm-goes-digital the-swastika-problem dating-a-charm free-to-use
+
+  Cities are not nodes; name them in address.city and in the prose.

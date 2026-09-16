@@ -1,0 +1,542 @@
+{
+ "schema": 1,
+ "id": "azabache",
+ "type": "amulet",
+ "names": {
+  "name": "Azabache",
+  "native": "azabache",
+  "lang": "es",
+  "script": "Latin",
+  "said": "ah-sah-BAH-cheh, Spanish for jet",
+  "aliases": [
+   "mano de azabache",
+   "higa",
+   "figa",
+   "black hand",
+   "jet fist"
+  ]
+ },
+ "etymology": {
+  "root": "Spanish azabache, from Arabic sabaj, the black stone — the amulet is named for its material, jet, and not for its shape",
+  "note": "The fist form is also called a higa in Spanish, figa in Galician and Portuguese, and cigua in Asturleonese.",
+  "tier": "cited",
+  "source": "s:wp-fig-sign"
+ },
+ "region": [
+  "iberia",
+  "caribbean",
+  "north-america",
+  "diaspora"
+ ],
+ "countries": [
+  "ES",
+  "PR",
+  "CU",
+  "DO",
+  "US"
+ ],
+ "facets": {
+  "era": "medieval",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "W",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A piece of jet — fossil wood, black, warm to the touch, light in the hand — cut either as a small clenched fist with the thumb pushed between the first two fingers, or as a faceted black bead. Edward Tabor, writing in Hektoen International in 2023, measures the fist at about 8 mm long and the polyhedron at 3 to 4 mm across, each with a small red bead at the end of the chain. It is pinned to a baby's clothing or worn on a bracelet.",
+  "story": "Jet has been cut for amulets since the Neolithic, and in Spain the trade had a centre: the deposits are in Asturias, but by the end of the Middle Ages the working of jet religious objects and amulets was concentrated at Santiago de Compostela and sold to pilgrims on the Camino. The Asturian version handed to small children was, and is, a higa — the jet fist.\n\nTabor's account follows the object across the Atlantic. He traces the form to Muslim North Africa, citing Washington Irving's 1829 description of a comparable jet hand among \"the Moors of Barbary\", into Spain during the Moorish period of 711 to 1492, and then into the Spanish Caribbean colonies. Puerto Rican, Cuban and Dominican families put one on an infant within days of birth, and Tabor found that the practice continues into adulthood.\n\nWhat parents told Tabor it is for is specific: the evil eye, and with it diarrhoea, respiratory infections, deformities, and above all sudden infant death. He reports that 29% of the wearers he surveyed had chosen the fist and 71% the polyhedron. He gives a price: US$3 to US$10 in a botánica, a folk-medicine shop, and US$9 to US$55 online at the time he wrote in 2023.\n\n*Inference —* the red bead is worth noting. Red thread and red beads run with black stone across the whole Mediterranean, and the pairing here is the same pairing Naples makes with coral. This project files that as a family resemblance and not as a descent.",
+  "how": "Cut and polished from jet, which is soft enough — Mohs 2.5 to 4 — to work with hand tools but chips if the carver pushes detail. Strung with a red bead, then pinned to the baby's shirt or fastened as a bracelet. It is given, usually by a grandmother or godparent, not bought by the wearer. Nothing in the sources read here describes a blessing; the giving is the act.",
+  "today": "Sold in botánicas and online across the Spanish-speaking Caribbean, Spain and the United States. Tabor's 2023 figures — US$3 to US$10 in a shop, US$9 to US$55 online — are the last dated prices this project has read. Much of what is sold now is moulded black resin rather than cut jet; jet takes a brown streak on unglazed porcelain and burns like coal, which is how a buyer tells."
+ },
+ "dating": {
+  "period": "late medieval Iberia to the present",
+  "from_year": 1400,
+  "to_year": null,
+  "living": true,
+  "label": "c. 1400 to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-jet-gemstone",
+  "note": "1400 is the 'end of the Middle Ages', when the cited source dates the great development of the Santiago de Compostela jet amulet trade. Jet amulets in Europe are far older — the earliest worked jet object is dated to 10,000 BCE — but the azabache as this record describes it is not."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": [
+   "jet"
+  ],
+  "worn": [
+   "neck",
+   "wrist",
+   "cradle",
+   "sewn-in"
+  ],
+  "made_by": "jet cutters, historically the Santiago de Compostela workshops; the amulet is given by family, not bought by the wearer",
+  "length_mm": 8,
+  "colour": [
+   "black",
+   "red"
+  ],
+  "single_use": false,
+  "source": "s:web-hektoen-azabache",
+  "note": "8 mm is Tabor's published figure for the fist form; he gives 3 to 4 mm for the polyhedron."
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "parents in Hispanic families, as surveyed by Edward Tabor",
+   "source": "s:web-hektoen-azabache",
+   "tier": "cited"
+  },
+  {
+   "harm": "child-harm",
+   "who": "Tabor's respondents, who name sudden infant death first",
+   "source": "s:web-hektoen-azabache",
+   "tier": "cited",
+   "note": "also diarrhoea, respiratory infections and deformities"
+  },
+  {
+   "harm": "illness",
+   "who": "Tabor's respondents",
+   "source": "s:web-hektoen-azabache",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "figa",
+   "as": "the gesture this fist is a frozen copy of, and the reason it is also called a higa",
+   "rel": "motif"
+  },
+  {
+   "to": "jet",
+   "as": "the material the amulet is named after — azabache is simply the Spanish for it",
+   "rel": "material"
+  },
+  {
+   "to": "fist",
+   "as": "the sign, filed in this atlas with the eye and the horn as things that catch a glance",
+   "rel": "motif"
+  },
+  {
+   "to": "ojo-de-venado",
+   "as": "the other charm put on a Latin American newborn against mal de ojo, in seed rather than stone",
+   "rel": "kin"
+  },
+  {
+   "to": "cornicello",
+   "as": "the Neapolitan answer: red coral instead of black jet, a horn instead of a fist",
+   "rel": "parallel"
+  },
+  {
+   "to": "red-string",
+   "as": "the red bead on the end of the chain, which runs with black stone right across the Mediterranean",
+   "rel": "kin"
+  },
+  {
+   "to": "most-of-them-are-for-children",
+   "as": "the long read this belongs in — it goes on within days of birth",
+   "rel": "story"
+  },
+  {
+   "to": "latin-american-folk-catholic",
+   "as": "the tradition that carried it from Asturias to San Juan",
+   "rel": "tradition"
+  },
+  {
+   "to": "nazar",
+   "as": "the same harm answered with glass and an eye instead of jet and a hand",
+   "rel": "parallel"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "figa",
+   "tell": "figa names the gesture and any amulet of it, in any material; azabache names the jet the Spanish and Caribbean version is cut from, whatever shape it takes"
+  }
+ ],
+ "links": [
+  {
+   "label": "A Hispanic amulet against disease in infants — Hektoen International",
+   "url": "https://hekint.org/2023/10/10/a-hispanic-amulet-against-disease-in-infants/"
+  },
+  {
+   "label": "Jet (gemstone) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jet_(gemstone)"
+  }
+ ],
+ "sources": [
+  "s:web-hektoen-azabache",
+  "s:wp-jet-gemstone",
+  "s:wp-fig-sign",
+  "s:wp-evil-eye"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-hektoen-azabache"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-hektoen-azabache",
+    "note": "the red-bead paragraph is marked as this project's inference where it appears"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "the resin-versus-jet point is reasoned from the jet identification tests in the cited gemstone source; no market survey behind it"
+   },
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-jet-gemstone",
+    "note": "1400 is a rounding of 'the end of the Middle Ages'; treat it as a marker, not a first attestation"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A piece of jet — fossil wood, black, warm to the touch, light in the hand — cut either as a small clenched fist with the thumb pushed between the first two fingers, or as a faceted black bead.",
+ "region_terms": [
+  {
+   "key": "iberia",
+   "name": "Iberia",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "caribbean",
+   "name": "The Caribbean",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "diaspora",
+   "name": "Diaspora",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "a practice carried out of its home region and kept"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "figa",
+   "type": "amulet",
+   "name": "Figa",
+   "as": "the gesture this fist is a frozen copy of, and the reason it is also called a higa",
+   "rel": "motif"
+  },
+  {
+   "to": "jet",
+   "type": "material",
+   "name": "Jet",
+   "as": "the material the amulet is named after — azabache is simply the Spanish for it",
+   "rel": "material"
+  },
+  {
+   "to": "fist",
+   "type": "motif",
+   "name": "The fig fist",
+   "as": "the sign, filed in this atlas with the eye and the horn as things that catch a glance",
+   "rel": "motif"
+  },
+  {
+   "to": "ojo-de-venado",
+   "type": "amulet",
+   "name": "Ojo de venado",
+   "as": "the other charm put on a Latin American newborn against mal de ojo, in seed rather than stone",
+   "rel": "kin"
+  },
+  {
+   "to": "cornicello",
+   "type": "amulet",
+   "name": "Cornicello",
+   "as": "the Neapolitan answer: red coral instead of black jet, a horn instead of a fist",
+   "rel": "parallel"
+  },
+  {
+   "to": "red-string",
+   "type": "amulet",
+   "name": "Red string",
+   "as": "the red bead on the end of the chain, which runs with black stone right across the Mediterranean",
+   "rel": "kin"
+  },
+  {
+   "to": "most-of-them-are-for-children",
+   "type": "story",
+   "name": "Most of them are for children",
+   "as": "the long read this belongs in — it goes on within days of birth",
+   "rel": "story"
+  },
+  {
+   "to": "latin-american-folk-catholic",
+   "type": "tradition",
+   "name": "Latin American folk Catholic charm practice",
+   "as": "the tradition that carried it from Asturias to San Juan",
+   "rel": "tradition"
+  },
+  {
+   "to": "nazar",
+   "type": "amulet",
+   "name": "Nazar",
+   "as": "the same harm answered with glass and an eye instead of jet and a hand",
+   "rel": "parallel"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:web-hektoen-azabache",
+   "kind": "journal",
+   "title": "A Hispanic amulet against disease in infants",
+   "author": "Edward Tabor",
+   "publisher": "Hektoen International: A Journal of Medical Humanities",
+   "url": "https://hekint.org/2023/10/10/a-hispanic-amulet-against-disease-in-infants/",
+   "date": "2023",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-jet-gemstone",
+   "kind": "encyclopedia",
+   "title": "Jet (gemstone)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jet_(gemstone)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fig-sign",
+   "kind": "encyclopedia",
+   "title": "Fig sign",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fig_sign",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-evil-eye",
+   "kind": "encyclopedia",
+   "title": "Evil eye",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Evil_eye",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:web-hektoen-azabache"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:web-hektoen-azabache",
+   "note": "the red-bead paragraph is marked as this project's inference where it appears"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:web-hektoen-azabache"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "the resin-versus-jet point is reasoned from the jet identification tests in the cited gemstone source; no market survey behind it"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:web-hektoen-azabache"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-jet-gemstone",
+   "note": "1400 is a rounding of 'the end of the Middle Ages'; treat it as a marker, not a first attestation"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:web-hektoen-azabache"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "parents in Hispanic families, as surveyed by Edward Tabor",
+   "quote": "",
+   "source": "s:web-hektoen-azabache",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "child-harm",
+   "label": "Harm to a child",
+   "gloss": "harm to an infant or a small child; common across the atlas, though not the largest class in it — see /story/most-of-them-are-for-children/",
+   "who": "Tabor's respondents, who name sudden infant death first",
+   "quote": "",
+   "source": "s:web-hektoen-azabache",
+   "tier": "cited",
+   "note": "also diarrhoea, respiratory infections and deformities"
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "Tabor's respondents",
+   "quote": "",
+   "source": "s:web-hektoen-azabache",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "jet",
+   "label": "Jet",
+   "kind": "stone"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "wrist",
+   "label": "On the wrist",
+   "group": "body"
+  },
+  {
+   "key": "cradle",
+   "label": "On a cradle",
+   "group": "placed"
+  },
+  {
+   "key": "sewn-in",
+   "label": "Sewn into clothing",
+   "group": "carried"
+  }
+ ],
+ "form_fact": {
+  "key": "pendant",
+  "label": "Pendant"
+ },
+ "holding_facts": [],
+ "span": "1400 CE to now",
+ "country_names": [
+  {
+   "iso": "ES",
+   "name": "Spain"
+  },
+  {
+   "iso": "PR",
+   "name": "Puerto Rico"
+  },
+  {
+   "iso": "CU",
+   "name": "Cuba"
+  },
+  {
+   "iso": "DO",
+   "name": "Dominican Rep."
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "bulla",
+   "type": "amulet",
+   "name": "Bulla",
+   "as": "the same idea in Spanish and Latin American hands — a charm put on an infant at once, against the same look",
+   "rel": "parallel"
+  },
+  {
+   "from": "figa",
+   "type": "amulet",
+   "name": "Figa",
+   "as": "the Caribbean and Spanish jet version of this exact hand, under a name taken from the stone",
+   "rel": "descendant"
+  },
+  {
+   "from": "milagro",
+   "type": "amulet",
+   "name": "Milagro",
+   "as": "the other Hispanic charm pinned to a body rather than a saint — that one goes on the baby",
+   "rel": "kin"
+  },
+  {
+   "from": "ojo-de-venado",
+   "type": "amulet",
+   "name": "Ojo de venado",
+   "as": "the other charm Hispanic families put on an infant against mal de ojo, in jet rather than seed",
+   "rel": "kin"
+  },
+  {
+   "from": "latin-american-folk-catholic",
+   "type": "tradition",
+   "name": "Latin American folk Catholic charm practice",
+   "as": "its earliest arrival: a jet fist out of Asturias by way of Santiago de Compostela, tied on a Caribbean newborn in the first week",
+   "rel": "carries"
+  },
+  {
+   "from": "fist",
+   "type": "motif",
+   "name": "The fig fist",
+   "as": "the Spanish jet charm the figa is the commonest form of",
+   "rel": "carried-by"
+  },
+  {
+   "from": "coral",
+   "type": "material",
+   "name": "Red coral",
+   "as": "the Puerto Rican child's bracelet, whose fist is black jet or red coral",
+   "rel": "carried-by"
+  },
+  {
+   "from": "jet",
+   "type": "material",
+   "name": "Jet",
+   "as": "the bracelet named after this material in Spanish, and the commonest thing put on an infant in Puerto Rico",
+   "rel": "carried-by"
+  },
+  {
+   "from": "most-of-them-are-for-children",
+   "type": "story",
+   "name": "Most of them are for children",
+   "as": "the living case, with a survey, a price and a mother's own sentence behind it",
+   "rel": "carries"
+  }
+ ]
+}

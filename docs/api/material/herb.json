@@ -1,0 +1,657 @@
+{
+ "schema": 1,
+ "id": "herb",
+ "type": "material",
+ "names": {
+  "name": "Herb and root",
+  "native": "cima di ruta",
+  "lang": "it",
+  "said": "cimaruta, Neapolitan for 'sprig of rue'",
+  "aliases": [
+   "rue",
+   "roots",
+   "simples",
+   "hierbas",
+   "goofer-root"
+  ]
+ },
+ "region": [
+  "rome-italy",
+  "britain-ireland",
+  "mesoamerica",
+  "west-africa",
+  "north-america",
+  "arabia-gulf",
+  "island-sea"
+ ],
+ "countries": [
+  "IT",
+  "GB",
+  "MX",
+  "SN",
+  "US",
+  "PH",
+  "CD"
+ ],
+ "facets": {
+  "kind": "plant"
+ },
+ "text": {
+  "what": "Leaves, roots, bark, bulbs and dried fruit, used either as the charm itself or as the filling of one. Herbs are the cheapest material in this atlas and the hardest to study, because almost none of it survives and most of what we know comes from a market stall or a court record rather than a dig.",
+  "story": "Southern Italy named a silver charm after a plant. The cimaruta — Neapolitan cima di ruta, sprig of rue, after the flowering medicinal herb — is worn at the neck or hung over an infant's bed against the malocchio, and is usually made of silver. From a central stalk of rue, branches sprout into small charms: a rose, a hand holding a wand or a sword, a flaming heart, a fish, a crescent moon, a snake, an owl, a plumed helmet, a vervain blossom, a dolphin, a cock, an eagle. One might carry a key, a dagger, a blossom and a moon together. Most are double-sided and some are almost four inches across. The plant is the armature; the metal is the survival strategy.\n\nThe same region hangs the plant itself. Dried chili peppers are hung in some southern Italian homes against the malocchio, and the cited account is careful about the chronology: chili reached Europe only after the Columbian exchange, so a red cornicello's resemblance to a chili postdates the amulet, whose horn shape is far older.\n\nEngland put herbs in the bottle. Later witch bottles were filled with rosemary, needles and pins, and red wine, and the account states what each component does: the bottle captures evil that is impaled on the pins and needles, drowned by the wine, and sent away by the rosemary. Other bottles held sand, stones, knotted threads, feathers, shells, herbs, flowers, salt, vinegar, oil, coins or ashes.\n\nMexico City sells the material by the kilo, and the supply routes are on the record: medicinal herbs at the Mercado de Sonora come from Puebla, Morelos and the State of Mexico. Avocado leaves are sold for inflammations, chiranthodendron for the heart, jacaranda flowers for the stomach. The magical aisles carry chains of garlic to ward off evil, crosses of ocote wood for good luck, and a seed called deer's eye against the evil eye. During the H1N1 scare in 2009, when business at the market fell about fifty per cent, a ten-herb blend designed to prevent and treat the flu — eucalyptus, bougainvillea and tejocote fruit among them — kept herb sellers solvent at 80 pesos per kilo.\n\nWest Africa bags them with scripture. Gris-gris were usually made as small sacks holding Qur'anic verses written on paper together with herbs, worn at the neck. In the American South the same bagging carried on: mojo ingredients include graveyard dirt, roots, herbs, animal parts, minerals, coins and crystals, with African religious preparation applied to North American plants and Native American herbal knowledge; the lucky hand root was favoured by gamblers, and a goofer bag takes goofer-root. Islamic practice approved by strict conservatives includes water to which have been added \"salt, rose essence, oil of black caraway, or the leaves of the lote tree\".\n\n*Inference —* there is no herb in a museum tray. The record for this material is written, spoken and photographed, and the one time the contents of a herbal charm in this atlas were identified by a laboratory, it was because somebody had corked them in glass. Every date in this record is the date somebody wrote something down.",
+  "how": "Dried, bundled, hung, strung, stuffed into a bag or a bottle, or brewed. The Highland taboo around the rowan shows how carefully the rules can be drawn: no part of the tree was to be used save the berries, except for ritual purposes — a threshing tool of rowan called a buaitean was used on grain meant for rituals and celebrations.",
+  "today": "Herb sellers work at the edge of the law in two of the places this atlas names, and both cases involve women with no other option. Around Quiapo Church in Manila, peddlers sell unsafe abortifacients, gastric irritants and untested herbal remedies from stalls surrounding the basilica and Plaza Miranda; abortion is illegal in the Philippines, and people who cannot afford a surgical procedure go to these vendors. At the Mercado de Sonora, as late as the 1990s and before medical abortion was legalised in Mexico City, an herbal abortifacient was sought there; the sellers did not administer it but told the client what to use and how, leaving her to carry the medical and legal risk, and the treatment always led to haemorrhaging that required medical attention. Both accounts are printed here as they stand."
+ },
+ "dating": {
+  "period": "documented from the nineteenth century; older in practice",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "undated at its start; in use now",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-cimaruta",
+  "note": "No source read here dates the earliest use of a herb as a charm, and this record will not guess one. The datable anchors are all recent: R. T. Günther's study of the cimaruta was published in Folk-lore in 1905, British folklorists reported rowan lore from 1856 onward, the Mercado de Sonora opened in 1957, and the chili could not have reached Italy before the Columbian exchange. Because from_year is blank, this record does not appear on the timeline, and that absence is accurate."
+ },
+ "object": {
+  "form": "bag",
+  "materials": [
+   "herb",
+   "seed",
+   "cloth",
+   "paper"
+  ],
+  "worn": [
+   "neck",
+   "door",
+   "hearth",
+   "pocket",
+   "swallowed"
+  ],
+  "source": "s:wp-mercado-de-sonora"
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "stallholders at the Mercado de Sonora, who sell chains of garlic to ward off evil and a deer's-eye seed against the evil eye",
+   "source": "s:wp-mercado-de-sonora",
+   "tier": "cited"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "southern Italian households, who hang dried chili peppers against the malocchio",
+   "source": "s:wp-cornicello",
+   "tier": "cited"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "English folk healers, in whose bottles evil is impaled on the pins, drowned by the wine and sent away by the rosemary",
+   "source": "s:wp-witch-bottle",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "Mexico City herb sellers, whose ten-herb blend against the 2009 flu sold at 80 pesos per kilo",
+   "source": "s:wp-mercado-de-sonora",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "Hoodoo conjure workers, for whom the lucky hand root was a gambler's ingredient",
+   "source": "s:wp-mojo-bag",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "cimaruta",
+   "as": "a sprig of rue cast in silver: the plant kept as a shape once the plant itself had rotted",
+   "rel": "carried-by"
+  },
+  {
+   "to": "nimbu-mirchi",
+   "as": "South Asia's hung plant charm, doing at a doorway what the Italian chili string does",
+   "rel": "parallel"
+  },
+  {
+   "to": "gris-gris",
+   "as": "the West African sack of written verse and herbs, and the parent of the American bagged charm",
+   "rel": "carried-by"
+  },
+  {
+   "to": "witch-bottle",
+   "as": "the only sealed container in this atlas whose herbal contents were ever named by a laboratory",
+   "rel": "carried-by"
+  },
+  {
+   "to": "mercado-de-sonora",
+   "as": "the market where this material is still weighed, priced and argued over",
+   "rel": "place"
+  },
+  {
+   "to": "quiapo-church",
+   "as": "the other place where herb selling runs against the law, and the reason this record's last paragraph exists",
+   "rel": "place"
+  },
+  {
+   "to": "rowan-cross",
+   "as": "the tree whose berries were permitted and whose wood was not, except for ritual",
+   "rel": "kin"
+  },
+  {
+   "to": "seed",
+   "as": "the hard part of the same plant, which does survive, and therefore does have a record",
+   "rel": "parallel"
+  },
+  {
+   "to": "wood",
+   "as": "the other plant material, kept for its structure rather than its chemistry",
+   "rel": "parallel"
+  },
+  {
+   "to": "feeding-the-charm",
+   "as": "the practice that keeps a plant charm renewed, since the material itself will not last",
+   "rel": "practice"
+  }
+ ],
+ "links": [
+  {
+   "label": "Cimaruta — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cimaruta"
+  },
+  {
+   "label": "Mercado de Sonora — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mercado_de_Sonora"
+  }
+ ],
+ "sources": [
+  "s:wp-cimaruta",
+  "s:wp-cornicello",
+  "s:wp-witch-bottle",
+  "s:wp-mercado-de-sonora",
+  "s:wp-gris-gris-talisman",
+  "s:wp-mojo-bag",
+  "s:wp-islam-and-magic",
+  "s:wp-rowan",
+  "s:wp-quiapo-church"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-mercado-de-sonora"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-cimaruta",
+    "note": "the closing paragraph on the absent museum record is this project's inference and is marked in the text"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-quiapo-church"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Cimaruta.jpg",
+  "File:Mercado de Sonora hierbas.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-17",
+ "blurb": "Leaves, roots, bark, bulbs and dried fruit, used either as the charm itself or as the filling of one.",
+ "region_terms": [
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "mesoamerica",
+   "name": "Mesoamerica",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "west-africa",
+   "name": "West Africa",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "arabia-gulf",
+   "name": "Arabia and the Gulf",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "island-sea",
+   "name": "Island Southeast Asia",
+   "hemi": [
+    "N",
+    "S",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "cimaruta",
+   "type": "amulet",
+   "name": "Cimaruta",
+   "as": "a sprig of rue cast in silver: the plant kept as a shape once the plant itself had rotted",
+   "rel": "carried-by"
+  },
+  {
+   "to": "nimbu-mirchi",
+   "type": "amulet",
+   "name": "Nimbu mirchi",
+   "as": "South Asia's hung plant charm, doing at a doorway what the Italian chili string does",
+   "rel": "parallel"
+  },
+  {
+   "to": "gris-gris",
+   "type": "amulet",
+   "name": "Gris-gris",
+   "as": "the West African sack of written verse and herbs, and the parent of the American bagged charm",
+   "rel": "carried-by"
+  },
+  {
+   "to": "witch-bottle",
+   "type": "amulet",
+   "name": "Witch bottle",
+   "as": "the only sealed container in this atlas whose herbal contents were ever named by a laboratory",
+   "rel": "carried-by"
+  },
+  {
+   "to": "mercado-de-sonora",
+   "type": "place",
+   "name": "Mercado de Sonora",
+   "as": "the market where this material is still weighed, priced and argued over",
+   "rel": "place"
+  },
+  {
+   "to": "quiapo-church",
+   "type": "place",
+   "name": "Quiapo Church",
+   "as": "the other place where herb selling runs against the law, and the reason this record's last paragraph exists",
+   "rel": "place"
+  },
+  {
+   "to": "rowan-cross",
+   "type": "amulet",
+   "name": "Rowan cross",
+   "as": "the tree whose berries were permitted and whose wood was not, except for ritual",
+   "rel": "kin"
+  },
+  {
+   "to": "seed",
+   "type": "material",
+   "name": "Seed and nut",
+   "as": "the hard part of the same plant, which does survive, and therefore does have a record",
+   "rel": "parallel"
+  },
+  {
+   "to": "wood",
+   "type": "material",
+   "name": "Wood",
+   "as": "the other plant material, kept for its structure rather than its chemistry",
+   "rel": "parallel"
+  },
+  {
+   "to": "feeding-the-charm",
+   "type": "practice",
+   "name": "Feeding the charm",
+   "as": "the practice that keeps a plant charm renewed, since the material itself will not last",
+   "rel": "practice"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-cimaruta",
+   "kind": "encyclopedia",
+   "title": "Cimaruta",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cimaruta",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cornicello",
+   "kind": "encyclopedia",
+   "title": "Cornicello",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cornicello",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-witch-bottle",
+   "kind": "encyclopedia",
+   "title": "Witch bottle",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Witch_bottle",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mercado-de-sonora",
+   "kind": "encyclopedia",
+   "title": "Mercado de Sonora",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mercado_de_Sonora",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-gris-gris-talisman",
+   "kind": "encyclopedia",
+   "title": "Gris-gris (talisman)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gris-gris_(talisman)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mojo-bag",
+   "kind": "encyclopedia",
+   "title": "Mojo bag",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mojo_bag",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-islam-and-magic",
+   "kind": "encyclopedia",
+   "title": "Islam and magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Islam_and_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-rowan",
+   "kind": "encyclopedia",
+   "title": "Rowan",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rowan",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-quiapo-church",
+   "kind": "encyclopedia",
+   "title": "Quiapo Church",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Quiapo_Church",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-mercado-de-sonora"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-cimaruta",
+   "note": "the closing paragraph on the absent museum record is this project's inference and is marked in the text"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-mercado-de-sonora"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-quiapo-church"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-mercado-de-sonora"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-mercado-de-sonora"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "stallholders at the Mercado de Sonora, who sell chains of garlic to ward off evil and a deer's-eye seed against the evil eye",
+   "quote": "",
+   "source": "s:wp-mercado-de-sonora",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "southern Italian households, who hang dried chili peppers against the malocchio",
+   "quote": "",
+   "source": "s:wp-cornicello",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "witchcraft",
+   "label": "Another person's sorcery",
+   "who": "English folk healers, in whose bottles evil is impaled on the pins, drowned by the wine and sent away by the rosemary",
+   "quote": "",
+   "source": "s:wp-witch-bottle",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "Mexico City herb sellers, whose ten-herb blend against the 2009 flu sold at 80 pesos per kilo",
+   "quote": "",
+   "source": "s:wp-mercado-de-sonora",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "Hoodoo conjure workers, for whom the lucky hand root was a gambler's ingredient",
+   "quote": "",
+   "source": "s:wp-mojo-bag",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "herb",
+   "label": "Herb and root",
+   "kind": "plant"
+  },
+  {
+   "key": "seed",
+   "label": "Seed and nut",
+   "kind": "plant"
+  },
+  {
+   "key": "cloth",
+   "label": "Cloth",
+   "kind": "textile"
+  },
+  {
+   "key": "paper",
+   "label": "Paper",
+   "kind": "written"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  },
+  {
+   "key": "hearth",
+   "label": "At the hearth",
+   "group": "placed"
+  },
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  },
+  {
+   "key": "swallowed",
+   "label": "Swallowed or drunk",
+   "group": "taken",
+   "note": "washed-off ink, dissolved paper"
+  }
+ ],
+ "form_fact": {
+  "key": "bag",
+  "label": "Bag"
+ },
+ "holding_facts": [],
+ "span": "undated",
+ "country_names": [
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "MX",
+   "name": "Mexico"
+  },
+  {
+   "iso": "SN",
+   "name": "Senegal"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "PH",
+   "name": "Philippines"
+  },
+  {
+   "iso": "CD",
+   "name": "Dem. Rep. Congo"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "cimaruta",
+   "type": "amulet",
+   "name": "Cimaruta",
+   "as": "what it is a portrait of: rue, a medicinal plant, reproduced in metal so it never wilts",
+   "rel": "material"
+  },
+  {
+   "from": "four-leaf-clover",
+   "type": "amulet",
+   "name": "Four-leaf clover",
+   "as": "what it actually is: a plant, carried dead and flattened, and the only charm in this atlas measured by a botanical survey",
+   "rel": "material"
+  },
+  {
+   "from": "salt",
+   "type": "material",
+   "name": "Salt",
+   "as": "the other material that goes into a charm and rots or dissolves out of the record",
+   "rel": "parallel"
+  },
+  {
+   "from": "seed",
+   "type": "material",
+   "name": "Seed and nut",
+   "as": "the soft part of the same plant, which leaves no trace where the stone would",
+   "rel": "parallel"
+  },
+  {
+   "from": "marrakesh-souk",
+   "type": "place",
+   "name": "The Marrakesh souk",
+   "as": "the material the square's medicine peddlers trade in, named in UNESCO's file on the place",
+   "rel": "material"
+  },
+  {
+   "from": "mercado-de-las-brujas-la-paz",
+   "type": "place",
+   "name": "El Mercado de las Brujas",
+   "as": "the working stock of the stalls, retama among it",
+   "rel": "material"
+  },
+  {
+   "from": "mercado-de-las-brujas-lima",
+   "type": "place",
+   "name": "Mercado de Brujas de Gamarra",
+   "as": "the stock most of these stalls turn on, at 10 to 30 soles in October 2024",
+   "rel": "material"
+  },
+  {
+   "from": "mercado-de-sonora",
+   "type": "place",
+   "name": "Mercado de Sonora",
+   "as": "the material half of this market's reputation, and inseparable from the other half",
+   "rel": "material"
+  },
+  {
+   "from": "quiapo-church",
+   "type": "place",
+   "name": "Quiapo Church",
+   "as": "the other stock of the plaza stalls, and the part the Archdiocese has condemned",
+   "rel": "material"
+  }
+ ]
+}

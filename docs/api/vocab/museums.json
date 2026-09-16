@@ -1,0 +1,162 @@
+{
+ "note": "Collections a record may point at in holdings[]. `open` marks a collection that publishes its images under an open licence — that is a fact about the licence, never a judgement about the collection.",
+ "entries": [
+  {
+   "key": "british-museum",
+   "label": "The British Museum",
+   "city": "London",
+   "country": "GB",
+   "url": "https://www.britishmuseum.org/collection"
+  },
+  {
+   "key": "met",
+   "label": "The Metropolitan Museum of Art",
+   "city": "New York",
+   "country": "US",
+   "url": "https://www.metmuseum.org/art/collection",
+   "open": true
+  },
+  {
+   "key": "louvre",
+   "label": "Musée du Louvre",
+   "city": "Paris",
+   "country": "FR",
+   "url": "https://collections.louvre.fr/"
+  },
+  {
+   "key": "egyptian-museum-cairo",
+   "label": "The Egyptian Museum",
+   "city": "Cairo",
+   "country": "EG",
+   "url": "https://egymonuments.gov.eg/"
+  },
+  {
+   "key": "petrie",
+   "label": "The Petrie Museum of Egyptian Archaeology",
+   "city": "London",
+   "country": "GB",
+   "url": "https://www.ucl.ac.uk/culture/petrie-museum"
+  },
+  {
+   "key": "pitt-rivers",
+   "label": "The Pitt Rivers Museum",
+   "city": "Oxford",
+   "country": "GB",
+   "url": "https://www.prm.ox.ac.uk/"
+  },
+  {
+   "key": "wellcome",
+   "label": "Wellcome Collection",
+   "city": "London",
+   "country": "GB",
+   "url": "https://wellcomecollection.org/",
+   "open": true
+  },
+  {
+   "key": "rijksmuseum",
+   "label": "Rijksmuseum",
+   "city": "Amsterdam",
+   "country": "NL",
+   "url": "https://www.rijksmuseum.nl/en",
+   "open": true
+  },
+  {
+   "key": "smithsonian",
+   "label": "Smithsonian Institution",
+   "city": "Washington",
+   "country": "US",
+   "url": "https://www.si.edu/",
+   "open": true
+  },
+  {
+   "key": "penn-museum",
+   "label": "The Penn Museum",
+   "city": "Philadelphia",
+   "country": "US",
+   "url": "https://www.penn.museum/"
+  },
+  {
+   "key": "ashmolean",
+   "label": "The Ashmolean Museum",
+   "city": "Oxford",
+   "country": "GB",
+   "url": "https://www.ashmolean.org/"
+  },
+  {
+   "key": "national-museum-denmark",
+   "label": "The National Museum of Denmark",
+   "city": "Copenhagen",
+   "country": "DK",
+   "url": "https://en.natmus.dk/"
+  },
+  {
+   "key": "quai-branly",
+   "label": "Musée du quai Branly — Jacques Chirac",
+   "city": "Paris",
+   "country": "FR",
+   "url": "https://www.quaibranly.fr/"
+  },
+  {
+   "key": "tokyo-national",
+   "label": "Tokyo National Museum",
+   "city": "Tokyo",
+   "country": "JP",
+   "url": "https://www.tnm.jp/"
+  },
+  {
+   "key": "national-museum-korea",
+   "label": "The National Museum of Korea",
+   "city": "Seoul",
+   "country": "KR",
+   "url": "https://www.museum.go.kr/"
+  },
+  {
+   "key": "te-papa",
+   "label": "Museum of New Zealand Te Papa Tongarewa",
+   "city": "Wellington",
+   "country": "NZ",
+   "url": "https://www.tepapa.govt.nz/",
+   "open": true
+  },
+  {
+   "key": "national-museum-thailand",
+   "label": "The National Museum Bangkok",
+   "city": "Bangkok",
+   "country": "TH",
+   "url": "https://www.finearts.go.th/"
+  },
+  {
+   "key": "israel-museum",
+   "label": "The Israel Museum",
+   "city": "Jerusalem",
+   "country": "IL",
+   "url": "https://www.imj.org.il/"
+  },
+  {
+   "key": "iraq-museum",
+   "label": "The Iraq Museum",
+   "city": "Baghdad",
+   "country": "IQ",
+   "url": "https://theiraqmuseum.com/"
+  },
+  {
+   "key": "museo-larco",
+   "label": "Museo Larco",
+   "city": "Lima",
+   "country": "PE",
+   "url": "https://www.museolarco.org/"
+  },
+  {
+   "key": "nma-australia",
+   "label": "The National Museum of Australia",
+   "city": "Canberra",
+   "country": "AU",
+   "url": "https://www.nma.gov.au/"
+  },
+  {
+   "key": "other",
+   "label": "Another collection",
+   "note": "name it in `what` when it has no key here yet"
+  }
+ ]
+}

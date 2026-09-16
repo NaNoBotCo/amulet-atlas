@@ -1,0 +1,87 @@
+{
+ "schema": 1,
+ "id": "cornicello",
+ "type": "amulet",
+ "names": {
+  "name": "Cornicello",
+  "native": "cornicello",
+  "script": "Latin",
+  "lang": "it",
+  "said": "kor-nee-CHEL-lo; in Neapolitan curniciello",
+  "aliases": ["cornetto", "corno", "corno portafortuna", "curniciello", "Italian horn"]
+ },
+ "etymology": {
+  "root": "Italian corno 'horn' with the diminutive -icello: 'little horn'. The fuller name corno portafortuna is 'horn that brings luck'.",
+  "tier": "cited",
+  "source": "s:wp-cornicello"
+ },
+ "region": ["rome-italy", "diaspora", "north-america"],
+ "countries": ["IT", "US"],
+ "facets": {"era": "modern", "status": "living", "portable": "worn", "restricted": "open", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A single twisted horn, a few centimetres long, tapering to a point and pierced at the wide end for a chain. Gold, silver, plastic, bone, terracotta or red coral. The red ones look like a chili pepper, which is an accident of history: chilis only reached Europe after the Columbian exchange, and the horn shape is much older than the resemblance.",
+  "story": "The cornicello is worn against the evil eye — malocchio — and against bad luck in general, and historically to promote fertility and virility. The harm it answers is described precisely by the people who wear it: the eye is held to strike nursing mothers and their babies, fruit-bearing trees, milking animals and the sperm of men. Those are the forces of generation, and a horn is an answer in kind.\n\nThe shape is said to be modelled on an eland horn, for fertility, virility and strength. Its materials carry their own connections in the tradition's own telling: coral is sacred to Venus, goddess of love, fertility, sex and prosperity; silver to Luna, goddess of the moon; the phallic shape and the red colour point to Priapus, a male fertility god; the horn itself is tied to Pan, and the broken goat's horn Zeus filled with fruit and flowers became the cornucopia.\n\nIt is a regional object, not a national one. Cornicelli are most often worn by men in southern Italy, above all in Campania, then Lazio, Apulia and Basilicata, and to a lesser extent Sicily and Calabria — and by the descendants of Italian emigrants elsewhere. Dried chili peppers are hung in some southern Italian homes against the same harm, which is how the resemblance became a second charm.\n\nThe horn also has a hand. The mano cornuta, the horned hand, is an Italian gesture — and an amulet imitating the gesture — made with the hand levelled or pointing down, usually with a swivelling or oscillating motion, against the same eye.",
+  "how": "Cast or carved: gold and silver for the good ones, red coral for the old ones, plastic for the cheap ones, bone and terracotta in between. Pierced at the broad end and hung on a neck chain. It is also hung from the rear-view mirrors of cars — a move the source ties to the older custom of hanging them on draft horses — and in houses. Nothing is recorded about charging it or retiring it.",
+  "today": "Made and sold in enormous numbers, in gold at jewellers and in plastic at every tourist stall in Naples, and worn worldwide by people of Italian descent and by people with no connection to Campania at all. *Inference —* the horn has crossed from a charm against a named harm to a badge of origin, and the two uses are worn on the same chain by the same people without anyone being asked to choose."
+ },
+ "dating": {
+  "period": "Modern, on an older shape",
+  "from_year": 1500,
+  "to_year": null,
+  "living": true,
+  "label": "the shape is far older; documented in this form in the modern period, and still worn",
+  "method": "undated",
+  "circa": true,
+  "tier": "inference",
+  "source": "s:wp-cornicello",
+  "note": "The source gives no first attestation. The one datable statement it makes is negative: the chili-pepper resemblance postdates the Columbian exchange, while the horn shape is far older. The start here is therefore set at the sixteenth century as a conservative floor derived from that sentence, and it is this project's inference, not a documented date. Treat it as soft."
+ },
+ "object": {
+  "form": "horn",
+  "materials": ["gold", "silver", "plastic", "bone", "terracotta", "coral"],
+  "worn": ["neck", "vehicle", "wall"],
+  "made_by": "jewellers and coral workers; no restriction on who may wear one",
+  "inscription": "",
+  "colour": ["red", "gold", "silver"],
+  "single_use": false,
+  "source": "s:wp-cornicello",
+  "note": "No published measurement was read, so no length is entered."
+ },
+ "against": [
+  {"harm": "evil-eye", "who": "Italian wearers, who name it malocchio", "source": "s:wp-cornicello", "tier": "cited"},
+  {"harm": "infertility", "who": "the tradition's own account, in which the horn answers harm aimed at nursing mothers, bearing fruit trees, milking animals and the sperm of men", "source": "s:wp-cornicello", "tier": "cited"},
+  {"harm": "bad-luck", "who": "the name itself: corno portafortuna, the horn that brings luck", "source": "s:wp-cornicello", "tier": "cited"},
+  {"harm": "livestock", "who": "the older custom the car charm descends from — hanging horns on draft horses", "source": "s:wp-cornicello", "tier": "cited"},
+  {"harm": "traffic", "who": "present-day Italian drivers, who hang one from the rear-view mirror", "source": "s:wp-cornicello", "tier": "tradition", "note": "the source records the practice; it does not record drivers saying what the charm is for in a car, so the harm is inferred from the setting and hedged here"}
+ ],
+ "kin": [
+  {"to": "horn", "as": "the sign itself, and the reason this atlas files a phallic charm, a gesture and a goat's horn in one family", "rel": "motif"},
+  {"to": "eye", "as": "the harm it answers; southern Italy substitutes a horn where the eastern Mediterranean draws an eye", "rel": "contrast"},
+  {"to": "coral", "as": "the old material, red, sacred to Venus in the tradition's own account, and the one a Naples workshop still cuts", "rel": "material"},
+  {"to": "fascinum", "as": "the Roman ancestor in the same peninsula: a different body part, the same interception", "rel": "origin"},
+  {"to": "cimaruta", "as": "the other Italian charm against malocchio, which puts a dozen signs on one branch where this one puts one", "rel": "parallel"},
+  {"to": "fist", "as": "the gesture-amulet family the mano cornuta belongs to — a hand frozen mid-sign against the same eye", "rel": "parallel"},
+  {"to": "phallic-sign", "as": "what the shape and the red colour point to in the tradition's own telling, through Priapus", "rel": "motif"},
+  {"to": "san-gregorio-armeno", "as": "the Naples street where these are cast, carved and sold by the tray", "rel": "place"},
+  {"to": "car-saint", "as": "where it hangs now: from the rear-view mirror, beside or instead of a saint", "rel": "parallel"},
+  {"to": "nazar", "as": "the object it competes with across the Mediterranean, answering the same harm with the opposite strategy", "rel": "parallel"},
+  {"to": "frederick-elworthy", "as": "the Victorian who collected charms of this kind in Italy and published The Evil Eye in 1895", "rel": "person"},
+  {"to": "the-eye-everywhere", "as": "the long read that runs the horn and the eye together and asks which one came first", "rel": "story"}
+ ],
+ "confusable_with": [
+  {"id": "cimaruta", "tell": "one horn, smooth and twisted, versus a branching stalk hung with a dozen small charms"}
+ ],
+ "links": [{"label": "Cornicello — Wikipedia", "url": "https://en.wikipedia.org/wiki/Cornicello"}],
+ "sources": ["s:wp-cornicello", "s:wp-evil-eye", "s:wp-fascinus", "s:wp-coral", "s:wp-frederick-thomas-elworthy", "s:wp-via-san-gregorio-armeno"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-cornicello"},
+  "fields": {
+   "dating": {"tier": "inference", "source": "s:wp-cornicello", "note": "no first attestation is published in the source; the floor is reasoned from the chili-pepper sentence and flagged in the field's note"},
+   "text.today": {"tier": "inference", "note": "the badge-of-origin reading is this project's, and is marked in the prose"}
+  }
+ },
+ "images": [],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

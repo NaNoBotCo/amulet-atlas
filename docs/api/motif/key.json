@@ -1,0 +1,349 @@
+{
+ "schema": 1,
+ "id": "key",
+ "type": "motif",
+ "names": {
+  "name": "The key",
+  "aliases": [
+   "crossed keys",
+   "key of life",
+   "Legba's key"
+  ]
+ },
+ "region": [
+  "caribbean",
+  "island-sea",
+  "rome-italy",
+  "ancient-egypt"
+ ],
+ "countries": [
+  "HT",
+  "PH",
+  "IT",
+  "EG"
+ ],
+ "facets": {
+  "era": "medieval",
+  "family": "tool",
+  "hemisphere": [
+   "N",
+   "E",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A key, drawn or hung. Nobody in this record carries one to open anything. The sign works on the idea that somewhere there is a door, that somebody holds the key to it, and that showing the key shows whose side you are on.",
+  "story": "Haiti keeps the clearest statement of it. Most lwa are matched to Roman Catholic saints by an analogy between their functions, and Papa Legba, as the key to the spirit world, is typically associated with Saint Peter, who traditionally holds keys in Roman Catholic imagery. That is not a resemblance somebody noticed later; it is the documented mechanism by which Vodou and Catholicism were joined, and the key is the hinge of the pairing.\n\nManila carries the keys on a building. Quiapo Church, built in the Baroque style, had a quatrefoil window in the centre of its pediment sealed up in the late 1980s and replaced with a relief of the crossed keys and tiara of the pope, marking its status as a minor basilica. The keys sit above a plaza where amulets and remedies are sold from stalls.\n\nNaples hangs one on a sprig. The cimaruta's branches sprout small charms in combinations that vary by region, and the cited account gives one example outright: a cimaruta might bear the collective imagery of a key, dagger, blossom and moon.\n\nEgypt supplies a key that is not one. The ankh is known in English as the ankh or as the \"key of life\", the second name based on its meaning rather than its shape; the sign is a T topped by a droplet loop, it wrote the three consonants of the word for life, and it appears in Egyptian art as an object held by deities and handed to the pharaoh. *Inference —* the key reading came from outside. Nothing in the account of the sign's Egyptian use involves a lock, a door or an opening; the loop over a bar was named a key by people who already had a sign for a key and wanted one here. This atlas files it under this motif because that is the name the ankh now travels under, and marks where the name came from.\n\nSo: one documented loan, one badge of rank, one component on a compound charm, and one English gloss. The Neapolitan key sits inside the same Catholic world as the papal keys, and it would be easy to join them; no source read here does, and neither does this record.",
+  "notes": "A short record, and short on purpose. Four appearances, two traditions, and one of the four is a translator's name rather than a carrier's. It is filed under the tool family, added to the vocabulary for it; house would fit it about as well, since half of what a key means here is the door it belongs to."
+ },
+ "dating": {
+  "period": "Predynastic Egypt to the present",
+  "from_year": -2999,
+  "to_year": null,
+  "living": true,
+  "label": "the ankh from c. 3000 BCE; the key proper documented from the colonial Caribbean to now",
+  "method": "art-historical",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-ankh",
+  "note": "The early date belongs to the ankh, which is called the key of life in English and not in Egyptian, so it is a weak floor and is flagged as such. The key as a key is documented here only in Haitian Vodou, which developed between the sixteenth and nineteenth centuries, on Quiapo Church since the late 1980s, and on the cimaruta, whose structure R. T. Günther studied in 1905."
+ },
+ "against": [
+  {
+   "harm": "spirits",
+   "who": "Vodouists, for whom Papa Legba is the key to the spirit world and is matched with the key-holding Saint Peter",
+   "source": "s:wp-haitian-vodou",
+   "tier": "cited"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "southern Italian wearers of the cimaruta, one form of which carries a key among its sprigs",
+   "source": "s:wp-cimaruta",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "ankh-amulet",
+   "as": "the sign English calls the key of life, on the strength of its meaning and not its shape",
+   "rel": "carried-by"
+  },
+  {
+   "to": "cimaruta",
+   "as": "the compound charm that carries a key alongside a dagger, a blossom and a moon",
+   "rel": "carried-by"
+  },
+  {
+   "to": "quiapo-church",
+   "as": "where the crossed keys sit on the pediment, over a plaza full of charm sellers",
+   "rel": "place"
+  },
+  {
+   "to": "cross",
+   "as": "the other Catholic sign that travelled into Vodou by the same route of matched functions",
+   "rel": "parallel"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "the practice this sign points at, even where no key is actually hung",
+   "rel": "practice"
+  },
+  {
+   "to": "patua",
+   "as": "the other Atlantic charm made where Catholic imagery and an African pantheon meet",
+   "rel": "kin"
+  },
+  {
+   "to": "amulet-or-talisman",
+   "as": "the long read on borrowed names, which is what the key of life is",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Ankh — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ankh"
+  },
+  {
+   "label": "Haitian Vodou — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Haitian_Vodou"
+  }
+ ],
+ "sources": [
+  "s:wp-haitian-vodou",
+  "s:wp-quiapo-church",
+  "s:wp-cimaruta",
+  "s:wp-ankh"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-haitian-vodou"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-ankh",
+    "note": "the paragraph on the key of life being an outside name is this project's inference and is marked in the text"
+   },
+   "dating": {
+    "tier": "inference",
+    "source": "s:wp-ankh",
+    "note": "the early floor rests on the ankh, whose key reading is English; treat with caution"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Crossed keys Vatican.jpg",
+  "File:Ankh.svg"
+ ],
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-17",
+ "blurb": "A key, drawn or hung. Nobody in this record carries one to open anything.",
+ "region_terms": [
+  {
+   "key": "caribbean",
+   "name": "The Caribbean",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "island-sea",
+   "name": "Island Southeast Asia",
+   "hemi": [
+    "N",
+    "S",
+    "E"
+   ]
+  },
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Nile valley and delta, Predynastic through Roman Egypt"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "ankh-amulet",
+   "type": "amulet",
+   "name": "Ankh amulet",
+   "as": "the sign English calls the key of life, on the strength of its meaning and not its shape",
+   "rel": "carried-by"
+  },
+  {
+   "to": "cimaruta",
+   "type": "amulet",
+   "name": "Cimaruta",
+   "as": "the compound charm that carries a key alongside a dagger, a blossom and a moon",
+   "rel": "carried-by"
+  },
+  {
+   "to": "quiapo-church",
+   "type": "place",
+   "name": "Quiapo Church",
+   "as": "where the crossed keys sit on the pediment, over a plaza full of charm sellers",
+   "rel": "place"
+  },
+  {
+   "to": "cross",
+   "type": "motif",
+   "name": "The cross",
+   "as": "the other Catholic sign that travelled into Vodou by the same route of matched functions",
+   "rel": "parallel"
+  },
+  {
+   "to": "hanging-at-door",
+   "type": "practice",
+   "name": "Hanging at the door",
+   "as": "the practice this sign points at, even where no key is actually hung",
+   "rel": "practice"
+  },
+  {
+   "to": "patua",
+   "type": "amulet",
+   "name": "Patuá",
+   "as": "the other Atlantic charm made where Catholic imagery and an African pantheon meet",
+   "rel": "kin"
+  },
+  {
+   "to": "amulet-or-talisman",
+   "type": "story",
+   "name": "Amulet or talisman?",
+   "as": "the long read on borrowed names, which is what the key of life is",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-haitian-vodou",
+   "kind": "encyclopedia",
+   "title": "Haitian Vodou",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Haitian_Vodou",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-quiapo-church",
+   "kind": "encyclopedia",
+   "title": "Quiapo Church",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Quiapo_Church",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cimaruta",
+   "kind": "encyclopedia",
+   "title": "Cimaruta",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cimaruta",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ankh",
+   "kind": "encyclopedia",
+   "title": "Ankh",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ankh",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-haitian-vodou"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-ankh",
+   "note": "the paragraph on the key of life being an outside name is this project's inference and is marked in the text"
+  },
+  "dating": {
+   "tier": "inference",
+   "source": "s:wp-ankh",
+   "note": "the early floor rests on the ankh, whose key reading is English; treat with caution"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "Vodouists, for whom Papa Legba is the key to the spirit world and is matched with the key-holding Saint Peter",
+   "quote": "",
+   "source": "s:wp-haitian-vodou",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "southern Italian wearers of the cimaruta, one form of which carries a key among its sprigs",
+   "quote": "",
+   "source": "s:wp-cimaruta",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "3000 BCE to now",
+ "country_names": [
+  {
+   "iso": "HT",
+   "name": "Haiti"
+  },
+  {
+   "iso": "PH",
+   "name": "Philippines"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "cimaruta",
+   "type": "amulet",
+   "name": "Cimaruta",
+   "as": "another of the terminal charms, and one that carries its own meanings across Europe",
+   "rel": "motif"
+  }
+ ]
+}

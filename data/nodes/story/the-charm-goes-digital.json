@@ -1,0 +1,80 @@
+{
+ "schema": 1,
+ "id": "the-charm-goes-digital",
+ "type": "story",
+ "names": {
+  "name": "The charm goes digital",
+  "aliases": ["lock-screen charms", "NFT amulets", "the charm with no inside"]
+ },
+ "region": ["japan", "mainland-sea", "world"],
+ "countries": ["JP", "TH", "TR", "US"],
+ "facets": {"kind": "essay", "era": "living"},
+ "text": {
+  "what": "A charm you cannot hold raises every question this atlas asks of a bead, and a few the bead never had to answer. Since about 2015 the record carries shrine charms sold against computer viruses, game-company wallpapers issued as lock-screen amulets, protective signs given official names by a standards body, and Buddhist amulets blessed by a named monk and sold as tokens on a blockchain. Each is dated, each has somebody's name on it, and each gets described here the way a Middle Kingdom scarab is described: what it is, what its makers and carriers say it is for, and where and when."
+ },
+ "sections": [
+  {
+   "h": "The charm that protects the machine",
+   "text": "The earliest item in this record runs the other way round: a physical charm against digital harm.\n\nKanda Myojin stands beside Akihabara, Tokyo's electronics district. Writing for Japan Travel on 16 December 2015, Tyra 'nell Pille-Lu reported that \"local techie youth come here to seek blessings and protection for their gadgets and electronics against theft and accidental damage, and even for their PCs to be protected from viruses.\"\n\nNothing about the object has changed. It is an omamori: a small brocade pouch, drawn shut with a cord, printed with the shrine's name, holding a slip nobody opens. What changed is the category on the label. Shrines already issue by category — kōtsū-anzen for the road, gakugyō-jōju for exams, shōbai-hanjō for trade — and a category for hardware sits in that list without straining it.\n\n*Inference —* this is the conservative move and the one a reader should expect to see first. The harm is new; the object, the maker, the price and the shop counter are exactly as they were."
+  },
+  {
+   "h": "The charm with no inside",
+   "text": "The next step drops the pouch.\n\nOn 1 February 2022 Sega announced free digital omamori: wallpaper images designed for a smartphone lock screen, based on the shrine charm and carrying Sega's own characters — Kazuma Kiryu and Ichiban Kasuga from the Yakuza series, Akira Yuki from Virtua Fighter, Dr Eggman from Sonic the Hedgehog, and characters from Puyo Puyo and Sangokushi Taisen. Casey Baseel reported it for SoraNews24 on 4 February 2022. They were downloaded free from Sega of Japan's website, with no shrine and no deity attached, and Sega's own line on what they were for was: \"Please feel free to use these for important tests, business negotiations, or whenever else you're facing a big challenge.\"\n\nThat is a specific loss and worth naming precisely. An omamori's design is a sealed container — the shrine consecrates the slip of paper or chip of wood inside, and the tradition's rule is that the carrier does not open it. A wallpaper has no inside to seal. What is being reproduced is the shape and the occasion, not the contents.\n\nThe argument that follows is the same one already running over factory-made omamori. Where a popular shrine cannot keep up with demand it orders pouches from a factory, and priests have objected to the quality of the factory product and to whether it is the same object at all. Alongside them, Japanese shops sell omamori-shaped goods with Mickey Mouse, Hello Kitty, Snoopy or Kewpie on them, issued by no shrine and consecrated by nobody. Sega's file is the next item in that sequence, and it is free."
+  },
+  {
+   "h": "Blessed on a blockchain, with the ceremony dated",
+   "text": "The Thai case is the one with named people on every side of it, which is why it gets the most room here.\n\nCrypto Amulets was founded by Ekkaphong Khemthong, an amulet collector. The digital artworks were blessed by Luang Phu Heng Papaso, the 95-year-old abbot of Pattana Thamkaram Temple in Surin province, in a ceremony in June 2021. The site offered 8,000 artworks across eight tiers — wood, stone, gold, crystal among them — at prices from 0.02 to 0.8 Ethereum, which Coconuts Bangkok gave on 15 June 2021 as 1,610 to 64,564 Thai baht and AFP reported on 9 July 2021 as roughly US$46 to US$1,840. Up to 18 per cent of proceeds were to be donated; buyers received full control and commercial rights; an auction was set for 26 June 2021, with bidders not knowing in advance which artwork they would get. AFP reported 1,500 of the 8,000 sold before the closing deadline, with most buyers Thai.\n\nKhemthong's reason: \"I am an amulet collector and I was thinking about how I could introduce amulets to foreigners and to the world.\" The developer Daye Chan put the case in terms of the record rather than the object: \"There are so many amulets being mass produced... All the records could be lost and these physical items can be easily counterfeited.\" A buyer, Theerapong Lertsongkram: \"I did not know anything about NFTs before, but I made the decision to buy it as I respect Luang Pu Heng so much.\" And the collector Wasan Sukjit, against: \"Amulets need to be something physical, something people can hold.\"\n\nOne figure in the coverage is a seller's figure and is marked as such. The project's own pitch, quoted by Coconuts, was that the \"Thai amulet is highly valued because it has millions of collectors all around the globe with $1.25 billion of value traded every year!\" No independent source read here corroborates that number, and this atlas does not repeat it as a fact.\n\n*Inference —* Chan's sentence is the interesting one, because it answers a problem this atlas has a whole record about. In a market where the price is the provenance and forgery is the business model, a token that carries an unforgeable chain of custody is not a gimmick — it is an attempt at the job the certificate and the loupe already do. Whether the blessing travels with the token is the part nobody in the coverage settles, and Sukjit's objection is exactly that it does not."
+  },
+  {
+   "h": "The sign gets a codepoint",
+   "text": "In 2018 a protective sign was given an official name by a standards body, which is a first in this atlas.\n\nThe nazar — the blue-and-white concentric glass eye bead — was approved as part of Unicode 11.0 in 2018 and added to Emoji 11.0 the same year, under the name Nazar Amulet, 🧿. Emojipedia describes it as a rich blue circular bead with a black dot ringed in white and light blue, and notes it is used for looking, charms, envy and jealousy, and for Turkish culture.\n\n*Inference —* two things follow. Every phone on earth now carries the sign, which no glassworks in İzmir could have managed; and the sign is now defined by a written specification with a version number, which nothing else in this atlas is. A shrine can change what it puts in a pouch. Unicode characters, once encoded, are not removed."
+  },
+  {
+   "h": "Luck in a game, where it is a number",
+   "text": "Games are the one place in this subject where luck has been given a definition and a formula, and the contrast is worth setting down.\n\nOn the account read here, the philosopher Nicholas Rescher proposed that luck in a situation of uncertainty is the difference between a party's yield and their expectation: λ = Y − E. Skill raises expectation and so reduces luck. Games vary enormously in how much of them is luck — chess has no random factors beyond who moves first, while Snakes and Ladders is entirely dice — and in a game of chance luck is defined as the change in a player's equity after a random event such as a die roll or a card draw, positive if the position improves. A poker player winning is said to be \"running good\".\n\n*Inference —* that is a closed system with the odds published, and there is nothing in it for a charm to act on. Which makes it the more interesting that the charms keep arriving anyway — and that in the Sega case the company printing the odds is the company issuing the charm."
+  },
+  {
+   "h": "What this record could not find",
+   "text": "One item on the obvious list is missing and the gap is stated rather than filled.\n\nBlessed QR codes. This project searched for a dated, sourced instance of a temple or shrine issuing a code as the charm itself and did not find one it could cite. What it did find were two different things: dealers' guarantee cards for Thai amulets, carrying QR codes that link to a verification database — commercial pages rather than documented practice — and temples using QR codes to take donations, which is payment rather than protection. Neither is the claim, so neither is written up as it.\n\nThat is a statement about this disk and not about the world. If a shrine somewhere is consecrating codes, this record has simply not read the source that says so.\n\n*Inference —* the four cases that are documented divide on one question, and it is the same question the rest of the atlas turns on: is the charm the object, or the act performed over it? Kanda Myojin keeps both. Sega keeps the shape and drops the act. Crypto Amulets keeps the act — a named abbot, a dated ceremony — and drops the object entirely. Unicode keeps neither and distributes the sign to five billion handsets. A Bronze Age bead has no consecration record and no maker's name, and this atlas takes it seriously. An amulet blessed on a Thursday in June 2021 by an abbot who can be named has more provenance than almost anything in the Egyptian drawer, and gets the same treatment for the same reason."
+  }
+ ],
+ "dating": {
+  "period": "the 2010s to the present",
+  "from_year": 2015,
+  "to_year": null,
+  "living": true,
+  "label": "2015, the Kanda Myojin report, to now",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:web-japantravel-kanda-myojin",
+  "note": "Opens at the earliest dated item this record can cite, the Japan Travel piece of 16 December 2015. The shrine's technology charms are certainly older than that report; no earlier dated source for them has been read here."
+ },
+ "kin": [
+  {"to": "omamori", "as": "the object every case in this record is copying, including the ones that drop its contents", "rel": "origin"},
+  {"to": "phone-charm", "as": "the physical charm hung on the device — the step before the charm moves onto the screen", "rel": "kin"},
+  {"to": "phra-khrueang", "as": "the Thai tablet that Crypto Amulets tokenised, and whose price has always been its history", "rel": "carries"},
+  {"to": "the-fake-market", "as": "the read that explains why an unforgeable record was worth selling in the first place", "rel": "story"},
+  {"to": "nazar", "as": "the bead that became a Unicode character in 2018 and is now on every handset", "rel": "carries"},
+  {"to": "exam-charm", "as": "the occasion Sega's file was issued for, in its own words: tests and big challenges", "rel": "parallel"},
+  {"to": "consecration", "as": "the act that Crypto Amulets kept and Sega dropped — the whole argument in one practice", "rel": "practice"},
+  {"to": "buying-in-a-market", "as": "the moment of trust, moved from a stall to a wallet", "rel": "practice"},
+  {"to": "japanese-engimono", "as": "the tradition both Japanese cases belong to, factory pouches and free downloads included", "rel": "tradition"}
+ ],
+ "links": [
+  {"label": "Buddhist digital amulets mark Thai entry into crypto art craze — AFP / TechXplore", "url": "https://techxplore.com/news/2021-07-buddhist-digital-amulets-thai-entry.html"},
+  {"label": "Sega creates free digital omamori — SoraNews24", "url": "https://soranews24.com/2022/02/04/sega-creates-free-digital-omamori-good-luck-charms-to-help-you-succeed-at-school-and-work/"},
+  {"label": "Nazar Amulet Emoji — Emojipedia", "url": "https://emojipedia.org/nazar-amulet"}
+ ],
+ "sources": ["s:web-japantravel-kanda-myojin", "s:web-soranews-sega-omamori", "s:web-techxplore-crypto-amulets", "s:web-coconuts-crypto-amulets", "s:web-emojipedia-nazar", "s:wp-omamori", "s:wp-luck", "s:wp-thai-buddha-amulet"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:web-techxplore-crypto-amulets"},
+  "fields": {
+   "sections": {"tier": "cited", "source": "s:web-soranews-sega-omamori", "note": "five stretches of this project's own reasoning are labelled inline; the $1.25 billion trading figure is the seller's own and is printed as a quotation, not adopted; the blessed-QR-code case is recorded as not found rather than reconstructed"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Kanda Myojin Shrine.jpg", "File:Omamori.jpg"],
+ "confidence": "high",
+ "needs_verification": true,
+ "updated": "2026-09-17"
+}

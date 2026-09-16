@@ -1,0 +1,87 @@
+{
+ "schema": 1,
+ "id": "yantra-plate",
+ "type": "amulet",
+ "names": {
+  "name": "Yantra plate",
+  "native": "यन्त्र",
+  "script": "Devanagari",
+  "lang": "sa",
+  "said": "YAN-tra",
+  "aliases": ["yantra", "yantrá", "Sri Yantra", "Sri Chakra"]
+ },
+ "etymology": {
+  "root": "Sanskrit yantrá, from the root yam 'to sustain, support' with the instrument suffix -tra: literally a machine or contraption",
+  "first_attested": "Rigvedic Sanskrit, in the sense of an instrument for restraining or fastening — a prop, a support, a barrier",
+  "note": "The literal sense survives in Sushruta's medical vocabulary, where a yantra is a blunt surgical instrument such as tweezers or a vice. The sense of a mystical or occult diagram arises in the medieval period, in the Kathasaritsagara and the Pancharatra.",
+  "tier": "cited",
+  "source": "s:wp-yantra"
+ },
+ "region": ["south-asia", "mainland-sea", "himalaya-tibet"],
+ "countries": ["IN", "NP", "LK", "TH"],
+ "facets": {"era": "medieval", "status": "living", "portable": "placed", "restricted": "open", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A geometric diagram, drawn on paper, painted, or engraved into a sheet of metal, and usually smaller and less coloured than a mandala. Shapes radiate from a centre point, the bindu: triangles, hexagrams, circles, lotus petals numbering anything from two to a thousand, and an outer square standing for the four directions, often with a doorway cut in each side. Sanskrit mantras are written into the design. A downward triangle is read as Shakti and an upward one as Shiva; white, red and black stand for the three gunas — sattva, rajas and tamas. Plates are hung on a wall, set under a lamp or a vessel, or carried.",
+  "story": "Yantras belong mainly to the Tantric traditions of the Indian religions, and are used for worship in temples and at home, as an aid to meditation, and — the reason they are in this atlas — as charms. Gudrun Bühnemann sorts them into three by use: yantras laid under a ritual implement such as a lamp or a vessel; yantras used in regular worship, the Sri Yantra among them, energised with mantras and often carrying written mantras in the design; and yantras made for a specific desire-driven rite, which are often drawn on birch bark or paper and can carry flowers, rice paste or ashes.\n\nHow old the form is depends on who is asked, and the source read here does not settle it. Representations of the yantra in India have been claimed to go back 11,000 to 10,000 BCE. G. R. Sharma, who excavated it, considered the Baghor stone the earliest example — a triangular stone with triangular engravings on one side, found daubed in ochre at what was read as a worship site in the Son River Valley, in an Upper Paleolithic context dated to 25,000–20,000 BCE. Kenoyer, also on the excavation, associated it with Shakti, and the triangle resembles the Kali Yantra and the Muladhara Chakra. Against that, the word's occult sense is medieval. *Inference —* a triangle scratched on a Paleolithic stone and a Tantric diagram consecrated with a seed syllable are separated by a gap this record cannot bridge with the sources it has, so it reports both claims and dates neither.\n\nThe Sri Chakra, which represents the goddess Tripura Sundari and includes Shiva as well, is the best-known form. The largest ever drawn covered 67,400 square feet on the ground at Cranbury, New Jersey, under the guidance of Guru Karunamaya.",
+  "how": "Drawn, then woken. Yantras are traditionally consecrated and energised by a priest, using the mantras tied to that deity and that diagram; practitioners hold that a yantra not energised with a mantra is lifeless. Colour is not decoration — each colour denotes an idea or an inner state, and texts disagree about which colours belong to which yantra. As a talisman a yantra is treated as standing in for a deity who can be called on at will. In Sri Lankan Buddhism, practitioners are required to keep the yantra of the deity with them once the deity has shown acceptance of their prayer.",
+  "today": "Engraved copper plates and printed paper sheets sell across India and Nepal, in temple shops and online, and the Sivali yantra, used mainly in Southeast Asian Buddhism, is bought for wealth and good luck. Designers now depart from the patterns in the older texts, and designers in the West copy elements from Nepali and Tantric imitations rather than from the texts — which is an argument about what a yantra is, running inside the tradition and outside it at once."
+ },
+ "dating": {
+  "period": "medieval Tantric traditions to the present; a Paleolithic claim is disputed",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "undated here — see the note",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-yantra",
+  "note": "Three claims sit in one source and cannot be reconciled from it: the occult sense of the word is medieval; representations are claimed back to 11,000–10,000 BCE; and G. R. Sharma dated the Baghor stone, which he considered the earliest example, to 25,000–20,000 BCE. Putting the earliest of those on the timeline would say something the evidence does not, so this record carries no years."
+ },
+ "object": {
+  "form": "plaque",
+  "materials": ["copper", "paper", "ink"],
+  "worn": ["wall", "neck", "shop", "door"],
+  "made_by": "drawn by a practitioner or a workshop; consecrated by a priest with the mantra of the deity",
+  "inscription": "the mantras of the deity, in Sanskrit, set inside the geometry",
+  "script": "Devanagari",
+  "colour": ["white", "red", "black"],
+  "single_use": false,
+  "source": "s:wp-yantra",
+  "note": "Birch bark is the other support named in the source, for desire-driven rites, and has no key in this atlas's materials list. No measurement is given because the form scales from a pendant to a floor."
+ },
+ "against": [
+  {"harm": "spirits", "who": "the source's summary of occult yantras, which lists exorcism among their uses", "source": "s:wp-yantra", "tier": "cited"},
+  {"harm": "illness", "who": "the same summary, which lists preventative medicine", "source": "s:wp-yantra", "tier": "cited"},
+  {"harm": "bad-luck", "who": "users of occult yantras, for whom they serve as good luck charms and to ward off evil", "source": "s:wp-yantra", "tier": "cited"},
+  {"harm": "poverty", "who": "buyers of the Sivali yantra, used mainly in Southeast Asian Buddhism for the attraction of wealth and good luck", "source": "s:wp-yantra", "tier": "cited"}
+ ],
+ "kin": [
+  {"to": "sak-yant", "as": "the same geometry put under the skin instead of onto metal — that is the whole difference, and it changes everything: a plate can be sold, hung, given away or thrown out, a tattoo cannot, and the tattooed version carries rules of conduct the plate does not", "rel": "contrast"},
+  {"to": "yantra-word", "as": "the word, from a Sanskrit term for a machine, and the road it took to mean a drawn sign", "rel": "same-word"},
+  {"to": "hindu-kavacha", "as": "the tradition that consecrates it and decides who may", "rel": "tradition"},
+  {"to": "consecration", "as": "the step that makes it work at all, in the practitioners' own account: unenergised, they say, the diagram is lifeless", "rel": "practice"},
+  {"to": "inscribing", "as": "the making itself — the mantra written into the geometry rather than beside it", "rel": "practice"},
+  {"to": "magic-square", "as": "the other family of drawn signs that runs on arrangement rather than image", "rel": "motif"},
+  {"to": "kamea", "as": "the Jewish parallel: a written square worn or hung, made by a specialist who names what it is for", "rel": "parallel"},
+  {"to": "sungkhor", "as": "the Himalayan neighbour — a printed deity diagram folded and wrapped in thread rather than hung flat", "rel": "parallel"},
+  {"to": "yant-flash", "as": "the sheets of designs a tattooist works from, which are these diagrams drawn for skin", "rel": "art"},
+  {"to": "paper", "as": "the cheapest support it takes, and the one that lets a temple sell it by the sheet", "rel": "material"}
+ ],
+ "confusable_with": [
+  {"id": "sak-yant", "tell": "if it is on skin it is a sak yant; the plate is the same family of design on metal, paper or bark"}
+ ],
+ "links": [{"label": "Yantra — Wikipedia", "url": "https://en.wikipedia.org/wiki/Yantra"}],
+ "sources": ["s:wp-yantra", "s:wp-yantra-tattooing", "s:wp-magic-square"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-yantra"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:wp-yantra", "note": "the gap between the Paleolithic claim and the medieval word is marked as this project's inference where it appears"},
+   "text.today": {"tier": "cited", "source": "s:wp-yantra", "note": "the market description beyond the source's own sentence on modern deviation is general knowledge of the trade"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Sri Yantra 256.jpg", "File:Yantra.jpg"],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

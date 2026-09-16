@@ -1,0 +1,110 @@
+{
+ "schema": 1,
+ "id": "hamsa-word",
+ "type": "term",
+ "names": {
+  "name": "hamsa",
+  "native": "خمسة",
+  "script": "Arabic",
+  "lang": "ar",
+  "said": "KHAM-sa",
+  "aliases": [
+   "khamsa",
+   "khmisa",
+   "hamesh",
+   "afus",
+   "Hand of Fatima",
+   "Hand of Miriam",
+   "kef Miryam"
+  ]
+ },
+ "etymology": {
+  "root": "Arabic khamsa (خمسة) 'five' > English hamsa; Maghrebi variants khmisa; Hebrew hamesh (five) in Jewish usage; Berber afus, 'hand', names a similar motif",
+  "first_attested": "",
+  "note": "The standard name of the object is a number, not a hand and not a person. Every named version — Hand of Fatima, Hand of Miriam, Hand of Mary — is a later label attached by somebody, and the Arabic phrase yad Fatima is rare in pre-modern usage.",
+  "tier": "cited",
+  "source": "s:wp-hamsa"
+ },
+ "region": [
+  "maghreb",
+  "levant",
+  "arabia-gulf",
+  "iberia",
+  "diaspora"
+ ],
+ "countries": [
+  "MA",
+  "DZ",
+  "TN",
+  "EG",
+  "IL",
+  "LB",
+  "TR",
+  "ES"
+ ],
+ "facets": {
+  "language": [
+   "Arabic",
+   "Hebrew",
+   "Berber",
+   "French",
+   "English"
+  ]
+ },
+ "text": {
+  "what": "A word that is a number. Five — for the fingers — is what the object is called in Arabic, and hamesh, also five, in Hebrew usage. The names a shopper meets in Europe and America are all attachments: 'Hand of Fatima' (French Main de Fatma) was popularised by Europeans in French colonial North Africa and is a colonial nickname rather than an indigenous Arabic term. In Sephardi and Mizrahi Jewish contexts it is the Hand of Miriam. Levantine Christians call it kef Miryam, the hand of Mary.",
+  "story": "The number is in the curses too, which is the strongest sign that the counting came first. Khamsa fi ainek — 'five [fingers] in your eye' — is said with the right hand raised, palm out, fingers slightly apart, to blind the aggressor. Khamsa wa-khamis, 'five and Thursday', is said without any gesture; Thursday, the fifth day, is held favourable for rites and for pilgrimages to saints' tombs against the evil eye. And there is the spitting formula: 'Khamsa, Khamsa, Khamsa, tfu, tfu, tfu', which Wikipedia's article compares to knocking on wood.\n\nThe name has been legislated against. Among the Morisco population of Granada and nearby regions, khamsa pendants were popular and described as 'large engraved medals ... with a hand inscribed with letters'. A reform council banned khamsas as Islamic symbols in 1526 and ordered crosses in their place; the Synod of Guadix renewed the prohibition in 1554; an episcopal committee convened by Emperor Charles V decreed a ban on the Hand of Fatima and all open right-hand amulets in 1526. They went on being worn, including by Christians — a Nasrid-period gold pendant survives inscribed Ave Maria gratia plena.\n\nIt is argued over now from inside as well. Eva-Maria von Kemnitz, citing Bruno Barbatti, calls it the most important averting sign in the Islamic world; Salafi authorities reject it, and a fatwa states it is impermissible to hang the 'Khamsa', with hands of Fatima listed among prohibited amulets. The hamsa is also a national symbol of Algeria and appears in its emblem.\n\n*Inference —* a name that is a number is very hard to suppress: you cannot ban five. What actually displaced the Arabic word in most of the world's shops was not a prohibition but a French colonial nickname, and that is the name on the label a buyer in London or Los Angeles reads today."
+ },
+ "kin": [
+  {
+   "to": "hamsa",
+   "as": "the object the word counts: the open hand, usually with an eye set in the palm",
+   "rel": "term"
+  },
+  {
+   "to": "hand",
+   "as": "the sign the number is counting, and the reason the word means what it does",
+   "rel": "motif"
+  },
+  {
+   "to": "open-palm",
+   "as": "the gesture inside the word — the raised palm of khamsa fi ainek",
+   "rel": "motif"
+  },
+  {
+   "to": "nazar-word",
+   "as": "the other word for the same harm, naming the look where this one names the answer",
+   "rel": "contrast"
+  },
+  {
+   "to": "evil-eye-bracelet",
+   "as": "where both words end up: the same two signs on one bought object",
+   "rel": "term"
+  },
+  {
+   "to": "marrakesh-souk",
+   "as": "a market where the Arabic word and the French nickname are both on the same stall",
+   "rel": "place"
+  }
+ ],
+ "links": [
+  {
+   "label": "Hamsa — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hamsa"
+  }
+ ],
+ "sources": [
+  "s:wp-hamsa",
+  "s:wp-evil-eye",
+  "s:wp-amulet"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-hamsa"
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

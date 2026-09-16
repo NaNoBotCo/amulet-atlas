@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "id": "magic-square",
+ "type": "motif",
+ "names": {
+  "name": "The number square",
+  "native": "وفق الأعداد",
+  "script": "Arabic",
+  "lang": "ar",
+  "said": "wafq al-aʿdād, 'harmonious disposition of the numbers'; in Hebrew, kamea; in Chinese, Luoshu",
+  "aliases": ["magic square", "wafq", "kamea", "Luo Shu", "Nine Halls", "Chautisa Yantra", "planetary square", "bhadraganita"]
+ },
+ "region": ["china", "south-asia", "mesopotamia", "iran-persia", "maghreb", "iberia", "west-africa", "western-europe", "japan"],
+ "countries": ["CN", "IN", "IQ", "IR", "DZ", "EG", "NG", "ES", "IT", "DE", "PL", "JP"],
+ "facets": {"era": "ancient", "family": "number", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A grid of numbers in which every row, every column and both diagonals add to the same total. The order is the number of cells along a side; the total is the magic constant. Written on paper, engraved on metal, sewn into a shirt, cut into a temple wall. The 3×3 and the 4×4 do most of the amulet work.",
+  "story": "This one has to be told four times, because four traditions arrived at the same grid and gave four accounts of what it was for.\n\nChina has it first. The 3×3 square was known to Chinese mathematicians as early as 190 BCE, in a text called Shushu jiyi, and is given explicitly by the first century CE in the Da Dai Liji. That earliest use is for divination and astrology. Chinese mathematicians called it the Nine Halls; the identification with the legendary Luoshu chart — the pattern of dots on a turtle's shell that rose out of the river Lo while King Yu was channelling a flood — was only made in the twelfth century, after which it was called the Luoshu square.\n\nIndia's first uses are medical and practical. The 3×3 square first appears in the Gargasamhita, recommended to pacify the nine planets, the navagraha; the oldest version of that text is from 100 CE, though the planetary passage cannot be earlier than 400 CE. The first dateable 3×3 in India is in a medical text, Vrnda's Siddhayog of about 966 CE, prescribed to women in labour for an easy delivery. The oldest dateable fourth-order square in the world is in Varahamihira's Brhat Samhita of about 550 CE, and it is not a charm at all: it is a recipe grid for making perfumes from sixteen substances, with no magical properties attributed. A 4×4 square was inscribed on the wall of the Parshvanath temple at Khajuraho around the twelfth century, and is called the Chautisa Yantra after its magic sum of 34. Narayana Pandit, writing in 1356, says the point of studying these squares is to construct yantra, to deflate bad mathematicians, and for the pleasure of good ones.\n\nThe Islamic world produced the mathematics and then the amulets. The first dateable 3×3 in Arabic appears in Jābir ibn Hayyān's Kitab al-mawazin al-Saghir, tied to alchemy; the Arabic name, wafq al-aʿdād, means the harmonious disposition of the numbers, and the earliest treatises are purely mathematical. Squares of orders 3 to 9 appear in the Baghdad encyclopedia Rasa'il Ikhwan al-Safa of about 983. From the thirteenth century the squares were increasingly put to occult purposes: the Algerian Ahmad al-Buni, around 1225, attributed mystical properties to them in Shams al-Ma'arif and described how to construct them. The 3×3 was described as a child-bearing charm from its first literary appearances in Jābir and in al-Ghazālī, and it kept that role in the tradition of the planetary tables. The pairing of seven squares with the seven heavenly bodies first appears in Ibn Zarkali's Kitāb tadbīrāt al-kawākib, in eleventh-century al-Andalus, and survives in Greek, Arabic and Latin versions. In Islamic talismanic practice the 3×3 with the constant 15 was often associated with the four archangels; 6×6 squares are attested by the late tenth century but did not enter the magical vocabulary until the thirteenth. Muhammad ibn Muhammad al-Kishnawi wrote on their theory in eighteenth-century West Africa.\n\nEurope got them last, as occult objects, and had to rediscover the mathematics. They came through Spain and Italy; Ibn Zarkali's work was translated as Libro de Astromagia in the 1280s under Alfonso X. The magic square of three was discussed numerologically by Abraham ibn Ezra of Toledo in the early twelfth century, which influenced later Kabbalists. Around 1315 Manuel Moschopoulos wrote a mathematical treatise that left the mysticism out. Agrippa gave the planetary squares in De occulta philosophia in 1531; Paracelsus reproduced them in garbled form in 1567; Dürer put a 4×4 into Melencolia I in 1514. By the eighteenth century the earlier mysticism had gone and the subject was recreational mathematics.\n\n*Inference —* the same grid carries a Chinese divination, an Indian childbirth charm, an Islamic archangel invocation and a Renaissance planetary correspondence. Transmission is documented for some of those links and not for others; where it is not documented, this record says so rather than assuming."
+ },
+ "kin": [
+  {"to": "kamea", "as": "the Jewish amulet that is a square of letters and numbers, from the tradition Abraham ibn Ezra fed into", "rel": "carried-by"},
+  {"to": "taweez", "as": "the folded Islamic amulet a wafq is most often written on", "rel": "carried-by"},
+  {"to": "talismanic-shirt", "as": "the garment magic squares get painted onto, alongside Qur'anic text", "rel": "carried-by"},
+  {"to": "yantra-plate", "as": "Narayana Pandit gives constructing yantra as one reason to study these squares", "rel": "carried-by"},
+  {"to": "palindrome-word", "as": "the other square on a charm — letters instead of numbers, and its own separate history", "rel": "parallel"},
+  {"to": "divine-name", "as": "in Islamic practice the square is regularly paired with the names of God and of the archangels", "rel": "kin"},
+  {"to": "islamic-talismanic", "as": "the tradition that turned the mathematics into amulets, from the 13th century onward", "rel": "tradition"},
+  {"to": "jewish-practical-kabbalah", "as": "the tradition that took the 3×3 from Abraham ibn Ezra's numerology", "rel": "tradition"},
+  {"to": "paper", "as": "what most of them are written on, which is why almost none survive from before the modern period", "rel": "material"},
+  {"to": "inscribing", "as": "the practice — the square only works, in every one of these traditions, once somebody writes it out", "rel": "practice"}
+ ],
+ "dating": {
+  "period": "Western Han China to the present",
+  "from_year": -189,
+  "to_year": null,
+  "living": true,
+  "label": "190 BCE to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-magic-square",
+  "note": "Start from the 3×3 square known to Chinese mathematicians as early as 190 BCE in the Shushu jiyi, used for divination and astrology. The amulet uses are later and separately dated: India c. 966 CE for childbirth, the Islamic world from the 13th century for occult purposes."
+ },
+ "object": {
+  "form": "plaque",
+  "materials": ["paper", "parchment", "silver", "copper", "cloth"],
+  "worn": ["neck", "upper-arm", "pocket", "sewn-in", "wall"],
+  "made_by": "in Islamic practice, specialists working from manuals such as Shams al-Ma'arif; in Jain practice, hymns teach how to make them",
+  "script": "Arabic, Hebrew, Devanagari or Han, according to tradition",
+  "source": "s:wp-magic-square"
+ },
+ "against": [
+  {"harm": "childbirth", "who": "Vrnda's Siddhayog, c. 966 CE, which prescribes the 3×3 square to women in labour for an easy delivery", "source": "s:wp-magic-square", "tier": "cited"},
+  {"harm": "infertility", "who": "Jābir ibn Hayyān and al-Ghazālī, in whose works the order-three square is described as a child-bearing charm", "source": "s:wp-magic-square", "tier": "cited"},
+  {"harm": "bad-luck", "who": "the Gargasamhita, which recommends the 3×3 to pacify the nine planets", "source": "s:wp-magic-square", "tier": "cited"},
+  {"harm": "evil-eye", "who": "Islamic talismanic practice, in which squares are used against the evil eye, misfortune, jinn and demons", "source": "s:wp-islam-and-magic", "tier": "cited"},
+  {"harm": "attraction", "who": "the same tradition, which also uses them to bring good fortune and to preserve attractiveness", "source": "s:wp-islam-and-magic", "tier": "cited"}
+ ],
+ "links": [{"label": "Magic square — Wikipedia", "url": "https://en.wikipedia.org/wiki/Magic_square"}],
+ "sources": ["s:wp-magic-square", "s:wp-islam-and-magic", "s:wp-practical-kabbalah", "s:wp-kabbalah", "s:wp-yantra", "s:wp-talismanic-shirt"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-magic-square"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:wp-magic-square", "note": "each tradition's framing is reported in its own terms; the closing paragraph on transmission is this project's reading and is marked inference"},
+   "object": {"tier": "tradition", "note": "materials and wearing positions are pooled across traditions rather than read off one catalogue entry"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Magicsquareexample.svg", "File:Lo Shu 3x3 magic square.svg", "File:Melencolia I magic square.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

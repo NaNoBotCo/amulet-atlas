@@ -1,0 +1,358 @@
+{
+ "schema": 1,
+ "id": "mercado-de-sonora",
+ "type": "place",
+ "names": {
+  "name": "Mercado de Sonora",
+  "native": "Mercado de Sonora",
+  "script": "Latin",
+  "lang": "es",
+  "said": "mer-KA-do de so-NO-ra",
+  "aliases": [
+   "Sonora Market",
+   "the Sonora witchcraft market"
+  ]
+ },
+ "region": [
+  "mesoamerica",
+  "north-america"
+ ],
+ "countries": [
+  "MX"
+ ],
+ "facets": {
+  "kind": "market",
+  "hemisphere": [
+   "N",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A municipal covered market in Colonia Merced Balbuena, southeast of Mexico City's historic centre: one long metal nave, narrow aisles, traders grouped by what they sell. Pottery in one section, party supplies in another, live animals in a third. Two aisles at the back carry medicinal plants and the goods for ritual — candles, amulets, oils, soaps, powders — and those two aisles are why the market is known outside the city.",
+  "story": "The city built it. Mercado de Sonora opened on 23 September 1957, one of a set of public markets set up to organise and regulate retail trade, descended from the pre-Hispanic tianguis, the street market. At the market's fiftieth anniversary in 2007 the party included mariachis and a limpia, a cleansing, to clear the building of bad energy.\n\nHerbal medicine and ritual goods are not two trades here but one, because Mexican herbal medicine has been tied to religious and magical practice for centuries. Avocado leaves for inflammation, chiranthodendron for the heart, jacaranda flowers for the stomach. Dried rattlesnake against cancer. Crosses of ocote wood for luck; chains of garlic against harm; and a seed called deer's eye — ojo de venado — against the evil eye. Candles come in sizes, shapes and colours, each colour with its own function.\n\nThe traffic is countable. An estimated 2,000 people come each weekend specifically for that section, which is one of the city's centres for Santería and for the veneration of Santa Muerte. The most popular goods are for love: candles, oils, amulets, soaps, needles, lotions, herbs, and services — spell casting, cleansings — sold under names like ven a mi, come to me, and miel de amor, honey of love.\n\nPrices carry their moment. During the H1N1 scare of 2009 trade fell by about half, but a ten-herb blend against flu — eucalyptus, bougainvillea, tejocote — kept herb sellers solvent at 80 pesos a kilo; Santa Muerte sellers reported moving white dresses for the images, white being the colour of health.\n\nThe market carries its costs in public. Street peddlers fill what is left of the car park and spill into the surrounding lanes on Saturdays; the building leaks, its floors and ramps are in poor condition, and market representatives put that down to borough corruption and to officials extorting traders. Police have raided the animal aisles over protected species.",
+  "today": "Trading, with Saturday the busiest day and the widest stock. The Linares family, five generations of cartonería makers and the inventors of the alebrije, still work in workshops just behind the market. No day is marked open or closed below: stall hours are the traders' own."
+ },
+ "dating": {
+  "period": "modern",
+  "from_year": 1957,
+  "to_year": null,
+  "living": true,
+  "label": "1957 to now",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-mercado-de-sonora",
+  "note": "Established by the city government on 23 September 1957, with the official opening that year."
+ },
+ "geo": {
+  "lat": 19.422208,
+  "lon": -99.124683,
+  "precision": "exact",
+  "source": "Wikidata item Q5548562 (Mercado de Sonora), coordinate location P625, queried 2026-09-16"
+ },
+ "address": {
+  "street": "Colonia Merced Balbuena",
+  "city": "Mexico City",
+  "admin": "Venustiano Carranza",
+  "country": "MX"
+ },
+ "kin": [
+  {
+   "to": "ojo-de-venado",
+   "as": "the deer's-eye seed sold in these aisles against the evil eye",
+   "rel": "carries"
+  },
+  {
+   "to": "eye",
+   "as": "the harm the seed answers, named in Spanish as mal de ojo and stocked here by the tray",
+   "rel": "motif"
+  },
+  {
+   "to": "herb",
+   "as": "the material half of this market's reputation, and inseparable from the other half",
+   "rel": "material"
+  },
+  {
+   "to": "latin-american-folk-catholic",
+   "as": "the tradition the candles, saints and cleansings belong to",
+   "rel": "tradition"
+  },
+  {
+   "to": "milagro",
+   "as": "the stamped metal votive of the same devotional economy, offered where these goods are bought",
+   "rel": "parallel"
+  },
+  {
+   "to": "horseshoe",
+   "as": "sold here too — a European charm that crossed and stayed",
+   "rel": "carries"
+  },
+  {
+   "to": "buying-in-a-market",
+   "as": "the practice, in a building the city put up in 1957 to regulate it",
+   "rel": "practice"
+  },
+  {
+   "to": "mercado-de-las-brujas-lima",
+   "as": "the Lima counterpart, the same trade under a different name",
+   "rel": "parallel"
+  },
+  {
+   "to": "mercado-de-las-brujas-la-paz",
+   "as": "the La Paz counterpart, where the sellers are Aymara and the goods are Andean",
+   "rel": "parallel"
+  }
+ ],
+ "tags": [
+  {
+   "tag": "market",
+   "source": "s:wp-mercado-de-sonora",
+   "tier": "cited",
+   "note": "a city-established public market; two back aisles carry medicinal plants and ritual goods"
+  }
+ ],
+ "links": [
+  {
+   "label": "Mercado de Sonora — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mercado_de_Sonora"
+  }
+ ],
+ "sources": [
+  "s:wp-mercado-de-sonora"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-mercado-de-sonora"
+  },
+  "fields": {
+   "geo": {
+    "tier": "harvested",
+    "note": "Wikidata P625 for the market, queried 2026-09-16; the coordinate is the building"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Mercado de Sonora Ciudad de Mexico.jpg",
+  "File:Velas Mercado Sonora.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A municipal covered market in Colonia Merced Balbuena, southeast of Mexico City's historic centre: one long metal nave, narrow aisles, traders grouped by what they sell.",
+ "region_terms": [
+  {
+   "key": "mesoamerica",
+   "name": "Mesoamerica",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "ojo-de-venado",
+   "type": "amulet",
+   "name": "Ojo de venado",
+   "as": "the deer's-eye seed sold in these aisles against the evil eye",
+   "rel": "carries"
+  },
+  {
+   "to": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "the harm the seed answers, named in Spanish as mal de ojo and stocked here by the tray",
+   "rel": "motif"
+  },
+  {
+   "to": "herb",
+   "type": "material",
+   "name": "Herb and root",
+   "as": "the material half of this market's reputation, and inseparable from the other half",
+   "rel": "material"
+  },
+  {
+   "to": "latin-american-folk-catholic",
+   "type": "tradition",
+   "name": "Latin American folk Catholic charm practice",
+   "as": "the tradition the candles, saints and cleansings belong to",
+   "rel": "tradition"
+  },
+  {
+   "to": "milagro",
+   "type": "amulet",
+   "name": "Milagro",
+   "as": "the stamped metal votive of the same devotional economy, offered where these goods are bought",
+   "rel": "parallel"
+  },
+  {
+   "to": "horseshoe",
+   "type": "amulet",
+   "name": "Horseshoe",
+   "as": "sold here too — a European charm that crossed and stayed",
+   "rel": "carries"
+  },
+  {
+   "to": "buying-in-a-market",
+   "type": "practice",
+   "name": "Buying one in a market",
+   "as": "the practice, in a building the city put up in 1957 to regulate it",
+   "rel": "practice"
+  },
+  {
+   "to": "mercado-de-las-brujas-lima",
+   "type": "place",
+   "name": "Mercado de Brujas de Gamarra",
+   "as": "the Lima counterpart, the same trade under a different name",
+   "rel": "parallel"
+  },
+  {
+   "to": "mercado-de-las-brujas-la-paz",
+   "type": "place",
+   "name": "El Mercado de las Brujas",
+   "as": "the La Paz counterpart, where the sellers are Aymara and the goods are Andean",
+   "rel": "parallel"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-mercado-de-sonora",
+   "kind": "encyclopedia",
+   "title": "Mercado de Sonora",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mercado_de_Sonora",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-mercado-de-sonora"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-mercado-de-sonora"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-mercado-de-sonora"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-mercado-de-sonora"
+  },
+  "geo": {
+   "tier": "harvested",
+   "note": "Wikidata P625 for the market, queried 2026-09-16; the coordinate is the building"
+  },
+  "address": {
+   "tier": "cited",
+   "source": "s:wp-mercado-de-sonora"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [
+  {
+   "key": "market",
+   "label": "A market you can walk",
+   "group": "trade",
+   "evidence": "a dated guide, a municipal listing",
+   "source": "s:wp-mercado-de-sonora",
+   "note": "a city-established public market; two back aisles carry medicinal plants and ritual goods",
+   "tier": "cited",
+   "url": ""
+  }
+ ],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1957 CE to now",
+ "country_names": [
+  {
+   "iso": "MX",
+   "name": "Mexico"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "milagro",
+   "type": "amulet",
+   "name": "Milagro",
+   "as": "one Mexico City market where these share an aisle with herbs, candles and the deer's-eye seed",
+   "rel": "place"
+  },
+  {
+   "from": "ojo-de-venado",
+   "type": "amulet",
+   "name": "Ojo de venado",
+   "as": "the Mexico City market where it is sold beside garlic chains and ocote crosses",
+   "rel": "place"
+  },
+  {
+   "from": "latin-american-folk-catholic",
+   "type": "tradition",
+   "name": "Latin American folk Catholic charm practice",
+   "as": "the tradition's clearest single address — a building the city put up in 1957 to regulate exactly this trade",
+   "rel": "place"
+  },
+  {
+   "from": "herb",
+   "type": "material",
+   "name": "Herb and root",
+   "as": "the market where this material is still weighed, priced and argued over",
+   "rel": "place"
+  },
+  {
+   "from": "buying-in-a-market",
+   "type": "practice",
+   "name": "Buying one in a market",
+   "as": "the practice inside a building the city put up in 1957 to regulate it",
+   "rel": "place"
+  },
+  {
+   "from": "mercado-de-las-brujas-la-paz",
+   "type": "place",
+   "name": "El Mercado de las Brujas",
+   "as": "the Mexico City counterpart, where the same pairing of plants and ritual goods fills two aisles",
+   "rel": "parallel"
+  },
+  {
+   "from": "mercado-de-las-brujas-lima",
+   "type": "place",
+   "name": "Mercado de Brujas de Gamarra",
+   "as": "the Mexico City market with the same two aisles — plants and ritual goods, one trade",
+   "rel": "parallel"
+  },
+  {
+   "from": "ex-voto-wall",
+   "type": "art",
+   "name": "The ex-voto wall",
+   "as": "a market where the panels, the charms and the candles are sold within a few aisles of each other",
+   "rel": "place"
+  },
+  {
+   "from": "market-stall-sign",
+   "type": "art",
+   "name": "The market stall sign",
+   "as": "the opposite case — the label is on the bottle and it names the wish, not the object",
+   "rel": "place"
+  }
+ ]
+}

@@ -1,0 +1,513 @@
+{
+ "schema": 1,
+ "id": "korean-bujeok-craft",
+ "type": "tradition",
+ "names": {
+  "name": "Bujeok craft",
+  "native": "부적",
+  "script": "Hangul",
+  "lang": "ko",
+  "said": "bu-jeok; also romanised pujŏk",
+  "aliases": [
+   "pujŏk",
+   "Korean talismans",
+   "Musok amulet practice"
+  ]
+ },
+ "etymology": {
+  "root": "Korean bujeok, from Sino-Korean 符籍 — the same fu character as Chinese fulu, 'talisman', plus a register or record",
+  "note": "The word arrives with the object. Bujeok descend from Taoist talismanic script in China, and are often built on Hanja, the Korean use of Chinese logograms.",
+  "tier": "cited",
+  "source": "s:wp-korean-shamanism"
+ },
+ "region": [
+  "korea"
+ ],
+ "countries": [
+  "KR"
+ ],
+ "facets": {
+  "era": "living",
+  "status": "living",
+  "restricted": "limited",
+  "language": "Korean",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "Talismans drawn by a mudang, the ritual specialists at the centre of Musok, Korean vernacular religion. A bujeok is usually built on Hanja — Korean versions of Chinese logograms — worked in the same deliberately unreadable manner as its Chinese ancestor, and handed to the people who attended a rite rather than sold across a counter. Clients take them home and fix them to the internal walls of the house.",
+  "story": "Two facts about who makes them frame everything else. First, the makers are ritual specialists and the majority of them are women: approximately a fifth of mudang are male, with more male simbang on Jeju than on the mainland. Second, they hand the talismans out at the end of a gut — the large ritual that is the core of the practice — at the point where wandering spirits are expelled and the food is distributed. A bujeok is the take-home part of a rite, not a transaction on its own. Korean vernacular religion also runs ritual specialists who divine and make amulets without performing gut at all.\n\nThe script is inherited and the inheritance is documented. Fulu, the Taoist talismanic script, was carried into Korean practice as it was into Japanese; the scholarship on the Chinese side says the illegibility is deliberate, designed so that only qualified clergy can produce them. A bujeok takes that logic into Hanja.\n\nWhat distinguishes this tradition from its neighbours is six centuries of state pressure, which it survived. Under the Joseon dynasty Confucian elites deemed the mudang's rites improper and suppressed them with taxation and legal restriction. From the late 19th century modernisers, many of them Christian, characterised Musok as misin — a Korean word the sources gloss as \"superstition\" — and backed its suppression. Under the Japanese occupation, nationalist folklorists began promoting Musok as Korea's ancient religion and a form of its national culture, an idea mudang themselves later took up strongly. Persecution continued in the mid-20th century, in North Korea and through the New Community Movement in the South.\n\nThen it turned. From the late 1970s South Korean appraisal of the mudang improved, particularly as practitioners were associated with the minjung pro-democracy movement and came to be treated as a source of Korean cultural identity. There are now over 200,000 mudang in South Korea, with practitioners abroad as well.\n\nThe reversal is not complete and this record says so. Disapproval of mudang, often regarded as charlatans, remains widespread in South Korea, especially among Christians. Chongho Kim's 1990s fieldwork found most mudang he met were poor and with little formal education, and mudang have conventionally belonged to the lowest social class. Clients are mostly women — in Kim's fieldwork, in their late fifties and early sixties; in Laurel Kendall's, small entrepreneurs around Seoul; by the early 21st century, in Sarfati's account, many young people, as part of a spiritual search or for counselling. Clients do not generally regard themselves as exclusively committed to Musok and may consider themselves Buddhist or Christian.\n\n*Inference —* that client profile is the most interesting thing about this tradition for an atlas of charms. A bujeok is not the property of a believer; it is something a Buddhist small-business owner in Seoul comes away from a rite holding. The tradition has no doctrine, no hierarchy and no central authority, and is transmitted orally, so what holds it together is the specialists and their training rather than a text.",
+  "how": "Drawn by a mudang, generally on paper, in Hanja-based forms. Distributed at the close of a gut to the people who attended, sometimes alongside food charged with auspiciousness by its use in the rite. Clients affix them to the internal walls of the home. Training is by apprenticeship rather than by manual: an initiate who has accepted the call finds an established mudang willing to teach, becomes that person's chagŭn mudang, and the teacher is their sineomeoni, spirit mother, the apprentice a sinttal or sinadul. Each mudang keeps a personal pantheon, the chusin, which may differ from the pantheon of the mudang who trained them.",
+  "today": "Live, with over 200,000 mudang in South Korea and a state that now protects what it once prosecuted: regional gut styles are on the national intangible heritage register, and the Yŏngdŭng gut of Ch'ilmŏri Shrine on Jeju went onto UNESCO's Representative List in 2009. Insadong in Seoul, which holds 40 per cent of the country's antique shops and art galleries, is where a visitor is likeliest to encounter the printed retail version. Korea also has a separate and much larger charm economy that runs on food rather than paper: sticky-rice cakes and toffee given to students before the national university entrance exam, on the wordplay that the sitter will stick to the school."
+ },
+ "restricted": {
+  "note": "The forms a bujeok takes are a specialist's craft learned by apprenticeship, in a tradition that has no manual, no central authority and no doctrine, and that transmits orally. This record names the practitioners, the script's ancestry and where the object ends up, and prints no bujeok form, no accompanying invocation and no reconstruction of one. The Chinese parent craft states the reason plainly — the illegibility exists so that only qualified clergy can produce them — and Korean practice inherits it.",
+  "who_says": "the cited account of Musok, which describes it as non-institutionalised, without doctrine or hierarchy, orally transmitted, and learned through apprenticeship to an established mudang; and the scholarship on the parent Taoist craft, in which Ge Zhaoguang of Fudan University describes the unreadability as designed to restrict production to qualified clergy",
+  "source": "s:wp-korean-shamanism"
+ },
+ "dating": {
+  "period": "Historically attested from the 12th century; still practised",
+  "from_year": 1101,
+  "to_year": null,
+  "living": true,
+  "label": "earliest references to mudang from the 12th century; the talismans later",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-korean-shamanism",
+  "note": "from_year is the 12th century, which the source gives as the date of the earliest historical references to mudang. The origins of Musok itself are stated to be unclear, and the source puts no date on bujeok specifically, so this dates the practitioners rather than the object. The parent Taoist script is far older and is dated on the chinese-fu-craft record."
+ },
+ "object": {
+  "form": "folded-paper",
+  "materials": [
+   "paper",
+   "ink"
+  ],
+  "worn": [
+   "wall",
+   "door",
+   "pocket"
+  ],
+  "made_by": "a mudang — the ritual specialists of Musok, the majority of them women, about a fifth male; also by vernacular ritual specialists who divine and make amulets without performing gut",
+  "inscription": "forms based on Hanja, Korean versions of Chinese logograms, in the tradition's own manner. No example is printed here.",
+  "script": "Hanja",
+  "colour": [
+   "red",
+   "yellow"
+  ],
+  "single_use": false,
+  "source": "s:wp-korean-shamanism"
+ },
+ "against": [
+  {
+   "harm": "bad-luck",
+   "who": "the cited account of Musok: pujŏk are talismans which provide the bearer with good fortune",
+   "source": "s:wp-korean-shamanism",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "the gut itself, at whose close wandering spirits that may have gathered are expelled and talismans may be distributed to attendees",
+   "source": "s:wp-korean-shamanism",
+   "tier": "cited"
+  },
+  {
+   "harm": "house",
+   "who": "clients, who affix the talismans to the internal walls of their homes",
+   "source": "s:wp-korean-shamanism",
+   "tier": "cited"
+  },
+  {
+   "harm": "exams",
+   "who": "Korean families before the national university entrance exam, who give sticky rice cakes and toffee on the wordplay that the sitter will stick to the school",
+   "source": "s:web-koreaherald-test-taker-gifts",
+   "tier": "cited",
+   "note": "this is the parallel food economy, not a bujeok; it is named here because it is the charm most Koreans handle most often"
+  }
+ ],
+ "holdings": [
+  {
+   "museum": "national-museum-korea",
+   "what": "Korean folk religious material",
+   "source": "s:wp-korean-shamanism",
+   "note": "named as the national collection for this material; this project read no catalogue entry, so no object and no accession number is given"
+  }
+ ],
+ "kin": [
+  {
+   "to": "bujeok",
+   "as": "the object itself — handed out at the end of a rite and pinned to an inside wall, not bought at a gate",
+   "rel": "carries"
+  },
+  {
+   "to": "chinese-fu-craft",
+   "as": "where the script comes from, and where the reason for its unreadability is stated out loud",
+   "rel": "origin"
+  },
+  {
+   "to": "japanese-engimono",
+   "as": "the other descendant of the same Taoist stock, which went the opposite way: administered, seal-stamped, sold at a counter and replaced on a calendar",
+   "rel": "parallel"
+  },
+  {
+   "to": "dolhareubang",
+   "as": "the monumental end of Korean threshold-guarding — stone at a gate rather than paper on a wall",
+   "rel": "kin"
+  },
+  {
+   "to": "insadong",
+   "as": "the Seoul quarter where the printed retail version concentrates",
+   "rel": "place"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "the practice, done indoors: the talisman goes on the inside wall of the house it is for",
+   "rel": "practice"
+  },
+  {
+   "to": "exam-charm",
+   "as": "Korea's other charm economy, which runs on rice cake and toffee rather than on paper, and which far more people handle",
+   "rel": "parallel"
+  },
+  {
+   "to": "paper",
+   "as": "the material, and the only one this tradition needs",
+   "rel": "material"
+  }
+ ],
+ "links": [
+  {
+   "label": "Korean shamanism — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Korean_shamanism"
+  }
+ ],
+ "sources": [
+  "s:wp-korean-shamanism",
+  "s:wp-fulu",
+  "s:wp-insa-dong",
+  "s:wp-dol-hareubang",
+  "s:web-koreaherald-test-taker-gifts",
+  "s:wp-chapssal-tteok",
+  "s:wp-yeot",
+  "s:wp-amulet"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-korean-shamanism"
+  },
+  "fields": {
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-korean-shamanism",
+    "note": "this dates the practitioners, not the object; the note says so, because the source puts no date on bujeok themselves"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-korean-shamanism",
+    "note": "the closing paragraph is marked inference where it appears"
+   },
+   "restricted": {
+    "tier": "cited",
+    "source": "s:wp-korean-shamanism"
+   },
+   "holdings": {
+    "tier": "inference",
+    "note": "named as the national collection for this material; no catalogue page was read and no accession number appears"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Korean bujeok.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-17",
+ "blurb": "Talismans drawn by a mudang, the ritual specialists at the centre of Musok, Korean vernacular religion.",
+ "region_terms": [
+  {
+   "key": "korea",
+   "name": "Korea",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "bujeok",
+   "type": "amulet",
+   "name": "Bujeok",
+   "as": "the object itself — handed out at the end of a rite and pinned to an inside wall, not bought at a gate",
+   "rel": "carries"
+  },
+  {
+   "to": "chinese-fu-craft",
+   "type": "tradition",
+   "name": "Fulu — Taoist talismanic craft",
+   "as": "where the script comes from, and where the reason for its unreadability is stated out loud",
+   "rel": "origin"
+  },
+  {
+   "to": "japanese-engimono",
+   "type": "tradition",
+   "name": "Engimono",
+   "as": "the other descendant of the same Taoist stock, which went the opposite way: administered, seal-stamped, sold at a counter and replaced on a calendar",
+   "rel": "parallel"
+  },
+  {
+   "to": "dolhareubang",
+   "type": "amulet",
+   "name": "Dol hareubang",
+   "as": "the monumental end of Korean threshold-guarding — stone at a gate rather than paper on a wall",
+   "rel": "kin"
+  },
+  {
+   "to": "insadong",
+   "type": "place",
+   "name": "Insa-dong",
+   "as": "the Seoul quarter where the printed retail version concentrates",
+   "rel": "place"
+  },
+  {
+   "to": "hanging-at-door",
+   "type": "practice",
+   "name": "Hanging at the door",
+   "as": "the practice, done indoors: the talisman goes on the inside wall of the house it is for",
+   "rel": "practice"
+  },
+  {
+   "to": "exam-charm",
+   "type": "amulet",
+   "name": "Exam charm",
+   "as": "Korea's other charm economy, which runs on rice cake and toffee rather than on paper, and which far more people handle",
+   "rel": "parallel"
+  },
+  {
+   "to": "paper",
+   "type": "material",
+   "name": "Paper",
+   "as": "the material, and the only one this tradition needs",
+   "rel": "material"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-korean-shamanism",
+   "kind": "encyclopedia",
+   "title": "Korean shamanism",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Korean_shamanism",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fulu",
+   "kind": "encyclopedia",
+   "title": "Fulu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fulu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-insa-dong",
+   "kind": "encyclopedia",
+   "title": "Insa-dong",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Insa-dong",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-dol-hareubang",
+   "kind": "encyclopedia",
+   "title": "Dol hareubang",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dol_hareubang",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-koreaherald-test-taker-gifts",
+   "kind": "news",
+   "title": "Gifts for test-takers",
+   "publisher": "The Korea Herald",
+   "url": "https://www.koreaherald.com/article/3853011",
+   "date": "2024-11-12",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-chapssal-tteok",
+   "kind": "encyclopedia",
+   "title": "Chapssal-tteok",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chapssal-tteok",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-yeot",
+   "kind": "encyclopedia",
+   "title": "Yeot",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yeot",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-amulet",
+   "kind": "encyclopedia",
+   "title": "Amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-korean-shamanism"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-korean-shamanism",
+   "note": "the closing paragraph is marked inference where it appears"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-korean-shamanism"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-korean-shamanism"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-korean-shamanism"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-korean-shamanism",
+   "note": "this dates the practitioners, not the object; the note says so, because the source puts no date on bujeok themselves"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-korean-shamanism"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "the cited account of Musok: pujŏk are talismans which provide the bearer with good fortune",
+   "quote": "",
+   "source": "s:wp-korean-shamanism",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "the gut itself, at whose close wandering spirits that may have gathered are expelled and talismans may be distributed to attendees",
+   "quote": "",
+   "source": "s:wp-korean-shamanism",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "house",
+   "label": "Harm to a house or a field",
+   "who": "clients, who affix the talismans to the internal walls of their homes",
+   "quote": "",
+   "source": "s:wp-korean-shamanism",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "exams",
+   "label": "Failing an exam",
+   "gloss": "a whole modern genre, Japan and Korea especially",
+   "who": "Korean families before the national university entrance exam, who give sticky rice cakes and toffee on the wordplay that the sitter will stick to the school",
+   "quote": "",
+   "source": "s:web-koreaherald-test-taker-gifts",
+   "tier": "cited",
+   "note": "this is the parallel food economy, not a bujeok; it is named here because it is the charm most Koreans handle most often"
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "paper",
+   "label": "Paper",
+   "kind": "written"
+  },
+  {
+   "key": "ink",
+   "label": "Ink",
+   "kind": "written"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  },
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  }
+ ],
+ "form_fact": {
+  "key": "folded-paper",
+  "label": "Folded paper"
+ },
+ "holding_facts": [
+  {
+   "key": "national-museum-korea",
+   "label": "The National Museum of Korea",
+   "city": "Seoul",
+   "country": "KR",
+   "url": "",
+   "what": "Korean folk religious material",
+   "accession": "",
+   "source": "s:wp-korean-shamanism"
+  }
+ ],
+ "span": "1101 CE to now",
+ "country_names": [
+  {
+   "iso": "KR",
+   "name": "South Korea"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "bujeok",
+   "type": "amulet",
+   "name": "Bujeok",
+   "as": "the tradition that makes it, and the six centuries of state pressure it survived",
+   "rel": "tradition"
+  },
+  {
+   "from": "dolhareubang",
+   "type": "amulet",
+   "name": "Dol hareubang",
+   "as": "the Korean tradition of guarding a threshold that this stands at the monumental end of",
+   "rel": "tradition"
+  },
+  {
+   "from": "chinese-fu-craft",
+   "type": "tradition",
+   "name": "Fulu — Taoist talismanic craft",
+   "as": "the other descendant, where the unreadable script arrived in Hanja and the specialists who draw it are mostly women",
+   "rel": "descendant"
+  },
+  {
+   "from": "insadong",
+   "type": "place",
+   "name": "Insa-dong",
+   "as": "the tradition behind that charm, concentrated in Seoul more than anywhere else in the country",
+   "rel": "tradition"
+  }
+ ]
+}

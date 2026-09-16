@@ -1,0 +1,570 @@
+{
+ "schema": 1,
+ "id": "tibetan-protection",
+ "type": "tradition",
+ "names": {
+  "name": "Tibetan protection craft",
+  "native": "སྲུང་བ།",
+  "script": "Tibetan",
+  "lang": "bo",
+  "said": "sung-wa, 'protection'",
+  "aliases": [
+   "srung ba",
+   "Tibetan Buddhist amulet practice",
+   "Himalayan protective amulets"
+  ]
+ },
+ "region": [
+  "himalaya-tibet",
+  "mongolia-steppe",
+  "south-asia",
+  "siberia-arctic"
+ ],
+ "countries": [
+  "CN",
+  "BT",
+  "NP",
+  "IN",
+  "MN",
+  "RU"
+ ],
+ "facets": {
+  "era": "medieval",
+  "status": "living",
+  "language": "Tibetan",
+  "restricted": "limited",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "The protective end of Tibetan Buddhism: printed and drawn amulets consecrated by lamas, folded and bound in five-coloured cord, carried in worked-metal boxes at the neck or over the chest, hung on strings across passes and roofs, strung as agate beads, and painted as cosmological charts. Objects are made by specialists, given rather than sold, and mostly worn shut.",
+  "story": "The frame is old and dated. Tibetan Buddhism preserves Indian Buddhist tantric practice of the post-Gupta early medieval period, 500 to 1200 CE, along with native Tibetan developments; the Buddhist Tantras date from around the seventh century onward. In the eighth century King Trisong Detsen, who reigned 755 to 797, made Buddhism the state religion and invited Indian scholars to his court — Padmasambhava, whom Tibetans call Guru Rinpoche, and Śāntarakṣita, 725 to 788, counted as the founders of the Nyingma, the oldest school. The Bengali monk Atisha, 982 to 1054, arrived in 1042. Before all of it the predominant tradition was Bon, which prayer flags are held to come out of.\n\nProtection is part of a lama's ordinary work, not a sideline. There has been a close association in Tibet between the religious and the secular — chos srid zung 'brel — and lamas have tended to the lay population by helping with protection and prosperity: rites for purifying karma, for avoiding harm from demonic forces and enemies, for a successful harvest, with divination and exorcism among the methods. Even the word is read that way: Tibetan Buddhists take the etymology of mantra as mind protector, and Tsongkhapa says a mantra \"protects the mind from ordinary appearances and conceptions\".\n\nWhat the objects claim is specific. James Gentry, writing for the Rubin Museum's Project Himalayan Art, says Tibetans have used protective amulets against misfortune during travel, injury during battle, illness, harmful spirits, and any other potential calamity — and that relic pills of the kind kept in an amulet box need not be consumed to have effect, and are held to protect not only against mundane dangers but against rebirth as an animal, an anguished spirit or a hell being.\n\nThe twentieth century broke the institutions that make these things. In 1959 the fourteenth Dalai Lama and a great number of clergy and lay people left for India and neighbouring countries; the Cultural Revolution, 1966 to 1976, targeted religion, most of the several thousand temples and monasteries in Tibet were destroyed, monks and lamas were imprisoned and forced to disrobe, and much of the textual heritage went with them. Prayer flags were discouraged but not eliminated, and many traditional designs may have been lost. *Inference —* the trade in Himalayan amulets that a visitor meets in Kathmandu today sits on the far side of that break, which is one reason provenance questions in this material are so hard.",
+  "how": "Made and consecrated by lamas; given to named people. This atlas prints what published scholarship describes — that an amulet is a geometric diagram with mantras and images, consecrated through contemplative ritual proceedings, folded, wrapped in five-coloured cords with sacred substances, and distributed — and prints no diagram, no mantra sequence and no consecration. The reason is the tradition's own: these practices sit inside Vajrayana, the Secret Mantra, where a practitioner must receive an empowerment from a qualified lama, and without initiation one is generally not allowed to practise the higher Tantras.",
+  "today": "Practised across Tibet, Bhutan, Nepal, Ladakh, Sikkim, Mongolia and the Buryat, Tuvan and Kalmyk regions of Russia, and in the diaspora since 1959. Amulet boxes, wrapped amulets, prayer flags and dzi beads are also made for sale to buyers outside the tradition, and an object bought that way carries no record of who consecrated it — the market's standing problem, in metal, paper and stone alike."
+ },
+ "restricted": {
+  "note": "The designs inside Tibetan protective amulets, the mantras written on them, and the rites that consecrate them belong to tantric practice, which Tibetan Buddhism restricts to those who have received an empowerment from a qualified lama. This atlas prints published descriptions of what these objects are and what they are carried against, and does not reproduce a design, a mantra sequence or a consecration, and does not reconstruct one from scattered sources.",
+  "who_says": "Tibetan Buddhism's own rule on empowerment — without initiation one is generally not allowed to practise the higher Tantras — and the published scholarship, which stops at the same line",
+  "source": "s:wp-tibetan-buddhism",
+  "url": "https://en.wikipedia.org/wiki/Tibetan_Buddhism"
+ },
+ "dating": {
+  "period": "8th century to the present",
+  "from_year": 755,
+  "to_year": null,
+  "living": true,
+  "label": "755 CE to now",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-tibetan-buddhism",
+  "note": "Dated from the reign of Trisong Detsen, 755–797, who made Buddhism the state religion and brought Padmasambhava and Śāntarakṣita to Tibet. The Buddhist Tantras behind the practice are dated in the same source to around the 7th century onward, and the Bon material older still and undated."
+ },
+ "against": [
+  {
+   "harm": "travel",
+   "who": "James Gentry, summarising what Tibetans have used protective amulets against",
+   "quote": "\"Tibetans have used them to protect against misfortune during travel, injury during battle, illness, harmful spirits, and any other potential calamity.\"",
+   "source": "s:web-rubin-gau-gentry",
+   "tier": "cited"
+  },
+  {
+   "harm": "weapons",
+   "who": "the same sentence, on injury during battle",
+   "source": "s:web-rubin-gau-gentry",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the same sentence; and the Wellcome Collection's Tibetan cosmological amulet, catalogued as a protection against diseases",
+   "source": "s:web-wellcome-tibetan-amulet",
+   "tier": "cited"
+  },
+  {
+   "harm": "demons",
+   "who": "the account of a lama's ordinary work for lay people, which includes rites for avoiding harm from demonic forces and enemies",
+   "source": "s:wp-tibetan-buddhism",
+   "tier": "cited"
+  },
+  {
+   "harm": "the-dead",
+   "who": "Gentry on relic pills, held to protect against rebirth as an animal, an anguished spirit or a hell being",
+   "source": "s:web-rubin-gau-gentry",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "gau-box",
+   "as": "the container this tradition is best known by, and the one that keeps its contents out of sight",
+   "rel": "carries"
+  },
+  {
+   "to": "sungkhor",
+   "as": "what a lama actually makes: the drawn, consecrated, folded amulet the box exists to hold",
+   "rel": "carries"
+  },
+  {
+   "to": "lungta-flag",
+   "as": "its public form — the same mantras printed and left to the wind instead of sealed to a body",
+   "rel": "carries"
+  },
+  {
+   "to": "dzi-bead",
+   "as": "the object it received rather than made, and values as inherited",
+   "rel": "carries"
+  },
+  {
+   "to": "hindu-kavacha",
+   "as": "the southern tradition its diagrams and mantras come out of",
+   "rel": "origin"
+  },
+  {
+   "to": "ongon",
+   "as": "the shamanic practice on the other side of the taiga-steppe line in Mongolia, which the Buddhist side has lived beside for centuries",
+   "rel": "contrast"
+  },
+  {
+   "to": "consecration",
+   "as": "the step it reserves to the initiated, and the reason an empty box is not an amulet",
+   "rel": "practice"
+  },
+  {
+   "to": "wearing-hidden",
+   "as": "its default: the amulet is folded, boxed, and not opened",
+   "rel": "practice"
+  },
+  {
+   "to": "barkhor-lhasa",
+   "as": "the circuit its objects are worn on and sold beside",
+   "rel": "place"
+  },
+  {
+   "to": "kathmandu-thamel",
+   "as": "the street where its objects meet buyers from outside it",
+   "rel": "place"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the statement of why this record has gaps in it on purpose",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Tibetan Buddhism — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tibetan_Buddhism"
+  },
+  {
+   "label": "Amulet Box (Gau) with Its Contents — Project Himalayan Art, Rubin Museum",
+   "url": "https://rubinmuseum.org/projecthimalayanart/essays/amulet-box-gau-with-its-contents/"
+  }
+ ],
+ "sources": [
+  "s:wp-tibetan-buddhism",
+  "s:web-rubin-gau-gentry",
+  "s:web-har-amulet-box",
+  "s:web-wellcome-tibetan-amulet",
+  "s:wp-prayer-flag",
+  "s:wp-dzi-bead"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-tibetan-buddhism"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-tibetan-buddhism",
+    "note": "the closing point about provenance after the break is marked as this project's inference where it appears"
+   },
+   "restricted": {
+    "tier": "cited",
+    "source": "s:wp-tibetan-buddhism"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "The protective end of Tibetan Buddhism: printed and drawn amulets consecrated by lamas, folded and bound in five-coloured cord, carried in worked-metal boxes at the neck or over the chest, hung on strings across passes…",
+ "region_terms": [
+  {
+   "key": "himalaya-tibet",
+   "name": "The Himalaya and Tibet",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "mongolia-steppe",
+   "name": "Mongolia and the steppe",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "siberia-arctic",
+   "name": "Siberia and the Arctic",
+   "hemi": [
+    "N",
+    "E",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "gau-box",
+   "type": "amulet",
+   "name": "Gau",
+   "as": "the container this tradition is best known by, and the one that keeps its contents out of sight",
+   "rel": "carries"
+  },
+  {
+   "to": "sungkhor",
+   "type": "amulet",
+   "name": "Sungkhor",
+   "as": "what a lama actually makes: the drawn, consecrated, folded amulet the box exists to hold",
+   "rel": "carries"
+  },
+  {
+   "to": "lungta-flag",
+   "type": "amulet",
+   "name": "Lung ta prayer flag",
+   "as": "its public form — the same mantras printed and left to the wind instead of sealed to a body",
+   "rel": "carries"
+  },
+  {
+   "to": "dzi-bead",
+   "type": "amulet",
+   "name": "Dzi bead",
+   "as": "the object it received rather than made, and values as inherited",
+   "rel": "carries"
+  },
+  {
+   "to": "hindu-kavacha",
+   "type": "tradition",
+   "name": "Kavacha — the Hindu armour tradition",
+   "as": "the southern tradition its diagrams and mantras come out of",
+   "rel": "origin"
+  },
+  {
+   "to": "ongon",
+   "type": "amulet",
+   "name": "Ongon",
+   "as": "the shamanic practice on the other side of the taiga-steppe line in Mongolia, which the Buddhist side has lived beside for centuries",
+   "rel": "contrast"
+  },
+  {
+   "to": "consecration",
+   "type": "practice",
+   "name": "Consecration",
+   "as": "the step it reserves to the initiated, and the reason an empty box is not an amulet",
+   "rel": "practice"
+  },
+  {
+   "to": "wearing-hidden",
+   "type": "practice",
+   "name": "Wearing hidden",
+   "as": "its default: the amulet is folded, boxed, and not opened",
+   "rel": "practice"
+  },
+  {
+   "to": "barkhor-lhasa",
+   "type": "place",
+   "name": "The Barkhor",
+   "as": "the circuit its objects are worn on and sold beside",
+   "rel": "place"
+  },
+  {
+   "to": "kathmandu-thamel",
+   "type": "place",
+   "name": "Thamel",
+   "as": "the street where its objects meet buyers from outside it",
+   "rel": "place"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "type": "story",
+   "name": "What this atlas does not print",
+   "as": "the statement of why this record has gaps in it on purpose",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-tibetan-buddhism",
+   "kind": "encyclopedia",
+   "title": "Tibetan Buddhism",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tibetan_Buddhism",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-rubin-gau-gentry",
+   "kind": "web",
+   "title": "Amulet Box (Gau) with Its Contents: Portable Sacred Items for Pragmatic and Transcendent Goals",
+   "author": "James Gentry",
+   "publisher": "Project Himalayan Art, Rubin Museum of Art",
+   "url": "https://rubinmuseum.org/projecthimalayanart/essays/amulet-box-gau-with-its-contents/",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-har-amulet-box",
+   "kind": "web",
+   "title": "Ritual Object: Amulet Box (Ga'u) Main Page",
+   "publisher": "Himalayan Art Resources",
+   "url": "https://www.himalayanart.org/search/set.cfm?setID=1090",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-wellcome-tibetan-amulet",
+   "kind": "museum",
+   "title": "Tibetan cosmological amulet for protection against diseases. Gouache painting, Tibet.",
+   "publisher": "Wellcome Collection, London",
+   "url": "https://wellcomecollection.org/works/spbbawjf",
+   "accessed": "2026-09-16",
+   "license": "CC BY 4.0",
+   "note": "Reference 581586i; gouache on cloth, 29 x 21 cm, read off the item page."
+  },
+  {
+   "id": "s:wp-prayer-flag",
+   "kind": "encyclopedia",
+   "title": "Prayer flag",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Prayer_flag",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-dzi-bead",
+   "kind": "encyclopedia",
+   "title": "Dzi bead",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dzi_bead",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-tibetan-buddhism"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-tibetan-buddhism",
+   "note": "the closing point about provenance after the break is marked as this project's inference where it appears"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-tibetan-buddhism"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-tibetan-buddhism"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-tibetan-buddhism"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "travel",
+   "label": "Danger on a journey",
+   "who": "James Gentry, summarising what Tibetans have used protective amulets against",
+   "quote": "\"Tibetans have used them to protect against misfortune during travel, injury during battle, illness, harmful spirits, and any other potential calamity.\"",
+   "source": "s:web-rubin-gau-gentry",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "weapons",
+   "label": "Blades and bullets",
+   "gloss": "invulnerability charms; reported, never recommended",
+   "who": "the same sentence, on injury during battle",
+   "quote": "",
+   "source": "s:web-rubin-gau-gentry",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "the same sentence; and the Wellcome Collection's Tibetan cosmological amulet, catalogued as a protection against diseases",
+   "quote": "",
+   "source": "s:web-wellcome-tibetan-amulet",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "demons",
+   "label": "Demons and night-hags",
+   "who": "the account of a lama's ordinary work for lay people, which includes rites for avoiding harm from demonic forces and enemies",
+   "quote": "",
+   "source": "s:wp-tibetan-buddhism",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "the-dead",
+   "label": "Danger to the dead",
+   "gloss": "charms put in a grave for the person in it",
+   "who": "Gentry on relic pills, held to protect against rebirth as an animal, an anguished spirit or a hell being",
+   "quote": "",
+   "source": "s:web-rubin-gau-gentry",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "755 CE to now",
+ "country_names": [
+  {
+   "iso": "CN",
+   "name": "China"
+  },
+  {
+   "iso": "BT",
+   "name": "Bhutan"
+  },
+  {
+   "iso": "NP",
+   "name": "Nepal"
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  },
+  {
+   "iso": "MN",
+   "name": "Mongolia"
+  },
+  {
+   "iso": "RU",
+   "name": "Russia"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "dzi-bead",
+   "type": "amulet",
+   "name": "Dzi bead",
+   "as": "the tradition that receives it, blesses new ones, and hands old ones down",
+   "rel": "tradition"
+  },
+  {
+   "from": "gau-box",
+   "type": "amulet",
+   "name": "Gau",
+   "as": "the tradition that fills it, and that decides who is entitled to",
+   "rel": "tradition"
+  },
+  {
+   "from": "lungta-flag",
+   "type": "amulet",
+   "name": "Lung ta prayer flag",
+   "as": "the tradition that prints it, and that says what the wind does with it",
+   "rel": "tradition"
+  },
+  {
+   "from": "ongon",
+   "type": "amulet",
+   "name": "Ongon",
+   "as": "what stands on the other side of the line the ongod cluster along — the steppe is Buddhist ground where the taiga is shamanic",
+   "rel": "contrast"
+  },
+  {
+   "from": "sungkhor",
+   "type": "amulet",
+   "name": "Sungkhor",
+   "as": "the tradition that draws it, consecrates it and gives it out",
+   "rel": "tradition"
+  },
+  {
+   "from": "toli-mirror",
+   "type": "amulet",
+   "name": "Toli",
+   "as": "the Buddhist practice that shares the same territory, and sometimes the same households",
+   "rel": "contrast"
+  },
+  {
+   "from": "hindu-kavacha",
+   "type": "tradition",
+   "name": "Kavacha — the Hindu armour tradition",
+   "as": "the northern neighbour that took the same diagrams and mantras and put them inside sealed boxes",
+   "rel": "parallel"
+  },
+  {
+   "from": "footprint",
+   "type": "motif",
+   "name": "The footprint",
+   "as": "the neighbouring Buddhist tradition, which carries its marks in boxes rather than in stone",
+   "rel": "parallel"
+  },
+  {
+   "from": "iron",
+   "type": "material",
+   "name": "Iron",
+   "as": "the tradition that names sky-iron as the supreme substance and returns a piece of it to where the meteorite fell",
+   "rel": "tradition"
+  },
+  {
+   "from": "turquoise",
+   "type": "material",
+   "name": "Turquoise",
+   "as": "the tradition that imports the stone and prefers the greener grades of it",
+   "rel": "tradition"
+  },
+  {
+   "from": "barkhor-lhasa",
+   "type": "place",
+   "name": "The Barkhor",
+   "as": "the tradition whose objects this circuit's walkers carry",
+   "rel": "tradition"
+  },
+  {
+   "from": "kathmandu-thamel",
+   "type": "place",
+   "name": "Thamel",
+   "as": "the tradition most of the objects in these alleys belong to",
+   "rel": "tradition"
+  },
+  {
+   "from": "the-swastika-problem",
+   "type": "story",
+   "name": "The swastika problem",
+   "as": "one of the living traditions carrying the sign daily, as the Bon yungdrung",
+   "rel": "tradition"
+  }
+ ]
+}

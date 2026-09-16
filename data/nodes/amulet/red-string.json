@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "id": "red-string",
+ "type": "amulet",
+ "names": {
+  "name": "Red string",
+  "native": "חוט השני",
+  "script": "Hebrew",
+  "lang": "he",
+  "said": "khut ha-sha-NI, 'the scarlet thread'",
+  "aliases": ["scarlet thread", "Kabbalah bracelet", "khutt hashani"]
+ },
+ "region": ["levant", "diaspora", "north-america"],
+ "countries": ["IL", "US"],
+ "facets": {"era": "living", "status": "contested", "portable": "worn", "restricted": "open", "hemisphere": ["N", "E", "W"]},
+ "text": {
+  "what": "A thin scarlet or crimson thread, usually wool, tied round the wrist as a bracelet or band. That is the whole object.",
+  "story": "The honest version of this record starts with an absence. There is no written requirement anywhere — not in the Torah, not in Halacha, not in the Kabbalistic texts — to tie a red string round a wrist. Sources mention red strings as a good omen, and it is not evident whether they were widely worn.\n\nWhat there is instead is a scatter of references. Genesis 38 has a scarlet thread tied about a wrist, at the birth of Tamar's twins. Rabbi Shmuel ben Hafni Gaon noted that placing a red string on the hand may be a good omen, and some sources imply it could go round a finger. Aggadas Bereishis holds that Joseph's coat was the same as his brothers' and that Jacob marked it with a red string on the cuffs.\n\nThere is exactly one public exhortation to wear one, and it is dated. In the 1490s, when Jews were not permitted to wear tefillin, Rabbi Abraham Saba recommended that they wear a red string on their hands instead, to remember the commandment. A substitute object, recorded because the real one had been banned.\n\nThe modern trade is documented too. In Israel it is common to see elderly women selling scarlet thread to pilgrims and tourists, especially in the Old City of Jerusalem. Outside Israel the string became popular in the late 1990s with celebrities, most of them not Jewish — Madonna and her children, Leonardo DiCaprio, Michael Jackson, Ariana Grande, Tucker Carlson, Jared Kushner — and that wave is usually linked to Philip Berg's Kabbalah Centre. Editors of a 2007 study of trend analysis recorded a surge in sales attributed to Madonna. Michael Laitman's public position is in the article's own critical links: practical Kabbalah has no use for red strings.\n\n*Inference —* every other record in this batch can say what its object is made of and who makes it. This one cannot, because the object is a piece of wool and the thing being sold is the association. That is worth stating rather than dressing up, and it is also the reason the red string is the most-argued-about Jewish charm in the atlas.\n\nThe red string is not only Jewish. The cited article notes that Hinduism and Chinese culture wear a red string or bracelet for luck, love and to keep evil off."
+ },
+ "dating": {
+  "period": "Early modern to the present",
+  "from_year": 1489,
+  "to_year": null,
+  "living": true,
+  "label": "the one dated recommendation is from the 1490s; the modern wrist bracelet is a thing of the late 1990s onward",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-red-string-kabbalah",
+  "note": "The cited article states there is no textual requirement for the practice. Earlier mentions it gives — Genesis 38, Rabbi Shmuel ben Hafni Gaon, Aggadas Bereishis — are of red strings as omens or markers rather than of a worn bracelet, so they are not used as the floor here."
+ },
+ "object": {
+  "form": "cord",
+  "materials": ["thread"],
+  "worn": ["wrist", "finger"],
+  "made_by": "no restriction recorded; sold by street vendors in Jerusalem's Old City and by the Kabbalah Centre and its imitators",
+  "colour": ["red"],
+  "single_use": false,
+  "source": "s:wp-red-string-kabbalah",
+  "note": "Thin scarlet wool. No published measurement was read."
+ },
+ "against": [
+  {"harm": "evil-eye", "who": "the Jewish folk custom as described in the cited article: worn to ward off misfortune brought about by the evil eye, ayin hara", "source": "s:wp-red-string-kabbalah", "tier": "cited"},
+  {"harm": "bad-luck", "who": "the same custom, and the wider use of red strings for luck in Hindu and Chinese practice the article names alongside it", "source": "s:wp-red-string-kabbalah", "tier": "cited"}
+ ],
+ "kin": [
+  {"to": "red-thread", "as": "the sign, and the one that runs from the Mediterranean to Mongolia without needing a text", "rel": "motif"},
+  {"to": "tefillin", "as": "the commandment this stood in for in the 1490s, when Rabbi Abraham Saba told Jews barred from wearing tefillin to wear a red string to remember it", "rel": "origin"},
+  {"to": "martenitsa", "as": "the Balkan red thread on a wrist, with a fixed season and a documented history where this one has an absence", "rel": "parallel"},
+  {"to": "jewish-practical-kabbalah", "as": "the tradition it is marketed under, and whose own teachers say it has no use for red strings", "rel": "contrast"},
+  {"to": "thread", "as": "the whole material inventory of this object", "rel": "material"},
+  {"to": "knotting", "as": "the practice — the tying is what there is to do", "rel": "practice"},
+  {"to": "evil-eye-bracelet", "as": "the shelf it now shares: a wrist, a colour, and a claim sold to people outside the tradition", "rel": "kin"},
+  {"to": "hamsa", "as": "the other Jewish charm against the eye, and the one with a long documented object history", "rel": "contrast"},
+  {"to": "who-owns-a-charm", "as": "the long read; a custom with no textual basis, sold worldwide under the name of a restricted tradition", "rel": "story"}
+ ],
+ "links": [{"label": "Red string (Kabbalah) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Red_string_(Kabbalah)"}],
+ "sources": ["s:wp-red-string-kabbalah", "s:wp-practical-kabbalah", "s:wp-evil-eye", "s:wp-martenitsa"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-red-string-kabbalah"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:wp-red-string-kabbalah", "note": "the penultimate paragraph is this project's reading, marked where it appears"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Red string bracelet.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

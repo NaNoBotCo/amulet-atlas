@@ -1,0 +1,324 @@
+{
+ "schema": 1,
+ "id": "wikimedia-commons",
+ "type": "org",
+ "names": {
+  "name": "Wikimedia Commons",
+  "aliases": [
+   "Commons"
+  ],
+  "sort": "Wikimedia Commons"
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "kind": "archive"
+ },
+ "text": {
+  "what": "Media repository run by the Wikimedia Foundation, launched on 7 September 2004, holding over 147 million free-to-use files as of September 2026. Every picture in this atlas comes from here or from a source under the same terms. That is a constraint on what this atlas can show, and it shapes which museums are visible in it.",
+  "story": "Commons takes only files that are out of copyright or published under a free licence, and its definition of free is strict: a licence must specifically and irrevocably allow anyone to use the material for any purpose. Republication and distribution must be allowed. Commercial use must be allowed. The licence must be perpetual and non-revocable. A file must also be free of copyright restrictions in both the United States and the source country of the work.\n\nWhat that admits: CC0, public domain, Creative Commons Attribution (CC BY), Creative Commons Attribution-ShareAlike (CC BY-SA), the Free Art License, and free software licences. What it refuses: CC BY-NC, CC BY-ND, CC BY-NC-SA, CC BY-NC-ND, and fair use — in Commons' own words, it \"does not accept fair use justifications\", and material licensed exclusively under non-commercial-only licences is not accepted either.\n\n*Inference —* run that rule across the museums in this atlas and the map goes uneven. The Metropolitan Museum of Art put its public-domain images under CC0 in 2017, so a Met amulet can be shown here. The British Museum released 1.9 million images in 2020 under CC BY-NC-SA 4.0, which bars commercial use, so a British Museum amulet cannot. The Pitt Rivers Museum names no Creative Commons licence at all. Wellcome Collection licenses per item, so each picture has to be checked on its own page.\n\nThe consequence is worth stating plainly rather than hiding in a caption: a reader looking at this atlas is looking at the collections that chose an open licence, not at the collections that hold the most material.",
+  "today": "This atlas accepts CC0, public domain, CC BY, CC BY-SA and the Free Art License, and nothing else. Every image record carries its file name, its licence, its licence URL and its author, and a picture whose licence cannot be read is not published. Candidate files are listed on each record before they are fetched, so the licence is checked at the point of collection rather than at the point of publication."
+ },
+ "dating": {
+  "period": "2004 to now",
+  "from_year": 2004,
+  "to_year": null,
+  "living": true,
+  "label": "launched 7 September 2004",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:web-wikimedia-commons-wikipedia"
+ },
+ "tags": [
+  {
+   "tag": "open-images",
+   "source": "s:web-commons-licensing",
+   "tier": "cited",
+   "note": "free licences only: CC0, public domain, CC BY, CC BY-SA, the Free Art License and free software licences; no fair use and no non-commercial-only material",
+   "url": "https://commons.wikimedia.org/wiki/Commons:Licensing"
+  }
+ ],
+ "kin": [
+  {
+   "to": "free-to-use",
+   "as": "the long read this record is the machinery behind — what this atlas may show, and why the gaps are where they are",
+   "rel": "story"
+  },
+  {
+   "to": "metropolitan-museum",
+   "as": "the collection whose CC0 release clears this bar, which is why Met photographs run through these records",
+   "rel": "org"
+  },
+  {
+   "to": "british-museum",
+   "as": "the collection whose non-commercial licence does not clear it, however large the collection is",
+   "rel": "contrast"
+  },
+  {
+   "to": "wellcome-collection",
+   "as": "the mixed case: some of its items clear the bar and some do not, so each file is checked singly",
+   "rel": "org"
+  },
+  {
+   "to": "te-papa",
+   "as": "a collection with openly available images and, separately, a request about taonga this atlas honours regardless of licence",
+   "rel": "org"
+  },
+  {
+   "to": "aiatsis",
+   "as": "the opposite premise: a collection where access conditions travel with the item and open reuse is not the default",
+   "rel": "contrast"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read on ownership; a free licence on a photograph settles nothing about the object in it",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Wikimedia Commons — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wikimedia_Commons"
+  },
+  {
+   "label": "Commons:Licensing",
+   "url": "https://commons.wikimedia.org/wiki/Commons:Licensing"
+  }
+ ],
+ "sources": [
+  "s:web-wikimedia-commons-wikipedia",
+  "s:web-commons-licensing",
+  "s:wp-metropolitan-museum-of-art",
+  "s:web-bm-images-ianvisits",
+  "s:web-prm-collections-terms",
+  "s:web-wellcome-accessing-collections"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-commons-licensing"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-commons-licensing",
+    "note": "the licence rules are read off the Commons policy page; the comparison across museums is marked as this project's inference"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "a statement of this project's own picture policy, not a fact about Commons"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Media repository run by the Wikimedia Foundation, launched on 7 September 2004, holding over 147 million free-to-use files as of September 2026.",
+ "region_terms": [
+  {
+   "key": "world",
+   "name": "Everywhere",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "use for a sign or a practice documented on more than two continents"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "free-to-use",
+   "type": "story",
+   "name": "Free to use",
+   "as": "the long read this record is the machinery behind — what this atlas may show, and why the gaps are where they are",
+   "rel": "story"
+  },
+  {
+   "to": "metropolitan-museum",
+   "type": "org",
+   "name": "The Metropolitan Museum of Art",
+   "as": "the collection whose CC0 release clears this bar, which is why Met photographs run through these records",
+   "rel": "org"
+  },
+  {
+   "to": "british-museum",
+   "type": "org",
+   "name": "The British Museum",
+   "as": "the collection whose non-commercial licence does not clear it, however large the collection is",
+   "rel": "contrast"
+  },
+  {
+   "to": "wellcome-collection",
+   "type": "org",
+   "name": "Wellcome Collection",
+   "as": "the mixed case: some of its items clear the bar and some do not, so each file is checked singly",
+   "rel": "org"
+  },
+  {
+   "to": "te-papa",
+   "type": "org",
+   "name": "Museum of New Zealand Te Papa Tongarewa",
+   "as": "a collection with openly available images and, separately, a request about taonga this atlas honours regardless of licence",
+   "rel": "org"
+  },
+  {
+   "to": "aiatsis",
+   "type": "org",
+   "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+   "as": "the opposite premise: a collection where access conditions travel with the item and open reuse is not the default",
+   "rel": "contrast"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read on ownership; a free licence on a photograph settles nothing about the object in it",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:web-wikimedia-commons-wikipedia",
+   "kind": "web",
+   "title": "Wikimedia Commons",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wikimedia_Commons",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-commons-licensing",
+   "kind": "web",
+   "title": "Commons:Licensing",
+   "publisher": "Wikimedia Commons",
+   "url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-metropolitan-museum-of-art",
+   "kind": "encyclopedia",
+   "title": "Metropolitan Museum of Art",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-bm-images-ianvisits",
+   "kind": "web",
+   "title": "British Museum makes 1.9 million images available for free",
+   "publisher": "ianVisits",
+   "url": "https://www.ianvisits.co.uk/articles/british-museum-makes-1-9-million-images-available-for-free-36338/",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-prm-collections-terms",
+   "kind": "web",
+   "title": "Collections Online — Terms and Conditions",
+   "publisher": "Pitt Rivers Museum, University of Oxford",
+   "url": "https://www.prm.ox.ac.uk/collections-online-terms-and-conditions",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-wellcome-accessing-collections",
+   "kind": "web",
+   "title": "Accessing our collections",
+   "publisher": "Wellcome Collection",
+   "url": "https://wellcomecollection.org/collections/accessing-our-collections",
+   "accessed": "2026-09-16"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:web-commons-licensing"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:web-commons-licensing",
+   "note": "the licence rules are read off the Commons policy page; the comparison across museums is marked as this project's inference"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "a statement of this project's own picture policy, not a fact about Commons"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:web-commons-licensing"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [
+  {
+   "key": "open-images",
+   "label": "Publishes open images",
+   "group": "collection",
+   "evidence": "the collection's own rights statement",
+   "source": "s:web-commons-licensing",
+   "note": "free licences only: CC0, public domain, CC BY, CC BY-SA, the Free Art License and free software licences; no fair use and no non-commercial-only material",
+   "tier": "cited",
+   "url": "https://commons.wikimedia.org/wiki/Commons:Licensing"
+  }
+ ],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "2004 CE to now",
+ "country_names": [],
+ "kin_in": [
+  {
+   "from": "british-museum-room-1",
+   "type": "place",
+   "name": "Room 1: Enlightenment, the British Museum",
+   "as": "the repository that cannot take this room's photographs, because the museum's licence bars commercial use",
+   "rel": "contrast"
+  },
+  {
+   "from": "aiatsis",
+   "type": "org",
+   "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+   "as": "the opposite arrangement: a repository whose whole premise is that anyone may reuse anything in it",
+   "rel": "contrast"
+  },
+  {
+   "from": "british-museum",
+   "type": "org",
+   "name": "The British Museum",
+   "as": "the repository this museum's images cannot go to, because the licence forbids commercial use",
+   "rel": "contrast"
+  },
+  {
+   "from": "metropolitan-museum",
+   "type": "org",
+   "name": "The Metropolitan Museum of Art",
+   "as": "where its CC0 images can legally live, which is why Met pictures turn up across this atlas",
+   "rel": "org"
+  },
+  {
+   "from": "wellcome-collection",
+   "type": "org",
+   "name": "Wellcome Collection",
+   "as": "where its attribution and public-domain items can be hosted; its non-commercial ones cannot",
+   "rel": "org"
+  },
+  {
+   "from": "free-to-use",
+   "type": "story",
+   "name": "Free to use",
+   "as": "where every picture in this atlas is to come from, and whose free-content test the pipeline copies",
+   "rel": "org"
+  }
+ ]
+}

@@ -1,0 +1,338 @@
+{
+ "schema": 1,
+ "id": "gris-gris-word",
+ "type": "term",
+ "names": {
+  "name": "gris-gris",
+  "said": "GREE-gree",
+  "aliases": [
+   "grigri",
+   "gri-gri",
+   "gregory",
+   "gerregery",
+   "saffi"
+  ]
+ },
+ "etymology": {
+  "root": "From the Mande languages spoken by Mandinka and Bambara people in West Africa; Wikipedia's article reports the sense 'magic'. Carried to the Americas with enslaved Muslims and into Louisiana and Haitian French.",
+  "first_attested": "",
+  "note": "No dated first attestation was read for this record, in any language, so none is given. English spellings on record include grigri, gregory and gerregery. In West Africa, written charms worn by non-Muslims were called saffis.",
+  "tier": "cited",
+  "source": "s:wp-gris-gris-talisman"
+ },
+ "region": [
+  "west-africa",
+  "caribbean",
+  "north-america",
+  "diaspora"
+ ],
+ "countries": [
+  "SN",
+  "ML",
+  "GH",
+  "HT",
+  "US"
+ ],
+ "facets": {
+  "language": [
+   "French",
+   "Mandinka",
+   "Bambara",
+   "English"
+  ]
+ },
+ "text": {
+  "what": "A word that names a small cloth sack worn on the person, holding Qur'anic verses written on paper and a set number of small objects. It began in Muslim Mande communities of far West Africa and crossed the Atlantic with enslaved people. On the western side of the ocean the same word carries two opposite charges, and which one a speaker means depends on where they are standing.",
+  "story": "The trade route came first. Travellers through the Volta Basin, in what is now Ghana, reported Mande speakers such as the Dyula as central to making and distributing Islamic charms, which they called gris-gris. From them the practice spread to other Muslim groups — the Dagomba, who wrote extensive Arabic manuscripts 'with magic formulae and prescriptions for preparing amulets'. The sacks held Qur'an verses on paper with herbs, worn at the neck. Sometimes the written charm alone counted, carried by priests. Non-Muslims in the region wore them too, under the name saffis.\n\nThe makers are named. Among Mande Muslims, scholars of the mystical division called siri, 'path', are marabouts, and they are the ones who produce gris-gris; scholars of seli, 'prayer', are karamokos, who study Qur'anic law. Some cross over. The whole practice is Karamokobara.\n\nIn the United States the word turned. Enslaved people used gris-gris against their owners, and the word came to name harm done to a target; some were found in burials; there are period reports of people cutting, drowning or otherwise handling somebody else's gris-gris to injure them. New Orleans court cases in 1773 convicted enslaved people of using gris-gris to kill enslavers — among the earliest legal mentions of Louisiana's tradition. Enslaved conjure women made gris-gris to start rebellions, and the bags were held to guide people to freedom on the Underground Railroad. By the 1800s the word was used in Louisiana to mean both bewitch and the object itself. In October 1849 authorities arrested an enslaved man carrying a human finger wrapped in flannel that he held brought good luck; people in New Orleans sought human remains from tombs for conjure and gris-gris, and gravesites were disturbed for it. In Cajun communities the word reads as harm and ill-fortune. In the Louisiana Creole community, Gris-Gris doctors have worked for centuries and are looked on favourably by the Black community at large.\n\nIn Haiti, on the same account, the word kept its West African sense: an amulet with good intentions. In Hoodoo a gris-gris is taken to represent the self.\n\nIt is also current and ordinary. A 1982 survey put gris-gris among the top three methods of contraception known to women in Senegal, alongside abstinence and roots and herbs; over sixty per cent of women reported knowing such traditional methods, against a little over forty per cent for the pill. They are worn, in the article's own words, 'from wrestlers to soldiers to housewives, and can feature anything from monkey to snake to mouse.'"
+ },
+ "kin": [
+  {
+   "to": "gris-gris",
+   "as": "the object this word names: the sack itself, its contents and its maker",
+   "rel": "term"
+  },
+  {
+   "to": "taweez-word",
+   "as": "the Arabic word for the same idea — Qur'anic text folded and worn — which is what a Mande marabout is writing",
+   "rel": "kin"
+  },
+  {
+   "to": "mojo-word",
+   "as": "the other African-derived word for a worn sack in Louisiana, out of the Kongo rather than the Muslim west",
+   "rel": "contrast"
+  },
+  {
+   "to": "juju-word",
+   "as": "the outsiders' cover-word that often swallowed this one in English writing",
+   "rel": "contrast"
+  },
+  {
+   "to": "vodou-not-voodoo",
+   "as": "the tradition this word was carried into, and the spelling argument that comes with naming it",
+   "rel": "contrast"
+  },
+  {
+   "to": "islamic-talismanic",
+   "as": "the tradition behind the paper inside the sack: written Qur'anic text, worn",
+   "rel": "tradition"
+  },
+  {
+   "to": "hirz-pouch",
+   "as": "the same object under another name further east — a pouch holding written scripture",
+   "rel": "parallel"
+  }
+ ],
+ "links": [
+  {
+   "label": "Gris-gris (talisman) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gris-gris_(talisman)"
+  }
+ ],
+ "sources": [
+  "s:wp-gris-gris-talisman",
+  "s:wp-mojo-bag",
+  "s:wp-haitian-vodou",
+  "s:wp-islam-and-magic"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-gris-gris-talisman"
+  },
+  "fields": {
+   "etymology": {
+    "tier": "cited",
+    "source": "s:wp-gris-gris-talisman",
+    "note": "first_attested left blank: no dated attestation was read"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A word that names a small cloth sack worn on the person, holding Qur'anic verses written on paper and a set number of small objects.",
+ "region_terms": [
+  {
+   "key": "west-africa",
+   "name": "West Africa",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "caribbean",
+   "name": "The Caribbean",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "diaspora",
+   "name": "Diaspora",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "a practice carried out of its home region and kept"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "gris-gris",
+   "type": "amulet",
+   "name": "Gris-gris",
+   "as": "the object this word names: the sack itself, its contents and its maker",
+   "rel": "term"
+  },
+  {
+   "to": "taweez-word",
+   "type": "term",
+   "name": "taweez",
+   "as": "the Arabic word for the same idea — Qur'anic text folded and worn — which is what a Mande marabout is writing",
+   "rel": "kin"
+  },
+  {
+   "to": "mojo-word",
+   "type": "term",
+   "name": "mojo",
+   "as": "the other African-derived word for a worn sack in Louisiana, out of the Kongo rather than the Muslim west",
+   "rel": "contrast"
+  },
+  {
+   "to": "juju-word",
+   "type": "term",
+   "name": "juju",
+   "as": "the outsiders' cover-word that often swallowed this one in English writing",
+   "rel": "contrast"
+  },
+  {
+   "to": "vodou-not-voodoo",
+   "type": "term",
+   "name": "Vodou and Vodún — and the spelling this atlas does not use",
+   "as": "the tradition this word was carried into, and the spelling argument that comes with naming it",
+   "rel": "contrast"
+  },
+  {
+   "to": "islamic-talismanic",
+   "type": "tradition",
+   "name": "Islamic talismanic craft",
+   "as": "the tradition behind the paper inside the sack: written Qur'anic text, worn",
+   "rel": "tradition"
+  },
+  {
+   "to": "hirz-pouch",
+   "type": "amulet",
+   "name": "Hirz",
+   "as": "the same object under another name further east — a pouch holding written scripture",
+   "rel": "parallel"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-gris-gris-talisman",
+   "kind": "encyclopedia",
+   "title": "Gris-gris (talisman)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gris-gris_(talisman)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mojo-bag",
+   "kind": "encyclopedia",
+   "title": "Mojo bag",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mojo_bag",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-haitian-vodou",
+   "kind": "encyclopedia",
+   "title": "Haitian Vodou",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Haitian_Vodou",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-islam-and-magic",
+   "kind": "encyclopedia",
+   "title": "Islam and magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Islam_and_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-gris-gris-talisman"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-gris-gris-talisman"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-gris-gris-talisman",
+   "note": "first_attested left blank: no dated attestation was read"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "",
+ "country_names": [
+  {
+   "iso": "SN",
+   "name": "Senegal"
+  },
+  {
+   "iso": "ML",
+   "name": "Mali"
+  },
+  {
+   "iso": "GH",
+   "name": "Ghana"
+  },
+  {
+   "iso": "HT",
+   "name": "Haiti"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "gris-gris",
+   "type": "amulet",
+   "name": "Gris-gris",
+   "as": "the word itself, and the argument about what it means on which side of the Atlantic",
+   "rel": "same-word"
+  },
+  {
+   "from": "west-african-charm-craft",
+   "type": "tradition",
+   "name": "West African charm craft",
+   "as": "the Mande word, and its change of meaning between Dakar, Port-au-Prince and New Orleans",
+   "rel": "term"
+  },
+  {
+   "from": "juju-word",
+   "type": "term",
+   "name": "juju",
+   "as": "the Mande word for the object, where this one is an outsiders' word for the whole practice",
+   "rel": "contrast"
+  },
+  {
+   "from": "mojo-word",
+   "type": "term",
+   "name": "mojo",
+   "as": "the other African-derived word for a worn cloth sack in Louisiana, from the Muslim west rather than the Kongo",
+   "rel": "contrast"
+  },
+  {
+   "from": "taweez-word",
+   "type": "term",
+   "name": "taweez",
+   "as": "the West African word for the same object, where the Mande marabout writes what the Arabic word names",
+   "rel": "kin"
+  },
+  {
+   "from": "vodou-not-voodoo",
+   "type": "term",
+   "name": "Vodou and Vodún — and the spelling this atlas does not use",
+   "as": "the word whose charge changed on the American shore, in the same crossing that changed this one",
+   "rel": "contrast"
+  }
+ ]
+}

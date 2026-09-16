@@ -1,0 +1,148 @@
+{
+ "schema": 1,
+ "id": "worry-stone",
+ "type": "amulet",
+ "names": {
+  "name": "Worry stone",
+  "aliases": [
+   "palm stone",
+   "thumb stone",
+   "fidget stone",
+   "soothing stone",
+   "sensory stone"
+  ]
+ },
+ "region": [
+  "greece-aegean",
+  "britain-ireland",
+  "north-america",
+  "world"
+ ],
+ "countries": [
+  "GR",
+  "IE",
+  "US"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "living",
+  "portable": "carried",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "W",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A smooth polished gemstone, usually an oval with a thumb-sized dish worn into one face, about 3 centimetres across. It is held between index finger and thumb, and the thumb is moved back and forth across the dish. That motion is the whole of the object's use.",
+  "story": "There is no single origin claimed for it, and the sources do not pretend otherwise. Variations are traced to ancient Greece, to Tibet, to Ireland and to several Native American peoples; the Greek ones were stones the sea had smoothed, and the concept begins, as the cited account puts it, with the simple act of picking up a smooth stone and fiddling with it. A worry stone is one of the few objects in this atlas that anybody can find on a beach.\n\nWhat it claims is unusually narrow, and the cited source hedges it in the same breath: the motion \"is thought to reduce stress, but there is no conclusive scientific evidence to support this\". This atlas does not test that and does not settle it.\n\nWhere it is documented most precisely is in a clinic. Writers on cognitive behavioral therapy treat the worry stone as one of a set of folk practices that work as psychologically healthy self-soothing exercises, taught early in treatment to displace familiar but destructive coping habits — nail-biting, scratching, lip-biting — and to ready a patient to face anxiety or trauma safely. The cited account singles out short-term treatment of refugees, where complexity and unfamiliarity are the constraints and a stone is simple and intuitive enough to be useful. Later, once a patient has learned a fuller relaxation script, the stone becomes a reminder of it: the impulse to reach for it is itself the signal that the person is anxious.\n\n*Inference —* that last function is the interesting one for this atlas, because it is the only charm here whose stated job is to tell its carrier something rather than to keep something away. The stone reports.",
+  "how": "Tumbled and polished, or picked up already smooth. Sold in a box with a card, or handed over in a session, or found. There is no consecration, no maker's restriction and no retirement rite. A lost one is replaced.",
+  "today": "Sold worldwide in mineral shops, gift shops, pharmacies and therapy-supply catalogues, and given out in clinical settings. The stones are the same stones the crystal trade sells, which means the same sourcing questions attach to them; that argument is set out on the crystal pendant record and is not repeated here."
+ },
+ "dating": {
+  "period": "multiple claimed origins; documented in modern use",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "origins claimed in ancient Greece, Tibet, Ireland and several Native American nations; undated here",
+  "method": "undated",
+  "tier": "cited",
+  "source": "s:wp-worry-stone",
+  "note": "The cited source gives several origins and dates none of them, so this record dates none of them either."
+ },
+ "object": {
+  "form": "bead",
+  "materials": [
+   "agate",
+   "jade",
+   "turquoise",
+   "amber"
+  ],
+  "worn": [
+   "pocket",
+   "wallet"
+  ],
+  "made_by": "lapidaries and tumbling shops; also nobody, where the stone was found already smooth",
+  "length_mm": 30,
+  "single_use": false,
+  "source": "s:wp-worry-stone",
+  "note": "30 mm is the cited source's figure: worry stones are typically around 3 centimetres. Form is entered as bead for want of a closer key; it is not drilled and not strung."
+ },
+ "against": [
+  {
+   "harm": "illness",
+   "who": "writers on cognitive behavioral therapy, as summarised by the cited source",
+   "quote": "The action of moving one's thumb back and forth across the stone is thought to reduce stress, but there is no conclusive scientific evidence to support this.",
+   "source": "s:wp-worry-stone",
+   "tier": "cited",
+   "note": "anxiety and stress; this atlas's list of harms has no finer key, and the claim is printed with its own hedge attached"
+  }
+ ],
+ "kin": [
+  {
+   "to": "crystal-pendant",
+   "as": "the same stones, sold through the same trade, with the same sourcing argument attached",
+   "rel": "kin"
+  },
+  {
+   "to": "counting-beads",
+   "as": "the practice this is a single-bead version of — repetition in the hand, without the count",
+   "rel": "practice"
+  },
+  {
+   "to": "hagstone",
+   "as": "the other charm in this atlas that is picked up rather than made",
+   "rel": "parallel"
+  },
+  {
+   "to": "phone-charm",
+   "as": "the other thing in a modern pocket that gets touched all day without being looked at",
+   "rel": "parallel"
+  },
+  {
+   "to": "rudraksha",
+   "as": "the seed handled the same way, in a tradition that gives the handling a count and a text",
+   "rel": "parallel"
+  },
+  {
+   "to": "turquoise",
+   "as": "one of the stones it is commonly cut from",
+   "rel": "material"
+  }
+ ],
+ "links": [
+  {
+   "label": "Worry stone — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Worry_stone"
+  }
+ ],
+ "sources": [
+  "s:wp-worry-stone",
+  "s:wp-crystal-healing"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-worry-stone"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-worry-stone",
+    "note": "the closing paragraph is marked as this project's inference where it appears"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "present retail reasoned from the object's ubiquity; the sourcing point is carried by the crystal pendant record, which cites it"
+   },
+   "object.materials": {
+    "tier": "inference",
+    "note": "the cited source says 'semiprecious stones'; these four are the ordinary trade range and are not individually cited"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

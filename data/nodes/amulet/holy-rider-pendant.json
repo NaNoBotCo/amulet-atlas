@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "id": "holy-rider-pendant",
+ "type": "amulet",
+ "names": {
+  "name": "Holy rider pendant",
+  "aliases": ["rider saint amulet", "Sisinnios amulet", "Solomon amulet", "hystera amulet", "Abyzou amulet"]
+ },
+ "region": ["anatolia", "greece-aegean", "levant", "ancient-egypt"],
+ "countries": ["TR", "GR", "EG"],
+ "facets": {"era": "medieval", "status": "archaeological", "portable": "worn", "restricted": "open", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A small disc or pendant, bronze on the early Byzantine examples and lead on the medieval ones. One face carries the scene: a standing figure whipping a bound kneeling woman, or — on the later type — a horseman trampling her under the hooves. The other face often carries a whirling face-like device read as a womb, the hystera, sometimes ringed by an ouroboros, a snake biting its own tail. Everybody in the scene is labelled.",
+  "story": "The woman on the pendant is Abyzou, the demon blamed for miscarriage and infant mortality, and said to be driven by envy because she is infertile herself. She is Alabasandria in Coptic Egypt and Gylou in Byzantine Greek, and in the texts she has more names than anyone can count. In the Testament of Solomon she tells the king she never sleeps, that she walks the world looking for women about to give birth, and that she will strangle a newborn if she gets the chance.\n\nThe amulets take the healing-charm grammar of the late antique Mediterranean — address the affliction by name and order it out — and apply it to her. One bronze amulet labels the standing figure Arlaph and reads \"The Seal of Solomon [is] with the bearer; I am Noskam.\" The reverse, written inside the ouroboros, reads: \"Flee, flee, Abyzou, [from] Sisinios and Sisinnia; the voracious dog dwells here.\"\n\nWho does the driving off varies: Solomon, or Arlaph — called Afarof in the Testament of Solomon and identified with the archangel Raphael — or, on Christian examples, Saint Sisinnios. On one medieval piece the rider is Sisinnios, the demon is named twice over as Abizou and Anabardalea, and an angel called Araph stands by with one wing raised.\n\nThe same scene exists in paint. At the monastery of St Apollo in Bawit, in Egypt, a wall painting shows the childbirth demon named Alabasandria trampled under a horse; the rider wears a belted tunic and trousers in the Parthian style, and the inscription, faded by the time it was read, was read as Sisinnios. Round the central image are a centaur, the piercing of the evil eye, and the demon's winged, reptile-tailed daughter, named in her own inscription.\n\n*Inference —* the amulets are usually described as protecting women in childbirth and their infants, and Jeffrey Spier's survey notes that some of the names of the people seeking protection on surviving examples are men's. Whatever these pendants were understood to be doing, they were not only for mothers."
+ },
+ "dating": {
+  "period": "Early Byzantine to medieval",
+  "from_year": 501,
+  "to_year": 1299,
+  "living": false,
+  "label": "early Byzantine bronzes and medieval lead amulets",
+  "method": "art-historical",
+  "circa": true,
+  "tier": "inference",
+  "source": "s:wp-abyzou",
+  "note": "The cited article describes 'early Byzantine bronze amulets' and a medieval lead variation without printing centuries in the text this project read. The years here turn those two words into a span and should be checked against Jeffrey Spier, 'Medieval Byzantine Magical Amulets and Their Tradition', Journal of the Warburg and Courtauld Institutes 56 (1993), which the article cites."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": ["copper", "lead"],
+  "worn": ["neck"],
+  "made_by": "not recorded in the cited article",
+  "inscription": "Flee, flee, Abyzou, [from] Sisinios and Sisinnia; the voracious dog dwells here",
+  "script": "Greek",
+  "source": "s:wp-abyzou",
+  "note": "The inscription quoted is the reverse of one bronze amulet, written inside an ouroboros. No published measurement was read."
+ },
+ "against": [
+  {"harm": "childbirth", "who": "the amulets themselves, which name the demon blamed for miscarriage and order her away", "quote": "Flee, flee, Abyzou, [from] Sisinios and Sisinnia; the voracious dog dwells here.", "source": "s:wp-abyzou", "tier": "cited"},
+  {"harm": "child-harm", "who": "the Testament of Solomon, in which the demon says she walks the world looking for women about to give birth and strangles newborns", "source": "s:wp-abyzou", "tier": "cited"},
+  {"harm": "demons", "who": "the amulet's own labels: Solomon, Arlaph or Saint Sisinnios doing the driving off", "source": "s:wp-abyzou", "tier": "cited"},
+  {"harm": "evil-eye", "who": "the Bawit wall painting, which sets the piercing of the evil eye in the same composition as the trampled demon", "source": "s:wp-abyzou", "tier": "cited"},
+  {"harm": "illness", "who": "the Testament of Solomon, where the demon also claims deafness, eye trouble, obstructions of the throat, madness and bodily pain", "source": "s:wp-abyzou", "tier": "cited"}
+ ],
+ "kin": [
+  {"to": "lamashtu-plaque", "as": "the same demon's job description two thousand years earlier and one region east — A. A. Barb traced this family of she-demons back to the Mesopotamian primeval sea", "rel": "origin"},
+  {"to": "gorgoneion", "as": "the face on the reverse; the medieval lead amulets carry a device that resembles one and is read as a womb symbol", "rel": "motif"},
+  {"to": "magical-gem", "as": "the practice this grew out of — named powers, named demons, cut small and worn", "rel": "origin"},
+  {"to": "incantation-bowl", "as": "the eastern contemporary, naming Lilith where these name Abyzou, and buried instead of worn", "rel": "parallel"},
+  {"to": "greco-roman-apotropaic", "as": "the tradition whose grammar these keep — name the affliction, order it to flee", "rel": "origin"},
+  {"to": "serpent", "as": "the ouroboros the reverse inscription is written inside", "rel": "motif"},
+  {"to": "divine-name", "as": "the working part of the object: Solomon's seal, Arlaph, Sisinnios, and the demon's own name used against her", "rel": "motif"},
+  {"to": "st-christopher-medal", "as": "what this becomes in Latin Christendom — a saint on a small metal disc, worn against a named danger", "rel": "descendant"},
+  {"to": "most-of-them-are-for-children", "as": "the long read; the largest class of amulet in the world is the one aimed at whatever takes babies", "rel": "story"}
+ ],
+ "links": [{"label": "Abyzou — Wikipedia", "url": "https://en.wikipedia.org/wiki/Abyzou"}],
+ "sources": ["s:wp-abyzou", "s:wp-seal-of-solomon", "s:wp-apotropaic-magic", "s:wp-evil-eye"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-abyzou"},
+  "fields": {
+   "dating": {"tier": "inference", "note": "see dating.note; the centuries are this project's reading of 'early Byzantine' and 'medieval'"},
+   "countries": {"tier": "inference", "note": "Egypt is documented by the Bawit painting; Turkey and Greece stand for the Byzantine world the article places the bronzes in, without naming findspots"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Abyzou.jpg", "File:Perdrizet-Negotium-fig006-Baouit.png"],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

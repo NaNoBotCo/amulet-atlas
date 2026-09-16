@@ -1,0 +1,683 @@
+{
+ "schema": 1,
+ "id": "serpent",
+ "type": "motif",
+ "names": {
+  "name": "The serpent",
+  "aliases": [
+   "snake motif",
+   "cobra",
+   "uraeus",
+   "nāga",
+   "entwined snakes",
+   "rainbow serpent"
+  ]
+ },
+ "region": [
+  "ancient-egypt",
+  "mesopotamia",
+  "greece-aegean",
+  "rome-italy",
+  "south-asia",
+  "mainland-sea",
+  "west-africa",
+  "mesoamerica",
+  "caribbean",
+  "china",
+  "japan"
+ ],
+ "countries": [
+  "EG",
+  "IQ",
+  "GR",
+  "IT",
+  "IN",
+  "KH",
+  "TH",
+  "LA",
+  "BJ",
+  "MX",
+  "GT",
+  "HT",
+  "CN",
+  "JP",
+  "KR",
+  "AE"
+ ],
+ "facets": {
+  "era": "ancient",
+  "family": "serpent",
+  "hemisphere": [
+   "N",
+   "S",
+   "E",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A snake, drawn coiled, reared, entwined in pairs, or hooded above a head. It is cut into rings and pendants, cast on the branches of Neapolitan silver charms, hooded in stone over Angkorean doorways, and worn as the cobra on an Egyptian crown. Nothing else in this atlas is so evenly split between a thing to be guarded against and a thing that does the guarding.",
+  "story": "Snakes make good guardians for a reason their observers state plainly: a cornered cobra or rattlesnake holds its ground, displays, and fights rather than retreating. So it gets set where something cannot be moved out of harm's way. At Angkor, hooded multi-headed nāgas guard temples in stone, and from about the twelfth century CE a favourite subject was the Buddha meditating on the coils of a nāga whose flared hood shields him — the story of Mucalinda, who came up from the roots of a tree when the storm began.\n\nEgypt puts the snake at the top. Wadjet, the Egyptian cobra, is from the earliest records the patron and protector of the country, of the other gods and of the pharaohs, worn entwined around the papyrus staff and set in the crown. Nehebkau, the two-headed serpent, guarded the entrance to the underworld, and charms against snakes were inscribed or chanted invoking him — which is the whole ambivalence in one deity: the snake keeps snakes off.\n\nThe entwined pair is older than the caduceus. The oldest known representation of two snakes coiled round a rod is the Sumerian god Ningizzida, later a god of healing and magic; a green steatite vase carved for King Gudea of Lagash, dated variously to 2200–2025 BCE, carries an inscription dedicated to him and is in the Louvre. The Greek physician Asclepius carries the single-snake staff that modern medicine still uses. Moses set a serpent on a pole, the Nehushtan, at Numbers 21:8.\n\nEurope kept a domestic version. German popular belief records the house snake that looks after the cows and the children, whose appearance is an omen of death, and whose life is often held to be bound to the master's and the mistress's.\n\n*Inference —* the snake turns up in this role on every inhabited continent, and the sources read here do not show one tradition teaching another. Where the same posture appears — reared, hooded, entwined — the likeliest account is that people in many places watched the same animal do the same thing."
+ },
+ "kin": [
+  {
+   "to": "cimaruta",
+   "as": "the Neapolitan silver sprig that grows a snake on one of its branches, beside a key and a crescent",
+   "rel": "carried-by"
+  },
+  {
+   "to": "magical-gem",
+   "as": "the engraved stones that carry snakes, snake-legged figures and serpent-haired heads",
+   "rel": "carried-by"
+  },
+  {
+   "to": "eye",
+   "as": "the other sign that is both the harm and the answer to it",
+   "rel": "parallel"
+  },
+  {
+   "to": "tree",
+   "as": "the snake is almost always coiled around one — Eden, the Hesperides, Yggdrasil, the Bodhi tree",
+   "rel": "kin"
+  },
+  {
+   "to": "tooth-and-claw",
+   "as": "the animal reduced to its dangerous part; the serpent is kept whole instead",
+   "rel": "contrast"
+  },
+  {
+   "to": "lion",
+   "as": "the other guardian animal set at doorways, and the one Egypt paired Wadjet with as Sekhmet",
+   "rel": "parallel"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "the practice the guardian snake belongs to, in stone rather than in metal",
+   "rel": "practice"
+  },
+  {
+   "to": "west-african-charm-craft",
+   "as": "one of the living traditions that names and serves serpent figures, and which speaks for itself rather than through this record",
+   "rel": "tradition"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the tradition the German house snake and the Neapolitan silver snake both belong to",
+   "rel": "tradition"
+  }
+ ],
+ "dating": {
+  "period": "Predynastic Egypt to the present",
+  "from_year": -2999,
+  "to_year": null,
+  "living": true,
+  "label": "before 3000 BCE to now",
+  "method": "art-historical",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-serpent-symbolism",
+  "note": "Dated from the statement that the deity poles entwined by the serpent Wadjet date earlier than 3000 BCE. The Gudea vase for Ningizzida is separately dated 2200–2025 BCE."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": [
+   "silver",
+   "gold",
+   "agate",
+   "copper",
+   "terracotta"
+  ],
+  "worn": [
+   "neck",
+   "finger",
+   "door",
+   "lintel",
+   "head"
+  ],
+  "source": "s:wp-serpent-symbolism"
+ },
+ "against": [
+  {
+   "harm": "snakebite",
+   "who": "Egyptian texts: charms against snakes were inscribed or chanted, some invoking the snake deity Nehebkau, and some to protect the dead",
+   "source": "s:wp-snake-worship",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "Angkorean builders, who set hooded multi-headed nāgas as guardians of temples and other premises",
+   "source": "s:wp-serpent-symbolism",
+   "tier": "cited"
+  },
+  {
+   "harm": "war",
+   "who": "Egyptian tradition, which has Wadjet spit fire at the enemies of the pharaoh and of Ra",
+   "source": "s:wp-snake-worship",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the Asclepius staff and the Ningizzida rod, both healing emblems in their own traditions",
+   "source": "s:wp-serpent-symbolism",
+   "tier": "cited"
+  },
+  {
+   "harm": "livestock",
+   "who": "German popular belief, in which the house snake looks after the cows and the children",
+   "source": "s:wp-snake-worship",
+   "tier": "cited"
+  }
+ ],
+ "holdings": [
+  {
+   "museum": "louvre",
+   "what": "green steatite vase carved for King Gudea of Lagash with an inscription dedicated to Ningizzida, showing two entwined snakes",
+   "source": "s:wp-serpent-symbolism"
+  }
+ ],
+ "links": [
+  {
+   "label": "Serpent symbolism — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Serpent_symbolism"
+  }
+ ],
+ "sources": [
+  "s:wp-serpent-symbolism",
+  "s:wp-snake-worship",
+  "s:wp-cimaruta",
+  "s:wp-haitian-vodou"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-serpent-symbolism"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-serpent-symbolism",
+    "note": "the closing paragraph on convergence is this project's reading and is marked inference there"
+   },
+   "object": {
+    "tier": "tradition",
+    "note": "materials and positions are pooled from many traditions rather than read off one catalogue"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Uraeus.svg",
+  "File:Naga Mucalinda Buddha.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A snake, drawn coiled, reared, entwined in pairs, or hooded above a head.",
+ "region_terms": [
+  {
+   "key": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Nile valley and delta, Predynastic through Roman Egypt"
+  },
+  {
+   "key": "mesopotamia",
+   "name": "Mesopotamia",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Sumer, Akkad, Babylonia, Assyria"
+  },
+  {
+   "key": "greece-aegean",
+   "name": "Greece and the Aegean",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "mainland-sea",
+   "name": "Mainland Southeast Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "west-africa",
+   "name": "West Africa",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "mesoamerica",
+   "name": "Mesoamerica",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "caribbean",
+   "name": "The Caribbean",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "china",
+   "name": "China",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "japan",
+   "name": "Japan",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "cimaruta",
+   "type": "amulet",
+   "name": "Cimaruta",
+   "as": "the Neapolitan silver sprig that grows a snake on one of its branches, beside a key and a crescent",
+   "rel": "carried-by"
+  },
+  {
+   "to": "magical-gem",
+   "type": "amulet",
+   "name": "Magical gem",
+   "as": "the engraved stones that carry snakes, snake-legged figures and serpent-haired heads",
+   "rel": "carried-by"
+  },
+  {
+   "to": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "the other sign that is both the harm and the answer to it",
+   "rel": "parallel"
+  },
+  {
+   "to": "tree",
+   "type": "motif",
+   "name": "The tree",
+   "as": "the snake is almost always coiled around one — Eden, the Hesperides, Yggdrasil, the Bodhi tree",
+   "rel": "kin"
+  },
+  {
+   "to": "tooth-and-claw",
+   "type": "motif",
+   "name": "The tooth and the claw",
+   "as": "the animal reduced to its dangerous part; the serpent is kept whole instead",
+   "rel": "contrast"
+  },
+  {
+   "to": "lion",
+   "type": "motif",
+   "name": "The lion",
+   "as": "the other guardian animal set at doorways, and the one Egypt paired Wadjet with as Sekhmet",
+   "rel": "parallel"
+  },
+  {
+   "to": "hanging-at-door",
+   "type": "practice",
+   "name": "Hanging at the door",
+   "as": "the practice the guardian snake belongs to, in stone rather than in metal",
+   "rel": "practice"
+  },
+  {
+   "to": "west-african-charm-craft",
+   "type": "tradition",
+   "name": "West African charm craft",
+   "as": "one of the living traditions that names and serves serpent figures, and which speaks for itself rather than through this record",
+   "rel": "tradition"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "type": "tradition",
+   "name": "European folk apotropaic craft",
+   "as": "the tradition the German house snake and the Neapolitan silver snake both belong to",
+   "rel": "tradition"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-serpent-symbolism",
+   "kind": "encyclopedia",
+   "title": "Serpent symbolism",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Serpent_symbolism",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-snake-worship",
+   "kind": "encyclopedia",
+   "title": "Snake worship",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Snake_worship",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cimaruta",
+   "kind": "encyclopedia",
+   "title": "Cimaruta",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cimaruta",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-haitian-vodou",
+   "kind": "encyclopedia",
+   "title": "Haitian Vodou",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Haitian_Vodou",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-serpent-symbolism"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-serpent-symbolism",
+   "note": "the closing paragraph on convergence is this project's reading and is marked inference there"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-serpent-symbolism"
+  },
+  "object": {
+   "tier": "tradition",
+   "note": "materials and positions are pooled from many traditions rather than read off one catalogue"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "snakebite",
+   "label": "Snakes and scorpions",
+   "who": "Egyptian texts: charms against snakes were inscribed or chanted, some invoking the snake deity Nehebkau, and some to protect the dead",
+   "quote": "",
+   "source": "s:wp-snake-worship",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "Angkorean builders, who set hooded multi-headed nāgas as guardians of temples and other premises",
+   "quote": "",
+   "source": "s:wp-serpent-symbolism",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "war",
+   "label": "War",
+   "who": "Egyptian tradition, which has Wadjet spit fire at the enemies of the pharaoh and of Ra",
+   "quote": "",
+   "source": "s:wp-snake-worship",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "the Asclepius staff and the Ningizzida rod, both healing emblems in their own traditions",
+   "quote": "",
+   "source": "s:wp-serpent-symbolism",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "livestock",
+   "label": "Harm to livestock",
+   "who": "German popular belief, in which the house snake looks after the cows and the children",
+   "quote": "",
+   "source": "s:wp-snake-worship",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  },
+  {
+   "key": "gold",
+   "label": "Gold",
+   "kind": "metal"
+  },
+  {
+   "key": "agate",
+   "label": "Agate and onyx",
+   "kind": "stone"
+  },
+  {
+   "key": "copper",
+   "label": "Copper and bronze",
+   "kind": "metal"
+  },
+  {
+   "key": "terracotta",
+   "label": "Fired clay",
+   "kind": "fired"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "finger",
+   "label": "On a finger",
+   "group": "body"
+  },
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  },
+  {
+   "key": "lintel",
+   "label": "Above the lintel",
+   "group": "placed"
+  },
+  {
+   "key": "head",
+   "label": "On the head",
+   "group": "body"
+  }
+ ],
+ "form_fact": {
+  "key": "pendant",
+  "label": "Pendant"
+ },
+ "holding_facts": [
+  {
+   "key": "louvre",
+   "label": "Musée du Louvre",
+   "city": "Paris",
+   "country": "FR",
+   "url": "",
+   "what": "green steatite vase carved for King Gudea of Lagash with an inscription dedicated to Ningizzida, showing two entwined snakes",
+   "accession": "",
+   "source": "s:wp-serpent-symbolism"
+  }
+ ],
+ "span": "3000 BCE to now",
+ "country_names": [
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  },
+  {
+   "iso": "IQ",
+   "name": "Iraq"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  },
+  {
+   "iso": "KH",
+   "name": "Cambodia"
+  },
+  {
+   "iso": "TH",
+   "name": "Thailand"
+  },
+  {
+   "iso": "LA",
+   "name": "Laos"
+  },
+  {
+   "iso": "BJ",
+   "name": "Benin"
+  },
+  {
+   "iso": "MX",
+   "name": "Mexico"
+  },
+  {
+   "iso": "GT",
+   "name": "Guatemala"
+  },
+  {
+   "iso": "HT",
+   "name": "Haiti"
+  },
+  {
+   "iso": "CN",
+   "name": "China"
+  },
+  {
+   "iso": "JP",
+   "name": "Japan"
+  },
+  {
+   "iso": "KR",
+   "name": "South Korea"
+  },
+  {
+   "iso": "AE",
+   "name": "United Arab Emirates"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "cimaruta",
+   "type": "amulet",
+   "name": "Cimaruta",
+   "as": "the snake on one branch; the cimaruta is the rare amulet that stacks signs rather than choosing one",
+   "rel": "motif"
+  },
+  {
+   "from": "cippus-of-horus",
+   "type": "amulet",
+   "name": "Cippus of Horus",
+   "as": "the sign in his fists, and the harm the stone is aimed at",
+   "rel": "motif"
+  },
+  {
+   "from": "hagstone",
+   "type": "amulet",
+   "name": "Hagstone",
+   "as": "the sign in the name: Glain Neidr, snake's egg, from the Druids' account of how it is made",
+   "rel": "motif"
+  },
+  {
+   "from": "holy-rider-pendant",
+   "type": "amulet",
+   "name": "Holy rider pendant",
+   "as": "the ouroboros the reverse inscription is written inside",
+   "rel": "motif"
+  },
+  {
+   "from": "keris-pusaka",
+   "type": "amulet",
+   "name": "Keris pusaka",
+   "as": "the sign read into the wavy blade, whose luk are counted and named",
+   "rel": "motif"
+  },
+  {
+   "from": "lamashtu-plaque",
+   "type": "amulet",
+   "name": "Lamashtu plaque",
+   "as": "the sign in both her fists on the first-millennium compositions",
+   "rel": "motif"
+  },
+  {
+   "from": "miraculous-medal",
+   "type": "amulet",
+   "name": "Miraculous Medal",
+   "as": "the creature under the woman's heel on its face, and the oldest thing on the medal",
+   "rel": "motif"
+  },
+  {
+   "from": "lion",
+   "type": "motif",
+   "name": "The lion",
+   "as": "what the lion-headed figure stands on and what its legs turn into on the gems",
+   "rel": "kin"
+  }
+ ]
+}

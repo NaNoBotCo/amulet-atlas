@@ -1,0 +1,598 @@
+{
+ "schema": 1,
+ "id": "pitt-rivers-charms",
+ "type": "place",
+ "names": {
+  "name": "The amulet and charm cases, Pitt Rivers Museum",
+  "aliases": [
+   "Amulets and Charms, Pitt Rivers",
+   "Cases C26A–C31B"
+  ],
+  "sort": "Pitt Rivers amulet cases"
+ },
+ "region": [
+  "britain-ireland",
+  "world"
+ ],
+ "countries": [
+  "GB"
+ ],
+ "facets": {
+  "kind": "gallery",
+  "hemisphere": [
+   "N",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "Eight glass-topped cases on the Court, the ground floor of the museum, with deep drawers under them. The museum's own guide names them: C26A, C27A and C28A hold Amulets and Charms; C29A, Amulets, Charms, and Divination; C30A, Charms against the Evil Eye; C30B, Amulets, Cures, and Charms; C31A, Magic and Trial by Ordeal; C31B, Amulets and Charms for Animals. A Neapolitan silver cimaruta, a blue glass eye bead from Hebron, a Japanese glass hy-o-tan, a string of blue beads that hung round a donkey's neck in Istanbul and an Algerian sheep's shoulder blade written on in Arabic all sit within arm's reach of one another, because they answer the same problem.",
+  "story": "The museum publishes the total: almost 6,000 amulets and charms in the collections, though not all of them are on display. They come from everywhere, England included.\n\nThe largest single block arrived by sale and then by transfer. Adrien de Mortillet, 1853–1931, son of the archaeologist Gabriel de Mortillet and later a lecturer and chair at the School of Anthropology in Paris, built an amulet collection drawn from five continents and from antiquity to the early twentieth century. In 1931, a few months before he died, he sold it to Henry Wellcome's museum in London. It was transferred to the Pitt Rivers Museum in 1985. In 2012 the museum catalogued more than 2,500 of them under a project called Small Blessings, funded by Arts Council England's Designation Development Fund and running February to September that year, and put the records online.\n\nThe English cases owe a bank cashier. Edward Lovett swapped alpine plants grown in seashells for the charms Londoners had in their pockets and gave the results to Oxford; the museum's own England: The Other Within project counts 216 objects from him, 55 of them English, accessioned 1893 to 1911 — the encyclopedia gives the span as 1896 to 1911, and this record prints both rather than choosing. Walter Leo Hildburgh's amulets, bought across Europe, Asia and the Middle East, came by the same 1985 route out of Wellcome.\n\nThe cases are grouped by what an object does, not by where it is from, because the founder's 1884 Deed of Gift requires it: a clause says changes to the displays \"shall not affect the general principle originated by Augustus Henry Lane Fox Pitt Rivers\". The museum states plainly that this evolutionary approach to material culture is no longer appropriate in the modern display paradigm, and that it has kept the arrangement because the Deed does.\n\nSo it has gone at the labels instead. Labelling Matters, led by the director Laura Van Broekhoven with the research associate Marenka Thompson-Odlum and funded through the TORCH Heritage Seed Fund and Knowledge Exchange, reviews the language of the permanent displays; its stated aim is to \"identify areas of improvement and to trial ways of changing our public texts where derogatory and other problematic language is used\". In 2020 the museum took human remains off display, including the tsantsas shown since the 1940s. With the Museum of Natural History it returned the remains of 17 Aboriginal Australians to the Australian government in 2022, and in 2026 agreed to repatriate Naga skeletal remains, some of which had been shown in a case titled Treatment of Dead Enemies. That last one reaches these cases directly: the museum's own amulets guide describes an object made to be put in the spring of the Rengma Naga village of Tesophenyu, and lists what its wrappings hold.\n\nThe guide is careful about the claims and this atlas keeps its wording. It defines an amulet with the Oxford English Dictionary — \"Anything worn about the person as a charm preventative against evil, mischief, disease, witchcraft, etc.\" — and explains sympathetic magic as meaning \"that the appearance of an object resembles, in some way, the cure or protection it is believed to offer\". Of the Maasai ivory amulet hung round a cow's neck it reports the Maasai term inkonyek, people with 'eyes', whose envious glance is held to be deadliest to young children and calves. Of a Yoruba ori box it records that the original owner assured the collector it was filled with 'juju' but could not say what was inside.\n\n*Inference —* a case that puts a Naples cimaruta next to a Nagaland packet is making an argument, and the museum now argues with its own furniture.",
+  "today": "On the Court floor, free, and still laid out on the founder's principle while the museum rewrites what is written on the cards. Displays are rotated, and the guide this record leans on was revised in March 2010 by Kate White, then Head of Access and Public Relations, so a case number is the museum's last published word and not a promise about today. This project has not stood in the Court."
+ },
+ "dating": {
+  "period": "1884 to now; the amulet block from 1931 and 1985",
+  "from_year": 1884,
+  "to_year": null,
+  "living": true,
+  "label": "museum from 1884; the de Mortillet amulets sold 1931, transferred 1985, catalogued 2012",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:web-prm-small-blessings-mortillet"
+ },
+ "geo": {
+  "lat": 51.7586,
+  "lon": -1.2554,
+  "precision": "street",
+  "source": "hand-placed at the Oxford University Museum of Natural History on Parks Road, through which this museum is entered; the museum's own postal address is South Parks Road. No published coordinate was read."
+ },
+ "address": {
+  "street": "South Parks Road",
+  "city": "Oxford",
+  "country": "GB",
+  "postcode": "OX1 3PP"
+ },
+ "hours": {
+  "open": [
+   "Mo",
+   "Tu",
+   "We",
+   "Th",
+   "Fr",
+   "Sa",
+   "Su"
+  ],
+  "text": "Monday 12.00–17.00; Tuesday to Sunday 10.00–17.00. Bank holiday Mondays and half-term Mondays 10.00–17.00.",
+  "source": "s:web-prm-visit-us",
+  "url": "https://www.prm.ox.ac.uk/visit-us",
+  "tier": "cited",
+  "checked": "2026-09-17",
+  "note": "Entry is through the Oxford University Museum of Natural History on Parks Road. Displays are rotated, so an open day is not a promise that a particular case is dressed."
+ },
+ "holdings": [
+  {
+   "museum": "pitt-rivers",
+   "what": "Cases C26A, C27A, C28A (Amulets and Charms), C29A (Amulets, Charms, and Divination), C30A (Charms against the Evil Eye), C30B (Amulets, Cures, and Charms), C31A (Magic and Trial by Ordeal) and C31B (Amulets and Charms for Animals), on the Court floor, with more objects in the drawers beneath",
+   "url": "https://prm.web.ox.ac.uk/files/amuletspdf",
+   "source": "s:web-prm-amulets-guide",
+   "open_access": false,
+   "note": "Almost 6,000 amulets and charms in the collections, not all on display. Accession numbers are printed in the museum's guide; this record leaves them out because it could not reach a per-object catalogue page to cite alongside them."
+  },
+  {
+   "museum": "pitt-rivers",
+   "what": "The de Mortillet amulet collection, more than 2,500 records catalogued and published online by the Small Blessings project in 2012",
+   "url": "https://web.prm.ox.ac.uk/amulets/",
+   "source": "s:web-prm-small-blessings-intro",
+   "open_access": false
+  }
+ ],
+ "tags": [
+  {
+   "tag": "free-entry",
+   "source": "s:web-prm-visit-us",
+   "tier": "cited",
+   "note": "\"Entry is free.\" on the museum's own Visit us page",
+   "url": "https://www.prm.ox.ac.uk/visit-us"
+  },
+  {
+   "tag": "amulets-on-display",
+   "source": "s:web-prm-amulets-guide",
+   "tier": "cited",
+   "note": "eight named cases on the Court floor, listed by number in the museum's own introductory guide",
+   "url": "https://prm.web.ox.ac.uk/files/amuletspdf"
+  },
+  {
+   "tag": "repatriation",
+   "source": "s:wp-pitt-rivers-museum",
+   "tier": "cited",
+   "note": "remains of 17 Aboriginal Australians returned in 2022; Naga skeletal remains agreed for repatriation in 2026; human remains taken off display in 2020"
+  }
+ ],
+ "kin": [
+  {
+   "to": "pitt-rivers-museum",
+   "as": "the museum these cases sit in, and the Deed of Gift that keeps them laid out this way",
+   "rel": "org"
+  },
+  {
+   "to": "augustus-pitt-rivers",
+   "as": "the founder whose sorting rule — by purpose, not by place — is the reason a cimaruta and a Naga packet share a case",
+   "rel": "person"
+  },
+  {
+   "to": "edward-lovett",
+   "as": "the donor of the English charms, 216 objects accessioned between 1893 and 1911",
+   "rel": "person"
+  },
+  {
+   "to": "walter-hildburgh",
+   "as": "the other collector whose amulets came here from Wellcome in the 1985 transfer",
+   "rel": "person"
+  },
+  {
+   "to": "cimaruta",
+   "as": "the Neapolitan silver sprig the guide singles out, made against the malocchio and always of silver",
+   "rel": "carries"
+  },
+  {
+   "to": "nazar",
+   "as": "the blue glass eye in these cases, one of them donated as early as 1885",
+   "rel": "carries"
+  },
+  {
+   "to": "hamsa",
+   "as": "the Hand of Fatima in gold filigree from Tunis, and a silver Hebrew-inscribed hand beside it",
+   "rel": "carries"
+  },
+  {
+   "to": "hagstone",
+   "as": "the perforated pebble on a string that sits at the front of the sympathetic magic material",
+   "rel": "carries"
+  },
+  {
+   "to": "evil-eye-bracelet",
+   "as": "the shop-bought descendant of the glass eyes in case C30A, which the guide says are still being made",
+   "rel": "descendant"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the tradition these cases document most densely, because Lovett walked London",
+   "rel": "tradition"
+  },
+  {
+   "to": "wellcome-lovett",
+   "as": "the London end of the same story: what Wellcome kept, and what came here in 1985",
+   "rel": "place"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read; this museum answers it out loud, on its own labels, since 2020",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Discover… Amulets and Charms — Pitt Rivers Museum introductory guide",
+   "url": "https://prm.web.ox.ac.uk/files/amuletspdf"
+  },
+  {
+   "label": "Small Blessings — Pitt Rivers Museum",
+   "url": "https://web.prm.ox.ac.uk/amulets/"
+  },
+  {
+   "label": "Visit us — Pitt Rivers Museum",
+   "url": "https://www.prm.ox.ac.uk/visit-us"
+  },
+  {
+   "label": "Labelling Matters — Pitt Rivers Museum",
+   "url": "https://www.prm.ox.ac.uk/labelling-matters"
+  }
+ ],
+ "sources": [
+  "s:web-prm-amulets-guide",
+  "s:web-prm-visit-us",
+  "s:web-prm-small-blessings",
+  "s:web-prm-small-blessings-intro",
+  "s:web-prm-small-blessings-mortillet",
+  "s:web-prm-labelling-matters",
+  "s:web-prm-lovett",
+  "s:wp-pitt-rivers-museum",
+  "s:web-walter-hildburgh-wikipedia",
+  "s:wp-edward-lovett"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-prm-amulets-guide"
+  },
+  "fields": {
+   "geo": {
+    "tier": "inference",
+    "note": "geocoded by hand to Parks Road, where the entrance is; the museum's postal address is South Parks Road and it has no separate street frontage. No published coordinate was read."
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-prm-small-blessings-mortillet",
+    "note": "de Mortillet's dates, the 1931 sale and the 1985 transfer come from the museum's own Small Blessings pages; the two spans for Lovett's accessions come from two published sources and are both printed; the Deed clause, the 2020 removals and the 2022 and 2026 returns come from the museum's encyclopedia entry; the closing line is marked as inference where it appears"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:web-prm-amulets-guide",
+    "note": "the guide's own revision date is March 2010, which is why the case numbers are given as the last published word; nobody from this project has stood in the Court"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Pitt Rivers Museum Court cases.jpg",
+  "File:Cimaruta Pitt Rivers.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-17",
+ "blurb": "Eight glass-topped cases on the Court, the ground floor of the museum, with deep drawers under them.",
+ "region_terms": [
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "world",
+   "name": "Everywhere",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "use for a sign or a practice documented on more than two continents"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "pitt-rivers-museum",
+   "type": "org",
+   "name": "The Pitt Rivers Museum",
+   "as": "the museum these cases sit in, and the Deed of Gift that keeps them laid out this way",
+   "rel": "org"
+  },
+  {
+   "to": "augustus-pitt-rivers",
+   "type": "person",
+   "name": "Augustus Pitt Rivers",
+   "as": "the founder whose sorting rule — by purpose, not by place — is the reason a cimaruta and a Naga packet share a case",
+   "rel": "person"
+  },
+  {
+   "to": "edward-lovett",
+   "type": "person",
+   "name": "Edward Lovett",
+   "as": "the donor of the English charms, 216 objects accessioned between 1893 and 1911",
+   "rel": "person"
+  },
+  {
+   "to": "walter-hildburgh",
+   "type": "person",
+   "name": "Walter Leo Hildburgh",
+   "as": "the other collector whose amulets came here from Wellcome in the 1985 transfer",
+   "rel": "person"
+  },
+  {
+   "to": "cimaruta",
+   "type": "amulet",
+   "name": "Cimaruta",
+   "as": "the Neapolitan silver sprig the guide singles out, made against the malocchio and always of silver",
+   "rel": "carries"
+  },
+  {
+   "to": "nazar",
+   "type": "amulet",
+   "name": "Nazar",
+   "as": "the blue glass eye in these cases, one of them donated as early as 1885",
+   "rel": "carries"
+  },
+  {
+   "to": "hamsa",
+   "type": "amulet",
+   "name": "Hamsa",
+   "as": "the Hand of Fatima in gold filigree from Tunis, and a silver Hebrew-inscribed hand beside it",
+   "rel": "carries"
+  },
+  {
+   "to": "hagstone",
+   "type": "amulet",
+   "name": "Hagstone",
+   "as": "the perforated pebble on a string that sits at the front of the sympathetic magic material",
+   "rel": "carries"
+  },
+  {
+   "to": "evil-eye-bracelet",
+   "type": "amulet",
+   "name": "Evil eye bracelet",
+   "as": "the shop-bought descendant of the glass eyes in case C30A, which the guide says are still being made",
+   "rel": "descendant"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "type": "tradition",
+   "name": "European folk apotropaic craft",
+   "as": "the tradition these cases document most densely, because Lovett walked London",
+   "rel": "tradition"
+  },
+  {
+   "to": "wellcome-lovett",
+   "type": "place",
+   "name": "The Lovett charms at Wellcome Collection",
+   "as": "the London end of the same story: what Wellcome kept, and what came here in 1985",
+   "rel": "place"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read; this museum answers it out loud, on its own labels, since 2020",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:web-prm-amulets-guide",
+   "kind": "web",
+   "title": "Amulets and Charms Introductory Guide",
+   "publisher": "Pitt Rivers Museum, University of Oxford",
+   "url": "https://web.prm.ox.ac.uk/amulets/index.php/introductory-guide/index.html",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-prm-visit-us",
+   "kind": "web",
+   "title": "Visit us",
+   "publisher": "The Pitt Rivers Museum, University of Oxford",
+   "url": "https://www.prm.ox.ac.uk/visit-us",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-prm-small-blessings",
+   "kind": "web",
+   "title": "Small Blessings",
+   "publisher": "Pitt Rivers Museum, University of Oxford",
+   "url": "https://web.prm.ox.ac.uk/amulets/index.html",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-prm-small-blessings-intro",
+   "kind": "web",
+   "title": "Small Blessings — Introduction",
+   "publisher": "The Pitt Rivers Museum, University of Oxford",
+   "url": "https://web.prm.ox.ac.uk/amulets/index.php/home-introduction/index.html",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-prm-small-blessings-mortillet",
+   "kind": "web",
+   "title": "Small Blessings — Adrien de Mortillet",
+   "publisher": "The Pitt Rivers Museum, University of Oxford",
+   "url": "https://web.prm.ox.ac.uk/amulets/index.php/home-de-mortillet/index.html",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-prm-labelling-matters",
+   "kind": "web",
+   "title": "Labelling Matters",
+   "publisher": "The Pitt Rivers Museum, University of Oxford",
+   "url": "https://www.prm.ox.ac.uk/labelling-matters",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-prm-lovett",
+   "kind": "web",
+   "title": "Edward Lovett (England: The Other Within)",
+   "publisher": "Pitt Rivers Museum, University of Oxford; researched by Alison Petch",
+   "url": "https://england.prm.ox.ac.uk/englishness-Edward-Lovett.html",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-pitt-rivers-museum",
+   "kind": "encyclopedia",
+   "title": "Pitt Rivers Museum",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pitt_Rivers_Museum",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-walter-hildburgh-wikipedia",
+   "kind": "web",
+   "title": "Walter Leo Hildburgh",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Walter_Leo_Hildburgh",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-edward-lovett",
+   "kind": "encyclopedia",
+   "title": "Edward Lovett",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Edward_Lovett",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:web-prm-amulets-guide"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:web-prm-small-blessings-mortillet",
+   "note": "de Mortillet's dates, the 1931 sale and the 1985 transfer come from the museum's own Small Blessings pages; the two spans for Lovett's accessions come from two published sources and are both printed; the Deed clause, the 2020 removals and the 2022 and 2026 returns come from the museum's encyclopedia entry; the closing line is marked as inference where it appears"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:web-prm-amulets-guide",
+   "note": "the guide's own revision date is March 2010, which is why the case numbers are given as the last published word; nobody from this project has stood in the Court"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:web-prm-amulets-guide"
+  },
+  "geo": {
+   "tier": "inference",
+   "note": "geocoded by hand to Parks Road, where the entrance is; the museum's postal address is South Parks Road and it has no separate street frontage. No published coordinate was read."
+  },
+  "address": {
+   "tier": "cited",
+   "source": "s:web-prm-amulets-guide"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [
+  {
+   "key": "free-entry",
+   "label": "Free to enter",
+   "group": "visit",
+   "evidence": "the institution's own admissions page",
+   "source": "s:web-prm-visit-us",
+   "note": "\"Entry is free.\" on the museum's own Visit us page",
+   "tier": "cited",
+   "url": "https://www.prm.ox.ac.uk/visit-us"
+  },
+  {
+   "key": "amulets-on-display",
+   "label": "Amulets on display",
+   "group": "collection",
+   "evidence": "a gallery guide or a published catalogue",
+   "source": "s:web-prm-amulets-guide",
+   "note": "eight named cases on the Court floor, listed by number in the museum's own introductory guide",
+   "tier": "cited",
+   "url": "https://prm.web.ox.ac.uk/files/amuletspdf"
+  },
+  {
+   "key": "repatriation",
+   "label": "Repatriation under way",
+   "group": "collection",
+   "evidence": "a published claim, agreement or return, named and dated",
+   "source": "s:wp-pitt-rivers-museum",
+   "note": "remains of 17 Aboriginal Australians returned in 2022; Naga skeletal remains agreed for repatriation in 2026; human remains taken off display in 2020",
+   "tier": "cited",
+   "url": ""
+  }
+ ],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [
+  {
+   "key": "pitt-rivers",
+   "label": "The Pitt Rivers Museum",
+   "city": "Oxford",
+   "country": "GB",
+   "url": "https://prm.web.ox.ac.uk/files/amuletspdf",
+   "what": "Cases C26A, C27A, C28A (Amulets and Charms), C29A (Amulets, Charms, and Divination), C30A (Charms against the Evil Eye), C30B (Amulets, Cures, and Charms), C31A (Magic and Trial by Ordeal) and C31B (Amulets and Charms for Animals), on the Court floor, with more objects in the drawers beneath",
+   "accession": "",
+   "source": "s:web-prm-amulets-guide"
+  },
+  {
+   "key": "pitt-rivers",
+   "label": "The Pitt Rivers Museum",
+   "city": "Oxford",
+   "country": "GB",
+   "url": "https://web.prm.ox.ac.uk/amulets/",
+   "what": "The de Mortillet amulet collection, more than 2,500 records catalogued and published online by the Small Blessings project in 2012",
+   "accession": "",
+   "source": "s:web-prm-small-blessings-intro"
+  }
+ ],
+ "span": "1884 CE to now",
+ "country_names": [
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "corn-dolly",
+   "type": "amulet",
+   "name": "Corn dolly",
+   "as": "where a tray of them can be seen, alongside the rowan loops and the holed stones",
+   "rel": "place"
+  },
+  {
+   "from": "hagstone",
+   "type": "amulet",
+   "name": "Hagstone",
+   "as": "where English charms of this class sit in a public case, alongside the rowan loops",
+   "rel": "place"
+  },
+  {
+   "from": "rowan-cross",
+   "type": "amulet",
+   "name": "Rowan cross",
+   "as": "the case these loops have sat in since 1893, and the reason we can say how big they are",
+   "rel": "place"
+  },
+  {
+   "from": "tooth-and-claw",
+   "type": "motif",
+   "name": "The tooth and the claw",
+   "as": "the amulet collection the wolf tooth sits in, catalogued and published online",
+   "rel": "held-at"
+  },
+  {
+   "from": "british-museum-room-1",
+   "type": "place",
+   "name": "Room 1: Enlightenment, the British Museum",
+   "as": "Oxford's answer to the same question — group by what a thing is for, not by which discipline collected it",
+   "rel": "contrast"
+  },
+  {
+   "from": "wellcome-lovett",
+   "type": "place",
+   "name": "The Lovett charms at Wellcome Collection",
+   "as": "where the charms actually are — the 1,400 amulets shown here in 2011 were borrowed back from Oxford",
+   "rel": "place"
+  },
+  {
+   "from": "augustus-pitt-rivers",
+   "type": "person",
+   "name": "Augustus Pitt Rivers",
+   "as": "the charm cases, which are his typological principle applied to amulets",
+   "rel": "place"
+  },
+  {
+   "from": "walter-hildburgh",
+   "type": "person",
+   "name": "Walter Leo Hildburgh",
+   "as": "the cases his material largely fills",
+   "rel": "place"
+  },
+  {
+   "from": "pitt-rivers-museum",
+   "type": "org",
+   "name": "The Pitt Rivers Museum",
+   "as": "the charm cases themselves, which is where a reader actually meets this collection",
+   "rel": "place"
+  },
+  {
+   "from": "lovett-collection",
+   "type": "art",
+   "name": "The Lovett collection",
+   "as": "where his donations of 1896–1911 went, and where they are still displayed by type",
+   "rel": "held-at"
+  }
+ ]
+}

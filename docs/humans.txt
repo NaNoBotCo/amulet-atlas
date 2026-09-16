@@ -1,0 +1,7 @@
+/* Amulet Atlas */
+worn, buried, nailed above the door — and what each one is meant to stop
+
+286 records · 118 countries · 365 sources
+Built as static files by python3 tools/build.py and tools/site.py. Stdlib only.
+Maps drawn in Equal Earth from Natural Earth outlines, public domain.
+No trackers, no external requests, no fonts fetched from anywhere.

@@ -1,0 +1,287 @@
+{
+ "schema": 1,
+ "id": "shaul-shaked",
+ "type": "person",
+ "names": {
+  "name": "Shaul Shaked",
+  "native": "שאול שקד",
+  "script": "Hebrew",
+  "lang": "he",
+  "sort": "Shaked, Shaul"
+ },
+ "region": [
+  "levant",
+  "mesopotamia",
+  "iran-persia"
+ ],
+ "countries": [
+  "IL",
+  "IQ",
+  "IR"
+ ],
+ "facets": {
+  "role": [
+   "scholar",
+   "writer"
+  ]
+ },
+ "text": {
+  "what": "Israeli Iranist and philologist, 1933–2021, of the Hebrew University of Jerusalem. He read the Aramaic incantation bowls and metal amulets of late antique Babylonia alongside Zoroastrian and Middle Persian material, which is why his editions catch what the Jewish, Christian, Mandaean and Iranian texts borrowed from one another.",
+  "story": "Shaked was born in Debrecen, Hungary, on 5 March 1933. He took his doctorate in Iranian languages at SOAS in 1964 and taught at the Hebrew University in Indian, Iranian and Armenian Studies and in Comparative Religion, holding the Schwarzman chair. He was elected to the Israel Academy of Sciences and Humanities in 1985 and chaired its humanities division from 1995 to 2001. He won the Israel Prize for Linguistics in 2000 and the Sándor Scheiber Prize in 2012.\n\nHis listed research interests are Zoroastrianism, Middle Persian lexicography, early Judaeo-Persian, Aramaic magical texts, and Aramaic and Arabic loan words in Iranian. The bowls sit at the join of all of those. A Babylonian bowl written in Jewish Babylonian Aramaic and buried under a floor names demons with Iranian names and formulas with Jewish ones; a reader who knows only one side of that misses half the text.\n\nWith Joseph Naveh he published \"Amulets and Magic Bowls: Aramaic Incantations of Late Antiquity\" and \"Magic Spells and Formulae\" in 1993. He continued the corpus with others — \"Aramaic Bowl Spells: Jewish Babylonian Aramaic Bowls\", with James N. Ford and Siam Bhayro, volume one from Brill in 2013 and volume two in 2022. He died on 27 October 2021.",
+  "today": "The bowl corpus is still being edited volume by volume, and the later volumes are appearing after his death. *Inference —* an amulet class whose standard edition is unfinished is a class whose dating and readings will move, so this atlas's Aramaic bowl records are marked as provisional wherever they lean on a text rather than on an object."
+ },
+ "dating": {
+  "period": "Twentieth to twenty-first century",
+  "from_year": 1933,
+  "to_year": 2021,
+  "living": false,
+  "label": "5 March 1933 – 27 October 2021",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:web-shaul-shaked-hewiki",
+  "note": "Dates read from the Hebrew Wikipedia entry; the English Wikipedia has no article on him."
+ },
+ "kin": [
+  {
+   "to": "incantation-bowl",
+   "as": "the object his editions made readable, spiral line by spiral line",
+   "rel": "kin"
+  },
+  {
+   "to": "joseph-naveh",
+   "as": "his co-author: Naveh brought the letter-forms, Shaked the Iranian side of the vocabulary",
+   "rel": "person"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "as": "the tradition whose late antique ancestor these bowls and strips are",
+   "rel": "tradition"
+  },
+  {
+   "to": "islamic-talismanic",
+   "as": "the neighbouring tradition in the same region, which inherited some of the same formulas",
+   "rel": "parallel"
+  },
+  {
+   "to": "divine-name",
+   "as": "the sign the bowls turn on — whose names get written, and in which language",
+   "rel": "motif"
+  },
+  {
+   "to": "taweez",
+   "as": "the later pouched written charm of the same region, in Arabic rather than Aramaic",
+   "rel": "descendant"
+  }
+ ],
+ "links": [
+  {
+   "label": "Shaul Shaked — Israel Institute for Advanced Studies",
+   "url": "https://iias.huji.ac.il/people/shaul-shaked"
+  }
+ ],
+ "sources": [
+  "s:web-shaul-shaked-hewiki",
+  "s:web-shaul-shaked-iias",
+  "s:wp-incantation-bowl",
+  "s:wp-practical-kabbalah"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-shaul-shaked-hewiki"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-shaul-shaked-hewiki",
+    "note": "the year of the Amulets and Magic Bowls volume is left out: the Hebrew entry gives 1985 and the English entry on Naveh gives 1987, and neither was checked against the book"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "this project's own reading of what an unfinished standard edition means for its records"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "Israeli Iranist and philologist, 1933–2021, of the Hebrew University of Jerusalem.",
+ "region_terms": [
+  {
+   "key": "levant",
+   "name": "The Levant",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "mesopotamia",
+   "name": "Mesopotamia",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Sumer, Akkad, Babylonia, Assyria"
+  },
+  {
+   "key": "iran-persia",
+   "name": "Iran",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "incantation-bowl",
+   "type": "amulet",
+   "name": "Incantation bowl",
+   "as": "the object his editions made readable, spiral line by spiral line",
+   "rel": "kin"
+  },
+  {
+   "to": "joseph-naveh",
+   "type": "person",
+   "name": "Joseph Naveh",
+   "as": "his co-author: Naveh brought the letter-forms, Shaked the Iranian side of the vocabulary",
+   "rel": "person"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "type": "tradition",
+   "name": "Practical Kabbalah",
+   "as": "the tradition whose late antique ancestor these bowls and strips are",
+   "rel": "tradition"
+  },
+  {
+   "to": "islamic-talismanic",
+   "type": "tradition",
+   "name": "Islamic talismanic craft",
+   "as": "the neighbouring tradition in the same region, which inherited some of the same formulas",
+   "rel": "parallel"
+  },
+  {
+   "to": "divine-name",
+   "type": "motif",
+   "name": "The name",
+   "as": "the sign the bowls turn on — whose names get written, and in which language",
+   "rel": "motif"
+  },
+  {
+   "to": "taweez",
+   "type": "amulet",
+   "name": "Ta'wiz",
+   "as": "the later pouched written charm of the same region, in Arabic rather than Aramaic",
+   "rel": "descendant"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:web-shaul-shaked-hewiki",
+   "kind": "web",
+   "title": "Shaul Shaked (Hebrew Wikipedia)",
+   "publisher": "Wikipedia",
+   "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%90%D7%95%D7%9C_%D7%A9%D7%A7%D7%93",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-shaul-shaked-iias",
+   "kind": "web",
+   "title": "Shaul Shaked",
+   "publisher": "Israel Institute for Advanced Studies, The Hebrew University of Jerusalem",
+   "url": "https://iias.huji.ac.il/people/shaul-shaked",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-incantation-bowl",
+   "kind": "encyclopedia",
+   "title": "Incantation bowl",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Incantation_bowl",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-practical-kabbalah",
+   "kind": "encyclopedia",
+   "title": "Practical Kabbalah",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Practical_Kabbalah",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:web-shaul-shaked-hewiki"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:web-shaul-shaked-hewiki",
+   "note": "the year of the Amulets and Magic Bowls volume is left out: the Hebrew entry gives 1985 and the English entry on Naveh gives 1987, and neither was checked against the book"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "this project's own reading of what an unfinished standard edition means for its records"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:web-shaul-shaked-hewiki"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1933 CE – 2021 CE",
+ "country_names": [
+  {
+   "iso": "IL",
+   "name": "Israel"
+  },
+  {
+   "iso": "IQ",
+   "name": "Iraq"
+  },
+  {
+   "iso": "IR",
+   "name": "Iran"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "incantation-bowl",
+   "type": "amulet",
+   "name": "Incantation bowl",
+   "as": "the other half of that edition, and the reason a bowl text can be quoted at all here",
+   "rel": "person"
+  },
+  {
+   "from": "jewish-practical-kabbalah",
+   "type": "tradition",
+   "name": "Practical Kabbalah",
+   "as": "the other, and the scholar who traced how the same formulas cross between this tradition and its neighbours",
+   "rel": "person"
+  },
+  {
+   "from": "joseph-naveh",
+   "type": "person",
+   "name": "Joseph Naveh",
+   "as": "his co-author on the Aramaic amulet and bowl editions, over roughly three decades",
+   "rel": "person"
+  }
+ ]
+}

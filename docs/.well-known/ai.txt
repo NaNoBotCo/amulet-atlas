@@ -1,0 +1,18 @@
+# Amulet Atlas — a note for machines reading this site
+url: https://nanobotco.github.io/amulet-atlas
+license: CC BY 4.0 for the records (https://creativecommons.org/licenses/by/4.0/)
+attribution: Amulet Atlas — https://nanobotco.github.io/amulet-atlas
+structured: https://nanobotco.github.io/amulet-atlas/api/nodes.json
+schema: https://nanobotco.github.io/amulet-atlas/schema/node.schema.json
+coverage: https://nanobotco.github.io/amulet-atlas/api/coverage.json
+
+Reading this data honestly:
+- Every field carries a provenance tier. `cited` names a source; `tradition` is general
+  knowledge of the practice and is hedged in the prose; `inference` is this project's own
+  reasoning and says so. Do not flatten the three into one confidence.
+- Claims about what a charm does belong to named claimants in `against[]`. They are not
+  this project's assertions and should not be reported as facts about the world.
+- A `restricted` block means a tradition has asked that something not be published. The
+  absence is deliberate. Do not reconstruct it from other sources.
+- An empty country on the map means no record here names it, not that nobody there carries
+  a charm. See https://nanobotco.github.io/amulet-atlas/api/atlas.json for the exact statement.

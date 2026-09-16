@@ -1,0 +1,502 @@
+{
+ "schema": 1,
+ "id": "martenitsa",
+ "type": "amulet",
+ "names": {
+  "name": "Martenitsa",
+  "native": "мартеница",
+  "script": "Cyrillic",
+  "lang": "bg",
+  "said": "MAR-te-nit-sa; Macedonian martinka, Romanian mărțișor, Greek mártis, Albanian verore",
+  "aliases": [
+   "martinka",
+   "mărțișor",
+   "mártis",
+   "verore",
+   "Pizho and Penda"
+  ]
+ },
+ "region": [
+  "balkans"
+ ],
+ "countries": [
+  "BG",
+  "MK",
+  "RO",
+  "MD",
+  "GR",
+  "AL"
+ ],
+ "facets": {
+  "era": "living",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "Twisted white and red yarn, most often made into two small wool dolls: Pizho, the male one, mostly white; Penda, the female one, mostly red and wearing a skirt. It is pinned to clothing or tied at the wrist or neck from Baba Marta Day, the first of March. Modern ones take other shapes and add coloured beads.",
+  "story": "Two rules govern the object, and both are about other people and about time. It is always given, never bought for oneself — to family, friends, anyone you feel close to. And it comes off on a sign, not a date: the wearer takes it off on first seeing a stork, a swallow returning from migration, or a tree in blossom. Failing all three, the end of March.\n\nBaba Marta means Grandma March, and Bulgarian and Macedonian folklore makes her a bad-tempered old woman whose mood turns fast. Wearing her colours is described as asking her for mercy, so that winter passes and spring comes; the first stork or swallow says she is in a good humour and about to retire.\n\nTaking it off has its own local rules. Some tie the martenitsa to the branch of a fruit tree, giving the tree the health and luck the wearer has had while wearing it. Others put it under a stone and look the next day: a larva or a worm means a healthy, successful year; an ant means the same but with hard work for it; a spider means trouble.\n\nOn where it comes from, the cited account offers several accounts and settles none. The custom is tied to the pre-Christian history of the Balkans and to agricultural cults of nature; the twisted white-and-red woollen threads specifically are said to suggest Thracian, possibly Hellenic or Roman origins. Some ethnographers trace it to the Eleusinian Mysteries, with the ancient equivalent of the Greek mártis being the kroke; the custom is mentioned in Photios' Lexicon, which records that the priests wrapped a red thread round the right hand and foot. At that time red and other coloured threads were used to protect children and young people from evil spirits and witchcraft. An early twentieth-century Bulgarian story puts the first martenitsa at the seventh-century Battle of Ongal: after the Bulgar victory, Khan Asparuh sent doves with white threads to carry the news, and the threads turned bloody in flight.\n\n*Inference —* the ethnographers' colour readings are worth quoting rather than choosing between. White for the purity of melting snow, red for the setting sun growing stronger as spring comes; white for purity, red for life and passion; the two together for the cycle of life and death, for good and evil, for sorrow and happiness, for the male and female beginnings and the balance between them. A charm that means that many things at once is a charm doing social work, and the rule that it must be given rather than bought says so out loud."
+ },
+ "dating": {
+  "period": "Attested in Byzantine lexicography; living tradition",
+  "from_year": 801,
+  "to_year": null,
+  "living": true,
+  "label": "the earliest text named is Photios' Lexicon; the practice is living and inscribed by UNESCO in 2017",
+  "method": "textual",
+  "circa": true,
+  "tier": "inference",
+  "source": "s:wp-martenitsa",
+  "note": "The cited article names Photios' Lexicon as the text in which the custom is mentioned but gives it no date. This project dates Photios to the ninth century from general knowledge, not from the article, so the floor is marked inference. The Thracian, Hellenic and Roman origins the article offers are hedged in the article itself and are not used as a date."
+ },
+ "object": {
+  "form": "cord",
+  "materials": [
+   "thread"
+  ],
+  "worn": [
+   "wrist",
+   "neck",
+   "chest"
+  ],
+  "made_by": "given, never bought for oneself; rural elders teach young girls the making, and in towns it is taught at ethnographic-museum workshops and in schools",
+  "colour": [
+   "red",
+   "white"
+  ],
+  "count": 2,
+  "single_use": true,
+  "source": "s:wp-martenitsa",
+  "note": "Count is the two dolls, Pizho and Penda; many martenitsi are a plain twist with no dolls at all. The chest position is the pin on clothing."
+ },
+ "against": [
+  {
+   "harm": "illness",
+   "who": "Bulgarian and Macedonian tradition, in which the red and white threads carry the wish for good health",
+   "source": "s:wp-martenitsa",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "the ancient practice the ethnographers connect it to, in which red or otherwise coloured threads protected children and young people from evil spirits",
+   "source": "s:wp-martenitsa",
+   "tier": "cited"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "the same account, which names witchcraft alongside evil spirits",
+   "source": "s:wp-martenitsa",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "UNESCO's description of the element: a red and white thread, untied when the first blossom tree, swallow or stork is seen, held to protect against harsh and unpredictable seasonal change",
+   "source": "s:web-unesco-march-1",
+   "tier": "cited"
+  }
+ ],
+ "recognitions": [
+  {
+   "by": "unesco-ich",
+   "what": "inscribed on the Representative List of the Intangible Cultural Heritage of Humanity as 'Cultural practices associated to the 1st of March', submitted jointly by Bulgaria, North Macedonia, the Republic of Moldova and Romania",
+   "year": 2017,
+   "source": "s:web-unesco-march-1",
+   "url": "https://ich.unesco.org/en/RL/cultural-practices-associated-to-the-1st-of-march-01287"
+  }
+ ],
+ "kin": [
+  {
+   "to": "red-thread",
+   "as": "the sign, and the reason this record and a Jerusalem wrist bracelet are filed together",
+   "rel": "motif"
+  },
+  {
+   "to": "red-string",
+   "as": "the other red thread on a wrist in this atlas — that one has no text behind it, this one has a UNESCO file",
+   "rel": "parallel"
+  },
+  {
+   "to": "thread",
+   "as": "the material; wool, twisted, and nothing else",
+   "rel": "material"
+  },
+  {
+   "to": "knotting",
+   "as": "the practice — twisting and tying is the whole making",
+   "rel": "practice"
+  },
+  {
+   "to": "renewing-yearly",
+   "as": "the practice this object defines: one month, then it goes on a fruit tree or under a stone",
+   "rel": "practice"
+  },
+  {
+   "to": "lunula",
+   "as": "the other amulet here that is defined by the moment it comes off",
+   "rel": "parallel"
+  },
+  {
+   "to": "corn-dolly",
+   "as": "the European neighbour: a figure made of a plant, worn or kept for a season, then given back to the field",
+   "rel": "parallel"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the tradition it sits in, at its most calendar-bound",
+   "rel": "tradition"
+  },
+  {
+   "to": "unesco-ich",
+   "as": "the body that inscribed it in 2017, on a file four countries submitted together",
+   "rel": "org"
+  }
+ ],
+ "links": [
+  {
+   "label": "Martenitsa — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Martenitsa"
+  },
+  {
+   "label": "Cultural practices associated to the 1st of March — UNESCO",
+   "url": "https://ich.unesco.org/en/RL/cultural-practices-associated-to-the-1st-of-march-01287"
+  }
+ ],
+ "sources": [
+  "s:wp-martenitsa",
+  "s:web-unesco-march-1",
+  "s:wp-red-string-kabbalah",
+  "s:wp-apotropaic-magic"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-martenitsa"
+  },
+  "fields": {
+   "dating": {
+    "tier": "inference",
+    "note": "the ninth-century floor is this project's dating of Photios, not the article's; see dating.note"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-martenitsa",
+    "note": "the closing paragraph is this project's reading, marked where it appears"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Martenitsa.jpg",
+  "File:Martenitsi on a tree.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Twisted white and red yarn, most often made into two small wool dolls: Pizho, the male one, mostly white; Penda, the female one, mostly red and wearing a skirt.",
+ "region_terms": [
+  {
+   "key": "balkans",
+   "name": "The Balkans",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "red-thread",
+   "type": "motif",
+   "name": "The red thread",
+   "as": "the sign, and the reason this record and a Jerusalem wrist bracelet are filed together",
+   "rel": "motif"
+  },
+  {
+   "to": "red-string",
+   "type": "amulet",
+   "name": "Red string",
+   "as": "the other red thread on a wrist in this atlas — that one has no text behind it, this one has a UNESCO file",
+   "rel": "parallel"
+  },
+  {
+   "to": "thread",
+   "type": "material",
+   "name": "Thread and cord",
+   "as": "the material; wool, twisted, and nothing else",
+   "rel": "material"
+  },
+  {
+   "to": "knotting",
+   "type": "practice",
+   "name": "Knotting",
+   "as": "the practice — twisting and tying is the whole making",
+   "rel": "practice"
+  },
+  {
+   "to": "renewing-yearly",
+   "type": "practice",
+   "name": "Renewing yearly",
+   "as": "the practice this object defines: one month, then it goes on a fruit tree or under a stone",
+   "rel": "practice"
+  },
+  {
+   "to": "lunula",
+   "type": "amulet",
+   "name": "Lunula",
+   "as": "the other amulet here that is defined by the moment it comes off",
+   "rel": "parallel"
+  },
+  {
+   "to": "corn-dolly",
+   "type": "amulet",
+   "name": "Corn dolly",
+   "as": "the European neighbour: a figure made of a plant, worn or kept for a season, then given back to the field",
+   "rel": "parallel"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "type": "tradition",
+   "name": "European folk apotropaic craft",
+   "as": "the tradition it sits in, at its most calendar-bound",
+   "rel": "tradition"
+  },
+  {
+   "to": "unesco-ich",
+   "type": "org",
+   "name": "UNESCO Intangible Cultural Heritage",
+   "as": "the body that inscribed it in 2017, on a file four countries submitted together",
+   "rel": "org"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-martenitsa",
+   "kind": "encyclopedia",
+   "title": "Martenitsa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Martenitsa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-unesco-march-1",
+   "kind": "web",
+   "title": "Cultural practices associated to the 1st of March",
+   "publisher": "UNESCO Intangible Cultural Heritage",
+   "url": "https://ich.unesco.org/en/RL/cultural-practices-associated-to-the-1st-of-march-01287",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-red-string-kabbalah",
+   "kind": "encyclopedia",
+   "title": "Red string (Kabbalah)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Red_string_(Kabbalah)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-apotropaic-magic",
+   "kind": "encyclopedia",
+   "title": "Apotropaic magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Apotropaic_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-martenitsa"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-martenitsa",
+   "note": "the closing paragraph is this project's reading, marked where it appears"
+  },
+  "dating": {
+   "tier": "inference",
+   "note": "the ninth-century floor is this project's dating of Photios, not the article's; see dating.note"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-martenitsa"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [
+  {
+   "key": "unesco-ich",
+   "label": "UNESCO",
+   "what": "inscribed on the Representative List of the Intangible Cultural Heritage of Humanity as 'Cultural practices associated to the 1st of March', submitted jointly by Bulgaria, North Macedonia, the Republic of Moldova and Romania",
+   "url": "https://ich.unesco.org/en/RL/cultural-practices-associated-to-the-1st-of-march-01287",
+   "year": 2017,
+   "source": "s:web-unesco-march-1"
+  }
+ ],
+ "acclaim": 1,
+ "against_facts": [
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "Bulgarian and Macedonian tradition, in which the red and white threads carry the wish for good health",
+   "quote": "",
+   "source": "s:wp-martenitsa",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "the ancient practice the ethnographers connect it to, in which red or otherwise coloured threads protected children and young people from evil spirits",
+   "quote": "",
+   "source": "s:wp-martenitsa",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "witchcraft",
+   "label": "Another person's sorcery",
+   "who": "the same account, which names witchcraft alongside evil spirits",
+   "quote": "",
+   "source": "s:wp-martenitsa",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "UNESCO's description of the element: a red and white thread, untied when the first blossom tree, swallow or stork is seen, held to protect against harsh and unpredictable seasonal change",
+   "quote": "",
+   "source": "s:web-unesco-march-1",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "thread",
+   "label": "Thread and cord",
+   "kind": "textile",
+   "note": "red thread runs from the Mediterranean to Mongolia"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "wrist",
+   "label": "On the wrist",
+   "group": "body"
+  },
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "chest",
+   "label": "On the chest, under the shirt",
+   "group": "body"
+  }
+ ],
+ "form_fact": {
+  "key": "cord",
+  "label": "Cord or string"
+ },
+ "holding_facts": [],
+ "span": "801 CE to now",
+ "country_names": [
+  {
+   "iso": "BG",
+   "name": "Bulgaria"
+  },
+  {
+   "iso": "MK",
+   "name": "North Macedonia"
+  },
+  {
+   "iso": "RO",
+   "name": "Romania"
+  },
+  {
+   "iso": "MD",
+   "name": "Moldova"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "AL",
+   "name": "Albania"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "lunula",
+   "type": "amulet",
+   "name": "Lunula",
+   "as": "the other amulet in this atlas that is defined by when it comes off",
+   "rel": "parallel"
+  },
+  {
+   "from": "red-string",
+   "type": "amulet",
+   "name": "Red string",
+   "as": "the Balkan red thread on a wrist, with a fixed season and a documented history where this one has an absence",
+   "rel": "parallel"
+  },
+  {
+   "from": "knot",
+   "type": "motif",
+   "name": "The knot",
+   "as": "twisted red and white yarn with a date to put it on and a bird that says take it off",
+   "rel": "carried-by"
+  },
+  {
+   "from": "red-thread",
+   "type": "motif",
+   "name": "The red thread",
+   "as": "the Balkan version, with a date to put it on and a bird that says take it off",
+   "rel": "carried-by"
+  },
+  {
+   "from": "thread",
+   "type": "material",
+   "name": "Thread and cord",
+   "as": "white and red yarn with an expiry date written into the custom — the first stork ends it",
+   "rel": "carried-by"
+  },
+  {
+   "from": "burying",
+   "type": "practice",
+   "name": "Burying",
+   "as": "put under a stone at the end of its month, to be read by whatever creature is nearest it",
+   "rel": "carried-by"
+  },
+  {
+   "from": "knotting",
+   "type": "practice",
+   "name": "Knotting",
+   "as": "the knot with an expiry date — 1 March to the first stork, then tied to a fruit tree",
+   "rel": "carried-by"
+  },
+  {
+   "from": "renewing-yearly",
+   "type": "practice",
+   "name": "Renewing yearly",
+   "as": "the spring version, whose end date is set by a bird rather than by a date",
+   "rel": "carried-by"
+  }
+ ]
+}

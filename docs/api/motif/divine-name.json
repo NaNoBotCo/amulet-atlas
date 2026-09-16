@@ -1,0 +1,910 @@
+{
+ "schema": 1,
+ "id": "divine-name",
+ "type": "motif",
+ "names": {
+  "name": "The name",
+  "native": "שדי",
+  "script": "Hebrew",
+  "lang": "he",
+  "said": "Shaddai, one of the biblical names of God",
+  "aliases": [
+   "divine name",
+   "Shaddai",
+   "the 99 names",
+   "Ayat al-Kursi",
+   "Abraxas",
+   "fulu",
+   "talismanic script"
+  ]
+ },
+ "region": [
+  "levant",
+  "mesopotamia",
+  "maghreb",
+  "arabia-gulf",
+  "iran-persia",
+  "china",
+  "japan",
+  "korea",
+  "diaspora"
+ ],
+ "countries": [
+  "IL",
+  "PS",
+  "EG",
+  "SY",
+  "IQ",
+  "MA",
+  "DZ",
+  "TR",
+  "IR",
+  "SA",
+  "PK",
+  "CN",
+  "JP",
+  "KR"
+ ],
+ "facets": {
+  "era": "ancient",
+  "family": "script",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A name of God, or of an angel, or a string of characters that stands in for one, written on the object and doing the work. Sometimes it is legible and sometimes it is deliberately not. On a mezuzah it is three Hebrew letters on the outside of the parchment. On an Islamic amulet it is one of the ninety-nine names, or a Qur'anic verse. On a Taoist fu it is a character that resembles Chinese writing and is not meant to be read.",
+  "story": "Each tradition here has its own account and this record keeps them separate.\n\nIn Jewish practice the name on the doorpost is Shaddai, written on the outside of the mezuzah parchment opposite the space between the two passages; it also reads as an acronym for Shomer Daltot Yisrael, Guardian of Israel's doors, and many cases carry just the letter shin for it. The same three letters are built into tefillin: the head-strap's knot forms a dalet, the arm-strap's a yud, and with the shin on the head-box they spell Shaddai. But the practice is contested from inside. Maimonides allows the name on the outside and then condemns what people do with it: those who write the names of angels, other sacred names, verses or forms inside a mezuzah, he writes, are among those who do not have a portion in the world to come — they nullify the commandment, and turn a great commandment about the unity of God's name into a talisman for their own benefit. A bathroom and a small closet get no mezuzah, because the name of God is forbidden there.\n\nPractical Kabbalah, Kabbalah Ma'asit, is the branch that uses divine and angelic names for amulets and incantations. Gershom Scholem's account is that much of its content predates the speculative Kabbalah and does not depend on it, being an accumulation of magical practices from Talmudic times through the Middle Ages. The Talmud and Midrash call the theurgic technique using the Divine Name. In the Hekhalot literature the angels guarding each heavenly level are bound by formulae and seals. The tradition restricts itself: it was held to be permitted only to an elite, and only under conditions that were holy and pure, and most Kabbalists taught that its use is forbidden.\n\nIn Islamic practice the amulet usually contains one of God's ninety-nine names, or the names of angels or prophets, or a Qur'anic verse, a pious phrase or an invocation, and has been described as a supercharged prayer. Virtually all Muslim scholars permit a talisman that calls on God or on an intercessor; addressing jinn or demons is prohibited. Ayat al-Kursi, the Throne Verse, al-Baqara 2:255, is the verse most often used: hadith say reciting it turns away devils and fiends, and it is recited before a journey, before sleep, and after every obligatory prayer. Because of that association it is also used against the evil eye. Letter-and-number work, ʿilm al-ḥurūf, combines the letters of one of the ninety-nine names with those of a desired object — the technique called jafr.\n\nIn Taoist practice the writing is meant to defeat reading. Fulu are talismanic script written on talismans by Taoist priests. Ge Hong noted in the Baopuzi, by the Eastern Jin, 317–420, that it was already unnecessary for the user to decipher the writing for it to work. Scholars including James Robson and Gil Raz argue the incomprehensibility is central to the talisman's perceived authority; Ge Zhaoguang of Fudan University calls it a deliberate linguistic archaism. The method of writing the characters is passed in secret from a Taoist priest to their disciples. Fulu were taken into forms of Chinese Buddhism and inspired the Japanese ofuda and the Korean bujeok.\n\nGnostic gems give the oldest surviving objects in this family that carry a name and nothing else. Abrasax, later spelled Abraxas, appears in nearly all the legends on the gems, in the Greek Magical Papyri and in Gnostic texts; the attempts to derive the name from Greek, Hebrew, Coptic or Egyptian have not succeeded. The seven letters may stand for the seven classical planets.\n\n*Inference —* the four traditions agree on one thing only: the name is not decoration and the object is not the charm. What they disagree about is whether writing a name down is prayer, permitted craft, or an offence against the name itself."
+ },
+ "restricted": {
+  "note": "Practical Kabbalah's techniques for writing divine and angelic names are restricted within the tradition itself: they were held to be reserved for an elite, to require conditions of holiness and purity, and most Kabbalists taught their use is forbidden. Isaac Luria forbade his students to write amulets. Most practical Kabbalistic writing stayed in manuscript rather than going into print. This atlas prints that position and does not reconstruct the formulae.",
+  "who_says": "Gershom Scholem's account of the tradition; Isaac Luria, who forbade his students from writing amulets and from other techniques of practical Kabbalah; Moshe Idel on the Spanish tradition",
+  "source": "s:wp-practical-kabbalah",
+  "url": "https://en.wikipedia.org/wiki/Practical_Kabbalah"
+ },
+ "kin": [
+  {
+   "to": "mezuzah",
+   "as": "the doorpost case with Shaddai written on the outside of its parchment",
+   "rel": "carried-by"
+  },
+  {
+   "to": "tefillin",
+   "as": "the straps whose knots spell the same name with the box's shin",
+   "rel": "carried-by"
+  },
+  {
+   "to": "kamea",
+   "as": "the Jewish written amulet this tradition's restrictions are about",
+   "rel": "carried-by"
+  },
+  {
+   "to": "taweez",
+   "as": "the folded Islamic amulet the names and verses are written on",
+   "rel": "carried-by"
+  },
+  {
+   "to": "quran-pendant",
+   "as": "the verse worn as an object, most often Ayat al-Kursi",
+   "rel": "carried-by"
+  },
+  {
+   "to": "fu-talisman",
+   "as": "the Taoist sheet whose script is meant not to be legible",
+   "rel": "carried-by"
+  },
+  {
+   "to": "ofuda",
+   "as": "the Japanese descendant of that script, and bujeok is the Korean one",
+   "rel": "descendant"
+  },
+  {
+   "to": "magical-gem",
+   "as": "Abraxas stones — the oldest surviving objects here that carry a name and little else",
+   "rel": "carried-by"
+  },
+  {
+   "to": "magic-square",
+   "as": "regularly paired with the names in Islamic practice, and a different kind of writing",
+   "rel": "kin"
+  },
+  {
+   "to": "palindrome-word",
+   "as": "the neighbouring practice: writing that works by its shape rather than by whose name it is",
+   "rel": "contrast"
+  },
+  {
+   "to": "washing-off-ink",
+   "as": "the practice of drinking the writing, which follows from the name being the active part",
+   "rel": "practice"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "as": "the tradition that names this technique and then restricts it",
+   "rel": "tradition"
+  }
+ ],
+ "dating": {
+  "period": "Iron Age to the present",
+  "from_year": -699,
+  "to_year": null,
+  "living": true,
+  "label": "late 7th century BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-ketef-hinnom",
+  "note": "Start from the two silver scrolls found at Ketef Hinnom in 1979, inscribed with portions of the Priestly Blessing and apparently used as amulets, dated to the late 7th or early 6th century BCE. The later traditions in this record are separately dated in the prose."
+ },
+ "object": {
+  "form": "scroll",
+  "materials": [
+   "parchment",
+   "paper",
+   "silver",
+   "agate",
+   "cloth"
+  ],
+  "worn": [
+   "door",
+   "lintel",
+   "upper-arm",
+   "head",
+   "neck",
+   "pocket",
+   "wall"
+  ],
+  "made_by": "in Jewish practice, a trained scribe; in Taoist practice, priests taught the script in secret by their masters; in Islamic practice, specialists working from the names and the text",
+  "inscription": "Shaddai; Ayat al-Kursi (al-Baqara 2:255); one of the ninety-nine names of God; asemic Taoist talismanic script",
+  "script": "Hebrew, Arabic, Han, Greek",
+  "source": "s:wp-mezuzah"
+ },
+ "against": [
+  {
+   "harm": "demons",
+   "who": "hadith on the Throne Verse, which say reciting it turns away devils and fiends",
+   "source": "s:wp-throne-verse",
+   "tier": "cited"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "the tradition around Ayat al-Kursi, which extends its protection to the evil eye",
+   "source": "s:wp-throne-verse",
+   "tier": "cited"
+  },
+  {
+   "harm": "travel",
+   "who": "Muslims who recite the Throne Verse before setting out on a journey and before sleeping",
+   "source": "s:wp-throne-verse",
+   "tier": "cited"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "Surah Al-Falaq, used as a prayer to God against black magic",
+   "source": "s:wp-islam-and-magic",
+   "tier": "cited"
+  },
+  {
+   "harm": "house",
+   "who": "the reading of Shaddai on a mezuzah as Shomer Daltot Yisrael, Guardian of Israel's doors",
+   "source": "s:wp-mezuzah",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the Gnostics of Basilides, who used the written formula to call beneficent spirits against disease and misfortune",
+   "source": "s:wp-abracadabra",
+   "tier": "cited"
+  }
+ ],
+ "links": [
+  {
+   "label": "Practical Kabbalah — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Practical_Kabbalah"
+  },
+  {
+   "label": "Throne Verse — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Throne_Verse"
+  }
+ ],
+ "sources": [
+  "s:wp-practical-kabbalah",
+  "s:wp-mezuzah",
+  "s:wp-tefillin",
+  "s:wp-throne-verse",
+  "s:wp-islam-and-magic",
+  "s:wp-fulu",
+  "s:wp-abraxas",
+  "s:wp-abracadabra",
+  "s:wp-ketef-hinnom",
+  "s:wp-kabbalah"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-practical-kabbalah"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-mezuzah",
+    "note": "each tradition is cited to its own source; the closing paragraph is this project's summary of the disagreement and is marked inference"
+   },
+   "restricted": {
+    "tier": "cited",
+    "source": "s:wp-practical-kabbalah"
+   },
+   "object": {
+    "tier": "tradition",
+    "note": "materials and positions pooled across four traditions; no single catalogue entry behind them"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Mezuzah shin.jpg",
+  "File:Ayat al-Kursi calligraphy.jpg",
+  "File:Taoist talisman fulu.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A name of God, or of an angel, or a string of characters that stands in for one, written on the object and doing the work. Sometimes it is legible and sometimes it is deliberately not.",
+ "region_terms": [
+  {
+   "key": "levant",
+   "name": "The Levant",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "mesopotamia",
+   "name": "Mesopotamia",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Sumer, Akkad, Babylonia, Assyria"
+  },
+  {
+   "key": "maghreb",
+   "name": "The Maghreb",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Morocco, Algeria, Tunisia, Libya"
+  },
+  {
+   "key": "arabia-gulf",
+   "name": "Arabia and the Gulf",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "iran-persia",
+   "name": "Iran",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "china",
+   "name": "China",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "japan",
+   "name": "Japan",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "korea",
+   "name": "Korea",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "diaspora",
+   "name": "Diaspora",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "a practice carried out of its home region and kept"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "mezuzah",
+   "type": "amulet",
+   "name": "Mezuzah",
+   "as": "the doorpost case with Shaddai written on the outside of its parchment",
+   "rel": "carried-by"
+  },
+  {
+   "to": "tefillin",
+   "type": "amulet",
+   "name": "Tefillin",
+   "as": "the straps whose knots spell the same name with the box's shin",
+   "rel": "carried-by"
+  },
+  {
+   "to": "kamea",
+   "type": "amulet",
+   "name": "Kamea",
+   "as": "the Jewish written amulet this tradition's restrictions are about",
+   "rel": "carried-by"
+  },
+  {
+   "to": "taweez",
+   "type": "amulet",
+   "name": "Ta'wiz",
+   "as": "the folded Islamic amulet the names and verses are written on",
+   "rel": "carried-by"
+  },
+  {
+   "to": "quran-pendant",
+   "type": "amulet",
+   "name": "Qur'an pendant",
+   "as": "the verse worn as an object, most often Ayat al-Kursi",
+   "rel": "carried-by"
+  },
+  {
+   "to": "fu-talisman",
+   "type": "amulet",
+   "name": "Fu talisman",
+   "as": "the Taoist sheet whose script is meant not to be legible",
+   "rel": "carried-by"
+  },
+  {
+   "to": "ofuda",
+   "type": "amulet",
+   "name": "Ofuda",
+   "as": "the Japanese descendant of that script, and bujeok is the Korean one",
+   "rel": "descendant"
+  },
+  {
+   "to": "magical-gem",
+   "type": "amulet",
+   "name": "Magical gem",
+   "as": "Abraxas stones — the oldest surviving objects here that carry a name and little else",
+   "rel": "carried-by"
+  },
+  {
+   "to": "magic-square",
+   "type": "motif",
+   "name": "The number square",
+   "as": "regularly paired with the names in Islamic practice, and a different kind of writing",
+   "rel": "kin"
+  },
+  {
+   "to": "palindrome-word",
+   "type": "motif",
+   "name": "The word that reads both ways",
+   "as": "the neighbouring practice: writing that works by its shape rather than by whose name it is",
+   "rel": "contrast"
+  },
+  {
+   "to": "washing-off-ink",
+   "type": "practice",
+   "name": "Washing off the ink",
+   "as": "the practice of drinking the writing, which follows from the name being the active part",
+   "rel": "practice"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "type": "tradition",
+   "name": "Practical Kabbalah",
+   "as": "the tradition that names this technique and then restricts it",
+   "rel": "tradition"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-practical-kabbalah",
+   "kind": "encyclopedia",
+   "title": "Practical Kabbalah",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Practical_Kabbalah",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mezuzah",
+   "kind": "encyclopedia",
+   "title": "Mezuzah",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mezuzah",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tefillin",
+   "kind": "encyclopedia",
+   "title": "Tefillin",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tefillin",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-throne-verse",
+   "kind": "encyclopedia",
+   "title": "Throne Verse",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Throne_Verse",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-islam-and-magic",
+   "kind": "encyclopedia",
+   "title": "Islam and magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Islam_and_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fulu",
+   "kind": "encyclopedia",
+   "title": "Fulu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fulu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-abraxas",
+   "kind": "encyclopedia",
+   "title": "Abraxas",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Abraxas",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-abracadabra",
+   "kind": "encyclopedia",
+   "title": "Abracadabra",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Abracadabra",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ketef-hinnom",
+   "kind": "encyclopedia",
+   "title": "Ketef Hinnom",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ketef_Hinnom",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-kabbalah",
+   "kind": "encyclopedia",
+   "title": "Kabbalah",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kabbalah",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-practical-kabbalah"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-mezuzah",
+   "note": "each tradition is cited to its own source; the closing paragraph is this project's summary of the disagreement and is marked inference"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-practical-kabbalah"
+  },
+  "object": {
+   "tier": "tradition",
+   "note": "materials and positions pooled across four traditions; no single catalogue entry behind them"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "demons",
+   "label": "Demons and night-hags",
+   "who": "hadith on the Throne Verse, which say reciting it turns away devils and fiends",
+   "quote": "",
+   "source": "s:wp-throne-verse",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "the tradition around Ayat al-Kursi, which extends its protection to the evil eye",
+   "quote": "",
+   "source": "s:wp-throne-verse",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "travel",
+   "label": "Danger on a journey",
+   "who": "Muslims who recite the Throne Verse before setting out on a journey and before sleeping",
+   "quote": "",
+   "source": "s:wp-throne-verse",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "witchcraft",
+   "label": "Another person's sorcery",
+   "who": "Surah Al-Falaq, used as a prayer to God against black magic",
+   "quote": "",
+   "source": "s:wp-islam-and-magic",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "house",
+   "label": "Harm to a house or a field",
+   "who": "the reading of Shaddai on a mezuzah as Shomer Daltot Yisrael, Guardian of Israel's doors",
+   "quote": "",
+   "source": "s:wp-mezuzah",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "the Gnostics of Basilides, who used the written formula to call beneficent spirits against disease and misfortune",
+   "quote": "",
+   "source": "s:wp-abracadabra",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "parchment",
+   "label": "Parchment and vellum",
+   "kind": "written"
+  },
+  {
+   "key": "paper",
+   "label": "Paper",
+   "kind": "written"
+  },
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  },
+  {
+   "key": "agate",
+   "label": "Agate and onyx",
+   "kind": "stone"
+  },
+  {
+   "key": "cloth",
+   "label": "Cloth",
+   "kind": "textile"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  },
+  {
+   "key": "lintel",
+   "label": "Above the lintel",
+   "group": "placed"
+  },
+  {
+   "key": "upper-arm",
+   "label": "On the upper arm",
+   "group": "body"
+  },
+  {
+   "key": "head",
+   "label": "On the head",
+   "group": "body"
+  },
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "scroll",
+  "label": "Scroll"
+ },
+ "holding_facts": [],
+ "span": "700 BCE to now",
+ "country_names": [
+  {
+   "iso": "IL",
+   "name": "Israel"
+  },
+  {
+   "iso": "PS",
+   "name": "Palestine"
+  },
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  },
+  {
+   "iso": "SY",
+   "name": "Syria"
+  },
+  {
+   "iso": "IQ",
+   "name": "Iraq"
+  },
+  {
+   "iso": "MA",
+   "name": "Morocco"
+  },
+  {
+   "iso": "DZ",
+   "name": "Algeria"
+  },
+  {
+   "iso": "TR",
+   "name": "Turkey"
+  },
+  {
+   "iso": "IR",
+   "name": "Iran"
+  },
+  {
+   "iso": "SA",
+   "name": "Saudi Arabia"
+  },
+  {
+   "iso": "PK",
+   "name": "Pakistan"
+  },
+  {
+   "iso": "CN",
+   "name": "China"
+  },
+  {
+   "iso": "JP",
+   "name": "Japan"
+  },
+  {
+   "iso": "KR",
+   "name": "South Korea"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "anting-anting",
+   "type": "amulet",
+   "name": "Anting-anting",
+   "as": "the sign on most of them — Latin words and holy names carried as the working part",
+   "rel": "motif"
+  },
+  {
+   "from": "ethiopian-magic-scroll",
+   "type": "amulet",
+   "name": "Ethiopian talismanic scroll",
+   "as": "what is written on it: prayers, saints, the Trinity, and the mystical names",
+   "rel": "motif"
+  },
+  {
+   "from": "fu-talisman",
+   "type": "amulet",
+   "name": "Fu talisman",
+   "as": "the sign family it belongs to: writing that acts because of whose name it is, not because of what it says",
+   "rel": "motif"
+  },
+  {
+   "from": "hirz-pouch",
+   "type": "amulet",
+   "name": "Hirz",
+   "as": "what is written inside — God's names, the names of angels or of prophets, or a verse",
+   "rel": "motif"
+  },
+  {
+   "from": "holy-rider-pendant",
+   "type": "amulet",
+   "name": "Holy rider pendant",
+   "as": "the working part of the object: Solomon's seal, Arlaph, Sisinnios, and the demon's own name used against her",
+   "rel": "motif"
+  },
+  {
+   "from": "kamea",
+   "type": "amulet",
+   "name": "Kamea",
+   "as": "the sign this object is made of, and the one it does not print here",
+   "rel": "motif"
+  },
+  {
+   "from": "magical-gem",
+   "type": "amulet",
+   "name": "Magical gem",
+   "as": "the sign most of these stones actually carry, once the figure is set aside",
+   "rel": "motif"
+  },
+  {
+   "from": "mezuzah",
+   "type": "amulet",
+   "name": "Mezuzah",
+   "as": "Shaddai on the back, read as an acronym for the Guardian of Israel's doors",
+   "rel": "motif"
+  },
+  {
+   "from": "ofuda",
+   "type": "amulet",
+   "name": "Ofuda",
+   "as": "the sign it carries: the name of the kami or the Buddhist figure is the talisman's working part",
+   "rel": "motif"
+  },
+  {
+   "from": "quran-pendant",
+   "type": "amulet",
+   "name": "Qur'an pendant",
+   "as": "the sign underneath: the names and attributes of God doing the work",
+   "rel": "motif"
+  },
+  {
+   "from": "talismanic-shirt",
+   "type": "amulet",
+   "name": "Talismanic shirt",
+   "as": "the sign doing the work: the names of God, of prophets, and of the angels",
+   "rel": "motif"
+  },
+  {
+   "from": "islamic-talismanic",
+   "type": "tradition",
+   "name": "Islamic talismanic craft",
+   "as": "the sign at the centre of it: one of the ninety-nine names, or an angel's, written out and carried",
+   "rel": "motif"
+  },
+  {
+   "from": "jewish-practical-kabbalah",
+   "type": "tradition",
+   "name": "Practical Kabbalah",
+   "as": "the technique this tradition is built on and then restricts: divine and angelic names used for amulets and incantations",
+   "rel": "motif"
+  },
+  {
+   "from": "coin-square",
+   "type": "motif",
+   "name": "The square hole",
+   "as": "Taoist charms carry writing meant to command rather than to be read, which is a different use of script from this one",
+   "rel": "parallel"
+  },
+  {
+   "from": "fish",
+   "type": "motif",
+   "name": "The fish",
+   "as": "the fish spells a name; it belongs with the written charms as much as with the animal ones",
+   "rel": "kin"
+  },
+  {
+   "from": "magic-square",
+   "type": "motif",
+   "name": "The number square",
+   "as": "in Islamic practice the square is regularly paired with the names of God and of the archangels",
+   "rel": "kin"
+  },
+  {
+   "from": "open-palm",
+   "type": "motif",
+   "name": "The open palm",
+   "as": "in Jewish use the palm reads as the letter shin, for Shaddai — a hand that is also a name",
+   "rel": "parallel"
+  },
+  {
+   "from": "palindrome-word",
+   "type": "motif",
+   "name": "The word that reads both ways",
+   "as": "the neighbouring practice: writing that works because of whose name it is, rather than because of its shape",
+   "rel": "contrast"
+  },
+  {
+   "from": "counting-beads",
+   "type": "practice",
+   "name": "Counting beads",
+   "as": "what the Muslim string is counting: the ninety-nine names, one bead each, or thirty-three taken three times",
+   "rel": "motif"
+  },
+  {
+   "from": "inscribing",
+   "type": "practice",
+   "name": "Inscribing",
+   "as": "the single most common thing written, from the Priestly Blessing to the names of God on a shirt",
+   "rel": "motif"
+  },
+  {
+   "from": "quiapo-church",
+   "type": "place",
+   "name": "Quiapo Church",
+   "as": "the sign most agimat carry, in Latin, cut or printed on metal",
+   "rel": "motif"
+  },
+  {
+   "from": "campbell-bonner",
+   "type": "person",
+   "name": "Campbell Bonner",
+   "as": "the sign his gems carry most consistently — names and vowel-strings cut beside the figure",
+   "rel": "motif"
+  },
+  {
+   "from": "joseph-naveh",
+   "type": "person",
+   "name": "Joseph Naveh",
+   "as": "the sign his editions are mostly reading: the names written into the bowls and strips",
+   "rel": "motif"
+  },
+  {
+   "from": "shaul-shaked",
+   "type": "person",
+   "name": "Shaul Shaked",
+   "as": "the sign the bowls turn on — whose names get written, and in which language",
+   "rel": "motif"
+  },
+  {
+   "from": "phylactery-word",
+   "type": "term",
+   "name": "phylactery",
+   "as": "what is actually inside the boxes: text, not a sign",
+   "rel": "motif"
+  },
+  {
+   "from": "taweez-word",
+   "type": "term",
+   "name": "taweez",
+   "as": "what is written inside more often than anything else",
+   "rel": "motif"
+  }
+ ]
+}

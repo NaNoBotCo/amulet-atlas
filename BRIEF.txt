@@ -1,0 +1,94 @@
+AMULET ATLAS — AGENT BRIEF (shared by every drafting agent)
+==========================================================
+Repo: /Users/annikapeacock/Developer/claude code projects/amulet-atlas
+Every path below is relative to it.
+
+Corpus: plain-text Wikipedia articles, one per file, each carrying its title, URL and
+fetch date at the top, in the folder your launching brief names. tools/fetch_wiki.py
+rebuilds it. Every article in there already has a source id in
+data/sources/sources.json, in the form s:wp-<filename-without-.txt>.
+
+READ FIRST, IN THIS ORDER
+  1. AUTHORING.txt             the record spec, the voice rules, and the full cast list
+  2. schema/node.schema.json   what a record must look like
+  3. The three exemplars, written by hand. Match their depth, their voice and their
+     provenance discipline:
+       data/nodes/amulet/wedjat-eye.json    a rich amulet: dating, object, against, 9 kin
+       data/nodes/motif/eye.json            a sign that crosses traditions
+       data/nodes/place/tha-phrachan.json   a place: geo, address, hours, tags
+  4. data/vocab/*.json          regions, against, materials, forms, worn, museums,
+                                facets, tags, recognizers, types
+
+WHAT YOU DO
+  Write the records in YOUR batch, one JSON file per record at
+  data/nodes/<type>/<id>.json. Nothing else. Do not touch tools/, do not edit
+  data/sources/sources.json, do not edit another agent's records.
+
+SOURCES
+  Cite only ids that exist in data/sources/sources.json, OR add your own to
+  data/sources/new-<your-batch-name>.json in this shape:
+    {"sources":[{"id":"s:web-slug","kind":"web","title":"...","publisher":"...",
+                 "url":"https://...","accessed":"2026-09-16"}]}
+  build.py merges those in. For anything not in the corpus, use WebFetch, READ the page,
+  and register it with its real title, publisher, URL and the date you read it.
+  NEVER invent a source, a URL, an ISBN, a date, an accession number, a price, a quote,
+  a measurement or a death. An accession number with no catalogue URL is a hard error.
+
+PROVENANCE, WHICH IS THE POINT OF THE PROJECT
+  provenance.default.tier plus per-field overrides. Tiers:
+    cited      a named source in sources[] backs this
+    harvested  a tool fetched it from an open dataset or an open collection
+    tradition  general knowledge of the practice; hedge it in the prose
+    inference  this project reasoning from the above; say so in the prose
+    field      somebody stood there (nothing carries this yet)
+  In text.story mark each stretch inline: plain prose = cited; *Tradition holds —* ;
+  *Inference —*. A fact you cannot source goes in hedged or stays out.
+  Set needs_verification: true and confidence "medium"/"low" where you are unsure.
+
+THE THREE SENTENCES EVERY AMULET RECORD OWES A READER
+  1. What it IS — physically, so a reader could pick it out of a tray.
+  2. What it is FOR — in the words of people who carry it, attributed by name in
+     against[] and in the prose. This project never writes that a charm works and never
+     writes that it does not. Name the claimant; then stop.
+  3. WHERE and WHEN — countries[] as ISO codes and dating{} in astronomical years
+     (1 CE = 1, 1 BCE = 0, 500 BCE = -499). Those two fields ARE the map and the
+     timeline. A record without them is invisible on both.
+
+VOICE (house rules; validate.py enforces the banned list as a hard error)
+  BANNED: superstition, superstitious, primitive, savage, backward, witch doctor,
+  mumbo jumbo, hocus pocus, trinket, knick-knack, exotic, authentic, inauthentic,
+  genuine article, the real thing, merely, mere, so-called, voodoo. A quotation in
+  quotation marks is exempt — quote and attribute instead of asserting. (The tradition
+  is Vodou or Vodun; the two-o spelling belongs inside a quotation or a proper noun.)
+  "Is believed to" with nobody named raises a warning. Name who says it.
+  Every argument in this field gets REPORTED and none gets JOINED: factory bead against
+  village bead, airport dreamcatcher against Ojibwe one, Thai amulet market as devotion
+  or as trade. Both sides, both names, their own words.
+  Write short. Lead with a verb. Define every non-obvious word at first use. Prices carry
+  their date and currency. No sentence that announces the next one. No closing summary.
+
+THE RULE THAT OUTRANKS COMPLETENESS
+  Where a tradition restricts an object, a design or a rite to initiates, to one gender,
+  to one clan or to the dead, this atlas prints the restriction and stops. Use the
+  `restricted` block, name who says so, and do not write the detail anywhere else in the
+  record. Do not reconstruct a guarded rite from scattered sources and do not fill a gap
+  with a neighbouring tradition's practice. A blank with a citation beats a full record
+  built on a guess.
+
+KIN IS THE SITE'S SPINE
+  Each kin entry says what the other node IS to this one, in one sentence a reader
+  standing on this page would want. Not "see also". The other record answers in its own
+  words, so write yours from here. Link ONLY to ids on the cast list in AUTHORING.txt.
+  5-12 kin on a rich record, 3-6 on a small one. Reach across batches freely — the other
+  agent is writing that record right now.
+
+PICTURES
+  images[] stays empty. Put candidate Wikimedia Commons file titles in
+  x_commons_files: ["File:...jpg"] and a later pass fetches them with their licences.
+
+FINISH BY
+  running, from the repo root:  BUILD_DRAFT=1 python3 tools/validate.py
+  Fix every ERROR that names one of YOUR records. Kin-target warnings for records other
+  agents are still writing are expected and fine.
+  Then report: how many records you wrote, which cast-list ids you could NOT source and
+  why, and every fact you had to hedge.

@@ -1,0 +1,91 @@
+{
+ "schema": 1,
+ "id": "wedjat-eye",
+ "type": "amulet",
+ "names": {
+  "name": "Wedjat eye",
+  "native": "𓂀",
+  "script": "Egyptian hieroglyphic",
+  "lang": "egy",
+  "said": "WED-jat, from wḏꜣt, 'the sound one'",
+  "aliases": ["Eye of Horus", "udjat", "udjat eye", "Horus eye amulet"]
+ },
+ "etymology": {
+  "root": "Egyptian wḏꜣt, feminine of wḏꜣ 'whole, sound, uninjured' — the eye after it was healed, not before",
+  "note": "Egyptologists pair the left wedjat with the moon and the right with the sun; texts use the two almost interchangeably.",
+  "tier": "cited",
+  "source": "s:wp-eye-of-horus"
+ },
+ "region": ["ancient-egypt", "nubia-sudan", "levant"],
+ "countries": ["EG", "SD", "SY", "LB", "IL", "PS"],
+ "facets": {"era": "ancient", "status": "archaeological", "portable": "worn", "restricted": "open", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A stylised human eye with a falcon's cheek-mark curling below it, cut or moulded small enough to string at the throat. Most surviving examples are faience — quartz paste, glazed blue-green in the kiln — and run a few centimetres across. Egypt made more of these than of any other amulet shape, for the living to wear and for the dead to be wrapped in.",
+  "story": "The eye comes out of a fight. Set tears out Horus's eye; Thoth, or another god, puts it back; Horus gives the restored eye to his dead father Osiris, and the offering keeps Osiris going in the afterlife. That is why the sign stands for an offering as much as for an eye, and why it turns up on temple walls beside the meat and bread.\n\nAs an amulet it runs from the Old Kingdom to the Roman period — roughly 2686 BCE to the seventh century CE, which is close to three thousand years of continuous use, and the longest run of any object in this atlas. Coffins of the First Intermediate Period and the Middle Kingdom carry a pair of eyes painted on the side, positioned so the mummy inside could look out through them. Boats carried them on the bows. *Tradition holds —* the eye also travelled: Syria, Canaan and especially Nubia took the sign up from Egypt, and Nubian versions are common enough that a museum tray of them is rarely all Egyptian.\n\n*Inference —* the arithmetic on the shelf is worth stating plainly. An object that was cheap to mould, buried by the thousand, and made of a material that does not rot is an object that survives; the reed, cloth and dough charms that stood beside it did not. What a museum drawer holds is a record of what lasts, not a census of what Egypt wore.",
+  "how": "Moulded in faience or cut from carnelian, lapis, gold or glass, pierced at the top or through the back, and strung. Size was the variable, not the design — the same eye scaled from a bead to a pectoral. In mummification the eye went into the wrappings, and one class of it covered the embalmer's incision.",
+  "today": "Nobody makes a wedjat as a wedjat any more in Egypt's ancient sense; the practice ended with the religion. It is made by the million as jewellery, sold in Cairo, Luxor and every airport shop that sells to Egypt's visitors, and worn worldwide by people with no connection to Osiris. As of 2026 the sign is also standard tattoo flash. Whether the mass-market version is the same object is an argument this atlas reports and does not settle."
+ },
+ "dating": {
+  "period": "Old Kingdom to Roman Egypt",
+  "from_year": -2685,
+  "to_year": 641,
+  "living": false,
+  "label": "c. 2686 BCE – 641 CE",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-eye-of-horus",
+  "note": "The span the amulet is attested across, not the span of the myth. The sign outlives the amulet by two thousand years and counting, as jewellery."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": ["faience", "carnelian", "lapis", "gold", "glass"],
+  "worn": ["neck", "chest", "grave"],
+  "made_by": "workshops attached to temples and to the embalming trade; no restriction on who could wear one",
+  "inscription": "",
+  "script": "Egyptian hieroglyphic",
+  "colour": ["blue-green", "red", "blue"],
+  "single_use": false,
+  "source": "s:wp-eye-of-horus",
+  "note": "Sizes range from a bead to a pectoral; this project has not read a published measurement to quote."
+ },
+ "against": [
+  {"harm": "illness", "who": "Egyptian religious texts, as summarised by Egyptologists", "source": "s:wp-eye-of-horus", "tier": "cited", "note": "the sign stands for well-being and healing before it stands for anything else"},
+  {"harm": "the-dead", "who": "Egyptian funerary practice", "source": "s:wp-eye-of-horus", "tier": "cited", "note": "painted on coffins, wrapped into mummies, laid over the embalming incision"},
+  {"harm": "evil-eye", "who": "later Mediterranean use of the same shape", "source": "s:wp-evil-eye", "tier": "tradition", "note": "the eye-against-the-eye logic is Mediterranean-wide; reading it back into pharaonic Egypt is a later gloss, so it is hedged here"}
+ ],
+ "holdings": [
+  {"museum": "british-museum", "what": "wedjat amulets in the Egyptian collection", "source": "s:wp-british-museum"},
+  {"museum": "met", "what": "wedjat amulets in the Egyptian galleries", "source": "s:wp-metropolitan-museum-of-art", "open_access": true},
+  {"museum": "petrie", "what": "Petrie's excavated amulet series", "source": "s:wp-petrie-museum-of-egyptian-archaeology"}
+ ],
+ "kin": [
+  {"to": "eye", "as": "the sign this amulet carries, and the oldest dated member of the family that runs from here to a glass bead in Istanbul", "rel": "motif"},
+  {"to": "scarab", "as": "the other amulet Egypt made by the thousand; the scarab went under the wrappings at the heart, the eye over the incision", "rel": "contrast"},
+  {"to": "heart-scarab", "as": "its partner in the wrappings — one guards the body's opening, the other speaks for the dead at the weighing", "rel": "kin"},
+  {"to": "faience", "as": "the material that made it cheap enough to bury by the thousand, and durable enough to still be here", "rel": "material"},
+  {"to": "carnelian", "as": "the red stone version, cut rather than moulded, and costlier", "rel": "material"},
+  {"to": "egyptian-amulet-craft", "as": "the tradition that produced it, on a scale no other ancient practice matches", "rel": "tradition"},
+  {"to": "ankh-amulet", "as": "made in the same workshops and strung on the same cords, for life rather than for soundness", "rel": "kin"},
+  {"to": "nazar", "as": "the eye answering the eye, four thousand years later and in glass rather than faience", "rel": "parallel"},
+  {"to": "grave-deposit", "as": "the practice that is the reason this amulet survives at all", "rel": "practice"},
+  {"to": "flinders-petrie", "as": "the excavator who sorted Egypt's amulets into the classes museums still use", "rel": "person"}
+ ],
+ "confusable_with": [
+  {"id": "nazar", "tell": "the wedjat is a drawn eye with a falcon's cheek-line; the nazar is a concentric blue-and-white glass disc with no lid and no brow"},
+  {"id": "scarab", "tell": "if the back is a beetle and the flat underside carries a name or a spell, it is a scarab, whatever is cut on the other face"}
+ ],
+ "links": [{"label": "Eye of Horus — Wikipedia", "url": "https://en.wikipedia.org/wiki/Eye_of_Horus"}],
+ "sources": ["s:wp-eye-of-horus", "s:wp-amulet", "s:wp-egyptian-faience", "s:wp-evil-eye", "s:wp-british-museum", "s:wp-metropolitan-museum-of-art", "s:wp-petrie-museum-of-egyptian-archaeology"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-eye-of-horus"},
+  "fields": {
+   "text.today": {"tier": "inference", "note": "the mass-market present, reasoned from the object's ubiquity; no market survey behind it"},
+   "object": {"tier": "cited", "source": "s:wp-eye-of-horus", "note": "materials and positions are cited; no measurement is quoted because none was read"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Udjat (Eye of Horus) amulet MET DP109378.jpg", "File:Eye of Horus bw.svg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

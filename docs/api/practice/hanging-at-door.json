@@ -1,0 +1,814 @@
+{
+ "schema": 1,
+ "id": "hanging-at-door",
+ "type": "practice",
+ "names": {
+  "name": "Hanging at the door",
+  "aliases": [
+   "fixing to the doorpost",
+   "over the lintel",
+   "on the barn"
+  ],
+  "said": "put where everyone entering passes it"
+ },
+ "region": [
+  "levant",
+  "japan",
+  "north-america",
+  "britain-ireland",
+  "western-europe",
+  "rome-italy",
+  "anatolia",
+  "south-asia",
+  "china"
+ ],
+ "countries": [
+  "IL",
+  "PS",
+  "US",
+  "JP",
+  "IE",
+  "GB",
+  "IT",
+  "DE",
+  "TR",
+  "IN",
+  "PK",
+  "CN"
+ ],
+ "facets": {
+  "stage": "wear",
+  "era": "ancient",
+  "status": "living"
+ },
+ "text": {
+  "what": "Putting the charm on the way in. A parchment case screwed to a doorpost, a horseshoe nailed above a door, a woven cross in the rafters, a painted star on a barn, a paper talisman pasted at an entrance. The position is the argument: harm is treated as something that arrives, and the door is where it arrives.",
+  "story": "Jewish law makes the door a legal obligation with a measured position. A mezuzah's parchment goes in a case on the right side of the doorway, in the upper third of the post, at roughly shoulder height and within about three inches — eight centimetres — of the opening. Many Ashkenazi Jews tilt it so that the top slants into the room, a compromise proposed by Rabbi Jacob ben Asher, c. 1269–1343, between Rashi's vertical and Rabbeinu Tam's horizontal; most Sephardi, Mizrahi and other non-Ashkenazi Jews fix it vertically. In the diaspora it goes up within thirty days of moving into a rented home; in a purchased home, or anywhere in Israel, immediately. The person holds it to the spot and recites a blessing, and one blessing covers all the doors done in a session. Samaritans set select verses above the house door or on a prominent wall, and stone plaques of the Ten Commandments from the Byzantine and Early Muslim periods, the fourth to the eleventh centuries, are now in the Israel Museum in Jerusalem.\n\nThe door is also where the practice gets litigated. A Chicago condominium association at Shoreline Towers banned objects outside unit doors and in 2004 read the ban as absolute, and management removed residents' mezuzot; complaints went to the Chicago Commission on Human Relations, the Illinois Attorney General and the federal housing department. Alderman Burton Natarus drafted an amendment making it illegal to prohibit a religious sign, symbol or relic on a door, doorpost or entrance, and it became Chicago law that December with a maximum $500 fine, the first such legislation in North America.\n\nJapan assigns doors by deity. Protective gofu such as Tsuno Daishi, the Horned Great Master — the Tendai monk Ryōgen drawn as a yaksha or an oni — go on doorways and entrances; hearth deities go in the kitchen; a talisman of Ucchuṣma, the wrathful figure who purifies the unclean, may go in the toilet. Europe nails iron. Worn horseshoes were placed above or beside doorways to guard houses, barns and stables across Italy, Germany, Britain and Scandinavia, traditionally held with seven nails; whether the ends point up or down is a live disagreement, with much of Europe, the Middle East and Latin America hanging them downward so that blessing pours out, and parts of Ireland and Britain hanging them upward so that luck is caught and cannot run out. The two habits travelled to the United States with their carriers. A legend attached to the tenth-century blacksmith-saint Dunstan has the Devil promising never to enter a household with a horseshoe nailed to the door.\n\nIreland hangs a woven cross. Saint Brigid's crosses are typically woven on 1 February, and hanging one from the rafters, or over an entryway, was held to bring the saint's blessing and protection for the rest of the year; on the feast day crosses went up in the main dwelling, the outhouses and the stables. Pennsylvania painted the wall instead of the door: barn stars in circular borders appear on Pennsylvania Dutch barns in Berks, Lancaster and Lehigh counties, beginning in the early nineteenth century and spreading once ready-mixed paint became affordable. Two readings of the barn signs run side by side in the same communities — one holds them protective, the other decorative — and both sides agree that particular designs carry folk beliefs. The Amish do not use them.\n\n*Inference —* the door is the most crowded position in this atlas. It is also the only one where the charm is aimed at people who are not its owner: a doorpost charm is read by every visitor, which makes it a statement of who lives here as much as a guard.",
+  "how": "Fix, nail, paste or hang, at the position the tradition specifies, often with words said at the moment of fixing. Height, side and orientation carry rules; so does the date, in the Irish case.",
+  "today": "Live and legally protected in at least one American city. Mezuzot are fixed in Israel and across the diaspora, with cases made in silver, wood, stone, ceramic, pewter and polymer clay; a case sold with a photocopied paper text is a case, since a valid mezuzah is handwritten on parchment by a qualified scribe. Japanese households renew door talismans at the New Year. Hex signs are sold as mountable boards for barns and houses, a trade Jacob Zook of Paradise, Pennsylvania claimed to have started in 1942 for shops along the Lincoln Highway."
+ },
+ "dating": {
+  "period": "Byzantine Levant to the present",
+  "from_year": 301,
+  "to_year": null,
+  "living": true,
+  "label": "c. 4th century CE to now",
+  "method": "art-historical",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-mezuzah",
+  "note": "Dated from surviving Samaritan stone plaques set above house doors in the Byzantine (4th–7th century) and Early Muslim (7th–11th century) periods, now in the Israel Museum. The biblical command to write on the doorposts is older than any object cited here."
+ },
+ "object": {
+  "form": "door-piece",
+  "materials": [
+   "parchment",
+   "iron",
+   "wood",
+   "paper",
+   "silver",
+   "terracotta"
+  ],
+  "worn": [
+   "door",
+   "lintel",
+   "wall",
+   "roof"
+  ],
+  "made_by": "a scribe, a blacksmith, a shrine, a barn painter, or the household itself",
+  "inscription": "in the Jewish case, Deuteronomy 6:4–9 and 11:13–21",
+  "script": "Ashuri Hebrew",
+  "single_use": false,
+  "source": "s:wp-mezuzah",
+  "note": "The eight-centimetre placement figure is the halakhic rule quoted in the cited account, not a measurement of an object."
+ },
+ "against": [
+  {
+   "harm": "house",
+   "who": "Jewish households; Chabad representatives ran a campaign for the systematic checking of mezuzot after attacks at Ma'alot in the 1970s, on the assumption that keeping the commandment would guarantee personal safety",
+   "source": "s:wp-mezuzah",
+   "tier": "cited"
+  },
+  {
+   "harm": "livestock",
+   "who": "Irish households, who hung Brigid's crosses in the outhouses and stables as well as the dwelling",
+   "source": "s:wp-brigid-s-cross",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "European households nailing worn horseshoes above doorways, and the legend of Saint Dunstan attached to the custom",
+   "source": "s:wp-horseshoe",
+   "tier": "cited"
+  },
+  {
+   "harm": "demons",
+   "who": "Japanese households placing Tsuno Daishi gofu on doorways and entrances",
+   "source": "s:wp-ofuda",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "mezuzah",
+   "as": "the door charm with a measured position, a blessing at fixing and a deadline for putting it up",
+   "rel": "carried-by"
+  },
+  {
+   "to": "horseshoe",
+   "as": "iron nailed over the opening, with an argument about which way up that crossed the Atlantic intact",
+   "rel": "carried-by"
+  },
+  {
+   "to": "brigids-cross",
+   "as": "rushes in the rafters from 1 February, and again the following February",
+   "rel": "carried-by"
+  },
+  {
+   "to": "hex-sign",
+   "as": "the same idea painted at barn scale, and argued over as protective or decorative in the same county",
+   "rel": "carried-by"
+  },
+  {
+   "to": "ofuda",
+   "as": "paper assigned by room — entrance, kitchen, toilet — with a different figure on each",
+   "rel": "carried-by"
+  },
+  {
+   "to": "nimbu-mirchi",
+   "as": "South Asia's hanging version, strung in a doorway rather than fixed to it",
+   "rel": "parallel"
+  },
+  {
+   "to": "bagua-mirror",
+   "as": "the Chinese door fitting that answers the same question about what arrives at an entrance",
+   "rel": "parallel"
+  },
+  {
+   "to": "iron",
+   "as": "the material doing the work in the European case, before any shape is given to it",
+   "rel": "material"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the tradition that put iron over the doors of houses, barns and stables",
+   "rel": "tradition"
+  },
+  {
+   "to": "renewing-yearly",
+   "as": "the clock several door charms run on, in Ireland and Japan alike",
+   "rel": "practice"
+  },
+  {
+   "to": "foundation-deposit",
+   "as": "the same threshold, treated from underneath",
+   "rel": "parallel"
+  }
+ ],
+ "links": [
+  {
+   "label": "Mezuzah — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mezuzah"
+  },
+  {
+   "label": "Hex sign — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hex_sign"
+  }
+ ],
+ "sources": [
+  "s:wp-mezuzah",
+  "s:wp-horseshoe",
+  "s:wp-brigid-s-cross",
+  "s:wp-hex-sign",
+  "s:wp-ofuda",
+  "s:wp-incantation-bowl"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-mezuzah"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-mezuzah",
+    "note": "the closing paragraph about who a door charm addresses is this project's reading and is marked where it appears"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Mezuzah on doorpost.jpg",
+  "File:Hex sign barn Pennsylvania.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Putting the charm on the way in. A parchment case screwed to a doorpost, a horseshoe nailed above a door, a woven cross in the rafters, a painted star on a barn, a paper talisman pasted at an entrance.",
+ "region_terms": [
+  {
+   "key": "levant",
+   "name": "The Levant",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "japan",
+   "name": "Japan",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "western-europe",
+   "name": "Western Europe",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "anatolia",
+   "name": "Anatolia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "china",
+   "name": "China",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "mezuzah",
+   "type": "amulet",
+   "name": "Mezuzah",
+   "as": "the door charm with a measured position, a blessing at fixing and a deadline for putting it up",
+   "rel": "carried-by"
+  },
+  {
+   "to": "horseshoe",
+   "type": "amulet",
+   "name": "Horseshoe",
+   "as": "iron nailed over the opening, with an argument about which way up that crossed the Atlantic intact",
+   "rel": "carried-by"
+  },
+  {
+   "to": "brigids-cross",
+   "type": "amulet",
+   "name": "Brigid's cross",
+   "as": "rushes in the rafters from 1 February, and again the following February",
+   "rel": "carried-by"
+  },
+  {
+   "to": "hex-sign",
+   "type": "amulet",
+   "name": "Hex sign",
+   "as": "the same idea painted at barn scale, and argued over as protective or decorative in the same county",
+   "rel": "carried-by"
+  },
+  {
+   "to": "ofuda",
+   "type": "amulet",
+   "name": "Ofuda",
+   "as": "paper assigned by room — entrance, kitchen, toilet — with a different figure on each",
+   "rel": "carried-by"
+  },
+  {
+   "to": "nimbu-mirchi",
+   "type": "amulet",
+   "name": "Nimbu mirchi",
+   "as": "South Asia's hanging version, strung in a doorway rather than fixed to it",
+   "rel": "parallel"
+  },
+  {
+   "to": "bagua-mirror",
+   "type": "amulet",
+   "name": "Bagua mirror",
+   "as": "the Chinese door fitting that answers the same question about what arrives at an entrance",
+   "rel": "parallel"
+  },
+  {
+   "to": "iron",
+   "type": "material",
+   "name": "Iron",
+   "as": "the material doing the work in the European case, before any shape is given to it",
+   "rel": "material"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "type": "tradition",
+   "name": "European folk apotropaic craft",
+   "as": "the tradition that put iron over the doors of houses, barns and stables",
+   "rel": "tradition"
+  },
+  {
+   "to": "renewing-yearly",
+   "type": "practice",
+   "name": "Renewing yearly",
+   "as": "the clock several door charms run on, in Ireland and Japan alike",
+   "rel": "practice"
+  },
+  {
+   "to": "foundation-deposit",
+   "type": "practice",
+   "name": "Foundation deposit",
+   "as": "the same threshold, treated from underneath",
+   "rel": "parallel"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-mezuzah",
+   "kind": "encyclopedia",
+   "title": "Mezuzah",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mezuzah",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-horseshoe",
+   "kind": "encyclopedia",
+   "title": "Horseshoe",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Horseshoe",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-brigid-s-cross",
+   "kind": "encyclopedia",
+   "title": "Brigid's cross",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Brigid%27s_cross",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-hex-sign",
+   "kind": "encyclopedia",
+   "title": "Hex sign",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hex_sign",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ofuda",
+   "kind": "encyclopedia",
+   "title": "Ofuda",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ofuda",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-incantation-bowl",
+   "kind": "encyclopedia",
+   "title": "Incantation bowl",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Incantation_bowl",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-mezuzah"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-mezuzah",
+   "note": "the closing paragraph about who a door charm addresses is this project's reading and is marked where it appears"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-mezuzah"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-mezuzah"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-mezuzah"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-mezuzah"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "house",
+   "label": "Harm to a house or a field",
+   "who": "Jewish households; Chabad representatives ran a campaign for the systematic checking of mezuzot after attacks at Ma'alot in the 1970s, on the assumption that keeping the commandment would guarantee personal safety",
+   "quote": "",
+   "source": "s:wp-mezuzah",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "livestock",
+   "label": "Harm to livestock",
+   "who": "Irish households, who hung Brigid's crosses in the outhouses and stables as well as the dwelling",
+   "quote": "",
+   "source": "s:wp-brigid-s-cross",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "European households nailing worn horseshoes above doorways, and the legend of Saint Dunstan attached to the custom",
+   "quote": "",
+   "source": "s:wp-horseshoe",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "demons",
+   "label": "Demons and night-hags",
+   "who": "Japanese households placing Tsuno Daishi gofu on doorways and entrances",
+   "quote": "",
+   "source": "s:wp-ofuda",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "parchment",
+   "label": "Parchment and vellum",
+   "kind": "written"
+  },
+  {
+   "key": "iron",
+   "label": "Iron",
+   "kind": "metal",
+   "note": "iron itself is the charm in a great many places"
+  },
+  {
+   "key": "wood",
+   "label": "Wood",
+   "kind": "plant"
+  },
+  {
+   "key": "paper",
+   "label": "Paper",
+   "kind": "written"
+  },
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  },
+  {
+   "key": "terracotta",
+   "label": "Fired clay",
+   "kind": "fired"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  },
+  {
+   "key": "lintel",
+   "label": "Above the lintel",
+   "group": "placed"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "roof",
+   "label": "On the roof",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "door-piece",
+  "label": "Door or lintel piece"
+ },
+ "holding_facts": [],
+ "span": "301 CE to now",
+ "country_names": [
+  {
+   "iso": "IL",
+   "name": "Israel"
+  },
+  {
+   "iso": "PS",
+   "name": "Palestine"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "JP",
+   "name": "Japan"
+  },
+  {
+   "iso": "IE",
+   "name": "Ireland"
+  },
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "DE",
+   "name": "Germany"
+  },
+  {
+   "iso": "TR",
+   "name": "Turkey"
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  },
+  {
+   "iso": "PK",
+   "name": "Pakistan"
+  },
+  {
+   "iso": "CN",
+   "name": "China"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "bagua-mirror",
+   "type": "amulet",
+   "name": "Bagua mirror",
+   "as": "the practice: a charm fixed to a building, aimed outward, guarding a threshold and not a body",
+   "rel": "practice"
+  },
+  {
+   "from": "bes-amulet",
+   "type": "amulet",
+   "name": "Bes amulet",
+   "as": "where his statue stood — the source says he was put up as a protector because he drove harm off",
+   "rel": "practice"
+  },
+  {
+   "from": "brigids-cross",
+   "type": "amulet",
+   "name": "Brigid's cross",
+   "as": "where it goes: the rafters, the entryway, the outhouse and the stable",
+   "rel": "practice"
+  },
+  {
+   "from": "bujeok",
+   "type": "amulet",
+   "name": "Bujeok",
+   "as": "the half of its use that never leaves the house, pasted to an interior wall after a gut",
+   "rel": "practice"
+  },
+  {
+   "from": "dolhareubang",
+   "type": "amulet",
+   "name": "Dol hareubang",
+   "as": "the practice at its heaviest: a doorway guard weighing more than the door",
+   "rel": "practice"
+  },
+  {
+   "from": "gorgoneion",
+   "type": "amulet",
+   "name": "Gorgoneion",
+   "as": "the practice the temple antefix is the monumental form of — put the guard where the thing gets in",
+   "rel": "practice"
+  },
+  {
+   "from": "hex-sign",
+   "type": "amulet",
+   "name": "Hex sign",
+   "as": "the practice it is the biggest version of: a sign fixed to a building, facing outward, in public",
+   "rel": "practice"
+  },
+  {
+   "from": "horseshoe",
+   "type": "amulet",
+   "name": "Horseshoe",
+   "as": "the practice in its plainest form, and the one this atlas has the longest argument about direction in",
+   "rel": "practice"
+  },
+  {
+   "from": "jimat",
+   "type": "amulet",
+   "name": "Jimat",
+   "as": "the practice the Indonesian definition leads with: hung on a body, a vehicle or a building",
+   "rel": "practice"
+  },
+  {
+   "from": "lamashtu-plaque",
+   "type": "amulet",
+   "name": "Lamashtu plaque",
+   "as": "where these went — beds, doorways, and the places a household counted as open",
+   "rel": "practice"
+  },
+  {
+   "from": "mezuzah",
+   "type": "amulet",
+   "name": "Mezuzah",
+   "as": "the practice, in the atlas's most legally defined form — right post, upper third, eight centimetres from the opening",
+   "rel": "practice"
+  },
+  {
+   "from": "nimbu-mirchi",
+   "type": "amulet",
+   "name": "Nimbu mirchi",
+   "as": "the practice this object is: a charm that guards a threshold instead of a person",
+   "rel": "practice"
+  },
+  {
+   "from": "ofuda",
+   "type": "amulet",
+   "name": "Ofuda",
+   "as": "where half of them end up — gate, doorway, kitchen, ceiling, one per job",
+   "rel": "practice"
+  },
+  {
+   "from": "omikuji",
+   "type": "amulet",
+   "name": "Omikuji",
+   "as": "the nearest practice in this atlas to knotting a fortune onto a pine: a paper fixed in place to do its work where it hangs",
+   "rel": "parallel"
+  },
+  {
+   "from": "pazuzu-head",
+   "type": "amulet",
+   "name": "Pazuzu head",
+   "as": "the practice the Dur-Katlimmu find caught in the act — hung on the wall facing the entryway",
+   "rel": "practice"
+  },
+  {
+   "from": "rowan-cross",
+   "type": "amulet",
+   "name": "Rowan cross",
+   "as": "where it mostly went: over a door, over a byre lintel, above a hearth",
+   "rel": "practice"
+  },
+  {
+   "from": "teru-teru-bozu",
+   "type": "amulet",
+   "name": "Teru teru bōzu",
+   "as": "where it works from — an eave, a window frame, outside, where the weather can see it",
+   "rel": "practice"
+  },
+  {
+   "from": "chinese-fu-craft",
+   "type": "tradition",
+   "name": "Fulu — Taoist talismanic craft",
+   "as": "where most of this output ends up: a slip, a mirror or a red square on a doorway",
+   "rel": "practice"
+  },
+  {
+   "from": "korean-bujeok-craft",
+   "type": "tradition",
+   "name": "Bujeok craft",
+   "as": "the practice, done indoors: the talisman goes on the inside wall of the house it is for",
+   "rel": "practice"
+  },
+  {
+   "from": "mesopotamian-apotropaic",
+   "type": "tradition",
+   "name": "Mesopotamian household protection",
+   "as": "the practice this tradition is built on: put the guard where the thing gets in",
+   "rel": "practice"
+  },
+  {
+   "from": "bell",
+   "type": "motif",
+   "name": "The bell",
+   "as": "the practice the Roman half of this record belongs to entirely",
+   "rel": "practice"
+  },
+  {
+   "from": "key",
+   "type": "motif",
+   "name": "The key",
+   "as": "the practice this sign points at, even where no key is actually hung",
+   "rel": "practice"
+  },
+  {
+   "from": "mirror-sign",
+   "type": "motif",
+   "name": "The mirror",
+   "as": "the practice the bagua mirror belongs to, and the one that makes it a neighbour's problem",
+   "rel": "practice"
+  },
+  {
+   "from": "serpent",
+   "type": "motif",
+   "name": "The serpent",
+   "as": "the practice the guardian snake belongs to, in stone rather than in metal",
+   "rel": "practice"
+  },
+  {
+   "from": "tree",
+   "type": "motif",
+   "name": "The tree",
+   "as": "the practice the rowan belongs to: the sign is placed at the threshold, not worn",
+   "rel": "practice"
+  },
+  {
+   "from": "iron",
+   "type": "material",
+   "name": "Iron",
+   "as": "the practice iron is most often put to — over the lintel, under the threshold, around the graveyard",
+   "rel": "practice"
+  },
+  {
+   "from": "salt",
+   "type": "material",
+   "name": "Salt",
+   "as": "where salt is most often put: a threshold, a gate, a shop entrance",
+   "rel": "practice"
+  },
+  {
+   "from": "fu-word",
+   "type": "term",
+   "name": "fu",
+   "as": "the practice the fortune character exists for: paper, paste, doorpost, once a year",
+   "rel": "practice"
+  },
+  {
+   "from": "ward-word",
+   "type": "term",
+   "name": "ward",
+   "as": "the practice the verb is nearly always attached to in English writing",
+   "rel": "practice"
+  },
+  {
+   "from": "the-charm-in-the-wall",
+   "type": "story",
+   "name": "The charm in the wall",
+   "as": "the visible answer to the same fear: the horseshoe over the door, where the bottle goes under it",
+   "rel": "contrast"
+  }
+ ]
+}

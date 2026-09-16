@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "id": "akuaba-figure",
+ "type": "amulet",
+ "names": {
+  "name": "Akua'ba",
+  "said": "a-KWA-ba",
+  "aliases": ["akuaba", "akwaba", "akuba", "Akan fertility doll"]
+ },
+ "region": ["west-africa", "diaspora"],
+ "countries": ["GH", "CI"],
+ "facets": {"era": "living", "status": "living", "portable": "carried", "restricted": "open", "hemisphere": ["N", "W"]},
+ "text": {
+  "what": "A small wooden figure with a large flat disc for a head, a ringed neck and a short body, usually with arms out to the sides. The head is the whole signature: a smooth circle or oval, set on a cylinder, with the features low on the face.",
+  "story": "Akua'ba come from western Ghana and nearby, and are particularly associated with the Fanti, part of the Akan group of peoples in Ghana and Ivory Coast. Young women seeking to conceive carry them, and carry them also so that the children they have will be good-looking.\n\nWhen the figure is not in use it is not put away: it is ritually washed and cared for in the homestead, which is why writers describing the practice reach for the phrase sympathetic magic — the doll is treated the way the wanted child would be.\n\nOther peoples in the region carve their own. The Kru and the Igbo have distinctive styles of fertility figure, used in similar ways.\n\nThe form crossed the Atlantic. Akua'ba were taken to the Americas by enslaved Africans, where they stood for a connection to home and were used as good-luck charms.\n\n*Inference —* the collecting came early and it came in volume. Europeans visiting Africa in the 1800s were highly interested in Fante dolls, and that interest is why the figure is in so many European museums; what a museum case holds here, as with the Kongo material, is a record of nineteenth-century European taste as much as of Akan practice.",
+  "how": "Carved in wood. Washed and cared for in the homestead when not being carried. The sources read here name no maker's restriction and no consecration rite, and this record does not supply one from a neighbouring tradition.",
+  "today": "Both things at once, and the tradition's own account says so. Akua'ba are now more commonly seen as mass-produced works of art or souvenirs than as heirlooms in ritual use — and traditional use continues in some areas among the Fante and other Akan peoples. The shape has also become a general sign of good luck, detached from conception."
+ },
+ "dating": {
+  "period": "documented from the nineteenth century; in use now",
+  "from_year": 1800,
+  "to_year": null,
+  "living": true,
+  "label": "documented from the 1800s to the present",
+  "method": "ethnographic",
+  "circa": true,
+  "tier": "inference",
+  "source": "s:wp-akuaba",
+  "note": "The source gives no origin date. 1800 is the earliest the source attaches a century to — European visitors' interest in Fante dolls 'particularly during the 1800s' — and is therefore a date about collectors, not about carvers. *Inference* — the practice is older than the collecting; this project has read no source that dates it."
+ },
+ "object": {
+  "form": "figurine",
+  "materials": ["wood"],
+  "made_by": "the sources read here name no restriction on who carves one",
+  "inscription": "none",
+  "single_use": false,
+  "source": "s:wp-akuaba",
+  "note": "No measurement is entered; the source publishes none."
+ },
+ "against": [
+  {"harm": "infertility", "who": "young Akan women, who the source says use them 'traditionally by young women seeking to conceive a child'", "source": "s:wp-akuaba", "tier": "cited"},
+  {"harm": "bad-luck", "who": "enslaved Africans in the Americas, who used them as good-luck charms and as a link to home; and present-day users, for whom the form has become a broader sign of good luck", "source": "s:wp-akuaba", "tier": "cited"}
+ ],
+ "holdings": [
+  {"museum": "met", "what": "an akua'ba published with a description", "source": "s:wp-akuaba"},
+  {"museum": "pitt-rivers", "what": "West African figures in the typological collection", "source": "s:wp-pitt-rivers-museum"}
+ ],
+ "kin": [
+  {"to": "west-african-charm-craft", "as": "the wider practice it sits inside, though its makers are Akan carvers rather than marabouts or diviners", "rel": "tradition"},
+  {"to": "nkisi", "as": "the other African wooden figure in this atlas, and a useful contrast: this one is carried and washed, that one is charged and nailed", "rel": "contrast"},
+  {"to": "taweret-amulet", "as": "the Nile's charm for the same wish, four thousand years earlier and made as a hippopotamus", "rel": "parallel"},
+  {"to": "tree", "as": "the sign behind the material — a figure cut from a living thing and then washed and kept like one", "rel": "motif"},
+  {"to": "most-of-them-are-for-children", "as": "the long read it belongs to — a charm carried before the child exists", "rel": "story"},
+  {"to": "the-fake-market", "as": "the long read on souvenir against heirloom, which the tradition's own account of akua'ba states plainly", "rel": "story"}
+ ],
+ "links": [{"label": "Akuaba — Wikipedia", "url": "https://en.wikipedia.org/wiki/Akuaba"}],
+ "sources": ["s:wp-akuaba", "s:wp-pitt-rivers-museum", "s:wp-cultural-appropriation"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-akuaba"},
+  "fields": {
+   "dating": {"tier": "inference", "source": "s:wp-akuaba", "note": "the year is about collectors, not carvers; see the dating note"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Akuaba doll.jpg"],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

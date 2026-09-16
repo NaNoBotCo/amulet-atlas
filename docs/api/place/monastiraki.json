@@ -1,0 +1,309 @@
+{
+ "schema": 1,
+ "id": "monastiraki",
+ "type": "place",
+ "names": {
+  "name": "Monastiraki",
+  "native": "Μοναστηράκι",
+  "script": "Greek",
+  "lang": "el",
+  "said": "mo-na-sti-RA-ki, 'little monastery'",
+  "aliases": [
+   "Monastiraki flea market",
+   "Monastiraki Square"
+  ]
+ },
+ "region": [
+  "greece-aegean"
+ ],
+ "countries": [
+  "GR"
+ ],
+ "facets": {
+  "kind": "market",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A flea-market neighbourhood in the old town of Athens, built round Monastiraki Square and running along Pandrossou and Adrianou streets. Clothing, souvenirs and specialist shops; a metro station on the square; and, in the souvenir windows, trays of the blue glass eye.",
+  "story": "The district takes its name from the square, and the square from the Church of the Pantanassa standing in it. It is one of Athens's main shopping districts and its best-known bargain quarter.\n\nThe object this atlas comes for has a Greek name. The bead a Turkish seller calls nazar boncuğu is máti in Greek, the eye, and it belongs to a tradition Greek authors were already describing in classical antiquity: Hesiod, Callimachus, Plato, Theocritus and Plutarch all mention the harmful look, and Peter Walcot's Envy and the Greeks listed more than a hundred ancient works that do. Greeks hung talismans in the house and wore amulets; Peisistratus hung a grasshopper figure before the Acropolis, a few hundred metres uphill from this square.\n\nThe trade is not a museum piece. A 2015 Pew survey of central and eastern Europe found a median of 48 per cent of adults reporting belief in the evil eye, with 66 per cent in Greece — the joint highest figure in the survey. The bead is also, in the encyclopedia's phrase, a popular choice of souvenir with tourists, and both those sentences describe the same stall.\n\n*Inference —* the Monastiraki article itemises no charm, and this record does not claim a particular shop. What it claims is the pairing: the densest souvenir trade in Athens, in a country where two adults in three report the belief the object answers.",
+  "today": "Trading, as a flea market and a tourist quarter. No day is marked open or closed below; the shops keep their own hours and no timetable is published for the district."
+ },
+ "geo": {
+  "lat": 37.97639,
+  "lon": 23.72361,
+  "precision": "street",
+  "source": "the coordinate published in the English Wikipedia article Monastiraki, read 2026-09-16"
+ },
+ "address": {
+  "street": "Pandrossou and Adrianou streets",
+  "city": "Athens",
+  "admin": "Attica",
+  "country": "GR"
+ },
+ "kin": [
+  {
+   "to": "nazar",
+   "as": "the bead sold here under its Greek name, máti",
+   "rel": "carries"
+  },
+  {
+   "to": "eye",
+   "as": "the sign itself, in a city whose writers were describing the harmful look 2,400 years ago",
+   "rel": "motif"
+  },
+  {
+   "to": "greco-roman-apotropaic",
+   "as": "the tradition this ground is the home of — Peisistratus hung his figure just uphill",
+   "rel": "tradition"
+  },
+  {
+   "to": "gorgoneion",
+   "as": "the older Greek answer to the same look, cut on shields and temple roofs instead of strung on a cord",
+   "rel": "kin"
+  },
+  {
+   "to": "glass",
+   "as": "the material the eye travels in, made in the eastern Mediterranean since about 1500 BCE",
+   "rel": "material"
+  },
+  {
+   "to": "grand-bazaar",
+   "as": "the Istanbul market selling the identical bead under a Turkish name, two hours by air",
+   "rel": "parallel"
+  },
+  {
+   "to": "evil-eye-bracelet",
+   "as": "the same eye on elastic, which is how most of the world now buys it",
+   "rel": "descendant"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "as": "the long read that follows this sign across four continents",
+   "rel": "story"
+  }
+ ],
+ "tags": [
+  {
+   "tag": "market",
+   "source": "s:wp-monastiraki",
+   "tier": "cited",
+   "note": "a flea-market neighbourhood and one of the main shopping districts of Athens"
+  }
+ ],
+ "links": [
+  {
+   "label": "Monastiraki — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Monastiraki"
+  }
+ ],
+ "sources": [
+  "s:wp-monastiraki",
+  "s:wp-evil-eye",
+  "s:wp-nazar-amulet"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-monastiraki"
+  },
+  "fields": {
+   "geo": {
+    "tier": "cited",
+    "source": "s:wp-monastiraki",
+    "note": "the article's own coordinate, read 2026-09-16"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-evil-eye",
+    "note": "the pairing of this market with the survey figure is this project's, and is marked as inference where it appears"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Monastiraki Square Athens.jpg",
+  "File:Greek evil eye beads.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A flea-market neighbourhood in the old town of Athens, built round Monastiraki Square and running along Pandrossou and Adrianou streets.",
+ "region_terms": [
+  {
+   "key": "greece-aegean",
+   "name": "Greece and the Aegean",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "nazar",
+   "type": "amulet",
+   "name": "Nazar",
+   "as": "the bead sold here under its Greek name, máti",
+   "rel": "carries"
+  },
+  {
+   "to": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "the sign itself, in a city whose writers were describing the harmful look 2,400 years ago",
+   "rel": "motif"
+  },
+  {
+   "to": "greco-roman-apotropaic",
+   "type": "tradition",
+   "name": "Greek and Roman protective magic",
+   "as": "the tradition this ground is the home of — Peisistratus hung his figure just uphill",
+   "rel": "tradition"
+  },
+  {
+   "to": "gorgoneion",
+   "type": "amulet",
+   "name": "Gorgoneion",
+   "as": "the older Greek answer to the same look, cut on shields and temple roofs instead of strung on a cord",
+   "rel": "kin"
+  },
+  {
+   "to": "glass",
+   "type": "material",
+   "name": "Glass",
+   "as": "the material the eye travels in, made in the eastern Mediterranean since about 1500 BCE",
+   "rel": "material"
+  },
+  {
+   "to": "grand-bazaar",
+   "type": "place",
+   "name": "The Grand Bazaar",
+   "as": "the Istanbul market selling the identical bead under a Turkish name, two hours by air",
+   "rel": "parallel"
+  },
+  {
+   "to": "evil-eye-bracelet",
+   "type": "amulet",
+   "name": "Evil eye bracelet",
+   "as": "the same eye on elastic, which is how most of the world now buys it",
+   "rel": "descendant"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "type": "story",
+   "name": "The eye everywhere",
+   "as": "the long read that follows this sign across four continents",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-monastiraki",
+   "kind": "encyclopedia",
+   "title": "Monastiraki",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Monastiraki",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-evil-eye",
+   "kind": "encyclopedia",
+   "title": "Evil eye",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Evil_eye",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-nazar-amulet",
+   "kind": "encyclopedia",
+   "title": "Nazar (amulet)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nazar_(amulet)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-monastiraki"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-evil-eye",
+   "note": "the pairing of this market with the survey figure is this project's, and is marked as inference where it appears"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-monastiraki"
+  },
+  "geo": {
+   "tier": "cited",
+   "source": "s:wp-monastiraki",
+   "note": "the article's own coordinate, read 2026-09-16"
+  },
+  "address": {
+   "tier": "cited",
+   "source": "s:wp-monastiraki"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [
+  {
+   "key": "market",
+   "label": "A market you can walk",
+   "group": "trade",
+   "evidence": "a dated guide, a municipal listing",
+   "source": "s:wp-monastiraki",
+   "note": "a flea-market neighbourhood and one of the main shopping districts of Athens",
+   "tier": "cited",
+   "url": ""
+  }
+ ],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "",
+ "country_names": [
+  {
+   "iso": "GR",
+   "name": "Greece"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "nazar",
+   "type": "amulet",
+   "name": "Nazar",
+   "as": "the Athens equivalent, where the same bead is called máti",
+   "rel": "place"
+  },
+  {
+   "from": "tama-votive",
+   "type": "amulet",
+   "name": "Tama",
+   "as": "one Athens market where the religious-goods shops selling these are within a few streets",
+   "rel": "place"
+  },
+  {
+   "from": "grand-bazaar",
+   "type": "place",
+   "name": "The Grand Bazaar",
+   "as": "the Athens lanes where the same bead is sold under its Greek name, máti",
+   "rel": "parallel"
+  }
+ ]
+}

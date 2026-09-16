@@ -1,0 +1,95 @@
+{
+ "schema": 1,
+ "id": "jewish-practical-kabbalah",
+ "type": "tradition",
+ "names": {
+  "name": "Practical Kabbalah",
+  "native": "קַבָּלָה מַעֲשִׂית",
+  "script": "Hebrew",
+  "lang": "he",
+  "said": "Kabbalah Ma'asit",
+  "aliases": ["Kabbalah Ma'asit", "Jewish amulet craft", "kameot"]
+ },
+ "etymology": {
+  "root": "Hebrew qabbalah, 'that which is received', plus ma'asit, 'practical, of deeds' — the branch defined by doing rather than by contemplating",
+  "note": "Its opposite number inside the same word is Kabbalah Iyunit, contemplative Kabbalah, which studies the nature of God and existence and makes nothing.",
+  "tier": "cited",
+  "source": "s:wp-practical-kabbalah"
+ },
+ "region": ["levant", "western-europe", "baltic-slavic", "iberia", "maghreb", "mesopotamia", "diaspora"],
+ "countries": ["IL", "PS", "DE", "PL", "UA", "ES", "IT", "MA", "IQ", "IR", "GB", "US"],
+ "facets": {"era": "medieval", "status": "contested", "restricted": "closed", "language": "Hebrew", "hemisphere": ["N", "E", "W"]},
+ "text": {
+  "what": "The branch of Jewish mysticism that makes things: amulets and incantations built from divine and angelic names, written on parchment or cut into silver, and carried, hung or worn. Its material output is small and its literature is mostly unpublished, because the tradition's own authorities spent six centuries telling it not to exist. This record prints that argument. It prints no name-formula, no seal and no square, because the tradition itself restricts them.",
+  "story": "Begin with what it is not. Halakha forbids divination and soothsaying, and the Talmud lists condemned divining practices at a frequency that historians read as evidence of how common they were. What became practical Kabbalah is, in Gershom Scholem's account, not an outgrowth of the speculative Kabbalah at all: historically a large part of its content predates the speculative branch and does not depend on it, being an agglomeration of the magical practices that developed in Judaism from Talmudic times through the Middle Ages, in which the doctrine of the Sefirot hardly ever played a decisive role. Amulet-making using the esoteric names of angels dates from Talmudic times.\n\nThe split is dated. By the beginning of the 14th century the mystical and the magical had been separated into Kabbalah Iyyunit and Kabbalah Ma'asit, and the great majority of Kabbalistic writing thereafter belongs to the contemplative branch; most of the practical branch's writings stayed unpublished. Abraham Abulafia condemned it outright. A practical tradition flourished in Spain in the second half of the 15th century around a text called Sepher ha-Mashiv, whose practitioners Moshe Idel describes as interested in demonology and in coercive incantations to summon demons, angels and even God, in order to hasten the Messianic Age; Joseph Della Reina's failure at that, with his students, was held up by later Kabbalists as a warning.\n\nThen the prohibition that matters most. In 16th-century Safed, Isaac Luria opposed Kabbalah Ma'asit and forbade his students to write amulets, developing instead a form of exorcism that moved the techniques from the practical side to the speculative. His reasoning was purity: without the Temple and the ashes of the Red Heifer to purify with, pursuit of the practical realm by a person with an impure body is very detrimental. Because Luria is the central teacher of modern Kabbalah and the foundation of later Hasidism, that is not an opinion in a dispute — it is the position with authority behind it. The medieval Rabbi Yaakov ben Moshe Levi Moelin had already put a different objection: the person using a formula may lack the grounding, and the rite would then do nothing.\n\nIt continued anyway, at the border, and the people who continued it are named. The Baal Shem healers worked between the practical and the meditative, amulets included: Elijah Ba'al Shem of Chelm (1550–1583), the Baal Shem of London (1708–1782). Yisrael Baal Shem Tov (1698–1760) began as one, used amulets, and by the end of his life wrote only his own name on them — Yisrael ben Sara, Yisrael ben Eliezer — and no names of God. The Vilna Gaon recorded that he had attempted a golem in his youth and stopped when he perceived an impurity in it. In the 1750s Jacob Emden accused Jonathan Eybeschütz of being a secret Sabbatean, chiefly on his reading of amulets Eybeschütz had written; an amulet was the evidence in a dispute that split European Jewry. Rabbi Hirsch Fraenkel was sentenced to prison in Germany in 1713 for owning a library said to hold oaths and amulets for overcoming demons, seeing the future and speaking to the dead.\n\nAnd there is a permission inside the prohibition, which is why the tradition never quite closed. The Talmud mentions charms used for healing, and a wide range of magical cures were sanctioned by rabbis; the ruling that any practice actually producing a cure was not to be dismissed opened the door that segullot — folk remedies — have walked through in Jewish communities across time and geography ever since.\n\n*Inference —* two things follow for an atlas. First, this is the only tradition here whose own central teacher forbade its objects and whose objects went on being made; that is worth stating flatly rather than resolving. Second, a tradition whose writings mostly stayed unpublished cannot be described from its writings, so this record describes its argument, its people and its dates, and leaves the contents of the amulets where its authorities left them.",
+  "how": "Structure only. A name — divine, angelic, or a combination worked from letters — is written by a person the client trusts, on parchment prepared to the standards Jewish law sets for sacred writing, or cut into silver, and then enclosed and worn or hung. Who may write one is exactly the contested question above: the elite, under conditions the tradition calls holy and pure, in one account; nobody, in Luria's. Hasidism displaced the whole apparatus with a different mechanism — the tzaddik altering the divine will through deveikut, cleaving to God — which Dov Ber of Mezeritch was at pains to distinguish from a magical process, though some Hasidic leaders kept using traditional amulets at the border.",
+  "today": "Two distinct presents, and they should not be run together. One is the continuing use of segullot and of written amulets in Jewish communities, unbroken and largely private. The other is the retail red string, popularly attached to Kabbalah and sold to pilgrims and tourists in the Old City of Jerusalem and, from the late 1990s, to celebrities outside Israel — a wave usually linked to Philip Berg's Kabbalah Centre. The Torah, Halacha and the Kabbalistic texts contain no requirement to tie one, and Michael Laitman's published position is that practical Kabbalah has no use for red strings. Both facts belong in the same paragraph; neither is this atlas's verdict."
+ },
+ "restricted": {
+  "note": "This tradition restricts its own material and the atlas stops where it stops. Practical Kabbalah was held to be permitted only to an elite, and only under conditions the tradition calls holy and pure; most Kabbalists have taught that its use is forbidden; Isaac Luria forbade his students to write amulets at all. So this record prints no divine-name formula, no angelic name-combination, no seal and no square — not the wording, not a worked example, not a reconstruction from scattered sources. Maimonides' objection, written about the mezuzah and quoted on that record, is the tradition's own statement of what is at stake: writing names, verses or forms inside a sacred object turns a commandment into a talisman for the owner's benefit.",
+  "who_says": "the tradition itself as reported in the cited account — practical Kabbalah reserved for an elite, most Kabbalists teaching that its use is forbidden, and Isaac Luria's prohibition on his students writing amulets, which carries authoritative force because he is the central teacher of modern Kabbalah",
+  "source": "s:wp-practical-kabbalah"
+ },
+ "dating": {
+  "period": "Talmudic to the present",
+  "from_year": 200,
+  "to_year": null,
+  "living": true,
+  "label": "amulet-making from Talmudic times; named as a branch by the 14th century; still argued about",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-practical-kabbalah",
+  "note": "The cited account dates amulet-making with esoteric angelic names to Talmudic times and does not put a year on it; 200 CE is this project's conventional marker for that period and is circa. The separation of practical from contemplative Kabbalah is dated firmly, to the beginning of the 14th century. The bulk physical evidence for the ancestor practice is earlier and sits on the incantation-bowl record."
+ },
+ "object": {
+  "form": "plaque",
+  "materials": ["parchment", "silver", "ink", "paper", "thread"],
+  "worn": ["neck", "door", "wall", "pocket", "wrist"],
+  "made_by": "contested, and that is the record. The tradition describes it as reserved for an elite working in a state of ritual purity; most Kabbalists have taught that its use is forbidden; Isaac Luria forbade his students to write amulets at all. The Baalei Shem wrote them anyway.",
+  "script": "Hebrew",
+  "single_use": false,
+  "source": "s:wp-practical-kabbalah",
+  "note": "No inscription is given here. The contents of these objects are the restricted part and appear nowhere in this record."
+ },
+ "against": [
+  {"harm": "demons", "who": "the practice as recorded in the German case of 1713 — Rabbi Hirsch Fraenkel was imprisoned for a library said to contain oaths and amulets for overcoming demons, seeing the future and speaking to the dead", "source": "s:wp-practical-kabbalah", "tier": "cited"},
+  {"harm": "illness", "who": "the Talmud, which mentions charms used for healing, and the rabbis who sanctioned a wide range of magical cures; segullot, folk remedies, have been widely used in Jewish communities since", "source": "s:wp-practical-kabbalah", "tier": "cited"},
+  {"harm": "evil-eye", "who": "Jewish folk custom, which is where the red string sits: a thin scarlet thread worn at the wrist against harm brought by the evil eye, ayin hara", "source": "s:wp-red-string-kabbalah", "tier": "cited"},
+  {"harm": "spirits", "who": "the Hekhalot literature, in which the angels guarding each heavenly level are bound by formulae and seals — the technique the Talmud and Midrash call using the Divine Name", "source": "s:wp-practical-kabbalah", "tier": "cited"}
+ ],
+ "kin": [
+  {"to": "kamea", "as": "the whole material output of this tradition — the written amulet itself, and the object Emden read Eybeschütz's Sabbateanism out of", "rel": "carries"},
+  {"to": "divine-name", "as": "the technique this tradition is built on and then restricts: divine and angelic names used for amulets and incantations", "rel": "motif"},
+  {"to": "incantation-bowl", "as": "the late antique ancestor, and the only part of this practice that survives in bulk — Aramaic bowls written centuries before anyone used the name Kabbalah", "rel": "origin"},
+  {"to": "ketef-hinnom-scrolls", "as": "the oldest object in the family: silver strips carrying the Priestly Blessing, written to be worn a thousand years before the tradition had a name", "rel": "origin"},
+  {"to": "mezuzah", "as": "the object Maimonides used to state the boundary — a commandment stops being one when it is turned into a talisman for the owner's benefit", "rel": "contrast"},
+  {"to": "red-string", "as": "the charm sold under this tradition's name that its own teachers say it has no use for, and for which no text anywhere sets a requirement", "rel": "contrast"},
+  {"to": "parchment", "as": "the material this tradition legislates and accepts no substitute for", "rel": "material"},
+  {"to": "silver", "as": "the other page: metal thin enough to write on and durable enough that the oldest example survives", "rel": "material"},
+  {"to": "islamic-talismanic", "as": "the neighbouring tradition in the same region, working the same divine-name technique on the same materials and having almost the same internal argument about whether it is allowed", "rel": "parallel"},
+  {"to": "ethiopian-scroll-craft", "as": "the other scriptural tradition here that writes holy names to be carried, and argues about where the line falls", "rel": "parallel"},
+  {"to": "joseph-naveh", "as": "one of the two editors who made the Aramaic evidence for the ancestor practice readable", "rel": "person"},
+  {"to": "shaul-shaked", "as": "the other, and the scholar who traced how the same formulas cross between this tradition and its neighbours", "rel": "person"}
+ ],
+ "links": [
+  {"label": "Practical Kabbalah — Wikipedia", "url": "https://en.wikipedia.org/wiki/Practical_Kabbalah"},
+  {"label": "Red string (Kabbalah) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Red_string_(Kabbalah)"}
+ ],
+ "sources": ["s:wp-practical-kabbalah", "s:wp-kabbalah", "s:wp-red-string-kabbalah", "s:wp-mezuzah", "s:wp-tefillin", "s:wp-incantation-bowl", "s:wp-ketef-hinnom", "s:wp-hamsa", "s:wp-magic-square", "s:wp-seal-of-solomon", "s:wp-phylactery"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-practical-kabbalah"},
+  "fields": {
+   "dating": {"tier": "cited", "source": "s:wp-practical-kabbalah", "note": "the 14th-century split is cited firmly; the Talmudic start year is a convention this project applied to an undated statement, and the note says so"},
+   "text.story": {"tier": "cited", "source": "s:wp-practical-kabbalah", "note": "the closing paragraph is marked as this project's inference where it appears"},
+   "text.how": {"tier": "tradition", "note": "structure only. The contents of these amulets are restricted and are not printed anywhere in this record."},
+   "restricted": {"tier": "cited", "source": "s:wp-practical-kabbalah"},
+   "countries": {"tier": "inference", "note": "the countries are where the named figures and texts in the story worked — Safed, Chelm, Posnan, Prague, London, Spain before 1492, Vilna — plus Israel and the United States for the modern red-string trade. It is a map of the citations, not a census of the practice."}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Kabbalistic amulet silver.jpg"],
+ "confidence": "high",
+ "needs_verification": true,
+ "updated": "2026-09-17"
+}

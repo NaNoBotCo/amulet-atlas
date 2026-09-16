@@ -1,0 +1,274 @@
+{
+ "schema": 1,
+ "id": "merkato-addis",
+ "type": "place",
+ "names": {
+  "name": "Merkato",
+  "native": "መርካቶ",
+  "script": "Ge'ez",
+  "lang": "am",
+  "said": "mer-KA-to, from the Italian for market",
+  "aliases": [
+   "Addis Mercato",
+   "Addis Merkato"
+  ]
+ },
+ "region": [
+  "east-africa"
+ ],
+ "countries": [
+  "ET"
+ ],
+ "facets": {
+  "kind": "market",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "An open-air market covering several square miles of the Addis Ketema district of Addis Ababa, and the name of the neighbourhood it fills. An estimated 13,000 people work in about 7,100 business entities. Most of it is wholesale, sorted into sections the traders call terras: coffee, spices, scrap metal, furniture, electronics. Coffee is the main good passing through.",
+  "story": "The market is a product of occupation policy. Addis Ababa's older market stood near St George's Church, where the City Hall is now; the Italian occupiers of the 1930s moved it west, to land around the premises of Fitawrari Habte Giyorgis Dinagde, and kept the old site — renamed Piazza, with European-style shop windows — for Europeans. The Arab traders of Piazza moved half a mile west after them; local shopkeepers displaced those traders in turn, and since the 1960s Merkato has been a mostly local market. It grew without a plan.\n\nThis record has to state a gap rather than fill it. The Ethiopian protective object in this atlas is the talismanic scroll — the ketab, written in Ge'ez on hide — and it is not a market good. A scroll is commissioned by the patient from a dabtara, an unordained figure in the Ethiopian Orthodox Church, who cuts it to the patient's own measure: to the height of the body for head-to-toe protection, longer to hang on a wall. The making includes a sacrifice of the animal whose hide is used, standing for the person the scroll is for. Activation needs a third party literate in Ge'ez to read it aloud.\n\n*Inference —* that is why a market this size is thin in this atlas. A commissioned object made to a body's measurements does not have a stall. This project searched for a published source placing the scroll trade inside Merkato and found none it could cite; the record says so instead of inventing an aisle.",
+  "today": "Trading, as Africa's largest open-air market. It is not primarily a tourist market: most sections are wholesale. No day is marked open or closed below."
+ },
+ "dating": {
+  "period": "Italian occupation to the present",
+  "from_year": 1936,
+  "to_year": null,
+  "living": true,
+  "label": "c. 1930s to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-addis-mercato",
+  "note": "Founded when the Italian occupation government moved the city's market west; the article dates that to the 1930s without a single day, so from_year is approximate."
+ },
+ "geo": {
+  "lat": 9.030556,
+  "lon": 38.738889,
+  "precision": "town",
+  "source": "Wikidata item Q2920069 (Addis Mercato), coordinate location P625, queried 2026-09-16; the market covers several square miles, so the point is the quarter"
+ },
+ "address": {
+  "street": "Addis Ketema",
+  "city": "Addis Ababa",
+  "country": "ET"
+ },
+ "kin": [
+  {
+   "to": "ethiopian-magic-scroll",
+   "as": "the Ethiopian protective object this atlas expects near a market this size and cannot source at this address — it is commissioned, not sold",
+   "rel": "carries"
+  },
+  {
+   "to": "ethiopian-scroll-craft",
+   "as": "the tradition behind that scroll: a dabtara, a hide, and a text in Ge'ez cut to one person's height",
+   "rel": "tradition"
+  },
+  {
+   "to": "coptic-cross-tattoo",
+   "as": "the other Ethiopian and Coptic mark in this atlas, worn on the body rather than carried",
+   "rel": "kin"
+  },
+  {
+   "to": "parchment",
+   "as": "the material the scroll is written on, and the reason its making starts with an animal",
+   "rel": "material"
+  },
+  {
+   "to": "buying-in-a-market",
+   "as": "the practice this record is filed under, and the one the Ethiopian scroll does not use",
+   "rel": "contrast"
+  }
+ ],
+ "tags": [
+  {
+   "tag": "market",
+   "source": "s:wp-addis-mercato",
+   "tier": "cited",
+   "note": "the largest open-air market in Africa; an estimated 13,000 people in about 7,100 business entities"
+  }
+ ],
+ "links": [
+  {
+   "label": "Addis Mercato — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Addis_Mercato"
+  },
+  {
+   "label": "Ethiopian talismanic scrolls — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ethiopian_talismanic_scrolls"
+  }
+ ],
+ "sources": [
+  "s:wp-addis-mercato",
+  "s:wp-ethiopian-talismanic-scrolls"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-addis-mercato"
+  },
+  "fields": {
+   "geo": {
+    "tier": "harvested",
+    "note": "Wikidata P625 for Merkato, queried 2026-09-16; the market is a quarter, so precision is town"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-ethiopian-talismanic-scrolls",
+    "note": "the absence of a source tying the scroll trade to this market is this project's finding and is marked as inference where it appears"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Merkato Addis Ababa.jpg"
+ ],
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "An open-air market covering several square miles of the Addis Ketema district of Addis Ababa, and the name of the neighbourhood it fills. An estimated 13,000 people work in about 7,100 business entities.",
+ "region_terms": [
+  {
+   "key": "east-africa",
+   "name": "East Africa and the Horn",
+   "hemi": [
+    "N",
+    "S",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S"
+ ],
+ "kin_out": [
+  {
+   "to": "ethiopian-magic-scroll",
+   "type": "amulet",
+   "name": "Ethiopian talismanic scroll",
+   "as": "the Ethiopian protective object this atlas expects near a market this size and cannot source at this address — it is commissioned, not sold",
+   "rel": "carries"
+  },
+  {
+   "to": "ethiopian-scroll-craft",
+   "type": "tradition",
+   "name": "Ethiopian scroll craft",
+   "as": "the tradition behind that scroll: a dabtara, a hide, and a text in Ge'ez cut to one person's height",
+   "rel": "tradition"
+  },
+  {
+   "to": "coptic-cross-tattoo",
+   "type": "amulet",
+   "name": "Coptic cross tattoo",
+   "as": "the other Ethiopian and Coptic mark in this atlas, worn on the body rather than carried",
+   "rel": "kin"
+  },
+  {
+   "to": "parchment",
+   "type": "material",
+   "name": "Parchment",
+   "as": "the material the scroll is written on, and the reason its making starts with an animal",
+   "rel": "material"
+  },
+  {
+   "to": "buying-in-a-market",
+   "type": "practice",
+   "name": "Buying one in a market",
+   "as": "the practice this record is filed under, and the one the Ethiopian scroll does not use",
+   "rel": "contrast"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-addis-mercato",
+   "kind": "encyclopedia",
+   "title": "Addis Mercato",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Addis_Mercato",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ethiopian-talismanic-scrolls",
+   "kind": "encyclopedia",
+   "title": "Ethiopian talismanic scrolls",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ethiopian_talismanic_scrolls",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-addis-mercato"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-ethiopian-talismanic-scrolls",
+   "note": "the absence of a source tying the scroll trade to this market is this project's finding and is marked as inference where it appears"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-addis-mercato"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-addis-mercato"
+  },
+  "geo": {
+   "tier": "harvested",
+   "note": "Wikidata P625 for Merkato, queried 2026-09-16; the market is a quarter, so precision is town"
+  },
+  "address": {
+   "tier": "cited",
+   "source": "s:wp-addis-mercato"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [
+  {
+   "key": "market",
+   "label": "A market you can walk",
+   "group": "trade",
+   "evidence": "a dated guide, a municipal listing",
+   "source": "s:wp-addis-mercato",
+   "note": "the largest open-air market in Africa; an estimated 13,000 people in about 7,100 business entities",
+   "tier": "cited",
+   "url": ""
+  }
+ ],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1936 CE to now",
+ "country_names": [
+  {
+   "iso": "ET",
+   "name": "Ethiopia"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "ethiopian-magic-scroll",
+   "type": "amulet",
+   "name": "Ethiopian talismanic scroll",
+   "as": "the market in Addis Ababa where scrolls and church goods are traded",
+   "rel": "place"
+  },
+  {
+   "from": "ethiopian-scroll-craft",
+   "type": "tradition",
+   "name": "Ethiopian scroll craft",
+   "as": "the Addis Ababa market where church goods and scrolls change hands",
+   "rel": "place"
+  }
+ ]
+}

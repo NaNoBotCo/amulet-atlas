@@ -1,0 +1,79 @@
+{
+ "schema": 1,
+ "id": "nazar",
+ "type": "amulet",
+ "names": {
+  "name": "Nazar",
+  "native": "نَظَر",
+  "script": "Arabic",
+  "lang": "ar",
+  "said": "na-ZAR, Arabic for 'sight', 'surveillance', 'attention'",
+  "aliases": ["nazar boncuğu", "göz boncuğu", "eye bead", "máti", "cheshm nazar", "nazar qurbani"]
+ },
+ "etymology": {
+  "root": "Arabic naẓar, 'sight' or 'looking' — the same word for the look that does the harm and for the bead that answers it; Turkish nazar boncuğu adds boncuk, Turkic for 'bead'",
+  "note": "The word travels: Albanian, Azerbaijani, Bengali, Hebrew, Hindi–Urdu, Kurdish, Pashto, Persian, Punjabi, Sindhi and Turkish all use it. Greek calls the object máti, 'eye'. In India and Pakistan the phrase nazar lag gai says somebody has been hit by it.",
+  "tier": "cited",
+  "source": "s:wp-nazar-amulet"
+ },
+ "region": ["anatolia", "greece-aegean", "iran-persia", "south-asia", "balkans", "caucasus"],
+ "countries": ["TR", "GR", "IR", "AF", "IN", "PK", "BD", "AL", "AZ", "IL"],
+ "facets": {"era": "living", "status": "living", "portable": "worn", "restricted": "open", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A handmade glass bead: concentric circles, or a teardrop, in dark blue, white, light blue and black, sometimes rimmed in yellow or gold. The Turkish boncuk is blue glass with a blue, white and black dot set on a white or yellow centre. It hangs at a neck, on a wrist, over a door, from a mirror, above a till, on a cradle.",
+  "story": "The bead is older than any of the countries that sell it. Glass eye beads are documented and extant from as early as the 16th century BCE, and the design spread with glassmaking itself — Mesopotamia to Egypt, Carthage to Greece, Phoenicia to Persia, and right through the Roman imperial period.\n\nThe explanations people give for the colour are specific. \"According to Turkish belief, blue acts as a shield against evil and even absorbs negativity.\" And the materials are part of the claim, not just the manufacture: \"The bead is made of a mixture of molten glass, iron, copper, water, and salt, ingredients that are thought to shield people from evil.\" A second explanation in the cited account runs the other way round — in the Middle East and the Mediterranean, blue eyes are relatively rare, so people with light eyes were held able to curse with a look, and the Assyrians already had turquoise and blue-eye amulets.\n\nThe bead also has a rule for its own death. If one breaks, a very strong nazar has hit the wearer, and the bead stored it all up and broke in order to protect them. That is the only retirement instruction in this batch that the object gives itself.",
+  "today": "Mass-produced and sold everywhere: the Grand Bazaar in Istanbul, Monastiraki in Athens, airport shops, phone cases. A Turkish budget airline, Fly Air, carried the nazar boncuğu on the tail fins of its aircraft. The bead was added to Unicode as U+1F9FF 🧿 NAZAR AMULET in 2018, which makes it one of the very few amulets in this atlas that a reader can send in a message. Whether a factory bead is the same object as a lampworked one is argued by sellers and buyers alike; this atlas reports the argument and describes both the same way."
+ },
+ "dating": {
+  "period": "Late Bronze Age to the present",
+  "from_year": -1599,
+  "to_year": null,
+  "living": true,
+  "label": "glass eye beads from as early as the 16th century BCE; still made and worn",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-nazar-amulet",
+  "note": "Dated from the cited article's statement that written documentation and extant beads date from as early as the 16th century BCE."
+ },
+ "object": {
+  "form": "bead",
+  "materials": ["glass", "iron", "copper", "salt"],
+  "worn": ["neck", "wrist", "door", "vehicle", "shop", "cradle", "phone"],
+  "made_by": "glassmakers; the cited account describes the bead as handmade, and the modern market is largely factory-made",
+  "colour": ["dark blue", "light blue", "white", "black", "yellow"],
+  "single_use": false,
+  "source": "s:wp-nazar-amulet",
+  "note": "Iron, copper, water and salt are named in the cited account as ingredients of the glass mixture and as part of what the bead is held to work by. No published measurement was read."
+ },
+ "against": [
+  {"harm": "evil-eye", "who": "carriers across Turkey, Greece, Iran, Afghanistan and South Asia", "quote": "According to Turkish belief, blue acts as a shield against evil and even absorbs negativity.", "source": "s:wp-nazar-amulet", "tier": "cited"},
+  {"harm": "envy", "who": "the same users; the Hindi-Urdu slogan chashm-e-baddoor asks that the eye keep away", "source": "s:wp-nazar-amulet", "tier": "cited"},
+  {"harm": "bad-luck", "who": "the mythology of the bead itself: if one breaks, it took the whole hit and broke to protect the wearer", "source": "s:wp-nazar-amulet", "tier": "cited"}
+ ],
+ "kin": [
+  {"to": "eye", "as": "the sign, in the form most of the world now buys it in", "rel": "motif"},
+  {"to": "wedjat-eye", "as": "the same argument four thousand years earlier, drawn in faience instead of blown in glass", "rel": "parallel"},
+  {"to": "hamsa", "as": "the hand this bead is usually set into, and sold beside", "rel": "kin"},
+  {"to": "glass", "as": "the material that turned a sign into something a market could sell by the tray", "rel": "material"},
+  {"to": "grand-bazaar", "as": "the market that sells more of these than anywhere else", "rel": "place"},
+  {"to": "monastiraki", "as": "the Athens equivalent, where the same bead is called máti", "rel": "place"},
+  {"to": "evil-eye-bracelet", "as": "what it becomes on a modern wrist, and the version the argument about factories is actually about", "rel": "descendant"},
+  {"to": "nazar-word", "as": "the word — sight, the look, and the bead, all one noun", "rel": "same-word"},
+  {"to": "gorgoneion", "as": "the Greek ancestor in the same soil: a frightening face doing by terror what the bead does by looking back", "rel": "parallel"},
+  {"to": "the-eye-everywhere", "as": "the long read this bead is the cover of", "rel": "story"},
+  {"to": "the-charm-goes-digital", "as": "the long read about charms on screens; this one has its own Unicode code point", "rel": "story"}
+ ],
+ "links": [{"label": "Nazar (amulet) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Nazar_(amulet)"}],
+ "sources": ["s:wp-nazar-amulet", "s:wp-evil-eye", "s:wp-hamsa", "s:wp-apotropaic-magic", "s:wp-grand-bazaar-istanbul"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-nazar-amulet"},
+  "fields": {
+   "countries": {"tier": "cited", "source": "s:wp-nazar-amulet", "note": "read off the list of languages that use the word, plus Turkey and Greece which the article names directly"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Nazar boncugu.jpg", "File:Turkish evil eye beads.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

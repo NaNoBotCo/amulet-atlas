@@ -1,0 +1,568 @@
+{
+ "schema": 1,
+ "id": "talismanic-shirt",
+ "type": "amulet",
+ "names": {
+  "name": "Talismanic shirt",
+  "native": "پیراهن طلسمات",
+  "script": "Arabic",
+  "lang": "fa",
+  "said": "pirâhan telesmat (Persian); tılsımlı gömlek (Turkish)",
+  "aliases": [
+   "talisman shirt",
+   "tılsımlı gömlek",
+   "pirâhan telesmat",
+   "talismanic tunic"
+  ]
+ },
+ "region": [
+  "anatolia",
+  "iran-persia",
+  "south-asia",
+  "west-africa",
+  "caucasus"
+ ],
+ "countries": [
+  "TR",
+  "IR",
+  "IN",
+  "RU"
+ ],
+ "facets": {
+  "era": "early-modern",
+  "status": "archaeological",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A shirt covered in writing. Verses from the Qur'an, the names of God, the names of prophets, or numbers, laid across the cloth in blocks and grids and roundels, sometimes with astrological images or magic squares among them. Four types are distinguished by style and by which symbols they use: Ottoman, Safavid, Mughal and West African.",
+  "story": "The shirt has a scriptural warrant, and it is a specific one. In Surah Yusuf, Joseph's shirt protects him and works miracles; he sends it to cure his father's blindness. \"Go with this my shirt, and cast it over the face of my father: he will come to see\" — Qur'an 12:93. A shirt that heals by being put on a body is the model, and the shirts follow it.\n\nMost of them, though, are for battle. The Ottoman ruler Suleiman the Magnificent was given one by his wife Hürrem Sultan, who told him its inscriptions would protect him from bullets. His shirt is in the Topkapı Palace Museum, along with one made for Sultan Cem in 1480, while Cem was still a şehzade — unusual in that the beginning and the end of its manufacture are both inscribed on it, which makes it one of the few objects in this atlas that dates itself.\n\nThe earliest surviving shirts were made in or near the fifteenth century; one in the Turkish and Islamic Arts Museum in Istanbul is dated to the end of the fourteenth or the beginning of the fifteenth. The cited account adds that the tradition might be much older, and does not say how much. Two of the Khalili Collection's four shirts, from seventeenth-century Turkey and sixteenth- or seventeenth-century Mughal India, are covered with the holy sites of Mecca and Medina alongside prayers and Qur'anic extracts; the Turkish one is unusual for depicting the sites realistically rather than schematically. The latest named example belonged to Jembulat Boletoqo, Chemguy Grand Prince of Circassia from 1827 to 1836, and is displayed at the National Museum of the Republic of Adygea.\n\n*Inference —* every other written charm in this batch is small enough to hide. This one is a garment, which means it is either worn under armour where nobody sees it or worn where everybody does. The atlas has read no account of which, and says so."
+ },
+ "dating": {
+  "period": "Ottoman, Safavid and Mughal",
+  "from_year": 1375,
+  "to_year": 1899,
+  "living": false,
+  "label": "late 14th century to the 19th; the tradition may be older",
+  "method": "dated-object",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-talismanic-shirt",
+  "note": "Floor from the shirt in the Turkish and Islamic Arts Museum dated end of the 14th to beginning of the 15th century; ceiling from the Circassian shirt of Jembulat Boletoqo (1827–1836) and the Khalili Collection's 18th/19th-century Indian shirt. The cited account says the tradition might be much older than the earliest survivals and gives no figure. Living is set false because this project read no account of the shirts still being made."
+ },
+ "object": {
+  "form": "garment",
+  "materials": [
+   "cloth",
+   "ink"
+  ],
+  "worn": [
+   "chest"
+  ],
+  "made_by": "commissioned; Sultan Cem's shirt records the start and end dates of its own making, and Suleiman's was commissioned by his wife",
+  "inscription": "Qur'anic verses, the names of Allah, the names of prophets, numbers, and on some shirts the holy sites of Mecca and Medina",
+  "script": "Arabic",
+  "single_use": false,
+  "source": "s:wp-talismanic-shirt",
+  "note": "Worn is given as chest because the vocabulary has no key for a whole garment; the shirt goes on the body. No published measurement was read."
+ },
+ "against": [
+  {
+   "harm": "weapons",
+   "who": "Hürrem Sultan, who gave Suleiman the Magnificent a talismanic shirt and told him its inscriptions would protect him from bullets",
+   "source": "s:wp-talismanic-shirt",
+   "tier": "cited"
+  },
+  {
+   "harm": "war",
+   "who": "the cited account, which finds that although the shirts could be worn against many evils, most seem intended as a shield in battle",
+   "source": "s:wp-talismanic-shirt",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "Surah Yusuf, in which the prophet Joseph's shirt cures his father's blindness",
+   "quote": "Go with this my shirt, and cast it over the face of my father: he will come to see",
+   "source": "s:wp-talismanic-shirt",
+   "tier": "cited",
+   "note": "Qur'an 12:93, quoted in the cited article as the tradition's own model for the object"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "the inscribed names themselves, which the tradition holds capable of offering protection and guidance to the carrier",
+   "source": "s:wp-talismanic-shirt",
+   "tier": "cited"
+  }
+ ],
+ "holdings": [
+  {
+   "museum": "met",
+   "what": "a talismanic shirt from northern India or the Deccan, 15th–early 16th century",
+   "source": "s:wp-talismanic-shirt",
+   "note": "the cited article gives an accession number; this project read no catalogue page, so none is printed here"
+  },
+  {
+   "museum": "other",
+   "what": "Topkapı Palace Museum, Istanbul — the shirt made for Sultan Cem in 1480 and the shirt commissioned for Suleiman the Magnificent; the Turkish and Islamic Arts Museum, Istanbul — a shirt from Bursa, end of the 14th to beginning of the 15th century; the Khalili Collections — four shirts; the National Museum of the Republic of Adygea — the shirt of Jembulat Boletoqo",
+   "source": "s:wp-talismanic-shirt"
+  }
+ ],
+ "kin": [
+  {
+   "to": "islamic-talismanic",
+   "as": "the tradition, in its most expensive and most royal form",
+   "rel": "tradition"
+  },
+  {
+   "to": "taweez",
+   "as": "the same writing folded into a packet instead of spread across a body",
+   "rel": "kin"
+  },
+  {
+   "to": "quran-pendant",
+   "as": "the same verses in a case at the throat",
+   "rel": "kin"
+  },
+  {
+   "to": "magic-square",
+   "as": "the wafq that appears among the inscriptions, and the reason numbers sit beside scripture on these shirts",
+   "rel": "motif"
+  },
+  {
+   "to": "senninbari",
+   "as": "Japan's thousand-stitch belt: another textile a soldier wore into battle, made by somebody else's hands for him",
+   "rel": "parallel"
+  },
+  {
+   "to": "tefillin",
+   "as": "scripture bound to the body under a law that refuses to call it an amulet — the contrast this record is sharpest against",
+   "rel": "contrast"
+  },
+  {
+   "to": "cloth",
+   "as": "the material, and the one that turns a text into a thing you can put on",
+   "rel": "material"
+  },
+  {
+   "to": "divine-name",
+   "as": "the sign doing the work: the names of God, of prophets, and of the angels",
+   "rel": "motif"
+  },
+  {
+   "to": "sak-yant",
+   "as": "the Southeast Asian answer to the same problem — script worn against blades, cut into skin instead of onto cotton",
+   "rel": "parallel"
+  }
+ ],
+ "links": [
+  {
+   "label": "Talismanic shirt — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Talismanic_shirt"
+  }
+ ],
+ "sources": [
+  "s:wp-talismanic-shirt",
+  "s:wp-islam-and-magic",
+  "s:wp-amulet",
+  "s:wp-magic-square"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-talismanic-shirt"
+  },
+  "fields": {
+   "holdings": {
+    "tier": "cited",
+    "source": "s:wp-talismanic-shirt",
+    "note": "accession numbers are published in the cited article but no catalogue page was read, so none are reproduced"
+   },
+   "countries": {
+    "tier": "inference",
+    "note": "Turkey, Iran, India and Russia stand for the Ottoman, Safavid, Mughal and Circassian examples the article names; the West African type is named without a country and so is not mapped"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Talismanic shirt MET.jpg",
+  "File:Tilsimli gomlek Topkapi.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A shirt covered in writing. Verses from the Qur'an, the names of God, the names of prophets, or numbers, laid across the cloth in blocks and grids and roundels, sometimes with astrological images or magic squares among…",
+ "region_terms": [
+  {
+   "key": "anatolia",
+   "name": "Anatolia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "iran-persia",
+   "name": "Iran",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "west-africa",
+   "name": "West Africa",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "caucasus",
+   "name": "The Caucasus",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "islamic-talismanic",
+   "type": "tradition",
+   "name": "Islamic talismanic craft",
+   "as": "the tradition, in its most expensive and most royal form",
+   "rel": "tradition"
+  },
+  {
+   "to": "taweez",
+   "type": "amulet",
+   "name": "Ta'wiz",
+   "as": "the same writing folded into a packet instead of spread across a body",
+   "rel": "kin"
+  },
+  {
+   "to": "quran-pendant",
+   "type": "amulet",
+   "name": "Qur'an pendant",
+   "as": "the same verses in a case at the throat",
+   "rel": "kin"
+  },
+  {
+   "to": "magic-square",
+   "type": "motif",
+   "name": "The number square",
+   "as": "the wafq that appears among the inscriptions, and the reason numbers sit beside scripture on these shirts",
+   "rel": "motif"
+  },
+  {
+   "to": "senninbari",
+   "type": "amulet",
+   "name": "Senninbari",
+   "as": "Japan's thousand-stitch belt: another textile a soldier wore into battle, made by somebody else's hands for him",
+   "rel": "parallel"
+  },
+  {
+   "to": "tefillin",
+   "type": "amulet",
+   "name": "Tefillin",
+   "as": "scripture bound to the body under a law that refuses to call it an amulet — the contrast this record is sharpest against",
+   "rel": "contrast"
+  },
+  {
+   "to": "cloth",
+   "type": "material",
+   "name": "Cloth",
+   "as": "the material, and the one that turns a text into a thing you can put on",
+   "rel": "material"
+  },
+  {
+   "to": "divine-name",
+   "type": "motif",
+   "name": "The name",
+   "as": "the sign doing the work: the names of God, of prophets, and of the angels",
+   "rel": "motif"
+  },
+  {
+   "to": "sak-yant",
+   "type": "amulet",
+   "name": "Sak yant",
+   "as": "the Southeast Asian answer to the same problem — script worn against blades, cut into skin instead of onto cotton",
+   "rel": "parallel"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-talismanic-shirt",
+   "kind": "encyclopedia",
+   "title": "Talismanic shirt",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Talismanic_shirt",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-islam-and-magic",
+   "kind": "encyclopedia",
+   "title": "Islam and magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Islam_and_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-amulet",
+   "kind": "encyclopedia",
+   "title": "Amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-magic-square",
+   "kind": "encyclopedia",
+   "title": "Magic square",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Magic_square",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-talismanic-shirt"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-talismanic-shirt"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-talismanic-shirt"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-talismanic-shirt"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "weapons",
+   "label": "Blades and bullets",
+   "gloss": "invulnerability charms; reported, never recommended",
+   "who": "Hürrem Sultan, who gave Suleiman the Magnificent a talismanic shirt and told him its inscriptions would protect him from bullets",
+   "quote": "",
+   "source": "s:wp-talismanic-shirt",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "war",
+   "label": "War",
+   "who": "the cited account, which finds that although the shirts could be worn against many evils, most seem intended as a shield in battle",
+   "quote": "",
+   "source": "s:wp-talismanic-shirt",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "Surah Yusuf, in which the prophet Joseph's shirt cures his father's blindness",
+   "quote": "Go with this my shirt, and cast it over the face of my father: he will come to see",
+   "source": "s:wp-talismanic-shirt",
+   "tier": "cited",
+   "note": "Qur'an 12:93, quoted in the cited article as the tradition's own model for the object"
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "the inscribed names themselves, which the tradition holds capable of offering protection and guidance to the carrier",
+   "quote": "",
+   "source": "s:wp-talismanic-shirt",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "cloth",
+   "label": "Cloth",
+   "kind": "textile"
+  },
+  {
+   "key": "ink",
+   "label": "Ink",
+   "kind": "written"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "chest",
+   "label": "On the chest, under the shirt",
+   "group": "body"
+  }
+ ],
+ "form_fact": {
+  "key": "garment",
+  "label": "Garment"
+ },
+ "holding_facts": [
+  {
+   "key": "met",
+   "label": "The Metropolitan Museum of Art",
+   "city": "New York",
+   "country": "US",
+   "url": "",
+   "open": true,
+   "what": "a talismanic shirt from northern India or the Deccan, 15th–early 16th century",
+   "accession": "",
+   "source": "s:wp-talismanic-shirt"
+  },
+  {
+   "key": "other",
+   "label": "Another collection",
+   "note": "name it in `what` when it has no key here yet",
+   "what": "Topkapı Palace Museum, Istanbul — the shirt made for Sultan Cem in 1480 and the shirt commissioned for Suleiman the Magnificent; the Turkish and Islamic Arts Museum, Istanbul — a shirt from Bursa, end of the 14th to beginning of the 15th century; the Khalili Collections — four shirts; the National Museum of the Republic of Adygea — the shirt of Jembulat Boletoqo",
+   "accession": "",
+   "url": "",
+   "source": "s:wp-talismanic-shirt"
+  }
+ ],
+ "span": "1375 CE – 1899 CE",
+ "country_names": [
+  {
+   "iso": "TR",
+   "name": "Turkey"
+  },
+  {
+   "iso": "IR",
+   "name": "Iran"
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  },
+  {
+   "iso": "RU",
+   "name": "Russia"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "anting-anting",
+   "type": "amulet",
+   "name": "Anting-anting",
+   "as": "Sakay's vest belongs with these — a written garment worn against shot",
+   "rel": "parallel"
+  },
+  {
+   "from": "ethiopian-magic-scroll",
+   "type": "amulet",
+   "name": "Ethiopian talismanic scroll",
+   "as": "another garment-shaped text amulet, cut to a body and covered in writing",
+   "rel": "parallel"
+  },
+  {
+   "from": "quran-pendant",
+   "type": "amulet",
+   "name": "Qur'an pendant",
+   "as": "the same verses at the scale of a garment",
+   "rel": "kin"
+  },
+  {
+   "from": "senninbari",
+   "type": "amulet",
+   "name": "Senninbari",
+   "as": "the Islamic garment written over against blades and shot — the same idea worn, in ink rather than thread",
+   "rel": "parallel"
+  },
+  {
+   "from": "taweez",
+   "type": "amulet",
+   "name": "Ta'wiz",
+   "as": "the same writing scaled up until it is a garment",
+   "rel": "kin"
+  },
+  {
+   "from": "tefillin",
+   "type": "amulet",
+   "name": "Tefillin",
+   "as": "scripture worn on the body in another book's tradition, with none of this one's objection to the word",
+   "rel": "parallel"
+  },
+  {
+   "from": "islamic-talismanic",
+   "type": "tradition",
+   "name": "Islamic talismanic craft",
+   "as": "the tradition at its most expensive: the whole text scaled up to a garment, worn under armour, surviving from the 15th century",
+   "rel": "carries"
+  },
+  {
+   "from": "magic-square",
+   "type": "motif",
+   "name": "The number square",
+   "as": "the garment magic squares get painted onto, alongside Qur'anic text",
+   "rel": "carried-by"
+  },
+  {
+   "from": "cloth",
+   "type": "material",
+   "name": "Cloth",
+   "as": "the garment that is the charm, and the record that says in one sentence how much older the tradition may be than its oldest surviving example",
+   "rel": "carried-by"
+  },
+  {
+   "from": "ink",
+   "type": "material",
+   "name": "Ink",
+   "as": "ink on a garment: Qur'anic verses, the names of God and of prophets, or numbers, worn into battle",
+   "rel": "carried-by"
+  },
+  {
+   "from": "inscribing",
+   "type": "practice",
+   "name": "Inscribing",
+   "as": "a whole garment as the writing surface, Quranic verse over the body in battle",
+   "rel": "practice"
+  },
+  {
+   "from": "sewing-in",
+   "type": "practice",
+   "name": "Sewing in",
+   "as": "the garment version — the writing goes on the cloth and the cloth goes under the armour",
+   "rel": "carried-by"
+  },
+  {
+   "from": "talisman-word",
+   "type": "term",
+   "name": "talisman",
+   "as": "the largest object the word covers — a garment written all over and worn under armour",
+   "rel": "term"
+  }
+ ]
+}

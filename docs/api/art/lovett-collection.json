@@ -1,0 +1,282 @@
+{
+ "schema": 1,
+ "id": "lovett-collection",
+ "type": "art",
+ "names": {
+  "name": "The Lovett collection",
+  "aliases": [
+   "Edward Lovett's charms",
+   "Magic in Modern London objects",
+   "Charmed Life objects"
+  ]
+ },
+ "region": [
+  "britain-ireland",
+  "western-europe"
+ ],
+ "countries": [
+  "GB",
+  "BE",
+  "NL"
+ ],
+ "facets": {
+  "kind": "photograph",
+  "era": "modern"
+ },
+ "text": {
+  "what": "Trays and cases of small, worn, mostly cheap charms picked up in London streets between the 1890s and the 1920s by Edward Lovett, and the pictures made of them since: objects laid out in rows on plain grounds, each with a line of the collector's own note about who was carrying it and where. Blue beads, coral, a caul, a dried animal foot, a horseshoe, a bent coin. Nothing in it was made for a museum.",
+  "story": "Lovett (July 1852 – 1933) was chief cashier at a City of London branch of the Royal Bank of Scotland and did his collecting on foot, on walks around London, Sussex and Surrey. He grew alpine plants in seashells and swapped them for charms with the people he met — which is to say the collection has a price, and the price was a plant.\n\nHe gave objects to the Pitt Rivers Museum between 1896 and 1911, lectured at schools and societies, joined the Folklore Society in 1900, and set out a case for a national folk museum in the Museums Journal in March 1906. His major book, \"Magic in Modern London\", came out through the Folklore Society in 1925. In 1914 he showed over 500 dolls at the National Museum of Wales, meaning to give adults \"a scientific history of the doll, from the standpoints of ethnography and folklore\". His donations are now spread across the Cuming Museum in Southwark, the Pitt Rivers, the V&A Museum of Childhood and the Museum of Childhood in Edinburgh.\n\nHe corresponded with Henry Wellcome, and curated \"Folklore of London\" at the Wellcome Historical Medical Museum in 1916. From 6 October 2011 to 26 February 2012 the Wellcome Collection showed many of his amulets again, in an exhibition called \"Charmed Life: The solace of objects\", alongside films and medals by the artist and curator Felicity Powell.\n\n*Inference —* what makes the pictures worth a record of their own is the note beside each object. Most amulet photography shows a thing; Lovett's shows a thing plus a claimant — a cab driver, a shop girl, a soldier's mother — which is the exact pairing this atlas asks every record for. Not all of his theories held: his reading of the Arthur's Seat coffin dolls as substitute burials for sailors lost at sea is not supported by recent scholarship.",
+  "today": "The objects are held across several UK collections; the Wellcome Collection publishes an article on them with images, and has been openly licensing its digitised holdings since well before 2020. The Wellcome has also stated, in 2021, that Henry Wellcome's own collecting was shaped by colonialism and that many objects bought at auction carry no documentation of how they were acquired. Lovett's London charms are among the few things in that building whose collector wrote down where each one came from."
+ },
+ "kin": [
+  {
+   "to": "edward-lovett",
+   "as": "the bank cashier who assembled this, and who wrote down the carrier as well as the charm",
+   "rel": "person"
+  },
+  {
+   "to": "pitt-rivers-charms",
+   "as": "where his donations of 1896–1911 went, and where they are still displayed by type",
+   "rel": "held-at"
+  },
+  {
+   "to": "wellcome-lovett",
+   "as": "the other room these objects come back to, most recently in Charmed Life in 2011–12",
+   "rel": "held-at"
+  },
+  {
+   "to": "caul",
+   "as": "one of the classes he collected in quantity from London sailors and their families",
+   "rel": "carries"
+  },
+  {
+   "to": "horseshoe",
+   "as": "the street charm he found nailed above more London doors than any other",
+   "rel": "carries"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the tradition he was documenting, at the point where it was moving from countryside to city",
+   "rel": "tradition"
+  },
+  {
+   "to": "frederick-elworthy",
+   "as": "his older contemporary, who built the comparable collection and left it to Taunton",
+   "rel": "person"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read about how collections were formed, and what the Wellcome has since said about its own",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Edward Lovett — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Edward_Lovett"
+  }
+ ],
+ "sources": [
+  "s:wp-edward-lovett",
+  "s:wp-wellcome-collection",
+  "s:wp-pitt-rivers-museum"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-edward-lovett"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-edward-lovett",
+    "note": "the fourth paragraph is marked as this project's inference where it appears"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-wellcome-collection"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Wellcome Collection building.jpg",
+  "File:Pitt Rivers Museum Interior.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Trays and cases of small, worn, mostly cheap charms picked up in London streets between the 1890s and the 1920s by Edward Lovett, and the pictures made of them since: objects laid out in rows on plain grounds, each with…",
+ "region_terms": [
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "western-europe",
+   "name": "Western Europe",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "edward-lovett",
+   "type": "person",
+   "name": "Edward Lovett",
+   "as": "the bank cashier who assembled this, and who wrote down the carrier as well as the charm",
+   "rel": "person"
+  },
+  {
+   "to": "pitt-rivers-charms",
+   "type": "place",
+   "name": "The amulet and charm cases, Pitt Rivers Museum",
+   "as": "where his donations of 1896–1911 went, and where they are still displayed by type",
+   "rel": "held-at"
+  },
+  {
+   "to": "wellcome-lovett",
+   "type": "place",
+   "name": "The Lovett charms at Wellcome Collection",
+   "as": "the other room these objects come back to, most recently in Charmed Life in 2011–12",
+   "rel": "held-at"
+  },
+  {
+   "to": "caul",
+   "type": "amulet",
+   "name": "Caul",
+   "as": "one of the classes he collected in quantity from London sailors and their families",
+   "rel": "carries"
+  },
+  {
+   "to": "horseshoe",
+   "type": "amulet",
+   "name": "Horseshoe",
+   "as": "the street charm he found nailed above more London doors than any other",
+   "rel": "carries"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "type": "tradition",
+   "name": "European folk apotropaic craft",
+   "as": "the tradition he was documenting, at the point where it was moving from countryside to city",
+   "rel": "tradition"
+  },
+  {
+   "to": "frederick-elworthy",
+   "type": "person",
+   "name": "Frederick Thomas Elworthy",
+   "as": "his older contemporary, who built the comparable collection and left it to Taunton",
+   "rel": "person"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read about how collections were formed, and what the Wellcome has since said about its own",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-edward-lovett",
+   "kind": "encyclopedia",
+   "title": "Edward Lovett",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Edward_Lovett",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-wellcome-collection",
+   "kind": "encyclopedia",
+   "title": "Wellcome Collection",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wellcome_Collection",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pitt-rivers-museum",
+   "kind": "encyclopedia",
+   "title": "Pitt Rivers Museum",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pitt_Rivers_Museum",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-edward-lovett"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-edward-lovett",
+   "note": "the fourth paragraph is marked as this project's inference where it appears"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-wellcome-collection"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "",
+ "country_names": [
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "BE",
+   "name": "Belgium"
+  },
+  {
+   "iso": "NL",
+   "name": "Netherlands"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "wellcome-lovett",
+   "type": "place",
+   "name": "The Lovett charms at Wellcome Collection",
+   "as": "the collection itself, which this address holds the paper trail of rather than the objects",
+   "rel": "art"
+  },
+  {
+   "from": "edward-lovett",
+   "type": "person",
+   "name": "Edward Lovett",
+   "as": "the collection itself — the trays of London street charms he swapped alpine plants for",
+   "rel": "art"
+  },
+  {
+   "from": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the counter-example — a collector who wrote down who was carrying each charm",
+   "rel": "art"
+  }
+ ]
+}

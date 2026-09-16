@@ -1,0 +1,86 @@
+{
+ "schema": 1,
+ "id": "tyet-knot",
+ "type": "amulet",
+ "names": {
+  "name": "Tyet",
+  "native": "𓎬",
+  "script": "Egyptian hieroglyphic",
+  "lang": "egy",
+  "said": "TEE-et, from Ancient Egyptian tjt",
+  "aliases": ["knot of Isis", "girdle of Isis", "blood of Isis", "tit", "Gardiner V39"]
+ },
+ "etymology": {
+  "root": "Egyptian tjt. The sign is usually translated 'welfare' or 'life', which is close to what the ankh means.",
+  "note": "It looks like a knot of cloth, and may have started as a bandage used to absorb menstrual blood — which is why one of its names is the blood of Isis.",
+  "tier": "cited",
+  "source": "s:wp-tyet"
+ },
+ "region": ["ancient-egypt"],
+ "countries": ["EG"],
+ "facets": {"era": "ancient", "status": "archaeological", "portable": "placed", "restricted": "open", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A looped knot with two arms hanging down and a tail below — an ankh whose crossbar has drooped. Cut small and laid in the wrappings, usually on the upper torso. Chapter 156 of the Book of the Dead calls for one of red jasper at the mummy's neck, and the surviving ones are red jasper, carnelian or red glass, or else green faience, whose colour Egyptologists read as the renewal of life.",
+  "story": "The sign is older than the goddess it belongs to. An early tyet comes from a First Dynasty tomb at Helwan, dug by Zaki Saad in the 1940s; it predates the first written references to Isis, so at that point it was probably not hers. Later it attaches to her, and to the healing that is a central part of her character.\n\nAs an amulet it starts in the early New Kingdom, about 1550 BCE, with the earliest examples in the reign of Amenhotep III. From then to the end of dynastic Egypt, few people were buried without one placed inside the mummy wrappings. That is an unusually strong statement to be able to make about any amulet anywhere: not that it was common, but that its absence was rare.\n\nChapter 156 gives the words. The red jasper tyet is laid at the neck and the spell says the power of Isis will be the protection of the mummy's body, and that the amulet will drive away whoever would commit a crime against him.\n\nA second knot gets confused with this one. From the Late Period, Egyptian women wore a large knot in a mantle, and because it turns up on Hellenistic and Roman statues of Isis it picked up the name 'Isis knot' — but Robert Bianchi's 1980 paper is titled 'Not the Isis-Knot', and apart from the name the two have nothing to do with each other. Elsewhere the comparison runs the other way: the Minoan sacral knot at Knossos, a knot with a loop projecting from it, is close enough in shape that Egyptologists set the two side by side.",
+  "how": "Cut from red jasper, carnelian or red glass, or moulded in faience, and placed inside the wrappings on the upper torso — Chapter 156 puts it at the neck. Egyptian funerary texts carry spells to be recited over amulets, and this one has its own.",
+  "today": "Not made and not placed. The sign is in Unicode's hieroglyphic block and in every Egyptology textbook, and it sells as jewellery in Cairo and online alongside the ankh and the wedjat. As of 2026 this project has read no account of anyone using one the way Chapter 156 describes."
+ },
+ "dating": {
+  "period": "New Kingdom to the end of dynastic Egypt",
+  "from_year": -1549,
+  "to_year": -29,
+  "living": false,
+  "label": "c. 1550 BCE to the end of dynastic Egypt",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-tyet",
+  "note": "The source dates tyet amulets in burials from the early New Kingdom, c. 1550–1070 BC, with the earliest in Amenhotep III's reign, and says they continue 'until the end of dynastic Egyptian history'. 30 BCE is the conventional close of that history and is this project's arithmetic. The sign itself is older: an example comes from a First Dynasty tomb at Helwan."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": ["carnelian", "glass", "faience"],
+  "worn": ["neck", "chest", "grave"],
+  "made_by": "the embalming trade; the placement is set by the funerary text, not by the wearer",
+  "inscription": "none cut on it; Chapter 156 of the Book of the Dead is recited over it",
+  "script": "Egyptian hieroglyphic",
+  "colour": ["red", "green"],
+  "single_use": true,
+  "source": "s:wp-tyet",
+  "note": "Red jasper, the material Chapter 156 names, has no key in materials.json; carnelian and red glass are the source's named substitutes."
+ },
+ "against": [
+  {"harm": "the-dead", "who": "Chapter 156 of the Book of the Dead", "quote": "the power of Isis will be the protection of [the mummy's] body", "source": "s:wp-tyet", "tier": "cited"},
+  {"harm": "theft", "who": "Chapter 156, which says the amulet \"will drive away whoever would commit a crime against him\"", "source": "s:wp-tyet", "tier": "cited", "note": "the text says crime and does not name grave robbery; the harm key is this project's filing"},
+  {"harm": "illness", "who": "Egyptologists, who tie the sign to Isis and to the healing powers that are an important part of her character", "source": "s:wp-tyet", "tier": "cited"}
+ ],
+ "holdings": [
+  {"museum": "british-museum", "what": "tyet amulets in the Egyptian collection", "source": "s:wp-british-museum"},
+  {"museum": "petrie", "what": "tyet amulets in the excavated amulet series", "source": "s:wp-petrie-museum-of-egyptian-archaeology"}
+ ],
+ "kin": [
+  {"to": "ankh-amulet", "as": "the sign it may share an origin with — early ankhs draw the lower bar as two loose ends of a knot, which is what this is", "rel": "kin"},
+  {"to": "djed-pillar", "as": "the sign it is written beside; paired, Egyptologists read the two as the duality of life", "rel": "kin"},
+  {"to": "knot", "as": "the family it belongs to — a tied thing worn because it is tied", "rel": "motif"},
+  {"to": "heart-scarab", "as": "the other amulet the wrappings required, one organ lower and with a spell cut on it rather than spoken over it", "rel": "kin"},
+  {"to": "carnelian", "as": "the red stone that stands in for the red jasper Chapter 156 asks for", "rel": "material"},
+  {"to": "knotting", "as": "the practice the sign is a picture of, frozen in stone", "rel": "practice"},
+  {"to": "grave-deposit", "as": "the practice this amulet exists inside, and the reason so many survive", "rel": "practice"},
+  {"to": "egyptian-amulet-craft", "as": "the tradition that placed it — and the one case where the tradition's own text says where on the body it goes", "rel": "tradition"}
+ ],
+ "confusable_with": [
+  {"id": "ankh-amulet", "tell": "the tyet's arms curve down; the ankh's crossbar runs straight out"}
+ ],
+ "links": [{"label": "Tyet — Wikipedia", "url": "https://en.wikipedia.org/wiki/Tyet"}],
+ "sources": ["s:wp-tyet", "s:wp-ankh", "s:wp-djed", "s:wp-carnelian", "s:wp-egyptian-faience", "s:wp-british-museum", "s:wp-petrie-museum-of-egyptian-archaeology"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-tyet"},
+  "fields": {
+   "text.today": {"tier": "inference", "note": "the jewellery trade is reasoned from the sign's ubiquity; no market source was read"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Tyet.svg", "File:Knot of Isis (tyet) amulet MET DP109379.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

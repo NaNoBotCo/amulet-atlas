@@ -1,0 +1,360 @@
+{
+ "schema": 1,
+ "id": "edward-lovett",
+ "type": "person",
+ "names": {
+  "name": "Edward Lovett",
+  "sort": "Lovett, Edward"
+ },
+ "region": [
+  "britain-ireland",
+  "western-europe"
+ ],
+ "countries": [
+  "GB",
+  "BE",
+  "NL"
+ ],
+ "facets": {
+  "role": [
+   "collector",
+   "writer",
+   "scholar"
+  ]
+ },
+ "text": {
+  "what": "English folklorist, July 1852 – 1933, who collected charms off London streets while working as a chief cashier at a bank in the City. He gathered the things people were actually carrying — a mole's foot, a dried frog, a blue bead, a caul — and wrote them up in \"Magic in Modern London\" in 1925. His material is now spread across the Pitt Rivers Museum, the Cuming Museum in Southwark, the Wellcome collection and two museums of childhood.",
+  "story": "Lovett collected on his walks. He lived in Croydon and later Caterham, and worked the London streets, Sussex and Surrey in his spare time — costers' barrows, dock workers, sailors' families — asking what people had in their pockets and why. He grew alpine plants in seashells and traded the small specimens for amulets from the people he met. That is the whole method: a swap, on a street, recorded on the spot.\n\nHe donated to the Pitt Rivers Museum between 1896 and 1911. He joined the Folklore Society in 1900 and published in its journal: \"The Modern Commercial Aspect of an Ancient Superstition\" in 1902, \"Superstitions and Survivals amongst Shepherds\" and \"Amulets from Costers' Barrows in London, Rome, and Naples\" both in 1909. In a 1906 Museums Journal article he set out a plan for a folk museum of Britain and campaigned for it into the early 1920s. It was never built.\n\nHe corresponded with Henry Wellcome, and in 1916 curated an exhibition, 'Folklore of London', at the Wellcome Historical Medical Museum. In 1914 he showed over five hundred dolls at the National Museum of Wales, meaning to give adults what he called a \"scientific history of the doll, from the standpoints of ethnography and folklore\". His theory that the coffin dolls found on Arthur's Seat in Edinburgh in the 1830s were substitution burials for sailors lost at sea has not been supported by recent scholarship.\n\nWhat separates him from most collectors of his generation is what he did not do. Lovett did not venture into theorising on folklore, confining his research to the collection of talismans and other objects with claims attached. *Inference —* that restraint is why his labels still work: he wrote down who gave him the thing and what they said about it, and left the explaining to other people.",
+  "today": "The Wellcome Collection showed his amulets in 'Charmed Life: The solace of objects', 6 October 2011 to 26 February 2012, alongside new work by the artist and curator Felicity Powell. Wellcome also publishes an online piece on his collections, \"Moles' feet, dried frogs and other folk medicines\", by Kate Wilkinson, dated 21 May 2019."
+ },
+ "dating": {
+  "period": "Victorian to interwar",
+  "from_year": 1852,
+  "to_year": 1933,
+  "living": false,
+  "label": "July 1852 – 1933",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-edward-lovett",
+  "note": "Birth month and year are published; the death year is given without a date."
+ },
+ "kin": [
+  {
+   "to": "lovett-collection",
+   "as": "the collection itself — the trays of London street charms he swapped alpine plants for",
+   "rel": "art"
+  },
+  {
+   "to": "wellcome-collection",
+   "as": "the museum that exhibited his amulets in 1916 and again in 2011, and that publishes on them now",
+   "rel": "org"
+  },
+  {
+   "to": "pitt-rivers-museum",
+   "as": "where his donations went between 1896 and 1911, and where a large part of the material still sits",
+   "rel": "org"
+  },
+  {
+   "to": "caul",
+   "as": "one of the objects he recorded in the hands of London sailors' families rather than in a book",
+   "rel": "kin"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the living tradition he recorded on the street while other collectors were reading about its past",
+   "rel": "tradition"
+  },
+  {
+   "to": "frederick-elworthy",
+   "as": "his contemporary on the same subject, working Mediterranean markets where Lovett worked London barrows",
+   "rel": "parallel"
+  },
+  {
+   "to": "buying-in-a-market",
+   "as": "the practice his method depended on — he bought and swapped rather than excavated",
+   "rel": "practice"
+  },
+  {
+   "to": "charm-word",
+   "as": "the word he used for what he collected, in the sense his informants used it",
+   "rel": "term"
+  }
+ ],
+ "links": [
+  {
+   "label": "Edward Lovett — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Edward_Lovett"
+  }
+ ],
+ "sources": [
+  "s:wp-edward-lovett",
+  "s:wp-pitt-rivers-museum",
+  "s:wp-wellcome-collection",
+  "s:wp-caul"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-edward-lovett"
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "English folklorist, July 1852 – 1933, who collected charms off London streets while working as a chief cashier at a bank in the City.",
+ "region_terms": [
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "western-europe",
+   "name": "Western Europe",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "lovett-collection",
+   "type": "art",
+   "name": "The Lovett collection",
+   "as": "the collection itself — the trays of London street charms he swapped alpine plants for",
+   "rel": "art"
+  },
+  {
+   "to": "wellcome-collection",
+   "type": "org",
+   "name": "Wellcome Collection",
+   "as": "the museum that exhibited his amulets in 1916 and again in 2011, and that publishes on them now",
+   "rel": "org"
+  },
+  {
+   "to": "pitt-rivers-museum",
+   "type": "org",
+   "name": "The Pitt Rivers Museum",
+   "as": "where his donations went between 1896 and 1911, and where a large part of the material still sits",
+   "rel": "org"
+  },
+  {
+   "to": "caul",
+   "type": "amulet",
+   "name": "Caul",
+   "as": "one of the objects he recorded in the hands of London sailors' families rather than in a book",
+   "rel": "kin"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "type": "tradition",
+   "name": "European folk apotropaic craft",
+   "as": "the living tradition he recorded on the street while other collectors were reading about its past",
+   "rel": "tradition"
+  },
+  {
+   "to": "frederick-elworthy",
+   "type": "person",
+   "name": "Frederick Thomas Elworthy",
+   "as": "his contemporary on the same subject, working Mediterranean markets where Lovett worked London barrows",
+   "rel": "parallel"
+  },
+  {
+   "to": "buying-in-a-market",
+   "type": "practice",
+   "name": "Buying one in a market",
+   "as": "the practice his method depended on — he bought and swapped rather than excavated",
+   "rel": "practice"
+  },
+  {
+   "to": "charm-word",
+   "type": "term",
+   "name": "charm",
+   "as": "the word he used for what he collected, in the sense his informants used it",
+   "rel": "term"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-edward-lovett",
+   "kind": "encyclopedia",
+   "title": "Edward Lovett",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Edward_Lovett",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pitt-rivers-museum",
+   "kind": "encyclopedia",
+   "title": "Pitt Rivers Museum",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pitt_Rivers_Museum",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-wellcome-collection",
+   "kind": "encyclopedia",
+   "title": "Wellcome Collection",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wellcome_Collection",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-caul",
+   "kind": "encyclopedia",
+   "title": "Caul",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Caul",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-edward-lovett"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-edward-lovett"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-edward-lovett"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-edward-lovett"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1852 CE – 1933 CE",
+ "country_names": [
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "BE",
+   "name": "Belgium"
+  },
+  {
+   "iso": "NL",
+   "name": "Netherlands"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "hagstone",
+   "type": "amulet",
+   "name": "Hagstone",
+   "as": "the collector who recorded these on Brighton beach and on Surrey bedsteads, and who published the red-ribbon detail in 1928",
+   "rel": "person"
+  },
+  {
+   "from": "horseshoe",
+   "type": "amulet",
+   "name": "Horseshoe",
+   "as": "the collector who recorded it in London and Sussex homes in the 1920s rather than in the past tense",
+   "rel": "person"
+  },
+  {
+   "from": "european-folk-apotropaic",
+   "type": "tradition",
+   "name": "European folk apotropaic craft",
+   "as": "the collector who proved it was still alive, by taking a mole's foot and a blue bead off London streets in the 1900s rather than reading about the countryside",
+   "rel": "person"
+  },
+  {
+   "from": "buying-in-a-market",
+   "type": "practice",
+   "name": "Buying one in a market",
+   "as": "the collector whose whole method was this — buying and swapping in the street while other men read about the past",
+   "rel": "person"
+  },
+  {
+   "from": "pitt-rivers-charms",
+   "type": "place",
+   "name": "The amulet and charm cases, Pitt Rivers Museum",
+   "as": "the donor of the English charms, 216 objects accessioned between 1893 and 1911",
+   "rel": "person"
+  },
+  {
+   "from": "san-gregorio-armeno",
+   "type": "place",
+   "name": "Via San Gregorio Armeno",
+   "as": "the folklorist who in 1909 read the barrow trade of London, Rome and Naples as one subject",
+   "rel": "person"
+  },
+  {
+   "from": "wellcome-lovett",
+   "type": "place",
+   "name": "The Lovett charms at Wellcome Collection",
+   "as": "the man who swapped alpine plants for the charms in Londoners' pockets and wrote down what they said about them",
+   "rel": "person"
+  },
+  {
+   "from": "augustus-pitt-rivers",
+   "type": "person",
+   "name": "Augustus Pitt Rivers",
+   "as": "one of the donors who fed the collection, giving between 1896 and 1911",
+   "rel": "person"
+  },
+  {
+   "from": "frederick-elworthy",
+   "type": "person",
+   "name": "Frederick Thomas Elworthy",
+   "as": "his English contemporary, working the same decades on London streets rather than Mediterranean ones",
+   "rel": "parallel"
+  },
+  {
+   "from": "walter-hildburgh",
+   "type": "person",
+   "name": "Walter Leo Hildburgh",
+   "as": "his London contemporary; both collections passed through Wellcome and both ended up scattered",
+   "rel": "parallel"
+  },
+  {
+   "from": "pitt-rivers-museum",
+   "type": "org",
+   "name": "The Pitt Rivers Museum",
+   "as": "the donor of the London street charms, given between 1896 and 1911",
+   "rel": "person"
+  },
+  {
+   "from": "wellcome-collection",
+   "type": "org",
+   "name": "Wellcome Collection",
+   "as": "the folklorist who curated here in 1916 and whose charms it showed again in 2011",
+   "rel": "person"
+  },
+  {
+   "from": "lovett-collection",
+   "type": "art",
+   "name": "The Lovett collection",
+   "as": "the bank cashier who assembled this, and who wrote down the carrier as well as the charm",
+   "rel": "person"
+  }
+ ]
+}

@@ -1,0 +1,757 @@
+{
+ "built": "2026-09-17",
+ "count": 22,
+ "note": "Every point placed by hand from a published address or coordinate. `precision` says how close it is.",
+ "places": [
+  {
+   "id": "mercado-de-las-brujas-la-paz",
+   "name": "El Mercado de las Brujas",
+   "url": "place/mercado-de-las-brujas-la-paz/",
+   "city": "La Paz",
+   "country": "BO",
+   "country_name": "Bolivia",
+   "lat": -16.5,
+   "lon": -68.149,
+   "precision": "town",
+   "kind": "market",
+   "days": {
+    "Mo": "unknown",
+    "Tu": "unknown",
+    "We": "unknown",
+    "Th": "unknown",
+    "Fr": "unknown",
+    "Sa": "unknown",
+    "Su": "unknown"
+   },
+   "hours_text": "",
+   "blurb": "A run of stalls on Calle Linares in the El Rosario neighbourhood of La Paz, spilling into Jiménez, Santa Cruz and Illampu.",
+   "tier": "cited",
+   "tags": [
+    "market"
+   ],
+   "recognitions": 1,
+   "hemispheres": [
+    "S",
+    "W"
+   ],
+   "image": null
+  },
+  {
+   "id": "barkhor-lhasa",
+   "name": "The Barkhor",
+   "url": "place/barkhor-lhasa/",
+   "city": "Lhasa",
+   "country": "CN",
+   "country_name": "China",
+   "lat": 29.653056,
+   "lon": 91.132222,
+   "precision": "street",
+   "kind": "market",
+   "days": {
+    "Mo": "unknown",
+    "Tu": "unknown",
+    "We": "unknown",
+    "Th": "unknown",
+    "Fr": "unknown",
+    "Sa": "unknown",
+    "Su": "unknown"
+   },
+   "hours_text": "",
+   "blurb": "A ring of street about a kilometre round, circling the Jokhang temple in the old city of Lhasa. It is at once the city's commercial centre and a circuit walked as devotion.",
+   "tier": "cited",
+   "tags": [
+    "market",
+    "pilgrimage"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "E",
+    "N"
+   ],
+   "image": null
+  },
+  {
+   "id": "khan-el-khalili",
+   "name": "Khan el-Khalili",
+   "url": "place/khan-el-khalili/",
+   "city": "Cairo",
+   "country": "EG",
+   "country_name": "Egypt",
+   "lat": 30.0475,
+   "lon": 31.26222,
+   "precision": "street",
+   "kind": "market",
+   "days": {
+    "Mo": "unknown",
+    "Tu": "unknown",
+    "We": "unknown",
+    "Th": "unknown",
+    "Fr": "unknown",
+    "Sa": "unknown",
+    "Su": "unknown"
+   },
+   "hours_text": "",
+   "blurb": "Cairo's bazaar quarter, in the medieval city between al-Muizz Street, al-Muski Street and the mosque and shrine of al-Hussein.",
+   "tier": "cited",
+   "tags": [
+    "market"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "E",
+    "N"
+   ],
+   "image": null
+  },
+  {
+   "id": "merkato-addis",
+   "name": "Merkato",
+   "url": "place/merkato-addis/",
+   "city": "Addis Ababa",
+   "country": "ET",
+   "country_name": "Ethiopia",
+   "lat": 9.030556,
+   "lon": 38.738889,
+   "precision": "town",
+   "kind": "market",
+   "days": {
+    "Mo": "unknown",
+    "Tu": "unknown",
+    "We": "unknown",
+    "Th": "unknown",
+    "Fr": "unknown",
+    "Sa": "unknown",
+    "Su": "unknown"
+   },
+   "hours_text": "",
+   "blurb": "An open-air market covering several square miles of the Addis Ketema district of Addis Ababa, and the name of the neighbourhood it fills. An estimated 13,000 people work in about 7,100 business entities.",
+   "tier": "cited",
+   "tags": [
+    "market"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "E",
+    "N",
+    "S"
+   ],
+   "image": null
+  },
+  {
+   "id": "monastiraki",
+   "name": "Monastiraki",
+   "url": "place/monastiraki/",
+   "city": "Athens",
+   "country": "GR",
+   "country_name": "Greece",
+   "lat": 37.97639,
+   "lon": 23.72361,
+   "precision": "street",
+   "kind": "market",
+   "days": {
+    "Mo": "unknown",
+    "Tu": "unknown",
+    "We": "unknown",
+    "Th": "unknown",
+    "Fr": "unknown",
+    "Sa": "unknown",
+    "Su": "unknown"
+   },
+   "hours_text": "",
+   "blurb": "A flea-market neighbourhood in the old town of Athens, built round Monastiraki Square and running along Pandrossou and Adrianou streets.",
+   "tier": "cited",
+   "tags": [
+    "market"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "E",
+    "N"
+   ],
+   "image": null
+  },
+  {
+   "id": "san-gregorio-armeno",
+   "name": "Via San Gregorio Armeno",
+   "url": "place/san-gregorio-armeno/",
+   "city": "Naples",
+   "country": "IT",
+   "country_name": "Italy",
+   "lat": 40.850258,
+   "lon": 14.25774,
+   "precision": "street",
+   "kind": "workshop",
+   "days": {
+    "Mo": "unknown",
+    "Tu": "unknown",
+    "We": "unknown",
+    "Th": "unknown",
+    "Fr": "unknown",
+    "Sa": "unknown",
+    "Su": "unknown"
+   },
+   "hours_text": "",
+   "blurb": "A narrow street in the old centre of Naples, lined with workshops that make figures for the presepe, the Neapolitan nativity scene.",
+   "tier": "cited",
+   "tags": [
+    "market",
+    "still-makes"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "E",
+    "N"
+   ],
+   "image": null
+  },
+  {
+   "id": "fushimi-inari",
+   "name": "Fushimi Inari-taisha",
+   "url": "place/fushimi-inari/",
+   "city": "Kyoto",
+   "country": "JP",
+   "country_name": "Japan",
+   "lat": 34.96722,
+   "lon": 135.77278,
+   "precision": "exact",
+   "kind": "shrine",
+   "days": {
+    "Mo": "open",
+    "Tu": "open",
+    "We": "open",
+    "Th": "open",
+    "Fr": "open",
+    "Sa": "open",
+    "Su": "open"
+   },
+   "hours_text": "Open 24 hours; the approach and the main hall are illuminated all night. No entrance fee.",
+   "blurb": "The head shrine of Inari, at the foot of a 233-metre mountain in Fushimi-ku, Kyoto.",
+   "tier": "cited",
+   "tags": [
+    "free-entry",
+    "pilgrimage"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "E",
+    "N"
+   ],
+   "image": null
+  },
+  {
+   "id": "senso-ji",
+   "name": "Sensō-ji",
+   "url": "place/senso-ji/",
+   "city": "Tokyo",
+   "country": "JP",
+   "country_name": "Japan",
+   "lat": 35.71472,
+   "lon": 139.79675,
+   "precision": "exact",
+   "kind": "shrine",
+   "days": {
+    "Mo": "unknown",
+    "Tu": "unknown",
+    "We": "unknown",
+    "Th": "unknown",
+    "Fr": "unknown",
+    "Sa": "unknown",
+    "Su": "unknown"
+   },
+   "hours_text": "",
+   "blurb": "Tokyo's oldest-established Buddhist temple, in Asakusa, dedicated to Kannon, the bodhisattva of compassion.",
+   "tier": "cited",
+   "tags": [
+    "market",
+    "pilgrimage"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "E",
+    "N"
+   ],
+   "image": null
+  },
+  {
+   "id": "mercado-de-sonora",
+   "name": "Mercado de Sonora",
+   "url": "place/mercado-de-sonora/",
+   "city": "Mexico City",
+   "country": "MX",
+   "country_name": "Mexico",
+   "lat": 19.422208,
+   "lon": -99.124683,
+   "precision": "exact",
+   "kind": "market",
+   "days": {
+    "Mo": "unknown",
+    "Tu": "unknown",
+    "We": "unknown",
+    "Th": "unknown",
+    "Fr": "unknown",
+    "Sa": "unknown",
+    "Su": "unknown"
+   },
+   "hours_text": "",
+   "blurb": "A municipal covered market in Colonia Merced Balbuena, southeast of Mexico City's historic centre: one long metal nave, narrow aisles, traders grouped by what they sell.",
+   "tier": "cited",
+   "tags": [
+    "market"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "N",
+    "W"
+   ],
+   "image": null
+  },
+  {
+   "id": "marrakesh-souk",
+   "name": "The Marrakesh souk",
+   "url": "place/marrakesh-souk/",
+   "city": "Marrakesh",
+   "country": "MA",
+   "country_name": "Morocco",
+   "lat": 31.62583,
+   "lon": -7.98944,
+   "precision": "town",
+   "kind": "market",
+   "days": {
+    "Mo": "unknown",
+    "Tu": "unknown",
+    "We": "unknown",
+    "Th": "unknown",
+    "Fr": "unknown",
+    "Sa": "unknown",
+    "Su": "unknown"
+   },
+   "hours_text": "",
+   "blurb": "The market streets of the Marrakesh medina, running north from the square called Jemaa el-Fnaa into the old city.",
+   "tier": "cited",
+   "tags": [
+    "market"
+   ],
+   "recognitions": 1,
+   "hemispheres": [
+    "E",
+    "N",
+    "W"
+   ],
+   "image": null
+  },
+  {
+   "id": "kathmandu-thamel",
+   "name": "Thamel",
+   "url": "place/kathmandu-thamel/",
+   "city": "Kathmandu",
+   "country": "NP",
+   "country_name": "Nepal",
+   "lat": 27.71516,
+   "lon": 85.31005,
+   "precision": "town",
+   "kind": "market",
+   "days": {
+    "Mo": "unknown",
+    "Tu": "unknown",
+    "We": "unknown",
+    "Th": "unknown",
+    "Fr": "unknown",
+    "Sa": "unknown",
+    "Su": "unknown"
+   },
+   "hours_text": "",
+   "blurb": "A commercial neighbourhood of narrow alleys in Kathmandu, about 1.4 kilometres north of Durbar Square. Shops run wall to wall: trekking gear, handicrafts, woollens, music, groceries, guest houses.",
+   "tier": "cited",
+   "tags": [
+    "market"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "E",
+    "N"
+   ],
+   "image": null
+  },
+  {
+   "id": "te-papa-taonga",
+   "name": "Mana Whenua, Te Papa",
+   "url": "place/te-papa-taonga/",
+   "city": "Wellington",
+   "country": "NZ",
+   "country_name": "New Zealand",
+   "lat": -41.2905,
+   "lon": 174.7821,
+   "precision": "street",
+   "kind": "gallery",
+   "days": {
+    "Mo": "open",
+    "Tu": "open",
+    "We": "open",
+    "Th": "open",
+    "Fr": "open",
+    "Sa": "open",
+    "Su": "open"
+   },
+   "hours_text": "Open every day 10am–6pm.",
+   "blurb": "Te Papa's permanent Māori exhibition, on Level 4 of the Wellington waterfront building.",
+   "tier": "cited",
+   "tags": [
+    "open-images",
+    "photography-limits",
+    "repatriation"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "E",
+    "N",
+    "S",
+    "W"
+   ],
+   "image": null
+  },
+  {
+   "id": "mercado-de-las-brujas-lima",
+   "name": "Mercado de Brujas de Gamarra",
+   "url": "place/mercado-de-las-brujas-lima/",
+   "city": "Lima",
+   "country": "PE",
+   "country_name": "Peru",
+   "lat": -12.065528,
+   "lon": -77.014972,
+   "precision": "street",
+   "kind": "market",
+   "days": {
+    "Mo": "unknown",
+    "Tu": "unknown",
+    "We": "unknown",
+    "Th": "unknown",
+    "Fr": "unknown",
+    "Sa": "unknown",
+    "Su": "unknown"
+   },
+   "hours_text": "",
+   "blurb": "A row of esoteric stalls inside the Gamarra clothing district of La Victoria, Lima, along Avenida Aviación.",
+   "tier": "cited",
+   "tags": [
+    "market"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "S",
+    "W"
+   ],
+   "image": null
+  },
+  {
+   "id": "quiapo-church",
+   "name": "Quiapo Church",
+   "url": "place/quiapo-church/",
+   "city": "Manila",
+   "country": "PH",
+   "country_name": "Philippines",
+   "lat": 14.59878,
+   "lon": 120.98377,
+   "precision": "exact",
+   "kind": "shrine",
+   "days": {
+    "Mo": "unknown",
+    "Tu": "unknown",
+    "We": "unknown",
+    "Th": "unknown",
+    "Fr": "unknown",
+    "Sa": "unknown",
+    "Su": "unknown"
+   },
+   "hours_text": "",
+   "blurb": "A Catholic basilica in the Quiapo district of Manila, housing the Jesús Nazareno, a dark statue of Christ carrying the cross.",
+   "tier": "cited",
+   "tags": [
+    "market",
+    "pilgrimage"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "E",
+    "N",
+    "S"
+   ],
+   "image": null
+  },
+  {
+   "id": "insadong",
+   "name": "Insa-dong",
+   "url": "place/insadong/",
+   "city": "Seoul",
+   "country": "KR",
+   "country_name": "South Korea",
+   "lat": 37.572972,
+   "lon": 126.98618,
+   "precision": "street",
+   "kind": "market",
+   "days": {
+    "Mo": "unknown",
+    "Tu": "unknown",
+    "We": "unknown",
+    "Th": "unknown",
+    "Fr": "unknown",
+    "Sa": "unknown",
+    "Su": "unknown"
+   },
+   "hours_text": "",
+   "blurb": "A neighbourhood of Jongno District, Seoul, 12.7 hectares of galleries, antique shops, paper and brush shops and tea houses along Insadong-gil and the alleys off it.",
+   "tier": "cited",
+   "tags": [
+    "market"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "E",
+    "N"
+   ],
+   "image": null
+  },
+  {
+   "id": "tha-phrachan",
+   "name": "Tha Phrachan amulet market",
+   "url": "place/tha-phrachan/",
+   "city": "Bangkok",
+   "country": "TH",
+   "country_name": "Thailand",
+   "lat": 13.7575,
+   "lon": 100.4904,
+   "precision": "street",
+   "kind": "market",
+   "days": {
+    "Mo": "unknown",
+    "Tu": "unknown",
+    "We": "unknown",
+    "Th": "unknown",
+    "Fr": "unknown",
+    "Sa": "unknown",
+    "Su": "unknown"
+   },
+   "hours_text": "",
+   "blurb": "Bangkok's main amulet market, running in the lanes beside Thammasat University and the Chao Phraya river pier of the same name.",
+   "tier": "cited",
+   "tags": [
+    "market"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "E",
+    "N"
+   ],
+   "image": null
+  },
+  {
+   "id": "akodessewa-market",
+   "name": "Akodessawa fetish market",
+   "url": "place/akodessewa-market/",
+   "city": "Lomé",
+   "country": "TG",
+   "country_name": "Togo",
+   "lat": 6.157639,
+   "lon": 1.267056,
+   "precision": "street",
+   "kind": "market",
+   "days": {
+    "Mo": "unknown",
+    "Tu": "unknown",
+    "We": "unknown",
+    "Th": "unknown",
+    "Fr": "unknown",
+    "Sa": "unknown",
+    "Su": "unknown"
+   },
+   "hours_text": "",
+   "blurb": "A supply market in the Akodessawa district of Lomé, Togo, for the materials used in Vodun practice. The stock is animal: monkey heads, skulls, dried birds, crocodiles, skins.",
+   "tier": "cited",
+   "tags": [
+    "market"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "E",
+    "N",
+    "W"
+   ],
+   "image": null
+  },
+  {
+   "id": "grand-bazaar",
+   "name": "The Grand Bazaar",
+   "url": "place/grand-bazaar/",
+   "city": "Istanbul",
+   "country": "TR",
+   "country_name": "Turkey",
+   "lat": 41.01058,
+   "lon": 28.96793,
+   "precision": "exact",
+   "kind": "market",
+   "days": {
+    "Mo": "unknown",
+    "Tu": "unknown",
+    "We": "unknown",
+    "Th": "unknown",
+    "Fr": "unknown",
+    "Sa": "unknown",
+    "Su": "unknown"
+   },
+   "hours_text": "",
+   "blurb": "A roofed market of 61 streets and more than 4,000 shops on 30,700 square metres in the walled city of Istanbul, between the Beyazit and Nuruosmaniye mosques.",
+   "tier": "cited",
+   "tags": [
+    "market"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "E",
+    "N"
+   ],
+   "image": null
+  },
+  {
+   "id": "british-museum-room-1",
+   "name": "Room 1: Enlightenment, the British Museum",
+   "url": "place/british-museum-room-1/",
+   "city": "London",
+   "country": "GB",
+   "country_name": "United Kingdom",
+   "lat": 51.519413,
+   "lon": -0.126957,
+   "precision": "street",
+   "kind": "gallery",
+   "days": {
+    "Mo": "open",
+    "Tu": "open",
+    "We": "open",
+    "Th": "open",
+    "Fr": "open",
+    "Sa": "open",
+    "Su": "open"
+   },
+   "hours_text": "Daily 10.00–17.00; Fridays until 20.30.",
+   "blurb": "One long room off the Great Court, lined with tall wall presses and galleried in dark wood.",
+   "tier": "cited",
+   "tags": [
+    "free-entry",
+    "repatriation"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "E",
+    "N",
+    "S",
+    "W"
+   ],
+   "image": null
+  },
+  {
+   "id": "pitt-rivers-charms",
+   "name": "The amulet and charm cases, Pitt Rivers Museum",
+   "url": "place/pitt-rivers-charms/",
+   "city": "Oxford",
+   "country": "GB",
+   "country_name": "United Kingdom",
+   "lat": 51.7586,
+   "lon": -1.2554,
+   "precision": "street",
+   "kind": "gallery",
+   "days": {
+    "Mo": "open",
+    "Tu": "open",
+    "We": "open",
+    "Th": "open",
+    "Fr": "open",
+    "Sa": "open",
+    "Su": "open"
+   },
+   "hours_text": "Monday 12.00–17.00; Tuesday to Sunday 10.00–17.00. Bank holiday Mondays and half-term Mondays 10.00–17.00.",
+   "blurb": "Eight glass-topped cases on the Court, the ground floor of the museum, with deep drawers under them.",
+   "tier": "cited",
+   "tags": [
+    "amulets-on-display",
+    "free-entry",
+    "repatriation"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "E",
+    "N",
+    "S",
+    "W"
+   ],
+   "image": null
+  },
+  {
+   "id": "wellcome-lovett",
+   "name": "The Lovett charms at Wellcome Collection",
+   "url": "place/wellcome-lovett/",
+   "city": "London",
+   "country": "GB",
+   "country_name": "United Kingdom",
+   "lat": 51.526,
+   "lon": -0.1336,
+   "precision": "street",
+   "kind": "archive",
+   "days": {
+    "Mo": "unknown",
+    "Tu": "open",
+    "We": "open",
+    "Th": "open",
+    "Fr": "open",
+    "Sa": "open",
+    "Su": "unknown"
+   },
+   "hours_text": "Galleries and Reading Room: Tuesday to Sunday 10.00–18.00, closed Monday. Library: Monday to Friday 10.00–18.00, Saturday 10.00–16.00, closed Sunday.",
+   "blurb": "An address rather than a room. Walk into 183 Euston Road today and there is no case of Edward Lovett's London charms to look at: the permanent show of Henry Wellcome's own collecting, Medicine Man, closed for good on 27…",
+   "tier": "cited",
+   "tags": [
+    "free-entry",
+    "open-images"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "N",
+    "W"
+   ],
+   "image": null
+  },
+  {
+   "id": "met-egyptian-galleries",
+   "name": "The Egyptian galleries, the Metropolitan Museum of Art",
+   "url": "place/met-egyptian-galleries/",
+   "city": "New York",
+   "country": "US",
+   "country_name": "United States of America",
+   "lat": 40.7794,
+   "lon": -73.9632,
+   "precision": "street",
+   "kind": "gallery",
+   "days": {
+    "Mo": "open",
+    "Tu": "open",
+    "We": "closed",
+    "Th": "open",
+    "Fr": "open",
+    "Sa": "open",
+    "Su": "open"
+   },
+   "hours_text": "Sunday, Monday, Tuesday and Thursday 10am–5pm; Friday and Saturday 10am–9pm; Wednesday closed.",
+   "blurb": "A chain of rooms along the museum's north side, running from the predynastic material through to Roman Egypt and ending at the Temple of Dendur in its glass hall.",
+   "tier": "cited",
+   "tags": [
+    "amulets-on-display",
+    "open-images",
+    "repatriation"
+   ],
+   "recognitions": 0,
+   "hemispheres": [
+    "E",
+    "N",
+    "W"
+   ],
+   "image": null
+  }
+ ]
+}

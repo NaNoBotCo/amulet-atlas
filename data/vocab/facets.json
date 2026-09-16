@@ -1,0 +1,183 @@
+{
+ "note": "Known facet keys per type, with known values. Open: an unknown value warns, never fails.",
+ "facets": {
+  "era": {
+   "types": [
+    "amulet",
+    "tradition",
+    "motif",
+    "practice",
+    "art",
+    "story"
+   ],
+   "values": [
+    "prehistoric",
+    "ancient",
+    "classical",
+    "medieval",
+    "early-modern",
+    "modern",
+    "living"
+   ]
+  },
+  "family": {
+   "types": [
+    "motif"
+   ],
+   "values": [
+    "eye",
+    "hand",
+    "horn",
+    "knot",
+    "serpent",
+    "tooth-and-claw",
+    "body-part",
+    "weapon",
+    "script",
+    "number",
+    "plant",
+    "animal",
+    "celestial",
+    "mirror",
+    "container",
+    "thread",
+    "coin",
+    "house",
+    "geometric",
+    "tool",
+    "sound"
+   ]
+  },
+  "kind": {
+   "types": [
+    "material",
+    "place",
+    "org",
+    "art",
+    "story"
+   ],
+   "values": [
+    "stone",
+    "organic",
+    "fired",
+    "metal",
+    "written",
+    "textile",
+    "plant",
+    "mineral",
+    "modern",
+    "museum",
+    "market",
+    "workshop",
+    "shrine",
+    "site",
+    "gallery",
+    "archive",
+    "research",
+    "registry",
+    "plate",
+    "sign",
+    "votive",
+    "diagram",
+    "photograph",
+    "essay",
+    "map",
+    "quiz",
+    "resources"
+   ]
+  },
+  "stage": {
+   "types": [
+    "practice"
+   ],
+   "values": [
+    "make",
+    "charge",
+    "wear",
+    "feed",
+    "renew",
+    "retire",
+    "dispose",
+    "inherit",
+    "trade"
+   ]
+  },
+  "role": {
+   "types": [
+    "person"
+   ],
+   "values": [
+    "maker",
+    "monk",
+    "priest",
+    "healer",
+    "excavator",
+    "scholar",
+    "collector",
+    "dealer",
+    "curator",
+    "photographer",
+    "writer"
+   ]
+  },
+  "language": {
+   "types": [
+    "term",
+    "tradition"
+   ],
+   "values": []
+  },
+  "status": {
+   "types": [
+    "amulet",
+    "tradition",
+    "practice"
+   ],
+   "values": [
+    "living",
+    "dormant",
+    "revived",
+    "archaeological",
+    "contested"
+   ]
+  },
+  "hemisphere": {
+   "types": [
+    "amulet",
+    "tradition",
+    "motif",
+    "place"
+   ],
+   "values": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ]
+  },
+  "portable": {
+   "types": [
+    "amulet"
+   ],
+   "values": [
+    "worn",
+    "carried",
+    "placed",
+    "taken",
+    "fixed"
+   ]
+  },
+  "restricted": {
+   "types": [
+    "amulet",
+    "tradition",
+    "practice"
+   ],
+   "values": [
+    "open",
+    "limited",
+    "closed"
+   ]
+  }
+ }
+}

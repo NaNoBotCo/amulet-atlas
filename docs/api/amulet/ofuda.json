@@ -1,0 +1,658 @@
+{
+ "schema": 1,
+ "id": "ofuda",
+ "type": "amulet",
+ "names": {
+  "name": "Ofuda",
+  "native": "御札",
+  "script": "Japanese",
+  "lang": "ja",
+  "said": "o-FU-da",
+  "aliases": [
+   "gofu 護符",
+   "shinsatsu 神札",
+   "kamifuda",
+   "kifuda",
+   "Jingū Taima"
+  ]
+ },
+ "etymology": {
+  "root": "Japanese fuda 札 'slip of paper, card, plate', with the honorific prefix o-/go-; the Buddhist and Daoist-derived synonym is gofu 護符, 'guarding tally'",
+  "note": "The form descends in part from the Chinese Daoist lingfu, which reached Japan through Onmyōdō, and in part from the woodblock-printed Buddhist texts and images temples produced from the Nara and Heian periods.",
+  "tier": "cited",
+  "source": "s:wp-ofuda"
+ },
+ "region": [
+  "japan"
+ ],
+ "countries": [
+  "JP"
+ ],
+ "facets": {
+  "era": "medieval",
+  "status": "living",
+  "portable": "placed",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A flat talisman issued by a shrine or a temple: a sheet of paper, a thin rectangular plaque in a paper sleeve, or a wooden tablet, carrying the name of the shrine or of the deity enshrined there and stamped with the shrine's seal. Paper ones are kamifuda, wooden ones kifuda. It is not carried on a person. It stands on a household altar, or goes on a wall above eye level, or is fixed at a gate, a doorway, a kitchen or a ceiling.",
+  "story": "Two lines run into the ofuda. One is Daoist: the lingfu, the talismanic script of China, which reached Japan through Onmyōdō. The other is print — the woodblock sheets of Buddhist text and image that temples were turning out from the Nara and Heian periods on. In the medieval period the three Kumano shrines in Wakayama stamped their paper talismans with stylised crows and called them Kumano Goōfu, Ox King Talismans; oaths and contracts were written on the blank side, so the sheet held the agreement and the sanction at once.\n\nThe standard modern form comes from Ise. Wandering preachers attached to the Ise shrines, the oshi, handed out purification wands called Oharai Taima as a sign that prayers had been said on a devotee's behalf. The wand came folded into paper shaped like a sword blade — kenharai — or boxed. Distribution started in the Muromachi period and peaked in the Edo: a document of 1777 records that eighty-nine to ninety per cent of households in the country held an Ise talisman. That is close to universal coverage, three centuries before mass media.\n\nThen the state took it over. An imperial decree of 1871 abolished the oshi and moved production of the talisman, renamed Jingū Taima, to the shrine's own offices. In 1900 a new Department of Priests, the Kanbesho, took over; in 1927 the National Association of Shinto Priests; after the Second World War, the Association of Shinto Shrines, which still distributes Jingū Taima to affiliated shrines across Japan. *Inference —* an object whose issuing body is renamed four times in seventy-five years is an object the state has an opinion about.",
+  "how": "Received at a shrine or temple counter, in exchange for hatsuhoryō, a first-fruit offering rather than a price. Shinsatsu are set on a kamidana, a household Shinto altar, or on a stand; failing that, upright in a clean space above eye level, facing east, south or south-east. The Association of Shinto Shrines recommends three per household: the Jingū Taima from Ise, the ofuda of the tutelary kami of where you live, and the ofuda of a shrine you are personally attached to. In a three-door altar the Ise one goes in the middle. Other ofuda go elsewhere in the house — hearth deities in the kitchen, a talisman of the Buddhist figure Ucchuṣma in the toilet, the horned Tsuno Daishi, the Tendai monk Ryōgen drawn as a yaksha, on a doorway. They are replaced annually, ideally before the year turns, and the old ones are burnt at the Sagichō or Dondoyaki fire in mid-January. Most shrines will take back another shrine's ofuda; many will not take a Buddhist one.",
+  "today": "Issued year-round by shrines and temples with permanent staff, and distributed nationally through the Association of Shinto Shrines as of 2026. Japan has around 100,000 public shrines, about 80,000 of them affiliated with the Association and roughly 20,000 unaffiliated, which is the network the Ise talisman travels down."
+ },
+ "dating": {
+  "period": "Nara and Heian woodblock prints to the present",
+  "from_year": 710,
+  "to_year": null,
+  "living": true,
+  "label": "from the Nara period, c. 710, to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-ofuda",
+  "note": "The source traces the form to Daoist lingfu via Onmyōdō and to temple woodblock prints 'since the Nara and Heian periods'; 710 is the start of the Nara period and marks the earliest that statement can reach, not an attested object. The firm dates in this record are 1777, 1871, 1900 and 1927."
+ },
+ "object": {
+  "form": "folded-paper",
+  "materials": [
+   "paper",
+   "wood",
+   "cloth"
+  ],
+  "worn": [
+   "wall",
+   "door",
+   "lintel",
+   "hearth"
+  ],
+  "made_by": "shrines and temples; the Ise talisman by the shrine's own offices since 1871 and by the Association of Shinto Shrines since the war",
+  "inscription": "the name of the shrine or of its enshrined kami, or of a Buddhist figure, with the shrine's seal; the Ise tablet is printed Tenshō Kōtai Jingū and stamped with the shrine's and its high priest's seals",
+  "script": "Japanese",
+  "single_use": true,
+  "source": "s:wp-ofuda",
+  "note": "The Ise form encloses a sliver of cedar called gyoshin, the sacred core, wrapped in the printed paper. Materials also include metal."
+ },
+ "against": [
+  {
+   "harm": "house",
+   "who": "the shrines, which issue ofuda specifically for safety within the home and for the hearth",
+   "source": "s:wp-ofuda",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "the shrines, in the class issued against calamity or misfortune",
+   "source": "s:wp-ofuda",
+   "tier": "cited"
+  },
+  {
+   "harm": "loneliness",
+   "who": "the shrines, which issue ofuda for finding love among the purpose-specific kinds",
+   "source": "s:wp-ofuda",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "temple practice: the Tsuno Daishi gofu, the monk Ryōgen drawn as a yaksha, goes on the doorway",
+   "source": "s:wp-ofuda",
+   "tier": "cited",
+   "note": "the source calls these protective gofu without naming what they turn back; the harm key here is this project's reading of a doorway guard"
+  }
+ ],
+ "kin": [
+  {
+   "to": "omamori",
+   "as": "its own portable child — same origin, same counter, but sewn into a pouch and carried instead of stood on an altar",
+   "rel": "descendant"
+  },
+  {
+   "to": "fu-talisman",
+   "as": "the Chinese ancestor: the Daoist talismanic sheet that reached Japan through Onmyōdō and set the form",
+   "rel": "origin"
+  },
+  {
+   "to": "bujeok",
+   "as": "the Korean cousin out of the same Daoist stock, drawn from Hanja rather than printed with a shrine seal",
+   "rel": "parallel"
+  },
+  {
+   "to": "japanese-engimono",
+   "as": "the tradition that sells it, alongside the daruma, the rake and the beckoning cat",
+   "rel": "tradition"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "where half of them end up — gate, doorway, kitchen, ceiling, one per job",
+   "rel": "practice"
+  },
+  {
+   "to": "renewing-yearly",
+   "as": "the twelve-month clock that governs it, and the reason Japan burns so much paper each January",
+   "rel": "practice"
+  },
+  {
+   "to": "burning-retirement",
+   "as": "the ending: Sagichō or Dondoyaki, the Little New Year fire on 14 or 15 January",
+   "rel": "practice"
+  },
+  {
+   "to": "mezuzah",
+   "as": "the other household text fixed at a doorway and inspected on a cycle, four thousand miles west",
+   "rel": "parallel"
+  },
+  {
+   "to": "fushimi-inari",
+   "as": "one of the shrines that issues its own alongside the Ise talisman",
+   "rel": "place"
+  },
+  {
+   "to": "divine-name",
+   "as": "the sign it carries: the name of the kami or the Buddhist figure is the talisman's working part",
+   "rel": "motif"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "omamori",
+   "tell": "if it is a closed brocade pouch on a strap, it is an omamori; if it is a flat sheet or tablet meant to stand or be fixed, it is an ofuda"
+  }
+ ],
+ "links": [
+  {
+   "label": "Ofuda — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ofuda"
+  }
+ ],
+ "sources": [
+  "s:wp-ofuda",
+  "s:wp-omamori",
+  "s:wp-fulu",
+  "s:wp-amulet",
+  "s:web-wp-shinto"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-ofuda"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "cited",
+    "source": "s:web-wp-shinto",
+    "note": "the shrine counts are from the Shinto article as read on 2026-09-16; no year is attached to them there"
+   },
+   "against": {
+    "tier": "cited",
+    "source": "s:wp-ofuda",
+    "note": "the fourth entry maps a doorway guard onto this project's harm vocabulary and says so"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Jingu taima.jpg",
+  "File:Ofuda.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A flat talisman issued by a shrine or a temple: a sheet of paper, a thin rectangular plaque in a paper sleeve, or a wooden tablet, carrying the name of the shrine or of the deity enshrined there and stamped with the…",
+ "region_terms": [
+  {
+   "key": "japan",
+   "name": "Japan",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "omamori",
+   "type": "amulet",
+   "name": "Omamori",
+   "as": "its own portable child — same origin, same counter, but sewn into a pouch and carried instead of stood on an altar",
+   "rel": "descendant"
+  },
+  {
+   "to": "fu-talisman",
+   "type": "amulet",
+   "name": "Fu talisman",
+   "as": "the Chinese ancestor: the Daoist talismanic sheet that reached Japan through Onmyōdō and set the form",
+   "rel": "origin"
+  },
+  {
+   "to": "bujeok",
+   "type": "amulet",
+   "name": "Bujeok",
+   "as": "the Korean cousin out of the same Daoist stock, drawn from Hanja rather than printed with a shrine seal",
+   "rel": "parallel"
+  },
+  {
+   "to": "japanese-engimono",
+   "type": "tradition",
+   "name": "Engimono",
+   "as": "the tradition that sells it, alongside the daruma, the rake and the beckoning cat",
+   "rel": "tradition"
+  },
+  {
+   "to": "hanging-at-door",
+   "type": "practice",
+   "name": "Hanging at the door",
+   "as": "where half of them end up — gate, doorway, kitchen, ceiling, one per job",
+   "rel": "practice"
+  },
+  {
+   "to": "renewing-yearly",
+   "type": "practice",
+   "name": "Renewing yearly",
+   "as": "the twelve-month clock that governs it, and the reason Japan burns so much paper each January",
+   "rel": "practice"
+  },
+  {
+   "to": "burning-retirement",
+   "type": "practice",
+   "name": "Burning at retirement",
+   "as": "the ending: Sagichō or Dondoyaki, the Little New Year fire on 14 or 15 January",
+   "rel": "practice"
+  },
+  {
+   "to": "mezuzah",
+   "type": "amulet",
+   "name": "Mezuzah",
+   "as": "the other household text fixed at a doorway and inspected on a cycle, four thousand miles west",
+   "rel": "parallel"
+  },
+  {
+   "to": "fushimi-inari",
+   "type": "place",
+   "name": "Fushimi Inari-taisha",
+   "as": "one of the shrines that issues its own alongside the Ise talisman",
+   "rel": "place"
+  },
+  {
+   "to": "divine-name",
+   "type": "motif",
+   "name": "The name",
+   "as": "the sign it carries: the name of the kami or the Buddhist figure is the talisman's working part",
+   "rel": "motif"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-ofuda",
+   "kind": "encyclopedia",
+   "title": "Ofuda",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ofuda",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-omamori",
+   "kind": "encyclopedia",
+   "title": "Omamori",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Omamori",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fulu",
+   "kind": "encyclopedia",
+   "title": "Fulu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fulu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-amulet",
+   "kind": "encyclopedia",
+   "title": "Amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-wp-shinto",
+   "kind": "encyclopedia",
+   "title": "Shinto",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shinto",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-ofuda"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-ofuda"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-ofuda"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:web-wp-shinto",
+   "note": "the shrine counts are from the Shinto article as read on 2026-09-16; no year is attached to them there"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-ofuda"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-ofuda"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-ofuda"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "house",
+   "label": "Harm to a house or a field",
+   "who": "the shrines, which issue ofuda specifically for safety within the home and for the hearth",
+   "quote": "",
+   "source": "s:wp-ofuda",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "the shrines, in the class issued against calamity or misfortune",
+   "quote": "",
+   "source": "s:wp-ofuda",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "loneliness",
+   "label": "Going unloved",
+   "who": "the shrines, which issue ofuda for finding love among the purpose-specific kinds",
+   "quote": "",
+   "source": "s:wp-ofuda",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "temple practice: the Tsuno Daishi gofu, the monk Ryōgen drawn as a yaksha, goes on the doorway",
+   "quote": "",
+   "source": "s:wp-ofuda",
+   "tier": "cited",
+   "note": "the source calls these protective gofu without naming what they turn back; the harm key here is this project's reading of a doorway guard"
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "paper",
+   "label": "Paper",
+   "kind": "written"
+  },
+  {
+   "key": "wood",
+   "label": "Wood",
+   "kind": "plant"
+  },
+  {
+   "key": "cloth",
+   "label": "Cloth",
+   "kind": "textile"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  },
+  {
+   "key": "lintel",
+   "label": "Above the lintel",
+   "group": "placed"
+  },
+  {
+   "key": "hearth",
+   "label": "At the hearth",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "folded-paper",
+  "label": "Folded paper"
+ },
+ "holding_facts": [],
+ "span": "710 CE to now",
+ "country_names": [
+  {
+   "iso": "JP",
+   "name": "Japan"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "bujeok",
+   "type": "amulet",
+   "name": "Bujeok",
+   "as": "the Japanese sibling out of the same fulu stock, printed with a shrine seal where this is drawn by hand",
+   "rel": "parallel"
+  },
+  {
+   "from": "exam-charm",
+   "type": "amulet",
+   "name": "Exam charm",
+   "as": "the shrine's paper talisman, sold from the same counter and kept at home rather than carried",
+   "rel": "kin"
+  },
+  {
+   "from": "fu-talisman",
+   "type": "amulet",
+   "name": "Fu talisman",
+   "as": "the Japanese descendant — the same idea of a written slip from a shrine, reached through this script",
+   "rel": "descendant"
+  },
+  {
+   "from": "lungta-flag",
+   "type": "amulet",
+   "name": "Lung ta prayer flag",
+   "as": "Japan's paper parallel, taken from a shrine each year and burned at the next",
+   "rel": "parallel"
+  },
+  {
+   "from": "maneki-neko",
+   "type": "amulet",
+   "name": "Maneki-neko",
+   "as": "what sits behind the same till in Japan, consecrated where this is not",
+   "rel": "contrast"
+  },
+  {
+   "from": "mezuzah",
+   "type": "amulet",
+   "name": "Mezuzah",
+   "as": "the Japanese paper the household fixes where the house opens, from a tradition that has no objection to calling it protective",
+   "rel": "parallel"
+  },
+  {
+   "from": "omamori",
+   "type": "amulet",
+   "name": "Omamori",
+   "as": "the parent: omamori shares its origin with the ofuda and is the smaller, portable version of it, the one that leaves the house",
+   "rel": "origin"
+  },
+  {
+   "from": "omikuji",
+   "type": "amulet",
+   "name": "Omikuji",
+   "as": "the household tablet from the same issuing body; omikuji never goes on the altar",
+   "rel": "contrast"
+  },
+  {
+   "from": "ping-an-fu",
+   "type": "amulet",
+   "name": "Ping'an fu",
+   "as": "the Japanese paper talisman descended from the same Taoist writing",
+   "rel": "parallel"
+  },
+  {
+   "from": "teru-teru-bozu",
+   "type": "amulet",
+   "name": "Teru teru bōzu",
+   "as": "the printed sheet a Japanese household hangs indoors for the year; this one hangs outdoors for a night",
+   "rel": "contrast"
+  },
+  {
+   "from": "japanese-engimono",
+   "type": "tradition",
+   "name": "Engimono",
+   "as": "the tablet the whole administered system runs on, from the Ise oshi to the Association of Shinto Shrines",
+   "rel": "carries"
+  },
+  {
+   "from": "divine-name",
+   "type": "motif",
+   "name": "The name",
+   "as": "the Japanese descendant of that script, and bujeok is the Korean one",
+   "rel": "descendant"
+  },
+  {
+   "from": "ink",
+   "type": "material",
+   "name": "Ink",
+   "as": "the Japanese descendant of the Taoist talisman, printed from woodblocks and renewed each year",
+   "rel": "descendant"
+  },
+  {
+   "from": "paper",
+   "type": "material",
+   "name": "Paper",
+   "as": "the Japanese paper talisman, issued by a shrine, placed on the household altar and renewed yearly",
+   "rel": "carried-by"
+  },
+  {
+   "from": "salt",
+   "type": "material",
+   "name": "Salt",
+   "as": "the household altar where salt is offered with rice, water and sake",
+   "rel": "kin"
+  },
+  {
+   "from": "wood",
+   "type": "material",
+   "name": "Wood",
+   "as": "the Japanese talisman whose grandest form is a wooden tablet wrapped round a sliver of cedar called the sacred core",
+   "rel": "carried-by"
+  },
+  {
+   "from": "blessing-at-a-shrine",
+   "type": "practice",
+   "name": "Blessing at a shrine",
+   "as": "the tablet whose power the practice describes as held by virtue of its consecration",
+   "rel": "carried-by"
+  },
+  {
+   "from": "burning-retirement",
+   "type": "practice",
+   "name": "Burning at retirement",
+   "as": "burnt at Sagichō or Dondoyaki on 14 or 15 January, at the end of the New Year season",
+   "rel": "carried-by"
+  },
+  {
+   "from": "burning-retirement",
+   "type": "practice",
+   "name": "Burning at retirement",
+   "as": "the wish-plaque burnt to release the wish rather than to dispose of the board",
+   "rel": "carried-by"
+  },
+  {
+   "from": "consecration",
+   "type": "practice",
+   "name": "Consecration",
+   "as": "paper that carries a kami's essence, in the practice's own words, by virtue of this step",
+   "rel": "practice"
+  },
+  {
+   "from": "feeding-the-charm",
+   "type": "practice",
+   "name": "Feeding the charm",
+   "as": "the paper on the household altar in front of which rice, salt, water and sake are set out daily",
+   "rel": "carried-by"
+  },
+  {
+   "from": "folding",
+   "type": "practice",
+   "name": "Folding",
+   "as": "the folded paper packet cut to the shape of a sword blade and handed out by the shrines of Ise",
+   "rel": "practice"
+  },
+  {
+   "from": "hanging-at-door",
+   "type": "practice",
+   "name": "Hanging at the door",
+   "as": "paper assigned by room — entrance, kitchen, toilet — with a different figure on each",
+   "rel": "carried-by"
+  },
+  {
+   "from": "renewing-yearly",
+   "type": "practice",
+   "name": "Renewing yearly",
+   "as": "the household talisman whose replacement is argued for on the ground of purity, not of wear",
+   "rel": "carried-by"
+  },
+  {
+   "from": "fushimi-inari",
+   "type": "place",
+   "name": "Fushimi Inari-taisha",
+   "as": "the paper or wood tablet taken home to the house shelf from a shrine like this one",
+   "rel": "carries"
+  },
+  {
+   "from": "senso-ji",
+   "type": "place",
+   "name": "Sensō-ji",
+   "as": "the tablet carried home from a temple like this one to the household shelf",
+   "rel": "carries"
+  },
+  {
+   "from": "fu-word",
+   "type": "term",
+   "name": "fu",
+   "as": "the Japanese descendant of fulu — the same word, crossed over and re-cut",
+   "rel": "descendant"
+  },
+  {
+   "from": "omamori-word",
+   "type": "term",
+   "name": "omamori",
+   "as": "the paper tablet the same shrines issue for the household rather than the person",
+   "rel": "contrast"
+  }
+ ]
+}

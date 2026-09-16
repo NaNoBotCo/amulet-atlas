@@ -1,0 +1,88 @@
+{
+ "schema": 1,
+ "id": "sungkhor",
+ "type": "amulet",
+ "names": {
+  "name": "Sungkhor",
+  "native": "སྲུང་འཁོར།",
+  "script": "Tibetan",
+  "lang": "bo",
+  "said": "SUNG-kor",
+  "aliases": ["srung 'khor", "sungwa", "srung ba", "protection wheel", "protective amulet"]
+ },
+ "region": ["himalaya-tibet", "south-asia", "mongolia-steppe"],
+ "countries": ["CN", "NP", "IN", "BT"],
+ "facets": {"era": "modern", "status": "living", "portable": "worn", "restricted": "limited", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A diagram on paper, folded down to a small packet and bound in coloured thread. James Gentry's description for Project Himalayan Art is exact: protective amulets — sungwa, sungkhor — \"are geometric diagrams drawn on paper with a combination of mantra formulas and images, and consecrated through contemplative ritual proceedings, before being folded up, wrapped in cords of five colors with sacred substances, and distributed for use.\" Folded, the drawing is gone; what a wearer sees is a thread lattice in five colours over a square or a lozenge.",
+  "story": "The sungkhor is what the window of an amulet box usually shows. In the gau Gentry catalogues — made in Kathmandu in the first decade of the 2000s, its contents handselected and consecrated by Chokling Rinpoche — the item behind the window is an amulet diagram wrapped in five-coloured cords, with three dark brown pills, while the other contents sit concealed behind it. Gentry adds that amulets of this kind can be included among the contents of amulet boxes or worn separately.\n\nWhat they are carried against is listed plainly: Tibetans have used them to protect against misfortune during travel, injury during battle, illness, harmful spirits, and any other potential calamity.\n\n*Inference —* the folding is the design, not the packaging. A diagram meant to be read would not be bound shut in thread; a diagram meant to be carried and not read would be. That is as far as this record goes, because the drawing inside and the rite said over it belong to a body of practice that is not published for outsiders.",
+  "how": "Drawn, consecrated, folded, wrapped, given. This atlas does not print the drawing, the mantras written into it, or the consecration, and does not assemble a version of them from scattered sources. What is published is that the consecration is a contemplative ritual proceeding and that a named lama performed it for the catalogued example; Tibetan Buddhism holds that without having gone through initiation one is generally not allowed to practise the higher Tantras, and the making of these amulets sits inside that body of practice.",
+  "today": "Worn at the neck, kept in a wallet or a pocket, and carried inside a gau across the Tibetan Buddhist world as of 2026, with the diaspora market since 1959 putting them in shops from Kathmandu to Europe and North America. A wrapped amulet sold over a counter carries no record of who consecrated it, which is the same problem the dzi market has, in paper and thread instead of stone."
+ },
+ "restricted": {
+  "note": "The design drawn inside a sungkhor and the rite that consecrates it are a lama's work and are not published for outsiders. This atlas prints what a named scholar's published description of a catalogued example shows — that the amulet is a geometric diagram with mantra formulas and images, consecrated, folded and wrapped in five-coloured cords — and prints no diagram, no mantra and no consecration formula.",
+  "who_says": "James Gentry, Project Himalayan Art, Rubin Museum of Art, 2023, whose description stops at the same point; with the Tibetan Buddhist rule that the higher Tantras require empowerment",
+  "source": "s:web-rubin-gau-gentry",
+  "url": "https://rubinmuseum.org/projecthimalayanart/essays/amulet-box-gau-with-its-contents/"
+ },
+ "dating": {
+  "period": "Tibetan Buddhist; the catalogued example is 21st century",
+  "from_year": 2000,
+  "to_year": null,
+  "living": true,
+  "label": "the dated example is of the 2000s; the form is older and undated here",
+  "method": "dated-object",
+  "tier": "cited",
+  "source": "s:web-rubin-gau-gentry",
+  "note": "No source read dates the type. The years given belong to the one object with a date on it, the gau made in Kathmandu in the first decade of the 21st century."
+ },
+ "object": {
+  "form": "packet",
+  "materials": ["paper", "ink", "thread"],
+  "worn": ["neck", "chest", "pocket"],
+  "made_by": "drawn and consecrated by a lama, then given out; not made by the wearer",
+  "inscription": "mantra formulas and images, set inside a geometric diagram — not reproduced here",
+  "script": "Tibetan",
+  "colour": ["five-coloured"],
+  "single_use": false,
+  "source": "s:web-rubin-gau-gentry",
+  "note": "No measurement is given for a folded amulet in the sources read. The Wellcome painting in holdings is a different, unfolded kind of Tibetan protective amulet, and its 29 × 21 cm is that object's size, not a sungkhor's."
+ },
+ "against": [
+  {"harm": "travel", "who": "James Gentry, summarising Tibetan use", "quote": "\"Tibetans have used them to protect against misfortune during travel, injury during battle, illness, harmful spirits, and any other potential calamity.\"", "source": "s:web-rubin-gau-gentry", "tier": "cited"},
+  {"harm": "weapons", "who": "the same sentence, which names injury during battle", "source": "s:web-rubin-gau-gentry", "tier": "cited"},
+  {"harm": "illness", "who": "the same sentence; the Wellcome Collection's Tibetan cosmological amulet is catalogued as a protection against diseases", "source": "s:web-wellcome-tibetan-amulet", "tier": "cited"},
+  {"harm": "spirits", "who": "the same sentence, which names harmful spirits", "source": "s:web-rubin-gau-gentry", "tier": "cited"}
+ ],
+ "holdings": [
+  {"museum": "wellcome", "what": "Tibetan cosmological amulet for protection against diseases, gouache on cloth, 29 × 21 cm", "accession": "581586i", "url": "https://wellcomecollection.org/works/spbbawjf", "source": "s:web-wellcome-tibetan-amulet", "open_access": true, "note": "a painted amulet rather than a folded one; published under CC BY 4.0"}
+ ],
+ "kin": [
+  {"to": "gau-box", "as": "the case it usually travels in, and the window it usually sits behind", "rel": "whole"},
+  {"to": "tibetan-protection", "as": "the tradition that draws it, consecrates it and gives it out", "rel": "tradition"},
+  {"to": "folding", "as": "the step that turns a readable diagram into a carried object", "rel": "practice"},
+  {"to": "knotting", "as": "the five-coloured cords that bind it shut, which are part of the amulet and not its wrapping", "rel": "practice"},
+  {"to": "yantra-plate", "as": "the South Asian relative it descends from in form — a deity diagram with mantras written in, except that this one is closed up instead of hung open", "rel": "origin"},
+  {"to": "takrut", "as": "Southeast Asia's version of the same move: an inscribed sheet rolled tight and bound, worn without being read", "rel": "parallel"},
+  {"to": "lungta-flag", "as": "the printed sibling that is left open to the wind rather than folded onto a body", "rel": "contrast"},
+  {"to": "paper", "as": "what carries the drawing, and why the object has to be renewed rather than cleaned", "rel": "material"},
+  {"to": "wearing-hidden", "as": "the practice it belongs to — carried where nobody sees it, including the wearer", "rel": "practice"}
+ ],
+ "links": [
+  {"label": "Amulet Box (Gau) with Its Contents — Project Himalayan Art, Rubin Museum", "url": "https://rubinmuseum.org/projecthimalayanart/essays/amulet-box-gau-with-its-contents/"},
+  {"label": "Tibetan cosmological amulet — Wellcome Collection", "url": "https://wellcomecollection.org/works/spbbawjf"}
+ ],
+ "sources": ["s:web-rubin-gau-gentry", "s:web-har-amulet-box", "s:web-wellcome-tibetan-amulet", "s:wp-tibetan-buddhism"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:web-rubin-gau-gentry"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:web-rubin-gau-gentry", "note": "the paragraph on folding as design is marked as this project's inference where it appears"},
+   "text.today": {"tier": "inference", "note": "the shop trade and the provenance problem are reasoned from the diaspora's spread and from the dzi market; no survey backs either"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Tibetan protective amulet.jpg"],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

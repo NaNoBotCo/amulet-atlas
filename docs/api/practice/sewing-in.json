@@ -1,0 +1,629 @@
+{
+ "schema": 1,
+ "id": "sewing-in",
+ "type": "practice",
+ "names": {
+  "name": "Sewing in",
+  "aliases": [
+   "stitching a charm into cloth",
+   "quilting a hand in",
+   "lining a garment"
+  ],
+  "said": "putting it inside the clothes, not on them"
+ },
+ "region": [
+  "west-africa",
+  "north-america",
+  "japan",
+  "anatolia",
+  "south-asia",
+  "diaspora"
+ ],
+ "countries": [
+  "SN",
+  "ML",
+  "US",
+  "JP",
+  "TR",
+  "IN",
+  "PK",
+  "HT"
+ ],
+ "facets": {
+  "stage": "make",
+  "era": "modern",
+  "status": "living",
+  "restricted": "limited"
+ },
+ "text": {
+  "what": "Putting the charm inside the cloth rather than on a cord. A pouch is stitched shut over what it holds; coins and hair are sewn into a belt; a charm is quilted into a bedcover; a shirt is itself the charm, worn under armour. Once stitched, the object cannot be checked without being destroyed, which is the point and the problem.",
+  "story": "The gris-gris came out of the Muslim Mande communities of far West Africa: a small cloth pouch, inscribed with verses from an ancestor and holding a ritual number of small objects, worn on the person. The Atlantic slave trade carried it to the Americas, where it became a significant practice in Haitian Vodou and in the Louisiana tradition the cited account calls \"Louisiana Voodoo\", and where the earliest legal mentions of that Louisiana tradition are New Orleans court cases of 1773, in which enslaved people were convicted of using gris-gris against those who held them. A 1982 survey in Senegal found gris-gris among the three methods of contraception best known to women there, alongside abstinence and roots and herbs.\n\nThe Kongo-derived mojo bag took the same shape in the United States and then went into bedding. African American quilt makers sewed mojo hands into quilts for protection — a practice the sources trace to Central African peoples such as the Bakongo, who adapted nkisi practice into the 'Pineapple quilt', and which spread from Mississippi and Alabama to Connecticut.\n\nJapan sewed the charm into a belt and then sewed things into the belt. A senninbari was stitched a thousand times, usually one stitch per woman; some were lined with a woman's hair, or several women's, a form of added protection the sources trace to folk belief on Okinawa, and coins were sewn in as well. Some senninbari were never worn at all: they were folded and placed inside helmet liners, pockets or packs.\n\nThe Islamic world put the writing on the garment itself. Talismanic shirts — tılsımlı gömlek in Turkish, pirâhan telesmat in Persian — are found across the Muslim world in Ottoman, Safavid, Mughal and West African types, the earliest surviving examples made in or near the fifteenth century, inscribed with Quranic verses, names of God and of prophets, and numbers. Most seem intended as a shield in battle. Hürrem Sultan gave one to Suleiman the Magnificent and told him its inscriptions would protect him from bullets.\n\n*Inference —* sewing solves a problem the cord cannot. A pendant announces itself and can be taken off you; a stitched charm passes a search, survives a change of owner's rules, and travels in a garment that has an innocent reason to exist. The practice is heaviest exactly where carrying a charm openly was dangerous.",
+  "how": "A pouch is cut, filled and stitched shut; a belt is embroidered and its lining closed over coins or hair; a quilt takes the charm between its layers; a shirt is written on before it is made up. In hoodoo practice the filled bag is then fixed and fed — smoked over incense or candles, breathed on, prayed over, and dressed with a liquid — which is a separate step this atlas files under feeding the charm.",
+  "today": "Gris-gris are worn across Senegalese society, by, in the words of the cited account, everyone from wrestlers to soldiers to housewives. Conjure shops sell made-up mojo bags and the materials to make them; Dr Jim Jordan, a conjure doctor in North Carolina, ran a Hoodoo store and a paid practice through the Jim Crow era and became a multi-millionaire doing it. Senninbari stopped being made at scale with the end of the Second World War and are now a collectors' category, catalogued and sold."
+ },
+ "dating": {
+  "period": "eighteenth century to the present",
+  "from_year": 1773,
+  "to_year": null,
+  "living": true,
+  "label": "1773 to now",
+  "method": "textual",
+  "circa": false,
+  "tier": "cited",
+  "source": "s:wp-gris-gris-talisman",
+  "note": "Dated from the 1773 New Orleans court cases, the earliest dated instance in these sources. The practice arrived in the Americas already old, and the West African tradition it came from is older than any date cited here."
+ },
+ "object": {
+  "form": "packet",
+  "materials": [
+   "cloth",
+   "leather",
+   "paper",
+   "hair",
+   "coin",
+   "herb"
+  ],
+  "worn": [
+   "sewn-in",
+   "chest",
+   "waist",
+   "pocket"
+  ],
+  "made_by": "a conjurer, a marabout, a relative, or a stranger asked for a single stitch",
+  "inscription": "in the West African and Islamic cases, Quranic verses, names of God and of prophets, and numbers",
+  "script": "Arabic",
+  "single_use": false,
+  "source": "s:wp-gris-gris-talisman"
+ },
+ "restricted": {
+  "note": "What goes inside a sewn packet is the maker's knowledge in these traditions, and this record does not list contents as a recipe. Hoodoo practice holds that a mojo is made for one individual and concealed on that person; the cited accounts describe that rule rather than publishing the fillings, and this atlas does the same.",
+  "who_says": "hoodoo practice as reported in the cited account of the mojo bag",
+  "source": "s:wp-mojo-bag"
+ },
+ "against": [
+  {
+   "harm": "witchcraft",
+   "who": "hoodoo practitioners, for whom the sewn bag houses a spirit that does protective and healing work",
+   "source": "s:wp-mojo-bag",
+   "tier": "cited"
+  },
+  {
+   "harm": "weapons",
+   "who": "Japanese women who stitched senninbari for soldiers going to war",
+   "source": "s:wp-senninbari",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "wearers of gris-gris across West Africa and the Caribbean",
+   "source": "s:wp-gris-gris-talisman",
+   "tier": "cited"
+  },
+  {
+   "harm": "infertility",
+   "who": "women in Senegal, where a 1982 survey placed gris-gris among the three best-known traditional methods of contraception",
+   "source": "s:wp-gris-gris-talisman",
+   "tier": "cited",
+   "note": "the claim here is contraceptive, which the survey records as knowledge of a method, not as an outcome"
+  }
+ ],
+ "kin": [
+  {
+   "to": "gris-gris",
+   "as": "the pouch this practice is named after, stitched shut in Mande communities and carried to Louisiana",
+   "rel": "carried-by"
+  },
+  {
+   "to": "senninbari",
+   "as": "the belt where the stitching is the charm and a thousand strangers did it",
+   "rel": "carried-by"
+  },
+  {
+   "to": "talismanic-shirt",
+   "as": "the garment version — the writing goes on the cloth and the cloth goes under the armour",
+   "rel": "carried-by"
+  },
+  {
+   "to": "hirz-pouch",
+   "as": "the sewn leather or cloth case of Islamic West and North Africa, holding written verses",
+   "rel": "carried-by"
+  },
+  {
+   "to": "taweez",
+   "as": "the same folded verse, cased in metal instead of stitched into cloth",
+   "rel": "parallel"
+  },
+  {
+   "to": "west-african-charm-craft",
+   "as": "the tradition the gris-gris comes out of, and which the Atlantic trade moved west",
+   "rel": "tradition"
+  },
+  {
+   "to": "thread",
+   "as": "the material that does the work here — the stitch is the closure and, in the senninbari, the charm itself",
+   "rel": "material"
+  },
+  {
+   "to": "wearing-hidden",
+   "as": "the rule sewing exists to serve",
+   "rel": "practice"
+  },
+  {
+   "to": "feeding-the-charm",
+   "as": "what happens after the bag is stitched — fixed, woken and dressed",
+   "rel": "practice"
+  },
+  {
+   "to": "folding",
+   "as": "the paper-and-metal branch of the same move: close the charm over its contents",
+   "rel": "parallel"
+  }
+ ],
+ "links": [
+  {
+   "label": "Gris-gris (talisman) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gris-gris_(talisman)"
+  },
+  {
+   "label": "Senninbari — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Senninbari"
+  }
+ ],
+ "sources": [
+  "s:wp-gris-gris-talisman",
+  "s:wp-mojo-bag",
+  "s:wp-senninbari",
+  "s:wp-talismanic-shirt",
+  "s:wp-nkisi"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-gris-gris-talisman"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-mojo-bag",
+    "note": "the closing paragraph about concealment under pressure is this project's reading and is marked where it appears"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Senninbari belt.jpg",
+  "File:Talismanic shirt MET.jpg"
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "Putting the charm inside the cloth rather than on a cord. A pouch is stitched shut over what it holds; coins and hair are sewn into a belt; a charm is quilted into a bedcover; a shirt is itself the charm, worn under…",
+ "region_terms": [
+  {
+   "key": "west-africa",
+   "name": "West Africa",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "japan",
+   "name": "Japan",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "anatolia",
+   "name": "Anatolia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "diaspora",
+   "name": "Diaspora",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "a practice carried out of its home region and kept"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "gris-gris",
+   "type": "amulet",
+   "name": "Gris-gris",
+   "as": "the pouch this practice is named after, stitched shut in Mande communities and carried to Louisiana",
+   "rel": "carried-by"
+  },
+  {
+   "to": "senninbari",
+   "type": "amulet",
+   "name": "Senninbari",
+   "as": "the belt where the stitching is the charm and a thousand strangers did it",
+   "rel": "carried-by"
+  },
+  {
+   "to": "talismanic-shirt",
+   "type": "amulet",
+   "name": "Talismanic shirt",
+   "as": "the garment version — the writing goes on the cloth and the cloth goes under the armour",
+   "rel": "carried-by"
+  },
+  {
+   "to": "hirz-pouch",
+   "type": "amulet",
+   "name": "Hirz",
+   "as": "the sewn leather or cloth case of Islamic West and North Africa, holding written verses",
+   "rel": "carried-by"
+  },
+  {
+   "to": "taweez",
+   "type": "amulet",
+   "name": "Ta'wiz",
+   "as": "the same folded verse, cased in metal instead of stitched into cloth",
+   "rel": "parallel"
+  },
+  {
+   "to": "west-african-charm-craft",
+   "type": "tradition",
+   "name": "West African charm craft",
+   "as": "the tradition the gris-gris comes out of, and which the Atlantic trade moved west",
+   "rel": "tradition"
+  },
+  {
+   "to": "thread",
+   "type": "material",
+   "name": "Thread and cord",
+   "as": "the material that does the work here — the stitch is the closure and, in the senninbari, the charm itself",
+   "rel": "material"
+  },
+  {
+   "to": "wearing-hidden",
+   "type": "practice",
+   "name": "Wearing hidden",
+   "as": "the rule sewing exists to serve",
+   "rel": "practice"
+  },
+  {
+   "to": "feeding-the-charm",
+   "type": "practice",
+   "name": "Feeding the charm",
+   "as": "what happens after the bag is stitched — fixed, woken and dressed",
+   "rel": "practice"
+  },
+  {
+   "to": "folding",
+   "type": "practice",
+   "name": "Folding",
+   "as": "the paper-and-metal branch of the same move: close the charm over its contents",
+   "rel": "parallel"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-gris-gris-talisman",
+   "kind": "encyclopedia",
+   "title": "Gris-gris (talisman)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gris-gris_(talisman)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mojo-bag",
+   "kind": "encyclopedia",
+   "title": "Mojo bag",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mojo_bag",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-senninbari",
+   "kind": "encyclopedia",
+   "title": "Senninbari",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Senninbari",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-talismanic-shirt",
+   "kind": "encyclopedia",
+   "title": "Talismanic shirt",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Talismanic_shirt",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-nkisi",
+   "kind": "encyclopedia",
+   "title": "Nkisi",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nkisi",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-gris-gris-talisman"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-mojo-bag",
+   "note": "the closing paragraph about concealment under pressure is this project's reading and is marked where it appears"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-gris-gris-talisman"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-gris-gris-talisman"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-gris-gris-talisman"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-gris-gris-talisman"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "witchcraft",
+   "label": "Another person's sorcery",
+   "who": "hoodoo practitioners, for whom the sewn bag houses a spirit that does protective and healing work",
+   "quote": "",
+   "source": "s:wp-mojo-bag",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "weapons",
+   "label": "Blades and bullets",
+   "gloss": "invulnerability charms; reported, never recommended",
+   "who": "Japanese women who stitched senninbari for soldiers going to war",
+   "quote": "",
+   "source": "s:wp-senninbari",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "wearers of gris-gris across West Africa and the Caribbean",
+   "quote": "",
+   "source": "s:wp-gris-gris-talisman",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "infertility",
+   "label": "Infertility",
+   "who": "women in Senegal, where a 1982 survey placed gris-gris among the three best-known traditional methods of contraception",
+   "quote": "",
+   "source": "s:wp-gris-gris-talisman",
+   "tier": "cited",
+   "note": "the claim here is contraceptive, which the survey records as knowledge of a method, not as an outcome"
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "cloth",
+   "label": "Cloth",
+   "kind": "textile"
+  },
+  {
+   "key": "leather",
+   "label": "Leather and hide",
+   "kind": "organic"
+  },
+  {
+   "key": "paper",
+   "label": "Paper",
+   "kind": "written"
+  },
+  {
+   "key": "hair",
+   "label": "Hair",
+   "kind": "organic"
+  },
+  {
+   "key": "coin",
+   "label": "A coin",
+   "kind": "metal"
+  },
+  {
+   "key": "herb",
+   "label": "Herb and root",
+   "kind": "plant"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "sewn-in",
+   "label": "Sewn into clothing",
+   "group": "carried"
+  },
+  {
+   "key": "chest",
+   "label": "On the chest, under the shirt",
+   "group": "body"
+  },
+  {
+   "key": "waist",
+   "label": "At the waist",
+   "group": "body"
+  },
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  }
+ ],
+ "form_fact": {
+  "key": "packet",
+  "label": "Sewn packet or pouch"
+ },
+ "holding_facts": [],
+ "span": "1773 CE to now",
+ "country_names": [
+  {
+   "iso": "SN",
+   "name": "Senegal"
+  },
+  {
+   "iso": "ML",
+   "name": "Mali"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "JP",
+   "name": "Japan"
+  },
+  {
+   "iso": "TR",
+   "name": "Turkey"
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  },
+  {
+   "iso": "PK",
+   "name": "Pakistan"
+  },
+  {
+   "iso": "HT",
+   "name": "Haiti"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "brown-scapular",
+   "type": "amulet",
+   "name": "Brown Scapular",
+   "as": "the older habit of stitching protection into clothing, which the scapular formalised and shrank",
+   "rel": "practice"
+  },
+  {
+   "from": "gris-gris",
+   "type": "amulet",
+   "name": "Gris-gris",
+   "as": "the practice of closing a charm into cloth so nobody can read it",
+   "rel": "practice"
+  },
+  {
+   "from": "inuit-amulet",
+   "type": "amulet",
+   "name": "Inuit amulet",
+   "as": "how one is carried: stitched into a parka rather than hung where it can be seen",
+   "rel": "practice"
+  },
+  {
+   "from": "patua",
+   "type": "amulet",
+   "name": "Patuá",
+   "as": "the practice that makes it — the closing is the charging",
+   "rel": "practice"
+  },
+  {
+   "from": "rowan-cross",
+   "type": "amulet",
+   "name": "Rowan cross",
+   "as": "how it was carried where it could not be seen, stitched into a coat lining from Scotland to Cornwall",
+   "rel": "practice"
+  },
+  {
+   "from": "senninbari",
+   "type": "amulet",
+   "name": "Senninbari",
+   "as": "the other half of the act, and how the belt was fastened or folded into a pack and a helmet liner",
+   "rel": "practice"
+  },
+  {
+   "from": "tabiz",
+   "type": "amulet",
+   "name": "Tabiz",
+   "as": "the practice the lugs on a lead case were for — the amulet stitched to clothing rather than hung",
+   "rel": "practice"
+  },
+  {
+   "from": "cloth",
+   "type": "material",
+   "name": "Cloth",
+   "as": "the practice that hides a charm inside a garment, where the cloth is both container and concealment",
+   "rel": "practice"
+  },
+  {
+   "from": "hair",
+   "type": "material",
+   "name": "Hair",
+   "as": "the practice of enclosing, which is the only thing done to this material",
+   "rel": "practice"
+  },
+  {
+   "from": "thread",
+   "type": "material",
+   "name": "Thread and cord",
+   "as": "the practice of stitching a charm into clothing, where the thread is both charm and fixing",
+   "rel": "practice"
+  },
+  {
+   "from": "folding",
+   "type": "practice",
+   "name": "Folding",
+   "as": "the cloth branch of the same move: fold, then stitch shut instead of casing",
+   "rel": "parallel"
+  },
+  {
+   "from": "wearing-hidden",
+   "type": "practice",
+   "name": "Wearing hidden",
+   "as": "how a charm gets hidden when a pocket is not enough",
+   "rel": "practice"
+  }
+ ]
+}

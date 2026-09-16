@@ -1,0 +1,633 @@
+{
+ "schema": 1,
+ "id": "fist",
+ "type": "motif",
+ "names": {
+  "name": "The fig fist",
+  "said": "in Italian, mano fica or far le fiche; in Spanish, higa; in Portuguese and Galician, figa",
+  "aliases": [
+   "fig sign",
+   "mano fica",
+   "manus fica",
+   "manus obscena",
+   "higa",
+   "figa",
+   "cigua",
+   "kukish",
+   "shish",
+   "dulya"
+  ]
+ },
+ "region": [
+  "rome-italy",
+  "greece-aegean",
+  "iberia",
+  "balkans",
+  "baltic-slavic",
+  "anatolia",
+  "brazil",
+  "diaspora"
+ ],
+ "countries": [
+  "IT",
+  "GR",
+  "ES",
+  "PT",
+  "BR",
+  "TR",
+  "RU",
+  "UA",
+  "PL",
+  "RS",
+  "HR",
+  "SI",
+  "LT",
+  "LV",
+  "AM",
+  "AZ",
+  "MN",
+  "ZA"
+ ],
+ "facets": {
+  "era": "classical",
+  "family": "hand",
+  "hemisphere": [
+   "N",
+   "S",
+   "E",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A closed fist with the thumb pushed up between the index and middle fingers, carved or cast small and hung at the neck. In jet it is black and matte; in coral it is red; in silver it is the size of a thumb joint. The gesture it copies is obscene, and that is the working part.",
+  "story": "Rome called it the manus fica. The pater familias made it during the Lemuria to turn away the spirits of the dead. Early Christians called the same shape the manus obscena, the obscene hand. Greeks wore amulets of the gesture at the neck against the evil eye and drew it in their art; what they took to be an overtly sexual gesture was expected to distract harm from its target.\n\nThe fist also fused with another sign. Roman soldiers carried the fist-and-phallus amulet — a phallic pendant with a clenched fist at the base of the shaft, facing away from the glans, several of them making the fig sign. The largest known collection of them comes from Camulodunum, Roman Colchester. Some examples carry vulvar imagery as well.\n\nThe insult and the amulet never separated. In Italy the gesture was rude enough that Dante uses it in Inferno XXV; it has long since fallen out of use there. In Russia, Belarus and Ukraine it is shish, kukish or dulya, a flat refusal. In Turkey it is the equivalent of the middle finger. In Poland it means no. In Croatia, Serbia and Slovenia a fig hidden in a pocket marks a false oath.\n\nIn Portugal, Brazil and parts of Spain — Galicia and Asturias — the same hand is a wish of good luck and a guard against the evil eye. Asturian ones are made of jet and it is usual to give them to young children; Spanish calls them higas, Galician and Portuguese figas, Asturleonese ciguas. *Inference —* the same shape reads as a curse in one country and a christening present in the next, which is the clearest case in this atlas of a sign whose meaning is entirely local. In Britain, Ireland, France, Germany and North America it survives mainly as the game where an adult pretends to have stolen a child's nose.",
+  "today": "Jet figas are still made and sold in Asturias and at Santiago de Compostela, where the jet trade grew up around pilgrims at the end of the Middle Ages. Brazilian figas are sold in wood, horn and gold."
+ },
+ "kin": [
+  {
+   "to": "figa",
+   "as": "the amulet itself, cut in jet and put on a baby in Asturias and Brazil",
+   "rel": "carried-by"
+  },
+  {
+   "to": "phallic-sign",
+   "as": "the sign it is welded to on the Roman fist-and-phallus pendants soldiers carried",
+   "rel": "kin"
+  },
+  {
+   "to": "hand",
+   "as": "the wider family of hand signs; this is the closed one",
+   "rel": "whole"
+  },
+  {
+   "to": "open-palm",
+   "as": "the other hand, flat and public, aimed at the same harm from the opposite posture",
+   "rel": "contrast"
+  },
+  {
+   "to": "eye",
+   "as": "the harm all of this is aimed at — the fist is one of the shapes that takes the look",
+   "rel": "parallel"
+  },
+  {
+   "to": "jet",
+   "as": "the black stone Asturias cuts it from, and the reason so many survive",
+   "rel": "material"
+  },
+  {
+   "to": "azabache",
+   "as": "the Spanish jet charm the figa is the commonest form of",
+   "rel": "carried-by"
+  },
+  {
+   "to": "cornicello",
+   "as": "Naples reaches for a horn where Asturias reaches for a fist",
+   "rel": "parallel"
+  }
+ ],
+ "dating": {
+  "period": "Roman to the present",
+  "from_year": -199,
+  "to_year": null,
+  "living": true,
+  "label": "in use at least since the Roman period, and still made",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-fig-sign",
+  "note": "The article dates the gesture to at least the Roman Age in southern Europe and the Mediterranean without giving a year; the start year here is a conservative reading of 'Roman Age' and is flagged as approximate."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": [
+   "jet",
+   "coral",
+   "silver",
+   "gold",
+   "bone",
+   "wood"
+  ],
+  "worn": [
+   "neck",
+   "cradle"
+  ],
+  "made_by": "jet-cutters in Asturias; the workshops at Santiago de Compostela sold to pilgrims",
+  "colour": [
+   "black",
+   "red"
+  ],
+  "source": "s:wp-fig-sign"
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "ancient Greeks, who wore amulets of the gesture at the neck",
+   "source": "s:wp-fig-sign",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "the Roman pater familias, who made the sign during the Lemuria against the spirits of the dead",
+   "source": "s:wp-fig-sign",
+   "tier": "cited"
+  },
+  {
+   "harm": "child-harm",
+   "who": "Asturian practice — jet higas are usually given to young children",
+   "source": "s:wp-fig-sign",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "Portuguese, Brazilian, Galician and Asturian use, where the gesture wishes good luck",
+   "source": "s:wp-fig-sign",
+   "tier": "cited"
+  }
+ ],
+ "links": [
+  {
+   "label": "Fig sign — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fig_sign"
+  }
+ ],
+ "sources": [
+  "s:wp-fig-sign",
+  "s:wp-fascinus",
+  "s:wp-jet-gemstone",
+  "s:wp-evil-eye"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-fig-sign"
+  },
+  "fields": {
+   "dating": {
+    "tier": "inference",
+    "note": "the from_year is a reading of 'at least since the Roman Age'; no dated find was cited"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-jet-gemstone",
+    "note": "the Asturias and Santiago jet trade is cited; the Brazilian materials are from the fig sign article"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Kukish.jpg",
+  "File:Figa amulet.jpg"
+ ],
+ "confidence": "high",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A closed fist with the thumb pushed up between the index and middle fingers, carved or cast small and hung at the neck. In jet it is black and matte; in coral it is red; in silver it is the size of a thumb joint.",
+ "region_terms": [
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "greece-aegean",
+   "name": "Greece and the Aegean",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "iberia",
+   "name": "Iberia",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "balkans",
+   "name": "The Balkans",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "baltic-slavic",
+   "name": "The Baltic and the Slavic lands",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "anatolia",
+   "name": "Anatolia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "brazil",
+   "name": "Brazil",
+   "hemi": [
+    "S",
+    "W"
+   ]
+  },
+  {
+   "key": "diaspora",
+   "name": "Diaspora",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "a practice carried out of its home region and kept"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "figa",
+   "type": "amulet",
+   "name": "Figa",
+   "as": "the amulet itself, cut in jet and put on a baby in Asturias and Brazil",
+   "rel": "carried-by"
+  },
+  {
+   "to": "phallic-sign",
+   "type": "motif",
+   "name": "The phallus",
+   "as": "the sign it is welded to on the Roman fist-and-phallus pendants soldiers carried",
+   "rel": "kin"
+  },
+  {
+   "to": "hand",
+   "type": "motif",
+   "name": "The hand",
+   "as": "the wider family of hand signs; this is the closed one",
+   "rel": "whole"
+  },
+  {
+   "to": "open-palm",
+   "type": "motif",
+   "name": "The open palm",
+   "as": "the other hand, flat and public, aimed at the same harm from the opposite posture",
+   "rel": "contrast"
+  },
+  {
+   "to": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "the harm all of this is aimed at — the fist is one of the shapes that takes the look",
+   "rel": "parallel"
+  },
+  {
+   "to": "jet",
+   "type": "material",
+   "name": "Jet",
+   "as": "the black stone Asturias cuts it from, and the reason so many survive",
+   "rel": "material"
+  },
+  {
+   "to": "azabache",
+   "type": "amulet",
+   "name": "Azabache",
+   "as": "the Spanish jet charm the figa is the commonest form of",
+   "rel": "carried-by"
+  },
+  {
+   "to": "cornicello",
+   "type": "amulet",
+   "name": "Cornicello",
+   "as": "Naples reaches for a horn where Asturias reaches for a fist",
+   "rel": "parallel"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-fig-sign",
+   "kind": "encyclopedia",
+   "title": "Fig sign",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fig_sign",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fascinus",
+   "kind": "encyclopedia",
+   "title": "Fascinus",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fascinus",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-jet-gemstone",
+   "kind": "encyclopedia",
+   "title": "Jet (gemstone)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jet_(gemstone)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-evil-eye",
+   "kind": "encyclopedia",
+   "title": "Evil eye",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Evil_eye",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-fig-sign"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-fig-sign"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-jet-gemstone",
+   "note": "the Asturias and Santiago jet trade is cited; the Brazilian materials are from the fig sign article"
+  },
+  "dating": {
+   "tier": "inference",
+   "note": "the from_year is a reading of 'at least since the Roman Age'; no dated find was cited"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-fig-sign"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "ancient Greeks, who wore amulets of the gesture at the neck",
+   "quote": "",
+   "source": "s:wp-fig-sign",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "the Roman pater familias, who made the sign during the Lemuria against the spirits of the dead",
+   "quote": "",
+   "source": "s:wp-fig-sign",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "child-harm",
+   "label": "Harm to a child",
+   "gloss": "harm to an infant or a small child; common across the atlas, though not the largest class in it — see /story/most-of-them-are-for-children/",
+   "who": "Asturian practice — jet higas are usually given to young children",
+   "quote": "",
+   "source": "s:wp-fig-sign",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "Portuguese, Brazilian, Galician and Asturian use, where the gesture wishes good luck",
+   "quote": "",
+   "source": "s:wp-fig-sign",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "jet",
+   "label": "Jet",
+   "kind": "stone"
+  },
+  {
+   "key": "coral",
+   "label": "Red coral",
+   "kind": "organic"
+  },
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  },
+  {
+   "key": "gold",
+   "label": "Gold",
+   "kind": "metal"
+  },
+  {
+   "key": "bone",
+   "label": "Bone and ivory",
+   "kind": "organic"
+  },
+  {
+   "key": "wood",
+   "label": "Wood",
+   "kind": "plant"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "cradle",
+   "label": "On a cradle",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "pendant",
+  "label": "Pendant"
+ },
+ "holding_facts": [],
+ "span": "200 BCE to now",
+ "country_names": [
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "ES",
+   "name": "Spain"
+  },
+  {
+   "iso": "PT",
+   "name": "Portugal"
+  },
+  {
+   "iso": "BR",
+   "name": "Brazil"
+  },
+  {
+   "iso": "TR",
+   "name": "Turkey"
+  },
+  {
+   "iso": "RU",
+   "name": "Russia"
+  },
+  {
+   "iso": "UA",
+   "name": "Ukraine"
+  },
+  {
+   "iso": "PL",
+   "name": "Poland"
+  },
+  {
+   "iso": "RS",
+   "name": "Serbia"
+  },
+  {
+   "iso": "HR",
+   "name": "Croatia"
+  },
+  {
+   "iso": "SI",
+   "name": "Slovenia"
+  },
+  {
+   "iso": "LT",
+   "name": "Lithuania"
+  },
+  {
+   "iso": "LV",
+   "name": "Latvia"
+  },
+  {
+   "iso": "AM",
+   "name": "Armenia"
+  },
+  {
+   "iso": "AZ",
+   "name": "Azerbaijan"
+  },
+  {
+   "iso": "MN",
+   "name": "Mongolia"
+  },
+  {
+   "iso": "ZA",
+   "name": "South Africa"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "azabache",
+   "type": "amulet",
+   "name": "Azabache",
+   "as": "the sign, filed in this atlas with the eye and the horn as things that catch a glance",
+   "rel": "motif"
+  },
+  {
+   "from": "cornicello",
+   "type": "amulet",
+   "name": "Cornicello",
+   "as": "the gesture-amulet family the mano cornuta belongs to — a hand frozen mid-sign against the same eye",
+   "rel": "parallel"
+  },
+  {
+   "from": "fascinum",
+   "type": "amulet",
+   "name": "Fascinum",
+   "as": "the second sign bolted onto it in the soldiers' type — a clenched hand making the fig",
+   "rel": "motif"
+  },
+  {
+   "from": "figa",
+   "type": "amulet",
+   "name": "Figa",
+   "as": "the sign itself, and this is its commonest carved form",
+   "rel": "motif"
+  },
+  {
+   "from": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "another substitute: a gesture frozen in coral or jet, aimed at the same look",
+   "rel": "parallel"
+  },
+  {
+   "from": "hand",
+   "type": "motif",
+   "name": "The hand",
+   "as": "the closed posture — a rude gesture cast in silver and hung on a baby",
+   "rel": "parallel"
+  },
+  {
+   "from": "open-palm",
+   "type": "motif",
+   "name": "The open palm",
+   "as": "the other hand, closed and obscene, aimed at the same harm",
+   "rel": "contrast"
+  },
+  {
+   "from": "phallic-sign",
+   "type": "motif",
+   "name": "The phallus",
+   "as": "the hand fused to the shaft on the soldiers' fist-and-phallus pendants",
+   "rel": "kin"
+  },
+  {
+   "from": "coral",
+   "type": "material",
+   "name": "Red coral",
+   "as": "the other sign it is cut into, for the same harm and the same wearer",
+   "rel": "motif"
+  }
+ ]
+}

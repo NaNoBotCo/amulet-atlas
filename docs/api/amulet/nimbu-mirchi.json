@@ -1,0 +1,427 @@
+{
+ "schema": 1,
+ "id": "nimbu-mirchi",
+ "type": "amulet",
+ "names": {
+  "name": "Nimbu mirchi",
+  "native": "नींबू मिर्ची",
+  "script": "Devanagari",
+  "lang": "hi",
+  "said": "NEEM-boo MIR-chee",
+  "aliases": [
+   "lemon and chillies",
+   "lime and seven chillies",
+   "nazar battu"
+  ]
+ },
+ "etymology": {
+  "root": "Hindi nīmbū 'lime, lemon' + mirchī 'chilli' — the object is named by its two ingredients and nothing else",
+  "note": "The wider class word is nazar battu, from nazar, the harmful look, in Hindustani.",
+  "tier": "cited",
+  "source": "s:wp-nazar-battu"
+ },
+ "region": [
+  "south-asia"
+ ],
+ "countries": [
+  "IN",
+  "PK"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "living",
+  "portable": "placed",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A lime and seven green chillies threaded on a string and hung at a doorstep, over a shop counter or from the back of a vehicle. Nothing is worn and nothing is written. The thing rots in the sun, browns, and is replaced.",
+  "story": "Two explanations of the same string circulate, and they disagree about who the string is for.\n\nIn Hindu households, especially in northern India, hanging a lime and seven green chillies at the doorstep is a ritual to either ward off or acknowledge Alakshmi, the goddess of misfortune and grief, whose name means not-Lakshmi. One version holds that the sourness of the lime and the pungency of the chillies together make a smell even Alakshmi cannot tolerate. The other holds that Alakshmi is pleased by sour and spicy offerings, and will take her share standing at the door — which makes the string a payment at the threshold rather than a barrier across it. Alakshmi is not named in Vedic, Upanishadic or early Puranic literature; she is named in the Linga Purana, the Padma Purana and the Śrī Sūkta.\n\nThe string also belongs to a wider North Indian and Pakistani class, the nazar battu, whose logic is spoilage. A nazar battu is often a deliberate blemish introduced to prevent perfection: a black mark on the face or neck of a loved one, a flaw built into an otherwise faultless house, a stitching or colouring error put into an expensive carpet or sari. Mothers lightly spit to the side of their children to imply disparagement, and children are marked with a black spot on the cheek, because excessive admiration — even from well-meaning people, even a mother's own love — is held to draw nazar.\n\n*Inference —* a lime and chillies at a shop door belong to that logic rather than to the eye-against-the-eye logic of the Mediterranean. The object is not looking back. It is either an imperfection hung where the perfect thing is, or a plate left out for the guest nobody wants inside.",
+  "how": "Bought made up, at the price of a lime. Threaded so the chillies hang below the fruit, tied at a lintel, a counter, a bumper or a dashboard. It is a household act, not a specialist's: no source read here names a priest, a mantra or a consecration for it.",
+  "today": "Ordinary street furniture in North Indian and Pakistani towns as of 2026, on shopfronts, new cars and trucks. The phrase nazar battu has also gone idiomatic: commentators in North India and Pakistan use it for a person or thing that is unwanted but has to be tolerated, as some of the press did of Pervez Musharraf during Pakistan's transition to democracy at the 2008 general election."
+ },
+ "dating": {
+  "period": "not dated in the sources read",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "undated; carried now",
+  "method": "undated",
+  "tier": "cited",
+  "source": "s:wp-alakshmi",
+  "note": "The texts that name Alakshmi — the Linga Purana, the Padma Purana, the Śrī Sūkta — are not dated in the source, and the source dates the doorstep practice not at all. A start year would be invented, so there is none."
+ },
+ "object": {
+  "form": "door-piece",
+  "materials": [
+   "herb",
+   "thread"
+  ],
+  "worn": [
+   "door",
+   "shop",
+   "vehicle"
+  ],
+  "made_by": "anybody; sold ready-strung at markets and traffic lights",
+  "count": 7,
+  "colour": [
+   "green",
+   "yellow"
+  ],
+  "single_use": true,
+  "source": "s:wp-alakshmi",
+  "note": "The count of seven green chillies with one lime is the one given in the source. Replacement when it dries is the ordinary practice; no source read here states an interval, so none is given."
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "wearers and householders in North India and Pakistan, for whom this is one of the nazar battu class",
+   "source": "s:wp-nazar-battu",
+   "tier": "cited"
+  },
+  {
+   "harm": "envy",
+   "who": "the North Indian and Pakistani account of nazar: excessive admiration, even from well-meaning people, draws it",
+   "source": "s:wp-nazar-battu",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "Hindu households in northern India, in the Alakshmi reading of the string",
+   "quote": "\"the sourness of the lime and the pungency of the chilies combined creates a smell that even Alakshmi cannot tolerate\"",
+   "source": "s:wp-alakshmi",
+   "tier": "cited",
+   "note": "the competing reading in the same source has Alakshmi pleased by sour and spicy offerings and taking her share at the door"
+  }
+ ],
+ "kin": [
+  {
+   "to": "hanging-at-door",
+   "as": "the practice this object is: a charm that guards a threshold instead of a person",
+   "rel": "practice"
+  },
+  {
+   "to": "eye",
+   "as": "the harm it answers, though not the method — this string does not look back, it spoils the look",
+   "rel": "motif"
+  },
+  {
+   "to": "nazar",
+   "as": "the glass bead sold for the same harm two thousand kilometres west, and the one this atlas usually shows first",
+   "rel": "parallel"
+  },
+  {
+   "to": "tabiz",
+   "as": "the written answer to nazar in the same streets, worn on the body while this hangs at the door",
+   "rel": "parallel"
+  },
+  {
+   "to": "horseshoe",
+   "as": "Europe's door-hung answer, nailed above the same opening for a different reason",
+   "rel": "parallel"
+  },
+  {
+   "to": "hindu-kavacha",
+   "as": "the tradition this sits at the household end of, far from any consecrated plate",
+   "rel": "tradition"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "as": "the long read that asks whether a lime in Delhi and a bead in Istanbul are answering the same thing",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Nazar battu — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nazar_battu"
+  },
+  {
+   "label": "Alakshmi — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alakshmi"
+  }
+ ],
+ "sources": [
+  "s:wp-nazar-battu",
+  "s:wp-alakshmi",
+  "s:wp-evil-eye"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-nazar-battu"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-alakshmi",
+    "note": "the closing paragraph is marked as this project's inference where it appears"
+   },
+   "text.how": {
+    "tier": "tradition",
+    "note": "how it is tied and where it is bought is general knowledge of the practice; the sources read describe the object, not its purchase"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Nimbu mirchi.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A lime and seven green chillies threaded on a string and hung at a doorstep, over a shop counter or from the back of a vehicle. Nothing is worn and nothing is written. The thing rots in the sun, browns, and is replaced.",
+ "region_terms": [
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "hanging-at-door",
+   "type": "practice",
+   "name": "Hanging at the door",
+   "as": "the practice this object is: a charm that guards a threshold instead of a person",
+   "rel": "practice"
+  },
+  {
+   "to": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "the harm it answers, though not the method — this string does not look back, it spoils the look",
+   "rel": "motif"
+  },
+  {
+   "to": "nazar",
+   "type": "amulet",
+   "name": "Nazar",
+   "as": "the glass bead sold for the same harm two thousand kilometres west, and the one this atlas usually shows first",
+   "rel": "parallel"
+  },
+  {
+   "to": "tabiz",
+   "type": "amulet",
+   "name": "Tabiz",
+   "as": "the written answer to nazar in the same streets, worn on the body while this hangs at the door",
+   "rel": "parallel"
+  },
+  {
+   "to": "horseshoe",
+   "type": "amulet",
+   "name": "Horseshoe",
+   "as": "Europe's door-hung answer, nailed above the same opening for a different reason",
+   "rel": "parallel"
+  },
+  {
+   "to": "hindu-kavacha",
+   "type": "tradition",
+   "name": "Kavacha — the Hindu armour tradition",
+   "as": "the tradition this sits at the household end of, far from any consecrated plate",
+   "rel": "tradition"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "type": "story",
+   "name": "The eye everywhere",
+   "as": "the long read that asks whether a lime in Delhi and a bead in Istanbul are answering the same thing",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-nazar-battu",
+   "kind": "encyclopedia",
+   "title": "Nazar battu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nazar_battu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-alakshmi",
+   "kind": "encyclopedia",
+   "title": "Alakshmi",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alakshmi",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-evil-eye",
+   "kind": "encyclopedia",
+   "title": "Evil eye",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Evil_eye",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-nazar-battu"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-alakshmi",
+   "note": "the closing paragraph is marked as this project's inference where it appears"
+  },
+  "text.how": {
+   "tier": "tradition",
+   "note": "how it is tied and where it is bought is general knowledge of the practice; the sources read describe the object, not its purchase"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-nazar-battu"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-nazar-battu"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-nazar-battu"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-nazar-battu"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "wearers and householders in North India and Pakistan, for whom this is one of the nazar battu class",
+   "quote": "",
+   "source": "s:wp-nazar-battu",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "envy",
+   "label": "Envy",
+   "gloss": "a neighbour's ill will, named as such",
+   "who": "the North Indian and Pakistani account of nazar: excessive admiration, even from well-meaning people, draws it",
+   "quote": "",
+   "source": "s:wp-nazar-battu",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "Hindu households in northern India, in the Alakshmi reading of the string",
+   "quote": "\"the sourness of the lime and the pungency of the chilies combined creates a smell that even Alakshmi cannot tolerate\"",
+   "source": "s:wp-alakshmi",
+   "tier": "cited",
+   "note": "the competing reading in the same source has Alakshmi pleased by sour and spicy offerings and taking her share at the door"
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "herb",
+   "label": "Herb and root",
+   "kind": "plant"
+  },
+  {
+   "key": "thread",
+   "label": "Thread and cord",
+   "kind": "textile",
+   "note": "red thread runs from the Mediterranean to Mongolia"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  },
+  {
+   "key": "shop",
+   "label": "At the till",
+   "group": "placed"
+  },
+  {
+   "key": "vehicle",
+   "label": "In a vehicle",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "door-piece",
+  "label": "Door or lintel piece"
+ },
+ "holding_facts": [],
+ "span": "undated",
+ "country_names": [
+  {
+   "iso": "IN",
+   "name": "India"
+  },
+  {
+   "iso": "PK",
+   "name": "Pakistan"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "tabiz",
+   "type": "amulet",
+   "name": "Tabiz",
+   "as": "what hangs in the doorway of the same street against the same look, made of a lemon rather than a verse",
+   "rel": "parallel"
+  },
+  {
+   "from": "hindu-kavacha",
+   "type": "tradition",
+   "name": "Kavacha — the Hindu armour tradition",
+   "as": "its household end — no text, no specialist, a lime at a doorstep",
+   "rel": "carries"
+  },
+  {
+   "from": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "South Asia's answer to the same harm, hung in a doorway instead of worn",
+   "rel": "parallel"
+  },
+  {
+   "from": "herb",
+   "type": "material",
+   "name": "Herb and root",
+   "as": "South Asia's hung plant charm, doing at a doorway what the Italian chili string does",
+   "rel": "parallel"
+  },
+  {
+   "from": "hanging-at-door",
+   "type": "practice",
+   "name": "Hanging at the door",
+   "as": "South Asia's hanging version, strung in a doorway rather than fixed to it",
+   "rel": "parallel"
+  },
+  {
+   "from": "the-eye-everywhere",
+   "type": "story",
+   "name": "The eye everywhere",
+   "as": "the South Asian answer, hung in a doorway rather than worn, and burnt afterwards",
+   "rel": "parallel"
+  }
+ ]
+}

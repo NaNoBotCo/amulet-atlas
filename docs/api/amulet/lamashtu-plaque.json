@@ -1,0 +1,501 @@
+{
+ "schema": 1,
+ "id": "lamashtu-plaque",
+ "type": "amulet",
+ "names": {
+  "name": "Lamashtu plaque",
+  "native": "𒀭𒈕𒈨",
+  "script": "cuneiform",
+  "lang": "akk",
+  "said": "la-MASH-tu, Akkadian dLa-maš-tu; Sumerian Dimme",
+  "aliases": [
+   "Lamashtu amulet",
+   "Lamastu plaque",
+   "Dimme amulet"
+  ]
+ },
+ "region": [
+  "mesopotamia"
+ ],
+ "countries": [
+  "IQ",
+  "SY"
+ ],
+ "facets": {
+  "era": "ancient",
+  "status": "archaeological",
+  "portable": "placed",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A small plaque, pierced or looped so it can hang, carrying the figure of the demon it is aimed at. Lamashtu is cut on it as a composite: a lion's or dog's head, donkey's teeth, bare breasts, bird-of-prey talons, a serpent gripped in each hand. She stands on a donkey in a boat; a dog and a piglet suckle at her. Her seven names, and an incantation telling her to keep away, run across the object in cuneiform. Bronze is the material of the big Neo-Assyrian examples; smaller ones are fired clay and cut stone.",
+  "story": "Lamashtu is the daughter of the sky god Anu, and she acts on nobody's instructions but her own — the reason Assyriologists argue she is a goddess rather than a demon, and the reason her name is written with the cuneiform sign that marks deity. Her victims are the unborn and the newly born. She touches a pregnant woman's stomach seven times to kill the baby, or takes it from the wet nurse. Adolescents, adults and the old are on her list too, as a bringer of disease.\n\nThe incantations open by addressing her directly. One amulet, catalogued as AO 8184, runs through her names — 'Dimme', 'Daughter of Anu', 'Who was named by the gods', 'Victoria, heroine among ladies' — and then delivers the whole point of the object: \"you must not approach (this) person.\" The names matter because knowing them is the hold.\n\nThe largest surviving pieces are scenes rather than signs. The Neo-Assyrian plaque in the Louvre known as the Plaque des Enfers sets divine symbols above a sickroom: a patient on a bed, ritual specialists at work, and in the bottom register Lamashtu on her donkey in the boat with the serpents in her fists, while Pazuzu drives her off down the river.\n\n*Inference —* the object is not a picture of the demon so much as a place to put her. Iconographic studies distinguish an earlier threatening figure with raised hands, a middle type holding a comb and spindle, and the elaborate serpent-holding compositions of the first millennium BCE; what stays constant across all three is that she is shown named, held, and on her way out."
+ },
+ "dating": {
+  "period": "Neo-Assyrian and Neo-Babylonian",
+  "from_year": -999,
+  "to_year": -300,
+  "living": false,
+  "label": "first millennium BCE, with earlier examples this project has not seen dated",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-lamashtu",
+  "note": "The cited article separates 'early representations' from 'later first-millennium BCE examples' without giving a first attestation. The span here is the dated half of that sentence; the floor is a floor, not an origin."
+ },
+ "object": {
+  "form": "plaque",
+  "materials": [
+   "copper",
+   "terracotta"
+  ],
+  "worn": [
+   "neck",
+   "wall",
+   "door",
+   "grave"
+  ],
+  "made_by": "ritual specialists; the objects were made to be worn, attached to the body or to clothing, or set near beds, doorways and other vulnerable spaces",
+  "inscription": "Lamashtu's seven names and an incantation ordering her not to approach the person named",
+  "script": "cuneiform",
+  "source": "s:wp-lamashtu",
+  "note": "An obsidian example is described in the Metropolitan Museum of Art's collection, with a lion-griffin head, raised clawed hands and bird talons. This project read no published measurement, so none is given."
+ },
+ "against": [
+  {
+   "harm": "child-harm",
+   "who": "the Mesopotamian incantations, which name her victims as unborn and newly born babies",
+   "quote": "you must not approach (this) person.",
+   "source": "s:wp-lamashtu",
+   "tier": "cited",
+   "note": "quoted from the amulet catalogued as AO 8184, as published in the cited article"
+  },
+  {
+   "harm": "childbirth",
+   "who": "Mesopotamian ritual practice; pregnant women were the second class of victim after the babies",
+   "source": "s:wp-lamashtu",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the Mesopotamian texts, where she also functions as a bringer of disease to adolescents, adults and the old",
+   "source": "s:wp-lamashtu",
+   "tier": "cited"
+  },
+  {
+   "harm": "demons",
+   "who": "the ritual imagery, which sets Pazuzu against her on the same object",
+   "source": "s:wp-pazuzu",
+   "tier": "cited"
+  }
+ ],
+ "holdings": [
+  {
+   "museum": "louvre",
+   "what": "the Neo-Assyrian 'Plaque des Enfers', with Lamashtu in the lower register and Pazuzu opposing her",
+   "source": "s:wp-lamashtu"
+  },
+  {
+   "museum": "met",
+   "what": "an obsidian Lamashtu amulet with a lion-griffin head",
+   "source": "s:wp-lamashtu"
+  }
+ ],
+ "kin": [
+  {
+   "to": "pazuzu-head",
+   "as": "the counter-figure cut on the same plaques, shown chasing her down the river; a household could own both and they were not opposites in the tray",
+   "rel": "contrast"
+  },
+  {
+   "to": "mesopotamian-apotropaic",
+   "as": "the tradition this object is the centre of — a named demon, a named opponent, an incantation, and a thing to hang",
+   "rel": "tradition"
+  },
+  {
+   "to": "incantation-bowl",
+   "as": "the same soil a thousand years later, with the demon caught in a spiral of ink under the floor instead of nailed to a wall",
+   "rel": "descendant"
+  },
+  {
+   "to": "holy-rider-pendant",
+   "as": "the childbirth demon again, now called Abyzou and trampled by a rider on Byzantine bronze",
+   "rel": "parallel"
+  },
+  {
+   "to": "taweret-amulet",
+   "as": "Egypt's answer to the same danger, and a guardian rather than a demon held off",
+   "rel": "parallel"
+  },
+  {
+   "to": "bes-amulet",
+   "as": "the Egyptian household protector scholars compare to Pazuzu, and so to this plaque's other half",
+   "rel": "parallel"
+  },
+  {
+   "to": "serpent",
+   "as": "the sign in both her fists on the first-millennium compositions",
+   "rel": "motif"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "where these went — beds, doorways, and the places a household counted as open",
+   "rel": "practice"
+  },
+  {
+   "to": "most-of-them-are-for-children",
+   "as": "the long read this object opens: the oldest named amulet-demon in the atlas hunts newborns",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Lamashtu — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lamashtu"
+  }
+ ],
+ "sources": [
+  "s:wp-lamashtu",
+  "s:wp-pazuzu",
+  "s:wp-mesopotamian-mythology",
+  "s:wp-apotropaic-magic"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-lamashtu"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-lamashtu",
+    "note": "the closing paragraph is marked as this project's inference where it appears"
+   },
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-lamashtu",
+    "note": "hedged in dating.note; the earliest examples are undated in the source"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Lamashtu plaque.jpg",
+  "File:Plaque des enfers.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A small plaque, pierced or looped so it can hang, carrying the figure of the demon it is aimed at.",
+ "region_terms": [
+  {
+   "key": "mesopotamia",
+   "name": "Mesopotamia",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Sumer, Akkad, Babylonia, Assyria"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "pazuzu-head",
+   "type": "amulet",
+   "name": "Pazuzu head",
+   "as": "the counter-figure cut on the same plaques, shown chasing her down the river; a household could own both and they were not opposites in the tray",
+   "rel": "contrast"
+  },
+  {
+   "to": "mesopotamian-apotropaic",
+   "type": "tradition",
+   "name": "Mesopotamian household protection",
+   "as": "the tradition this object is the centre of — a named demon, a named opponent, an incantation, and a thing to hang",
+   "rel": "tradition"
+  },
+  {
+   "to": "incantation-bowl",
+   "type": "amulet",
+   "name": "Incantation bowl",
+   "as": "the same soil a thousand years later, with the demon caught in a spiral of ink under the floor instead of nailed to a wall",
+   "rel": "descendant"
+  },
+  {
+   "to": "holy-rider-pendant",
+   "type": "amulet",
+   "name": "Holy rider pendant",
+   "as": "the childbirth demon again, now called Abyzou and trampled by a rider on Byzantine bronze",
+   "rel": "parallel"
+  },
+  {
+   "to": "taweret-amulet",
+   "type": "amulet",
+   "name": "Taweret amulet",
+   "as": "Egypt's answer to the same danger, and a guardian rather than a demon held off",
+   "rel": "parallel"
+  },
+  {
+   "to": "bes-amulet",
+   "type": "amulet",
+   "name": "Bes amulet",
+   "as": "the Egyptian household protector scholars compare to Pazuzu, and so to this plaque's other half",
+   "rel": "parallel"
+  },
+  {
+   "to": "serpent",
+   "type": "motif",
+   "name": "The serpent",
+   "as": "the sign in both her fists on the first-millennium compositions",
+   "rel": "motif"
+  },
+  {
+   "to": "hanging-at-door",
+   "type": "practice",
+   "name": "Hanging at the door",
+   "as": "where these went — beds, doorways, and the places a household counted as open",
+   "rel": "practice"
+  },
+  {
+   "to": "most-of-them-are-for-children",
+   "type": "story",
+   "name": "Most of them are for children",
+   "as": "the long read this object opens: the oldest named amulet-demon in the atlas hunts newborns",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-lamashtu",
+   "kind": "encyclopedia",
+   "title": "Lamashtu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lamashtu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pazuzu",
+   "kind": "encyclopedia",
+   "title": "Pazuzu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pazuzu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mesopotamian-mythology",
+   "kind": "encyclopedia",
+   "title": "Mesopotamian mythology",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mesopotamian_mythology",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-apotropaic-magic",
+   "kind": "encyclopedia",
+   "title": "Apotropaic magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Apotropaic_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-lamashtu"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-lamashtu",
+   "note": "the closing paragraph is marked as this project's inference where it appears"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-lamashtu",
+   "note": "hedged in dating.note; the earliest examples are undated in the source"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-lamashtu"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "child-harm",
+   "label": "Harm to a child",
+   "gloss": "harm to an infant or a small child; common across the atlas, though not the largest class in it — see /story/most-of-them-are-for-children/",
+   "who": "the Mesopotamian incantations, which name her victims as unborn and newly born babies",
+   "quote": "you must not approach (this) person.",
+   "source": "s:wp-lamashtu",
+   "tier": "cited",
+   "note": "quoted from the amulet catalogued as AO 8184, as published in the cited article"
+  },
+  {
+   "key": "childbirth",
+   "label": "Death in childbirth",
+   "who": "Mesopotamian ritual practice; pregnant women were the second class of victim after the babies",
+   "quote": "",
+   "source": "s:wp-lamashtu",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "the Mesopotamian texts, where she also functions as a bringer of disease to adolescents, adults and the old",
+   "quote": "",
+   "source": "s:wp-lamashtu",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "demons",
+   "label": "Demons and night-hags",
+   "who": "the ritual imagery, which sets Pazuzu against her on the same object",
+   "quote": "",
+   "source": "s:wp-pazuzu",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "copper",
+   "label": "Copper and bronze",
+   "kind": "metal"
+  },
+  {
+   "key": "terracotta",
+   "label": "Fired clay",
+   "kind": "fired"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  },
+  {
+   "key": "grave",
+   "label": "In the grave",
+   "group": "placed",
+   "note": "most surviving ancient amulets are here because somebody was buried in them"
+  }
+ ],
+ "form_fact": {
+  "key": "plaque",
+  "label": "Plaque or tablet"
+ },
+ "holding_facts": [
+  {
+   "key": "louvre",
+   "label": "Musée du Louvre",
+   "city": "Paris",
+   "country": "FR",
+   "url": "",
+   "what": "the Neo-Assyrian 'Plaque des Enfers', with Lamashtu in the lower register and Pazuzu opposing her",
+   "accession": "",
+   "source": "s:wp-lamashtu"
+  },
+  {
+   "key": "met",
+   "label": "The Metropolitan Museum of Art",
+   "city": "New York",
+   "country": "US",
+   "url": "",
+   "open": true,
+   "what": "an obsidian Lamashtu amulet with a lion-griffin head",
+   "accession": "",
+   "source": "s:wp-lamashtu"
+  }
+ ],
+ "span": "1000 BCE – 301 BCE",
+ "country_names": [
+  {
+   "iso": "IQ",
+   "name": "Iraq"
+  },
+  {
+   "iso": "SY",
+   "name": "Syria"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "holy-rider-pendant",
+   "type": "amulet",
+   "name": "Holy rider pendant",
+   "as": "the same demon's job description two thousand years earlier and one region east — A. A. Barb traced this family of she-demons back to the Mesopotamian primeval sea",
+   "rel": "origin"
+  },
+  {
+   "from": "incantation-bowl",
+   "type": "amulet",
+   "name": "Incantation bowl",
+   "as": "the same argument in bronze a millennium earlier, with the demon pictured instead of written",
+   "rel": "origin"
+  },
+  {
+   "from": "pazuzu-head",
+   "type": "amulet",
+   "name": "Pazuzu head",
+   "as": "the demon he is bought for; the necklace in the Uruk texts exists because she is in the room",
+   "rel": "contrast"
+  },
+  {
+   "from": "taweret-amulet",
+   "type": "amulet",
+   "name": "Taweret amulet",
+   "as": "Mesopotamia's answer to the same fear — but there the danger to mother and baby is the figure on the plaque, and here she is the guard",
+   "rel": "contrast"
+  },
+  {
+   "from": "mesopotamian-apotropaic",
+   "type": "tradition",
+   "name": "Mesopotamian household protection",
+   "as": "the object at the centre of it — the demon, named and held, on a thing you can hang",
+   "rel": "part"
+  },
+  {
+   "from": "lion",
+   "type": "motif",
+   "name": "The lion",
+   "as": "the lion head on the demon rather than on the guard, which is what makes this family two-sided",
+   "rel": "carried-by"
+  },
+  {
+   "from": "most-of-them-are-for-children",
+   "type": "story",
+   "name": "Most of them are for children",
+   "as": "the oldest named answer in this class: a plaque against the demon the incantations say takes the unborn and the newly born",
+   "rel": "carries"
+  }
+ ]
+}

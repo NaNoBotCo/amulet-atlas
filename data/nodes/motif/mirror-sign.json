@@ -1,0 +1,70 @@
+{
+ "schema": 1,
+ "id": "mirror-sign",
+ "type": "motif",
+ "names": {
+  "name": "The mirror",
+  "native": "八卦鏡",
+  "script": "Han",
+  "lang": "zh",
+  "said": "bāguà jìng, the eight-trigram mirror; in Mongolian, toli",
+  "aliases": ["bagua mirror", "pa kua mirror", "toli", "neker-toli", "shaman's mirror"]
+ },
+ "region": ["china", "mongolia-steppe", "siberia-arctic", "himalaya-tibet", "diaspora"],
+ "countries": ["CN", "HK", "TW", "MN", "RU", "SG", "MY"],
+ "facets": {"era": "medieval", "family": "mirror", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A disc of polished metal, worn or hung so it faces outward. Two well-documented kinds: the Chinese bagua mirror, octagonal or circular, with the eight trigrams ringed around a flat, convex or concave glass, fixed above a door or window; and the Mongolian and Buryat toli, a round brass, copper or bronze mirror ornamented on one face and polished on the other, worn at a shaman's neck or sewn in quantity onto the deel or apron.",
+  "story": "The bagua mirror is a feng shui remedy rather than a feng shui instrument, and its users are clear about the difference: a luopan measures, this one acts. Modern ones descend from ancient bronze-cast versions used by Taoist masters to perform mirror techniques, 鏡術, said to reveal or destroy evil spirits and to overcome natural calamities. The three shapes do three jobs in the tradition's own account: flat reflects, convex disperses, concave converges or absorbs external sha qi — poison arrows — and so changes the feng shui of a house.\n\nWhat counts as a poison arrow is concrete: the sharp corner of a neighbouring building, or an open road running at your front door. Hang a mirror above the door or window facing it and the arrow is turned away. The problem is where it goes. Anything reflected is understood to be sent in the direction the mirror faces, so pointing a bagua mirror at a neighbour's house is offensive and is a feng shui taboo. The mirrors are cheap and self-installed, which makes them easy to misuse; feuds over offensively aimed mirrors are well known in Hong Kong and other dense Chinese communities, and have been parodied in popular culture. *Inference —* this is the only charm in this atlas whose standard grievance is that somebody else used one correctly.\n\nThe toli is worn, not hung. Shamans in parts of Mongolia and in the Republic of Buryatia wear them at the neck or on the ritual costume, which is often called armour, because these pieces protect the shaman from hostile spirit attack. Among the Daur the front and back of the costume were covered with small toli laid like overlapping scales, with up to eight large mirrors on the front and a medium one over the heart — the neker-toli, sometimes plated in nickel. The mirrors are also said to collect and store the power called wind horse, to house helper spirits, and to purify water or vodka. Among the Daur the number a shaman owns says how powerful they are.\n\n*Inference —* a polished disc worn outward does the same physical thing in both traditions: it sends back whatever arrives. The explanations attached to it are not the same, and this record keeps them apart rather than writing one logic across both."
+ },
+ "kin": [
+  {"to": "bagua-mirror", "as": "the Chinese object itself — trigrams round a disc, fixed above a door", "rel": "carried-by"},
+  {"to": "toli-mirror", "as": "the Mongolian and Buryat shaman's mirror, worn on the body rather than fixed to a building", "rel": "carried-by"},
+  {"to": "eye", "as": "the other sign whose stated mechanism is sending a look back where it came from", "rel": "parallel"},
+  {"to": "hanging-at-door", "as": "the practice the bagua mirror belongs to, and the one that makes it a neighbour's problem", "rel": "practice"},
+  {"to": "coin-square", "as": "sold from the same shelf, and appearing on Chinese lock charms as a design", "rel": "kin"},
+  {"to": "ongon", "as": "the Mongolian spirit-figure the same shamans keep; the mirror houses helper spirits too", "rel": "kin"},
+  {"to": "chinese-fu-craft", "as": "the tradition the bagua mirror's mirror techniques belong to", "rel": "tradition"},
+  {"to": "wearing-hidden", "as": "the contrast the toli sets up: this is armour worn on the outside, where it can be seen", "rel": "contrast"}
+ ],
+ "dating": {
+  "period": "Taoist bronze mirrors to the present",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "in current use; the bronze-cast ancestors are undated in the sources read",
+  "method": "undated",
+  "tier": "cited",
+  "source": "s:wp-bagua",
+  "note": "Neither source read gives a date. The bagua article says modern mirrors evolved from ancient bronze-cast versions used by Taoist masters, without a period; the toli article gives no archaeological dating at all. This record does not appear on a timeline and says so."
+ },
+ "object": {
+  "form": "mirror",
+  "materials": ["copper", "brass", "glass", "steel"],
+  "worn": ["door", "wall", "neck", "chest"],
+  "made_by": "for the toli, worn by shamans as part of ritual costume; the bagua mirror is bought and self-installed",
+  "source": "s:wp-bagua"
+ },
+ "against": [
+  {"harm": "house", "who": "feng shui practitioners, on sha qi — poison arrows from a building's sharp corner or a road running at the door", "source": "s:wp-bagua", "tier": "cited"},
+  {"harm": "spirits", "who": "Taoist masters, whose mirror techniques are described as revealing or destroying evil spirits", "source": "s:wp-bagua", "tier": "cited"},
+  {"harm": "witchcraft", "who": "Mongolian and Buryat shamans, whose mirrored costume is called armour against hostile spirit attack", "source": "s:wp-toli-shamanism", "tier": "cited"}
+ ],
+ "links": [
+  {"label": "Bagua — Wikipedia", "url": "https://en.wikipedia.org/wiki/Bagua"},
+  {"label": "Toli (shamanism) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Toli_(shamanism)"}
+ ],
+ "sources": ["s:wp-bagua", "s:wp-toli-shamanism", "s:wp-chinese-numismatic-charm", "s:wp-ongon"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-bagua"},
+  "fields": {
+   "dating": {"tier": "cited", "source": "s:wp-bagua", "note": "left empty deliberately — neither source publishes a date, and a guessed one would put a false bar on the timeline"},
+   "text.story": {"tier": "cited", "source": "s:wp-toli-shamanism", "note": "the two inference marks in the prose are this project's reasoning, not either tradition's claim"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Bagua mirror.jpg", "File:Shaman toli mirror.jpg"],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

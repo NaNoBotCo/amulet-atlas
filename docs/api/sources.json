@@ -1,0 +1,3242 @@
+{
+ "note": "Every source any record may cite. Wikipedia articles land here from tools/fetch_wiki.py with the date they were read; anything else is added by hand or by an author in data/sources/new-*.json, which build.py merges.",
+ "sources": [
+  {
+   "id": "s:book-shoemaker-hex-no",
+   "kind": "book",
+   "title": "Hex, no!",
+   "author": "Alfred Lewis Shoemaker",
+   "publisher": "Pennsylvania Dutch Folklore Center, Inc., Lancaster, PA",
+   "year": 1953,
+   "url": "https://archive.org/details/hexnobyalfredlsh00shoe",
+   "accessed": "2026-09-16",
+   "note": "The Internet Archive item page was read: 32 pages, illustrated, subject headings Hex signs--Pennsylvania and Barn symbols--Pennsylvania. The booklet's own text was not read, and the record citing it says so."
+  },
+  {
+   "id": "s:data-wikidata-coordinates",
+   "kind": "dataset",
+   "title": "Wikidata coordinate location (P625), queried by item",
+   "publisher": "Wikidata, CC0",
+   "url": "https://www.wikidata.org/",
+   "accessed": "2026-09-16",
+   "license": "CC0"
+  },
+  {
+   "id": "s:repo-atlas-build",
+   "kind": "repository",
+   "title": "tools/build.py, tools/harvest_commons.py and the tables in build/api/",
+   "publisher": "Amulet Atlas — this repository",
+   "accessed": "2026-09-17",
+   "note": "Read in place. Carries the timeline table, the against table, the picture pipeline and its licence allowlist. No public URL; it ships with the source."
+  },
+  {
+   "id": "s:repo-atlas-license",
+   "kind": "repository",
+   "title": "LICENSE",
+   "publisher": "Amulet Atlas — this repository",
+   "accessed": "2026-09-16",
+   "note": "The licence file at the repository root, read in place. No public URL; it ships with the source."
+  },
+  {
+   "id": "s:repo-atlas-schema",
+   "kind": "repository",
+   "title": "schema/node.schema.json and tools/validate.py",
+   "publisher": "Amulet Atlas — this repository",
+   "accessed": "2026-09-16",
+   "note": "Read in place. The record schema and the checks run against it."
+  },
+  {
+   "id": "s:repo-atlas-viz",
+   "kind": "repository",
+   "title": "tools/viz.py — every drawn thing on this site, as inline SVG",
+   "publisher": "Amulet Atlas — this repository",
+   "accessed": "2026-09-16",
+   "note": "Read in place. Carries the drawn sign glyphs and the timeline axis."
+  },
+  {
+   "id": "s:repo-atlas-vocab",
+   "kind": "repository",
+   "title": "data/vocab/*.json — the controlled vocabularies, and the records in data/nodes/",
+   "publisher": "Amulet Atlas — this repository",
+   "accessed": "2026-09-17",
+   "note": "Read in place, and counted in place on 17 September 2026 across the 234 records then written. Counts quoted from it are counts of this atlas, never of the world."
+  },
+  {
+   "id": "s:web-ap-buddha-tattoo-ban",
+   "kind": "news",
+   "title": "Thailand seeks to ban tourists' Buddha tattoos",
+   "author": "Sinfah Tunsarawuth and Todd Pitman",
+   "publisher": "The Associated Press, via NBC News",
+   "date": "2011-06-02",
+   "url": "https://www.nbcnews.com/id/wbna43249699",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-augustus-pitt-rivers-wikipedia",
+   "kind": "web",
+   "title": "Augustus Pitt Rivers",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Augustus_Pitt_Rivers",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-azbyka-ladanka",
+   "kind": "encyclopedia",
+   "title": "Ладанка: что это такое и для чего нужна",
+   "publisher": "Азбука веры (azbyka.ru), Orthodox reference portal",
+   "url": "https://azbyka.ru/ladanka",
+   "accessed": "2026-09-17",
+   "note": "Russian-language Orthodox reference entry. Defines the ladanka as a small reliquary worn at the neck, says it is worn with a cross and never instead of one, and states that an Orthodox Christian should wear no protective charms or amulets at all."
+  },
+  {
+   "id": "s:web-bm-images-ianvisits",
+   "kind": "web",
+   "title": "British Museum makes 1.9 million images available for free",
+   "publisher": "ianVisits",
+   "url": "https://www.ianvisits.co.uk/articles/british-museum-makes-1-9-million-images-available-for-free-36338/",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-bm-room-1-enlightenment",
+   "kind": "web",
+   "title": "Enlightenment (Room 1)",
+   "publisher": "The British Museum",
+   "url": "https://www.britishmuseum.org/collection/galleries/enlightenment",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-bm-shield-oc1978",
+   "kind": "web",
+   "title": "shield, museum number Oc1978,Q.839",
+   "publisher": "The British Museum, collection online",
+   "url": "https://www.britishmuseum.org/collection/object/E_Oc1978-Q-839",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-bm-visit",
+   "kind": "web",
+   "title": "Visit",
+   "publisher": "The British Museum",
+   "url": "https://www.britishmuseum.org/visit",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-budge-amulets-1930",
+   "kind": "book",
+   "title": "Amulets and superstitions",
+   "publisher": "Oxford University Press / H. Milford, London and New York, 1930; digitised copy at the Internet Archive",
+   "url": "https://archive.org/details/b29978154",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-ca-ab2282",
+   "kind": "legislation",
+   "title": "AB-2282 Hate crimes: nooses, crosses, and swastikas (Bauer-Kahan)",
+   "publisher": "California Legislative Information",
+   "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220AB2282",
+   "published": "2022-09-18",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-campbell-bonner-wikipedia",
+   "kind": "web",
+   "title": "Campbell Bonner",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Campbell_Bonner",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-carmelite-scapular-catechesis",
+   "kind": "web",
+   "title": "Catechesis on the Brown Scapular",
+   "author": "Discalced Carmelite Friars, Semi-Province of St. Thérèse",
+   "publisher": "Discalced Carmelite Friars (carmelitefriarsocd.org)",
+   "url": "https://carmelitefriarsocd.org/blog/brown-scapular",
+   "accessed": "2026-09-17",
+   "note": "The Order's own catechesis. It states that the Simon Stock vision 'cannot be seen as historical events', that the Sabbatine privilege rests on a bull forged in Sicily which the Holy See declared unfounded in 1613, and that wearing the scapular without its obligations 'would be to reduce this precious sacramental to the status of a charm or good-luck piece'. No publication date was printed on the page."
+  },
+  {
+   "id": "s:web-cathen-agnus-dei",
+   "kind": "encyclopedia",
+   "title": "Agnus Dei",
+   "author": "Herbert Thurston",
+   "publisher": "The Catholic Encyclopedia, vol. 1 (Robert Appleton Company, New York, 1907), digitised by New Advent",
+   "url": "https://www.newadvent.org/cathen/01220a.htm",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-catholic-answers-st-christopher",
+   "kind": "web",
+   "title": "St. Christopher: The Real Story Behind the Patron of Travelers",
+   "publisher": "Catholic Answers",
+   "url": "https://www.catholic.com/tract/st-christopher-the-real-story-behind-the-patron-of-travelers",
+   "accessed": "2026-09-17",
+   "note": "No author or publication date is printed on the tract."
+  },
+  {
+   "id": "s:web-cbd-about",
+   "kind": "web",
+   "title": "Talismans — About us",
+   "publisher": "Museum of Fine Arts, Budapest — Collection of Classical Antiquities",
+   "url": "http://cbd.mfab.hu/about_us",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-cbd-magical-gems",
+   "kind": "web",
+   "title": "The Campbell Bonner Magical Gems Database (CBd)",
+   "publisher": "Museum of Fine Arts, Budapest",
+   "url": "http://cbd.mfab.hu/",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-cc-by-4",
+   "kind": "web",
+   "title": "Attribution 4.0 International (CC BY 4.0) — deed",
+   "publisher": "Creative Commons",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "accessed": "2026-09-17",
+   "note": "The human-readable deed, not the legal code. The 'No additional restrictions' clause quoted in /story/free-to-use is from this page."
+  },
+  {
+   "id": "s:web-ccc-first-commandment",
+   "kind": "web",
+   "title": "Catechism of the Catholic Church — Part Three, Section Two, Chapter One, Article 1, III: You Shall Have No Other Gods Before Me",
+   "publisher": "Libreria Editrice Vaticana / The Holy See",
+   "url": "https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_one/article_1/iii_you_shall_have_no_other_gods_before_me.html",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-cdc-mmwr-cambodian-amulet",
+   "kind": "journal",
+   "title": "Lead Poisoning of a Child Associated with Use of a Cambodian Amulet — New York City, 2009",
+   "publisher": "Morbidity and Mortality Weekly Report (MMWR), vol. 60 no. 3, Centers for Disease Control and Prevention",
+   "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6003a2.htm",
+   "date": "2011",
+   "accessed": "2026-09-17",
+   "note": "Read for the case detail: a knotted string with grey metallic beads moulded onto it, bought in a rural Cambodian market; blood lead levels at 6 months, March 2009, three months later and after removal; a total lead content in the beads of 450,000 mg/kg."
+  },
+  {
+   "id": "s:web-christopher-faraone-wikipedia",
+   "kind": "web",
+   "title": "Christopher A. Faraone",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Christopher_A._Faraone",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-coconuts-crypto-amulets",
+   "kind": "news",
+   "title": "Crypto Amulets: Monk-blessed NFTs enter the blockchain in Thailand",
+   "publisher": "Coconuts Bangkok",
+   "url": "https://coconuts.co/bangkok/news/crypto-amulets-monk-blessed-nfts-enter-the-blockchain-in-thailand/",
+   "published": "2021-06-15",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-cohna-ab2282",
+   "kind": "web",
+   "title": "Hindu and Buddhist Groups Express Strong Disappointment Regarding California Assembly's Passage of Bill AB2282 on Swastika",
+   "publisher": "Coalition of Hindus of North America",
+   "url": "https://cohna.org/cohna-pressrelease-on-ab2282-passage/",
+   "accessed": "2026-09-16",
+   "note": "Published 27 May 2022."
+  },
+  {
+   "id": "s:web-cohna-swastika",
+   "kind": "web",
+   "title": "Swastika Education & Awareness Campaign (SEAC)",
+   "publisher": "Coalition of Hindus of North America",
+   "url": "https://cohna.org/swastika/",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-commons-licensing",
+   "kind": "web",
+   "title": "Commons:Licensing",
+   "publisher": "Wikimedia Commons",
+   "url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-dazaifu-tenmangu-amulets",
+   "kind": "web",
+   "title": "An Introduction to Amulets",
+   "publisher": "Dazaifu Tenmangū, Dazaifu, Fukuoka",
+   "url": "https://www.dazaifutenmangu.or.jp/en/discover-dazaifu-tenmangu/amulets/",
+   "accessed": "2026-09-17",
+   "note": "The shrine's own English page. No prices are printed on it."
+  },
+  {
+   "id": "s:web-dma-llama-iconography",
+   "kind": "museum",
+   "title": "The Emperor's New Groove: Llama Iconography and the Inca Empire",
+   "author": "Dana Olesch",
+   "publisher": "Dallas Museum of Art (Uncrated)",
+   "url": "https://blog.dma.org/2017/03/28/the-emperors-new-groove-llama-iconography-and-the-inca-empire/",
+   "date": "2017-03-28",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-duke-sacred-arts-patua",
+   "kind": "web",
+   "title": "Amulet (Patuá) Invoking Protection by the Candomblé Goddess Iemanjá",
+   "publisher": "The Sacred Arts of the Black Atlantic, Duke University",
+   "url": "https://sacredart.caaar.duke.edu/artifacts/amulet-patua-invoking-protection-by-the-candomble-goddess-iemanja/",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-egyptian-streets-coptic-cross-tattoo",
+   "kind": "web",
+   "title": "The Story Behind the Coptic Cross Tattoo",
+   "author": "Farah Rafik",
+   "publisher": "Egyptian Streets",
+   "url": "https://egyptianstreets.com/2022/02/28/the-story-behind-the-coptic-cross-tattoo/",
+   "published": "2022-02-28",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-emojipedia-nazar",
+   "kind": "web",
+   "title": "Nazar Amulet Emoji",
+   "publisher": "Emojipedia",
+   "url": "https://emojipedia.org/nazar-amulet",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-etymonline-amulet",
+   "kind": "web",
+   "title": "amulet — Etymology, Origin & Meaning",
+   "publisher": "Online Etymology Dictionary (Douglas Harper)",
+   "url": "https://www.etymonline.com/word/amulet",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-etymonline-charm",
+   "kind": "web",
+   "title": "charm — Etymology, Origin & Meaning",
+   "publisher": "Online Etymology Dictionary (Douglas Harper)",
+   "url": "https://www.etymonline.com/word/charm",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-etymonline-fetish",
+   "kind": "web",
+   "title": "fetish — Etymology, Origin & Meaning",
+   "publisher": "Online Etymology Dictionary (Douglas Harper)",
+   "url": "https://www.etymonline.com/word/fetish",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-etymonline-juju",
+   "kind": "web",
+   "title": "juju — Etymology, Origin & Meaning",
+   "publisher": "Online Etymology Dictionary (Douglas Harper)",
+   "url": "https://www.etymonline.com/word/juju",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-etymonline-mojo",
+   "kind": "web",
+   "title": "mojo — Etymology, Origin & Meaning",
+   "publisher": "Online Etymology Dictionary (Douglas Harper)",
+   "url": "https://www.etymonline.com/word/mojo",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-etymonline-talisman",
+   "kind": "web",
+   "title": "talisman — Etymology, Origin & Meaning",
+   "publisher": "Online Etymology Dictionary (Douglas Harper)",
+   "url": "https://www.etymonline.com/word/talisman",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-foundation-deposit",
+   "kind": "encyclopedia",
+   "title": "Foundation deposit",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Foundation_deposit",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0",
+   "note": "A stub at the date read; it carries the Egyptian definition and a short list of examples and little else."
+  },
+  {
+   "id": "s:web-foundation-figure",
+   "kind": "encyclopedia",
+   "title": "Foundation figure",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Foundation_figure",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-gmelch-baseball-magic",
+   "kind": "article",
+   "title": "Baseball Magic",
+   "author": "George Gmelch",
+   "publisher": "Annual Editions, article 32 (McGraw-Hill/Dushkin, 2000); revised from 'Superstition and Ritual in American Baseball', Elysian Fields Quarterly, vol. 11, no. 3, 1992, pp. 25–36",
+   "year": 2000,
+   "url": "https://www.meissinger.com/uploads/3/4/9/1/34919185/gmelch_baseball_magic.pdf",
+   "accessed": "2026-09-17",
+   "note": "Read in full as a PDF. Gmelch is in the Department of Anthropology, Union College. The credit line on the piece reads '© September 2000, McGraw-Hill/Dushkin, with permission of the author, George Gmelch.'"
+  },
+  {
+   "id": "s:web-gweagal-shield-wikipedia",
+   "kind": "web",
+   "title": "Gweagal shield",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gweagal_shield",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-haf-ny-hate-symbols",
+   "kind": "web",
+   "title": "New York State legislature's flawed hate symbols bill on the swastika stalls",
+   "publisher": "Hindu American Foundation",
+   "url": "https://www.hinduamerican.org/press/new-york-state-legislatures-flawed-hate-symbols-bill-stalls",
+   "accessed": "2026-09-16",
+   "note": "Published 28 July 2020."
+  },
+  {
+   "id": "s:web-haf-swastika-guide",
+   "kind": "web",
+   "title": "Reporters Guide to the Swastika",
+   "publisher": "Hindu American Foundation",
+   "url": "https://www.hinduamerican.org/swastika-reporters-guide/",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-har-amulet-box",
+   "kind": "web",
+   "title": "Ritual Object: Amulet Box (Ga'u) Main Page",
+   "publisher": "Himalayan Art Resources",
+   "url": "https://www.himalayanart.org/search/set.cfm?setID=1090",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-hektoen-azabache",
+   "kind": "journal",
+   "title": "A Hispanic amulet against disease in infants",
+   "author": "Edward Tabor",
+   "publisher": "Hektoen International: A Journal of Medical Humanities",
+   "url": "https://hekint.org/2023/10/10/a-hispanic-amulet-against-disease-in-infants/",
+   "date": "2023",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-id-wikipedia-jimat",
+   "kind": "encyclopedia",
+   "title": "Jimat",
+   "publisher": "Wikipedia bahasa Indonesia",
+   "url": "https://id.wikipedia.org/wiki/Jimat",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-indigenous-foundation-dreamcatchers",
+   "kind": "web",
+   "title": "Dreamcatchers are not your \"aesthetic\"",
+   "author": "Nudrat Karim",
+   "publisher": "The Indigenous Foundation",
+   "url": "https://www.theindigenousfoundation.org/articles/dreamcatchers",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-ja-wikipedia-engimono",
+   "kind": "encyclopedia",
+   "title": "縁起物 (Engimono)",
+   "publisher": "ウィキペディア (Japanese Wikipedia)",
+   "url": "https://ja.wikipedia.org/wiki/%E7%B8%81%E8%B5%B7%E7%89%A9",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-japanhouse-kitkat",
+   "kind": "web",
+   "title": "Kit Kat",
+   "author": "Peter Davis",
+   "publisher": "Japan House, University of Illinois Urbana-Champaign",
+   "url": "https://japanhouse.illinois.edu/education/insights/kitkat",
+   "accessed": "2026-09-17",
+   "note": "Gives the Kyushu phrase kitto katsutoo (きっと勝つとぉ) and the figure of one student in three buying a Kit Kat before entrance examinations."
+  },
+  {
+   "id": "s:web-japantravel-kanda-myojin",
+   "kind": "web",
+   "title": "Tech Protection at Kanda Myojin Shrine",
+   "author": "Tyra 'nell Pille-Lu",
+   "publisher": "Japan Travel",
+   "url": "https://en.japantravel.com/tokyo/tech-protection-at-kanda-myojin-shrine/25535",
+   "published": "2015-12-16",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-joseph-naveh-wikipedia",
+   "kind": "web",
+   "title": "Joseph Naveh",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Joseph_Naveh",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-koreaherald-test-taker-gifts",
+   "kind": "news",
+   "title": "Gifts for test-takers",
+   "publisher": "The Korea Herald",
+   "url": "https://www.koreaherald.com/article/3853011",
+   "date": "2024-11-12",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-kultur-evil-eye-izmir",
+   "kind": "web",
+   "title": "Handicrafts / Evil Eye / Western Anatolia – Izmir",
+   "publisher": "Kültürel Araştırmalar Vakfı (Cultural Research Foundation)",
+   "url": "https://kultur.org.tr/en/handicrafts-evil-eye-western-anatolia-izmir/",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-lawofart-protected-objects",
+   "kind": "web",
+   "title": "Exporting objects under the Protected Objects Act 1975",
+   "publisher": "Lawof.Art",
+   "url": "https://lawof.art/2024/07/17/exporting-objects-under-the-protected-objects-act-1975/",
+   "date": "2024-07-17",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-longreads-healing-crystals",
+   "kind": "web",
+   "title": "Your Healing Crystals Are Part of the Capitalist Exploitation Machine",
+   "author": "Aaron Gilbreath",
+   "publisher": "Longreads",
+   "url": "https://longreads.com/2019/09/25/your-healing-crystals-are-part-of-the-capitalist-exploitation-machine/",
+   "date": "2019-09-25",
+   "accessed": "2026-09-17",
+   "note": "Excerpts and links Tess McClure, 'Dark crystals: the brutal reality behind a booming wellness craze', The Guardian, 17 September 2019, https://www.theguardian.com/lifeandstyle/2019/sep/17/healing-crystals-wellness-mining-madagascar. The Guardian original could not be fetched for this batch and was NOT read; the miner's wage, the village name and the quoted words reach this project through the Longreads page, which is what is cited."
+  },
+  {
+   "id": "s:web-met-collection-api",
+   "kind": "web",
+   "title": "The Met Collection API — object records",
+   "publisher": "The Metropolitan Museum of Art",
+   "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-met-egyptian-art-department",
+   "kind": "web",
+   "title": "Egyptian Art (department)",
+   "publisher": "The Metropolitan Museum of Art",
+   "url": "https://www.metmuseum.org/about-the-met/collection-areas/egyptian-art",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-met-plan-your-visit",
+   "kind": "web",
+   "title": "Plan Your Visit",
+   "publisher": "The Metropolitan Museum of Art",
+   "url": "https://www.metmuseum.org/visit/plan-your-visit",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-mexicodesconocido-ojo-de-venado",
+   "kind": "web",
+   "title": "Ojo de venado, el amuleto mexicano por excelencia",
+   "publisher": "México Desconocido",
+   "url": "https://www.mexicodesconocido.com.mx/ojo-de-venado-amuleto.html",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-ms-wikipedia-azimat",
+   "kind": "encyclopedia",
+   "title": "Azimat",
+   "publisher": "Wikipedia bahasa Melayu",
+   "url": "https://ms.wikipedia.org/wiki/Azimat",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-mwnf-hirz-oman",
+   "kind": "web",
+   "title": "Hirz (Necklace) with Qur'an case",
+   "publisher": "Discover Islamic Art, Museum With No Frontiers — National Museum, Muscat",
+   "url": "https://islamicart.museumwnf.org/database_item.php?id=object;EPM;on;Mus21;16;en",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-native-languages-dreamcatchers",
+   "kind": "web",
+   "title": "Native American Dreamcatchers: Ojibwe and other Indian dream-catcher crafts",
+   "publisher": "Native Languages of the Americas",
+   "url": "https://www.native-languages.org/dreamcatchers.htm",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-natural-earth-terms",
+   "kind": "web",
+   "title": "Terms of Use",
+   "publisher": "Natural Earth",
+   "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-ncregister-not-a-magic-charm",
+   "kind": "web",
+   "title": "Not A Magic Charm: Exploring The Purpose Of The Brown Scapular",
+   "author": "Kathrynne Skonicki",
+   "publisher": "National Catholic Register",
+   "url": "https://www.ncregister.com/news/not-a-magic-charm-exploring-the-purpose-of-the-brown-scapular",
+   "date": "2001-08-12",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-nyc-hazardous-amulets",
+   "kind": "web",
+   "title": "Hazardous Products: Jewelry, Amulets and Toys",
+   "publisher": "NYC Health (New York City Department of Health and Mental Hygiene)",
+   "url": "https://www.nyc.gov/site/doh/health/health-topics/hazardous-jewelry-amulets-charms-toys.page",
+   "accessed": "2026-09-17",
+   "note": "Read for the department's advice on amulets, sheesha, tabiz and metal charms given to children, which it says can contain high levels of lead. It names no country of origin."
+  },
+  {
+   "id": "s:web-occatholic-saint-who-aint",
+   "kind": "web",
+   "title": "Christopher: The Saint Who Ain't?",
+   "author": "Patrick Mott",
+   "publisher": "Orange County Catholic (Diocese of Orange)",
+   "url": "https://www.occatholic.com/christopher-the-saint-who-aint/",
+   "date": "2015-09-30",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-petrie-amulets-1914",
+   "kind": "book",
+   "title": "Amulets: illustrated by the Egyptian collection in University College, London",
+   "publisher": "Constable, London, 1914; digitised copy at the Internet Archive",
+   "url": "https://archive.org/details/amuletsillustrat00petruoft",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-prayer-beads",
+   "kind": "encyclopedia",
+   "title": "Prayer beads",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Prayer_beads",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-prm-amulets-guide",
+   "kind": "web",
+   "title": "Amulets and Charms Introductory Guide",
+   "publisher": "Pitt Rivers Museum, University of Oxford",
+   "url": "https://web.prm.ox.ac.uk/amulets/index.php/introductory-guide/index.html",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-prm-collections-online",
+   "kind": "web",
+   "title": "Collections online",
+   "publisher": "The Pitt Rivers Museum, University of Oxford",
+   "url": "https://prm.ox.ac.uk/collections-online",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-prm-collections-terms",
+   "kind": "web",
+   "title": "Collections Online — Terms and Conditions",
+   "publisher": "Pitt Rivers Museum, University of Oxford",
+   "url": "https://www.prm.ox.ac.uk/collections-online-terms-and-conditions",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-prm-labelling-matters",
+   "kind": "web",
+   "title": "Labelling Matters",
+   "publisher": "The Pitt Rivers Museum, University of Oxford",
+   "url": "https://www.prm.ox.ac.uk/labelling-matters",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-prm-lovett",
+   "kind": "web",
+   "title": "Edward Lovett (England: The Other Within)",
+   "publisher": "Pitt Rivers Museum, University of Oxford; researched by Alison Petch",
+   "url": "https://england.prm.ox.ac.uk/englishness-Edward-Lovett.html",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-prm-rowan-loop",
+   "kind": "web",
+   "title": "A Loop of Rowan Tree: amulets against witchcraft",
+   "author": "Sandra Modh",
+   "publisher": "Pitt Rivers Museum, University of Oxford — England: The Other Within",
+   "url": "https://england.prm.ox.ac.uk/englishness-loop-of-rowan-tree.html",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-prm-small-blessings",
+   "kind": "web",
+   "title": "Small Blessings",
+   "publisher": "Pitt Rivers Museum, University of Oxford",
+   "url": "https://web.prm.ox.ac.uk/amulets/index.html",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-prm-small-blessings-intro",
+   "kind": "web",
+   "title": "Small Blessings — Introduction",
+   "publisher": "The Pitt Rivers Museum, University of Oxford",
+   "url": "https://web.prm.ox.ac.uk/amulets/index.php/home-introduction/index.html",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-prm-small-blessings-mortillet",
+   "kind": "web",
+   "title": "Small Blessings — Adrien de Mortillet",
+   "publisher": "The Pitt Rivers Museum, University of Oxford",
+   "url": "https://web.prm.ox.ac.uk/amulets/index.php/home-de-mortillet/index.html",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-prm-visit",
+   "kind": "web",
+   "title": "Visit us",
+   "publisher": "Pitt Rivers Museum, University of Oxford",
+   "url": "https://www.prm.ox.ac.uk/visit-us",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-prm-visit-us",
+   "kind": "web",
+   "title": "Visit us",
+   "publisher": "The Pitt Rivers Museum, University of Oxford",
+   "url": "https://www.prm.ox.ac.uk/visit-us",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-prm-wolf-tooth",
+   "kind": "web",
+   "title": "Small Blessings — Wolf Tooth, France",
+   "publisher": "Pitt Rivers Museum, University of Oxford",
+   "url": "https://web.prm.ox.ac.uk/amulets/index.php/tooth-amulet1/",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-psychtoday-superstition-season",
+   "kind": "web",
+   "title": "Superstition Season Is in Full Swing",
+   "author": "Carrie H. Kennedy",
+   "publisher": "Psychology Today",
+   "url": "https://www.psychologytoday.com/us/blog/alpha-blog-charlie/202404/superstition-season-is-in-full-swing",
+   "date": "2024-05-08",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-rongowhakaata-wikipedia",
+   "kind": "web",
+   "title": "Rongowhakaata",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rongowhakaata",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-rubin-gau-gentry",
+   "kind": "web",
+   "title": "Amulet Box (Gau) with Its Contents: Portable Sacred Items for Pragmatic and Transcendent Goals",
+   "author": "James Gentry",
+   "publisher": "Project Himalayan Art, Rubin Museum of Art",
+   "url": "https://rubinmuseum.org/projecthimalayanart/essays/amulet-box-gau-with-its-contents/",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-saiyasombut-religious-tattoos",
+   "kind": "web",
+   "title": "Thai Culture Ministry to crack down on religious tattoos on foreign skin",
+   "author": "Saksith Saiyasombut",
+   "publisher": "Siam Voices, republished at saiyasombut.com",
+   "date": "2011-05-31",
+   "url": "https://saiyasombut.com/blog/2011/06/02/thai-culture-ministry-to-crack-down-on-religious-tattoos-on-foreign-skin",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-sciencemuseum-lovett-mole-foot",
+   "kind": "web",
+   "title": "Mole's foot amulet, Norfolk, England, 1890-1910",
+   "publisher": "Science Museum Group Collection",
+   "url": "https://collection.sciencemuseumgroup.org.uk/objects/co103787/moles-foot-amulet-norfolk-england-1890-1910-mole-footamulets",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-shaul-shaked-hewiki",
+   "kind": "web",
+   "title": "Shaul Shaked (Hebrew Wikipedia)",
+   "publisher": "Wikipedia",
+   "url": "https://he.wikipedia.org/wiki/%D7%A9%D7%90%D7%95%D7%9C_%D7%A9%D7%A7%D7%93",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-shaul-shaked-iias",
+   "kind": "web",
+   "title": "Shaul Shaked",
+   "publisher": "Israel Institute for Advanced Studies, The Hebrew University of Jerusalem",
+   "url": "https://iias.huji.ac.il/people/shaul-shaked",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-siegfried-seligmann-dewiki",
+   "kind": "web",
+   "title": "Siegfried Seligmann (German Wikipedia)",
+   "publisher": "Wikipedia",
+   "url": "https://de.wikipedia.org/wiki/Siegfried_Seligmann",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-smithsonian-gilgamesh-tablet",
+   "kind": "news",
+   "title": "Smuggled Gilgamesh Dream Tablet Returns to Iraq",
+   "author": "Brigit Katz",
+   "publisher": "Smithsonian Magazine",
+   "url": "https://www.smithsonianmag.com/smart-news/hobby-lobby-forfeits-rare-gilgamesh-tablet-smuggled-iraq-180978314/",
+   "published": "2021-07-29",
+   "accessed": "2026-09-16",
+   "note": "Page states it was updated 23 September 2021."
+  },
+  {
+   "id": "s:web-soranews-sega-omamori",
+   "kind": "news",
+   "title": "Sega creates free digital omamori good luck charms to help you succeed at school and work",
+   "author": "Casey Baseel",
+   "publisher": "SoraNews24",
+   "url": "https://soranews24.com/2022/02/04/sega-creates-free-digital-omamori-good-luck-charms-to-help-you-succeed-at-school-and-work/",
+   "published": "2022-02-04",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-taiwanese-gods-fulu",
+   "kind": "web",
+   "title": "Talismans and Protective Charms (Fulu)",
+   "publisher": "Taiwanese Gods",
+   "url": "https://www.taiwanese-gods.org/en/culture/customs/fulu/",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-techxplore-crypto-amulets",
+   "kind": "news",
+   "title": "Buddhist digital amulets mark Thai entry into crypto art craze",
+   "publisher": "Agence France-Presse, published by TechXplore",
+   "url": "https://techxplore.com/news/2021-07-buddhist-digital-amulets-thai-entry.html",
+   "published": "2021-07-09",
+   "accessed": "2026-09-17",
+   "note": "Carries the founder's name, the monk, the sales figure and quotations from a buyer and from a collector who rejects the product."
+  },
+  {
+   "id": "s:web-tepapa-copyright",
+   "kind": "web",
+   "title": "Copyright and terms of use",
+   "publisher": "Museum of New Zealand Te Papa Tongarewa",
+   "url": "https://www.tepapa.govt.nz/about/collections/all-te-papa-websites/copyright-and-terms-use",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-tepapa-exhibitions",
+   "kind": "web",
+   "title": "Exhibitions | Ngā whakaaturanga",
+   "publisher": "Museum of New Zealand Te Papa Tongarewa",
+   "url": "https://www.tepapa.govt.nz/visit/exhibitions",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-tepapa-he-toi-whakairo",
+   "kind": "web",
+   "title": "He Toi Whakairo: The Art of Māori Carving",
+   "publisher": "Museum of New Zealand Te Papa Tongarewa",
+   "url": "https://www.tepapa.govt.nz/visit/exhibitions/he-toi-whakairo",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-tepapa-karanga-aotearoa",
+   "kind": "web",
+   "title": "The Karanga Aotearoa Repatriation Programme",
+   "publisher": "Museum of New Zealand Te Papa Tongarewa",
+   "url": "https://www.tepapa.govt.nz/about/repatriation/karanga-aotearoa-repatriation-programme",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-tepapa-mana-whenua",
+   "kind": "web",
+   "title": "Mana Whenua",
+   "publisher": "Museum of New Zealand Te Papa Tongarewa",
+   "url": "https://www.tepapa.govt.nz/visit/exhibitions/mana-whenua",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-tepapa-taonga-maori",
+   "kind": "museum",
+   "title": "Taonga Māori at Te Papa",
+   "publisher": "Museum of New Zealand Te Papa Tongarewa",
+   "url": "https://collections.tepapa.govt.nz/topic/1702",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-tepapa-visit",
+   "kind": "web",
+   "title": "Visit",
+   "publisher": "Museum of New Zealand Te Papa Tongarewa",
+   "url": "https://www.tepapa.govt.nz/visit",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-ulima-paseo-fe-magia",
+   "kind": "web",
+   "title": "Un paseo de fe y magia",
+   "publisher": "Nexos, Universidad de Lima; by Daniela Ramos, 31 October 2024",
+   "url": "https://nexos.ulima.edu.pe/2024/10/31/un-paseo-de-fe-y-magia/",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-unesco-ich-lists",
+   "kind": "web",
+   "title": "Browse the Lists of Intangible Cultural Heritage and the Register of Good Safeguarding Practices",
+   "publisher": "UNESCO Intangible Cultural Heritage",
+   "url": "https://ich.unesco.org/en/lists",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-unesco-ich-what-is",
+   "kind": "web",
+   "title": "What is Intangible Cultural Heritage?",
+   "publisher": "UNESCO Intangible Cultural Heritage",
+   "url": "https://ich.unesco.org/en/what-is-intangible-heritage-00003",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-unesco-march-1",
+   "kind": "web",
+   "title": "Cultural practices associated to the 1st of March",
+   "publisher": "UNESCO Intangible Cultural Heritage",
+   "url": "https://ich.unesco.org/en/RL/cultural-practices-associated-to-the-1st-of-march-01287",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-vatican-directory-popular-piety",
+   "kind": "web",
+   "title": "Directory on Popular Piety and the Liturgy: Principles and Guidelines",
+   "author": "Congregation for Divine Worship and the Discipline of the Sacraments",
+   "publisher": "Libreria Editrice Vaticana (vatican.va)",
+   "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020513_vers-direttorio_en.html",
+   "date": "2001-12",
+   "accessed": "2026-09-17",
+   "note": "Paragraph 12 quotes the rule that popular piety 'may never incorporate rites permeated by magic, superstition, animism, vendettas or sexual connotations'. Paragraph 205 lists the Scapular of Our Lady of Mount Carmel and Marian medals among approved practices."
+  },
+  {
+   "id": "s:web-vazhe-ladanki",
+   "kind": "web",
+   "title": "Ладанки (Amulets) — Orthodox shop catalogue page",
+   "publisher": "Важеозерский монастырь / Orthodox shop (vazhemonastery.ru), Moscow",
+   "url": "https://vazhemonastery.ru/en/jewelry-products/amulets/",
+   "accessed": "2026-09-17",
+   "note": "A retail catalogue page, read for prices only. On 17 September 2026 it listed 25 ladanki priced between 5,377 and 50,037 roubles. It carries no explanatory text about what a ladanka is, and nothing else in this batch is cited to it."
+  },
+  {
+   "id": "s:web-voa-swastika-2022",
+   "kind": "web",
+   "title": "Asian Faiths Try to Save Sacred Swastika Corrupted by Hitler",
+   "publisher": "Voice of America (VOA News)",
+   "url": "https://www.voanews.com/a/asian-faiths-try-to-save-sacred-swastika-corrupted-by-hitler/6853228.html",
+   "accessed": "2026-09-16",
+   "note": "Published 4 December 2022."
+  },
+  {
+   "id": "s:web-walter-hildburgh-wikipedia",
+   "kind": "web",
+   "title": "Walter Leo Hildburgh",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Walter_Leo_Hildburgh",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-wellcome-accessing-collections",
+   "kind": "web",
+   "title": "Accessing our collections",
+   "publisher": "Wellcome Collection",
+   "url": "https://wellcomecollection.org/collections/accessing-our-collections",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-wellcome-charmed-life",
+   "kind": "web",
+   "title": "Charmed Life: The Solace of Objects",
+   "publisher": "Wellcome Collection",
+   "url": "https://wellcomecollection.org/exhibitions/W-GYiBEAAK61cRK1",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-wellcome-lovett-dossier",
+   "kind": "web",
+   "title": "'Lovett Collection', WA/HMM/CM/Col/64",
+   "publisher": "Wellcome Collection, catalogue",
+   "url": "https://wellcomecollection.org/works/czzr75yu",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-wellcome-lovett-folk-medicines",
+   "kind": "web",
+   "title": "Moles' feet, dried frogs and other folk medicines",
+   "author": "Kate Wilkinson",
+   "publisher": "Wellcome Collection",
+   "url": "https://wellcomecollection.org/stories/moles--feet--dried-frogs-and-other-folk-medicines",
+   "date": "2019-05-21",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-wellcome-opening-times",
+   "kind": "web",
+   "title": "Opening times",
+   "publisher": "Wellcome Collection",
+   "url": "https://wellcomecollection.org/pages/opening-times",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-wellcome-tibetan-amulet",
+   "kind": "museum",
+   "title": "Tibetan cosmological amulet for protection against diseases. Gouache painting, Tibet.",
+   "publisher": "Wellcome Collection, London",
+   "url": "https://wellcomecollection.org/works/spbbawjf",
+   "accessed": "2026-09-16",
+   "license": "CC BY 4.0",
+   "note": "Reference 581586i; gouache on cloth, 29 x 21 cm, read off the item page."
+  },
+  {
+   "id": "s:web-wellcome-visit",
+   "kind": "web",
+   "title": "Visit us",
+   "publisher": "Wellcome Collection",
+   "url": "https://wellcomecollection.org/visit-us",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-wellcome-whats-on",
+   "kind": "web",
+   "title": "What's on",
+   "publisher": "Wellcome Collection",
+   "url": "https://wellcomecollection.org/whats-on",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-wikimedia-commons-wikipedia",
+   "kind": "web",
+   "title": "Wikimedia Commons",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wikimedia_Commons",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-wiktionary-amulet",
+   "kind": "web",
+   "title": "amulet — Wiktionary, the free dictionary",
+   "publisher": "Wiktionary",
+   "url": "https://en.wiktionary.org/wiki/amulet",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-wiktionary-apotropaic",
+   "kind": "web",
+   "title": "apotropaic — Wiktionary, the free dictionary",
+   "publisher": "Wiktionary",
+   "url": "https://en.wiktionary.org/wiki/apotropaic",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-wiktionary-charm",
+   "kind": "web",
+   "title": "charm — Wiktionary, the free dictionary",
+   "publisher": "Wiktionary",
+   "url": "https://en.wiktionary.org/wiki/charm",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-wiktionary-periapt",
+   "kind": "web",
+   "title": "periapt — Wiktionary, the free dictionary",
+   "publisher": "Wiktionary",
+   "url": "https://en.wiktionary.org/wiki/periapt",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-wiktionary-ward",
+   "kind": "web",
+   "title": "ward — Wiktionary, the free dictionary",
+   "publisher": "Wiktionary",
+   "url": "https://en.wiktionary.org/wiki/ward",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-wisdomlib-kavaca",
+   "kind": "web",
+   "title": "Kavaca, Kavacha: 27 definitions",
+   "publisher": "Wisdom Library (wisdomlib.org)",
+   "url": "https://www.wisdomlib.org/definition/kavaca",
+   "accessed": "2026-09-16",
+   "note": "A compilation of dictionary and text entries: Monier-Williams and Apte for the Sanskrit senses, plus Pancaratra, Shaiva, Shakta and Jain text entries, each attributed on the page."
+  },
+  {
+   "id": "s:web-wp-indonesian-numismatic-charm",
+   "kind": "encyclopedia",
+   "title": "Indonesian numismatic charm",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Indonesian_numismatic_charm",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-wp-quran-boards",
+   "kind": "encyclopedia",
+   "title": "Quran boards",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Quran_boards",
+   "accessed": "2026-09-17",
+   "license": "CC BY-SA 4.0",
+   "note": "Read for the wooden writing board (lawh, pl. alwah) of West African Qur'anic schooling: mahogany and baobab boards, ink of natural pigments mixed with charcoal and water, and the washing-off of the mastered text so the water can be drunk or used in healing. Names Nigeria, Cameroon, Hausa and Fulani, and the British Museum, Smithsonian National Museum of African Art, Musee du Quai Branly, Walters Art Museum, Minneapolis Institute of Art and Hood Museum as holding examples."
+  },
+  {
+   "id": "s:web-wp-shinto",
+   "kind": "encyclopedia",
+   "title": "Shinto",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shinto",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-wp-spanish-east-indies",
+   "kind": "encyclopedia",
+   "title": "Spanish East Indies",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Spanish_East_Indies",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-wp-tintinnabulum",
+   "kind": "encyclopedia",
+   "title": "Tintinnabulum (ancient Rome)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tintinnabulum_(Ancient_Rome)",
+   "accessed": "2026-09-17",
+   "license": "CC BY-SA 4.0",
+   "note": "Read for the Roman wind chime of bells, often shaped as a bronze ithyphallic figure or a fascinum, hung near thresholds at shops and houses, under peristyles and by the bedroom; examples from Pompeii and Herculaneum, a number of them in the Secret Museum collection at the Museo Archeologico Nazionale di Napoli."
+  },
+  {
+   "id": "s:web-wp-triskelion",
+   "kind": "encyclopedia",
+   "title": "Triskelion",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Triskelion",
+   "accessed": "2026-09-17",
+   "license": "CC BY-SA 4.0",
+   "note": "Read for the triple spiral: Malta 4400-3600 BCE, Newgrange c. 3200 BCE, European Neolithic through La Tene, hoplite shields and Greek pottery from the late 6th century BCE, the emblem of the rulers of Syracuse, and the arms and flags of the Isle of Man. The page does not say whether the recurrences are transmission or independent invention, and the record citing it says so."
+  },
+  {
+   "id": "s:web-wp-wat-bang-phra",
+   "kind": "encyclopedia",
+   "title": "Wat Bang Phra",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wat_Bang_Phra",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-abracadabra",
+   "kind": "encyclopedia",
+   "title": "Abracadabra",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Abracadabra",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-abraxas",
+   "kind": "encyclopedia",
+   "title": "Abraxas",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Abraxas",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-abyzou",
+   "kind": "encyclopedia",
+   "title": "Abyzou",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Abyzou",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0",
+   "note": "Read as raw wikitext, so the amulet inscriptions are quoted from the article's own translations, with its cited authorities (A. A. Barb 1966; Jeffrey Spier 1993) named in the record."
+  },
+  {
+   "id": "s:wp-adder-stone",
+   "kind": "encyclopedia",
+   "title": "Adder stone",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Adder_stone",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-addis-mercato",
+   "kind": "encyclopedia",
+   "title": "Addis Mercato",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Addis_Mercato",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-agadez-cross",
+   "kind": "encyclopedia",
+   "title": "Agadez Cross",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Agadez_Cross",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-agimat",
+   "kind": "encyclopedia",
+   "title": "Agimat",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Agimat",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-agnus-dei",
+   "kind": "encyclopedia",
+   "title": "Agnus Dei",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Agnus_Dei",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-akodessawa-fetish-market",
+   "kind": "encyclopedia",
+   "title": "Akodessawa Fetish Market",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Akodessawa_Fetish_Market",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-akuaba",
+   "kind": "encyclopedia",
+   "title": "Akuaba",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Akuaba",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-alakshmi",
+   "kind": "encyclopedia",
+   "title": "Alakshmi",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alakshmi",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-alan-dundes",
+   "kind": "encyclopedia",
+   "title": "Alan Dundes",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alan_Dundes",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-alasitas",
+   "kind": "encyclopedia",
+   "title": "Alasitas",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alasitas",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-amabie",
+   "kind": "encyclopedia",
+   "title": "Amabie",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amabie",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-amber",
+   "kind": "encyclopedia",
+   "title": "Amber",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amber",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-amulet",
+   "kind": "encyclopedia",
+   "title": "Amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ancient-egyptian-funerary-practices",
+   "kind": "encyclopedia",
+   "title": "Ancient Egyptian funerary practices",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_funerary_practices",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ancient-egyptian-religion",
+   "kind": "encyclopedia",
+   "title": "Ancient Egyptian religion",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_religion",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ankh",
+   "kind": "encyclopedia",
+   "title": "Ankh",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ankh",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-apotropaic-magic",
+   "kind": "encyclopedia",
+   "title": "Apotropaic magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Apotropaic_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-art-of-ancient-egypt",
+   "kind": "encyclopedia",
+   "title": "Art of ancient Egypt",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Art_of_ancient_Egypt",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies",
+   "kind": "encyclopedia",
+   "title": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Australian_Institute_of_Aboriginal_and_Torres_Strait_Islander_Studies",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-azabache",
+   "kind": "encyclopedia",
+   "title": "Azabache",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Azabache",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-bagua",
+   "kind": "encyclopedia",
+   "title": "Bagua",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bagua",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-barkhor",
+   "kind": "encyclopedia",
+   "title": "Barkhor",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Barkhor",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-bes",
+   "kind": "encyclopedia",
+   "title": "Bes",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bes",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-bi-jade",
+   "kind": "encyclopedia",
+   "title": "Bi (jade)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bi_(jade)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-brigid-s-cross",
+   "kind": "encyclopedia",
+   "title": "Brigid's cross",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Brigid%27s_cross",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-british-folklore",
+   "kind": "encyclopedia",
+   "title": "British folklore",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/British_folklore",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-british-museum",
+   "kind": "encyclopedia",
+   "title": "British Museum",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/British_Museum",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-buddha-footprint",
+   "kind": "encyclopedia",
+   "title": "Buddha footprint",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Buddha_footprint",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-bulla-amulet",
+   "kind": "encyclopedia",
+   "title": "Bulla (amulet)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bulla_(amulet)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cabinet-of-curiosities",
+   "kind": "encyclopedia",
+   "title": "Cabinet of curiosities",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cabinet_of_curiosities",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-carnelian",
+   "kind": "encyclopedia",
+   "title": "Carnelian",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Carnelian",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-caul",
+   "kind": "encyclopedia",
+   "title": "Caul",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Caul",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-challenge-coin",
+   "kind": "encyclopedia",
+   "title": "Challenge coin",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Challenge_coin",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-chapssal-tteok",
+   "kind": "encyclopedia",
+   "title": "Chapssal-tteok",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chapssal-tteok",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-charm-bracelet",
+   "kind": "encyclopedia",
+   "title": "Charm bracelet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Charm_bracelet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-chinese-guardian-lions",
+   "kind": "encyclopedia",
+   "title": "Chinese guardian lions",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chinese_guardian_lions",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-chinese-numismatic-charm",
+   "kind": "encyclopedia",
+   "title": "Chinese numismatic charm",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chinese_numismatic_charm",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cimaruta",
+   "kind": "encyclopedia",
+   "title": "Cimaruta",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cimaruta",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-concealed-shoes",
+   "kind": "encyclopedia",
+   "title": "Concealed shoes",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Concealed_shoes",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-coptic-cross",
+   "kind": "encyclopedia",
+   "title": "Coptic cross",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Coptic_cross",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-copts",
+   "kind": "encyclopedia",
+   "title": "Copts",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Copts",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-coral",
+   "kind": "encyclopedia",
+   "title": "Coral",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Coral",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-corn-dolly",
+   "kind": "encyclopedia",
+   "title": "Corn dolly",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Corn_dolly",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cornicello",
+   "kind": "encyclopedia",
+   "title": "Cornicello",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cornicello",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cowrie",
+   "kind": "encyclopedia",
+   "title": "Cowrie",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cowrie",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-crescent",
+   "kind": "encyclopedia",
+   "title": "Crescent",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Crescent",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cross",
+   "kind": "encyclopedia",
+   "title": "Cross",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cross",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-crystal-healing",
+   "kind": "encyclopedia",
+   "title": "Crystal healing",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Crystal_healing",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cultural-appropriation",
+   "kind": "encyclopedia",
+   "title": "Cultural appropriation",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cultural_appropriation",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-curse-tablet",
+   "kind": "encyclopedia",
+   "title": "Curse tablet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Curse_tablet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-daruma-doll",
+   "kind": "encyclopedia",
+   "title": "Daruma doll",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Daruma_doll",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-devi-mahatmya",
+   "kind": "encyclopedia",
+   "title": "Devi Mahatmya",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Devi_Mahatmya",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-devotional-medal",
+   "kind": "encyclopedia",
+   "title": "Devotional medal",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Devotional_medal",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-djed",
+   "kind": "encyclopedia",
+   "title": "Djed",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Djed",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-dol-hareubang",
+   "kind": "encyclopedia",
+   "title": "Dol hareubang",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dol_hareubang",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-dreamcatcher",
+   "kind": "encyclopedia",
+   "title": "Dreamcatcher",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dreamcatcher",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-dzi-bead",
+   "kind": "encyclopedia",
+   "title": "Dzi bead",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dzi_bead",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-e-a-wallis-budge",
+   "kind": "encyclopedia",
+   "title": "E. A. Wallis Budge",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/E._A._Wallis_Budge",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-edward-lovett",
+   "kind": "encyclopedia",
+   "title": "Edward Lovett",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Edward_Lovett",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-egyptian-faience",
+   "kind": "encyclopedia",
+   "title": "Egyptian faience",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Egyptian_faience",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ekeko",
+   "kind": "encyclopedia",
+   "title": "Ekeko",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ekeko",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ema-shinto",
+   "kind": "encyclopedia",
+   "title": "Ema (Shinto)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ema_(Shinto)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ethiopian-talismanic-scrolls",
+   "kind": "encyclopedia",
+   "title": "Ethiopian talismanic scrolls",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ethiopian_talismanic_scrolls",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-evil-eye",
+   "kind": "encyclopedia",
+   "title": "Evil eye",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Evil_eye",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ex-voto",
+   "kind": "encyclopedia",
+   "title": "Ex-voto",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ex-voto",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-eye-of-horus",
+   "kind": "encyclopedia",
+   "title": "Eye of Horus",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eye_of_Horus",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-faience",
+   "kind": "encyclopedia",
+   "title": "Faience",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Faience",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fascinus",
+   "kind": "encyclopedia",
+   "title": "Fascinus",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fascinus",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fetishism",
+   "kind": "encyclopedia",
+   "title": "Fetishism",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fetishism",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fig-sign",
+   "kind": "encyclopedia",
+   "title": "Fig sign",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fig_sign",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-flinders-petrie",
+   "kind": "encyclopedia",
+   "title": "Flinders Petrie",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Flinders_Petrie",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-folk-religion",
+   "kind": "encyclopedia",
+   "title": "Folk religion",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Folk_religion",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-four-leaf-clover",
+   "kind": "encyclopedia",
+   "title": "Four-leaf clover",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Four-leaf_clover",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-frederick-thomas-elworthy",
+   "kind": "encyclopedia",
+   "title": "Frederick Thomas Elworthy",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Frederick_Thomas_Elworthy",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fu-character",
+   "kind": "encyclopedia",
+   "title": "Fu (character)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fu_(character)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fulu",
+   "kind": "encyclopedia",
+   "title": "Fulu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fulu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fushimi-inari-taisha",
+   "kind": "encyclopedia",
+   "title": "Fushimi Inari-taisha",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fushimi_Inari-taisha",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-general-roman-calendar-1969",
+   "kind": "encyclopedia",
+   "title": "General Roman Calendar of 1969",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/General_Roman_Calendar_of_1969",
+   "accessed": "2026-09-17",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-gold",
+   "kind": "encyclopedia",
+   "title": "Gold",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gold",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-gorgons",
+   "kind": "encyclopedia",
+   "title": "Gorgons",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gorgons",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-grand-bazaar-istanbul",
+   "kind": "encyclopedia",
+   "title": "Grand Bazaar, Istanbul",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Grand_Bazaar,_Istanbul",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-gris-gris-talisman",
+   "kind": "encyclopedia",
+   "title": "Gris-gris (talisman)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gris-gris_(talisman)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-haitian-vodou",
+   "kind": "encyclopedia",
+   "title": "Haitian Vodou",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Haitian_Vodou",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-hamsa",
+   "kind": "encyclopedia",
+   "title": "Hamsa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hamsa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-hand-of-glory",
+   "kind": "encyclopedia",
+   "title": "Hand of Glory",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hand_of_Glory",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-heart-scarab",
+   "kind": "encyclopedia",
+   "title": "Heart scarab",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Heart_scarab",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-hecate",
+   "kind": "encyclopedia",
+   "title": "Hecate",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hecate",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-hei-matau",
+   "kind": "encyclopedia",
+   "title": "Hei matau",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hei_matau",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-hei-tiki",
+   "kind": "encyclopedia",
+   "title": "Hei-tiki",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hei-tiki",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-hex-sign",
+   "kind": "encyclopedia",
+   "title": "Hex sign",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hex_sign",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-hexagram",
+   "kind": "encyclopedia",
+   "title": "Hexagram",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hexagram",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-horseshoe",
+   "kind": "encyclopedia",
+   "title": "Horseshoe",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Horseshoe",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-horus-on-the-crocodiles",
+   "kind": "encyclopedia",
+   "title": "Horus on the Crocodiles",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Horus_on_the_Crocodiles",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ichthys",
+   "kind": "encyclopedia",
+   "title": "Ichthys",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ichthys",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-incantation-bowl",
+   "kind": "encyclopedia",
+   "title": "Incantation bowl",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Incantation_bowl",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-insa-dong",
+   "kind": "encyclopedia",
+   "title": "Insa-dong",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Insa-dong",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-inuit-religion",
+   "kind": "encyclopedia",
+   "title": "Inuit religion",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Inuit_religion",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-iron",
+   "kind": "encyclopedia",
+   "title": "Iron",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Iron",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-iron-in-folklore",
+   "kind": "encyclopedia",
+   "title": "Iron in folklore",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Iron_in_folklore",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-islam-and-magic",
+   "kind": "encyclopedia",
+   "title": "Islam and magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Islam_and_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ivory-trade",
+   "kind": "encyclopedia",
+   "title": "Ivory trade",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ivory_trade",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ja-strap",
+   "kind": "encyclopedia",
+   "title": "ストラップ (Strap)",
+   "publisher": "Japanese Wikipedia",
+   "url": "https://ja.wikipedia.org/wiki/ストラップ",
+   "accessed": "2026-09-17",
+   "license": "CC BY-SA 4.0",
+   "note": "Read in translation. Gives the strap hole (ストラップホール), the 1995 Product Liability Law theory for the strap's spread, the late-1990s fashion for ten or more straps at once, and the comparison of the strap to netsuke."
+  },
+  {
+   "id": "s:wp-jade",
+   "kind": "encyclopedia",
+   "title": "Jade",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jade",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-jade-burial-suit",
+   "kind": "encyclopedia",
+   "title": "Jade burial suit",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jade_burial_suit",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-jade-use-in-mesoamerica",
+   "kind": "encyclopedia",
+   "title": "Jade use in Mesoamerica",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jade_use_in_Mesoamerica",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-jemaa-el-fnaa",
+   "kind": "encyclopedia",
+   "title": "Jemaa el-Fnaa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-jet-gemstone",
+   "kind": "encyclopedia",
+   "title": "Jet (gemstone)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jet_(gemstone)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-juju",
+   "kind": "encyclopedia",
+   "title": "Juju",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Juju",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-kabbalah",
+   "kind": "encyclopedia",
+   "title": "Kabbalah",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kabbalah",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-kavacha",
+   "kind": "encyclopedia",
+   "title": "Kavacha",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kavacha",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ketef-hinnom",
+   "kind": "encyclopedia",
+   "title": "Ketef Hinnom",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ketef_Hinnom",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-keys-of-heaven",
+   "kind": "encyclopedia",
+   "title": "Keys of Heaven",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Keys_of_Heaven",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-khan-el-khalili",
+   "kind": "encyclopedia",
+   "title": "Khan el-Khalili",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Khan_el-Khalili",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-kings-library",
+   "kind": "encyclopedia",
+   "title": "King's Library",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/King%27s_Library",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-kit-kats-in-japan",
+   "kind": "encyclopedia",
+   "title": "Kit Kats in Japan",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kit_Kats_in_Japan",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-korean-shamanism",
+   "kind": "encyclopedia",
+   "title": "Korean shamanism",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Korean_shamanism",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-kris",
+   "kind": "encyclopedia",
+   "title": "Kris",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kris",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-lamashtu",
+   "kind": "encyclopedia",
+   "title": "Lamashtu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lamashtu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-lapis-lazuli",
+   "kind": "encyclopedia",
+   "title": "Lapis lazuli",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lapis_lazuli",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-lead",
+   "kind": "encyclopedia",
+   "title": "Lead",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lead",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-lei-niho-palaoa",
+   "kind": "encyclopedia",
+   "title": "Lei niho palaoa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lei_niho_palaoa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-lich-dungeons-and-dragons",
+   "kind": "encyclopedia",
+   "title": "Lich (Dungeons & Dragons)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lich_(Dungeons_%26_Dragons)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-list-of-lucky-symbols",
+   "kind": "encyclopedia",
+   "title": "List of lucky symbols",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/List_of_lucky_symbols",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-luck",
+   "kind": "encyclopedia",
+   "title": "Luck",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Luck",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-lucky-charm",
+   "kind": "encyclopedia",
+   "title": "Lucky charm",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lucky_charm",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-lunula-amulet",
+   "kind": "encyclopedia",
+   "title": "Lunula (amulet)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lunula_(amulet)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-m-r-i-or",
+   "kind": "encyclopedia",
+   "title": "Mărțișor",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/M%C4%83r%C8%9Bi%C8%99or",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-magic-square",
+   "kind": "encyclopedia",
+   "title": "Magic square",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Magic_square",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-magic-supernatural",
+   "kind": "encyclopedia",
+   "title": "Magic (supernatural)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Magic_(supernatural)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-maneki-neko",
+   "kind": "encyclopedia",
+   "title": "Maneki-neko",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Maneki-neko",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-martenitsa",
+   "kind": "encyclopedia",
+   "title": "Martenitsa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Martenitsa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mascot",
+   "kind": "encyclopedia",
+   "title": "Mascot",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mascot",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-material-religion",
+   "kind": "encyclopedia",
+   "title": "Material religion",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Material_religion",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-medusa",
+   "kind": "encyclopedia",
+   "title": "Medusa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Medusa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mercado-de-sonora",
+   "kind": "encyclopedia",
+   "title": "Mercado de Sonora",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mercado_de_Sonora",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mesopotamian-mythology",
+   "kind": "encyclopedia",
+   "title": "Mesopotamian mythology",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mesopotamian_mythology",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-metropolitan-museum-of-art",
+   "kind": "encyclopedia",
+   "title": "Metropolitan Museum of Art",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-metternich-stela",
+   "kind": "encyclopedia",
+   "title": "Metternich Stela",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Metternich_Stela",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mezuzah",
+   "kind": "encyclopedia",
+   "title": "Mezuzah",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mezuzah",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-milagro-votive",
+   "kind": "encyclopedia",
+   "title": "Milagro (votive)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Milagro_(votive)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-miraculous-medal",
+   "kind": "encyclopedia",
+   "title": "Miraculous Medal",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Miraculous_Medal",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mj-lnir",
+   "kind": "encyclopedia",
+   "title": "Mjölnir",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mj%C3%B6lnir",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mobile-phone-charm",
+   "kind": "encyclopedia",
+   "title": "Mobile phone charm",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mobile_phone_charm",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mojo-bag",
+   "kind": "encyclopedia",
+   "title": "Mojo bag",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mojo_bag",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-monastiraki",
+   "kind": "encyclopedia",
+   "title": "Monastiraki",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Monastiraki",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mus-e-du-quai-branly-jacques-chirac",
+   "kind": "encyclopedia",
+   "title": "Musée du Quai Branly – Jacques Chirac",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mus%C3%A9e_du_Quai_Branly_%E2%80%93_Jacques_Chirac",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-native-american-graves-protection-and-repatriation-act",
+   "kind": "encyclopedia",
+   "title": "Native American Graves Protection and Repatriation Act",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Native_American_Graves_Protection_and_Repatriation_Act",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-navaratna",
+   "kind": "encyclopedia",
+   "title": "Navaratna",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Navaratna",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-nazar-amulet",
+   "kind": "encyclopedia",
+   "title": "Nazar (amulet)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nazar_(amulet)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-nazar-battu",
+   "kind": "encyclopedia",
+   "title": "Nazar battu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nazar_battu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-nkisi",
+   "kind": "encyclopedia",
+   "title": "Nkisi",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nkisi",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-nkondi",
+   "kind": "encyclopedia",
+   "title": "Nkondi",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nkondi",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-numismatic-charm",
+   "kind": "encyclopedia",
+   "title": "Numismatic charm",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Numismatic_charm",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-o-mikuji",
+   "kind": "encyclopedia",
+   "title": "O-mikuji",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/O-mikuji",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ofuda",
+   "kind": "encyclopedia",
+   "title": "Ofuda",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ofuda",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ojibwe",
+   "kind": "encyclopedia",
+   "title": "Ojibwe",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ojibwe",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-omamori",
+   "kind": "encyclopedia",
+   "title": "Omamori",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Omamori",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ongon",
+   "kind": "encyclopedia",
+   "title": "Ongon",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ongon",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-palad-khik",
+   "kind": "encyclopedia",
+   "title": "Palad khik",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Palad_khik",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-palm-leaf-manuscript",
+   "kind": "encyclopedia",
+   "title": "Palm-leaf manuscript",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Palm-leaf_manuscript",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pazuzu",
+   "kind": "encyclopedia",
+   "title": "Pazuzu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pazuzu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-petrie-museum-of-egyptian-archaeology",
+   "kind": "encyclopedia",
+   "title": "Petrie Museum of Egyptian Archaeology",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Petrie_Museum_of_Egyptian_Archaeology",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-phylactery",
+   "kind": "encyclopedia",
+   "title": "Phylactery",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Phylactery",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pitt-rivers-museum",
+   "kind": "encyclopedia",
+   "title": "Pitt Rivers Museum",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pitt_Rivers_Museum",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pounamu",
+   "kind": "encyclopedia",
+   "title": "Pounamu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pounamu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-practical-kabbalah",
+   "kind": "encyclopedia",
+   "title": "Practical Kabbalah",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Practical_Kabbalah",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-prayer-flag",
+   "kind": "encyclopedia",
+   "title": "Prayer flag",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Prayer_flag",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-quiapo-church",
+   "kind": "encyclopedia",
+   "title": "Quiapo Church",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Quiapo_Church",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-rabbit-s-foot",
+   "kind": "encyclopedia",
+   "title": "Rabbit's foot",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rabbit%27s_foot",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-rally-cap",
+   "kind": "encyclopedia",
+   "title": "Rally cap",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rally_cap",
+   "accessed": "2026-09-17",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-red-string-kabbalah",
+   "kind": "encyclopedia",
+   "title": "Red string (Kabbalah)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Red_string_(Kabbalah)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-repatriation-cultural-property",
+   "kind": "encyclopedia",
+   "title": "Repatriation (cultural property)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Repatriation_(cultural_property)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-rowan",
+   "kind": "encyclopedia",
+   "title": "Rowan",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rowan",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ru-ladanka",
+   "kind": "encyclopedia",
+   "title": "Ладанка (Ladanka)",
+   "publisher": "Wikipedia (Russian)",
+   "url": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B4%D0%B0%D0%BD%D0%BA%D0%B0",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-rudraksha",
+   "kind": "encyclopedia",
+   "title": "Rudraksha",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rudraksha",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-sacramental",
+   "kind": "encyclopedia",
+   "title": "Sacramental",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sacramental",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-saint-christopher",
+   "kind": "encyclopedia",
+   "title": "Saint Christopher",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Saint_Christopher",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-salt",
+   "kind": "encyclopedia",
+   "title": "Salt",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Salt",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-sator-square",
+   "kind": "encyclopedia",
+   "title": "Sator Square",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sator_Square",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-scapular",
+   "kind": "encyclopedia",
+   "title": "Scapular",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Scapular",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-scarab-artifact",
+   "kind": "encyclopedia",
+   "title": "Scarab (artifact)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Scarab_(artifact)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-seal-of-solomon",
+   "kind": "encyclopedia",
+   "title": "Seal of Solomon",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Seal_of_Solomon",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-senninbari",
+   "kind": "encyclopedia",
+   "title": "Senninbari",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Senninbari",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-sens-ji",
+   "kind": "encyclopedia",
+   "title": "Sensō-ji",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sens%C5%8D-ji",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-serpent-symbolism",
+   "kind": "encyclopedia",
+   "title": "Serpent symbolism",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Serpent_symbolism",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-shamanism-in-siberia",
+   "kind": "encyclopedia",
+   "title": "Shamanism in Siberia",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shamanism_in_Siberia",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-shell-money",
+   "kind": "encyclopedia",
+   "title": "Shell money",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shell_money",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-silver",
+   "kind": "encyclopedia",
+   "title": "Silver",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Silver",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-snake-worship",
+   "kind": "encyclopedia",
+   "title": "Snake worship",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Snake_worship",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-solomon-s-seal",
+   "kind": "encyclopedia",
+   "title": "Solomon's Seal",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Solomon%27s_Seal",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-sorbus-aucuparia",
+   "kind": "encyclopedia",
+   "title": "Sorbus aucuparia",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sorbus_aucuparia",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-swastika",
+   "kind": "encyclopedia",
+   "title": "Swastika",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Swastika",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-swastika-germanic-iron-age",
+   "kind": "encyclopedia",
+   "title": "Swastika (Germanic Iron Age)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Swastika_(Germanic_Iron_Age)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tabua",
+   "kind": "encyclopedia",
+   "title": "Tabua",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tabua",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-takrut",
+   "kind": "encyclopedia",
+   "title": "Takrut",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Takrut",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-talisman",
+   "kind": "encyclopedia",
+   "title": "Talisman",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Talisman",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-talismanic-shirt",
+   "kind": "encyclopedia",
+   "title": "Talismanic shirt",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Talismanic_shirt",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tama-votive",
+   "kind": "encyclopedia",
+   "title": "Tama (votive)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tama_(votive)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tattoo",
+   "kind": "encyclopedia",
+   "title": "Tattoo",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tattoo",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-taweret",
+   "kind": "encyclopedia",
+   "title": "Taweret",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Taweret",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-te-papa",
+   "kind": "encyclopedia",
+   "title": "Te Papa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Te_Papa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tefillin",
+   "kind": "encyclopedia",
+   "title": "Tefillin",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tefillin",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-teru-teru-b-zu",
+   "kind": "encyclopedia",
+   "title": "Teru teru bōzu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Teru_teru_b%C5%8Dzu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-thai-buddha-amulet",
+   "kind": "encyclopedia",
+   "title": "Thai Buddha amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thai_Buddha_amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-thamel",
+   "kind": "encyclopedia",
+   "title": "Thamel",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thamel",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-the-magic-island",
+   "kind": "encyclopedia",
+   "title": "The Magic Island",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Magic_Island",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-the-witches-market",
+   "kind": "encyclopedia",
+   "title": "The Witches' Market",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Witches%27_Market",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-throne-verse",
+   "kind": "encyclopedia",
+   "title": "Throne Verse",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Throne_Verse",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tibetan-buddhism",
+   "kind": "encyclopedia",
+   "title": "Tibetan Buddhism",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tibetan_Buddhism",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tintinnabulum-rome",
+   "kind": "encyclopedia",
+   "title": "Tintinnabulum (Ancient Rome)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tintinnabulum_(Ancient_Rome)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tjurunga",
+   "kind": "encyclopedia",
+   "title": "Tjurunga",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tjurunga",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-toli-shamanism",
+   "kind": "encyclopedia",
+   "title": "Toli (shamanism)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Toli_(shamanism)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tree-of-life",
+   "kind": "encyclopedia",
+   "title": "Tree of life",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tree_of_life",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-triskelion",
+   "kind": "encyclopedia",
+   "title": "Triskelion",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Triskelion",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tupilaq",
+   "kind": "encyclopedia",
+   "title": "Tupilaq",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tupilaq",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-turquoise",
+   "kind": "encyclopedia",
+   "title": "Turquoise",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Turquoise",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tyet",
+   "kind": "encyclopedia",
+   "title": "Tyet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tyet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-via-san-gregorio-armeno",
+   "kind": "encyclopedia",
+   "title": "Via San Gregorio Armeno",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Via_San_Gregorio_Armeno",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-voodoo",
+   "kind": "encyclopedia",
+   "title": "Voodoo",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Voodoo",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-voodoo-in-popular-culture",
+   "kind": "encyclopedia",
+   "title": "Voodoo in popular culture",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Voodoo_in_popular_culture",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-votive-offering",
+   "kind": "encyclopedia",
+   "title": "Votive offering",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Votive_offering",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ward-law",
+   "kind": "encyclopedia",
+   "title": "Ward (law)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ward_(law)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-wellcome-collection",
+   "kind": "encyclopedia",
+   "title": "Wellcome Collection",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wellcome_Collection",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-west-african-vod-n",
+   "kind": "encyclopedia",
+   "title": "West African Vodún",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/West_African_Vod%C3%BAn",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-witch-bottle",
+   "kind": "encyclopedia",
+   "title": "Witch bottle",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Witch_bottle",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-worry-stone",
+   "kind": "encyclopedia",
+   "title": "Worry stone",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Worry_stone",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-yantra",
+   "kind": "encyclopedia",
+   "title": "Yantra",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-yantra-tattooing",
+   "kind": "encyclopedia",
+   "title": "Yantra tattooing",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra_tattooing",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-yeot",
+   "kind": "encyclopedia",
+   "title": "Yeot",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yeot",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ]
+}

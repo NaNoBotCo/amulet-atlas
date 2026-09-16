@@ -1,0 +1,83 @@
+{
+ "schema": 1,
+ "id": "foundation-deposit",
+ "type": "practice",
+ "names": {
+  "name": "Foundation deposit",
+  "aliases": ["foundation peg", "foundation figure", "building deposit", "spiritual midden"],
+  "said": "what goes under a building before it goes up"
+ },
+ "region": ["ancient-egypt", "mesopotamia", "levant", "britain-ireland", "north-america", "western-europe"],
+ "countries": ["EG", "IQ", "LB", "IR", "GB", "US", "DE", "AU", "CA"],
+ "facets": {"stage": "wear", "era": "ancient", "status": "dormant"},
+ "text": {
+  "what": "Objects buried under a building, at the start of it, by people who did not expect anyone to see them again. Egyptian deposits are mudbrick-lined pits cut at set points beneath a temple or a tomb; Mesopotamian ones are cast copper-alloy pegs and figures driven into the ground at the corners of a temple; European ones are shoes, bottles and written charms pushed into hearths, thresholds and roof voids of houses already standing. This is the practice that fills museum drawers, because a deposit nobody was meant to find is a deposit nobody disturbed.",
+  "story": "Egypt formalised it. Foundation deposits there took the form of ritual mudbrick-lined pits or holes dug at specific points under temples or tombs, filled with ceremonial objects — usually amulets, scarabs, food or ritual miniature tools — and intended to stop the building falling into ruin. Deposits are documented at Hatshepsut's tomb, KV20. A fenestrated silver axehead of the Middle Bronze Age from near Byblos belongs to the same family of buried building offerings.\n\nMesopotamia buried figures with names on them. Foundation figures were used in temple construction from the Early Dynastic period, marking the boundary of sacred ground, buried deliberately and never meant to be looked at. Early pegs and wall-mounted examples are limestone or clay; the buried figures are typically cast copper alloy, running from plain inscribed cones to fully modelled human forms. A peg of Ur-Namma, c. 2112–2094 BCE, carries his bust and an inscription to Inanna, lady of Eanna, recording that he built her temple. Figurines of Shulgi were found under the Temple of Nimintabba at Ur, inscribed for Nimintabba, his lady. Deposits have been recorded at Ur, Uruk and Nippur, and the Temple of Ningirsu at Girsu produced pegs dated to about 2130 BCE. The practice ran from around the third millennium BCE to at least the reign of Rim-Suen of Larsa, 1822–1763 BCE.\n\nCurses went under buildings too. In Egypt, execration texts naming enemies were written on clay figurines or pottery, then smashed and buried beneath a building under construction so that the names were symbolically smothered. In Mesopotamia, incantation bowls were buried face down under thresholds and in the corners of houses, including the houses of the recently dead; in John Charles Arnold's account, demons would follow the inscribed charms spiralling inward from the rim and be caught in the centre.\n\nNorthern Europe put shoes in the walls. Concealed shoes have been found in buildings across European countries and in North America and Australia since at least the early modern period, in chimneys, under floors, above ceilings, around doors and windows and in roofs. Northampton Museum keeps a Concealed Shoe Index, which held more than 1,100 reports by 1998 and 1,900 by 2012, almost half of them from the nineteenth century. June Swann's 1996 analysis of the index found the commonest hiding place to be the chimney, fireplace or hearth, at 26.2 per cent, then under the floor or above the ceiling at 22.9 per cent, with almost as many in the roof. Only thirteen of the shoes in her analysis were in actual foundations — she raised, cautiously, a possible link to the Carthaginian practice of putting infants in foundations, and suggested the shoe stood in for a person. Almost 98 per cent of the shoes had been worn, many repaired, and about half belonged to children. The earliest reported is from behind the choir stalls of Winchester Cathedral, installed in 1308. Archaeologist Brian Hoggard reads the find spots as evidence that at least some were hidden as charms against demons, ghosts and witches; others may have been fertility charms or offerings to a household spirit, a reading M. Chris Manning connects to the household helper found from Ireland to western Russia.\n\n*Inference —* the excavation record is skewed in this practice's favour twice over. A foundation deposit was buried in a place that had to stay undisturbed for the building to stand, and it was made of metal, stone, fired clay or leather, so it survives. The reed, dough and cloth charms that stood in the same houses did not.",
+  "how": "Before the walls go up: dig pits at set points, line them, fill them, close them. Or, into a building already standing: push the object into a chimney flue, under floorboards, above a ceiling, into the void around a door frame, and plaster over. Nothing marks the spot in either case.",
+  "today": "Largely finished, with late exceptions. The custom of concealing shoes in buildings had more or less died out by some time in the twentieth century, with only about fifty recorded instances after 1900 — among them the shoe manufacturer Norvic, which put a pair of its women's high-leg boots into the foundations of a new factory in 1964, and an estate worker's shoe at Knebworth House in 1991, replacing a court shoe found behind panelling. Almost everything else in this record reaches us through excavation."
+ },
+ "dating": {
+  "period": "Early Dynastic Mesopotamia to the twentieth century",
+  "from_year": -2999,
+  "to_year": 1964,
+  "living": false,
+  "label": "c. 3000 BCE – 1964 CE",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:web-foundation-figure",
+  "note": "From the statement that foundation pegs originated in Sumer around the third millennium BCE, to the latest dated deposit in these sources: the Norvic boots of 1964. Cornerstone ceremonies continue in various forms; none is cited here, so the span closes where the citations do."
+ },
+ "object": {
+  "form": "figurine",
+  "materials": ["copper", "terracotta", "leather", "glass", "faience", "silver"],
+  "worn": ["foundation", "hearth", "roof", "wall"],
+  "made_by": "in Mesopotamia, at the order of the ruler who names himself on the peg; in Europe, whoever was building or repairing the house",
+  "inscription": "Mesopotamian pegs carry the builder's dedication — Ur-Namma to Inanna of Eanna, Shulgi to Nimintabba",
+  "script": "cuneiform",
+  "single_use": true,
+  "source": "s:web-foundation-figure"
+ },
+ "against": [
+  {"harm": "house", "who": "Egyptian builders, whose deposits were meant to keep the building from falling into ruin", "source": "s:web-foundation-deposit", "tier": "cited"},
+  {"harm": "demons", "who": "the users of incantation bowls buried under thresholds and in house corners", "source": "s:wp-incantation-bowl", "tier": "cited"},
+  {"harm": "witchcraft", "who": "Brian Hoggard, reading the find spots of concealed shoes as protection against demons, ghosts and witches", "source": "s:wp-concealed-shoes", "tier": "cited"},
+  {"harm": "infertility", "who": "one of the competing explanations for concealed shoes, alongside the protective one; Ralph Merrifield records Lancashire women trying on the shoes of a woman who had just given birth", "source": "s:wp-concealed-shoes", "tier": "cited", "note": "the cited account presents this as a minority reading and prefers the protective one; both are kept here"}
+ ],
+ "holdings": [
+  {"museum": "met", "what": "Mesopotamian foundation pegs and figures in the Ancient Near Eastern galleries", "source": "s:web-foundation-figure", "open_access": true, "note": "no accession number is given here because none was read off a catalogue page"},
+  {"museum": "british-museum", "what": "Mesopotamian and Egyptian foundation deposits", "source": "s:wp-british-museum"}
+ ],
+ "kin": [
+  {"to": "concealed-shoe", "as": "the commonest thing found in the fabric of a European house, and the reason Northampton keeps an index of them", "rel": "carried-by"},
+  {"to": "witch-bottle", "as": "buried under the hearth of a standing house rather than under a new one, and working while it stays there", "rel": "carried-by"},
+  {"to": "incantation-bowl", "as": "buried face down under the threshold, which is the deposit as trap", "rel": "carried-by"},
+  {"to": "scarab", "as": "among the objects Egyptian deposits were filled with, alongside amulets, food and miniature tools", "rel": "carried-by"},
+  {"to": "curse-tablet", "as": "the hostile version: execration texts smashed and buried under a building going up", "rel": "parallel"},
+  {"to": "mesopotamian-apotropaic", "as": "the tradition whose kings signed their foundation pegs", "rel": "tradition"},
+  {"to": "egyptian-amulet-craft", "as": "the tradition that filled lined pits under temples with the same amulets it buried with people", "rel": "tradition"},
+  {"to": "burying", "as": "the same verb, without a building over it", "rel": "parallel"},
+  {"to": "grave-deposit", "as": "the other great undisturbed context, and the other reason the drawers are full", "rel": "parallel"},
+  {"to": "the-charm-in-the-wall", "as": "the long read about what comes out of houses during renovation", "rel": "story"},
+  {"to": "british-museum-room-1", "as": "where deposits meant never to be seen are now on shelves", "rel": "held-at"}
+ ],
+ "links": [
+  {"label": "Foundation deposit — Wikipedia", "url": "https://en.wikipedia.org/wiki/Foundation_deposit"},
+  {"label": "Foundation figure — Wikipedia", "url": "https://en.wikipedia.org/wiki/Foundation_figure"},
+  {"label": "Concealed shoes — Wikipedia", "url": "https://en.wikipedia.org/wiki/Concealed_shoes"}
+ ],
+ "sources": ["s:web-foundation-deposit", "s:web-foundation-figure", "s:wp-concealed-shoes", "s:wp-witch-bottle", "s:wp-incantation-bowl", "s:wp-curse-tablet", "s:wp-british-museum"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:web-foundation-figure"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:wp-concealed-shoes", "note": "the closing paragraph about survival bias is this project's reading and is marked where it appears"},
+   "holdings": {"tier": "cited", "source": "s:web-foundation-figure", "note": "collections named without accession numbers, because no catalogue page was read for these objects"},
+   "dating": {"tier": "cited", "source": "s:web-foundation-figure", "note": "the Wikipedia foundation-deposit article was a stub at the date read; the Mesopotamian dates come from the foundation-figure article"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Foundation nail Gudea Louvre.jpg", "File:Concealed shoe.jpg"],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

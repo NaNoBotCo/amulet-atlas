@@ -1,0 +1,583 @@
+{
+ "schema": 1,
+ "id": "copper",
+ "type": "material",
+ "names": {
+  "name": "Copper and bronze",
+  "native": "厭勝錢",
+  "script": "Han",
+  "lang": "zh",
+  "said": "yansheng qian, the Chinese charm cast in copper alloy",
+  "aliases": [
+   "bronze",
+   "brass",
+   "copper alloy",
+   "lamella"
+  ]
+ },
+ "region": [
+  "china",
+  "west-africa",
+  "anatolia",
+  "mesopotamia",
+  "ancient-egypt",
+  "rome-italy",
+  "western-europe"
+ ],
+ "countries": [
+  "CN",
+  "NE",
+  "TR",
+  "IQ",
+  "EG",
+  "IT",
+  "GB",
+  "US"
+ ],
+ "facets": {
+  "kind": "metal"
+ },
+ "text": {
+  "what": "Copper and its alloys: bronze with tin, brass with zinc. It casts, it takes an inscription, it corrodes to a green skin and then stops, and it was cheap enough to make a charm by the thousand in places where silver was not. Where iron rusts away and lead poisons, copper mostly just sits in the ground and waits.",
+  "story": "China cast the most of it. Yansheng coins — Chinese numismatic charms — originated in the Western Han as variants of the Ban Liang and Wu Zhu cash coins, and were valuable in themselves because they were often made of copper alloys and Chinese coins were valued by their weight in bronze or brass. Supply drove the practice: temple coins were issued by Buddhist temples during the Yuan dynasty when the copper currency was scarce, or when copper production was intentionally limited by the Mongol government.\n\nThe measurements exist because these were struck to a standard. \"Laid to rest\" burial charms are bronze, 2.4 to 2.45 centimetres across and 1.3 to 1.4 millimetres thick, carrying the inscription rù tǔ wéi ān, \"to be laid to rest\", with a blank reverse. Most come from late Qing graves, and one turned up in a hoard of Northern Song coins. They are routinely left out of reference books on Chinese charms: they were placed in the mouths of the dead, and collectors find them unlucky and disturbing.\n\nIn the Sahara the metal marks a grade. The Agadez cross has two forms, and the cross-shaped tanaghilt is made of stone or copper, while talhakim are cut from platelets of copper, aluminium or other metal; the blacksmiths who make the silver ones cast by lost wax and never hammer the metal. Han China graded the same way in wire: an emperor's jade burial suit is sewn with gold, princes and marquises with silver, their children with copper, and lesser aristocrats with silk thread.\n\nMesopotamia used bronze where the stakes were highest. Pazuzu heads are chiefly terracotta but also bronze, and ritual texts from Uruk state that a woman could be given a bronze necklace or amulet of Pazuzu to protect her from miscarrying through the interference of Lamashtu. In Anatolia copper is named as an ingredient rather than a shape: the account of the eye bead gives it as \"a mixture of molten glass, iron, copper, water, and salt, ingredients that are thought to shield people from evil\".\n\nEurope's luckiest object started in bronze and only later turned to iron. In 1897 four bronze horseshoes with what are apparently nail holes were found in an Etruscan tomb dated around 400 BCE, and around 1000 CE cast bronze horseshoes with nail holes became common in Europe, with a scalloped outer rim and six nail holes; the widespread manufacture of iron horseshoes belongs to the thirteenth and fourteenth centuries. Copper's colour shows up in Egypt too, where copper pigments give faience its blue-green lustre, and copper, like lead, was imported in prosperous periods when local ores ran short.\n\n*Inference —* copper's real advantage is archaeological rather than protective. Iron was valuable and worn-out items were generally reforged and reused, which makes early iron charms hard to find; bronze was cast, buried and left. What looks like a preference for bronze in the record may be a preference for bronze in the ground.",
+  "how": "Cast in a mould, or beaten into a thin sheet — a lamella — and inscribed. Roy Kotansky's corpus of inscribed protective sheets is titled Greek Magical Amulets: the inscribed gold, silver, copper and bronze lamellae, which is the shortest statement of what this metal was used for in the Greco-Roman world.",
+  "today": "Copper-alloy charms are still cast and still collected, and the collecting is where the arguments are. The Chinese burial charm is the clearest case in this atlas of an object excluded from the published record for reasons that have nothing to do with the object: it is complete, dated, measured, inscribed, and left out of the reference books because of where it sat in a corpse's mouth."
+ },
+ "dating": {
+  "period": "Etruscan Italy and Han China to the present",
+  "from_year": -399,
+  "to_year": null,
+  "living": true,
+  "label": "c. 400 BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-horseshoe",
+  "note": "The earliest dated object cited here is the group of four bronze horseshoes from an Etruscan tomb dated around 400 BCE. The Chinese charms begin in the Western Han; the Pazuzu bronzes and the Uruk ritual texts are first-millennium BCE but are not given a year in the sources read here."
+ },
+ "object": {
+  "form": "coin",
+  "materials": [
+   "copper",
+   "brass"
+  ],
+  "worn": [
+   "neck",
+   "pocket",
+   "grave",
+   "door",
+   "vehicle"
+  ],
+  "inscription": "rù tǔ wéi ān — 'to be laid to rest'",
+  "script": "Han",
+  "length_mm": 24.5,
+  "source": "s:wp-chinese-numismatic-charm",
+  "note": "the measurement is the published range for 'Laid to Rest' burial charms, 2.4 to 2.45 cm across and 1.3 to 1.4 mm thick; the longest dimension is given here"
+ },
+ "against": [
+  {
+   "harm": "childbirth",
+   "who": "ritual texts from Uruk, which prescribe a bronze Pazuzu necklace against miscarriage",
+   "source": "s:wp-pazuzu",
+   "tier": "cited"
+  },
+  {
+   "harm": "poverty",
+   "who": "the charms' own inscriptions, which ask for longevity, wealth and honour and for wealth and treasure to be attracted",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited"
+  },
+  {
+   "harm": "the-dead",
+   "who": "the families who put 'laid to rest' charms in the mouths of their dead",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "the account of the Turkish eye bead, which names copper among the shielding ingredients",
+   "source": "s:wp-nazar-amulet",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "Chinese householders, whose house charms include small bronze statues set to protect the house from evil spirits",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "charm-coin",
+   "as": "the object this metal made possible in bulk: a cast coin that was never legal tender and circulated anyway",
+   "rel": "carried-by"
+  },
+  {
+   "to": "tuareg-cross",
+   "as": "the Saharan pendant whose plainer forms are cut from copper where the silver ones are cast by lost wax",
+   "rel": "carried-by"
+  },
+  {
+   "to": "pazuzu-head",
+   "as": "cast in bronze for the cases that mattered most, and prescribed by name in the Uruk texts",
+   "rel": "carried-by"
+  },
+  {
+   "to": "horseshoe",
+   "as": "bronze before it was iron: the Etruscan tomb of c. 400 BCE and the cast shoes of c. 1000 CE both predate the iron ones",
+   "rel": "carried-by"
+  },
+  {
+   "to": "iron",
+   "as": "the metal copper is always measured against, and the one that rusts and gets reforged out of the record",
+   "rel": "contrast"
+  },
+  {
+   "to": "silver",
+   "as": "the grade above it — in a Han burial suit the wire says who you were",
+   "rel": "contrast"
+  },
+  {
+   "to": "lead",
+   "as": "the other base metal beaten into inscribed sheets, used for the curses rather than the guards",
+   "rel": "contrast"
+  },
+  {
+   "to": "grave-deposit",
+   "as": "the practice that put a measured bronze disc in a dead person's mouth",
+   "rel": "practice"
+  },
+  {
+   "to": "faience",
+   "as": "where copper is a colour instead of a shape: the pigment that makes Egyptian blue-green",
+   "rel": "material"
+  }
+ ],
+ "links": [
+  {
+   "label": "Chinese numismatic charm — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chinese_numismatic_charm"
+  }
+ ],
+ "sources": [
+  "s:wp-chinese-numismatic-charm",
+  "s:wp-agadez-cross",
+  "s:wp-jade-burial-suit",
+  "s:wp-pazuzu",
+  "s:wp-nazar-amulet",
+  "s:wp-horseshoe",
+  "s:wp-egyptian-faience",
+  "s:wp-curse-tablet"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-chinese-numismatic-charm"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-horseshoe",
+    "note": "the closing paragraph on why bronze is over-represented is this project's inference and is marked in the text"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Chinese numismatic charm.jpg",
+  "File:Croix d'Agadez.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-17",
+ "blurb": "Copper and its alloys: bronze with tin, brass with zinc. It casts, it takes an inscription, it corrodes to a green skin and then stops, and it was cheap enough to make a charm by the thousand in places where silver was…",
+ "region_terms": [
+  {
+   "key": "china",
+   "name": "China",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "west-africa",
+   "name": "West Africa",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "anatolia",
+   "name": "Anatolia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "mesopotamia",
+   "name": "Mesopotamia",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Sumer, Akkad, Babylonia, Assyria"
+  },
+  {
+   "key": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Nile valley and delta, Predynastic through Roman Egypt"
+  },
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "western-europe",
+   "name": "Western Europe",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "charm-coin",
+   "type": "amulet",
+   "name": "Chinese charm coin",
+   "as": "the object this metal made possible in bulk: a cast coin that was never legal tender and circulated anyway",
+   "rel": "carried-by"
+  },
+  {
+   "to": "tuareg-cross",
+   "type": "amulet",
+   "name": "Agadez cross",
+   "as": "the Saharan pendant whose plainer forms are cut from copper where the silver ones are cast by lost wax",
+   "rel": "carried-by"
+  },
+  {
+   "to": "pazuzu-head",
+   "type": "amulet",
+   "name": "Pazuzu head",
+   "as": "cast in bronze for the cases that mattered most, and prescribed by name in the Uruk texts",
+   "rel": "carried-by"
+  },
+  {
+   "to": "horseshoe",
+   "type": "amulet",
+   "name": "Horseshoe",
+   "as": "bronze before it was iron: the Etruscan tomb of c. 400 BCE and the cast shoes of c. 1000 CE both predate the iron ones",
+   "rel": "carried-by"
+  },
+  {
+   "to": "iron",
+   "type": "material",
+   "name": "Iron",
+   "as": "the metal copper is always measured against, and the one that rusts and gets reforged out of the record",
+   "rel": "contrast"
+  },
+  {
+   "to": "silver",
+   "type": "material",
+   "name": "Silver",
+   "as": "the grade above it — in a Han burial suit the wire says who you were",
+   "rel": "contrast"
+  },
+  {
+   "to": "lead",
+   "type": "material",
+   "name": "Lead",
+   "as": "the other base metal beaten into inscribed sheets, used for the curses rather than the guards",
+   "rel": "contrast"
+  },
+  {
+   "to": "grave-deposit",
+   "type": "practice",
+   "name": "Grave deposit",
+   "as": "the practice that put a measured bronze disc in a dead person's mouth",
+   "rel": "practice"
+  },
+  {
+   "to": "faience",
+   "type": "material",
+   "name": "Faience",
+   "as": "where copper is a colour instead of a shape: the pigment that makes Egyptian blue-green",
+   "rel": "material"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-chinese-numismatic-charm",
+   "kind": "encyclopedia",
+   "title": "Chinese numismatic charm",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chinese_numismatic_charm",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-agadez-cross",
+   "kind": "encyclopedia",
+   "title": "Agadez Cross",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Agadez_Cross",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-jade-burial-suit",
+   "kind": "encyclopedia",
+   "title": "Jade burial suit",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jade_burial_suit",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pazuzu",
+   "kind": "encyclopedia",
+   "title": "Pazuzu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pazuzu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-nazar-amulet",
+   "kind": "encyclopedia",
+   "title": "Nazar (amulet)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nazar_(amulet)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-horseshoe",
+   "kind": "encyclopedia",
+   "title": "Horseshoe",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Horseshoe",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-egyptian-faience",
+   "kind": "encyclopedia",
+   "title": "Egyptian faience",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Egyptian_faience",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-curse-tablet",
+   "kind": "encyclopedia",
+   "title": "Curse tablet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Curse_tablet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-chinese-numismatic-charm"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-horseshoe",
+   "note": "the closing paragraph on why bronze is over-represented is this project's inference and is marked in the text"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-chinese-numismatic-charm"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-chinese-numismatic-charm"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-chinese-numismatic-charm"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-chinese-numismatic-charm"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "childbirth",
+   "label": "Death in childbirth",
+   "who": "ritual texts from Uruk, which prescribe a bronze Pazuzu necklace against miscarriage",
+   "quote": "",
+   "source": "s:wp-pazuzu",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "poverty",
+   "label": "Poverty",
+   "who": "the charms' own inscriptions, which ask for longevity, wealth and honour and for wealth and treasure to be attracted",
+   "quote": "",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "the-dead",
+   "label": "Danger to the dead",
+   "gloss": "charms put in a grave for the person in it",
+   "who": "the families who put 'laid to rest' charms in the mouths of their dead",
+   "quote": "",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "the account of the Turkish eye bead, which names copper among the shielding ingredients",
+   "quote": "",
+   "source": "s:wp-nazar-amulet",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "Chinese householders, whose house charms include small bronze statues set to protect the house from evil spirits",
+   "quote": "",
+   "source": "s:wp-chinese-numismatic-charm",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "copper",
+   "label": "Copper and bronze",
+   "kind": "metal"
+  },
+  {
+   "key": "brass",
+   "label": "Brass",
+   "kind": "metal"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  },
+  {
+   "key": "grave",
+   "label": "In the grave",
+   "group": "placed",
+   "note": "most surviving ancient amulets are here because somebody was buried in them"
+  },
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  },
+  {
+   "key": "vehicle",
+   "label": "In a vehicle",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "coin",
+  "label": "Coin"
+ },
+ "holding_facts": [],
+ "span": "400 BCE to now",
+ "country_names": [
+  {
+   "iso": "CN",
+   "name": "China"
+  },
+  {
+   "iso": "NE",
+   "name": "Niger"
+  },
+  {
+   "iso": "TR",
+   "name": "Turkey"
+  },
+  {
+   "iso": "IQ",
+   "name": "Iraq"
+  },
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "bell",
+   "type": "motif",
+   "name": "The bell",
+   "as": "the metal both halves are cast in, bronze at Pompeii and brass in Seoul",
+   "rel": "material"
+  },
+  {
+   "from": "coin-square",
+   "type": "motif",
+   "name": "The square hole",
+   "as": "the alloy that gave the charm its weight and therefore its value",
+   "rel": "material"
+  },
+  {
+   "from": "lead",
+   "type": "material",
+   "name": "Lead",
+   "as": "the metal the protective lamellae were beaten from, where the tablets used the cheap one",
+   "rel": "contrast"
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+ "schema": 1,
+ "id": "figa",
+ "type": "amulet",
+ "names": {
+  "name": "Figa",
+  "native": "figa",
+  "lang": "pt",
+  "script": "Latin",
+  "said": "FEE-gah",
+  "aliases": [
+   "higa",
+   "cigua",
+   "fig hand",
+   "mano fica",
+   "manus fica",
+   "fig sign amulet"
+  ]
+ },
+ "etymology": {
+  "root": "Latin ficus, 'fig' — Italian far le fiche, 'to make the fig'; Spanish higa, Galician and Portuguese figa, Asturleonese cigua",
+  "note": "Early Christians called the gesture the manus obscena, the obscene hand. Ancient Greek sykophantes, 'one who shows figs', is the root of English sycophant; the cited source gives the connection to the gesture as one explanation among several, not a settled one.",
+  "tier": "cited",
+  "source": "s:wp-fig-sign"
+ },
+ "region": [
+  "iberia",
+  "brazil",
+  "rome-italy",
+  "greece-aegean"
+ ],
+ "countries": [
+  "PT",
+  "BR",
+  "ES",
+  "IT",
+  "GR"
+ ],
+ "facets": {
+  "era": "ancient",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "S",
+   "W",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A closed fist with the thumb pushed up between the index and middle fingers, carved small and drilled for a cord. In Asturias it is cut from jet; elsewhere from coral, silver, gold, bone or moulded resin. Worn at the neck or wrist, or pinned on a small child.",
+  "story": "The gesture came first and it was rude. In ancient Rome the manus fica was made by the pater familias during the Lemuria, the festival of the restless dead, to drive the dead spirits off. The ancient Greeks wore amulets of the same gesture around the neck against the evil eye and used it in their artwork: what they took to be an overtly sexual gesture was expected to distract an evil spirit from doing harm. Early Christians called it the manus obscena.\n\nIn Italy it stayed rude. Fica in mano, far le fiche, comparable to the finger; Dante puts it in Inferno, Canto XXV; medieval painters give it to the tormentors in a Man of Sorrows. The gesture there has long since fallen out of use.\n\nWhat survived, and where, is the point. In Portugal, Brazil, and parts of Spain — Galicia and Asturias especially — the fig is a gesture of good luck and a ward against the evil eye, and an amulet of a hand making it is worn for exactly that. In Asturias the amulets are jet, and it is usual to give one to a young child. The same hand shape, in Britain, Ireland, France, Germany, Argentina, Uruguay and the United States, carries no charge at all and is the joke where an adult steals a child's nose.\n\n*Inference —* one hand shape, running simultaneously as an obscenity in Turkey, a refusal in Poland, a sexual invitation in Denmark and a child's amulet in Asturias, is the clearest case this atlas has of a sign whose meaning is entirely local while its form is continent-wide. The eye travels with its reading attached. The fist does not.",
+  "how": "Carved from jet, coral, precious metal or bone, pierced at the wrist end, strung on a cord — red, where the tradition uses red. Given to a child rather than bought by one. No consecration is described in the source read here.",
+  "today": "Sold in Portugal, Brazil, Galicia and Asturias as jewellery and as a child's charm, and made in every grade from cut jet to moulded resin. Whether the resin one does the same job as the jet one is an argument with people on both sides of it, and this atlas reports it without joining."
+ },
+ "dating": {
+  "period": "Roman and Greek antiquity to the present",
+  "from_year": -99,
+  "to_year": null,
+  "living": true,
+  "label": "at least from the Roman period to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-fig-sign",
+  "note": "The cited source says the gesture has been used 'at least since the Roman Age' and separately that ancient Greeks wore amulets of it, without dating the Greek ones. -99 is a conservative marker for 'no later than the Roman period', not a first attestation."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": [
+   "jet",
+   "coral",
+   "silver",
+   "gold",
+   "bone"
+  ],
+  "worn": [
+   "neck",
+   "wrist",
+   "cradle"
+  ],
+  "made_by": "jet and coral cutters; the amulet is given, usually to a child",
+  "colour": [
+   "black",
+   "red"
+  ],
+  "single_use": false,
+  "source": "s:wp-fig-sign",
+  "note": "Jet in Asturias is what the cited source names; the other materials are the trade's usual range and are not individually cited there."
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "the ancient Greeks, who wore amulets of the gesture at the neck, and present-day wearers in Portugal, Brazil, Galicia and Asturias",
+   "source": "s:wp-fig-sign",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "the Roman pater familias, who made the sign during the Lemuria",
+   "source": "s:wp-fig-sign",
+   "tier": "cited",
+   "note": "against the spirits of the dead, specifically"
+  },
+  {
+   "harm": "child-harm",
+   "who": "Asturian families, who give jet ones to small children",
+   "source": "s:wp-fig-sign",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "wearers in Portugal, Brazil and parts of Spain, where the sign means good luck",
+   "source": "s:wp-fig-sign",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "fist",
+   "as": "the sign itself, and this is its commonest carved form",
+   "rel": "motif"
+  },
+  {
+   "to": "azabache",
+   "as": "the Caribbean and Spanish jet version of this exact hand, under a name taken from the stone",
+   "rel": "descendant"
+  },
+  {
+   "to": "hand",
+   "as": "the wider family — the open palm answers the same look with the opposite gesture",
+   "rel": "motif"
+  },
+  {
+   "to": "fascinum",
+   "as": "the Roman substitute for the same job, the phallus instead of the fist",
+   "rel": "parallel"
+  },
+  {
+   "to": "cornicello",
+   "as": "southern Italy's surviving answer, after the fig fell out of use there",
+   "rel": "parallel"
+  },
+  {
+   "to": "jet",
+   "as": "the Asturian material, and the one that carries the child's version",
+   "rel": "material"
+  },
+  {
+   "to": "eye",
+   "as": "the sign this substitutes for — something startling enough to take a look",
+   "rel": "parallel"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "as": "the long read that asks why the eye travels with its meaning and this hand does not",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Fig sign — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fig_sign"
+  }
+ ],
+ "sources": [
+  "s:wp-fig-sign",
+  "s:wp-jet-gemstone",
+  "s:wp-evil-eye",
+  "s:wp-apotropaic-magic"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-fig-sign"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "inference",
+    "note": "current trade reasoned from the source's account of where the amulet is still worn; no dated market evidence"
+   },
+   "object.materials": {
+    "tier": "tradition",
+    "note": "only jet is named by the cited source; the rest is general knowledge of the trade and is flagged in object.note"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

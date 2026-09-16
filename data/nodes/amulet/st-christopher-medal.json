@@ -1,0 +1,125 @@
+{
+ "schema": 1,
+ "id": "st-christopher-medal",
+ "type": "amulet",
+ "names": {
+  "name": "St Christopher medal",
+  "native": "Ἅγιος Χριστόφορος",
+  "script": "Greek",
+  "lang": "el",
+  "said": "in French, médaille de Saint Christophe; in Spanish, medalla de San Cristóbal",
+  "aliases": ["Saint Christopher medal", "travellers' medal", "San Cristóbal medal", "Christophorus medal"]
+ },
+ "etymology": {
+  "root": "Greek Χριστόφορος, from Χριστός 'Christ' and φέρειν 'to bear' — Christ-bearer",
+  "note": "Both hagiographic traditions say Christopher was not the name he was born with. He takes it at conversion; in the Greek Martyrdom he is Reprebos before it, in the Golden Legend Reprobus.",
+  "tier": "cited",
+  "source": "s:wp-saint-christopher"
+ },
+ "region": ["western-europe", "iberia", "rome-italy", "greece-aegean", "balkans", "north-america", "diaspora"],
+ "countries": ["FR", "ES", "IT", "HR", "GR", "US"],
+ "facets": {"era": "early-modern", "status": "living", "portable": "worn", "restricted": "open", "hemisphere": ["N", "W", "E"]},
+ "text": {
+  "what": "A stamped metal disc, 15 to 30 mm across, showing a bearded giant wading a river with a staff in one hand and a child on his shoulder. Aluminium, tin, brass, silver and gold all get struck. It hangs at the neck on a chain, clips to a bracelet, rides in a pocket, or goes in a car. Most carry a sentence around the rim; the French and the Spanish sentences are not the same sentence.",
+  "story": "Read the medal and you have the story. In the thirteenth-century Golden Legend, Christopher — a giant of twelve cubits, by that account — goes looking for the greatest master in the world, ends up serving Christ, and is set to carrying travellers across a dangerous river. A child asks to be carried. The water rises, the child grows heavier with every step, and on the far bank he says: \"You had on your shoulders not only the whole world but Him who made it.\" From that, various Christian denominations made him patron of travellers, and the Roman Catholic Church counts him among the Fourteen Holy Helpers. The patronage list ran wide before cars existed: mariners, ferrymen, archers, bachelors, bookbinders, fruit dealers, fullers, gardeners, surfers, toothache, floods, storms, lightning, pestilence, a holy death.\n\nWhat the medals promise depends on the language they are struck in. The French rim reads \"Regarde St Christophe et va-t-en rassuré\" — look at Saint Christopher and go on reassured. The Spanish medals and holy cards go further: \"Si en San Cristóbal confías, de accidente no morirás\" — if you trust in Saint Christopher, you will not die in an accident. This atlas prints both sentences as what the object says of itself, names the languages they are struck in, and stops.\n\nThen there is the thing everybody thinks they know. In 1969 the Roman Catholic Church revised the General Roman Calendar; Christopher's celebration was left, in the revision's own phrasing, to particular calendars, because his feast had entered the Roman calendar relatively late and because the written Acts of him are, in the same document's words, \"merely legendary\" while the ancient veneration of the martyr is not in doubt. The English-language telling of that decision, from 1969 onward, was that the Church had abolished him — decanonised, demoted, declared never to have existed, patron saint of nothing. Catholic Answers answers it flatly: \"St. Christopher was never 'de-canonized,' nor did the Church declare him a myth.\" Patrick Mott, writing in Orange County Catholic in 2015, calls it \"not so much a demotion as a reassignment\" and adds that \"He has never ceased to be recognized as a saint by the Church.\" The Roman Martyrology still remembers him on 25 July; the Eastern Orthodox Church keeps him on 9 May and calls him Great Martyr. *Inference —* the medal outsold the correction by a wide margin, and the correction has now been in print for more than fifty years.\n\nThe official line runs through the object too, not around it. A medal blessed by a priest is a sacramental, which the Catholic Church defines as a sacred sign that works by the Church's prayer rather than by itself, and which \"does not confer the grace of the Holy Spirit in the way that the sacraments do\". An unblessed medal is a piece of jewellery. The 2001 Directory on Popular Piety and the Liturgy sets the boundary the other way round, holding that popular piety \"may never incorporate rites permeated by magic, superstition, animism, vendettas or sexual connotations\". *Inference —* the Church draws that line in writing precisely because the line gets crossed, and the Spanish rim sentence is a good example of a claim the object makes that the doctrine does not.",
+  "how": "Struck by religious-goods manufacturers, sold at church shops, shrine stalls, jewellers, service stations and online. A priest may bless it, at which point the Church calls it a sacramental; nothing requires that, and nothing stops an unblessed one being worn. It is given more often than bought for oneself — to a traveller, a new driver, a child leaving home — and it is commonly passed on.",
+  "today": "Still struck, still sold, still worn across Catholic Europe and the Americas in 2026, and still stocked beside the Miraculous Medal and the Brown Scapular in the same shops. Most buyers meet the 1969 story in one of its garbled forms first. No dated retail price was read for this record."
+ },
+ "dating": {
+  "period": "the cult from late antiquity; the struck medal from the early modern period",
+  "from_year": 452,
+  "to_year": null,
+  "living": true,
+  "label": "the cult from 452; the struck medal from the sixteenth century; carried now",
+  "method": "inscribed",
+  "tier": "cited",
+  "source": "s:wp-saint-christopher",
+  "note": "452 is the consecration of a martyrium to a blessed Christopher near Chalcedon, dated by a stone inscription found in the ruins (construction May 450 to 22 September 452). It is the earliest evidence of the cult, not of the medal. Cast pilgrims' signs run from about the twelfth century and struck devotional medals replace them in the sixteenth or seventeenth; Christopher's own commemoration in the Roman rite dates to around 1550."
+ },
+ "object": {
+  "form": "medal",
+  "materials": ["silver", "brass", "gold", "copper"],
+  "worn": ["neck", "chest", "wrist", "pocket", "wallet", "vehicle"],
+  "made_by": "religious-goods manufacturers and medal strikers; a priest may bless one, and nothing requires it",
+  "inscription": "Regarde St Christophe et va-t-en rassuré / Si en San Cristóbal confías, de accidente no morirás",
+  "script": "Latin",
+  "colour": ["silver", "gold"],
+  "single_use": false,
+  "source": "s:wp-saint-christopher",
+  "note": "Both rim sentences are quoted from the cited source. Aluminium and tin are the cheap retail metals and have no key in this project's materials list. The 15–30 mm range in text.what is the ordinary retail range and is not a published measurement, so no length_mm is entered."
+ },
+ "against": [
+  {
+   "harm": "traffic",
+   "who": "the Spanish medals and holy cards themselves",
+   "quote": "Si en San Cristóbal confías, de accidente no morirás",
+   "source": "s:wp-saint-christopher",
+   "tier": "cited",
+   "note": "if you trust in Saint Christopher, you will not die in an accident"
+  },
+  {
+   "harm": "travel",
+   "who": "the French medals themselves",
+   "quote": "Regarde St Christophe et va-t-en rassuré",
+   "source": "s:wp-saint-christopher",
+   "tier": "cited",
+   "note": "look at Saint Christopher and go on reassured"
+  },
+  {
+   "harm": "drowning",
+   "who": "the Roman Catholic patronage list, which names mariners, boatmen, ferrymen, floods and storms",
+   "source": "s:wp-saint-christopher",
+   "tier": "cited"
+  },
+  {
+   "harm": "fever",
+   "who": "the Roman Catholic Church, which counts Christopher among the Fourteen Holy Helpers and names lightning and pestilence in his patronage",
+   "source": "s:wp-saint-christopher",
+   "tier": "cited",
+   "note": "the cited source calls the Fourteen Holy Helpers a group of saints held to be particularly effective, especially against various diseases"
+  }
+ ],
+ "kin": [
+  {"to": "car-saint", "as": "the same medal once the traveller got an engine — clipped to a visor instead of worn at the throat", "rel": "kin"},
+  {"to": "miraculous-medal", "as": "the other stamped medal on the same shop counter, and the one whose origin story has a date, a witness and a goldsmith", "rel": "kin"},
+  {"to": "catholic-sacramentals", "as": "the category the Church puts a blessed medal in, and the doctrine the Spanish rim sentence outruns", "rel": "tradition"},
+  {"to": "brown-scapular", "as": "the cloth version of the same argument — a devotional object with a promise attached that its own order spends its time qualifying", "rel": "kin"},
+  {"to": "agnus-dei", "as": "the older Roman sacramental worn at the neck, in wax rather than struck metal", "rel": "kin"},
+  {"to": "ladanka", "as": "what an Orthodox neck carries instead, and the Orthodox version of the same line between devotion and charm", "rel": "parallel"},
+  {"to": "holy-rider-pendant", "as": "the late-antique ancestor of a saint on a disc worn against danger", "rel": "origin"},
+  {"to": "omamori", "as": "the Japanese object sold for the same road, with kōtsū-anzen written on it instead of a Latin rim", "rel": "parallel"},
+  {"to": "blessing-at-a-shrine", "as": "the act that turns this medal from jewellery into what the Church calls a sacramental — optional, and often skipped", "rel": "practice"},
+  {"to": "cross", "as": "the sign stamped on the reverse of most of them", "rel": "motif"},
+  {"to": "amulet-or-talisman", "as": "the long read this record is the hardest case for: the Church calls it a sacramental, the rim calls it insurance", "rel": "story"}
+ ],
+ "confusable_with": [
+  {"id": "miraculous-medal", "tell": "if the figure is a woman standing on a globe inside an oval of words, with twelve stars and a letter M on the back, it is the Miraculous Medal; Christopher is a man in a river with a child on his shoulder"},
+  {"id": "car-saint", "tell": "same saint, different position — this record is the medal on a body, that one is the medal or statue fixed in a vehicle"}
+ ],
+ "links": [
+  {"label": "Saint Christopher — Wikipedia", "url": "https://en.wikipedia.org/wiki/Saint_Christopher"},
+  {"label": "St. Christopher: The Real Story Behind the Patron of Travelers — Catholic Answers", "url": "https://www.catholic.com/tract/st-christopher-the-real-story-behind-the-patron-of-travelers"}
+ ],
+ "sources": [
+  "s:wp-saint-christopher",
+  "s:wp-devotional-medal",
+  "s:wp-sacramental",
+  "s:web-catholic-answers-st-christopher",
+  "s:web-occatholic-saint-who-aint",
+  "s:wp-general-roman-calendar-1969",
+  "s:web-vatican-directory-popular-piety"
+ ],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-saint-christopher"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:web-catholic-answers-st-christopher", "note": "the calendar paragraph is carried by Catholic Answers, Orange County Catholic and the General Roman Calendar of 1969 article; the two stretches marked *Inference —* are this project's own and are labelled where they appear"},
+   "text.today": {"tier": "inference", "note": "continued sale reasoned from the sources; no market figure and no dated price read"},
+   "object": {"tier": "cited", "source": "s:wp-saint-christopher", "note": "inscriptions and positions cited; the size range is the ordinary retail range, not a published measurement"},
+   "dating": {"tier": "cited", "source": "s:wp-saint-christopher", "note": "452 dates the cult by an inscription; the medal itself is later and the note says by how much"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Saint Christopher medal.jpg", "File:Hieronymus Bosch - Saint Christopher - WGA2559.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-17"
+}

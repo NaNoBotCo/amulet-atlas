@@ -1,0 +1,581 @@
+{
+ "id": "silver",
+ "names": {
+  "name": "Silver",
+  "aliases": [
+   "argentum",
+   "sterling"
+  ]
+ },
+ "etymology": {
+  "root": "Latin argentum, hence the chemical symbol Ag",
+  "note": "Alchemists called silver luna and tied it to the moon; silver nitrate was known as lunar caustic on that account.",
+  "tier": "cited",
+  "source": "s:wp-silver"
+ },
+ "region": [
+  "levant",
+  "rome-italy",
+  "britain-ireland",
+  "maghreb",
+  "north-america",
+  "himalaya-tibet"
+ ],
+ "countries": [
+  "IL",
+  "SY",
+  "IT",
+  "GB",
+  "US",
+  "EG",
+  "DZ",
+  "CN"
+ ],
+ "facets": {
+  "kind": "metal"
+ },
+ "text": {
+  "what": "A soft, white, very reflective metal that occurs native and is mostly recovered as a by-product of lead-zinc, copper and gold mining. It takes a high polish, it beats out into sheet thin enough to write on with a needle, and it blackens: silver sulfide forms wherever sulfur reaches it, which is why old silver charms in a drawer go dark. Pure silver is soft, so working silver is alloyed, usually with copper, and quoted per mille.",
+  "story": "The oldest surviving text of the Hebrew Bible is an amulet, and it is silver. In 1979 two tiny silver scrolls came out of a Judahite burial chamber at Ketef Hinnom, southwest of Jerusalem's Old City, inscribed with portions of the Priestly Blessing from Numbers and apparently worn as amulets. They date to the late seventh or early sixth century BCE. Unrolling them without destroying them took three years, and they are now in the Israel Museum.\n\nThat is the metal's characteristic use: a sheet, incised with a needle, rolled up, and carried in a tube. Flat metal amulets of silver, gold, copper and lead were popular in late antiquity across Palestine, Syria, Mesopotamia, Anatolia and Iran — rolled and placed in a metal container with loops for a cord, and covered with incantation formulae and the names of God, mostly in Aramaic and Hebrew. Jewish amulet practice, which will not make images, puts the divine name on parchment or on metal, and the metal is usually silver.\n\nThe metal also carries claims of its own. The hamsa was most commonly carved in jet or formed from silver, a metal held to represent purity and to hold power. The hirz, another Egyptian amulet against the evil eye, is a silver box holding verses of the Qur'an. The Neapolitan cimaruta is commonly silver, and the cornicello is cut from gold or silver as often as from coral; silver, in that reading, belongs to Luna. In Europe silver turns up as a weapon: folklore holds that a bullet cast from silver is the only thing effective against a werewolf or a witch, and the metal is also credited with detecting poison and easing passage into the realm of the fairies.\n\n*Inference —* silver sits between gold and iron in every sense that matters to a charm. It survives in the ground where iron does not, and it costs less than gold, which is why so much of the world's amulet stock is silver — it is the most expensive metal an ordinary household will put on a child.",
+  "today": "Still the default metal of the amulet trades from Morocco to Nepal. The silver jewellery now identified with the Navajo and other peoples of the American Southwest is dated by writers on turquoise to around 1880 and described as a modern development following European contact — a reminder that a material can be old and the craft made from it recent."
+ },
+ "dating": {
+  "period": "Iron Age Judah to the present",
+  "from_year": -629,
+  "to_year": null,
+  "living": true,
+  "label": "c. 630 BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-ketef-hinnom",
+  "note": "Dated from the Ketef Hinnom silver scrolls, late 7th to early 6th century BCE, excavated in 1979 and described by their excavators as amulets."
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "Egyptian users of the hirz and the hamsa, where the silver itself is part of the claim",
+   "source": "s:wp-hamsa",
+   "tier": "cited",
+   "note": "the hamsa was most commonly carved in jet or formed from silver, a metal held to represent purity"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "European folklore, which holds a silver bullet the only weapon effective against a witch or werewolf",
+   "source": "s:wp-silver",
+   "tier": "cited"
+  },
+  {
+   "harm": "demons",
+   "who": "the incised sheet amulets of late antique Palestine and Syria, which name God against them",
+   "source": "s:wp-amulet",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "ketef-hinnom-scrolls",
+   "as": "two rolled sheets of this metal, and the oldest surviving text of the Hebrew Bible",
+   "rel": "carried-by"
+  },
+  {
+   "to": "kamea",
+   "as": "the written Jewish amulet, put on parchment or on metal, and the metal is usually this one",
+   "rel": "carried-by"
+  },
+  {
+   "to": "hamsa",
+   "as": "carved in jet or formed in silver, which its makers tie to purity",
+   "rel": "carried-by"
+  },
+  {
+   "to": "cimaruta",
+   "as": "a sprig of rue cast in silver — the herb made permanent by changing what it is made of",
+   "rel": "carried-by"
+  },
+  {
+   "to": "cornicello",
+   "as": "cut from silver as readily as from coral, and in that reading silver belongs to Luna",
+   "rel": "carried-by"
+  },
+  {
+   "to": "hirz-pouch",
+   "as": "a silver box with Qur'anic verses inside it",
+   "rel": "carried-by"
+  },
+  {
+   "to": "takrut",
+   "as": "the same technique at the other end of Asia: metal sheet, incised, rolled, worn on a cord",
+   "rel": "parallel"
+  },
+  {
+   "to": "gold",
+   "as": "the metal above it, and the one a household reaches for only when it can",
+   "rel": "contrast"
+  },
+  {
+   "to": "turquoise",
+   "as": "the stone silver is set with from Tibet to Arizona",
+   "rel": "kin"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "as": "the tradition that made this metal a page",
+   "rel": "tradition"
+  }
+ ],
+ "links": [
+  {
+   "label": "Silver — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Silver"
+  }
+ ],
+ "sources": [
+  "s:wp-silver",
+  "s:wp-ketef-hinnom",
+  "s:wp-amulet",
+  "s:wp-hamsa",
+  "s:wp-cimaruta",
+  "s:wp-cornicello",
+  "s:wp-turquoise"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-silver"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-ketef-hinnom",
+    "note": "the closing paragraph is this project's inference and is marked in the text"
+   }
+  }
+ },
+ "x_commons_files": [
+  "File:Ketef Hinnom scroll.jpg"
+ ],
+ "confidence": "high",
+ "schema": 1,
+ "type": "material",
+ "images": [],
+ "updated": "2026-09-16",
+ "blurb": "A soft, white, very reflective metal that occurs native and is mostly recovered as a by-product of lead-zinc, copper and gold mining.",
+ "region_terms": [
+  {
+   "key": "levant",
+   "name": "The Levant",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "maghreb",
+   "name": "The Maghreb",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Morocco, Algeria, Tunisia, Libya"
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "himalaya-tibet",
+   "name": "The Himalaya and Tibet",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "ketef-hinnom-scrolls",
+   "type": "amulet",
+   "name": "Ketef Hinnom silver scrolls",
+   "as": "two rolled sheets of this metal, and the oldest surviving text of the Hebrew Bible",
+   "rel": "carried-by"
+  },
+  {
+   "to": "kamea",
+   "type": "amulet",
+   "name": "Kamea",
+   "as": "the written Jewish amulet, put on parchment or on metal, and the metal is usually this one",
+   "rel": "carried-by"
+  },
+  {
+   "to": "hamsa",
+   "type": "amulet",
+   "name": "Hamsa",
+   "as": "carved in jet or formed in silver, which its makers tie to purity",
+   "rel": "carried-by"
+  },
+  {
+   "to": "cimaruta",
+   "type": "amulet",
+   "name": "Cimaruta",
+   "as": "a sprig of rue cast in silver — the herb made permanent by changing what it is made of",
+   "rel": "carried-by"
+  },
+  {
+   "to": "cornicello",
+   "type": "amulet",
+   "name": "Cornicello",
+   "as": "cut from silver as readily as from coral, and in that reading silver belongs to Luna",
+   "rel": "carried-by"
+  },
+  {
+   "to": "hirz-pouch",
+   "type": "amulet",
+   "name": "Hirz",
+   "as": "a silver box with Qur'anic verses inside it",
+   "rel": "carried-by"
+  },
+  {
+   "to": "takrut",
+   "type": "amulet",
+   "name": "Takrut",
+   "as": "the same technique at the other end of Asia: metal sheet, incised, rolled, worn on a cord",
+   "rel": "parallel"
+  },
+  {
+   "to": "gold",
+   "type": "material",
+   "name": "Gold",
+   "as": "the metal above it, and the one a household reaches for only when it can",
+   "rel": "contrast"
+  },
+  {
+   "to": "turquoise",
+   "type": "material",
+   "name": "Turquoise",
+   "as": "the stone silver is set with from Tibet to Arizona",
+   "rel": "kin"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "type": "tradition",
+   "name": "Practical Kabbalah",
+   "as": "the tradition that made this metal a page",
+   "rel": "tradition"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-silver",
+   "kind": "encyclopedia",
+   "title": "Silver",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Silver",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ketef-hinnom",
+   "kind": "encyclopedia",
+   "title": "Ketef Hinnom",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ketef_Hinnom",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-amulet",
+   "kind": "encyclopedia",
+   "title": "Amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-hamsa",
+   "kind": "encyclopedia",
+   "title": "Hamsa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hamsa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cimaruta",
+   "kind": "encyclopedia",
+   "title": "Cimaruta",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cimaruta",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cornicello",
+   "kind": "encyclopedia",
+   "title": "Cornicello",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cornicello",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-turquoise",
+   "kind": "encyclopedia",
+   "title": "Turquoise",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Turquoise",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-silver"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-ketef-hinnom",
+   "note": "the closing paragraph is this project's inference and is marked in the text"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-silver"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-silver"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-silver"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "Egyptian users of the hirz and the hamsa, where the silver itself is part of the claim",
+   "quote": "",
+   "source": "s:wp-hamsa",
+   "tier": "cited",
+   "note": "the hamsa was most commonly carved in jet or formed from silver, a metal held to represent purity"
+  },
+  {
+   "key": "witchcraft",
+   "label": "Another person's sorcery",
+   "who": "European folklore, which holds a silver bullet the only weapon effective against a witch or werewolf",
+   "quote": "",
+   "source": "s:wp-silver",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "demons",
+   "label": "Demons and night-hags",
+   "who": "the incised sheet amulets of late antique Palestine and Syria, which name God against them",
+   "quote": "",
+   "source": "s:wp-amulet",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "630 BCE to now",
+ "country_names": [
+  {
+   "iso": "IL",
+   "name": "Israel"
+  },
+  {
+   "iso": "SY",
+   "name": "Syria"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  },
+  {
+   "iso": "DZ",
+   "name": "Algeria"
+  },
+  {
+   "iso": "CN",
+   "name": "China"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "cimaruta",
+   "type": "amulet",
+   "name": "Cimaruta",
+   "as": "the metal it is nearly always cast in, and the metal Naples associates with the moon",
+   "rel": "material"
+  },
+  {
+   "from": "hamsa",
+   "type": "amulet",
+   "name": "Hamsa",
+   "as": "the metal it is usually made of, named in the tradition for purity",
+   "rel": "material"
+  },
+  {
+   "from": "hirz-pouch",
+   "type": "amulet",
+   "name": "Hirz",
+   "as": "the metal it is nearly always made in",
+   "rel": "material"
+  },
+  {
+   "from": "ketef-hinnom-scrolls",
+   "type": "amulet",
+   "name": "Ketef Hinnom silver scrolls",
+   "as": "the metal that let a text this small survive two and a half thousand years in a tomb",
+   "rel": "material"
+  },
+  {
+   "from": "milagro",
+   "type": "amulet",
+   "name": "Milagro",
+   "as": "the metal that makes an expensive milagro, and the reason old ones were worth taking down",
+   "rel": "material"
+  },
+  {
+   "from": "miraculous-medal",
+   "type": "amulet",
+   "name": "Miraculous Medal",
+   "as": "the metal of the costly version, and the one that makes an old medal worth keeping",
+   "rel": "material"
+  },
+  {
+   "from": "mjolnir-pendant",
+   "type": "amulet",
+   "name": "Mjölnir pendant",
+   "as": "the other common metal, and the one the ornamented hundred are nearly all made in",
+   "rel": "material"
+  },
+  {
+   "from": "tama-votive",
+   "type": "amulet",
+   "name": "Tama",
+   "as": "the metal of the costly version, and the reason a wall of these is worth something",
+   "rel": "material"
+  },
+  {
+   "from": "tuareg-cross",
+   "type": "amulet",
+   "name": "Agadez cross",
+   "as": "the metal the smiths cast it in, and never hammer",
+   "rel": "material"
+  },
+  {
+   "from": "jewish-practical-kabbalah",
+   "type": "tradition",
+   "name": "Practical Kabbalah",
+   "as": "the other page: metal thin enough to write on and durable enough that the oldest example survives",
+   "rel": "material"
+  },
+  {
+   "from": "crescent",
+   "type": "motif",
+   "name": "The crescent",
+   "as": "the metal the crescent is tied to through Luna in the alchemical scheme",
+   "rel": "material"
+  },
+  {
+   "from": "cross",
+   "type": "motif",
+   "name": "The cross",
+   "as": "the metal the Agadez smiths cast it in, by lost wax and never hammered",
+   "rel": "material"
+  },
+  {
+   "from": "open-palm",
+   "type": "motif",
+   "name": "The open palm",
+   "as": "the metal the Maghreb casts it in",
+   "rel": "material"
+  },
+  {
+   "from": "copper",
+   "type": "material",
+   "name": "Copper and bronze",
+   "as": "the grade above it — in a Han burial suit the wire says who you were",
+   "rel": "contrast"
+  },
+  {
+   "from": "gold",
+   "type": "material",
+   "name": "Gold",
+   "as": "the metal one step down, and the one most of the world's amulets are actually made of",
+   "rel": "kin"
+  },
+  {
+   "from": "iron",
+   "type": "material",
+   "name": "Iron",
+   "as": "the other metal folklore arms against monsters, and the one that survives in the ground",
+   "rel": "contrast"
+  },
+  {
+   "from": "turquoise",
+   "type": "material",
+   "name": "Turquoise",
+   "as": "the metal it is nearly always set in, from Nishapur to Arizona",
+   "rel": "kin"
+  },
+  {
+   "from": "joseph-naveh",
+   "type": "person",
+   "name": "Joseph Naveh",
+   "as": "the metal the rolled amulet strips are beaten from, and the reason their text survives at all",
+   "rel": "material"
+  }
+ ]
+}

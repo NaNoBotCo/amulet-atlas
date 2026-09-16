@@ -1,0 +1,184 @@
+{
+ "schema": 1,
+ "id": "wearing-hidden",
+ "type": "practice",
+ "names": {
+  "name": "Wearing hidden",
+  "aliases": [
+   "carrying concealed",
+   "under the shirt",
+   "next to the skin"
+  ],
+  "said": "kept out of sight, on purpose"
+ },
+ "region": [
+  "north-america",
+  "mainland-sea",
+  "western-europe",
+  "japan",
+  "australia",
+  "diaspora"
+ ],
+ "countries": [
+  "US",
+  "TH",
+  "IT",
+  "VA",
+  "JP",
+  "AU",
+  "HT"
+ ],
+ "facets": {
+  "stage": "wear",
+  "era": "medieval",
+  "status": "living",
+  "restricted": "limited"
+ },
+ "text": {
+  "what": "The rule that a charm is not to be seen. Hoodoo mojo bags are made for one person and kept on that person, out of sight: men in a trouser pocket, women clipped to the bra, either pinned to clothing below the waist. Catholic devotional scapulars hang front and back under the outer clothes and are designed to be unobtrusive. A Thai takrut goes under the shirt at the chest or the waist. The charm that hides and the charm that stares out from a windscreen are doing opposite jobs.",
+  "story": "Concealment has a legal history in hoodoo. Some conjurers hid their charms and others, who made a living from conjure, wore their mojo bags on the outside of their clothes — the cited account records both, and the trade sign and the private charm were different objects. Where the mojo holds a love working, practitioners sometimes specify that it be worn next to the skin; the hiding place is treated as part of whether it works.\n\nCatholic practice built hiding into rule. The Carmelite constitution of 1281 required the scapular to be worn even in bed, under penalty of serious fault, and the constitution of 1369 attached automatic excommunication to a Carmelite saying Mass without one. Short devotional scapulars given to people outside the orders were designed to disappear under ordinary clothes at home and at work. John Paul II said he received his first Brown Scapular at ten and wore it into his papacy.\n\nThailand hides the object and also fixes its height. The rule reported in the amulet literature is not to wear Buddhist amulets below the waist: they go at the neck or above the waist, out of respect for the Buddha, while takrut, which carry no Buddha image, may go in trouser pockets. Japan hides the contents rather than the object: omamori are carried openly on a bag or a phone strap and customarily never opened, so that the packet is visible and its inside is not.\n\n*Inference —* two opposite logics run through this atlas and they meet here. The eye, the horn and the hand work by being seen — they intercept a look. The sewn bag, the scapular and the takrut work by being unseen. A collection that files both as amulets is filing two different mechanisms under one word, and the clearest way to tell them apart in a museum tray is to ask where the object sat on the body.",
+  "how": "Under the shirt on a cord; pinned inside clothing; in a pocket; sewn into a lining; clipped where another person will not look. Several traditions add a height rule, a side rule or a no-opening rule on top of the hiding.",
+  "today": "Live everywhere the practice is. Scapulars are still worn under work clothes; mojo bags are still made to order and concealed; Thai amulets are worn under the shirt in cased frames and lifted out to be examined by dealers with loupes, which is the moment the private object becomes a traded one."
+ },
+ "dating": {
+  "period": "medieval Europe to the present",
+  "from_year": 1281,
+  "to_year": null,
+  "living": true,
+  "label": "1281 to now",
+  "method": "textual",
+  "circa": false,
+  "tier": "cited",
+  "source": "s:wp-scapular",
+  "note": "Dated from the Carmelite constitution of 1281, the earliest dated rule about concealed wearing in these sources. Concealment is older than that in every tradition named here."
+ },
+ "object": {
+  "form": "packet",
+  "materials": [
+   "cloth",
+   "leather",
+   "copper",
+   "silver",
+   "paper"
+  ],
+  "worn": [
+   "chest",
+   "sewn-in",
+   "pocket",
+   "waist",
+   "skin"
+  ],
+  "made_by": "a conjurer, a monk, a religious order, or a temple",
+  "single_use": false,
+  "source": "s:wp-mojo-bag"
+ },
+ "restricted": {
+  "note": "Among Arrernte groups, tjurunga were kept apart from the camp in a sacred place closed to women and to uninitiated men, and in the period described only initiated men could see or touch them. Australian collecting institutions hold material of this kind under access restrictions set by the relevant communities. This atlas prints the restriction and holds no description of those objects or their keeping places.",
+  "who_says": "Arrernte practice as described in the cited account, and AIATSIS, which restricts access to culturally sensitive collection items to those with the permission of the relevant Aboriginal or Torres Strait Islander community",
+  "source": "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies"
+ },
+ "against": [
+  {
+   "harm": "witchcraft",
+   "who": "hoodoo practitioners, who hold that a mojo made for one person has to stay concealed on that person",
+   "source": "s:wp-mojo-bag",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "Catholic wearers of the devotional scapular, worn under the clothes as a pledge and a reminder",
+   "source": "s:wp-scapular",
+   "tier": "cited"
+  },
+  {
+   "harm": "weapons",
+   "who": "Thai wearers of takrut, worn at the chest or the waist to protect specific parts of the body",
+   "source": "s:wp-takrut",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "gris-gris",
+   "as": "the charm with the strictest hiding rule in this atlas — one owner, on the body, out of sight",
+   "rel": "carried-by"
+  },
+  {
+   "to": "brown-scapular",
+   "as": "cloth worn front and back under the shirt, and once required even in bed",
+   "rel": "carried-by"
+  },
+  {
+   "to": "takrut",
+   "as": "the cased scroll worn under the shirt, with a height rule attached to it",
+   "rel": "carried-by"
+  },
+  {
+   "to": "omamori",
+   "as": "the opposite arrangement: carried in plain view and never opened",
+   "rel": "contrast"
+  },
+  {
+   "to": "nazar",
+   "as": "the charm built to be seen, which is what this practice is defined against",
+   "rel": "contrast"
+  },
+  {
+   "to": "sewing-in",
+   "as": "how a charm gets hidden when a pocket is not enough",
+   "rel": "practice"
+  },
+  {
+   "to": "catholic-sacramentals",
+   "as": "the tradition that wrote concealed wearing into an order's constitution",
+   "rel": "tradition"
+  },
+  {
+   "to": "most-of-them-are-for-children",
+   "as": "the long read on who charms are actually put on, which is also where hiding and showing part company",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Mojo (African-American culture) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mojo_bag"
+  },
+  {
+   "label": "Scapular — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Scapular"
+  }
+ ],
+ "sources": [
+  "s:wp-mojo-bag",
+  "s:wp-scapular",
+  "s:wp-takrut",
+  "s:wp-thai-buddha-amulet",
+  "s:wp-omamori",
+  "s:wp-tjurunga",
+  "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-mojo-bag"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-scapular",
+    "note": "the closing seen/unseen argument is this project's and is marked where it appears"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "the closing sentence about dealers is reasoned from the market accounts, not quoted from them"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Brown scapular.jpg"
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16"
+}

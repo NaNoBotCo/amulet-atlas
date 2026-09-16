@@ -1,0 +1,661 @@
+{
+ "schema": 1,
+ "id": "most-of-them-are-for-children",
+ "type": "story",
+ "names": {
+  "name": "Most of them are for children",
+  "aliases": [
+   "the claim about infants",
+   "testing the atlas against itself",
+   "cradle charms"
+  ]
+ },
+ "region": [
+  "world",
+  "mesopotamia",
+  "ancient-egypt",
+  "rome-italy",
+  "caribbean",
+  "iberia"
+ ],
+ "countries": [
+  "IQ",
+  "EG",
+  "IT",
+  "ES",
+  "PR",
+  "CU",
+  "DO",
+  "MX",
+  "TR",
+  "GR",
+  "IL",
+  "US"
+ ],
+ "facets": {
+  "kind": "essay",
+  "era": "living"
+ },
+ "text": {
+  "what": "Somewhere in every general account of amulets sits a sentence saying that the largest single class of them, anywhere in the world, is protection for infants: the cradle charm, the jet fist pinned inside a Puerto Rican baby's shirt, the blue bead on a Turkish newborn's vest, the dwarf god at an Egyptian birth, the plaque nailed up against the demon who takes babies. This atlas carries that sentence in its own vocabulary file. This record tests it against the atlas's own records, reports what the count actually shows, and then says plainly what a count of this kind cannot show at all."
+ },
+ "sections": [
+  {
+   "h": "The claim, and where this project got it",
+   "text": "The claim is in this repository, in this project's handwriting.\n\n`data/vocab/against.json` lists twenty-nine harms a charm can be said to answer. Under the key `child-harm`, labelled \"Harm to a child\", the gloss read: \"the largest single class of amulet in the world\". No source was attached to it. It is an assertion made by the author of a controlled vocabulary, in a file nobody reads, and it then governs how every record in the atlas gets coded.\n\nThat is the worst place for an unsourced claim to sit, because it is upstream of the evidence. So this record counted — and the gloss has since been changed on the strength of what the count found. The last section says what it now reads."
+  },
+  {
+   "h": "The count, as of 17 September 2026",
+   "text": "Counted across the 286 records in `data/nodes/`, the finished set.\n\n200 records carry an `against[]` block at all. Between them they hold 736 claim rows — one row per claim, never per charm, so a charm said to stop three things appears three times.\n\nThe ranking of those rows:\n\n bad luck, unspecified — 90\n illness — 83\n the evil eye — 67\n ghosts and hungry spirits — 50\n demons and night-hags — 43\n harm to a house or a field — 40\n harm to a child — 39\n another person's sorcery — 39\n infertility — 30\n danger to the dead — 26\n\nHarm to a child is joint seventh, tied with sorcery. Add the separate key for death in childbirth, which carries 18 more rows, and the two together come to 57 rows across 50 distinct records — which puts the combined class fourth, behind unspecified bad luck, behind illness, and behind the evil eye.\n\nOf the 109 amulet records, 22 name harm to a child or death in childbirth. Eighteen records list `cradle` among the places the object is worn: azabache, the Bes amulet, the cimaruta, the dreamcatcher, the evil-eye bracelet, the figa, the hamsa, the kamea, the nazar, the ojo de venado, the Taweret amulet, wood as a material, and the sign records for the eye, the fig fist and the lion, plus three whole traditions — Egyptian amulet craft, European folk apotropaic practice, and Latin American folk Catholic practice.\n\nSo: on this atlas's own coding, protection of infants is among the largest classes and is not the largest. The gloss overstated what the records underneath it said.\n\n*Inference —* this count was first run at 234 records, when the combined class sat third, ahead of the evil eye. Fifty-two records later it sits fourth and the evil eye has passed it. The claim did not get truer or falser; the sample got bigger. That is worth printing, because a count taken once and quoted forever is how an unsourced gloss gets made in the first place."
+  },
+  {
+   "h": "What the 57 rows are, with the claimants named",
+   "text": "The rows are not a uniform thing. They come from four different kinds of evidence and it matters which.\n\nFrom ritual texts. Mesopotamian incantations name Lamashtu's victims as the unborn and the newly born, and the plaque carries the order \"you must not approach (this) person.\" Ritual texts from Uruk prescribe a bronze Pazuzu necklace against miscarriage, and householders set his image in dwellings for infants. A Greek amulet naming the demon Abyzou orders her off by name — \"Flee, flee, Abyzou, [from] Sisinios and Sisinnia; the voracious dog dwells here.\" — and the Testament of Solomon has the same demon saying she walks the world looking for babies.\n\nFrom household practice recorded by outsiders. Varro records the Roman custom of hanging a phallic charm at a baby's neck. Roman families gave a boy a bulla nine days after birth; Isidore of Seville defines the lunula as a woman's ornament — \"Lunulae are female ornaments in the likeness of the moon, little hanging gold bullae.\" Jewish families in Alsace, southern Germany and Switzerland set coral on a boy's neckband for the brit milah to draw the look away, into the early twentieth century. Frances Densmore's Ojibwe informants told her in 1929 that the netted hoop caught \"any harm that might be in the air as a spider's web catches and holds whatever comes in contact with it\".\n\nFrom Egypt's own material. Ivory apotropaic wands, called birth tusks, became common in the Middle Kingdom, around 2040 to 1782 BCE, and were used to protect expectant mothers and children; the cowroid amulet, imitating a cowrie shell, went into a woman's girdle for the same purpose. Bes and Taweret are household gods of exactly this job, invoked in rituals performed at home rather than in the state temples.\n\nFrom parents alive now. Edward Tabor, writing in Hektoen International in the autumn of 2023, describes the azabache handed to Puerto Rican, Cuban and Dominican infants within days of birth: a jet fist about 8 mm long or a faceted polyhedron 3 to 4 mm across, with a small red bead on the chain. 29% of the wearers he surveyed had the fist, 71% the polyhedron; 40% of the babies in his clinic who wore one also wore a Virgin Mary medallion. What parents named it against was specific: diarrhoea, respiratory infections, deformities, and above all sudden infant death. One mother's answer to him is the whole subject in eight words: \"Of course it works. He's never been sick before this.\""
+  },
+  {
+   "h": "What this count cannot show, stated against itself",
+   "text": "*Inference —* five separate reasons the number above is not the world's number.\n\nThe harms are this project's keys, not the carriers' words. Every row exists because somebody here read an account and decided which of twenty-nine keys it fell under. `bad-luck`, the largest bucket at 90 rows, is a residual — glossed \"Bad luck, unspecified\" — and it is where a claim goes when a source does not say what the charm is for. A charm hung over a cradle and described in its source only as lucky lands in `bad-luck`, not in `child-harm`. The coding rule pushes the count in one direction and there is no way to measure by how much.\n\nOne charm, many rows. The ranking counts claims, not objects: an amulet with a long entry generates more rows than one with a short entry, regardless of how many people carry either.\n\nThe corpus is one language wide. These records were built from English-language encyclopedia articles, museum pages and a handful of journal and news items. A tradition with thin English coverage contributes few rows whatever its practice looks like on the ground.\n\nSurvival is not frequency. Durable amulets, buried in graves that were later excavated, are over-represented against the cloth, dough, herb and thread charms beside them — and charms for children are disproportionately cheap and organic.\n\nAnd a count of records is not a count of people. Nothing here weighs the nazar, worn by tens of millions, against the tupilaq, which is one row like any other.\n\nWhat the count does show is narrower and still worth having: across four continents and five thousand years, in traditions with no contact between them, the class of harm that recurs with almost no gaps is harm to a small child. Mesopotamia names a demon for it. Egypt keeps two household gods for it. Rome puts something on the neck nine days after birth. Asturias cuts a jet fist for it. Puerto Rico pins one inside a shirt now."
+  },
+  {
+   "h": "The verdict, and what happens to the gloss",
+   "text": "On the evidence this atlas holds, the sentence \"most of them are for children\" is not supported and the sentence \"more of them are for children than for almost anything else\" is.\n\nThat is a real difference, and the record prints the difference rather than quietly rewriting the file and moving on. The gloss was softened. `child-harm` in `data/vocab/against.json` now reads: \"harm to an infant or a small child; common across the atlas, though not the largest class in it — see /story/most-of-them-are-for-children/\". The superlative is gone and the vocabulary now points at the count instead of standing in front of it. A reader who meets the key on the /against/ page is reading a description, not a finding.\n\nOne last observation, offered as reasoning and not as fact. *Inference —* the charms in this class are unusual in that the wearer never chooses them. A bulla goes on at nine days, an azabache within the week, a nazar before the child can see it. Every other class in this atlas is worn by somebody who decided to wear it. This one is put on by somebody else, on behalf of a person who cannot yet be asked — which is why the claimant named in the record is almost always a parent, and almost never the wearer."
+  }
+ ],
+ "dating": {
+  "period": "the second millennium BCE to the present",
+  "from_year": -2039,
+  "to_year": null,
+  "living": true,
+  "label": "c. 2040 BCE, the Middle Kingdom birth tusks, to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-apotropaic-magic",
+  "note": "Dated from the earliest child-protection object this record can name with a source and a span — the Egyptian ivory birth tusk, common in the Middle Kingdom, c. 2040–1782 BCE. Mesopotamian material against Lamashtu is of comparable age; this project has not read a date for it precise enough to use as the anchor."
+ },
+ "kin": [
+  {
+   "to": "lamashtu-plaque",
+   "as": "the oldest named answer in this class: a plaque against the demon the incantations say takes the unborn and the newly born",
+   "rel": "carries"
+  },
+  {
+   "to": "bes-amulet",
+   "as": "the household god Egypt kept for children, in a religion whose state temples were doing something else entirely",
+   "rel": "carries"
+  },
+  {
+   "to": "taweret-amulet",
+   "as": "the other half of the Egyptian birth pair, for the mother as much as for the infant",
+   "rel": "carries"
+  },
+  {
+   "to": "bulla",
+   "as": "the Roman case with a date on it — put on a boy nine days after birth, and taken off at manhood",
+   "rel": "carries"
+  },
+  {
+   "to": "azabache",
+   "as": "the living case, with a survey, a price and a mother's own sentence behind it",
+   "rel": "carries"
+  },
+  {
+   "to": "ojo-de-venado",
+   "as": "the same job in Mexico, put on a newborn by parents who say what it is for",
+   "rel": "parallel"
+  },
+  {
+   "to": "nazar",
+   "as": "the form most of the world now pins to a baby's shirt, in glass",
+   "rel": "parallel"
+  },
+  {
+   "to": "eye",
+   "as": "the sign behind most of this class — harm arrives by an admiring look, and the admired thing is usually somebody's child",
+   "rel": "motif"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "as": "the companion read, which follows the sign rather than the person it is put on",
+   "rel": "story"
+  },
+  {
+   "to": "dating-a-charm",
+   "as": "the methods note for the other half of this problem — what the numbers on the timeline are and are not",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "A Hispanic amulet against disease in infants — Hektoen International",
+   "url": "https://hekint.org/2023/10/10/a-hispanic-amulet-against-disease-in-infants/"
+  },
+  {
+   "label": "Apotropaic magic — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Apotropaic_magic"
+  }
+ ],
+ "sources": [
+  "s:repo-atlas-vocab",
+  "s:repo-atlas-build",
+  "s:wp-apotropaic-magic",
+  "s:wp-amulet",
+  "s:web-hektoen-azabache",
+  "s:wp-lamashtu",
+  "s:wp-pazuzu",
+  "s:wp-abyzou",
+  "s:wp-bulla-amulet",
+  "s:wp-lunula-amulet",
+  "s:wp-evil-eye",
+  "s:wp-dreamcatcher",
+  "s:wp-taweret",
+  "s:wp-bes",
+  "s:wp-fig-sign"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:repo-atlas-vocab"
+  },
+  "fields": {
+   "sections": {
+    "tier": "cited",
+    "source": "s:repo-atlas-vocab",
+    "note": "every number in the second section was counted from this repository's records on 17 September 2026 and is a fact about the atlas, not about the world; the limits of that count are set out in the fourth section and marked as this project's reasoning"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-17",
+ "blurb": "Somewhere in every general account of amulets sits a sentence saying that the largest single class of them, anywhere in the world, is protection for infants: the cradle charm, the jet fist pinned inside a Puerto Rican…",
+ "region_terms": [
+  {
+   "key": "world",
+   "name": "Everywhere",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "use for a sign or a practice documented on more than two continents"
+  },
+  {
+   "key": "mesopotamia",
+   "name": "Mesopotamia",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Sumer, Akkad, Babylonia, Assyria"
+  },
+  {
+   "key": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Nile valley and delta, Predynastic through Roman Egypt"
+  },
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "caribbean",
+   "name": "The Caribbean",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "iberia",
+   "name": "Iberia",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "lamashtu-plaque",
+   "type": "amulet",
+   "name": "Lamashtu plaque",
+   "as": "the oldest named answer in this class: a plaque against the demon the incantations say takes the unborn and the newly born",
+   "rel": "carries"
+  },
+  {
+   "to": "bes-amulet",
+   "type": "amulet",
+   "name": "Bes amulet",
+   "as": "the household god Egypt kept for children, in a religion whose state temples were doing something else entirely",
+   "rel": "carries"
+  },
+  {
+   "to": "taweret-amulet",
+   "type": "amulet",
+   "name": "Taweret amulet",
+   "as": "the other half of the Egyptian birth pair, for the mother as much as for the infant",
+   "rel": "carries"
+  },
+  {
+   "to": "bulla",
+   "type": "amulet",
+   "name": "Bulla",
+   "as": "the Roman case with a date on it — put on a boy nine days after birth, and taken off at manhood",
+   "rel": "carries"
+  },
+  {
+   "to": "azabache",
+   "type": "amulet",
+   "name": "Azabache",
+   "as": "the living case, with a survey, a price and a mother's own sentence behind it",
+   "rel": "carries"
+  },
+  {
+   "to": "ojo-de-venado",
+   "type": "amulet",
+   "name": "Ojo de venado",
+   "as": "the same job in Mexico, put on a newborn by parents who say what it is for",
+   "rel": "parallel"
+  },
+  {
+   "to": "nazar",
+   "type": "amulet",
+   "name": "Nazar",
+   "as": "the form most of the world now pins to a baby's shirt, in glass",
+   "rel": "parallel"
+  },
+  {
+   "to": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "the sign behind most of this class — harm arrives by an admiring look, and the admired thing is usually somebody's child",
+   "rel": "motif"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "type": "story",
+   "name": "The eye everywhere",
+   "as": "the companion read, which follows the sign rather than the person it is put on",
+   "rel": "story"
+  },
+  {
+   "to": "dating-a-charm",
+   "type": "story",
+   "name": "Dating a charm",
+   "as": "the methods note for the other half of this problem — what the numbers on the timeline are and are not",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:repo-atlas-vocab",
+   "kind": "repository",
+   "title": "data/vocab/*.json — the controlled vocabularies, and the records in data/nodes/",
+   "publisher": "Amulet Atlas — this repository",
+   "accessed": "2026-09-17",
+   "note": "Read in place, and counted in place on 17 September 2026 across the 234 records then written. Counts quoted from it are counts of this atlas, never of the world."
+  },
+  {
+   "id": "s:repo-atlas-build",
+   "kind": "repository",
+   "title": "tools/build.py, tools/harvest_commons.py and the tables in build/api/",
+   "publisher": "Amulet Atlas — this repository",
+   "accessed": "2026-09-17",
+   "note": "Read in place. Carries the timeline table, the against table, the picture pipeline and its licence allowlist. No public URL; it ships with the source."
+  },
+  {
+   "id": "s:wp-apotropaic-magic",
+   "kind": "encyclopedia",
+   "title": "Apotropaic magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Apotropaic_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-amulet",
+   "kind": "encyclopedia",
+   "title": "Amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-hektoen-azabache",
+   "kind": "journal",
+   "title": "A Hispanic amulet against disease in infants",
+   "author": "Edward Tabor",
+   "publisher": "Hektoen International: A Journal of Medical Humanities",
+   "url": "https://hekint.org/2023/10/10/a-hispanic-amulet-against-disease-in-infants/",
+   "date": "2023",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-lamashtu",
+   "kind": "encyclopedia",
+   "title": "Lamashtu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lamashtu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pazuzu",
+   "kind": "encyclopedia",
+   "title": "Pazuzu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pazuzu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-abyzou",
+   "kind": "encyclopedia",
+   "title": "Abyzou",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Abyzou",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0",
+   "note": "Read as raw wikitext, so the amulet inscriptions are quoted from the article's own translations, with its cited authorities (A. A. Barb 1966; Jeffrey Spier 1993) named in the record."
+  },
+  {
+   "id": "s:wp-bulla-amulet",
+   "kind": "encyclopedia",
+   "title": "Bulla (amulet)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bulla_(amulet)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-lunula-amulet",
+   "kind": "encyclopedia",
+   "title": "Lunula (amulet)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lunula_(amulet)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-evil-eye",
+   "kind": "encyclopedia",
+   "title": "Evil eye",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Evil_eye",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-dreamcatcher",
+   "kind": "encyclopedia",
+   "title": "Dreamcatcher",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dreamcatcher",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-taweret",
+   "kind": "encyclopedia",
+   "title": "Taweret",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Taweret",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-bes",
+   "kind": "encyclopedia",
+   "title": "Bes",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bes",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fig-sign",
+   "kind": "encyclopedia",
+   "title": "Fig sign",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fig_sign",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:repo-atlas-vocab"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:repo-atlas-vocab"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "2040 BCE to now",
+ "country_names": [
+  {
+   "iso": "IQ",
+   "name": "Iraq"
+  },
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "ES",
+   "name": "Spain"
+  },
+  {
+   "iso": "PR",
+   "name": "Puerto Rico"
+  },
+  {
+   "iso": "CU",
+   "name": "Cuba"
+  },
+  {
+   "iso": "DO",
+   "name": "Dominican Rep."
+  },
+  {
+   "iso": "MX",
+   "name": "Mexico"
+  },
+  {
+   "iso": "TR",
+   "name": "Turkey"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "IL",
+   "name": "Israel"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "akuaba-figure",
+   "type": "amulet",
+   "name": "Akua'ba",
+   "as": "the long read it belongs to — a charm carried before the child exists",
+   "rel": "story"
+  },
+  {
+   "from": "azabache",
+   "type": "amulet",
+   "name": "Azabache",
+   "as": "the long read this belongs in — it goes on within days of birth",
+   "rel": "story"
+  },
+  {
+   "from": "bes-amulet",
+   "type": "amulet",
+   "name": "Bes amulet",
+   "as": "the long read he belongs to: a god whose day job was watching somebody else's baby",
+   "rel": "story"
+  },
+  {
+   "from": "bulla",
+   "type": "amulet",
+   "name": "Bulla",
+   "as": "the long read; a Roman boy got his on day nine and gave it up at manhood",
+   "rel": "story"
+  },
+  {
+   "from": "caul",
+   "type": "amulet",
+   "name": "Caul",
+   "as": "the long read it complicates: this charm comes off a child and is then carried by adults",
+   "rel": "story"
+  },
+  {
+   "from": "concealed-shoe",
+   "type": "amulet",
+   "name": "Concealed shoe",
+   "as": "the count that supports the long read: about half the indexed shoes belonged to children",
+   "rel": "story"
+  },
+  {
+   "from": "dreamcatcher",
+   "type": "amulet",
+   "name": "Dreamcatcher",
+   "as": "the long read this belongs in — the earliest published account is a charm for an infant on a cradleboard",
+   "rel": "story"
+  },
+  {
+   "from": "game-day-charm",
+   "type": "amulet",
+   "name": "Game-day charm",
+   "as": "the long read this cuts against — here the charms are carried by adults at work, and the work is televised",
+   "rel": "story"
+  },
+  {
+   "from": "holy-rider-pendant",
+   "type": "amulet",
+   "name": "Holy rider pendant",
+   "as": "the long read; the largest class of amulet in the world is the one aimed at whatever takes babies",
+   "rel": "story"
+  },
+  {
+   "from": "inuit-amulet",
+   "type": "amulet",
+   "name": "Inuit amulet",
+   "as": "the long read this belongs in — the best-known figure in this record is a child carrying eighty",
+   "rel": "story"
+  },
+  {
+   "from": "lamashtu-plaque",
+   "type": "amulet",
+   "name": "Lamashtu plaque",
+   "as": "the long read this object opens: the oldest named amulet-demon in the atlas hunts newborns",
+   "rel": "story"
+  },
+  {
+   "from": "lunula",
+   "type": "amulet",
+   "name": "Lunula",
+   "as": "the long read; both Roman childhood amulets end at the moment the child stops being one",
+   "rel": "story"
+  },
+  {
+   "from": "ojo-de-venado",
+   "type": "amulet",
+   "name": "Ojo de venado",
+   "as": "the long read this seed belongs in — it goes on the newborn first",
+   "rel": "story"
+  },
+  {
+   "from": "taweret-amulet",
+   "type": "amulet",
+   "name": "Taweret amulet",
+   "as": "the long read she heads: the largest class of amulet in the world is the one hung on somebody who cannot ask for it",
+   "rel": "story"
+  },
+  {
+   "from": "teru-teru-bozu",
+   "type": "amulet",
+   "name": "Teru teru bōzu",
+   "as": "the long read this belongs in: a charm children make with their own hands, for their own day out",
+   "rel": "story"
+  },
+  {
+   "from": "amber",
+   "type": "material",
+   "name": "Amber",
+   "as": "the long read this material lands squarely in: the commonest amber charm goes on an infant",
+   "rel": "story"
+  },
+  {
+   "from": "coral",
+   "type": "material",
+   "name": "Red coral",
+   "as": "the long read: nearly every coral charm named here goes on a baby",
+   "rel": "story"
+  },
+  {
+   "from": "lead",
+   "type": "material",
+   "name": "Lead",
+   "as": "the long read the modern lead story belongs to: the charm that poisoned a child was put on him at three months old",
+   "rel": "story"
+  },
+  {
+   "from": "wearing-hidden",
+   "type": "practice",
+   "name": "Wearing hidden",
+   "as": "the long read on who charms are actually put on, which is also where hiding and showing part company",
+   "rel": "story"
+  },
+  {
+   "from": "dating-a-charm",
+   "type": "story",
+   "name": "Dating a charm",
+   "as": "the read that runs the same sceptical test on the other built table, the one behind /against/",
+   "rel": "story"
+  },
+  {
+   "from": "the-eye-everywhere",
+   "type": "story",
+   "name": "The eye everywhere",
+   "as": "the long read testing why so many of these end up on infants",
+   "rel": "story"
+  }
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "schema": 1,
+ "id": "mascot-word",
+ "type": "term",
+ "names": {
+  "name": "mascot",
+  "native": "mascotte",
+  "script": "Latin",
+  "lang": "fr",
+  "said": "MASS-kot",
+  "aliases": [
+   "mascotte",
+   "masco"
+  ]
+ },
+ "etymology": {
+  "root": "Provençal masco 'sorceress, witch' > French mascotte 'lucky charm' > English mascot",
+  "first_attested": "first recorded in 1867; entered English in 1881 (Wikipedia's Mascot article)",
+  "note": "Wikipedia's article credits the word's popularity to Edmond Audran, whom it calls a French composer, and to La mascotte, performed in December 1880; it calls the work an opera. The piece is also widely described as an operetta, and this project has not read a source that settles the label, so both are reported and neither asserted. Before 1880 the word was gamblers' slang in France, and before the nineteenth century it attached to inanimate objects — a lock of hair, a ship's figurehead.",
+  "tier": "cited",
+  "source": "s:wp-mascot"
+ },
+ "region": [
+  "western-europe",
+  "north-america",
+  "world"
+ ],
+ "countries": [
+  "FR",
+  "GB",
+  "US"
+ ],
+ "facets": {
+  "language": [
+   "English",
+   "French",
+   "Occitan"
+  ]
+ },
+ "text": {
+  "what": "The only word in this batch whose modern sense is a job. A mascot is a human, an animal or an object thought to bring luck, or anything that stands for a group with a common public identity — a school, a team, a society, a military unit, a brand. The luck sense is still the first one the word carries; the costume is a twentieth-century addition.",
+  "story": "The route is short and well-marked: masco, a Provençal word for a sorceress, into French mascotte meaning a lucky charm, used for anything that brought luck to a household. Wikipedia's article dates the first record to 1867 and the arrival in English to 1881, in the sense of a specific living creature attached to a human organisation as a symbol or live logo. What moved it from French gamblers' slang into general use was a stage piece: Edmond Audran's La mascotte, performed in December 1880.\n\nBefore all that the word sat on objects of a kind this atlas is full of — a lock of hair, a figurehead on a sailing ship.\n\nThe costume came later, and it came from puppetry. Animals were used first, by sports organisations, to entertain spectators and to unsettle opponents. Stylistic changes in American puppetry in the middle of the twentieth century, including the work of Jim Henson and of Sid and Marty Krofft, were adapted to sports mascots, and the three-dimensional costumed character followed — the Phillie Phanatic, the Flyers' Gritty, the Seattle Kraken's Buoy, the Washington Commanders' Major Tuddy. Marketers took the form from there.\n\nThe live argument attached to the word is over mascots based on human likenesses. Mascots using Native American tribes are contested, and many argue they are offensive exploitations of an oppressed culture. Several tribes have taken the other position: the Utah Utes and the Central Michigan Chippewas are sanctioned by local tribes, and Florida State's use of Osceola and Renegade is supported by the Seminole Tribe of Florida, though the university declines to call them mascots. Both sides are named here and neither is joined."
+ },
+ "dating": {
+  "from_year": 1867,
+  "to_year": null,
+  "living": true,
+  "label": "French from 1867, English from 1881",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-mascot"
+ },
+ "kin": [
+  {
+   "to": "luck-word",
+   "as": "the word it imports into English commerce — mascotte glossed as lucky charm, nothing more complicated",
+   "rel": "kin"
+  },
+  {
+   "to": "charm-word",
+   "as": "the older English word it took the luck-bringing job from, in sport and in advertising",
+   "rel": "contrast"
+  },
+  {
+   "to": "game-day-charm",
+   "as": "what a supporter carries, where the mascot is what the club owns",
+   "rel": "contrast"
+  },
+  {
+   "to": "challenge-coin",
+   "as": "the military parallel: an object that stands for a unit and is carried by its members",
+   "rel": "parallel"
+  },
+  {
+   "to": "exam-charm",
+   "as": "the private version of the same idea, with no costume and no crowd",
+   "rel": "kin"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read the Native American mascot argument belongs to",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Mascot — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mascot"
+  }
+ ],
+ "sources": [
+  "s:wp-mascot",
+  "s:wp-luck",
+  "s:wp-cultural-appropriation"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-mascot"
+  },
+  "fields": {
+   "etymology": {
+    "tier": "cited",
+    "source": "s:wp-mascot",
+    "note": "the source calls La mascotte an opera and Audran a composer; the common description as an operetta is reported, not asserted"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "The only word in this batch whose modern sense is a job. A mascot is a human, an animal or an object thought to bring luck, or anything that stands for a group with a common public identity — a school, a team, a…",
+ "region_terms": [
+  {
+   "key": "western-europe",
+   "name": "Western Europe",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "world",
+   "name": "Everywhere",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "use for a sign or a practice documented on more than two continents"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "luck-word",
+   "type": "term",
+   "name": "luck",
+   "as": "the word it imports into English commerce — mascotte glossed as lucky charm, nothing more complicated",
+   "rel": "kin"
+  },
+  {
+   "to": "charm-word",
+   "type": "term",
+   "name": "charm",
+   "as": "the older English word it took the luck-bringing job from, in sport and in advertising",
+   "rel": "contrast"
+  },
+  {
+   "to": "game-day-charm",
+   "type": "amulet",
+   "name": "Game-day charm",
+   "as": "what a supporter carries, where the mascot is what the club owns",
+   "rel": "contrast"
+  },
+  {
+   "to": "challenge-coin",
+   "type": "amulet",
+   "name": "Challenge coin",
+   "as": "the military parallel: an object that stands for a unit and is carried by its members",
+   "rel": "parallel"
+  },
+  {
+   "to": "exam-charm",
+   "type": "amulet",
+   "name": "Exam charm",
+   "as": "the private version of the same idea, with no costume and no crowd",
+   "rel": "kin"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read the Native American mascot argument belongs to",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-mascot",
+   "kind": "encyclopedia",
+   "title": "Mascot",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mascot",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-luck",
+   "kind": "encyclopedia",
+   "title": "Luck",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Luck",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cultural-appropriation",
+   "kind": "encyclopedia",
+   "title": "Cultural appropriation",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cultural_appropriation",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-mascot"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-mascot"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-mascot",
+   "note": "the source calls La mascotte an opera and Audran a composer; the common description as an operetta is reported, not asserted"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-mascot"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1867 CE to now",
+ "country_names": [
+  {
+   "iso": "FR",
+   "name": "France"
+  },
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "challenge-coin",
+   "type": "amulet",
+   "name": "Challenge coin",
+   "as": "the word for a thing that stands for a group, which is what this coin is before it is anything else",
+   "rel": "term"
+  },
+  {
+   "from": "daruma",
+   "type": "amulet",
+   "name": "Daruma",
+   "as": "what Takasaki turned it into, and the route from a temple charm to a civic emblem",
+   "rel": "term"
+  },
+  {
+   "from": "four-leaf-clover",
+   "type": "amulet",
+   "name": "Four-leaf clover",
+   "as": "where it ends up: an emblem on a racing car and a rocket patch rather than an object in a pocket",
+   "rel": "term"
+  },
+  {
+   "from": "game-day-charm",
+   "type": "amulet",
+   "name": "Game-day charm",
+   "as": "the word for this whole family, and a gamblers' slang term before it was a costume",
+   "rel": "term"
+  },
+  {
+   "from": "maneki-neko",
+   "type": "amulet",
+   "name": "Maneki-neko",
+   "as": "what it became: a corporate and civic mascot, Hikonyan included, which is where the charm and the brand meet",
+   "rel": "term"
+  },
+  {
+   "from": "charm-word",
+   "type": "term",
+   "name": "charm",
+   "as": "the nineteenth-century French import that took over the luck-bringing sense in sport and in advertising",
+   "rel": "contrast"
+  },
+  {
+   "from": "luck-word",
+   "type": "term",
+   "name": "luck",
+   "as": "the French import that took the luck-bringing job in sport and commerce four centuries later",
+   "rel": "kin"
+  }
+ ]
+}

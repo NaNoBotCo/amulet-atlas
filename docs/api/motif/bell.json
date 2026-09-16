@@ -1,0 +1,345 @@
+{
+ "schema": 1,
+ "id": "bell",
+ "type": "motif",
+ "names": {
+  "name": "The bell",
+  "native": "tintinnabulum",
+  "lang": "la",
+  "said": "tintinnabulum, the Roman wind chime of bells",
+  "aliases": [
+   "wind chime",
+   "brass bells",
+   "chime"
+  ]
+ },
+ "region": [
+  "rome-italy",
+  "korea"
+ ],
+ "countries": [
+  "IT",
+  "KR"
+ ],
+ "facets": {
+  "era": "ancient",
+  "family": "sound",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A small bell, hung or carried, that sounds when the air or the body it is attached to moves. The sign is audible rather than visible, which makes it the only entry in this atlas that a person could use with their eyes shut.",
+  "story": "Rome hung its bells at the door and put a phallus on them. A tintinnabulum is a wind chime or assemblage of bells, often taking the form of a bronze ithyphallic figure or of a fascinum, the magico-religious phallus. They were hung near thresholds at a shop or house, under the peristyles, by the bedroom or the venereum, where the wind would set them tinkling, and some were rigged to a cord and bell pull to work as doorbells. The cited account gives the Roman reason for the noise: the sounds of bells kept away evil spirits. Examples have been found at Pompeii and Herculaneum, and a number of them are in the Secret Museum collection at the Museo Archeologico Nazionale di Napoli. The phallic charm and the bell are the same object: phallic charms, often winged, appear in Roman culture as jewellery, relief carvings, lamps and wind chimes.\n\nKorea rings its bells to bring spirits in. During a gut, the mudang carries a fan and brass bells; the scholar Sarfati commented that these bells were \"a central symbol\" of Musok, and their purpose is to attract the attention of the spirits. The rite's music regularly involves cymbals, hourglass-shaped changgu drums and a gong, and the mudang dances by swirling in circles, which the same account reports as facilitating the possession trance.\n\n*Inference —* those two uses are opposite, and that is the interesting fact about this sign. A Roman bell rings on its own, unsupervised, at a threshold, to push something out. A Korean bell is shaken by a named specialist, inside a rite, to pull something in. The noise is the same; the direction is reversed, and it is the practitioner's presence or absence that decides which way it runs. No source read here connects the two customs, and this atlas does not.",
+  "notes": "This record is short because the sources read here document the bell in two places only. It is filed under the sound family, added to the vocabulary for it: a bell is a hollow vessel, but what it is carried for is the noise."
+ },
+ "dating": {
+  "period": "Roman Italy to the present",
+  "from_year": -99,
+  "to_year": null,
+  "living": true,
+  "label": "1st century BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:web-wp-tintinnabulum",
+  "note": "Dated from a tintinnabulum specimen identified as first century BCE; the article does not date the class as a whole. The Korean end of the record is living, and its earliest historical references to mudang date to the twelfth century, which is not a date for the bells themselves."
+ },
+ "object": {
+  "form": "bell",
+  "materials": [
+   "copper"
+  ],
+  "worn": [
+   "door",
+   "lintel",
+   "shop"
+  ],
+  "source": "s:web-wp-tintinnabulum"
+ },
+ "against": [
+  {
+   "harm": "spirits",
+   "who": "Roman householders, in whose practice the sounds of bells were held to keep away evil spirits",
+   "source": "s:web-wp-tintinnabulum",
+   "tier": "cited"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "Roman wearers of the fascinum, whose winged phallus turns up as jewellery, lamps and wind chimes alike",
+   "source": "s:wp-fascinus",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "Korean mudang, whose brass bells are meant to attract the attention of the spirits rather than repel them",
+   "quote": "a central symbol",
+   "source": "s:wp-korean-shamanism",
+   "tier": "cited",
+   "note": "the quoted phrase is Sarfati's, on the bells' place in Musok; the direction of use is the reverse of the Roman case"
+  }
+ ],
+ "kin": [
+  {
+   "to": "fascinum",
+   "as": "the same object seen from the other side: the winged phallus that the Roman bell hangs from",
+   "rel": "carried-by"
+  },
+  {
+   "to": "phallic-sign",
+   "as": "the sign the Roman bell is usually cut in, which is why these chimes ended up in a museum's locked room",
+   "rel": "motif"
+  },
+  {
+   "to": "bujeok",
+   "as": "the Korean written charm made in the same tradition as the bells, by the same practitioners",
+   "rel": "kin"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "the practice the Roman half of this record belongs to entirely",
+   "rel": "practice"
+  },
+  {
+   "to": "copper",
+   "as": "the metal both halves are cast in, bronze at Pompeii and brass in Seoul",
+   "rel": "material"
+  },
+  {
+   "to": "san-gregorio-armeno",
+   "as": "the Naples street a few minutes from the museum that holds these chimes, still selling small cast figures",
+   "rel": "place"
+  }
+ ],
+ "links": [
+  {
+   "label": "Tintinnabulum (ancient Rome) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tintinnabulum_(Ancient_Rome)"
+  }
+ ],
+ "sources": [
+  "s:web-wp-tintinnabulum",
+  "s:wp-fascinus",
+  "s:wp-korean-shamanism"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-wp-tintinnabulum"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-korean-shamanism",
+    "note": "the closing paragraph comparing the two directions of use is this project's reasoning and is marked in the text"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Tintinnabulum Pompeii.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-17",
+ "blurb": "A small bell, hung or carried, that sounds when the air or the body it is attached to moves.",
+ "region_terms": [
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "korea",
+   "name": "Korea",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "fascinum",
+   "type": "amulet",
+   "name": "Fascinum",
+   "as": "the same object seen from the other side: the winged phallus that the Roman bell hangs from",
+   "rel": "carried-by"
+  },
+  {
+   "to": "phallic-sign",
+   "type": "motif",
+   "name": "The phallus",
+   "as": "the sign the Roman bell is usually cut in, which is why these chimes ended up in a museum's locked room",
+   "rel": "motif"
+  },
+  {
+   "to": "bujeok",
+   "type": "amulet",
+   "name": "Bujeok",
+   "as": "the Korean written charm made in the same tradition as the bells, by the same practitioners",
+   "rel": "kin"
+  },
+  {
+   "to": "hanging-at-door",
+   "type": "practice",
+   "name": "Hanging at the door",
+   "as": "the practice the Roman half of this record belongs to entirely",
+   "rel": "practice"
+  },
+  {
+   "to": "copper",
+   "type": "material",
+   "name": "Copper and bronze",
+   "as": "the metal both halves are cast in, bronze at Pompeii and brass in Seoul",
+   "rel": "material"
+  },
+  {
+   "to": "san-gregorio-armeno",
+   "type": "place",
+   "name": "Via San Gregorio Armeno",
+   "as": "the Naples street a few minutes from the museum that holds these chimes, still selling small cast figures",
+   "rel": "place"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:web-wp-tintinnabulum",
+   "kind": "encyclopedia",
+   "title": "Tintinnabulum (ancient Rome)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tintinnabulum_(Ancient_Rome)",
+   "accessed": "2026-09-17",
+   "license": "CC BY-SA 4.0",
+   "note": "Read for the Roman wind chime of bells, often shaped as a bronze ithyphallic figure or a fascinum, hung near thresholds at shops and houses, under peristyles and by the bedroom; examples from Pompeii and Herculaneum, a number of them in the Secret Museum collection at the Museo Archeologico Nazionale di Napoli."
+  },
+  {
+   "id": "s:wp-fascinus",
+   "kind": "encyclopedia",
+   "title": "Fascinus",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fascinus",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-korean-shamanism",
+   "kind": "encyclopedia",
+   "title": "Korean shamanism",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Korean_shamanism",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:web-wp-tintinnabulum"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-korean-shamanism",
+   "note": "the closing paragraph comparing the two directions of use is this project's reasoning and is marked in the text"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:web-wp-tintinnabulum"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:web-wp-tintinnabulum"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "Roman householders, in whose practice the sounds of bells were held to keep away evil spirits",
+   "quote": "",
+   "source": "s:web-wp-tintinnabulum",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "Roman wearers of the fascinum, whose winged phallus turns up as jewellery, lamps and wind chimes alike",
+   "quote": "",
+   "source": "s:wp-fascinus",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "Korean mudang, whose brass bells are meant to attract the attention of the spirits rather than repel them",
+   "quote": "a central symbol",
+   "source": "s:wp-korean-shamanism",
+   "tier": "cited",
+   "note": "the quoted phrase is Sarfati's, on the bells' place in Musok; the direction of use is the reverse of the Roman case"
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "copper",
+   "label": "Copper and bronze",
+   "kind": "metal"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  },
+  {
+   "key": "lintel",
+   "label": "Above the lintel",
+   "group": "placed"
+  },
+  {
+   "key": "shop",
+   "label": "At the till",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "bell",
+  "label": "Bell"
+ },
+ "holding_facts": [],
+ "span": "100 BCE to now",
+ "country_names": [
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "KR",
+   "name": "South Korea"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "phallic-sign",
+   "type": "motif",
+   "name": "The phallus",
+   "as": "the tintinnabulum hung a phallus and bells together at a Roman doorway",
+   "rel": "kin"
+  }
+ ]
+}

@@ -1,0 +1,869 @@
+{
+ "schema": 1,
+ "id": "who-owns-a-charm",
+ "type": "story",
+ "names": {
+  "name": "Who owns a charm",
+  "aliases": [
+   "repatriation",
+   "returning amulets",
+   "whose object is it"
+  ]
+ },
+ "region": [
+  "world",
+  "north-america",
+  "west-africa",
+  "australia",
+  "aotearoa",
+  "britain-ireland"
+ ],
+ "countries": [
+  "US",
+  "GB",
+  "NG",
+  "AU",
+  "NZ",
+  "IE",
+  "CH",
+  "IN"
+ ],
+ "facets": {
+  "kind": "essay",
+  "era": "modern"
+ },
+ "text": {
+  "what": "A museum drawer of amulets is the hardest kind of collection to hand back and the easiest kind to have taken. The objects are small, they were bought by the handful, most were never accessioned with a name attached, and a proportion of them were never anybody's to sell. This record sets out the law where there is law, the returns and the refusals where they are on the record with dates and institutions attached, and the specific reason amulets sit at the difficult end of the problem."
+ },
+ "sections": [
+  {
+   "h": "One country made it a duty",
+   "text": "The Native American Graves Protection and Repatriation Act, Pub. L. 101–601, was enacted in the United States on 16 November 1990. It requires federal agencies and institutions receiving federal funding to return Native American cultural items — human remains, funerary objects, sacred objects, and objects of cultural patrimony — to lineal descendants and to culturally affiliated American Indian tribes, Alaska Native villages and Native Hawaiian organisations. It makes trafficking in those items a criminal offence. In 2022 Congress raised the penalty for a first conviction for trafficking human remains from twelve months to a year and a day, making it a felony, and raised a subsequent conviction from five years to ten.\n\nThe counts since 1990 are published: the remains of approximately 32,000 individuals returned, nearly 670,000 funerary objects, 120,000 unassociated funerary objects, and 3,500 sacred objects. For scale, in 1990 federal agencies reported holding the remains of 14,500 deceased Native people.\n\nOn 12 January 2024 revised Interior Department regulations took effect. Their operative sentence is short: \"...museums and Federal agencies must defer to the Native American traditional knowledge of lineal descendants, Indian Tribes, and Native Hawaiian organizations.\" That is a rule about whose account of an object counts, which is the question underneath every dispute in this record.\n\nNAGPRA was enacted primarily at the insistence and by the direction of members of Native American nations, and one person is usually named first. Maria Pearson has been called \"the Founding Mother of modern Indian repatriation movement\" and the \"Rosa Parks of NAGPRA\". In the early 1970s her husband, an engineer with the Iowa Department of Transportation, told her that road construction at Glenwood, Iowa, had uncovered both white and Native burials; the twenty-six white burials were quickly reburied and the remains of a Native American mother and child were sent to a laboratory instead. Pearson sat outside Governor Robert D. Ray's office in traditional attire until he saw her. Asked what he could do for her, she said: \"You can give me back my people's bones and you can quit digging them up.\" The Iowa Burials Protection Act of 1976 followed — the first legislation in the United States specifically protecting Native American remains.\n\nThe law did not arrive without opposition and has not ended the argument. A number of archaeologists have objected that they are prevented from studying ancient remains that cannot be traced to a historic tribe, and investigations have stalled over it, the Spirit Cave mummy among them. Before 1990 the courts had already shown what no law looked like: in Wana the Bear v. Community Construction (1982) two hundred Miwok ancestral remains were bulldozed for a residential development in Stockton, California, and the California Courts of Appeal sided with the construction company."
+  },
+  {
+   "h": "The case everyone knows",
+   "text": "The Benin Bronzes, taken from the royal court of Benin in what is now Nigeria, are the reference case because both sides have stated positions in public.\n\nThe British Museum has been claimed to be the largest receiver of \"stolen goods\" in the world and has consistently refused to return objects, citing the British Museum Act 1963 as preventing restitution. The directors of the British Museum and of the Victoria and Albert Museum, and the British Minister of Culture, have spoken against permanent restitutions; like several European institutions they prefer cooperation and a \"circulation of objects\" through temporary exhibitions in Africa. The British Museum and the Pitt Rivers Museum both joined the Benin Dialogue Group, set up to coordinate scientific exchange, assistance for a new museum in Benin City, and eventual restitutions.\n\nThe first British institution to return a statue after proof that it was looted directly from the royal court was Jesus College, Cambridge, following a campaign by the college's Legacy of Slavery Working Party; the handover to Nigerian delegates was announced for 27 October 2021. In April 2021 the National Museum of Ireland announced that twenty-one Benin Bronzes would be returned to Africa; its head of collections, Audrey Whitty, said the museum group would investigate holdings with a view to repatriating those viewed as \"plunder\". Fintan O'Toole had written in 2013 that much of that ethnographic collection \"lies in the grey area between trade and coercive acquisition: an expansive terrain in imperial relations\", while other objects were unambiguously loot. In June 2026 eighteen artefacts from the Kingdom of Benin went back to Nigeria from three Swiss museums — fourteen from the Ethnographic Museum at the University of Zurich, two from Museum Rietberg Zurich and two from the Musée d'Ethnographie de Genève — out of roughly a hundred items in Swiss collections assumed to have come from Benin.\n\nThe intellectual frame most of this argument now runs on is the 2018 Report on the Restitution of African Cultural Heritage by Felwine Sarr and Bénédicte Savoy. Since its publication the debates have produced restitutions on moral rather than only legal grounds, which is a shift in what counts as a reason."
+  },
+  {
+   "h": "Why an amulet is the hard case",
+   "text": "*Inference —* a bronze plaque from a named royal court has three things an amulet usually lacks: it is singular, it is documented, and the taking is dated. An amulet is the opposite on all three counts, and the difficulties compound.\n\nThey were collected by volume. The Wellcome Collection holds 17,500 magic-medical amulets, talismans and charms picked up by Henry Wellcome in Islamic North Africa and elsewhere. A claim over one object in that number has to begin by identifying which object.\n\nThey arrived without paperwork. In 2021 the Wellcome Collection acknowledged that Wellcome's collecting was shaped by colonialism, that many objects bought at auction in the late nineteenth and early twentieth century carry no documentation of how they were acquired, and that they may have been \"unjustly taken\" from communities across Europe, Asia, Africa and the Middle East. The institution has committed to working with communities on provenance, and in 2025 returned a group of Jain manuscripts to India after researchers found they had been acquired without the consent of the communities they belonged to.\n\nAnd a large share of them are restricted in their own tradition, which means the claim and the catalogue entry cannot both be public. Australia's International Repatriation Program is written for exactly that overlap: it \"supports the repatriation of ancestral remains and secret sacred objects to their communities of origin to help promote healing and reconciliation\". More than 100,000 Indigenous Australian objects are held in over 220 institutions worldwide, at least 32,000 of them in British institutions. Australia has no law directly governing repatriation. The museum anthropologist Jason Gibson notes that there is a lack of Aboriginal authority surrounding collections, and that protocols have instead been made by non-Indigenous professionals.\n\nThat combination — many, unlabelled, and not ours to describe — is why this atlas is thinner on some of the richest amulet traditions in the world than on Egypt, where the objects were dug up with field numbers."
+  },
+  {
+   "h": "Returns, with dates and institutions",
+   "text": "The record is not only refusals.\n\nIn 2006 Tasmanian human remains — ash bundles and skeletal fragments — were returned from the British Museum to the Tasmanian Aboriginal community, following requests by the Tasmanian Aboriginal Centre with Australian government support, on the understanding they would be cremated in accordance with Aboriginal beliefs.\n\nIn 2008 several institutions including the British Museum repatriated Māori human remains to Te Papa Tongarewa in New Zealand, among them toi moko, tattooed heads, and bone fragments.\n\nAIATSIS began its Return of Cultural Heritage programme in 2019. In late October that year the Illinois State Museum returned forty-two Aranda (Arrernte) and Bardi Jawi objects removed from central Australia in 1920 — the first group. In November 2019 Manchester Museum returned objects including sacred artefacts collected 125 years earlier from the Nyamal people of the Pilbara; it returned nineteen sacred objects to the Arrernte people during the pandemic, celebrated in May 2021, and 174 artefacts in September 2023. AIATSIS project leader Christopher Simpson said they hoped the project could become an ongoing programme. UNESCO's director for culture and emergencies said: \"May this occasion be a source of inspiration, encouraging others to embark on similar journeys.\"\n\nIn 2022 the Pitt Rivers Museum and the Oxford University Museum of Natural History returned the remains of seventeen Aboriginal Australians to the Australian government. In 2026 the Pitt Rivers agreed to repatriate the skeletal remains of a number of Naga people, some of which had been displayed in a case titled Treatment of Dead Enemies.\n\nThe Pitt Rivers has also changed what it shows. During its 2020 closure it removed its tsantsa — shrunken heads displayed since the 1940s — and its human remains generally. Its director's statement: \"Exhibiting Tsantsas (shrunken heads) reinforced racist and stereotypical thinking that goes against the museum's core values.\" It said it would rewrite labels to carry the voices of artists and Indigenous leaders, and began meeting originating communities to address errors and gaps and to discuss repatriation."
+  },
+  {
+   "h": "Where this atlas stands",
+   "text": "*Inference —* this project holds no objects and can return nothing, so its only decision is what to publish. Three consequences follow and they are stated as descriptions, not undertakings.\n\nThe `holdings` field on a record names a museum and cites a published catalogue page. An accession number with no catalogue URL is rejected by the validator, because a number a reader cannot check is a number a reader cannot use in a claim.\n\nWhere a museum has published a position on its own provenance — the Wellcome's 2021 statement, the Pitt Rivers' 2020 one, the British Museum's reliance on the 1963 Act — the record carries the position and not a summary of it.\n\nAnd where a tradition says a class of object should not be shown or described, the description is absent and the restriction is printed instead. That rule has its own record.\n\nGweagal man Rodney Kelly and others have been working for the return of the Gweagal Shield and Spears from the British Museum and from the Museum of Archaeology and Anthropology at Cambridge. That claim is live as this is written, and no verdict belongs here."
+  }
+ ],
+ "dating": {
+  "period": "1976 to the present",
+  "from_year": 1976,
+  "to_year": null,
+  "living": true,
+  "label": "1976, the Iowa Burials Protection Act, to now",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-native-american-graves-protection-and-repatriation-act",
+  "note": "Dated from the first US statute specifically protecting Native American remains, not from the first claim; claims are older than any of this legislation."
+ },
+ "kin": [
+  {
+   "to": "nagpra",
+   "as": "the statute this read opens with, and the only one in the set that makes return a legal duty",
+   "rel": "org"
+  },
+  {
+   "to": "aiatsis",
+   "as": "the body running Australia's Return of Cultural Heritage programme since 2019",
+   "rel": "org"
+  },
+  {
+   "to": "british-museum",
+   "as": "the institution that refuses most often, and publishes the Act it refuses under",
+   "rel": "org"
+  },
+  {
+   "to": "pitt-rivers-museum",
+   "as": "the museum that removed its human remains in 2020 and published the reasoning",
+   "rel": "org"
+  },
+  {
+   "to": "te-papa",
+   "as": "where the toi moko went back to in 2008, and where the terms are set by the originating people",
+   "rel": "org"
+  },
+  {
+   "to": "wellcome-collection",
+   "as": "17,500 amulets, an acknowledgement in 2021, and a return to India in 2025",
+   "rel": "org"
+  },
+  {
+   "to": "quai-branly",
+   "as": "the French collection at the centre of the restitution argument Sarr and Savoy opened in 2018",
+   "rel": "org"
+  },
+  {
+   "to": "nkisi",
+   "as": "a class collected in quantity out of Central Africa, and one where the object's own community defines what it is",
+   "rel": "parallel"
+  },
+  {
+   "to": "hei-tiki",
+   "as": "a taonga whose return is governed by the tradition's own terms, not by a museum's",
+   "rel": "parallel"
+  },
+  {
+   "to": "lovett-collection",
+   "as": "the counter-example — a collector who wrote down who was carrying each charm",
+   "rel": "art"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the companion read: what may be said, once you have settled what may be kept",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "NAGPRA — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Native_American_Graves_Protection_and_Repatriation_Act"
+  },
+  {
+   "label": "Repatriation (cultural property) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Repatriation_(cultural_property)"
+  }
+ ],
+ "sources": [
+  "s:wp-native-american-graves-protection-and-repatriation-act",
+  "s:wp-repatriation-cultural-property",
+  "s:wp-pitt-rivers-museum",
+  "s:wp-wellcome-collection",
+  "s:wp-british-museum",
+  "s:wp-te-papa",
+  "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-repatriation-cultural-property"
+  },
+  "fields": {
+   "sections": {
+    "tier": "cited",
+    "source": "s:wp-repatriation-cultural-property",
+    "note": "the two stretches of this project's own reasoning are labelled inline"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Benin Bronzes British Museum.jpg",
+  "File:Pitt Rivers Museum Interior.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A museum drawer of amulets is the hardest kind of collection to hand back and the easiest kind to have taken.",
+ "region_terms": [
+  {
+   "key": "world",
+   "name": "Everywhere",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "use for a sign or a practice documented on more than two continents"
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "west-africa",
+   "name": "West Africa",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "australia",
+   "name": "Australia",
+   "hemi": [
+    "S",
+    "E"
+   ]
+  },
+  {
+   "key": "aotearoa",
+   "name": "Aotearoa New Zealand",
+   "hemi": [
+    "S",
+    "E"
+   ]
+  },
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "nagpra",
+   "type": "org",
+   "name": "The Native American Graves Protection and Repatriation Act",
+   "as": "the statute this read opens with, and the only one in the set that makes return a legal duty",
+   "rel": "org"
+  },
+  {
+   "to": "aiatsis",
+   "type": "org",
+   "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+   "as": "the body running Australia's Return of Cultural Heritage programme since 2019",
+   "rel": "org"
+  },
+  {
+   "to": "british-museum",
+   "type": "org",
+   "name": "The British Museum",
+   "as": "the institution that refuses most often, and publishes the Act it refuses under",
+   "rel": "org"
+  },
+  {
+   "to": "pitt-rivers-museum",
+   "type": "org",
+   "name": "The Pitt Rivers Museum",
+   "as": "the museum that removed its human remains in 2020 and published the reasoning",
+   "rel": "org"
+  },
+  {
+   "to": "te-papa",
+   "type": "org",
+   "name": "Museum of New Zealand Te Papa Tongarewa",
+   "as": "where the toi moko went back to in 2008, and where the terms are set by the originating people",
+   "rel": "org"
+  },
+  {
+   "to": "wellcome-collection",
+   "type": "org",
+   "name": "Wellcome Collection",
+   "as": "17,500 amulets, an acknowledgement in 2021, and a return to India in 2025",
+   "rel": "org"
+  },
+  {
+   "to": "quai-branly",
+   "type": "org",
+   "name": "Musée du quai Branly — Jacques Chirac",
+   "as": "the French collection at the centre of the restitution argument Sarr and Savoy opened in 2018",
+   "rel": "org"
+  },
+  {
+   "to": "nkisi",
+   "type": "amulet",
+   "name": "Nkisi",
+   "as": "a class collected in quantity out of Central Africa, and one where the object's own community defines what it is",
+   "rel": "parallel"
+  },
+  {
+   "to": "hei-tiki",
+   "type": "amulet",
+   "name": "Hei-tiki",
+   "as": "a taonga whose return is governed by the tradition's own terms, not by a museum's",
+   "rel": "parallel"
+  },
+  {
+   "to": "lovett-collection",
+   "type": "art",
+   "name": "The Lovett collection",
+   "as": "the counter-example — a collector who wrote down who was carrying each charm",
+   "rel": "art"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "type": "story",
+   "name": "What this atlas does not print",
+   "as": "the companion read: what may be said, once you have settled what may be kept",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-native-american-graves-protection-and-repatriation-act",
+   "kind": "encyclopedia",
+   "title": "Native American Graves Protection and Repatriation Act",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Native_American_Graves_Protection_and_Repatriation_Act",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-repatriation-cultural-property",
+   "kind": "encyclopedia",
+   "title": "Repatriation (cultural property)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Repatriation_(cultural_property)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pitt-rivers-museum",
+   "kind": "encyclopedia",
+   "title": "Pitt Rivers Museum",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pitt_Rivers_Museum",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-wellcome-collection",
+   "kind": "encyclopedia",
+   "title": "Wellcome Collection",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wellcome_Collection",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-british-museum",
+   "kind": "encyclopedia",
+   "title": "British Museum",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/British_Museum",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-te-papa",
+   "kind": "encyclopedia",
+   "title": "Te Papa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Te_Papa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies",
+   "kind": "encyclopedia",
+   "title": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Australian_Institute_of_Aboriginal_and_Torres_Strait_Islander_Studies",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-repatriation-cultural-property"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-repatriation-cultural-property"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1976 CE to now",
+ "country_names": [
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "NG",
+   "name": "Nigeria"
+  },
+  {
+   "iso": "AU",
+   "name": "Australia"
+  },
+  {
+   "iso": "NZ",
+   "name": "New Zealand"
+  },
+  {
+   "iso": "IE",
+   "name": "Ireland"
+  },
+  {
+   "iso": "CH",
+   "name": "Switzerland"
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "ankh-amulet",
+   "type": "amulet",
+   "name": "Ankh amulet",
+   "as": "the long read this sign lands in — worn now by Kemetists, by goths and by people with no line to Egypt at all",
+   "rel": "story"
+  },
+  {
+   "from": "cimaruta",
+   "type": "amulet",
+   "name": "Cimaruta",
+   "as": "the long read the Stregheria argument belongs in: who a folk object belongs to once a revival claims it",
+   "rel": "story"
+  },
+  {
+   "from": "cippus-of-horus",
+   "type": "amulet",
+   "name": "Cippus of Horus",
+   "as": "the long read it lands in: a pasha's gift to a prince, a castle in Bohemia, and a New York accession in 1950",
+   "rel": "story"
+  },
+  {
+   "from": "coptic-cross-tattoo",
+   "type": "amulet",
+   "name": "Coptic cross tattoo",
+   "as": "the long read this mark belongs to — the tattooists call it resistance and solidarity, which is a statement about who may wear it",
+   "rel": "story"
+  },
+  {
+   "from": "corn-dolly",
+   "type": "amulet",
+   "name": "Corn dolly",
+   "as": "the long read the 1950s revival belongs in: new folklore attached to an old craft, and the source saying so outright",
+   "rel": "story"
+  },
+  {
+   "from": "cowrie-strand",
+   "type": "amulet",
+   "name": "Cowrie strand",
+   "as": "the long read this shell complicates: 30 billion of them reached the Bight of Benin as trade goods in the era of Atlantic slavery",
+   "rel": "story"
+  },
+  {
+   "from": "crystal-pendant",
+   "type": "amulet",
+   "name": "Crystal pendant",
+   "as": "the long read where a supply chain and a spiritual claim end up in the same paragraph",
+   "rel": "story"
+  },
+  {
+   "from": "dolhareubang",
+   "type": "amulet",
+   "name": "Dol hareubang",
+   "as": "the long read this belongs in: 47 or 48 originals, an island's worth of replicas, and three of them given away as state gifts",
+   "rel": "story"
+  },
+  {
+   "from": "dreamcatcher",
+   "type": "amulet",
+   "name": "Dreamcatcher",
+   "as": "the long read this record is the test case for — who may make a thing, and what changes when somebody else does",
+   "rel": "story"
+  },
+  {
+   "from": "hei-tiki",
+   "type": "amulet",
+   "name": "Hei-tiki",
+   "as": "the long read this record is central to",
+   "rel": "story"
+  },
+  {
+   "from": "hex-sign",
+   "type": "amulet",
+   "name": "Hex sign",
+   "as": "the long read for the rest of it: neopagans making them, the Amish refusing them, and a state radiation office using one as a logo",
+   "rel": "story"
+  },
+  {
+   "from": "illa",
+   "type": "amulet",
+   "name": "Illa",
+   "as": "the long read this belongs in — nearly every illa in a museum left a corral to get there",
+   "rel": "story"
+  },
+  {
+   "from": "incantation-bowl",
+   "type": "amulet",
+   "name": "Incantation bowl",
+   "as": "the long read this corpus forces: 2,000 bowls excavated, tens of thousands dug and sold",
+   "rel": "story"
+  },
+  {
+   "from": "keris-pusaka",
+   "type": "amulet",
+   "name": "Keris pusaka",
+   "as": "the long read the Banyu Sumurup workshop belongs in: one bench, one blade for an enthusiast's shrine and one for a visitor's shelf",
+   "rel": "story"
+  },
+  {
+   "from": "magical-gem",
+   "type": "amulet",
+   "name": "Magical gem",
+   "as": "the long read; most of these gems reached museums through the trade, and their findspots went with the diggers",
+   "rel": "story"
+  },
+  {
+   "from": "mjolnir-pendant",
+   "type": "amulet",
+   "name": "Mjölnir pendant",
+   "as": "the long read this pendant forces: a sign claimed at once by Heathen practitioners, by a national cemetery service and by white supremacists",
+   "rel": "story"
+  },
+  {
+   "from": "nkisi",
+   "type": "amulet",
+   "name": "Nkisi",
+   "as": "the long read this object is the centre of: purchased, confiscated or removed by colonial authorities, and argued over by name since 2018",
+   "rel": "story"
+  },
+  {
+   "from": "rabbits-foot",
+   "type": "amulet",
+   "name": "Rabbit's foot",
+   "as": "the long read it belongs in: a Black folk-magic object sold as generic American luck, with the lineage left off the packet",
+   "rel": "story"
+  },
+  {
+   "from": "red-string",
+   "type": "amulet",
+   "name": "Red string",
+   "as": "the long read; a custom with no textual basis, sold worldwide under the name of a restricted tradition",
+   "rel": "story"
+  },
+  {
+   "from": "sak-yant",
+   "type": "amulet",
+   "name": "Sak yant",
+   "as": "the long read the 2011 ministry move belongs in, with both sides named",
+   "rel": "story"
+  },
+  {
+   "from": "senninbari",
+   "type": "amulet",
+   "name": "Senninbari",
+   "as": "the long read this belongs in: a belt made by a thousand named-nobody women, now bought and sold as militaria",
+   "rel": "story"
+  },
+  {
+   "from": "bakongo-nkisi-craft",
+   "type": "tradition",
+   "name": "Bakongo nkisi craft",
+   "as": "the long read this tradition sits at the centre of: purchased, confiscated or removed, and argued over by name since 2018",
+   "rel": "story"
+  },
+  {
+   "from": "maori-taonga",
+   "type": "tradition",
+   "name": "Taonga Māori",
+   "as": "the long read this tradition is the sharpest case in — a resin copy made offshore, a statute with a $100,000 fine, and a collection whose sources are on the record",
+   "rel": "story"
+  },
+  {
+   "from": "swastika-sign",
+   "type": "motif",
+   "name": "The swastika",
+   "as": "the long read on who gets to say what a sign means, which this record is the hardest case for",
+   "rel": "story"
+  },
+  {
+   "from": "bone-ivory",
+   "type": "material",
+   "name": "Bone and ivory",
+   "as": "the long read for objects whose trade is now illegal and whose display is argued about",
+   "rel": "story"
+  },
+  {
+   "from": "cowrie",
+   "type": "material",
+   "name": "Cowrie",
+   "as": "the long read for a material whose supply history is the Atlantic slave trade",
+   "rel": "story"
+  },
+  {
+   "from": "gold",
+   "type": "material",
+   "name": "Gold",
+   "as": "the long read on value, ownership and what happens to a charm worth melting",
+   "rel": "story"
+  },
+  {
+   "from": "jade",
+   "type": "material",
+   "name": "Jade",
+   "as": "the long read this stone's 1997 settlement belongs to",
+   "rel": "story"
+  },
+  {
+   "from": "skin",
+   "type": "material",
+   "name": "Skin",
+   "as": "the long read the 2011 Thai argument belongs to",
+   "rel": "story"
+  },
+  {
+   "from": "terracotta",
+   "type": "material",
+   "name": "Fired clay",
+   "as": "the long read this record's last paragraph belongs to: bowls dug without a findspot, and who ends up holding them",
+   "rel": "story"
+  },
+  {
+   "from": "tooth",
+   "type": "material",
+   "name": "Tooth, tusk and claw",
+   "as": "the long read for an object under export caps, permits and a 2007 repatriation",
+   "rel": "story"
+  },
+  {
+   "from": "wood",
+   "type": "material",
+   "name": "Wood",
+   "as": "the long read behind the Fante dolls that ended up in European museums after the 1800s",
+   "rel": "story"
+  },
+  {
+   "from": "feeding-the-charm",
+   "type": "practice",
+   "name": "Feeding the charm",
+   "as": "the long read this practice complicates: a figure that is no longer fed is, in its own tradition's account, not the object on the shelf",
+   "rel": "story"
+  },
+  {
+   "from": "grave-deposit",
+   "type": "practice",
+   "name": "Grave deposit",
+   "as": "the long read this practice leads straight into",
+   "rel": "story"
+  },
+  {
+   "from": "inheriting",
+   "type": "practice",
+   "name": "Inheriting",
+   "as": "the long read that starts where an heirloom leaves the family",
+   "rel": "story"
+  },
+  {
+   "from": "akodessewa-market",
+   "type": "place",
+   "name": "Akodessawa fetish market",
+   "as": "the long read this market sits inside: who gets to describe a practice, and in whose words",
+   "rel": "story"
+  },
+  {
+   "from": "british-museum-room-1",
+   "type": "place",
+   "name": "Room 1: Enlightenment, the British Museum",
+   "as": "the long read on ownership; Wall Press 96 is where it stops being abstract",
+   "rel": "story"
+  },
+  {
+   "from": "pitt-rivers-charms",
+   "type": "place",
+   "name": "The amulet and charm cases, Pitt Rivers Museum",
+   "as": "the long read; this museum answers it out loud, on its own labels, since 2020",
+   "rel": "story"
+  },
+  {
+   "from": "quiapo-church",
+   "type": "place",
+   "name": "Quiapo Church",
+   "as": "the long read this address argues in public: two systems, one plaza, both naming the other",
+   "rel": "story"
+  },
+  {
+   "from": "te-papa-taonga",
+   "type": "place",
+   "name": "Mana Whenua, Te Papa",
+   "as": "the long read on ownership, argued from the claimant's side — 850 ancestors returned since 2003",
+   "rel": "story"
+  },
+  {
+   "from": "wellcome-lovett",
+   "type": "place",
+   "name": "The Lovett charms at Wellcome Collection",
+   "as": "the long read; a charm swapped face to face on a barrow is the awkward case in it",
+   "rel": "story"
+  },
+  {
+   "from": "augustus-pitt-rivers",
+   "type": "person",
+   "name": "Augustus Pitt Rivers",
+   "as": "the long read; his museum is where the question of who a charm in a case belongs to is asked most directly",
+   "rel": "story"
+  },
+  {
+   "from": "wallis-budge",
+   "type": "person",
+   "name": "E. A. Wallis Budge",
+   "as": "the long read on acquisition; his own account of getting tablets out of Baghdad is one of its documents",
+   "rel": "story"
+  },
+  {
+   "from": "walter-hildburgh",
+   "type": "person",
+   "name": "Walter Leo Hildburgh",
+   "as": "the long read on how a charm changes hands; a Hildburgh object has usually changed them four times",
+   "rel": "story"
+  },
+  {
+   "from": "aiatsis",
+   "type": "org",
+   "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+   "as": "the long read on ownership; the deposit clause here is the clearest model of a collection held under somebody else's conditions",
+   "rel": "story"
+  },
+  {
+   "from": "british-museum",
+   "type": "org",
+   "name": "The British Museum",
+   "as": "the long read on ownership; the 1963 Act argument is its clearest statement of one side",
+   "rel": "story"
+  },
+  {
+   "from": "metropolitan-museum",
+   "type": "org",
+   "name": "The Metropolitan Museum of Art",
+   "as": "the long read on ownership, where seizures and returns since 2006 are the evidence",
+   "rel": "story"
+  },
+  {
+   "from": "nagpra",
+   "type": "org",
+   "name": "The Native American Graves Protection and Repatriation Act",
+   "as": "the long read on ownership, of which this is the only piece of binding law in the set",
+   "rel": "story"
+  },
+  {
+   "from": "pitt-rivers-museum",
+   "type": "org",
+   "name": "The Pitt Rivers Museum",
+   "as": "the long read on ownership; this museum's own labels since 2020 are part of the argument",
+   "rel": "story"
+  },
+  {
+   "from": "quai-branly",
+   "type": "org",
+   "name": "Musée du quai Branly — Jacques Chirac",
+   "as": "the long read on ownership; the Sarr–Savoy report of 2018 is its clearest recent document",
+   "rel": "story"
+  },
+  {
+   "from": "te-papa",
+   "type": "org",
+   "name": "Museum of New Zealand Te Papa Tongarewa",
+   "as": "the long read on ownership, argued here from the claimant's side rather than the holder's",
+   "rel": "story"
+  },
+  {
+   "from": "unesco-ich",
+   "type": "org",
+   "name": "UNESCO Intangible Cultural Heritage",
+   "as": "the long read on ownership, where inscription is the thing most often mistaken for a property claim",
+   "rel": "story"
+  },
+  {
+   "from": "wikimedia-commons",
+   "type": "org",
+   "name": "Wikimedia Commons",
+   "as": "the long read on ownership; a free licence on a photograph settles nothing about the object in it",
+   "rel": "story"
+  },
+  {
+   "from": "fetish-word",
+   "type": "term",
+   "name": "fetish",
+   "as": "the long read this record feeds: who gets to name a thing, and what the naming does",
+   "rel": "story"
+  },
+  {
+   "from": "mascot-word",
+   "type": "term",
+   "name": "mascot",
+   "as": "the long read the Native American mascot argument belongs to",
+   "rel": "story"
+  },
+  {
+   "from": "mojo-word",
+   "type": "term",
+   "name": "mojo",
+   "as": "the long read on words and objects that leave the community that built them",
+   "rel": "story"
+  },
+  {
+   "from": "vodou-not-voodoo",
+   "type": "term",
+   "name": "Vodou and Vodún — and the spelling this atlas does not use",
+   "as": "the long read on naming: who gets to spell somebody else's religion, and what the spelling then carries",
+   "rel": "story"
+  },
+  {
+   "from": "budge-plates",
+   "type": "art",
+   "name": "Budge's amulet plates",
+   "as": "the long read that starts from how objects like these reached London",
+   "rel": "story"
+  },
+  {
+   "from": "lovett-collection",
+   "type": "art",
+   "name": "The Lovett collection",
+   "as": "the long read about how collections were formed, and what the Wellcome has since said about its own",
+   "rel": "story"
+  },
+  {
+   "from": "free-to-use",
+   "type": "story",
+   "name": "Free to use",
+   "as": "the same question about objects instead of about text: what may be kept, and by whom",
+   "rel": "story"
+  },
+  {
+   "from": "the-fake-market",
+   "type": "story",
+   "name": "The fake market",
+   "as": "what happens after an object with no provenance reaches a museum",
+   "rel": "story"
+  },
+  {
+   "from": "the-swastika-problem",
+   "type": "story",
+   "name": "The swastika problem",
+   "as": "the same question one step over: who gets to decide what a sign or an object means now",
+   "rel": "story"
+  },
+  {
+   "from": "what-this-atlas-does-not-print",
+   "type": "story",
+   "name": "What this atlas does not print",
+   "as": "the companion read — this one is about what may be said, that one about what may be kept",
+   "rel": "story"
+  }
+ ]
+}

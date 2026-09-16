@@ -1,0 +1,53 @@
+{
+ "schema": 1,
+ "id": "augustus-pitt-rivers",
+ "type": "person",
+ "names": {
+  "name": "Augustus Pitt Rivers",
+  "aliases": ["Augustus Henry Lane Fox Pitt Rivers", "Augustus Henry Lane-Fox", "Lieutenant-General Pitt Rivers"],
+  "sort": "Pitt Rivers, Augustus"
+ },
+ "region": ["britain-ireland", "world"],
+ "countries": ["GB"],
+ "facets": {"role": ["collector", "excavator", "scholar"]},
+ "text": {
+  "what": "English soldier and archaeologist, 1827–1900, who arranged objects by what they are for rather than by where they came from. He gave more than 20,000 of them to the University of Oxford in 1884 on conditions that still bind the display. Every amulet case in this atlas that groups a Japanese charm beside a Neapolitan one is standing inside his idea.",
+  "story": "He was commissioned into the Grenadier Guards on 16 May 1845 and served until 1882, ending as a Lieutenant-General. His combat was limited — the Battle of the Alma in 1854 — and most of his service went on musketry instruction; he founded the Hythe School of Musketry and published \"On the improvement of the rifle as a weapon for general use\" in 1858. Testing rifle after rifle is where the method comes from: he was already comparing small variations in a made object for a living.\n\nReading Darwin and Herbert Spencer, he arranged his collection typologically and, within types, chronologically, meaning to show progression in design and evolution in human culture from the simple to the complex. He treated archaeology as an extension of anthropology and built matching archaeological and ethnographic collections so the two could be read together.\n\nIn 1880 he inherited estates in Cranborne Chase carrying Roman and Saxon material and excavated them over seventeen seasons, from the mid-1880s until his death, insisting that everything be collected and catalogued rather than only what looked worth keeping. Under the Ancient Monuments Protection Act 1882 he became the first Inspector of Ancient Monuments, and put railings round sites including Kit's Coty House in Kent.\n\nThe 1884 gift to Oxford came with conditions: a permanent lecturer in anthropology, which made Edward Burnett Tylor the first lecturer in anthropology in the United Kingdom in 1885, and a building for the collection used for no other purpose. A further clause says changes to the displays \"shall not affect the general principle originated by Augustus Henry Lane Fox Pitt Rivers\".\n\nThat clause is why the argument about his method is still live rather than historical. The museum's own account states that this evolutionary approach to material culture is no longer appropriate in the modern display paradigm for archaeological and anthropological objects, and that it has broadly retained the typological organisation because the Deed of Gift requires it.",
+  "today": "The museum he founded holds more than 600,000 items, nearly all acquired by donation from colonial officials, travellers, scholars and missionaries. In September 2020 it removed human remains from display, including the shrunken heads shown since the 1940s; the director said exhibiting them \"reinforced racist and stereotypical thinking that goes against the museum's core values\". *Inference —* a bequest that fixes a nineteenth-century argument into the furniture is a different kind of object from the things inside the cases, and it is the one the museum cannot deaccession."
+ },
+ "dating": {
+  "period": "Victorian",
+  "from_year": 1827,
+  "to_year": 1900,
+  "living": false,
+  "label": "14 April 1827 – 4 May 1900",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:web-augustus-pitt-rivers-wikipedia"
+ },
+ "kin": [
+  {"to": "pitt-rivers-museum", "as": "the museum his 1884 gift created, and whose layout his Deed of Gift still governs", "rel": "org"},
+  {"to": "pitt-rivers-charms", "as": "the charm cases, which are his typological principle applied to amulets", "rel": "place"},
+  {"to": "edward-lovett", "as": "one of the donors who fed the collection, giving between 1896 and 1911", "rel": "person"},
+  {"to": "walter-hildburgh", "as": "the collector whose amulets reached the museum in 1985, long after the founder's scheme was set", "rel": "person"},
+  {"to": "who-owns-a-charm", "as": "the long read; his museum is where the question of who a charm in a case belongs to is asked most directly", "rel": "story"},
+  {"to": "flinders-petrie", "as": "his contemporary in method — both sorted by small differences, one in trenches, one in cases", "rel": "parallel"},
+  {"to": "horseshoe", "as": "the kind of ordinary English object his scheme put in a case beside its equivalents from everywhere else", "rel": "kin"}
+ ],
+ "links": [
+  {"label": "Augustus Pitt Rivers — Wikipedia", "url": "https://en.wikipedia.org/wiki/Augustus_Pitt_Rivers"},
+  {"label": "Pitt Rivers Museum — Wikipedia", "url": "https://en.wikipedia.org/wiki/Pitt_Rivers_Museum"}
+ ],
+ "sources": ["s:web-augustus-pitt-rivers-wikipedia", "s:wp-pitt-rivers-museum"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:web-augustus-pitt-rivers-wikipedia"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:wp-pitt-rivers-museum", "note": "the Deed of Gift clause, the Tylor appointment and the museum's statement about the evolutionary approach come from the museum's own entry; the reading of the musketry years is this project's"},
+   "text.today": {"tier": "cited", "source": "s:wp-pitt-rivers-museum", "note": "the closing sentence is marked as inference where it appears"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Augustus Pitt Rivers.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,491 @@
+{
+ "schema": 1,
+ "id": "rabbits-foot",
+ "type": "amulet",
+ "names": {
+  "name": "Rabbit's foot",
+  "aliases": [
+   "lucky rabbit's foot",
+   "graveyard rabbit's foot",
+   "left hind foot"
+  ]
+ },
+ "region": [
+  "north-america",
+  "britain-ireland",
+  "diaspora"
+ ],
+ "countries": [
+  "US",
+  "GB"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "living",
+  "portable": "carried",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A rabbit's hind foot, dried, carried in a pocket. Grander ones are capped in metal and hung from a chain; Theodore Roosevelt wrote in his autobiography that the boxer John L. Sullivan gave him a gold-mounted one. The strictest version is specific about which foot: the left hind one.",
+  "story": "This charm is usually filed under European luck, beside the clover and the horseshoe, and its American history says otherwise. The conditions attached to it in North America are conditions about a graveyard. The foot must be the left hind foot of a rabbit shot or otherwise taken in a cemetery. Some accounts require a full moon, others a new moon; some a Friday, a rainy Friday, or Friday the thirteenth; some a silver bullet; some that the foot be cut off while the rabbit is still alive. Folklorists read the use of graveyard dust as a symbolic appropriation of the parts of a corpse as a relic, and as sympathetic magic.\n\nThe folklorist Newbell Niles Puckett recorded the reasoning about whose grave: \"the more wicked the person who is dead, the more effective the charm associated with his remains.\" Puckett noted that during Grover Cleveland's 1884 election campaign the candidate was said to have been sent the foot of a rabbit killed on the grave of the outlaw Jesse James. Puckett also documented an African American cook in the Mississippi Delta whose mojo bag held \"a lizard's tail, rabbit's foot, a fish eye, snake skins, a beetle, and a dime with a hole in it\", worn for good luck — the rabbit's foot as one ingredient in a Hoodoo working rather than as a standalone token.\n\nThe folk song record says the same thing plainly. \"There'll Be a Hot Time in the Old Town Tonight\", once popular in minstrel shows, runs: \"And you've got a rabbit's foot To keep away de hoo-doo\". The foot turns up in blues lyrics as well. A 1905 anecdote has Booker T. Washington and Baron Ladislaus Hengelmuller, the Austrian ambassador, confusing their overcoats at the White House while both waiting to speak to Roosevelt; the ambassador realised the coat was not his when he reached for his gloves and found instead \"the left hind foot of a graveyard rabbit, killed in the dark of the moon.\"\n\nOther accounts pull in other directions. Benjamin Radford has suggested the charm may be connected to the Hand of Glory, a European charm made from the hand of a hanged man and pickled. The belief in a lucky rabbit's foot is reported from Europe, Africa, Australia and both American continents, with the same pattern everywhere: the rabbit must have been killed in a particular place, or by a particular method, or by a person with a particular attribute — in one version, by a cross-eyed man. A related British and American ritual is to say \"rabbit rabbit rabbit\" on waking on the first day of a month, for luck through the rest of it.",
+  "how": "Taken from the animal under the conditions the tradition names — place, day, moon, method — then dried and carried in a pocket, or mounted in metal and hung. The strictures are described by the source as now mostly observed in the breach. Nothing is said over it and nothing retires it.",
+  "today": "Sold dyed in bright colours on keychains, and carried by people who have never heard of a graveyard rabbit. *Inference —* what the mass-market version keeps is the object and what it drops is every condition that made it one, which is the same story this atlas tells about the horseshoe bought new. The Hoodoo lineage is the part most often left out, and it is the part the nineteenth- and early twentieth-century record documents best."
+ },
+ "dating": {
+  "period": "Nineteenth century to the present",
+  "from_year": 1884,
+  "to_year": null,
+  "living": true,
+  "label": "documented from 1884; still carried",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-rabbit-s-foot",
+  "note": "1884 is the earliest dated instance in the source — the Cleveland campaign story — not the origin of the practice, which the source does not date. Puckett's fieldwork and the minstrel-show song belong to the same decades and are not separately dated there."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": [
+   "bone",
+   "hair",
+   "gold"
+  ],
+  "worn": [
+   "pocket",
+   "wallet",
+   "neck"
+  ],
+  "made_by": "the person who takes the rabbit, under the conditions the tradition names",
+  "inscription": "",
+  "colour": [
+   "brown",
+   "white"
+  ],
+  "count": 1,
+  "single_use": false,
+  "source": "s:wp-rabbit-s-foot",
+  "note": "Hair here is the fur; the foot is carried whole. Gold is the mounted version Roosevelt describes. No measurement is published in the source."
+ },
+ "against": [
+  {
+   "harm": "bad-luck",
+   "who": "carriers across Europe, Africa, Australia and the Americas, as summarised by the source",
+   "source": "s:wp-rabbit-s-foot",
+   "tier": "cited"
+  },
+  {
+   "harm": "curse",
+   "who": "the folk song There'll Be a Hot Time in the Old Town Tonight",
+   "quote": "And you've got a rabbit's foot To keep away de hoo-doo",
+   "source": "s:wp-rabbit-s-foot",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "Newbell Niles Puckett, recording an African American cook in the Mississippi Delta who wore a mojo bag containing a rabbit's foot among other ingredients for good luck",
+   "source": "s:wp-mojo-bag",
+   "tier": "cited",
+   "note": "listed separately because here the foot is one component of a Hoodoo working, not a charm on its own"
+  }
+ ],
+ "kin": [
+  {
+   "to": "gris-gris",
+   "as": "the African American charm tradition this object's American history runs through, and the frame the graveyard conditions make sense in",
+   "rel": "origin"
+  },
+  {
+   "to": "mojo-word",
+   "as": "the word for the bag Puckett found it inside, worn by a cook in the Mississippi Delta",
+   "rel": "term"
+  },
+  {
+   "to": "tooth-and-claw",
+   "as": "the sign family it belongs to: a piece of an animal, carried for what the animal was",
+   "rel": "motif"
+  },
+  {
+   "to": "bone-ivory",
+   "as": "what is left after drying, and the reason these survive in collections at all",
+   "rel": "material"
+  },
+  {
+   "to": "four-leaf-clover",
+   "as": "the charm it is usually sold beside, and the other one whose original condition the market has quietly dropped",
+   "rel": "parallel"
+  },
+  {
+   "to": "horseshoe",
+   "as": "the two objects Theodore Roosevelt was given — this from John L. Sullivan, and a penholder Bob Fitzsimmons made out of a shoe",
+   "rel": "parallel"
+  },
+  {
+   "to": "luck-word",
+   "as": "the single word that now covers everything this charm was once specific about",
+   "rel": "term"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read it belongs in: a Black folk-magic object sold as generic American luck, with the lineage left off the packet",
+   "rel": "story"
+  },
+  {
+   "to": "game-day-charm",
+   "as": "where a great many of them ended up, in a pocket on the day of a match",
+   "rel": "parallel"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the tradition it gets shelved under, which this record's sources do not support for its American form",
+   "rel": "contrast"
+  }
+ ],
+ "links": [
+  {
+   "label": "Rabbit's foot — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rabbit%27s_foot"
+  }
+ ],
+ "sources": [
+  "s:wp-rabbit-s-foot",
+  "s:wp-mojo-bag",
+  "s:wp-gris-gris-talisman",
+  "s:wp-luck",
+  "s:wp-list-of-lucky-symbols"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-rabbit-s-foot"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "inference",
+    "note": "the mass-market reading is this project's and is marked in the prose; the Hoodoo documentation behind it is cited"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A rabbit's hind foot, dried, carried in a pocket. Grander ones are capped in metal and hung from a chain; Theodore Roosevelt wrote in his autobiography that the boxer John L. Sullivan gave him a gold-mounted one.",
+ "region_terms": [
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "diaspora",
+   "name": "Diaspora",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "a practice carried out of its home region and kept"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "gris-gris",
+   "type": "amulet",
+   "name": "Gris-gris",
+   "as": "the African American charm tradition this object's American history runs through, and the frame the graveyard conditions make sense in",
+   "rel": "origin"
+  },
+  {
+   "to": "mojo-word",
+   "type": "term",
+   "name": "mojo",
+   "as": "the word for the bag Puckett found it inside, worn by a cook in the Mississippi Delta",
+   "rel": "term"
+  },
+  {
+   "to": "tooth-and-claw",
+   "type": "motif",
+   "name": "The tooth and the claw",
+   "as": "the sign family it belongs to: a piece of an animal, carried for what the animal was",
+   "rel": "motif"
+  },
+  {
+   "to": "bone-ivory",
+   "type": "material",
+   "name": "Bone and ivory",
+   "as": "what is left after drying, and the reason these survive in collections at all",
+   "rel": "material"
+  },
+  {
+   "to": "four-leaf-clover",
+   "type": "amulet",
+   "name": "Four-leaf clover",
+   "as": "the charm it is usually sold beside, and the other one whose original condition the market has quietly dropped",
+   "rel": "parallel"
+  },
+  {
+   "to": "horseshoe",
+   "type": "amulet",
+   "name": "Horseshoe",
+   "as": "the two objects Theodore Roosevelt was given — this from John L. Sullivan, and a penholder Bob Fitzsimmons made out of a shoe",
+   "rel": "parallel"
+  },
+  {
+   "to": "luck-word",
+   "type": "term",
+   "name": "luck",
+   "as": "the single word that now covers everything this charm was once specific about",
+   "rel": "term"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read it belongs in: a Black folk-magic object sold as generic American luck, with the lineage left off the packet",
+   "rel": "story"
+  },
+  {
+   "to": "game-day-charm",
+   "type": "amulet",
+   "name": "Game-day charm",
+   "as": "where a great many of them ended up, in a pocket on the day of a match",
+   "rel": "parallel"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "type": "tradition",
+   "name": "European folk apotropaic craft",
+   "as": "the tradition it gets shelved under, which this record's sources do not support for its American form",
+   "rel": "contrast"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-rabbit-s-foot",
+   "kind": "encyclopedia",
+   "title": "Rabbit's foot",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rabbit%27s_foot",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mojo-bag",
+   "kind": "encyclopedia",
+   "title": "Mojo bag",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mojo_bag",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-gris-gris-talisman",
+   "kind": "encyclopedia",
+   "title": "Gris-gris (talisman)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gris-gris_(talisman)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-luck",
+   "kind": "encyclopedia",
+   "title": "Luck",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Luck",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-list-of-lucky-symbols",
+   "kind": "encyclopedia",
+   "title": "List of lucky symbols",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/List_of_lucky_symbols",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-rabbit-s-foot"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-rabbit-s-foot"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-rabbit-s-foot"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "the mass-market reading is this project's and is marked in the prose; the Hoodoo documentation behind it is cited"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-rabbit-s-foot"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-rabbit-s-foot"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "carriers across Europe, Africa, Australia and the Americas, as summarised by the source",
+   "quote": "",
+   "source": "s:wp-rabbit-s-foot",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "curse",
+   "label": "A curse already laid",
+   "who": "the folk song There'll Be a Hot Time in the Old Town Tonight",
+   "quote": "And you've got a rabbit's foot To keep away de hoo-doo",
+   "source": "s:wp-rabbit-s-foot",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "Newbell Niles Puckett, recording an African American cook in the Mississippi Delta who wore a mojo bag containing a rabbit's foot among other ingredients for good luck",
+   "quote": "",
+   "source": "s:wp-mojo-bag",
+   "tier": "cited",
+   "note": "listed separately because here the foot is one component of a Hoodoo working, not a charm on its own"
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "bone",
+   "label": "Bone and ivory",
+   "kind": "organic"
+  },
+  {
+   "key": "hair",
+   "label": "Hair",
+   "kind": "organic"
+  },
+  {
+   "key": "gold",
+   "label": "Gold",
+   "kind": "metal"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  },
+  {
+   "key": "wallet",
+   "label": "In a wallet",
+   "group": "carried"
+  },
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  }
+ ],
+ "form_fact": {
+  "key": "pendant",
+  "label": "Pendant"
+ },
+ "holding_facts": [],
+ "span": "1884 CE to now",
+ "country_names": [
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "four-leaf-clover",
+   "type": "amulet",
+   "name": "Four-leaf clover",
+   "as": "the other charm that must be taken under conditions nobody observes any more, and the other one a factory now supplies",
+   "rel": "parallel"
+  },
+  {
+   "from": "game-day-charm",
+   "type": "amulet",
+   "name": "Game-day charm",
+   "as": "the charm on Stouffer's list of what American soldiers carried in the Second World War, which Gmelch cites as the same behaviour under worse stakes",
+   "rel": "parallel"
+  },
+  {
+   "from": "horseshoe",
+   "type": "amulet",
+   "name": "Horseshoe",
+   "as": "the two objects Theodore Roosevelt was given: a gold-mounted rabbit's foot from John L. Sullivan, and a penholder Bob Fitzsimmons made out of a horseshoe",
+   "rel": "parallel"
+  },
+  {
+   "from": "tooth-and-claw",
+   "type": "motif",
+   "name": "The tooth and the claw",
+   "as": "the same logic reduced to a keyring, and the one everybody in the anglophone world has seen",
+   "rel": "kin"
+  },
+  {
+   "from": "bone-ivory",
+   "type": "material",
+   "name": "Bone and ivory",
+   "as": "the same logic at the cheap end: a part of an animal, kept because it was part of an animal",
+   "rel": "parallel"
+  },
+  {
+   "from": "wellcome-lovett",
+   "type": "place",
+   "name": "The Lovett charms at Wellcome Collection",
+   "as": "the pocket animal part of the same English habit as the mole's foot Wellcome bought in 1930",
+   "rel": "parallel"
+  },
+  {
+   "from": "luck-word",
+   "type": "term",
+   "name": "luck",
+   "as": "the other one, and the one that shows how little the word cares where an object came from",
+   "rel": "term"
+  }
+ ]
+}

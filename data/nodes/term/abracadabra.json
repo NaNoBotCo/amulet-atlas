@@ -1,0 +1,111 @@
+{
+ "schema": 1,
+ "id": "abracadabra",
+ "type": "term",
+ "names": {
+  "name": "abracadabra",
+  "said": "ab-ra-ka-DAB-ra",
+  "aliases": [
+   "Abrahadabra"
+  ]
+ },
+ "etymology": {
+  "root": "Origin unknown. Wikipedia's article reports the Oxford English Dictionary's position: 'no documentation has been found to support any of the various conjectures'.",
+  "first_attested": "the second century CE, in Serenus Sammonicus's Liber Medicinalis (also known as De Medicina Praecepta Saluberrima), chapter 52",
+  "note": "This is the rare case in this batch where the first appearance of the word is also the first description of the object it was written on: an amulet worn against fever.",
+  "folk": "Labelled folk etymology, all of it. An Aramaic phrase meaning 'I create like the word' (אברא כדברא); a link to abraxas; a resemblance to the first four letters of the Greek alphabet, alpha-beta-gamma-delta. The historian Don Skemer suggests the Hebrew phrase ha brachah dabarah. The Aramaic linguist Steve Caruso argues the word cannot be Aramaic at all, and traces the spread of that claim to an extended discussion on an early internet message board which credits rabbi Lawrence Kushner with publishing a modern etymology.",
+  "tier": "cited",
+  "source": "s:wp-abracadabra"
+ },
+ "region": [
+  "rome-italy",
+  "greece-aegean",
+  "western-europe",
+  "britain-ireland"
+ ],
+ "countries": [
+  "IT",
+  "GB",
+  "US"
+ ],
+ "facets": {
+  "language": [
+   "Latin",
+   "English"
+  ]
+ },
+ "text": {
+  "what": "A word that was an object. Written out as a shrinking triangle on a piece of parchment and hung at the neck, it was a prescription — the earliest surviving instruction for it is a doctor's, for fever. It is now what a stage magician says at the end of a trick, which is a demotion with a date.",
+  "story": "Serenus Sammonicus, physician to the Roman emperor Caracalla, wrote in chapter 52 of the Liber Medicinalis that a sufferer from malaria should wear an amulet with Abracadabra written on it in the form of a triangle. He claimed the amulet makes lethal diseases go away. Other emperors who followed his medical teaching — Geta and Severus Alexander — may have used the formula too.\n\nThe form was understood to do the work. Written in the shrinking triangle, the word was taken to act like a funnel, driving the sickness out of the body. That is a claim about a shape, not about a language, which fits a word nobody could translate then either.\n\nIt was picked up by the Gnostics of the sect of Basilides, who used it invoking beneficent spirits against disease and misfortune, and it is found on Abraxas stones worn as amulets. From there its use spread past the Gnostics.\n\nIt kept turning up on parchment. A sixteenth-century Jewish codex from Italy, Ets ha-Da'at (The Tree of Knowledge), a collection of magical spells, carries it as an amulet described as a 'cure from heavens' for 'all sorts of fever[s]', consumption and fire.\n\nIt was also argued with, in print, for centuries. The Puritan minister Increase Mather dismissed the word as bereft of power. Daniel Defoe wrote dismissively about Londoners who posted it on their doorways to keep sickness out during the Great Plague of London.\n\nBy the early 1800s it had become an example of what magicians say, and that is where it stayed; today it is the tag line at the end of a trick. Aleister Crowley took it back the other way, adapting it into Abrahadabra in The Book of the Law, the central text of Thelema.\n\n*Inference —* the arc is from a prescription written by a named imperial physician to a punchline, with the shape doing the work at one end and the sound doing it at the other. Very few objects in this atlas can be dated to a chapter number."
+ },
+ "dating": {
+  "period": "Roman imperial to the present",
+  "from_year": 100,
+  "to_year": null,
+  "living": true,
+  "label": "from the second century CE to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-abracadabra",
+  "note": "The from_year is a rounded second-century date, taken from the source's dating of Serenus Sammonicus's text."
+ },
+ "kin": [
+  {
+   "to": "palindrome-word",
+   "as": "the family this belongs to: a written formula whose arrangement is the claim",
+   "rel": "motif"
+  },
+  {
+   "to": "magic-square",
+   "as": "the other arrangement-as-claim — letters or numbers laid out so the grid does the work",
+   "rel": "motif"
+  },
+  {
+   "to": "magical-gem",
+   "as": "where the word turns up cut in stone, on Abraxas stones worn as amulets",
+   "rel": "term"
+  },
+  {
+   "to": "curse-tablet",
+   "as": "the opposite-facing object from the same Roman world: writing folded to do harm rather than to lift it",
+   "rel": "contrast"
+  },
+  {
+   "to": "inscribing",
+   "as": "the practice the whole thing consists of — no material, no shape, just the writing of it",
+   "rel": "practice"
+  },
+  {
+   "to": "charm-word",
+   "as": "the English word that began exactly here, at the spell said rather than the object worn",
+   "rel": "term"
+  },
+  {
+   "to": "the-drawn-signs",
+   "as": "the picture piece where the triangle is set beside the other written figures",
+   "rel": "art"
+  }
+ ],
+ "links": [
+  {
+   "label": "Abracadabra — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Abracadabra"
+  }
+ ],
+ "sources": [
+  "s:wp-abracadabra",
+  "s:wp-abraxas",
+  "s:wp-sator-square",
+  "s:wp-magic-square"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-abracadabra"
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

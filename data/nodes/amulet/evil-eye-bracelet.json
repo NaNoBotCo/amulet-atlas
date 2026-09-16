@@ -1,0 +1,194 @@
+{
+ "schema": 1,
+ "id": "evil-eye-bracelet",
+ "type": "amulet",
+ "names": {
+  "name": "Evil eye bracelet",
+  "native": "nazar boncuğu",
+  "lang": "tr",
+  "script": "Latin",
+  "said": "nah-ZAR bon-joo-OO",
+  "aliases": [
+   "nazar bracelet",
+   "eye bead bracelet",
+   "mati bracelet",
+   "🧿"
+  ]
+ },
+ "region": [
+  "anatolia",
+  "greece-aegean",
+  "world",
+  "diaspora"
+ ],
+ "countries": [
+  "TR",
+  "GR"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "S",
+   "E",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "One or more blue-and-white eye beads on an elastic cord, a chain or a red string, sized for a wrist. The bead itself is handmade glass with concentric circles or teardrop shapes in dark blue, white, light blue and black, sometimes with a yellow or gold edge. The cheapest versions replace the glass with printed enamel, resin or a stamped metal disc. The sign has been a Unicode character since 2018: U+1F9FF 🧿 NAZAR AMULET.",
+  "story": "The bead is old and the bracelet is not, and it is worth keeping the two apart. Written documentation and surviving glass eye beads run back to the sixteenth century BCE, and the form spread with glassmaking from Mesopotamia to Egypt, Carthage to Greece, Phoenicia to Persia, and through the Roman empire. The bead on a stretchy cord at a checkout counter is a recent packaging of that, and this project cannot date it.\n\nWhat the bead is made of is itself part of the claim. The cited account says it is made from a mixture of molten glass, iron, copper, water and salt — \"ingredients that are thought to shield people from evil\" — and that \"according to Turkish belief, blue acts as a shield against evil and even absorbs negativity\". One further explanation is given for why the colour is blue: in the Middle East and the Mediterranean blue eyes are relatively rare, so light-eyed people were held able to curse with a look.\n\nSomebody still makes the glass ones by hand. The Kültürel Araştırmalar Vakfı records the traditional production continuing at Nazarköy, in Kemalpaşa near İzmir, where the beads are made by a few simple hand tools, mostly in blue and white glass; Görece, in Menderes, is the other village named for the craft. Set against that is the mass-produced bracelet, the volume of which is the reason most of the world's eye beads are now within anybody's reach. Whether the two are the same object is a live argument. This project did not reach a source it could cite giving the bead-makers' own account of competition from imported beads, and so does not report their side in their words here — a gap, and named as one.\n\nThe bead's own instruction for failure is the detail worth keeping. If one breaks, the account goes, a very strong nazar hit the wearer and the bead stored it all up and broke in order to protect them. *Inference —* a charm with a published failure mode that is also a success story is a charm that cannot be disproved by breaking, which is one reason the object survives packaging changes that would kill a less well-designed one.",
+  "how": "Glass is melted in a furnace, drawn and layered — dark blue ground, white, light blue, black centre — one bead at a time, then strung. Mass-market versions are moulded or printed and strung by machine. There is no consecration and no specialist: a bracelet is bought, or given, and worn until it breaks, at which point it is replaced rather than repaired.",
+  "today": "Sold everywhere, in every price band, in 2026: airport shops in Istanbul and Athens, market stalls from Tbilisi to Mumbai, fast-fashion chains worldwide, and as an emoji on every phone. This project has no dated price to print and no production figure."
+ },
+ "dating": {
+  "period": "the glass eye bead from the Bronze Age; the bracelet, recent",
+  "from_year": -1599,
+  "to_year": null,
+  "living": true,
+  "label": "the bead from c. 1600 BCE; the bracelet, undated here",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-nazar-amulet",
+  "note": "-1599 is the 16th century BCE, which is where the cited source puts the earliest written documentation and surviving glass eye beads. The elastic-cord bracelet is a modern retail form this project cannot date; the years here belong to the bead."
+ },
+ "object": {
+  "form": "bracelet",
+  "materials": [
+   "glass",
+   "thread",
+   "plastic",
+   "silver"
+  ],
+  "worn": [
+   "wrist",
+   "neck",
+   "phone",
+   "vehicle",
+   "door",
+   "cradle"
+  ],
+  "made_by": "bead masters at Nazarköy and Görece, near İzmir, for the handmade glass ones; factories, for the rest",
+  "colour": [
+   "blue",
+   "white",
+   "black"
+  ],
+  "single_use": false,
+  "source": "s:wp-nazar-amulet",
+  "note": "The cited source gives the bead's composition as molten glass, iron, copper, water and salt."
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "wearers across Turkey, Greece, the Balkans, West and South Asia and the diaspora",
+   "source": "s:wp-nazar-amulet",
+   "tier": "cited"
+  },
+  {
+   "harm": "envy",
+   "who": "the usual explanation given by carriers of the eye across its whole range",
+   "source": "s:wp-evil-eye",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "wearers, per the Turkish account the cited source gives",
+   "quote": "According to Turkish belief, blue acts as a shield against evil and even absorbs negativity.",
+   "source": "s:wp-nazar-amulet",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "nazar",
+   "as": "the bead itself, which this record is the wrist-sized retail packaging of",
+   "rel": "whole"
+  },
+  {
+   "to": "eye",
+   "as": "the sign, and the reason a factory bead and a hand-blown one make the same claim",
+   "rel": "motif"
+  },
+  {
+   "to": "glass",
+   "as": "the material that made the sign cheap enough to sell by the tray, three thousand years ago and again now",
+   "rel": "material"
+  },
+  {
+   "to": "red-string",
+   "as": "the other thing tied to a wrist against the same harm, with no image on it at all",
+   "rel": "parallel"
+  },
+  {
+   "to": "hamsa",
+   "as": "the hand that usually carries this eye in its palm, sold from the same stands",
+   "rel": "kin"
+  },
+  {
+   "to": "charm-coin",
+   "as": "another mass-produced charm this atlas describes in the same terms as a hand-cut one",
+   "rel": "parallel"
+  },
+  {
+   "to": "the-charm-goes-digital",
+   "as": "the long read this belongs in: the sign is now a Unicode character as well as a bead",
+   "rel": "story"
+  },
+  {
+   "to": "grand-bazaar",
+   "as": "one place a reader can stand and see the whole price range on one street",
+   "rel": "place"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "as": "the long read that follows this sign across four continents",
+   "rel": "story"
+  },
+  {
+   "to": "ojo-de-venado",
+   "as": "Mexico's answer to the same harm, and it breaks for the same stated reason",
+   "rel": "parallel"
+  }
+ ],
+ "links": [
+  {
+   "label": "Nazar (amulet) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nazar_(amulet)"
+  },
+  {
+   "label": "Handicrafts / Evil Eye / Western Anatolia – Izmir — Kültürel Araştırmalar Vakfı",
+   "url": "https://kultur.org.tr/en/handicrafts-evil-eye-western-anatolia-izmir/"
+  }
+ ],
+ "sources": [
+  "s:wp-nazar-amulet",
+  "s:wp-evil-eye",
+  "s:web-kultur-evil-eye-izmir",
+  "s:wp-charm-bracelet"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-nazar-amulet"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "inference",
+    "note": "the scale of the present trade is reasoned from the object's ubiquity; no market figure was read"
+   },
+   "object.materials": {
+    "tier": "cited",
+    "source": "s:wp-nazar-amulet",
+    "note": "silver and plastic are the settings the retail bracelet uses and are not named by the cited source"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

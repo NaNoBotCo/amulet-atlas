@@ -1,0 +1,269 @@
+{
+ "schema": 1,
+ "id": "the-drawn-signs",
+ "type": "art",
+ "names": {
+  "name": "The drawn signs",
+  "aliases": [
+   "the glyphs",
+   "the atlas glyphs",
+   "viz.py glyphs"
+  ]
+ },
+ "region": [
+  "world"
+ ],
+ "countries": [],
+ "facets": {
+  "kind": "diagram",
+  "era": "modern"
+ },
+ "text": {
+  "what": "Twenty-six line drawings, one per sign in this atlas: an eye, a hand, an open palm, a horn, a knot, a serpent, a scarab, a fish, a tooth and claw, a crescent, a cross, a coin with a square hole, a mirror, a red thread, a swastika, a magic square, a palindrome block, a divine name, a footprint, a key, a bell, a spiral, a tree, a lion, a phallic sign and a fist. Each is drawn inside a 48-by-48 box, in a single stroke weight of 2.1 with round caps and joins, in whatever colour the surrounding text is. They are SVG written into the page rather than images fetched into it.",
+  "story": "They are drawn for this project. The file that holds them says so in its own header: the glyphs are drawn from published descriptions of the signs, not traced from any one object, and they go out under the project's own licence, which is Creative Commons Attribution 4.0 International.\n\n*Inference —* that sentence carries the whole argument. A photograph of a wedjat eye is a photograph of one wedjat eye, from one dynasty, in one material, in one museum's lighting. The sign is the class. When the atlas needs to say \"this amulet carries the eye\", a drawing of the class says it and a photograph of a specimen quietly says something narrower and slightly wrong. So the photographs go on the amulet records, where a specific object is the point, and the drawings go on the sign records, where it is not.\n\nThere is a second reason and it is not aesthetic. An SVG that is text in the page is an SVG a reader can select, a screen reader can walk and a slow connection still gets — the same file states that too. A drawn sign costs a few hundred bytes. A photograph costs a hundred times that and still needs a licence, an author, a page URL and a hash beside it.\n\nOne of the twenty-six is the swastika, and the atlas draws it for the same reason it draws the others: it is one of the oldest and most widespread signs in this material, and a global index of signs that skipped it would be lying by omission. The record that explains what the drawing does and does not mean is /story/the-swastika-problem, and the glyph links to it.",
+  "today": "Reusable. Under CC BY 4.0 anyone may copy, modify and republish them, commercially included, with credit to this project. The same file also draws the world maps — Equal Earth, from Natural Earth outlines — and the timeline axis, so the signs and the maps share one visual grammar and one colour set, built around the blue-green of faience."
+ },
+ "kin": [
+  {
+   "to": "eye",
+   "as": "the first glyph in the set, and the one the whole drawing style was settled on",
+   "rel": "motif"
+  },
+  {
+   "to": "hand",
+   "as": "drawn twice here — as a hamsa-style hand and as an open palm, because the two are used differently",
+   "rel": "motif"
+  },
+  {
+   "to": "horn",
+   "as": "drawn as the twisted cornicello and not as a curled sheep's horn, on the published description",
+   "rel": "motif"
+  },
+  {
+   "to": "swastika-sign",
+   "as": "the glyph that needs a page of explanation beside it, and has one",
+   "rel": "motif"
+  },
+  {
+   "to": "the-swastika-problem",
+   "as": "the long read that sits behind one of these twenty-six drawings",
+   "rel": "story"
+  },
+  {
+   "to": "free-to-use",
+   "as": "the licence record: what you may do with these drawings, in full",
+   "rel": "story"
+  },
+  {
+   "to": "petrie-amulet-plates",
+   "as": "the 1914 ancestor of the same idea — a picture made to show a class rather than a specimen",
+   "rel": "origin"
+  }
+ ],
+ "sources": [
+  "s:repo-atlas-viz",
+  "s:repo-atlas-license",
+  "s:web-natural-earth-terms"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:repo-atlas-viz"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:repo-atlas-viz",
+    "note": "the second and third paragraphs are this project's own reasoning and the first of them is labelled inline"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:repo-atlas-license"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Twenty-six line drawings, one per sign in this atlas: an eye, a hand, an open palm, a horn, a knot, a serpent, a scarab, a fish, a tooth and claw, a crescent, a cross, a coin with a square hole, a mirror, a red thread…",
+ "region_terms": [
+  {
+   "key": "world",
+   "name": "Everywhere",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "use for a sign or a practice documented on more than two continents"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "the first glyph in the set, and the one the whole drawing style was settled on",
+   "rel": "motif"
+  },
+  {
+   "to": "hand",
+   "type": "motif",
+   "name": "The hand",
+   "as": "drawn twice here — as a hamsa-style hand and as an open palm, because the two are used differently",
+   "rel": "motif"
+  },
+  {
+   "to": "horn",
+   "type": "motif",
+   "name": "The horn",
+   "as": "drawn as the twisted cornicello and not as a curled sheep's horn, on the published description",
+   "rel": "motif"
+  },
+  {
+   "to": "swastika-sign",
+   "type": "motif",
+   "name": "The swastika",
+   "as": "the glyph that needs a page of explanation beside it, and has one",
+   "rel": "motif"
+  },
+  {
+   "to": "the-swastika-problem",
+   "type": "story",
+   "name": "The swastika problem",
+   "as": "the long read that sits behind one of these twenty-six drawings",
+   "rel": "story"
+  },
+  {
+   "to": "free-to-use",
+   "type": "story",
+   "name": "Free to use",
+   "as": "the licence record: what you may do with these drawings, in full",
+   "rel": "story"
+  },
+  {
+   "to": "petrie-amulet-plates",
+   "type": "art",
+   "name": "Petrie's amulet plates",
+   "as": "the 1914 ancestor of the same idea — a picture made to show a class rather than a specimen",
+   "rel": "origin"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:repo-atlas-viz",
+   "kind": "repository",
+   "title": "tools/viz.py — every drawn thing on this site, as inline SVG",
+   "publisher": "Amulet Atlas — this repository",
+   "accessed": "2026-09-16",
+   "note": "Read in place. Carries the drawn sign glyphs and the timeline axis."
+  },
+  {
+   "id": "s:repo-atlas-license",
+   "kind": "repository",
+   "title": "LICENSE",
+   "publisher": "Amulet Atlas — this repository",
+   "accessed": "2026-09-16",
+   "note": "The licence file at the repository root, read in place. No public URL; it ships with the source."
+  },
+  {
+   "id": "s:web-natural-earth-terms",
+   "kind": "web",
+   "title": "Terms of Use",
+   "publisher": "Natural Earth",
+   "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+   "accessed": "2026-09-16"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:repo-atlas-viz"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:repo-atlas-viz",
+   "note": "the second and third paragraphs are this project's own reasoning and the first of them is labelled inline"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:repo-atlas-license"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "",
+ "country_names": [],
+ "kin_in": [
+  {
+   "from": "fu-talisman",
+   "type": "amulet",
+   "name": "Fu talisman",
+   "as": "the long read on signs made to be looked at rather than read",
+   "rel": "art"
+  },
+  {
+   "from": "sak-yant",
+   "type": "amulet",
+   "name": "Sak yant",
+   "as": "the gallery of drawn geometries this one belongs in, before any of them reach a body",
+   "rel": "art"
+  },
+  {
+   "from": "abracadabra",
+   "type": "term",
+   "name": "abracadabra",
+   "as": "the picture piece where the triangle is set beside the other written figures",
+   "rel": "art"
+  },
+  {
+   "from": "petrie-amulet-plates",
+   "type": "art",
+   "name": "Petrie's amulet plates",
+   "as": "the atlas's own answer to the same problem — one picture for a class, not a portrait of one object",
+   "rel": "parallel"
+  },
+  {
+   "from": "yant-flash",
+   "type": "art",
+   "name": "Yant flash",
+   "as": "the atlas's own drawn glyphs, made on the same principle: a class of sign, not one object",
+   "rel": "parallel"
+  },
+  {
+   "from": "dating-a-charm",
+   "type": "story",
+   "name": "Dating a charm",
+   "as": "the other half of what the code makes: every chart and glyph on this site is drawn by the same file",
+   "rel": "art"
+  },
+  {
+   "from": "free-to-use",
+   "type": "story",
+   "name": "Free to use",
+   "as": "the images the project makes itself, drawn from published descriptions and released with the records",
+   "rel": "art"
+  },
+  {
+   "from": "what-this-atlas-does-not-print",
+   "type": "story",
+   "name": "What this atlas does not print",
+   "as": "the pictures the atlas makes itself, partly so it never has to publish one it should not",
+   "rel": "art"
+  }
+ ]
+}

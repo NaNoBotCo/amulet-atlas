@@ -1,0 +1,282 @@
+{
+ "schema": 1,
+ "id": "yant-flash",
+ "type": "art",
+ "names": {
+  "name": "Yant flash",
+  "native": "ยันต์",
+  "script": "Thai",
+  "lang": "th",
+  "said": "yan",
+  "aliases": [
+   "sak yant designs",
+   "yantra designs",
+   "yant sheet"
+  ]
+ },
+ "region": [
+  "mainland-sea"
+ ],
+ "countries": [
+  "TH",
+  "KH",
+  "LA",
+  "MM"
+ ],
+ "facets": {
+  "kind": "sign",
+  "era": "living"
+ },
+ "text": {
+  "what": "Sheets of ready-made designs a customer chooses from: geometric grids, tigers, hanuman, rows of script running round a frame. In tattooing generally, ready-made designs are known as \"flash\", and flash sheets hang in the parlour so a customer can pick a predrawn image or use one as a starting point. Yant flash is the same object in a Southeast Asian hand — the same designs also get put on cloth and on metal and hung in a house, a shop or a truck.",
+  "story": "The word splits cleanly. Sak is Khmer for tattoo, from the Proto-Mon-Khmer root *cɔkʔ, \"to prick\"; Chuon Nath's 1967 dictionary keeps it native rather than a loan from Sanskrit or Pali. Yant comes from Sanskrit yantra, from yam, \"to hold, to sustain\", plus the instrument suffix -tra: a device for containing and concentrating. Put together, the flash sheet shows instruments, not pictures.\n\nThe script on the sheet tells you where you are. Cambodia uses Khmer script. Central Thailand uses Khom, derived from Khmer. Northern Thailand may use Shan, Northern Thai or Tai Lu; Laos uses Lao Tham. A design that looks the same across a border is not written the same across it.\n\nThe practice is dated to the Khmer Empire around the ninth century, built on mainland Southeast Asian animist tattooing that has been traced back as far as 2,500 BCE, with the geometry coming from Indian yantras. Designs are applied by ruesi, by wicha practitioners, and by Buddhist monks or Brahmin priests, traditionally with a khem sak — a metal rod sharpened to a point.\n\nWhat the sheet cannot show is the condition attached. Masters and bearers both put a condition on it: the tattoo confers its effects only so long as the bearer keeps the rules and taboos he was given, such as abstaining from a named food. *Inference —* that is why a flash sheet is a weaker picture of this practice than of most others: the design is the visible half of a two-part transaction, and the other half is spoken. This atlas prints no kata, because no source it has read publishes one.",
+  "today": "Flash travels now. Ajahn Noo Kanpai inked Angelina Jolie's yant in Old Khmer script in Thailand; she took a Bengal tiger design in 2004, to mark receiving Cambodian citizenship, and celebrity work of that kind is credited with making the designs popular with women. Whether a design chosen off a sheet in a walk-in shop is the same object as one given by a master under his own rules is a live argument with Thai and Cambodian voices on both sides, and this atlas reports it rather than settling it."
+ },
+ "kin": [
+  {
+   "to": "sak-yant",
+   "as": "the tattoo this sheet is the menu for",
+   "rel": "carries"
+  },
+  {
+   "to": "yantra-plate",
+   "as": "the same geometry on metal or paper instead of skin — the older medium of the two",
+   "rel": "parallel"
+  },
+  {
+   "to": "thai-wicha",
+   "as": "the tradition whose practitioners draw these, and set the rules that come with them",
+   "rel": "tradition"
+  },
+  {
+   "to": "tattooing",
+   "as": "the practice the sheet exists to serve, needle and all",
+   "rel": "practice"
+  },
+  {
+   "to": "takrut",
+   "as": "sold from the same shops, and carrying the same script rolled up instead of laid out",
+   "rel": "kin"
+  },
+  {
+   "to": "the-drawn-signs",
+   "as": "the atlas's own drawn glyphs, made on the same principle: a class of sign, not one object",
+   "rel": "parallel"
+  }
+ ],
+ "links": [
+  {
+   "label": "Yantra tattooing — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra_tattooing"
+  }
+ ],
+ "sources": [
+  "s:wp-yantra-tattooing",
+  "s:wp-yantra",
+  "s:wp-tattoo",
+  "s:wp-thai-buddha-amulet"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-yantra-tattooing"
+  },
+  "fields": {
+   "text.what": {
+    "tier": "cited",
+    "source": "s:wp-tattoo",
+    "note": "the definition of flash comes from the tattooing article, not the sak yant one"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-yantra-tattooing",
+    "note": "the closing paragraph is marked as this project's inference where it appears"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Sak Yant tattoo.jpg",
+  "File:Yantra tattoo Thailand.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Sheets of ready-made designs a customer chooses from: geometric grids, tigers, hanuman, rows of script running round a frame.",
+ "region_terms": [
+  {
+   "key": "mainland-sea",
+   "name": "Mainland Southeast Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "sak-yant",
+   "type": "amulet",
+   "name": "Sak yant",
+   "as": "the tattoo this sheet is the menu for",
+   "rel": "carries"
+  },
+  {
+   "to": "yantra-plate",
+   "type": "amulet",
+   "name": "Yantra plate",
+   "as": "the same geometry on metal or paper instead of skin — the older medium of the two",
+   "rel": "parallel"
+  },
+  {
+   "to": "thai-wicha",
+   "type": "tradition",
+   "name": "Thai wicha",
+   "as": "the tradition whose practitioners draw these, and set the rules that come with them",
+   "rel": "tradition"
+  },
+  {
+   "to": "tattooing",
+   "type": "practice",
+   "name": "Tattooing",
+   "as": "the practice the sheet exists to serve, needle and all",
+   "rel": "practice"
+  },
+  {
+   "to": "takrut",
+   "type": "amulet",
+   "name": "Takrut",
+   "as": "sold from the same shops, and carrying the same script rolled up instead of laid out",
+   "rel": "kin"
+  },
+  {
+   "to": "the-drawn-signs",
+   "type": "art",
+   "name": "The drawn signs",
+   "as": "the atlas's own drawn glyphs, made on the same principle: a class of sign, not one object",
+   "rel": "parallel"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-yantra-tattooing",
+   "kind": "encyclopedia",
+   "title": "Yantra tattooing",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra_tattooing",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-yantra",
+   "kind": "encyclopedia",
+   "title": "Yantra",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tattoo",
+   "kind": "encyclopedia",
+   "title": "Tattoo",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tattoo",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-thai-buddha-amulet",
+   "kind": "encyclopedia",
+   "title": "Thai Buddha amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thai_Buddha_amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-tattoo",
+   "note": "the definition of flash comes from the tattooing article, not the sak yant one"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-yantra-tattooing",
+   "note": "the closing paragraph is marked as this project's inference where it appears"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-yantra-tattooing"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "",
+ "country_names": [
+  {
+   "iso": "TH",
+   "name": "Thailand"
+  },
+  {
+   "iso": "KH",
+   "name": "Cambodia"
+  },
+  {
+   "iso": "LA",
+   "name": "Laos"
+  },
+  {
+   "iso": "MM",
+   "name": "Myanmar"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "sak-yant",
+   "type": "amulet",
+   "name": "Sak yant",
+   "as": "the sheet of designs a master works from, and the thing a visitor now picks off",
+   "rel": "art"
+  },
+  {
+   "from": "takrut",
+   "type": "amulet",
+   "name": "Takrut",
+   "as": "the sheet of designs the yant on this tube is drawn from",
+   "rel": "art"
+  },
+  {
+   "from": "yantra-plate",
+   "type": "amulet",
+   "name": "Yantra plate",
+   "as": "the sheets of designs a tattooist works from, which are these diagrams drawn for skin",
+   "rel": "art"
+  },
+  {
+   "from": "thai-wicha",
+   "type": "tradition",
+   "name": "Thai wicha",
+   "as": "the drawn sheets the practitioners work from, and the rules that come attached to them",
+   "rel": "art"
+  },
+  {
+   "from": "skin",
+   "type": "material",
+   "name": "Skin",
+   "as": "the drawn designs, which is as far as this atlas goes in showing them",
+   "rel": "art"
+  }
+ ]
+}

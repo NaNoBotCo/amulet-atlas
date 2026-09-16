@@ -1,0 +1,551 @@
+{
+ "schema": 1,
+ "id": "horn",
+ "type": "motif",
+ "names": {
+  "name": "The horn",
+  "native": "cornicello",
+  "script": "Latin",
+  "lang": "it",
+  "said": "kor-nee-CHEL-lo, 'little horn'",
+  "aliases": [
+   "cornetto",
+   "corno",
+   "corno portafortuna",
+   "curniciello",
+   "Italian horn",
+   "mano cornuta"
+  ]
+ },
+ "region": [
+  "rome-italy",
+  "diaspora"
+ ],
+ "countries": [
+  "IT",
+  "US",
+  "AR",
+  "AU"
+ ],
+ "facets": {
+  "era": "modern",
+  "family": "horn",
+  "hemisphere": [
+   "N",
+   "S",
+   "E",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A single twisted horn, tapering to a point, hung at a neck or a rear-view mirror. Gold, silver, plastic, bone, terracotta, or the red coral that is the version Naples is known for. A few centimetres long. The hand version — the mano cornuta, two fingers extended and held pointing downward with a swivelling motion — is the same sign made of fingers.",
+  "story": "The horn is worn against the malocchio, the evil eye, and against bad luck generally, and historically for fertility and virility. It is a regional amulet before it is an Italian one: most often worn by men in southern Italy, above all in Campania, then Lazio, Apulia and Basilicata, and less in Sicily and Calabria.\n\nWhat the horn is a horn of is an open question. Cornicelli are thought to be modelled on an eland horn. The red ones look like a chili pepper, and dried chilies are hung in some southern Italian houses against the malocchio — but chilies reached Europe only after the Columbian exchange, so the resemblance is younger than the shape. The classical lines pull in several directions at once: the cornucopia broken from a goat by Zeus; coral sacred to Venus; silver sacred to Luna; the phallic outline and the red pointing to Priapus; the horn itself to Pan.\n\nWhat the harm is said to reach is specific. The malocchio is described as harming nursing mothers and their babies, fruiting trees, milking animals and the sperm of men — the forces of generation, in that order.\n\nThe horn moved from the animal to the machine without changing shape. Cornicelli hang from rear-view mirrors now, which the sources trace to the older custom of hanging them on draft horses.\n\n*Inference —* this atlas files the horn beside the eye rather than as an unrelated sign, because the logic its carriers describe is the same interception: a thing conspicuous enough to take the look meant for somebody else.",
+  "today": "Made in gold and silver for jewellers, and in plastic by the tray for the tourist trade. San Gregorio Armeno in Naples sells both, on the same street, a few metres apart."
+ },
+ "kin": [
+  {
+   "to": "cornicello",
+   "as": "the amulet itself — the twisted coral horn in a Neapolitan window",
+   "rel": "carried-by"
+  },
+  {
+   "to": "eye",
+   "as": "the harm it is aimed at, and the sign it stands in for in southern Italy",
+   "rel": "parallel"
+  },
+  {
+   "to": "coral",
+   "as": "the red material that gives the Neapolitan horn its colour and half its story",
+   "rel": "material"
+  },
+  {
+   "to": "crescent",
+   "as": "the other two-pointed sign in the Mediterranean, and one it is regularly confused with",
+   "rel": "contrast"
+  },
+  {
+   "to": "hand",
+   "as": "the mano cornuta makes the same horn out of two fingers",
+   "rel": "kin"
+  },
+  {
+   "to": "phallic-sign",
+   "as": "the Roman answer to the same harm; the horn's phallic outline is one reading of why it works",
+   "rel": "origin"
+  },
+  {
+   "to": "san-gregorio-armeno",
+   "as": "the Naples street where it is sold by the hundred, beside the crib figures",
+   "rel": "place"
+  },
+  {
+   "to": "cimaruta",
+   "as": "the Neapolitan silver sprig that hangs a crescent and a snake and a key on one stalk",
+   "rel": "kin"
+  }
+ ],
+ "dating": {
+  "period": "documented in modern southern Italy",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "in use in southern Italy and in the Italian diaspora, still made",
+  "method": "ethnographic",
+  "tier": "cited",
+  "source": "s:wp-cornicello",
+  "note": "No start date is published in what was read. The article says only that the horn shape is far older than the chili-pepper resemblance, which places it before the Columbian exchange."
+ },
+ "object": {
+  "form": "horn",
+  "materials": [
+   "coral",
+   "gold",
+   "silver",
+   "plastic",
+   "bone",
+   "terracotta"
+  ],
+  "worn": [
+   "neck",
+   "vehicle",
+   "wall"
+  ],
+  "colour": [
+   "red",
+   "gold"
+  ],
+  "source": "s:wp-cornicello"
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "southern Italian wearers; the harm is named malocchio",
+   "source": "s:wp-cornicello",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "the amulet's own Italian name, corno portafortuna — the horn that brings luck",
+   "source": "s:wp-cornicello",
+   "tier": "cited"
+  },
+  {
+   "harm": "infertility",
+   "who": "historic use, for fertility and virility",
+   "source": "s:wp-cornicello",
+   "tier": "cited"
+  },
+  {
+   "harm": "livestock",
+   "who": "the malocchio is described as reaching milking animals and fruiting trees as well as people",
+   "source": "s:wp-cornicello",
+   "tier": "cited"
+  },
+  {
+   "harm": "child-harm",
+   "who": "the same account names nursing mothers and their babies first",
+   "source": "s:wp-cornicello",
+   "tier": "cited"
+  }
+ ],
+ "links": [
+  {
+   "label": "Cornicello — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cornicello"
+  }
+ ],
+ "sources": [
+  "s:wp-cornicello",
+  "s:wp-evil-eye",
+  "s:wp-coral",
+  "s:wp-cimaruta",
+  "s:wp-via-san-gregorio-armeno"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-cornicello"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "inference",
+    "note": "the two grades on one street are reasoned from the Naples street's published description; nobody from this project has walked it"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Cornicello.jpg",
+  "File:Corno portafortuna napoletano.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A single twisted horn, tapering to a point, hung at a neck or a rear-view mirror. Gold, silver, plastic, bone, terracotta, or the red coral that is the version Naples is known for. A few centimetres long.",
+ "region_terms": [
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "diaspora",
+   "name": "Diaspora",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "a practice carried out of its home region and kept"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "cornicello",
+   "type": "amulet",
+   "name": "Cornicello",
+   "as": "the amulet itself — the twisted coral horn in a Neapolitan window",
+   "rel": "carried-by"
+  },
+  {
+   "to": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "the harm it is aimed at, and the sign it stands in for in southern Italy",
+   "rel": "parallel"
+  },
+  {
+   "to": "coral",
+   "type": "material",
+   "name": "Red coral",
+   "as": "the red material that gives the Neapolitan horn its colour and half its story",
+   "rel": "material"
+  },
+  {
+   "to": "crescent",
+   "type": "motif",
+   "name": "The crescent",
+   "as": "the other two-pointed sign in the Mediterranean, and one it is regularly confused with",
+   "rel": "contrast"
+  },
+  {
+   "to": "hand",
+   "type": "motif",
+   "name": "The hand",
+   "as": "the mano cornuta makes the same horn out of two fingers",
+   "rel": "kin"
+  },
+  {
+   "to": "phallic-sign",
+   "type": "motif",
+   "name": "The phallus",
+   "as": "the Roman answer to the same harm; the horn's phallic outline is one reading of why it works",
+   "rel": "origin"
+  },
+  {
+   "to": "san-gregorio-armeno",
+   "type": "place",
+   "name": "Via San Gregorio Armeno",
+   "as": "the Naples street where it is sold by the hundred, beside the crib figures",
+   "rel": "place"
+  },
+  {
+   "to": "cimaruta",
+   "type": "amulet",
+   "name": "Cimaruta",
+   "as": "the Neapolitan silver sprig that hangs a crescent and a snake and a key on one stalk",
+   "rel": "kin"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-cornicello",
+   "kind": "encyclopedia",
+   "title": "Cornicello",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cornicello",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-evil-eye",
+   "kind": "encyclopedia",
+   "title": "Evil eye",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Evil_eye",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-coral",
+   "kind": "encyclopedia",
+   "title": "Coral",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Coral",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cimaruta",
+   "kind": "encyclopedia",
+   "title": "Cimaruta",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cimaruta",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-via-san-gregorio-armeno",
+   "kind": "encyclopedia",
+   "title": "Via San Gregorio Armeno",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Via_San_Gregorio_Armeno",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-cornicello"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-cornicello"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "the two grades on one street are reasoned from the Naples street's published description; nobody from this project has walked it"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-cornicello"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-cornicello"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "southern Italian wearers; the harm is named malocchio",
+   "quote": "",
+   "source": "s:wp-cornicello",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "the amulet's own Italian name, corno portafortuna — the horn that brings luck",
+   "quote": "",
+   "source": "s:wp-cornicello",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "infertility",
+   "label": "Infertility",
+   "who": "historic use, for fertility and virility",
+   "quote": "",
+   "source": "s:wp-cornicello",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "livestock",
+   "label": "Harm to livestock",
+   "who": "the malocchio is described as reaching milking animals and fruiting trees as well as people",
+   "quote": "",
+   "source": "s:wp-cornicello",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "child-harm",
+   "label": "Harm to a child",
+   "gloss": "harm to an infant or a small child; common across the atlas, though not the largest class in it — see /story/most-of-them-are-for-children/",
+   "who": "the same account names nursing mothers and their babies first",
+   "quote": "",
+   "source": "s:wp-cornicello",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "coral",
+   "label": "Red coral",
+   "kind": "organic"
+  },
+  {
+   "key": "gold",
+   "label": "Gold",
+   "kind": "metal"
+  },
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  },
+  {
+   "key": "plastic",
+   "label": "Plastic and resin",
+   "kind": "modern"
+  },
+  {
+   "key": "bone",
+   "label": "Bone and ivory",
+   "kind": "organic"
+  },
+  {
+   "key": "terracotta",
+   "label": "Fired clay",
+   "kind": "fired"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "vehicle",
+   "label": "In a vehicle",
+   "group": "placed"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "horn",
+  "label": "Horn"
+ },
+ "holding_facts": [],
+ "span": "undated",
+ "country_names": [
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "AR",
+   "name": "Argentina"
+  },
+  {
+   "iso": "AU",
+   "name": "Australia"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "cornicello",
+   "type": "amulet",
+   "name": "Cornicello",
+   "as": "the sign itself, and the reason this atlas files a phallic charm, a gesture and a goat's horn in one family",
+   "rel": "motif"
+  },
+  {
+   "from": "pazuzu-head",
+   "type": "amulet",
+   "name": "Pazuzu head",
+   "as": "the gazelle horns that identify the face at a glance",
+   "rel": "motif"
+  },
+  {
+   "from": "crescent",
+   "type": "motif",
+   "name": "The crescent",
+   "as": "the other two-pointed sign of the Mediterranean, and the one this is most often mistaken for",
+   "rel": "contrast"
+  },
+  {
+   "from": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "the substitute sign in southern Italy, doing the same interception with a different shape",
+   "rel": "parallel"
+  },
+  {
+   "from": "phallic-sign",
+   "type": "motif",
+   "name": "The phallus",
+   "as": "southern Italy's later substitute — a shape that catches a glance without the obscenity",
+   "rel": "descendant"
+  },
+  {
+   "from": "tooth-and-claw",
+   "type": "motif",
+   "name": "The tooth and the claw",
+   "as": "the other piece of an animal worn for what the animal could do",
+   "rel": "parallel"
+  },
+  {
+   "from": "coral",
+   "type": "material",
+   "name": "Red coral",
+   "as": "the sign this material is most often cut into around the Mediterranean",
+   "rel": "motif"
+  },
+  {
+   "from": "san-gregorio-armeno",
+   "type": "place",
+   "name": "Via San Gregorio Armeno",
+   "as": "the sign itself — southern Italy's substitute for the eye, aimed at the same look",
+   "rel": "motif"
+  },
+  {
+   "from": "frederick-elworthy",
+   "type": "person",
+   "name": "Frederick Thomas Elworthy",
+   "as": "the sign he argued was doing the eye's work by another shape",
+   "rel": "motif"
+  },
+  {
+   "from": "the-drawn-signs",
+   "type": "art",
+   "name": "The drawn signs",
+   "as": "drawn as the twisted cornicello and not as a curled sheep's horn, on the published description",
+   "rel": "motif"
+  },
+  {
+   "from": "dating-a-charm",
+   "type": "story",
+   "name": "Dating a charm",
+   "as": "the undated case worth arguing with: dated in Rome, living in Naples, and no published span for the sign as a class",
+   "rel": "contrast"
+  },
+  {
+   "from": "the-eye-everywhere",
+   "type": "story",
+   "name": "The eye everywhere",
+   "as": "southern Italy's substitute — proof that the shape is free and the reason is fixed",
+   "rel": "parallel"
+  }
+ ]
+}

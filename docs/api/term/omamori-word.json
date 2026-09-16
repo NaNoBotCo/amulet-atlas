@@ -1,0 +1,222 @@
+{
+ "schema": 1,
+ "id": "omamori-word",
+ "type": "term",
+ "names": {
+  "name": "omamori",
+  "native": "御守 / お守り",
+  "script": "kanji and hiragana",
+  "lang": "ja",
+  "said": "oh-MAH-mo-ree",
+  "aliases": [
+   "mamori",
+   "gofu",
+   "mamorifuda"
+  ]
+ },
+ "etymology": {
+  "root": "Japanese mamoru 'to protect' > noun mamori (守り) 'protection' > honorific prefix o- (御) + mamori = omamori (御守/お守り)",
+  "first_attested": "",
+  "note": "Omamori is the sonkeigo — honorific — form of the ordinary word for protection. The grammar is doing work: the honorific is aimed at the kami or the Buddhist figure the charm is dedicated to, not at the object or its buyer. No dated first attestation was read for the word itself.",
+  "tier": "cited",
+  "source": "s:wp-omamori"
+ },
+ "region": [
+  "japan"
+ ],
+ "countries": [
+  "JP"
+ ],
+ "facets": {
+  "language": [
+   "Japanese"
+  ]
+ },
+ "text": {
+  "what": "The Japanese word for a shrine or temple charm, and a rare case of a name that says who is doing the protecting rather than what the thing is made of. Omamori are sold at Shinto shrines and Buddhist temples alike, with few exceptions, to anybody, regardless of religious affiliation — and are mainly understood as a donation to the shrine or temple the buyer is visiting, with the object as the receipt.",
+  "story": "The word takes a compound for every need, which is how a reader can tell what a given charm is for without opening it: kōtsū-anzen for traffic safety, yaku-yoke for avoiding evil, kaiun for opening fortune, gakugyō-jōju for study and passing examinations, shōbai-hanjō for business, en-musubi for finding a partner and marrying, anzan for a safe pregnancy and delivery, kanai-anzen for the household's safety and peace.\n\nThe object is a brocade bag over paper or wood carrying a written prayer. Custom says not to open it — opening it loses the benefit — so the inscription is a thing the owner owns and does not read. Charms are customarily replaced once a year, returned to the shrine or temple they came from, and burnt rather than thrown away, as respect to the deity that helped through the year. Most returns come on or just after the Japanese New Year.\n\nYanagita Kunio, writing in 1969, put the dating carefully: 'Japanese have probably always believed in amulets of one kind or another, but the modern printed charms now given out by shrines and temples first became popular in the Tokugawa period or later, and the practice of a person wearing miniature charms is also new. The latter custom is particularly common in cities.'\n\nThe word is now on objects a shrine never touched. Materials have widened from paper and wood to bumper decals, bicycle reflectors and credit cards. Where popular shrines cannot meet demand they turn to factories, and priests have complained about the “quality and authenticity” of factory products. Shops sell generic omamori with Mickey Mouse, Hello Kitty, Snoopy or Kewpie on them, not issued by any shrine or temple and not presented as religious. Both of those are called omamori, by their sellers and their buyers. This atlas reports that and leaves the argument where it is."
+ },
+ "kin": [
+  {
+   "to": "omamori",
+   "as": "the object the word names, bag and prayer and all",
+   "rel": "term"
+  },
+  {
+   "to": "ofuda",
+   "as": "the paper tablet the same shrines issue for the household rather than the person",
+   "rel": "contrast"
+  },
+  {
+   "to": "japanese-engimono",
+   "as": "the tradition this word sits inside, alongside the lucky objects that are not shrine issue",
+   "rel": "tradition"
+  },
+  {
+   "to": "renewing-yearly",
+   "as": "the practice the word implies — an omamori has a term, and the term is a year",
+   "rel": "practice"
+  },
+  {
+   "to": "burning-retirement",
+   "as": "how it ends: returned to the shrine it came from and burnt",
+   "rel": "practice"
+  },
+  {
+   "to": "fushimi-inari",
+   "as": "one of the shrines the word is bought at, at the scale that makes factories an issue",
+   "rel": "place"
+  },
+  {
+   "to": "fu-word",
+   "as": "the mainland word behind the paper charm this one wraps — fulu into ofuda into the bag",
+   "rel": "origin"
+  }
+ ],
+ "links": [
+  {
+   "label": "Omamori — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Omamori"
+  }
+ ],
+ "sources": [
+  "s:wp-omamori",
+  "s:wp-ofuda",
+  "s:wp-fulu"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-omamori"
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "The Japanese word for a shrine or temple charm, and a rare case of a name that says who is doing the protecting rather than what the thing is made of.",
+ "region_terms": [
+  {
+   "key": "japan",
+   "name": "Japan",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "omamori",
+   "type": "amulet",
+   "name": "Omamori",
+   "as": "the object the word names, bag and prayer and all",
+   "rel": "term"
+  },
+  {
+   "to": "ofuda",
+   "type": "amulet",
+   "name": "Ofuda",
+   "as": "the paper tablet the same shrines issue for the household rather than the person",
+   "rel": "contrast"
+  },
+  {
+   "to": "japanese-engimono",
+   "type": "tradition",
+   "name": "Engimono",
+   "as": "the tradition this word sits inside, alongside the lucky objects that are not shrine issue",
+   "rel": "tradition"
+  },
+  {
+   "to": "renewing-yearly",
+   "type": "practice",
+   "name": "Renewing yearly",
+   "as": "the practice the word implies — an omamori has a term, and the term is a year",
+   "rel": "practice"
+  },
+  {
+   "to": "burning-retirement",
+   "type": "practice",
+   "name": "Burning at retirement",
+   "as": "how it ends: returned to the shrine it came from and burnt",
+   "rel": "practice"
+  },
+  {
+   "to": "fushimi-inari",
+   "type": "place",
+   "name": "Fushimi Inari-taisha",
+   "as": "one of the shrines the word is bought at, at the scale that makes factories an issue",
+   "rel": "place"
+  },
+  {
+   "to": "fu-word",
+   "type": "term",
+   "name": "fu",
+   "as": "the mainland word behind the paper charm this one wraps — fulu into ofuda into the bag",
+   "rel": "origin"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-omamori",
+   "kind": "encyclopedia",
+   "title": "Omamori",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Omamori",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ofuda",
+   "kind": "encyclopedia",
+   "title": "Ofuda",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ofuda",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fulu",
+   "kind": "encyclopedia",
+   "title": "Fulu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fulu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-omamori"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-omamori"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-omamori"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "",
+ "country_names": [
+  {
+   "iso": "JP",
+   "name": "Japan"
+  }
+ ],
+ "kin_in": []
+}

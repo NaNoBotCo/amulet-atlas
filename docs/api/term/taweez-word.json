@@ -1,0 +1,322 @@
+{
+ "schema": 1,
+ "id": "taweez-word",
+ "type": "term",
+ "names": {
+  "name": "taweez",
+  "native": "تعويذ",
+  "script": "Arabic",
+  "lang": "ar",
+  "said": "ta-WEEZ; Arabic taʿwīdh",
+  "aliases": [
+   "ta'wiz",
+   "taʿwīdh",
+   "tawiz",
+   "तावीज़",
+   "تعویز"
+  ]
+ },
+ "etymology": {
+  "root": "Arabic verb ʿawwadha 'to fortify someone with an amulet or incantation' > noun taʿwīdh (تعويذ) 'amulet, charm' > Urdu and Hindi ta'wiz (تعویز, तावीज़)",
+  "first_attested": "",
+  "note": "The noun is built from a verb about the act, not from a word for an object — the name says what is done to a person, not what is hung on them. No dated first attestation was read, so none is given here.",
+  "tier": "cited",
+  "source": "s:wp-amulet"
+ },
+ "region": [
+  "arabia-gulf",
+  "south-asia",
+  "anatolia",
+  "maghreb",
+  "diaspora"
+ ],
+ "countries": [
+  "PK",
+  "IN",
+  "BD",
+  "TR",
+  "EG",
+  "SA"
+ ],
+ "facets": {
+  "language": [
+   "Arabic",
+   "Urdu",
+   "Hindi"
+  ]
+ },
+ "text": {
+  "what": "The word across the Muslim world for a worn written charm and, by extension, for the object it is folded into: a pendant, letters carved on metal, a framed prayer. What goes inside is text — Qur'anic verses, hadith, the ninety-nine names of God, the names of prophets and their companions, or a religious narrative. The word and the permission arrive together, which is the whole argument: Wikipedia's article reports that Sunni Muslims are permitted to wear ta'wiz as long as it consciously strengthens their bond with Allah and does not come from a belief the ta'wiz itself cures or protects.",
+  "story": "The verb underneath the noun is the point. ʿawwadha is to fortify somebody with an amulet or an incantation — the grammar makes the wearer the object of the action and the text the instrument.\n\nWhat gets written is specific and named. The word Allah is especially common; touching it or seeing it is held to turn evil away. The names of prophets and religious figures connect the wearer to the person named, and the favoured figures are Solomon, Ali ibn Abi Talib and his sons Hasan and Husain, and the Seven Sleepers of Ephesus. Written accounts of those lives are also used, sometimes illustrated.\n\nThe clearest dated use is military. Scrolls carrying Qur'anic quotations, prophetic references and sacred symbols were common in war in the Ottoman Empire, with verses such as 'victory is from God and conquest is near' (Qur. 61:13) found on ta'wiz worn in combat. Texts packaged in tawiz were most often pre-made when used by the public; a literate wearer could change the verse at their own discretion.\n\n*Inference —* that last detail is the useful one. A charm whose text a literate wearer can swap is a charm whose owner is also its author, and it puts the taweez in a different class from an object a specialist alone may make. This atlas files it as written, not as consecrated.\n\n*Tradition holds —* objects of this kind are also criticised from inside the religion, and the criticism is about where the power is located rather than about the paper. The permission Wikipedia records carries its own limit in the same sentence."
+ },
+ "kin": [
+  {
+   "to": "taweez",
+   "as": "the object the word names: the case and the folded text inside it",
+   "rel": "term"
+  },
+  {
+   "to": "quran-pendant",
+   "as": "the same idea in metal and glass — scripture carried where it can be seen",
+   "rel": "term"
+  },
+  {
+   "to": "hirz-pouch",
+   "as": "the pouch form of the same practice, sewn rather than cased",
+   "rel": "term"
+  },
+  {
+   "to": "islamic-talismanic",
+   "as": "the tradition this word belongs to, and the one that argues about it",
+   "rel": "tradition"
+  },
+  {
+   "to": "gris-gris-word",
+   "as": "the West African word for the same object, where the Mande marabout writes what the Arabic word names",
+   "rel": "kin"
+  },
+  {
+   "to": "talisman-word",
+   "as": "the other Arabic word English took — that one for the made figure, this one for the worn text",
+   "rel": "contrast"
+  },
+  {
+   "to": "divine-name",
+   "as": "what is written inside more often than anything else",
+   "rel": "motif"
+  }
+ ],
+ "links": [
+  {
+   "label": "Amulet — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet"
+  }
+ ],
+ "sources": [
+  "s:wp-amulet",
+  "s:wp-islam-and-magic",
+  "s:wp-throne-verse"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-amulet"
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "The word across the Muslim world for a worn written charm and, by extension, for the object it is folded into: a pendant, letters carved on metal, a framed prayer.",
+ "region_terms": [
+  {
+   "key": "arabia-gulf",
+   "name": "Arabia and the Gulf",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "anatolia",
+   "name": "Anatolia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "maghreb",
+   "name": "The Maghreb",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Morocco, Algeria, Tunisia, Libya"
+  },
+  {
+   "key": "diaspora",
+   "name": "Diaspora",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "a practice carried out of its home region and kept"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "taweez",
+   "type": "amulet",
+   "name": "Ta'wiz",
+   "as": "the object the word names: the case and the folded text inside it",
+   "rel": "term"
+  },
+  {
+   "to": "quran-pendant",
+   "type": "amulet",
+   "name": "Qur'an pendant",
+   "as": "the same idea in metal and glass — scripture carried where it can be seen",
+   "rel": "term"
+  },
+  {
+   "to": "hirz-pouch",
+   "type": "amulet",
+   "name": "Hirz",
+   "as": "the pouch form of the same practice, sewn rather than cased",
+   "rel": "term"
+  },
+  {
+   "to": "islamic-talismanic",
+   "type": "tradition",
+   "name": "Islamic talismanic craft",
+   "as": "the tradition this word belongs to, and the one that argues about it",
+   "rel": "tradition"
+  },
+  {
+   "to": "gris-gris-word",
+   "type": "term",
+   "name": "gris-gris",
+   "as": "the West African word for the same object, where the Mande marabout writes what the Arabic word names",
+   "rel": "kin"
+  },
+  {
+   "to": "talisman-word",
+   "type": "term",
+   "name": "talisman",
+   "as": "the other Arabic word English took — that one for the made figure, this one for the worn text",
+   "rel": "contrast"
+  },
+  {
+   "to": "divine-name",
+   "type": "motif",
+   "name": "The name",
+   "as": "what is written inside more often than anything else",
+   "rel": "motif"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-amulet",
+   "kind": "encyclopedia",
+   "title": "Amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-islam-and-magic",
+   "kind": "encyclopedia",
+   "title": "Islam and magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Islam_and_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-throne-verse",
+   "kind": "encyclopedia",
+   "title": "Throne Verse",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Throne_Verse",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-amulet"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-amulet"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-amulet"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "",
+ "country_names": [
+  {
+   "iso": "PK",
+   "name": "Pakistan"
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  },
+  {
+   "iso": "BD",
+   "name": "Bangladesh"
+  },
+  {
+   "iso": "TR",
+   "name": "Turkey"
+  },
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  },
+  {
+   "iso": "SA",
+   "name": "Saudi Arabia"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "tabiz",
+   "type": "amulet",
+   "name": "Tabiz",
+   "as": "the word itself, and the verb it comes from — to fortify someone with an amulet",
+   "rel": "same-word"
+  },
+  {
+   "from": "taweez",
+   "type": "amulet",
+   "name": "Ta'wiz",
+   "as": "the word, from a verb meaning to fortify somebody with an amulet",
+   "rel": "same-word"
+  },
+  {
+   "from": "gris-gris-word",
+   "type": "term",
+   "name": "gris-gris",
+   "as": "the Arabic word for the same idea — Qur'anic text folded and worn — which is what a Mande marabout is writing",
+   "rel": "kin"
+  },
+  {
+   "from": "talisman-word",
+   "type": "term",
+   "name": "talisman",
+   "as": "the Arabic word for the worn object, where this one is the Arabic word for the made figure",
+   "rel": "contrast"
+  }
+ ]
+}

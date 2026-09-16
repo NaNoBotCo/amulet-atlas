@@ -1,0 +1,319 @@
+{
+ "schema": 1,
+ "id": "mojo-word",
+ "type": "term",
+ "names": {
+  "name": "mojo",
+  "said": "MOH-joh",
+  "aliases": [
+   "mojo bag",
+   "toby",
+   "lucky hand",
+   "nation sack",
+   "conjure bag"
+  ]
+ },
+ "etymology": {
+  "root": "Contested, and African on both proposals. Wikipedia's mojo bag article derives it from Kikongo mooyo, glossed as referring to the spirits that dwell within magical charms, and names the cavity of an nkisi where the charm's materials are kept. The Online Etymology Dictionary says 'probably of Creole origin' and points to Gullah moco, 'witchcraft', and Fula moco'o, 'medicine man'.",
+  "first_attested": "1920s in English in the sense 'magic' (Online Etymology Dictionary)",
+  "note": "Both proposals are reported here with their sources and neither is preferred. The dictionary also records a 1935 underworld slang sense for narcotics.",
+  "tier": "cited",
+  "source": "s:wp-mojo-bag"
+ },
+ "region": [
+  "north-america",
+  "central-africa",
+  "west-africa",
+  "diaspora"
+ ],
+ "countries": [
+  "US"
+ ],
+ "facets": {
+  "language": [
+   "English",
+   "Kikongo",
+   "Gullah"
+  ]
+ },
+ "text": {
+  "what": "In Hoodoo, the African American spiritual tradition, mojo is both the conjure work and the bag that holds it — Wikipedia's article calls a mojo bag a prayer in a bag, a spell that can be carried on the body. Outside that, in general American English, mojo means sexual potency, then drive, then momentum in a meeting. The same word, one century, two rooms.",
+  "story": "Both proposed roots point at the same shelf. On Wikipedia's account the Kikongo mooyo names the spirits inside a charm and the cavity of an nkisi where the charm's materials sit — so the word starts as the inside of a container. On the Online Etymology Dictionary's account it is Creole, beside Gullah moco and Fula moco'o. Neither source claims the other is wrong.\n\nThe object has an ancestry that is not contested. Bakongo people of the Congo River region made medicine bags of leather or cloth holding feathers, animal parts, roots and herbs; when Bakongo people were enslaved in the United States the practice continued and became a custom of Hoodoo. Nkisi bags looked like mojo bags and are named as their ancestor. The philosophy came with them: in Bakongo religion, simbi spirits can inhabit an nkisi bag, and the nganga makes the bag for a person with ingredients specific to a particular simbi.\n\nThe bag has other American names — toby, lucky hand, nation sack, conjure bag, package — and the word hand in that list has its own contested origin: from finger and hand bones of the dead used in the bags, or from lucky hand root, favoured by gamblers, or from the hand of cards the mixed ingredients resemble.\n\nThen the word left. Wikipedia's account is blunt about it: mojo underwent a semantic change in American popular culture at the beginning of the twentieth century and came to refer to sexuality and virility, as musicians began to use the word outside its original context within African American culture. From there it became motivation in general.\n\n*Inference —* this is the sharpest case in this batch of a word walking away from the people who made it. A term for the spirit inside a container now means the thing a commentator says a footballer has lost and an investor says a start-up has found. The bag is still made; the word on top of it now belongs to everybody."
+ },
+ "dating": {
+  "from_year": 1920,
+  "to_year": null,
+  "living": true,
+  "label": "in English from the 1920s",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:web-etymonline-mojo"
+ },
+ "kin": [
+  {
+   "to": "nkisi",
+   "as": "the Central African object Wikipedia's account names as the mojo bag's ancestor, and whose cavity the word may be named after",
+   "rel": "origin"
+  },
+  {
+   "to": "bakongo-nkisi-craft",
+   "as": "the tradition the bag and the word both come out of",
+   "rel": "tradition"
+  },
+  {
+   "to": "gris-gris-word",
+   "as": "the other African-derived word for a worn cloth sack in Louisiana, from the Muslim west rather than the Kongo",
+   "rel": "contrast"
+  },
+  {
+   "to": "juju-word",
+   "as": "the parallel argument over an African etymology, fought with different candidates",
+   "rel": "contrast"
+  },
+  {
+   "to": "fetish-word",
+   "as": "what European writers called the objects this word names, before anyone asked the makers",
+   "rel": "contrast"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read on words and objects that leave the community that built them",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Mojo bag — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mojo_bag"
+  }
+ ],
+ "sources": [
+  "s:wp-mojo-bag",
+  "s:web-etymonline-mojo",
+  "s:wp-nkisi",
+  "s:wp-gris-gris-talisman"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-mojo-bag"
+  },
+  "fields": {
+   "etymology": {
+    "tier": "cited",
+    "source": "s:wp-mojo-bag",
+    "note": "two proposals, two sources, no winner picked"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "In Hoodoo, the African American spiritual tradition, mojo is both the conjure work and the bag that holds it — Wikipedia's article calls a mojo bag a prayer in a bag, a spell that can be carried on the body.",
+ "region_terms": [
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "central-africa",
+   "name": "Central Africa",
+   "hemi": [
+    "N",
+    "S",
+    "E"
+   ]
+  },
+  {
+   "key": "west-africa",
+   "name": "West Africa",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "diaspora",
+   "name": "Diaspora",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "a practice carried out of its home region and kept"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "nkisi",
+   "type": "amulet",
+   "name": "Nkisi",
+   "as": "the Central African object Wikipedia's account names as the mojo bag's ancestor, and whose cavity the word may be named after",
+   "rel": "origin"
+  },
+  {
+   "to": "bakongo-nkisi-craft",
+   "type": "tradition",
+   "name": "Bakongo nkisi craft",
+   "as": "the tradition the bag and the word both come out of",
+   "rel": "tradition"
+  },
+  {
+   "to": "gris-gris-word",
+   "type": "term",
+   "name": "gris-gris",
+   "as": "the other African-derived word for a worn cloth sack in Louisiana, from the Muslim west rather than the Kongo",
+   "rel": "contrast"
+  },
+  {
+   "to": "juju-word",
+   "type": "term",
+   "name": "juju",
+   "as": "the parallel argument over an African etymology, fought with different candidates",
+   "rel": "contrast"
+  },
+  {
+   "to": "fetish-word",
+   "type": "term",
+   "name": "fetish",
+   "as": "what European writers called the objects this word names, before anyone asked the makers",
+   "rel": "contrast"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read on words and objects that leave the community that built them",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-mojo-bag",
+   "kind": "encyclopedia",
+   "title": "Mojo bag",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mojo_bag",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-etymonline-mojo",
+   "kind": "web",
+   "title": "mojo — Etymology, Origin & Meaning",
+   "publisher": "Online Etymology Dictionary (Douglas Harper)",
+   "url": "https://www.etymonline.com/word/mojo",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-nkisi",
+   "kind": "encyclopedia",
+   "title": "Nkisi",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nkisi",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-gris-gris-talisman",
+   "kind": "encyclopedia",
+   "title": "Gris-gris (talisman)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gris-gris_(talisman)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-mojo-bag"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-mojo-bag"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-mojo-bag",
+   "note": "two proposals, two sources, no winner picked"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-mojo-bag"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1920 CE to now",
+ "country_names": [
+  {
+   "iso": "US",
+   "name": "United States of America"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "gris-gris",
+   "type": "amulet",
+   "name": "Gris-gris",
+   "as": "the American word for the neighbouring bag, from Kikongo mooyo — a different ancestry in the same city",
+   "rel": "term"
+  },
+  {
+   "from": "nkisi",
+   "type": "amulet",
+   "name": "Nkisi",
+   "as": "the Kikongo word mooyo, the cavity of an nkisi where the charged substances sit, carried to the American South as the name of a bag",
+   "rel": "term"
+  },
+  {
+   "from": "rabbits-foot",
+   "type": "amulet",
+   "name": "Rabbit's foot",
+   "as": "the word for the bag Puckett found it inside, worn by a cook in the Mississippi Delta",
+   "rel": "term"
+  },
+  {
+   "from": "bakongo-nkisi-craft",
+   "type": "tradition",
+   "name": "Bakongo nkisi craft",
+   "as": "the Kikongo mooyo — the cavity where the charged substances sit — carried to the American South as the name of a bag",
+   "rel": "term"
+  },
+  {
+   "from": "gris-gris-word",
+   "type": "term",
+   "name": "gris-gris",
+   "as": "the other African-derived word for a worn sack in Louisiana, out of the Kongo rather than the Muslim west",
+   "rel": "contrast"
+  },
+  {
+   "from": "juju-word",
+   "type": "term",
+   "name": "juju",
+   "as": "the American cousin: another word with contested African roots that popular music carried out of its home",
+   "rel": "contrast"
+  }
+ ]
+}

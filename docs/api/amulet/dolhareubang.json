@@ -1,0 +1,408 @@
+{
+ "schema": 1,
+ "id": "dolhareubang",
+ "type": "amulet",
+ "names": {
+  "name": "Dol hareubang",
+  "native": "돌하르방",
+  "script": "Hangul",
+  "lang": "jje",
+  "said": "tol ha-ru-BANG",
+  "aliases": [
+   "tol harubang",
+   "harubang",
+   "useongmok 우석목",
+   "ongjungseok 옹중석",
+   "beoksumeori",
+   "stone grandfather"
+  ]
+ },
+ "etymology": {
+  "root": "Jeju language dol 돌 'stone' + hareubang 하르방 'grandfather' — stone grandfather",
+  "note": "The name was children's usage and not general until recently; the Jeju Cultural Property Committee made it the official term in 1971 and it took over. Older names, probably regional, include useongmok — reportedly the commonest — museongmok, ongjungseok, beoksumeori, dolyeonggam, sumunjang, janggunseok, dongjaseok and mangjuseok.",
+  "tier": "cited",
+  "source": "s:wp-dol-hareubang"
+ },
+ "region": [
+  "korea"
+ ],
+ "countries": [
+  "KR"
+ ],
+ "facets": {
+  "era": "early-modern",
+  "status": "living",
+  "portable": "fixed",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A standing figure cut from Jeju's volcanic rock, wearing a round hat, with large eyes, a closed mouth, and one shoulder set higher than the other. Some have big ears; the hands sit in front, on the belly, or round the back. No two are alike. Many carry grooves cut into them for wooden logs — the jeongnang bars, whose position told a passer-by whether the entrance behind was open or shut. They stood at gates, and at the entrances of fortresses, which is to say at the edges of settlements, usually in pairs facing one another.",
+  "story": "Nobody knows when the first ones were cut, and the record before 1914 on their number and location is thin. Three theories are in play: that a sea-faring people brought them to Jeju; that they developed out of jangseung or beoksu, the wooden guardian posts set up around mainland Korea; and a third the source leaves unnamed. What is on paper is this. Around 1416 six statues, in three pairs, reportedly stood on the island. By 1754 there were reportedly 48, of which 24 were at Jeju-mok — the town that is now Jeju City — four pairs each at the fortress's west, south and east gates. There is a record that ongjungseok statues were built at Jeju-mok in 1754, and some scholars take that as the earliest appearance of the figures in their present form. The reason given for the 1754 order is specific: after several famines in the reigns of Sukjong and Yeongjo, vengeful spirits were held to be roaming and tormenting the living, and the head of Jeju-mok ordered the statues built.\n\nThey were treated badly in the twentieth century. During the Japanese colonial period of 1910 to 1945 they were disregarded and moved around, and that continued through the rapid urban development after liberation. Because they were shifted, they wore, and it became hard to say where any of them came from. Research began in the 1960s; two were moved to the National Folk Museum of Korea in Seoul in 1968.\n\nThere are 47 or 48 pre-modern ones left. Twenty-one are in Jeju City, twelve in Seongeup-ri in Seogwipo, twelve across Inseong-ri, Anseong-ri and Boseong-ri, and two in Seoul. Everything else a visitor sees is recent.\n\nThe noses are worn down. One folk belief held that a woman with fertility trouble could secretly take a piece of a statue's nose, grind it to powder and swallow it; many statues have worn noses as a result. Others hold that touching the nose is enough.",
+  "how": "Cut from volcanic basalt, set in pairs at a gate facing each other, sometimes on a stone platform called giseok — the statues at Jeju-seong and Jeongeuihyeon-seong tend to stand on one, those at Daejeonghyeon-seong do not. Grooves take the jeongnang logs. Some people reportedly paid their respects to the statues in passing. No consecration rite is described in this project's source, and none is invented here.",
+  "today": "The figure is Jeju's emblem, and the souvenir trade is dated: the first replica was made in 1963 by the sculptor Song Jong-Won, a 25 cm copy of the statue at the south gate of Jeju-mok. Souvenir goods now run from miniatures to full-size recreations. Full-size ones have gone out as diplomatic gifts — to Mikhail Gorbachev at the 1991 Soviet–South Korean summit on Jeju, to Laizhou in China in 2002, and to the city hall of Santa Rosa, California, in 2003. Whether the thing on the shelf and the thing at the gate are the same object is the question this atlas puts and does not answer."
+ },
+ "dating": {
+  "period": "Joseon to the present",
+  "from_year": 1416,
+  "to_year": null,
+  "living": true,
+  "label": "c. 1416 to now, with the firm record at 1754",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-dol-hareubang",
+  "note": "1416 is the reported date for six statues in three pairs; the documentary record is the 1754 construction of ongjungseok at Jeju-mok, which some scholars take as the earliest in the present form. The source says the statues possibly began to be made at latest 500 years ago, since the early Joseon period, and that production dates for most surviving examples are not known with certainty."
+ },
+ "object": {
+  "form": "statue",
+  "materials": [],
+  "worn": [
+   "door"
+  ],
+  "made_by": "not recorded in this project's source; the 1754 set was built on the order of the head of Jeju-mok",
+  "colour": [
+   "grey-black"
+  ],
+  "single_use": false,
+  "source": "s:wp-dol-hareubang",
+  "note": "Volcanic basalt, for which this project's material list has no key yet, so materials is left empty rather than mis-keyed. The one published measurement is of a souvenir: Song Jong-Won's 1963 replica, 25 cm tall. Sizes of the originals vary and none is quoted here."
+ },
+ "against": [
+  {
+   "harm": "spirits",
+   "who": "the record of the 1754 order at Jeju-mok, made after famines in the reigns of Sukjong and Yeongjo, when vengeful spirits were held to be roaming and tormenting the living",
+   "source": "s:wp-dol-hareubang",
+   "tier": "cited"
+  },
+  {
+   "harm": "infertility",
+   "who": "the folk belief recorded on Jeju: a woman with fertility trouble could take part of a statue's nose, grind it and consume the powder; others hold that touching the nose is enough",
+   "source": "s:wp-dol-hareubang",
+   "tier": "cited",
+   "note": "the worn noses on many statues are the physical evidence the source cites for the practice"
+  },
+  {
+   "harm": "house",
+   "who": "the statues' position — at gates and at the entrances of fortresses, at the boundaries of settlements, projecting power and security",
+   "source": "s:wp-dol-hareubang",
+   "tier": "cited"
+  }
+ ],
+ "holdings": [
+  {
+   "museum": "other",
+   "what": "two pre-modern dol hareubang, originally from Jeju City, moved to the National Folk Museum of Korea in Seoul in 1968",
+   "source": "s:wp-dol-hareubang",
+   "note": "the National Folk Museum of Korea is a separate institution from the National Museum of Korea and has no key in this project's museum list yet"
+  }
+ ],
+ "kin": [
+  {
+   "to": "bujeok",
+   "as": "the other Korean guard in this atlas — paper, portable, and drawn by a mudang, where this is basalt and does not move",
+   "rel": "kin"
+  },
+  {
+   "to": "korean-bujeok-craft",
+   "as": "the Korean tradition of guarding a threshold that this stands at the monumental end of",
+   "rel": "tradition"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "the practice at its heaviest: a doorway guard weighing more than the door",
+   "rel": "practice"
+  },
+  {
+   "to": "phallic-sign",
+   "as": "the sign read into the round hat, which is what ties the statue to the fertility use of its nose",
+   "rel": "motif"
+  },
+  {
+   "to": "ongon",
+   "as": "the steppe figure a spirit is seated in — the nearest thing in this atlas to a guardian carved to be inhabited",
+   "rel": "parallel"
+  },
+  {
+   "to": "hei-tiki",
+   "as": "another carved ancestor-figure that became a national emblem and then a souvenir, and carries the same argument with it",
+   "rel": "parallel"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read this belongs in: 47 or 48 originals, an island's worth of replicas, and three of them given away as state gifts",
+   "rel": "story"
+  },
+  {
+   "to": "insadong",
+   "as": "Seoul's antique and craft district, where the replica trade meets the buyer far from Jeju",
+   "rel": "place"
+  }
+ ],
+ "links": [
+  {
+   "label": "Dol hareubang — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dol_hareubang"
+  }
+ ],
+ "sources": [
+  "s:wp-dol-hareubang",
+  "s:wp-korean-shamanism",
+  "s:wp-insa-dong"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-dol-hareubang"
+  },
+  "fields": {
+   "etymology": {
+    "tier": "cited",
+    "source": "s:wp-dol-hareubang",
+    "note": "the 1971 committee decision and the list of older names are both in the source"
+   },
+   "object": {
+    "tier": "cited",
+    "source": "s:wp-dol-hareubang",
+    "note": "no material key is used because the atlas has none for volcanic basalt; the only cited measurement belongs to a 1963 replica"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Dol hareubang.jpg",
+  "File:Jeju Dolharubang.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A standing figure cut from Jeju's volcanic rock, wearing a round hat, with large eyes, a closed mouth, and one shoulder set higher than the other.",
+ "region_terms": [
+  {
+   "key": "korea",
+   "name": "Korea",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "bujeok",
+   "type": "amulet",
+   "name": "Bujeok",
+   "as": "the other Korean guard in this atlas — paper, portable, and drawn by a mudang, where this is basalt and does not move",
+   "rel": "kin"
+  },
+  {
+   "to": "korean-bujeok-craft",
+   "type": "tradition",
+   "name": "Bujeok craft",
+   "as": "the Korean tradition of guarding a threshold that this stands at the monumental end of",
+   "rel": "tradition"
+  },
+  {
+   "to": "hanging-at-door",
+   "type": "practice",
+   "name": "Hanging at the door",
+   "as": "the practice at its heaviest: a doorway guard weighing more than the door",
+   "rel": "practice"
+  },
+  {
+   "to": "phallic-sign",
+   "type": "motif",
+   "name": "The phallus",
+   "as": "the sign read into the round hat, which is what ties the statue to the fertility use of its nose",
+   "rel": "motif"
+  },
+  {
+   "to": "ongon",
+   "type": "amulet",
+   "name": "Ongon",
+   "as": "the steppe figure a spirit is seated in — the nearest thing in this atlas to a guardian carved to be inhabited",
+   "rel": "parallel"
+  },
+  {
+   "to": "hei-tiki",
+   "type": "amulet",
+   "name": "Hei-tiki",
+   "as": "another carved ancestor-figure that became a national emblem and then a souvenir, and carries the same argument with it",
+   "rel": "parallel"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read this belongs in: 47 or 48 originals, an island's worth of replicas, and three of them given away as state gifts",
+   "rel": "story"
+  },
+  {
+   "to": "insadong",
+   "type": "place",
+   "name": "Insa-dong",
+   "as": "Seoul's antique and craft district, where the replica trade meets the buyer far from Jeju",
+   "rel": "place"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-dol-hareubang",
+   "kind": "encyclopedia",
+   "title": "Dol hareubang",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dol_hareubang",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-korean-shamanism",
+   "kind": "encyclopedia",
+   "title": "Korean shamanism",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Korean_shamanism",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-insa-dong",
+   "kind": "encyclopedia",
+   "title": "Insa-dong",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Insa-dong",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-dol-hareubang"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-dol-hareubang"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-dol-hareubang"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-dol-hareubang"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-dol-hareubang",
+   "note": "the 1971 committee decision and the list of older names are both in the source"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-dol-hareubang"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-dol-hareubang",
+   "note": "no material key is used because the atlas has none for volcanic basalt; the only cited measurement belongs to a 1963 replica"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "the record of the 1754 order at Jeju-mok, made after famines in the reigns of Sukjong and Yeongjo, when vengeful spirits were held to be roaming and tormenting the living",
+   "quote": "",
+   "source": "s:wp-dol-hareubang",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "infertility",
+   "label": "Infertility",
+   "who": "the folk belief recorded on Jeju: a woman with fertility trouble could take part of a statue's nose, grind it and consume the powder; others hold that touching the nose is enough",
+   "quote": "",
+   "source": "s:wp-dol-hareubang",
+   "tier": "cited",
+   "note": "the worn noses on many statues are the physical evidence the source cites for the practice"
+  },
+  {
+   "key": "house",
+   "label": "Harm to a house or a field",
+   "who": "the statues' position — at gates and at the entrances of fortresses, at the boundaries of settlements, projecting power and security",
+   "quote": "",
+   "source": "s:wp-dol-hareubang",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [],
+ "worn_facts": [
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "statue",
+  "label": "Standing image"
+ },
+ "holding_facts": [
+  {
+   "key": "other",
+   "label": "Another collection",
+   "note": "name it in `what` when it has no key here yet",
+   "what": "two pre-modern dol hareubang, originally from Jeju City, moved to the National Folk Museum of Korea in Seoul in 1968",
+   "accession": "",
+   "url": "",
+   "source": "s:wp-dol-hareubang"
+  }
+ ],
+ "span": "1416 CE to now",
+ "country_names": [
+  {
+   "iso": "KR",
+   "name": "South Korea"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "bujeok",
+   "type": "amulet",
+   "name": "Bujeok",
+   "as": "the other Korean guard in this atlas — that one stone and fixed at a gate, this one paper and pasted on an inside wall",
+   "rel": "kin"
+  },
+  {
+   "from": "palad-khik",
+   "type": "amulet",
+   "name": "Palad khik",
+   "as": "the other charm in this atlas whose fertility claim rests on a shape read as phallic — Jeju's stone grandfather and its worn nose",
+   "rel": "parallel"
+  },
+  {
+   "from": "korean-bujeok-craft",
+   "type": "tradition",
+   "name": "Bujeok craft",
+   "as": "the monumental end of Korean threshold-guarding — stone at a gate rather than paper on a wall",
+   "rel": "kin"
+  },
+  {
+   "from": "insadong",
+   "type": "place",
+   "name": "Insa-dong",
+   "as": "the Jeju stone grandfather, the Korean object a visitor is likeliest to carry out of a shop here as a miniature",
+   "rel": "carries"
+  }
+ ]
+}

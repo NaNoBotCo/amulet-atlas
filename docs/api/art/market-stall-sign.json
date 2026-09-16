@@ -1,0 +1,283 @@
+{
+ "schema": 1,
+ "id": "market-stall-sign",
+ "type": "art",
+ "names": {
+  "name": "The market stall sign",
+  "aliases": [
+   "amulet stall signage",
+   "stall board",
+   "trade street name"
+  ]
+ },
+ "region": [
+  "anatolia",
+  "mainland-sea",
+  "mesoamerica",
+  "ancient-egypt"
+ ],
+ "countries": [
+  "TR",
+  "TH",
+  "MX",
+  "EG"
+ ],
+ "facets": {
+  "kind": "sign",
+  "era": "living"
+ },
+ "text": {
+  "what": "Whatever tells a buyer, before they reach the tray, what is on it: a painted board, a hand-lettered product name on a jar, a certificate propped against a case, or — in the oldest arrangement — the name of the street itself. Amulet markets label in all four ways and often in none, and this record is about the picture that results.",
+  "story": "The Grand Bazaar in Istanbul solved the problem by not signing at all. Until the restoration that followed the 1894 earthquake it had no shops in the western sense: merchants sat on wooden divans in front of their shelves, each occupying a space six to eight feet wide and three to four feet deep, a space called a dolap, Turkish for stall. The best stock was kept in cabinets and not displayed. \"Another peculiarity was the complete lack of advertising,\" the published account reads. Instead, traders of the same goods were concentrated along one road, and the road took its name from their trade — at one point 67 roads, each named for what it sold. The street was the sign.\n\nMexico City's Mercado de Sonora signs the other way round, on the goods. Names are the pitch, and they are printed on the bottles: atrapahombres, \"trap men\"; ven a mi, \"come to me\"; miel de amor, \"honey of love\"; Amansa guapos, \"tame handsome men\". Around 2,000 people come each weekend for the section of the market given to amulets, candles, powders, Santería and Santa Muerte.\n\nAt Tha Phrachan in Bangkok the graphic that matters is not a sign but a document. A clay tablet's worth turns on which temple pressed it and which monk consecrated it, so the case carries a certificate and the buyer carries a loupe, and forgeries are common enough that expert authentication is routine.\n\n*Inference —* the pattern across all three is that amulet markets do not advertise what a charm does. They label origin, or they label desire, or they label nothing and let the street do it. This project has not read a published study of amulet-stall signage anywhere, so the generalisation is drawn from three descriptions and is marked as this project's own.",
+  "today": "Khan el-Khalili's souvenir shops and the goldsmiths' souq beside them still run on the old zoning, trade by trade, in a district whose fixed stone shopfronts replaced mobile market stalls partly so the authorities could count and tax them. The signage gap is a gap in the record, not in the markets — set confidence low here and treat the picture as unfinished."
+ },
+ "kin": [
+  {
+   "to": "grand-bazaar",
+   "as": "the market that ran for four centuries with the street name as its only sign",
+   "rel": "place"
+  },
+  {
+   "to": "mercado-de-sonora",
+   "as": "the opposite case — the label is on the bottle and it names the wish, not the object",
+   "rel": "place"
+  },
+  {
+   "to": "tha-phrachan",
+   "as": "where the certificate does the work a sign would, because provenance is the price",
+   "rel": "place"
+  },
+  {
+   "to": "khan-el-khalili",
+   "as": "a bazaar zoned by trade, where the district's layout still tells a buyer where to walk",
+   "rel": "place"
+  },
+  {
+   "to": "buying-in-a-market",
+   "as": "the practice this picture frames — the moment before money changes hands",
+   "rel": "practice"
+  },
+  {
+   "to": "the-fake-market",
+   "as": "the long read about what the certificate is for",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Grand Bazaar, Istanbul — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Grand_Bazaar,_Istanbul"
+  }
+ ],
+ "sources": [
+  "s:wp-grand-bazaar-istanbul",
+  "s:wp-mercado-de-sonora",
+  "s:wp-thai-buddha-amulet",
+  "s:wp-khan-el-khalili"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-grand-bazaar-istanbul"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "inference",
+    "note": "the closing generalisation is this project's, drawn from three published market descriptions; no study of amulet-stall signage was read"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-khan-el-khalili"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Grand Bazaar Istanbul interior.jpg",
+  "File:Mercado de Sonora Mexico City.jpg"
+ ],
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "Whatever tells a buyer, before they reach the tray, what is on it: a painted board, a hand-lettered product name on a jar, a certificate propped against a case, or — in the oldest arrangement — the name of the street…",
+ "region_terms": [
+  {
+   "key": "anatolia",
+   "name": "Anatolia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "mainland-sea",
+   "name": "Mainland Southeast Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "mesoamerica",
+   "name": "Mesoamerica",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Nile valley and delta, Predynastic through Roman Egypt"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "grand-bazaar",
+   "type": "place",
+   "name": "The Grand Bazaar",
+   "as": "the market that ran for four centuries with the street name as its only sign",
+   "rel": "place"
+  },
+  {
+   "to": "mercado-de-sonora",
+   "type": "place",
+   "name": "Mercado de Sonora",
+   "as": "the opposite case — the label is on the bottle and it names the wish, not the object",
+   "rel": "place"
+  },
+  {
+   "to": "tha-phrachan",
+   "type": "place",
+   "name": "Tha Phrachan amulet market",
+   "as": "where the certificate does the work a sign would, because provenance is the price",
+   "rel": "place"
+  },
+  {
+   "to": "khan-el-khalili",
+   "type": "place",
+   "name": "Khan el-Khalili",
+   "as": "a bazaar zoned by trade, where the district's layout still tells a buyer where to walk",
+   "rel": "place"
+  },
+  {
+   "to": "buying-in-a-market",
+   "type": "practice",
+   "name": "Buying one in a market",
+   "as": "the practice this picture frames — the moment before money changes hands",
+   "rel": "practice"
+  },
+  {
+   "to": "the-fake-market",
+   "type": "story",
+   "name": "The fake market",
+   "as": "the long read about what the certificate is for",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-grand-bazaar-istanbul",
+   "kind": "encyclopedia",
+   "title": "Grand Bazaar, Istanbul",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Grand_Bazaar,_Istanbul",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mercado-de-sonora",
+   "kind": "encyclopedia",
+   "title": "Mercado de Sonora",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mercado_de_Sonora",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-thai-buddha-amulet",
+   "kind": "encyclopedia",
+   "title": "Thai Buddha amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thai_Buddha_amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-khan-el-khalili",
+   "kind": "encyclopedia",
+   "title": "Khan el-Khalili",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Khan_el-Khalili",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-grand-bazaar-istanbul"
+  },
+  "text.story": {
+   "tier": "inference",
+   "note": "the closing generalisation is this project's, drawn from three published market descriptions; no study of amulet-stall signage was read"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-khan-el-khalili"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "",
+ "country_names": [
+  {
+   "iso": "TR",
+   "name": "Turkey"
+  },
+  {
+   "iso": "TH",
+   "name": "Thailand"
+  },
+  {
+   "iso": "MX",
+   "name": "Mexico"
+  },
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "senso-ji",
+   "type": "place",
+   "name": "Sensō-ji",
+   "as": "the drawn signage of a selling street, which Nakamise has carried through four rebuildings",
+   "rel": "art"
+  },
+  {
+   "from": "the-fake-market",
+   "type": "story",
+   "name": "The fake market",
+   "as": "the picture record: at Tha Phrachan the certificate does the work a sign would",
+   "rel": "art"
+  }
+ ]
+}

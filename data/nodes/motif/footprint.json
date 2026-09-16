@@ -1,0 +1,67 @@
+{
+ "schema": 1,
+ "id": "footprint",
+ "type": "motif",
+ "names": {
+  "name": "The footprint",
+  "native": "बुद्धपद",
+  "script": "Devanagari",
+  "lang": "sa",
+  "said": "buddhapada, 'the Buddha's foot'",
+  "aliases": ["Buddhapada", "Buddha footprint", "Phra Phutthabat", "Sri Pada"]
+ },
+ "region": ["south-asia", "mainland-sea", "china", "japan", "island-sea"],
+ "countries": ["IN", "LK", "TH", "KH", "MM", "JP", "CN"],
+ "facets": {"era": "ancient", "family": "body-part", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "The print of a foot, or of two feet side by side, cut in stone or wood or painted. A dharmachakra is often set at the centre of the sole, or the 32, 108 or 132 auspicious signs of the Buddha are engraved or painted across it. There are two kinds and the tradition distinguishes them: prints found in stone or rock, and prints made by hand.",
+  "story": "The footprint is a way of showing a person by showing where they stood. As a sculptural object it starts in India, in the pre-Greco-Buddhist phase, at sites like Sanchi and Bharhut — that is, in the period when the Buddha was represented by signs rather than by a body. Many of the prints found in rock are acknowledged within the tradition not to be prints of the Buddha's foot but replicas or representations, which can count as cetiya, relics.\n\nThe count is large. The Japanese scholar Motoji Niwa found more than 3,000 footprints, about 300 of them in Japan and more than 1,000 in Sri Lanka. The named sites include Sri Pada in Sri Lanka and Phra Phutthabat in Thailand, with more in Cambodia and Burma. In China, the discovery of a large footprint of the Buddha at Chengzhou during the Tang led the Empress Wu Zetian to declare a new era name in 701 CE — a footprint that reset the calendar.\n\nOne of the marks on the sole is a sign in its own right elsewhere in this atlas. In Buddhism the swastika is read as standing for the auspicious footprints of the Buddha, and a left-facing one is often imprinted on the chest, feet or palms of Buddha images. Theravada communities in Myanmar, Thailand and Cambodia commonly associate the sign with the Buddha's footprints.\n\nPortable versions exist. A Lanna buddhapada of the late fifteenth to early sixteenth century is teak decorated with mother of pearl and glass.\n\n*Inference —* this is the only sign in this batch that is an absence rather than a thing: the shape of somebody who is no longer standing there. Whether it belongs among amulets at all depends on whether a thing you visit counts beside a thing you carry, and this atlas files it here because the small ones are carried."
+ },
+ "kin": [
+  {"to": "swastika-sign", "as": "in Buddhism that sign stands for these footprints — the two records are one object seen twice", "rel": "kin"},
+  {"to": "phra-khrueang", "as": "the small Thai tablet the footprint's country presses by the million; the same tradition, at hand size", "rel": "kin"},
+  {"to": "milagro", "as": "the other body part sold small and left at a shrine, for the opposite reason", "rel": "contrast"},
+  {"to": "blessing-at-a-shrine", "as": "the practice the large footprints belong to — you travel to them rather than wear them", "rel": "practice"},
+  {"to": "thai-wicha", "as": "the tradition that keeps Phra Phutthabat and presses its amulets", "rel": "tradition"},
+  {"to": "wood", "as": "what the portable Lanna versions are made of — teak, with mother of pearl and glass", "rel": "material"},
+  {"to": "tibetan-protection", "as": "the neighbouring Buddhist tradition, which carries its marks in boxes rather than in stone", "rel": "parallel"}
+ ],
+ "dating": {
+  "period": "pre-Greco-Buddhist India to the present",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "from the aniconic period of Indian Buddhism; still made and still visited",
+  "method": "art-historical",
+  "tier": "cited",
+  "source": "s:wp-buddha-footprint",
+  "note": "No year is published in what was read. The source places the first examples in India at Sanchi and Bharhut in the pre-Greco-Buddhist phase, and separately dates the Chengzhou discovery to 701 CE and a Lanna teak buddhapada to the late 15th–early 16th century. A start year is not guessed here."
+ },
+ "object": {
+  "form": "plaque",
+  "materials": ["wood", "shell", "glass", "terracotta"],
+  "worn": ["wall", "shop"],
+  "inscription": "a dharmachakra at the centre of the sole, or the 32, 108 or 132 auspicious signs of the Buddha",
+  "count": 108,
+  "source": "s:wp-buddha-footprint",
+  "note": "count records the commonest of the three published mark-counts, not a fixed number."
+ },
+ "against": [
+  {"harm": "bad-luck", "who": "Buddhist practice, in which the marks on the sole are named auspicious signs", "source": "s:wp-buddha-footprint", "tier": "cited"},
+  {"harm": "bad-luck", "who": "Theravada communities in Myanmar, Thailand and Cambodia, who read the swastika as the Buddha's footprints", "source": "s:wp-swastika", "tier": "cited", "note": "listed twice because two sources make the claim in different words"}
+ ],
+ "links": [{"label": "Buddha footprint — Wikipedia", "url": "https://en.wikipedia.org/wiki/Buddha_footprint"}],
+ "sources": ["s:wp-buddha-footprint", "s:wp-swastika", "s:wp-thai-buddha-amulet"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-buddha-footprint"},
+  "fields": {
+   "dating": {"tier": "cited", "source": "s:wp-buddha-footprint", "note": "years left null on purpose — the source gives a period name, not a date, and a guessed year would put a false bar on the timeline"},
+   "text.story": {"tier": "cited", "source": "s:wp-buddha-footprint", "note": "the closing paragraph is this project's filing argument and is marked inference"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Buddhapada.jpg", "File:Phra Phutthabat Saraburi.jpg"],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

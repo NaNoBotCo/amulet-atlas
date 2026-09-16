@@ -1,0 +1,542 @@
+{
+ "id": "iron",
+ "names": {
+  "name": "Iron",
+  "aliases": [
+   "cold iron",
+   "meteoric iron",
+   "sky-iron",
+   "thogcha"
+  ]
+ },
+ "region": [
+  "britain-ireland",
+  "western-europe",
+  "nordic",
+  "ancient-egypt",
+  "anatolia",
+  "himalaya-tibet",
+  "island-sea"
+ ],
+ "countries": [
+  "GB",
+  "IE",
+  "DK",
+  "LT",
+  "EE",
+  "EG",
+  "TR",
+  "CN",
+  "ID",
+  "IN"
+ ],
+ "facets": {
+  "kind": "metal"
+ },
+ "text": {
+  "what": "The commonest useful metal and the one that rusts. Because it corrodes so readily, ancient iron objects are far rarer in the ground than gold or silver ones — the survival order of the metals runs opposite to how common they were in life. In folk practice iron is not a support for a charm; the metal is the charm.",
+  "story": "Iron arrived twice. The first iron anybody in Egypt held came out of the sky: beads made from meteoric iron at Gerzeh, 3500 BCE or earlier, identified by G. A. Wainwright, carrying 7.5% nickel, which is the signature of meteoric origin because crustal iron holds almost none. A dagger of meteoric iron was found in the tomb of Tutankhamun with iron, cobalt and nickel proportions matching a meteorite found in the same area. Smelting is the second arrival: samples from Asmar in Mesopotamia and Tall Chagar Bazaar in northern Syria date between 3000 and 2700 BCE, and the Hittites were smelting between 1500 and 1200 BCE.\n\nThe sky-iron did not stop being special once furnaces existed. Thogcha, 'sky-iron', is meteoric iron in Tibet, prized across the Himalayas and alloyed into ritual implements. Robert Beer writes that meteoric iron \"is the supreme substance for forging the physical representation of the vajra or other iron weapons, since it has already been tempered by the celestial gods in its passage across the heavens\", and records that a piece of the metal was often returned to the site the meteorite fell. In Java the same logic runs through the kris: the best pamor, the pattern in the blade, comes from meteorite iron, and the smiths of the Yogyakarta and Surakarta courts worked from an iron meteorite that fell near the Prambanan temple complex at the end of the eighteenth century.\n\nIn Britain and Ireland the metal works by being ordinary. Folklorists working across Britain, Ireland and northern Europe recorded cold iron as repelling, containing or harming ghosts, fairies and witches: a horseshoe nailed to a door, an iron fence round a cemetery to contain the souls inside it, an iron knife buried under the entrance to keep witches out. Irish and Scottish fishermen used \"cold iron\" as a substitute name for animals and incidents counted unlucky, so as not to say the real word. One account of the horseshoe's luck is the story of Saint Dunstan, Archbishop of Canterbury from 959 and a blacksmith by trade, who nailed a shoe to the Devil's hoof and removed it only on a promise that the Devil would never enter a place with a horseshoe over the door.\n\nThe metal also goes into other charms as an ingredient. A Turkish nazar bead is described as \"a mixture of molten glass, iron, copper, water, and salt, ingredients that are thought to shield people from evil\".",
+  "today": "Iron is the cheapest metal there is. Wikipedia's article, read on 16 September 2026, prices it at a few dollars a kilogram and gives no date for that figure, so it is reported here as a magnitude and not as a price. The charm did not get cheaper as the metal did: a horseshoe over a door in England is still required in many tellings to have been used, found rather than bought, and touchable."
+ },
+ "dating": {
+  "period": "Predynastic Egypt to the present",
+  "from_year": -3499,
+  "to_year": null,
+  "living": true,
+  "label": "c. 3500 BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-iron",
+  "note": "Dated from the meteoric iron beads at Gerzeh, Egypt, 3500 BCE or earlier. Smelted iron is a thousand years younger than the charm."
+ },
+ "against": [
+  {
+   "harm": "spirits",
+   "who": "English, Irish and Scottish folk tradition as recorded by folklorists",
+   "source": "s:wp-iron-in-folklore",
+   "tier": "cited",
+   "note": "cold iron held to repel, contain or harm ghosts and fairies; an iron fence round a cemetery to contain the souls of the dead"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "the same tradition: an iron knife buried under the entrance to a house",
+   "source": "s:wp-iron-in-folklore",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "horseshoe customs in England, Denmark, Lithuania and Estonia",
+   "source": "s:wp-iron-in-folklore",
+   "tier": "cited",
+   "note": "the traditions disagree about which way up; they agree that the luck is in the shoe and can pour out through the ends"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "the recipe given for a Turkish nazar bead, which puts iron in the batch",
+   "source": "s:wp-nazar-amulet",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "horseshoe",
+   "as": "the commonest iron charm in Europe, and the one whose rules — used, found, touchable — are all about where the metal came from",
+   "rel": "carried-by"
+  },
+  {
+   "to": "witch-bottle",
+   "as": "filled with iron: rusty nails, pins and needles, sealed and buried",
+   "rel": "carried-by"
+  },
+  {
+   "to": "keris-pusaka",
+   "as": "the Javanese blade whose pamor pattern is worked from meteorite iron",
+   "rel": "carried-by"
+  },
+  {
+   "to": "takrut",
+   "as": "the rolled metal scroll — the sheet is the amulet's body, the inscription its voice",
+   "rel": "carried-by"
+  },
+  {
+   "to": "nazar",
+   "as": "iron goes into the glass batch itself, named in the recipe among the things said to shield the wearer",
+   "rel": "material"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the tradition where cold iron is a rule rather than an object",
+   "rel": "tradition"
+  },
+  {
+   "to": "tibetan-protection",
+   "as": "the tradition that names sky-iron as the supreme substance and returns a piece of it to where the meteorite fell",
+   "rel": "tradition"
+  },
+  {
+   "to": "silver",
+   "as": "the other metal folklore arms against monsters, and the one that survives in the ground",
+   "rel": "contrast"
+  },
+  {
+   "to": "lead",
+   "as": "the metal at the other end of the hardness scale, chosen for the opposite reason: too soft to resist a nail",
+   "rel": "contrast"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "the practice iron is most often put to — over the lintel, under the threshold, around the graveyard",
+   "rel": "practice"
+  }
+ ],
+ "links": [
+  {
+   "label": "Iron in folklore — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Iron_in_folklore"
+  }
+ ],
+ "sources": [
+  "s:wp-iron",
+  "s:wp-iron-in-folklore",
+  "s:wp-horseshoe",
+  "s:wp-kris",
+  "s:wp-nazar-amulet"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-iron-in-folklore"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-iron",
+    "note": "the price is reported as undated in the source and is not treated as a price here"
+   }
+  }
+ },
+ "x_commons_files": [
+  "File:Horseshoe on door.jpg"
+ ],
+ "confidence": "high",
+ "schema": 1,
+ "type": "material",
+ "images": [],
+ "updated": "2026-09-16",
+ "blurb": "The commonest useful metal and the one that rusts. Because it corrodes so readily, ancient iron objects are far rarer in the ground than gold or silver ones — the survival order of the metals runs opposite to how common…",
+ "region_terms": [
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "western-europe",
+   "name": "Western Europe",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "nordic",
+   "name": "Scandinavia and the North",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Nile valley and delta, Predynastic through Roman Egypt"
+  },
+  {
+   "key": "anatolia",
+   "name": "Anatolia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "himalaya-tibet",
+   "name": "The Himalaya and Tibet",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "island-sea",
+   "name": "Island Southeast Asia",
+   "hemi": [
+    "N",
+    "S",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "horseshoe",
+   "type": "amulet",
+   "name": "Horseshoe",
+   "as": "the commonest iron charm in Europe, and the one whose rules — used, found, touchable — are all about where the metal came from",
+   "rel": "carried-by"
+  },
+  {
+   "to": "witch-bottle",
+   "type": "amulet",
+   "name": "Witch bottle",
+   "as": "filled with iron: rusty nails, pins and needles, sealed and buried",
+   "rel": "carried-by"
+  },
+  {
+   "to": "keris-pusaka",
+   "type": "amulet",
+   "name": "Keris pusaka",
+   "as": "the Javanese blade whose pamor pattern is worked from meteorite iron",
+   "rel": "carried-by"
+  },
+  {
+   "to": "takrut",
+   "type": "amulet",
+   "name": "Takrut",
+   "as": "the rolled metal scroll — the sheet is the amulet's body, the inscription its voice",
+   "rel": "carried-by"
+  },
+  {
+   "to": "nazar",
+   "type": "amulet",
+   "name": "Nazar",
+   "as": "iron goes into the glass batch itself, named in the recipe among the things said to shield the wearer",
+   "rel": "material"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "type": "tradition",
+   "name": "European folk apotropaic craft",
+   "as": "the tradition where cold iron is a rule rather than an object",
+   "rel": "tradition"
+  },
+  {
+   "to": "tibetan-protection",
+   "type": "tradition",
+   "name": "Tibetan protection craft",
+   "as": "the tradition that names sky-iron as the supreme substance and returns a piece of it to where the meteorite fell",
+   "rel": "tradition"
+  },
+  {
+   "to": "silver",
+   "type": "material",
+   "name": "Silver",
+   "as": "the other metal folklore arms against monsters, and the one that survives in the ground",
+   "rel": "contrast"
+  },
+  {
+   "to": "lead",
+   "type": "material",
+   "name": "Lead",
+   "as": "the metal at the other end of the hardness scale, chosen for the opposite reason: too soft to resist a nail",
+   "rel": "contrast"
+  },
+  {
+   "to": "hanging-at-door",
+   "type": "practice",
+   "name": "Hanging at the door",
+   "as": "the practice iron is most often put to — over the lintel, under the threshold, around the graveyard",
+   "rel": "practice"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-iron",
+   "kind": "encyclopedia",
+   "title": "Iron",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Iron",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-iron-in-folklore",
+   "kind": "encyclopedia",
+   "title": "Iron in folklore",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Iron_in_folklore",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-horseshoe",
+   "kind": "encyclopedia",
+   "title": "Horseshoe",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Horseshoe",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-kris",
+   "kind": "encyclopedia",
+   "title": "Kris",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kris",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-nazar-amulet",
+   "kind": "encyclopedia",
+   "title": "Nazar (amulet)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nazar_(amulet)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-iron-in-folklore"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-iron-in-folklore"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-iron",
+   "note": "the price is reported as undated in the source and is not treated as a price here"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-iron-in-folklore"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "English, Irish and Scottish folk tradition as recorded by folklorists",
+   "quote": "",
+   "source": "s:wp-iron-in-folklore",
+   "tier": "cited",
+   "note": "cold iron held to repel, contain or harm ghosts and fairies; an iron fence round a cemetery to contain the souls of the dead"
+  },
+  {
+   "key": "witchcraft",
+   "label": "Another person's sorcery",
+   "who": "the same tradition: an iron knife buried under the entrance to a house",
+   "quote": "",
+   "source": "s:wp-iron-in-folklore",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "horseshoe customs in England, Denmark, Lithuania and Estonia",
+   "quote": "",
+   "source": "s:wp-iron-in-folklore",
+   "tier": "cited",
+   "note": "the traditions disagree about which way up; they agree that the luck is in the shoe and can pour out through the ends"
+  },
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "the recipe given for a Turkish nazar bead, which puts iron in the batch",
+   "quote": "",
+   "source": "s:wp-nazar-amulet",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "3500 BCE to now",
+ "country_names": [
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "IE",
+   "name": "Ireland"
+  },
+  {
+   "iso": "DK",
+   "name": "Denmark"
+  },
+  {
+   "iso": "LT",
+   "name": "Lithuania"
+  },
+  {
+   "iso": "EE",
+   "name": "Estonia"
+  },
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  },
+  {
+   "iso": "TR",
+   "name": "Turkey"
+  },
+  {
+   "iso": "CN",
+   "name": "China"
+  },
+  {
+   "iso": "ID",
+   "name": "Indonesia"
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "hagstone",
+   "type": "amulet",
+   "name": "Hagstone",
+   "as": "the metal English folklore trusts against the same harms; the hagstone is the stone answer to the same question",
+   "rel": "contrast"
+  },
+  {
+   "from": "horseshoe",
+   "type": "amulet",
+   "name": "Horseshoe",
+   "as": "the reason it was picked up in the first place: cold iron, the metal European folklore says contains and repels",
+   "rel": "material"
+  },
+  {
+   "from": "keris-pusaka",
+   "type": "amulet",
+   "name": "Keris pusaka",
+   "as": "the material argument in full — laminations of iron and nickelous iron, folded to raise the pamor, and the reason a blade is read like a face",
+   "rel": "material"
+  },
+  {
+   "from": "mjolnir-pendant",
+   "type": "amulet",
+   "name": "Mjölnir pendant",
+   "as": "the commonest metal these pendants are cut from, and the metal the rest of northern Europe reaches for against the same kind of harm",
+   "rel": "material"
+  },
+  {
+   "from": "nkisi",
+   "type": "amulet",
+   "name": "Nkisi",
+   "as": "the material of the nails, and the reason the nailed figures are datable at all",
+   "rel": "material"
+  },
+  {
+   "from": "witch-bottle",
+   "type": "amulet",
+   "name": "Witch bottle",
+   "as": "what does the work inside: pins, needles and nails, the same metal English folklore hangs over the door",
+   "rel": "material"
+  },
+  {
+   "from": "bakongo-nkisi-craft",
+   "type": "tradition",
+   "name": "Bakongo nkisi craft",
+   "as": "the nails, and the reason the nailed figures can be dated at all",
+   "rel": "material"
+  },
+  {
+   "from": "european-folk-apotropaic",
+   "type": "tradition",
+   "name": "European folk apotropaic craft",
+   "as": "the tradition's one near-universal rule: cold iron turns the thing away, and a horseshoe is the cheapest piece of it a house could get",
+   "rel": "material"
+  },
+  {
+   "from": "copper",
+   "type": "material",
+   "name": "Copper and bronze",
+   "as": "the metal copper is always measured against, and the one that rusts and gets reforged out of the record",
+   "rel": "contrast"
+  },
+  {
+   "from": "hanging-at-door",
+   "type": "practice",
+   "name": "Hanging at the door",
+   "as": "the material doing the work in the European case, before any shape is given to it",
+   "rel": "material"
+  },
+  {
+   "from": "the-charm-in-the-wall",
+   "type": "story",
+   "name": "The charm in the wall",
+   "as": "what the bottles are filled with — pins, needles and nails, the metal the tradition trusts",
+   "rel": "material"
+  }
+ ]
+}

@@ -1,0 +1,508 @@
+{
+ "schema": 1,
+ "id": "amulet-or-talisman",
+ "type": "story",
+ "names": {
+  "name": "Amulet or talisman?",
+  "aliases": [
+   "the definitional argument",
+   "what to call the thing",
+   "amulet, charm, talisman"
+  ]
+ },
+ "region": [
+  "world",
+  "rome-italy",
+  "arabia-gulf",
+  "britain-ireland"
+ ],
+ "countries": [
+  "IT",
+  "GB",
+  "IQ",
+  "EG"
+ ],
+ "facets": {
+  "kind": "essay",
+  "era": "living"
+ },
+ "text": {
+  "what": "Two words, one tray of objects, and no agreement about which word goes on which object. Some writers cut the pair by direction — an amulet turns harm away, a talisman pulls fortune in. Some cut it by manufacture — an amulet is worn, a talisman is made, at an hour set by a sky. Some cut it by legitimacy, and the cut runs between a blessed object and a condemned one. Some refuse to cut it at all. This record sets out the positions with the names attached and declines to pick one, because the word this project uses on its own spine is a cataloguer's word and the objects were here first."
+ },
+ "sections": [
+  {
+   "h": "Pliny's sentence, and what it will not settle",
+   "text": "Start with the Latin, because everybody does.\n\nThe English word amulet comes from Latin amuletum, and Pliny's Natural History describes an amuletum as an object that protects a person from trouble. That is a definition by job: the thing is named for what its owner wants from it.\n\nWhere the Latin itself came from is not settled. The Online Etymology Dictionary calls its origin uncertain, offers a possible link to amoliri, 'to avert, to carry away', and turns down the Arabic derivation that gets repeated in popular writing.\n\n*Inference —* a definition by job cannot separate amulet from talisman, because both words name things people want something from. Every later cut here adds a second test to Pliny's first one."
+  },
+  {
+   "h": "Position one: away against towards",
+   "text": "The cut most English writers reach for is directional.\n\nWikipedia's talisman article states it flatly: talismans are closely linked with amulets and fill many of the same roles, but a key difference is in their functions — an amulet protects a person or possession against evil forces, while a talisman provides good fortune. Protection on one side, attraction on the other.\n\nOne click away, the same encyclopedia's amulet article does not hold that line. It calls amulet the proper, inclusive term, files good luck charm and devotional article underneath it as subsets, and treats phylactery as a general synonym. It then draws a different line entirely, between objects said to carry extraordinary properties of their own and objects held to do nothing without a qualifying faith — and admits in the next sentence that the lines blur almost from the outset, giving the Brown Scapular as its own counter-example.\n\nSo the encyclopedia a reader is likeliest to consult carries two incompatible schemes, one article apart, and this atlas cites both.\n\nThis project's own vocabulary splits the same way. `against.json` holds twenty-nine harms; twenty-eight are things to be stopped, and one, `attraction`, is glossed as \"the charm that pulls rather than blocks\". Nineteen claim rows sit under it as of 17 September 2026. On the directional cut, those nineteen are talismans filed in an atlas of amulets."
+  },
+  {
+   "h": "Position two: made under a star",
+   "text": "The Arabic word keeps something the English one dropped, and the people who used it were explicit about it.\n\nTalisman comes through French from Arabic ṭilsam (طِلَسْم, plural ṭalāsim), from Byzantine Greek telesma, 'completion, religious rite, payment', from the verb teleō, 'I complete, perform a rite'. The root is about finishing a procedure.\n\nThe tenth-century Abbasid mathematician Thabit ibn Qurra was regarded as the expert on them. In one of his texts he wrote: \"The noblest part of astronomy is the science of talismans.\" Adelard of Bath's translation of ibn Qurra's De imaginibus names the condition: a talisman has to be made at the moment of an auspicious celestial event, the maker's birth horoscope may bear on it, and a maker working with distractions or doubts produces one with no power in it.\n\nAdelard's translation is specific about materials, and the specification is by purpose: lead, iron, bronze, gold or silver for a talisman meant to earn love from a king, a family member or a peer; pitch and tar, bitumen and aloes for one meant to set people against each other, take money, or win a legal case.\n\nOn this position the test is not what the object does but how it was made. A blue bead bought off a tray is not a talisman however well it works for the buyer, and a figure cut at a named hour is one even if nothing comes of it. *Inference —* this is the only one of the three cuts that a person holding the object can apply without asking anybody, because the evidence is in the making and not in the outcome."
+  },
+  {
+   "h": "Position three: the cut is legitimacy, and it is made from inside",
+   "text": "The third position does not distinguish amulet from talisman. It distinguishes a permitted object from a forbidden one, and it is stated by religious authorities about their own people.\n\nThe Catechism of the Catholic Church, at paragraph 2111, defines what it calls \"superstition\" as \"the deviation of religious feeling and of the practices this feeling imposes\", and holds that attributing a magical significance to otherwise lawful practices falls under it. At 2117, in the passage on magic and sorcery, it is blunter: \"Wearing charms is also reprehensible.\" The same church distributes the Saint Benedict medal and the Brown Scapular, and its own teaching on sacramentals holds that these derive their power from the blessing of the Church rather than from the symbolism on the object. The cut is drawn inside one institution, and it is drawn at the question of where the power is said to sit.\n\nJewish authorities argued it too, and not with one voice. In the Middle Ages Maimonides and Sherira Gaon, and Sherira's son Hai Gaon, opposed the use of amulets and derided what the account this project read calls the \"folly of amulet writers\". Other rabbis approved them, in the same centuries, about the same objects.\n\n*Inference —* this cut runs across the other two, and confusing it with them is the commonest error in popular writing here. A Brown Scapular is a talisman on the directional test, an amulet on Pliny's, and neither on the Catechism's, which is arguing about something else."
+  },
+  {
+   "h": "What the people with the drawers actually write",
+   "text": "Museums and collectors had to put a word on a label, and they mostly refused the distinction.\n\nThe Pitt Rivers Museum's amulets guide, read on 17 September 2026, defines amulet from the Oxford English Dictionary as \"Anything worn about the person as a charm preventative against evil, mischief, disease, witchcraft, etc.\", defines charm in nearly the same words — anything worn about the person to avert evil or ensure prosperity — and does not define talisman at all. Note what \"or ensure prosperity\" does to position one: the museum's charm covers both directions at once.\n\nFrederick Elworthy's obituarist in the Dictionary of National Biography said he had made \"perhaps the finest collection of charms, amulets, and such-like trinkets in existence\" — three words for one shelf, in one clause, by a writer who felt no need to rank them.\n\nE. A. Wallis Budge's 1930 compendium runs 543 pages and its subtitle lists both words and moves on, covering Egyptian, Sumerian, Assyrian, Hebrew, Christian, Gnostic and Muslim amulets and talismans together. Flinders Petrie's 1914 Amulets sorted Egypt's material by shape and function rather than by either English word.\n\nThe Greeks, who had the practice without the argument, had no single word either: apotropaia, probaskania, periammata, periapta, profylaktika, phylaktiria, antipharmaca, alexicaca, alexipharmaca and alexima pharmaca, none of them dominant. Periapt survives in English and means only 'hung round' — a fourth cut, by how the thing is attached, and the only one with no theory in it."
+  },
+  {
+   "h": "Why this record stops here",
+   "text": "Four tests, and they will not reconcile, because they answer different questions. Direction asks what the owner wants. Manufacture asks what the maker did. Legitimacy asks what an authority permits. Attachment asks how it hangs.\n\nAn object can pass one and fail the next. A Thai phra khrueang is made by a named monk in a named process, which satisfies Adelard; it is carried for fortune and for protection at once, which breaks the directional cut down the middle; and whether it is permitted is argued inside Thai Buddhism itself.\n\n*Inference —* the pair is a European pair. An Egyptian wore a wedjat. A Bangkok collector buys by temple and by monk. A visitor at a Kyoto shrine takes home an omamori. None of them reaches for a word meaning amulet-in-general. The wide word belongs to the cataloguer, and this project is the cataloguer.\n\nSo the atlas uses amulet as its file heading, records what each tradition calls the thing in `names.name` and in its own script, prints what the object is for in `against[]` with a claimant attached, and leaves the argument where it found it — with Pliny, ibn Qurra, the Catechism, the Oxford English Dictionary and Elworthy's obituarist all still in the room."
+  }
+ ],
+ "dating": {
+  "period": "the first century CE to the present",
+  "from_year": 1,
+  "to_year": null,
+  "living": true,
+  "label": "Pliny's Latin, in the first century CE, to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-amulet",
+  "note": "Dated from Pliny's Natural History, a first-century work. The source read here gives no closer date for amuletum, so none is claimed. The English side of the argument is younger: amalettys in the mid-fifteenth century, talisman in the 1630s."
+ },
+ "kin": [
+  {
+   "to": "amulet-word",
+   "as": "the wide word this atlas files everything under, with its Latin and its hundred and fifty years of silence in English",
+   "rel": "term"
+  },
+  {
+   "to": "talisman-word",
+   "as": "the other half of the pair, and the one whose Arabic root still carries the clock the English word dropped",
+   "rel": "term"
+  },
+  {
+   "to": "charm-word",
+   "as": "the third word, which was a spoken formula for three hundred years before it was ever an object",
+   "rel": "term"
+  },
+  {
+   "to": "periapt",
+   "as": "the fourth cut — an object defined by hanging, with no theory in it at all",
+   "rel": "term"
+  },
+  {
+   "to": "apotropaic-word",
+   "as": "the scholar's adjective that was invented to sidestep this whole argument, and belongs to nobody who carries anything",
+   "rel": "term"
+  },
+  {
+   "to": "catholic-sacramentals",
+   "as": "the tradition where the legitimacy cut is drawn inside one institution, between a blessed medal and a condemned charm",
+   "rel": "tradition"
+  },
+  {
+   "to": "brown-scapular",
+   "as": "the object the encyclopedia itself names as the counter-example that breaks its own scheme",
+   "rel": "contrast"
+  },
+  {
+   "to": "islamic-talismanic",
+   "as": "the tradition ibn Qurra and his translators were writing for, where the hour of making is the definition",
+   "rel": "tradition"
+  },
+  {
+   "to": "phra-khrueang",
+   "as": "the object that passes one test, fails the next and is argued over inside its own tradition — the case against ruling",
+   "rel": "contrast"
+  },
+  {
+   "to": "free-to-use",
+   "as": "the other record about this project's own terms, rather than about anybody else's",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Amulet — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet"
+  },
+  {
+   "label": "Talisman — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Talisman"
+  }
+ ],
+ "sources": [
+  "s:wp-amulet",
+  "s:wp-talisman",
+  "s:wp-apotropaic-magic",
+  "s:web-etymonline-amulet",
+  "s:web-etymonline-talisman",
+  "s:web-wiktionary-periapt",
+  "s:web-prm-amulets-guide",
+  "s:web-ccc-first-commandment",
+  "s:web-budge-amulets-1930",
+  "s:web-petrie-amulets-1914",
+  "s:repo-atlas-vocab"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-amulet"
+  },
+  "fields": {
+   "sections": {
+    "tier": "cited",
+    "source": "s:wp-talisman",
+    "note": "the four stretches of this project's own reasoning are labelled inline; the count of nineteen attraction rows is counted from this repository's own records on 17 September 2026 and is a fact about the atlas, not about the world"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-17",
+ "blurb": "Two words, one tray of objects, and no agreement about which word goes on which object. Some writers cut the pair by direction — an amulet turns harm away, a talisman pulls fortune in.",
+ "region_terms": [
+  {
+   "key": "world",
+   "name": "Everywhere",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "use for a sign or a practice documented on more than two continents"
+  },
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "arabia-gulf",
+   "name": "Arabia and the Gulf",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "amulet-word",
+   "type": "term",
+   "name": "amulet",
+   "as": "the wide word this atlas files everything under, with its Latin and its hundred and fifty years of silence in English",
+   "rel": "term"
+  },
+  {
+   "to": "talisman-word",
+   "type": "term",
+   "name": "talisman",
+   "as": "the other half of the pair, and the one whose Arabic root still carries the clock the English word dropped",
+   "rel": "term"
+  },
+  {
+   "to": "charm-word",
+   "type": "term",
+   "name": "charm",
+   "as": "the third word, which was a spoken formula for three hundred years before it was ever an object",
+   "rel": "term"
+  },
+  {
+   "to": "periapt",
+   "type": "term",
+   "name": "periapt",
+   "as": "the fourth cut — an object defined by hanging, with no theory in it at all",
+   "rel": "term"
+  },
+  {
+   "to": "apotropaic-word",
+   "type": "term",
+   "name": "apotropaic",
+   "as": "the scholar's adjective that was invented to sidestep this whole argument, and belongs to nobody who carries anything",
+   "rel": "term"
+  },
+  {
+   "to": "catholic-sacramentals",
+   "type": "tradition",
+   "name": "Catholic sacramentals",
+   "as": "the tradition where the legitimacy cut is drawn inside one institution, between a blessed medal and a condemned charm",
+   "rel": "tradition"
+  },
+  {
+   "to": "brown-scapular",
+   "type": "amulet",
+   "name": "Brown Scapular",
+   "as": "the object the encyclopedia itself names as the counter-example that breaks its own scheme",
+   "rel": "contrast"
+  },
+  {
+   "to": "islamic-talismanic",
+   "type": "tradition",
+   "name": "Islamic talismanic craft",
+   "as": "the tradition ibn Qurra and his translators were writing for, where the hour of making is the definition",
+   "rel": "tradition"
+  },
+  {
+   "to": "phra-khrueang",
+   "type": "amulet",
+   "name": "Phra khrueang",
+   "as": "the object that passes one test, fails the next and is argued over inside its own tradition — the case against ruling",
+   "rel": "contrast"
+  },
+  {
+   "to": "free-to-use",
+   "type": "story",
+   "name": "Free to use",
+   "as": "the other record about this project's own terms, rather than about anybody else's",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-amulet",
+   "kind": "encyclopedia",
+   "title": "Amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-talisman",
+   "kind": "encyclopedia",
+   "title": "Talisman",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Talisman",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-apotropaic-magic",
+   "kind": "encyclopedia",
+   "title": "Apotropaic magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Apotropaic_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-etymonline-amulet",
+   "kind": "web",
+   "title": "amulet — Etymology, Origin & Meaning",
+   "publisher": "Online Etymology Dictionary (Douglas Harper)",
+   "url": "https://www.etymonline.com/word/amulet",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-etymonline-talisman",
+   "kind": "web",
+   "title": "talisman — Etymology, Origin & Meaning",
+   "publisher": "Online Etymology Dictionary (Douglas Harper)",
+   "url": "https://www.etymonline.com/word/talisman",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-wiktionary-periapt",
+   "kind": "web",
+   "title": "periapt — Wiktionary, the free dictionary",
+   "publisher": "Wiktionary",
+   "url": "https://en.wiktionary.org/wiki/periapt",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-prm-amulets-guide",
+   "kind": "web",
+   "title": "Amulets and Charms Introductory Guide",
+   "publisher": "Pitt Rivers Museum, University of Oxford",
+   "url": "https://web.prm.ox.ac.uk/amulets/index.php/introductory-guide/index.html",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-ccc-first-commandment",
+   "kind": "web",
+   "title": "Catechism of the Catholic Church — Part Three, Section Two, Chapter One, Article 1, III: You Shall Have No Other Gods Before Me",
+   "publisher": "Libreria Editrice Vaticana / The Holy See",
+   "url": "https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_one/article_1/iii_you_shall_have_no_other_gods_before_me.html",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-budge-amulets-1930",
+   "kind": "book",
+   "title": "Amulets and superstitions",
+   "publisher": "Oxford University Press / H. Milford, London and New York, 1930; digitised copy at the Internet Archive",
+   "url": "https://archive.org/details/b29978154",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-petrie-amulets-1914",
+   "kind": "book",
+   "title": "Amulets: illustrated by the Egyptian collection in University College, London",
+   "publisher": "Constable, London, 1914; digitised copy at the Internet Archive",
+   "url": "https://archive.org/details/amuletsillustrat00petruoft",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:repo-atlas-vocab",
+   "kind": "repository",
+   "title": "data/vocab/*.json — the controlled vocabularies, and the records in data/nodes/",
+   "publisher": "Amulet Atlas — this repository",
+   "accessed": "2026-09-17",
+   "note": "Read in place, and counted in place on 17 September 2026 across the 234 records then written. Counts quoted from it are counts of this atlas, never of the world."
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-amulet"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-amulet"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1 CE to now",
+ "country_names": [
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "IQ",
+   "name": "Iraq"
+  },
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "agnus-dei",
+   "type": "amulet",
+   "name": "Agnus Dei",
+   "as": "the long read where the Church's word sacramental meets the reader's word amulet, on an object credited with stopping floods",
+   "rel": "story"
+  },
+  {
+   "from": "brown-scapular",
+   "type": "amulet",
+   "name": "Brown Scapular",
+   "as": "the long read this is the sharpest case in: the Carmelites use the word charm to say what the scapular must not become",
+   "rel": "story"
+  },
+  {
+   "from": "challenge-coin",
+   "type": "amulet",
+   "name": "Challenge coin",
+   "as": "the long read this complicates: an object carried at all times, struck for a group, that claims to protect nobody",
+   "rel": "story"
+  },
+  {
+   "from": "curse-tablet",
+   "type": "amulet",
+   "name": "Curse tablet",
+   "as": "the long read about the words; this record is why the atlas needs more than one of them",
+   "rel": "story"
+  },
+  {
+   "from": "ladanka",
+   "type": "amulet",
+   "name": "Ladanka",
+   "as": "the long read where a church's own word for an object collides with the reader's",
+   "rel": "story"
+  },
+  {
+   "from": "mezuzah",
+   "type": "amulet",
+   "name": "Mezuzah",
+   "as": "the long read; this record is the atlas's sharpest case of a tradition rejecting the word the site is organised by",
+   "rel": "story"
+  },
+  {
+   "from": "miraculous-medal",
+   "type": "amulet",
+   "name": "Miraculous Medal",
+   "as": "the long read where a promise struck into an object meets a doctrine that qualifies it",
+   "rel": "story"
+  },
+  {
+   "from": "st-christopher-medal",
+   "type": "amulet",
+   "name": "St Christopher medal",
+   "as": "the long read this record is the hardest case for: the Church calls it a sacramental, the rim calls it insurance",
+   "rel": "story"
+  },
+  {
+   "from": "tefillin",
+   "type": "amulet",
+   "name": "Tefillin",
+   "as": "the long read; this record is here under protest from the tradition it belongs to, and says so",
+   "rel": "story"
+  },
+  {
+   "from": "catholic-sacramentals",
+   "type": "tradition",
+   "name": "Catholic sacramentals",
+   "as": "the long read about words, and the place where the Church's distinction between a sacramental and a charm gets set beside everyone else's",
+   "rel": "story"
+  },
+  {
+   "from": "key",
+   "type": "motif",
+   "name": "The key",
+   "as": "the long read on borrowed names, which is what the key of life is",
+   "rel": "story"
+  },
+  {
+   "from": "christopher-faraone",
+   "type": "person",
+   "name": "Christopher A. Faraone",
+   "as": "the long read on the two words; his 1992 title puts the talisman question in the Greek material directly",
+   "rel": "story"
+  },
+  {
+   "from": "amulet-word",
+   "type": "term",
+   "name": "amulet",
+   "as": "the long read that takes this disagreement apart instead of settling it",
+   "rel": "story"
+  },
+  {
+   "from": "talisman-word",
+   "type": "term",
+   "name": "talisman",
+   "as": "the long read on this pair of words and the museum labels that pick between them",
+   "rel": "story"
+  }
+ ]
+}

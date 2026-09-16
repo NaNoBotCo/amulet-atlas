@@ -1,0 +1,127 @@
+{
+ "schema": 1,
+ "id": "phylactery-word",
+ "type": "term",
+ "names": {
+  "name": "phylactery",
+  "native": "φυλακτήριον",
+  "script": "Greek",
+  "lang": "grc",
+  "said": "fih-LAK-ter-ee",
+  "aliases": [
+   "phylacteries",
+   "phylaktērion",
+   "phylaktēria"
+  ]
+ },
+ "etymology": {
+  "root": "Greek phylaktērion (φυλακτήριον) 'guarded post, safeguard, security', in later Greek 'amulet' or 'charm' > the Greek New Testament, where it occurs once > Latin and the languages of Europe > English phylactery",
+  "first_attested": "the Greek New Testament, at Matthew 23, in the accusative plural; the word passed from there into the languages of Europe",
+  "note": "Neither Aquila nor Symmachus uses phylacteries in their translations, so the New Testament occurrence carries the whole transmission on its own. Wikipedia's amulet article also uses phylactery as a general synonym for any unspecified amulet.",
+  "tier": "cited",
+  "source": "s:wp-tefillin"
+ },
+ "region": [
+  "greece-aegean",
+  "levant",
+  "western-europe",
+  "north-america"
+ ],
+ "countries": [
+  "IL",
+  "GB",
+  "US",
+  "GR"
+ ],
+ "facets": {
+  "language": [
+   "English",
+   "Greek",
+   "Hebrew"
+  ]
+ },
+ "text": {
+  "what": "Three words wearing one spelling, and a reader has to know which is meant. In Bible translation and in older Jewish scholarship, phylactery is the English word for tefillin — the leather boxes of Torah text bound to arm and head. In general English it is a loose synonym for any amulet. In tabletop gaming it names the object a lich hides its life force in, which is where most English speakers under forty meet the word first.",
+  "story": "The Greek starts as architecture and police work. Phylaktērion is a guarded post, a safeguard, a security; only in later Greek does it mean an amulet. The New Testament uses it once, at Matthew 23, for the boxes worn by Jews — a Greek word for a Jewish object, chosen by a Greek-writing author — and from that single occurrence it entered the European languages. Tefillin itself is a different word with a different history: the Targumim and the Peshitta are the first texts to use it, and Jastrow connects it to a Syriac word for attachments or hangings.\n\nThe archaeology and the word meet: finds at Qumran and the reference in Matthew 23 together show that by the first century CE many Jews were wearing some physical form of the object.\n\nThe third stage is datable and recent. The term appears in the first-edition Advanced Dungeons & Dragons Monster Manual in 1977, where a lich holds its status by conjurations, enchantments and a phylactery, and the nature and function of that phylactery is not explained. By the second edition in 1989 the object explicitly stores the lich's life force. The third-edition Monster Manual, in 2000, describes it as resembling a Jewish tefillin, and notes it can also be a ring or an amulet.\n\nThat borrowing has been argued with. Eric Silver has criticised the gaming term for its Jewish religious origin and proposed talisman as the neutral word instead. Wizards of the Coast has not retired the term; Paizo Publishing stopped using it in 2021, and its liches now keep their souls in a soul cage.\n\n*Inference —* the arc is one word carried three times by people who were not its owners: a Greek writer naming a Jewish practice, European translators keeping his choice, and a game designer reaching past both for a container that sounded old."
+ },
+ "dating": {
+  "from_year": 50,
+  "to_year": null,
+  "living": true,
+  "label": "from the Greek New Testament to the present",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-tefillin",
+  "note": "The from_year is a rounded first-century date for the Greek New Testament, not a reading this project took off a manuscript; treat it as approximate."
+ },
+ "kin": [
+  {
+   "to": "tefillin",
+   "as": "the object the Greek word was put on, and still the standard English rendering in Bible translation",
+   "rel": "same-word"
+  },
+  {
+   "to": "amulet-word",
+   "as": "the cover-word phylactery is sometimes swapped for, wrongly and often",
+   "rel": "contrast"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "as": "the tradition whose written amulets English also reaches for this word to describe",
+   "rel": "tradition"
+  },
+  {
+   "to": "kamea",
+   "as": "the written Jewish amulet a careless writer will call a phylactery, though the tradition keeps them apart",
+   "rel": "contrast"
+  },
+  {
+   "to": "divine-name",
+   "as": "what is actually inside the boxes: text, not a sign",
+   "rel": "motif"
+  },
+  {
+   "to": "the-charm-goes-digital",
+   "as": "where the third sense belongs — a charm that exists only inside a game's rules",
+   "rel": "story"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "tefillin",
+   "tell": "if somebody means the leather boxes, tefillin is the word the wearers use; phylactery is the translators' word for the same object"
+  }
+ ],
+ "links": [
+  {
+   "label": "Tefillin — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tefillin"
+  },
+  {
+   "label": "Phylactery — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Phylactery"
+  }
+ ],
+ "sources": [
+  "s:wp-tefillin",
+  "s:wp-phylactery",
+  "s:wp-amulet",
+  "s:wp-lich-dungeons-and-dragons"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-tefillin"
+  },
+  "fields": {
+   "dating": {
+    "tier": "inference",
+    "note": "the first-century date for the Greek New Testament is rounded, not read off a source in this record"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,459 @@
+{
+ "schema": 1,
+ "id": "djed-pillar",
+ "type": "amulet",
+ "names": {
+  "name": "Djed pillar",
+  "native": "𓊽",
+  "script": "Egyptian hieroglyphic",
+  "lang": "egy",
+  "said": "JED, anglicised; Ancient Egyptian ḏd, Coptic ϫⲱⲧ jōt, 'pillar'",
+  "aliases": [
+   "djed",
+   "djt",
+   "backbone of Osiris",
+   "pillar of stability"
+  ]
+ },
+ "etymology": {
+  "root": "Egyptian ḏd 'pillar', surviving into Coptic as ϫⲱⲧ jōt. The sign writes the word for stability.",
+  "note": "Egyptologists read the object it draws as Osiris's spine. Erich Neumann read it instead as a tree, and pointed out that Egypt was largely treeless, so the myth may be carrying the memory of timber imported from Syria. Gordon and Schwabe, in 2004, argued it is a bull's sacrum.",
+  "tier": "cited",
+  "source": "s:wp-djed"
+ },
+ "region": [
+  "ancient-egypt"
+ ],
+ "countries": [
+  "EG"
+ ],
+ "facets": {
+  "era": "ancient",
+  "status": "archaeological",
+  "portable": "placed",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A column with four flat bars stacked across its top, like a capital with too many collars. As an amulet it is small and hung at the neck; the Book of the Dead specifies a gold one for a mummy. It is also painted onto coffins, and carved life-size in wood for a ceremony that raises it upright.",
+  "story": "The djed is a spine that had to be set up again. In the Osiris myth, Set tricks Osiris into a coffin cut to fit him exactly and throws it in the Nile; it drifts to Byblos, a tree grows around it, the king of the land has the tree cut and stood in his palace as a pillar. Isis, searching, gets herself into the royal household, asks for that pillar, takes the coffin out of it, and then anoints the wood with myrrh and wraps it in linen. That is the pillar of djed.\n\nSo the ceremony is a resurrection staged as carpentry. At the Sed festival, the pharaoh with priests pulling on ropes hauls a wooden djed column upright at Memphis. It was read as Osiris's win over Set. The timing is agricultural: the month of Koiak, the fourth month of the Season of the Inundation, when the fields are being sown, inside the Osiris festival that ran from the thirteenth to the thirtieth of that month. A relief in Amenhotep III's Luxor temple shows the raising at his third Sed festival, in his thirty-seventh regnal year: the pillar stands in a shrine with a human body under a djed head, wedjat eyes, crook and flail, the feather crown and the sun disc; the king presents a loaded offering table; below, food-bearers weave between heavy-stepping dancers, singers give a short hymn to Ptah, and men box and do a stick dance. Sigrid Hodel-Hoenes, who describes the scene, reads the young women rattling Hathor sistra as the king's daughters, from the line of hieroglyphs above their heads: 'Children of the king praising (or charming) the noble djed pillar.'\n\nThe amulet is the private end of the same idea. It goes near the spine of a mummified body to make the resurrection happen, and the Book of the Dead gives a spell to be spoken over a gold djed hung at the mummy's neck: it promises the mummy will get the use of its spine back and be able to sit up.\n\n*Tradition holds —* the sign starts somewhere agricultural, in a pillar of reeds or sheaves with grain piled round it, and only later attaches to Ptah and then to Osiris. Ptah was called 'the noble djed' and carried a sceptre that fused the djed with the ankh. By the New Kingdom the sign belongs to Osiris.",
+  "how": "Cut or moulded small and hung at the neck, laid near the spine inside the wrappings, or painted on the coffin. The Book of the Dead's spell is spoken over a gold one. At festival scale it is a wooden column raised by ropes, with the king pulling and priests supporting it.",
+  "today": "Not made and not raised; the ceremony ended with the religion. The sign survives as a museum label and as a design in jewellery sold to Egypt's visitors. As of 2026 this project has read no source describing anybody carrying a djed for what the Book of the Dead promised it would do."
+ },
+ "dating": {
+  "period": "New Kingdom",
+  "from_year": -1549,
+  "to_year": -1068,
+  "living": false,
+  "label": "the New Kingdom, c. 1550–1069 BCE — the sign itself is far older",
+  "method": "textual",
+  "circa": true,
+  "tier": "inference",
+  "source": "s:wp-djed",
+  "note": "The source dates the djed's firm attachment to Osiris to the New Kingdom and does not date the amulet itself. The New Kingdom's span, c. 1550–1069 BCE, is taken from s:wp-taweret. *Inference* — the amulet is certainly older than this window, because the sign is called one of the more ancient in Egyptian religion and the Osiris raising is described from Dynasty XII onward; a window that can be sourced is entered here rather than a guess that cannot."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": [
+   "gold",
+   "faience"
+  ],
+  "worn": [
+   "neck",
+   "chest",
+   "grave"
+  ],
+  "made_by": "the embalming trade for the dead; the festival column was raised by the pharaoh with priests",
+  "inscription": "the sign itself; the Book of the Dead supplies a spell spoken over it rather than cut on it",
+  "script": "Egyptian hieroglyphic",
+  "colour": [
+   "gold",
+   "blue-green"
+  ],
+  "single_use": true,
+  "source": "s:wp-djed",
+  "note": "Gold is the material the Book of the Dead spell names. Faience is the usual amulet material in Egypt and is entered on that general ground, not on a djed-specific statement in this source."
+ },
+ "against": [
+  {
+   "harm": "the-dead",
+   "who": "the Book of the Dead, as summarised in the source: a spell spoken over a gold djed hung at the mummy's neck promises the mummy will regain use of its spine and be able to sit up",
+   "source": "s:wp-djed",
+   "tier": "cited"
+  }
+ ],
+ "holdings": [
+  {
+   "museum": "british-museum",
+   "what": "djed amulets in the Egyptian collection",
+   "source": "s:wp-british-museum"
+  },
+  {
+   "museum": "petrie",
+   "what": "djed amulets in the excavated amulet series",
+   "source": "s:wp-petrie-museum-of-egyptian-archaeology"
+  }
+ ],
+ "kin": [
+  {
+   "to": "ankh-amulet",
+   "as": "the sign it is run together with — 'life, dominion and stability' — and the composite of the three was worn more than either alone",
+   "rel": "kin"
+  },
+  {
+   "to": "tyet-knot",
+   "as": "the sign it is regularly paired with in writing; Egyptologists read the two together as the duality of life",
+   "rel": "kin"
+  },
+  {
+   "to": "heart-scarab",
+   "as": "the other amulet the wrappings required at the chest, aimed at a different organ and a different threat",
+   "rel": "kin"
+  },
+  {
+   "to": "egyptian-amulet-craft",
+   "as": "the tradition that placed it, by the rules of a funeral",
+   "rel": "tradition"
+  },
+  {
+   "to": "grave-deposit",
+   "as": "the practice this amulet exists inside",
+   "rel": "practice"
+  },
+  {
+   "to": "gold",
+   "as": "the material the Book of the Dead's spell specifies for it",
+   "rel": "material"
+  },
+  {
+   "to": "the-charm-in-the-wall",
+   "as": "the long read on charms built into structures — and the raised djed is the largest one Egypt built",
+   "rel": "story"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "ankh-amulet",
+   "tell": "the djed has no loop: it is a shaft with four bars across the top"
+  }
+ ],
+ "links": [
+  {
+   "label": "Djed — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Djed"
+  }
+ ],
+ "sources": [
+  "s:wp-djed",
+  "s:wp-ankh",
+  "s:wp-tyet",
+  "s:wp-taweret",
+  "s:wp-ancient-egyptian-funerary-practices",
+  "s:wp-british-museum",
+  "s:wp-petrie-museum-of-egyptian-archaeology"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-djed"
+  },
+  "fields": {
+   "dating": {
+    "tier": "inference",
+    "source": "s:wp-djed",
+    "note": "the amulet is undated in the source; the window entered is the sign's firm Osirian period, and the note says so"
+   },
+   "object": {
+    "tier": "cited",
+    "source": "s:wp-djed",
+    "note": "faience is a general Egyptian amulet material, not a djed-specific statement in this source"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Djed.svg",
+  "File:Djed pillar amulet MET DP109374.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A column with four flat bars stacked across its top, like a capital with too many collars. As an amulet it is small and hung at the neck; the Book of the Dead specifies a gold one for a mummy.",
+ "region_terms": [
+  {
+   "key": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Nile valley and delta, Predynastic through Roman Egypt"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "ankh-amulet",
+   "type": "amulet",
+   "name": "Ankh amulet",
+   "as": "the sign it is run together with — 'life, dominion and stability' — and the composite of the three was worn more than either alone",
+   "rel": "kin"
+  },
+  {
+   "to": "tyet-knot",
+   "type": "amulet",
+   "name": "Tyet",
+   "as": "the sign it is regularly paired with in writing; Egyptologists read the two together as the duality of life",
+   "rel": "kin"
+  },
+  {
+   "to": "heart-scarab",
+   "type": "amulet",
+   "name": "Heart scarab",
+   "as": "the other amulet the wrappings required at the chest, aimed at a different organ and a different threat",
+   "rel": "kin"
+  },
+  {
+   "to": "egyptian-amulet-craft",
+   "type": "tradition",
+   "name": "Egyptian amulet craft",
+   "as": "the tradition that placed it, by the rules of a funeral",
+   "rel": "tradition"
+  },
+  {
+   "to": "grave-deposit",
+   "type": "practice",
+   "name": "Grave deposit",
+   "as": "the practice this amulet exists inside",
+   "rel": "practice"
+  },
+  {
+   "to": "gold",
+   "type": "material",
+   "name": "Gold",
+   "as": "the material the Book of the Dead's spell specifies for it",
+   "rel": "material"
+  },
+  {
+   "to": "the-charm-in-the-wall",
+   "type": "story",
+   "name": "The charm in the wall",
+   "as": "the long read on charms built into structures — and the raised djed is the largest one Egypt built",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-djed",
+   "kind": "encyclopedia",
+   "title": "Djed",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Djed",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ankh",
+   "kind": "encyclopedia",
+   "title": "Ankh",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ankh",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tyet",
+   "kind": "encyclopedia",
+   "title": "Tyet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tyet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-taweret",
+   "kind": "encyclopedia",
+   "title": "Taweret",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Taweret",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ancient-egyptian-funerary-practices",
+   "kind": "encyclopedia",
+   "title": "Ancient Egyptian funerary practices",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_funerary_practices",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-british-museum",
+   "kind": "encyclopedia",
+   "title": "British Museum",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/British_Museum",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-petrie-museum-of-egyptian-archaeology",
+   "kind": "encyclopedia",
+   "title": "Petrie Museum of Egyptian Archaeology",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Petrie_Museum_of_Egyptian_Archaeology",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-djed"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-djed"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-djed"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-djed"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-djed"
+  },
+  "dating": {
+   "tier": "inference",
+   "source": "s:wp-djed",
+   "note": "the amulet is undated in the source; the window entered is the sign's firm Osirian period, and the note says so"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-djed",
+   "note": "faience is a general Egyptian amulet material, not a djed-specific statement in this source"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "the-dead",
+   "label": "Danger to the dead",
+   "gloss": "charms put in a grave for the person in it",
+   "who": "the Book of the Dead, as summarised in the source: a spell spoken over a gold djed hung at the mummy's neck promises the mummy will regain use of its spine and be able to sit up",
+   "quote": "",
+   "source": "s:wp-djed",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "gold",
+   "label": "Gold",
+   "kind": "metal"
+  },
+  {
+   "key": "faience",
+   "label": "Faience",
+   "kind": "fired",
+   "note": "glazed quartz paste; Egypt's amulet material at scale"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "chest",
+   "label": "On the chest, under the shirt",
+   "group": "body"
+  },
+  {
+   "key": "grave",
+   "label": "In the grave",
+   "group": "placed",
+   "note": "most surviving ancient amulets are here because somebody was buried in them"
+  }
+ ],
+ "form_fact": {
+  "key": "pendant",
+  "label": "Pendant"
+ },
+ "holding_facts": [
+  {
+   "key": "british-museum",
+   "label": "The British Museum",
+   "city": "London",
+   "country": "GB",
+   "url": "",
+   "what": "djed amulets in the Egyptian collection",
+   "accession": "",
+   "source": "s:wp-british-museum"
+  },
+  {
+   "key": "petrie",
+   "label": "The Petrie Museum of Egyptian Archaeology",
+   "city": "London",
+   "country": "GB",
+   "url": "",
+   "what": "djed amulets in the excavated amulet series",
+   "accession": "",
+   "source": "s:wp-petrie-museum-of-egyptian-archaeology"
+  }
+ ],
+ "span": "1550 BCE – 1069 BCE",
+ "country_names": [
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "ankh-amulet",
+   "type": "amulet",
+   "name": "Ankh amulet",
+   "as": "the third of the run 'life, dominion and stability'; the composite amulet joining them was commoner than the ankh alone",
+   "rel": "kin"
+  },
+  {
+   "from": "tyet-knot",
+   "type": "amulet",
+   "name": "Tyet",
+   "as": "the sign it is written beside; paired, Egyptologists read the two as the duality of life",
+   "rel": "kin"
+  },
+  {
+   "from": "egyptian-amulet-craft",
+   "type": "tradition",
+   "name": "Egyptian amulet craft",
+   "as": "the spine it hung at a mummy's neck, and raised as a column at the Sed festival",
+   "rel": "carries"
+  },
+  {
+   "from": "tree",
+   "type": "motif",
+   "name": "The tree",
+   "as": "the sign as a pillar: Neumann's tree fetish, in a country that had to import its timber",
+   "rel": "carried-by"
+  }
+ ]
+}

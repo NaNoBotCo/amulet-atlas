@@ -1,0 +1,403 @@
+{
+ "schema": 1,
+ "id": "british-museum",
+ "type": "org",
+ "names": {
+  "name": "The British Museum",
+  "aliases": [
+   "BM"
+  ],
+  "sort": "British Museum"
+ },
+ "region": [
+  "britain-ireland"
+ ],
+ "countries": [
+  "GB"
+ ],
+ "facets": {
+  "kind": "museum"
+ },
+ "text": {
+  "what": "London museum of human history, founded by act of parliament in 1753 and open to the public since 15 January 1759. It was the world's first public national museum and charges no admission except for loan exhibitions. For this atlas it is the largest single holding of Egyptian and Mesopotamian amulets in one building, and the institution whose keeper wrote the most-reprinted book about them.",
+  "story": "The museum began with Sir Hans Sloane's 71,000 objects, bought for the nation for £20,000 after his death in 1753 — far under the £50,000 or more his collection was then reckoned at. Among them were 160 Egyptian objects, which is where the Egyptian collection starts. In 1802 George III presented the Rosetta Stone. Henry Salt, British consul in Egypt, supplied much of the rest from 1818 onward.\n\nE. A. Wallis Budge ran the Egyptian and Assyrian department as keeper from 1894 to 1924 and did the buying, in Egypt, Sudan and Iraq. His methods are on the record in his own memoir and in later assessment: the archaeologist Brian M. Fagan has called him \"one of the major illegal looters of antiquities\".\n\nThe collection's size is stated two ways in the same account: eight million artefacts in the permanent collection, and over 13 million objects in total. This record gives both rather than picking one.\n\nThe museum's published position on returns rests on statute. It argues that the British Museum Act 1963 prevents any object from leaving the collection once it has entered it — \"The Museum owns its collections, but its Trustees are not empowered to dispose of them\" — and that the \"restitutionist premise, that whatever was made in a country must return to an original geographical site, would empty both the British Museum and the other great museums of the world\". It has nevertheless returned Tasmanian Aboriginal burial remains where legislation allowed, and it has a published policy on human remains. The Parthenon sculptures claimed by Greece, the Benin Bronzes claimed by Nigeria and the Ethiopian tabots are the standing claims; preliminary talks with the Greek government began in late 2022.",
+  "today": "On 28 April 2020 the museum put over 1.9 million images of its collection online. Most images that are © The Trustees of the British Museum carry a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International licence: free to share and adapt for non-commercial use with a credit to the museum, and a separate licence from British Museum Images for anything the museum deems commercial. *Inference —* that licence is not on Wikimedia Commons' accepted list, because Commons requires that commercial use be allowed. So this atlas can link to a British Museum image and cannot host one, and that is a fact about the licence, not a judgement about the museum."
+ },
+ "dating": {
+  "period": "Georgian to now",
+  "from_year": 1753,
+  "to_year": null,
+  "living": true,
+  "label": "1753 to the present",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-british-museum",
+  "note": "Royal assent to the founding act, 7 June 1753; opened to the public 15 January 1759."
+ },
+ "geo": {
+  "lat": 51.5194,
+  "lon": -0.127,
+  "precision": "street",
+  "source": "hand-placed on Great Russell Street, Bloomsbury, from the museum's stated location"
+ },
+ "address": {
+  "street": "Great Russell Street",
+  "city": "London",
+  "country": "GB"
+ },
+ "tags": [
+  {
+   "tag": "free-entry",
+   "source": "s:wp-british-museum",
+   "tier": "cited",
+   "note": "no admission fee except for loan exhibitions, as for all UK national museums"
+  },
+  {
+   "tag": "repatriation",
+   "source": "s:wp-british-museum",
+   "tier": "cited",
+   "note": "standing claims from Greece, Nigeria and Ethiopia; Tasmanian Aboriginal burial remains returned; talks with the Greek government opened in late 2022"
+  }
+ ],
+ "kin": [
+  {
+   "to": "british-museum-room-1",
+   "as": "the room inside it this atlas sends a reader to",
+   "rel": "place"
+  },
+  {
+   "to": "wallis-budge",
+   "as": "its keeper of Egyptian and Assyrian antiquities from 1894 to 1924, and the buyer of much of what is here",
+   "rel": "person"
+  },
+  {
+   "to": "wedjat-eye",
+   "as": "held here in quantity — the Egyptian amulet the collection has most of",
+   "rel": "carries"
+  },
+  {
+   "to": "incantation-bowl",
+   "as": "the Mesopotamian object Budge's Iraq missions brought to Bloomsbury",
+   "rel": "carries"
+  },
+  {
+   "to": "wikimedia-commons",
+   "as": "the repository this museum's images cannot go to, because the licence forbids commercial use",
+   "rel": "contrast"
+  },
+  {
+   "to": "metropolitan-museum",
+   "as": "the comparison case: the same kind of collection, released under CC0 instead",
+   "rel": "contrast"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read on ownership; the 1963 Act argument is its clearest statement of one side",
+   "rel": "story"
+  },
+  {
+   "to": "free-to-use",
+   "as": "the long read on licensing, where this museum is the worked example of a licence that looks open and is not",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "British Museum — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/British_Museum"
+  },
+  {
+   "label": "Collection online",
+   "url": "https://www.britishmuseum.org/collection"
+  }
+ ],
+ "sources": [
+  "s:wp-british-museum",
+  "s:web-bm-images-ianvisits",
+  "s:web-commons-licensing",
+  "s:wp-e-a-wallis-budge"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-british-museum"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "cited",
+    "source": "s:web-bm-images-ianvisits",
+    "note": "the licence name, the image count and the release date come from a dated report of the museum's announcement; the museum's own rights page returned an error to this project, so the terms were not read on the museum's site. The consequence for Commons is marked as inference."
+   },
+   "geo": {
+    "tier": "inference",
+    "note": "geocoded by hand to Great Russell Street; no published coordinate was read"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:British Museum from NE 2.JPG"
+ ],
+ "confidence": "high",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "London museum of human history, founded by act of parliament in 1753 and open to the public since 15 January 1759. It was the world's first public national museum and charges no admission except for loan exhibitions.",
+ "region_terms": [
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "british-museum-room-1",
+   "type": "place",
+   "name": "Room 1: Enlightenment, the British Museum",
+   "as": "the room inside it this atlas sends a reader to",
+   "rel": "place"
+  },
+  {
+   "to": "wallis-budge",
+   "type": "person",
+   "name": "E. A. Wallis Budge",
+   "as": "its keeper of Egyptian and Assyrian antiquities from 1894 to 1924, and the buyer of much of what is here",
+   "rel": "person"
+  },
+  {
+   "to": "wedjat-eye",
+   "type": "amulet",
+   "name": "Wedjat eye",
+   "as": "held here in quantity — the Egyptian amulet the collection has most of",
+   "rel": "carries"
+  },
+  {
+   "to": "incantation-bowl",
+   "type": "amulet",
+   "name": "Incantation bowl",
+   "as": "the Mesopotamian object Budge's Iraq missions brought to Bloomsbury",
+   "rel": "carries"
+  },
+  {
+   "to": "wikimedia-commons",
+   "type": "org",
+   "name": "Wikimedia Commons",
+   "as": "the repository this museum's images cannot go to, because the licence forbids commercial use",
+   "rel": "contrast"
+  },
+  {
+   "to": "metropolitan-museum",
+   "type": "org",
+   "name": "The Metropolitan Museum of Art",
+   "as": "the comparison case: the same kind of collection, released under CC0 instead",
+   "rel": "contrast"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read on ownership; the 1963 Act argument is its clearest statement of one side",
+   "rel": "story"
+  },
+  {
+   "to": "free-to-use",
+   "type": "story",
+   "name": "Free to use",
+   "as": "the long read on licensing, where this museum is the worked example of a licence that looks open and is not",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-british-museum",
+   "kind": "encyclopedia",
+   "title": "British Museum",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/British_Museum",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-bm-images-ianvisits",
+   "kind": "web",
+   "title": "British Museum makes 1.9 million images available for free",
+   "publisher": "ianVisits",
+   "url": "https://www.ianvisits.co.uk/articles/british-museum-makes-1-9-million-images-available-for-free-36338/",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-commons-licensing",
+   "kind": "web",
+   "title": "Commons:Licensing",
+   "publisher": "Wikimedia Commons",
+   "url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-e-a-wallis-budge",
+   "kind": "encyclopedia",
+   "title": "E. A. Wallis Budge",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/E._A._Wallis_Budge",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-british-museum"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-british-museum"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:web-bm-images-ianvisits",
+   "note": "the licence name, the image count and the release date come from a dated report of the museum's announcement; the museum's own rights page returned an error to this project, so the terms were not read on the museum's site. The consequence for Commons is marked as inference."
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-british-museum"
+  },
+  "geo": {
+   "tier": "inference",
+   "note": "geocoded by hand to Great Russell Street; no published coordinate was read"
+  },
+  "address": {
+   "tier": "cited",
+   "source": "s:wp-british-museum"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [
+  {
+   "key": "free-entry",
+   "label": "Free to enter",
+   "group": "visit",
+   "evidence": "the institution's own admissions page",
+   "source": "s:wp-british-museum",
+   "note": "no admission fee except for loan exhibitions, as for all UK national museums",
+   "tier": "cited",
+   "url": ""
+  },
+  {
+   "key": "repatriation",
+   "label": "Repatriation under way",
+   "group": "collection",
+   "evidence": "a published claim, agreement or return, named and dated",
+   "source": "s:wp-british-museum",
+   "note": "standing claims from Greece, Nigeria and Ethiopia; Tasmanian Aboriginal burial remains returned; talks with the Greek government opened in late 2022",
+   "tier": "cited",
+   "url": ""
+  }
+ ],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1753 CE to now",
+ "country_names": [
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "hei-tiki",
+   "type": "amulet",
+   "name": "Hei-tiki",
+   "as": "the overseas collection holding about fifty, and part of the reason repatriation is a live question",
+   "rel": "org"
+  },
+  {
+   "from": "illa",
+   "type": "amulet",
+   "name": "Illa",
+   "as": "one of the collections holding Inca conopas",
+   "rel": "org"
+  },
+  {
+   "from": "jimat",
+   "type": "amulet",
+   "name": "Jimat",
+   "as": "where the Raffles coins ended up, and where the standard catalogue of them was written",
+   "rel": "held-at"
+  },
+  {
+   "from": "mesopotamian-apotropaic",
+   "type": "tradition",
+   "name": "Mesopotamian household protection",
+   "as": "one of the collections where these objects can be seen",
+   "rel": "org"
+  },
+  {
+   "from": "british-museum-room-1",
+   "type": "place",
+   "name": "Room 1: Enlightenment, the British Museum",
+   "as": "the institution this room explains — its founding collection, and the argument it makes about keeping things",
+   "rel": "org"
+  },
+  {
+   "from": "flinders-petrie",
+   "type": "person",
+   "name": "Flinders Petrie",
+   "as": "the museum whose Egyptology he fought with, and where he showed the Fayum portraits he forced Cairo to give back",
+   "rel": "org"
+  },
+  {
+   "from": "wallis-budge",
+   "type": "person",
+   "name": "E. A. Wallis Budge",
+   "as": "the collection he bought for and then kept, and the one his acquisition methods are now argued about inside",
+   "rel": "org"
+  },
+  {
+   "from": "metropolitan-museum",
+   "type": "org",
+   "name": "The Metropolitan Museum of Art",
+   "as": "the comparison case: a similar collection published under a non-commercial licence instead",
+   "rel": "contrast"
+  },
+  {
+   "from": "quai-branly",
+   "type": "org",
+   "name": "Musée du quai Branly — Jacques Chirac",
+   "as": "the other institution where the inalienability argument is made, under a different statute",
+   "rel": "parallel"
+  },
+  {
+   "from": "wikimedia-commons",
+   "type": "org",
+   "name": "Wikimedia Commons",
+   "as": "the collection whose non-commercial licence does not clear it, however large the collection is",
+   "rel": "contrast"
+  },
+  {
+   "from": "budge-plates",
+   "type": "art",
+   "name": "Budge's amulet plates",
+   "as": "the collection Budge built and photographed from, and the one most of these objects still sit in",
+   "rel": "held-at"
+  },
+  {
+   "from": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the institution that refuses most often, and publishes the Act it refuses under",
+   "rel": "org"
+  }
+ ]
+}

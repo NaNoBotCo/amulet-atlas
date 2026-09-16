@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "id": "red-thread",
+ "type": "motif",
+ "names": {
+  "name": "The red thread",
+  "native": "חוט השני",
+  "script": "Hebrew",
+  "lang": "he",
+  "said": "khutt hashani, the scarlet thread",
+  "aliases": ["red string", "scarlet thread", "kautuka", "martenitsa thread", "mărțișor"]
+ },
+ "region": ["levant", "balkans", "south-asia", "china", "diaspora"],
+ "countries": ["IL", "BG", "MK", "RO", "MD", "AL", "GR", "IN", "CN", "US"],
+ "facets": {"era": "medieval", "family": "thread", "hemisphere": ["N", "E", "W"]},
+ "text": {
+  "what": "A length of red wool or silk tied round a wrist. In the Jewish folk custom it is thin scarlet wool worn as a bracelet or band. In Bulgaria and North Macedonia red is twisted with white into a martenitsa, usually as two small dolls, Pizho in white and Penda in red. In Romania and Moldova the same two threads make a mărțișor with a charm hung from them.",
+  "story": "The thread's Jewish version is a folk custom, and the sources are careful about how thin its textual footing is. A scarlet thread tied about the wrist appears at Genesis 38, when Tamar gives birth to twins. As early as Rabbi Shmuel ben Hafni Gaon, commentators noted that a red string on the hand may be a good omen, and some say it could go round a finger; one early commentary, Aggadas Bereishis, says Joseph's coat was the same as his brothers' except that Jacob put a red string on the cuffs. But there is no written requirement in the Torah, in halacha or in Kabbalistic texts to tie a red string on a wrist, and it is not clear the mentions of red string as a good omen describe a widespread practice. The one public exhortation on record is from the 1490s: when Jews were barred from wearing tefillin, Rabbi Abraham Saba recommended wearing a red string on the hand instead, to remember the commandment.\n\nThe modern trade is documented. Elderly women sell scarlet thread to pilgrims and visitors in Israel, especially in the Old City of Jerusalem. Outside Israel it became popular in the late 1990s with celebrities, many of them not Jewish — Madonna and her children, Leonardo DiCaprio, Michael Jackson, Ariana Grande, Tucker Carlson, Jared Kushner — and the wider popularity is often linked to Philip Berg's Kabbalah Centre. Whether that is the same object as the thread a Jerusalem woman sells is an argument with named parties on both sides; the Kabbalah Centre's critics include the Kabbalist Michael Laitman, who holds that practical Kabbalah has no use for red strings.\n\nThe Balkan thread runs on a calendar instead. Martenitsi are given, never bought for oneself, from Baba Marta Day on 1 March, and worn pinned to clothing or at the wrist or neck until the wearer sees a stork or a swallow back from migration, or a tree in blossom — then taken off, and in some places tied to the branch of a fruit tree to give the tree health and luck. Red and white are read as a wish for good health; white for the purity of melting snow, red for the setting sun and for life. Both martenitsa and mărțișor are inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity.\n\n*Inference —* the red string is worn on wrists in Jewish, Hindu and Chinese practice, and the Jewish source itself says so without claiming a link between them. This atlas reports the three and does not draw a line between them, because nothing read here draws one."
+ },
+ "kin": [
+  {"to": "red-string", "as": "the amulet itself — the scarlet wool on a wrist", "rel": "carried-by"},
+  {"to": "martenitsa", "as": "the Balkan version, with a date to put it on and a bird that says take it off", "rel": "carried-by"},
+  {"to": "knot", "as": "the wider family: a charm whose working part is that somebody tied it", "rel": "whole"},
+  {"to": "thread", "as": "the material, and the reason almost none of these survive in a museum drawer", "rel": "material"},
+  {"to": "tefillin", "as": "the commandment Rabbi Abraham Saba proposed the string as a reminder of, in the 1490s", "rel": "origin"},
+  {"to": "jewish-practical-kabbalah", "as": "the tradition the string is popularly attached to, and which several Kabbalists say has no use for it", "rel": "tradition"},
+  {"to": "unesco-ich", "as": "the body whose Representative List carries the martenitsa and the mărțișor", "rel": "org"},
+  {"to": "renewing-yearly", "as": "the practice the Balkan thread runs on: a start date, a sign, an end", "rel": "practice"},
+  {"to": "evil-eye-bracelet", "as": "the other thing sold off a tray in Jerusalem and Istanbul for the same stated harm", "rel": "parallel"}
+ ],
+ "dating": {
+  "period": "late 15th century to the present",
+  "from_year": 1490,
+  "to_year": null,
+  "living": true,
+  "label": "1490s to now, as a recommended practice; the Genesis passage is older and is not a prescription",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-red-string-kabbalah",
+  "note": "Dated from Rabbi Abraham Saba's recommendation in the 1490s, the only public exhortation the source records. The scarlet thread at Genesis 38 is a narrative detail, not an instruction, and is not used to date the practice."
+ },
+ "object": {
+  "form": "cord",
+  "materials": ["thread", "cloth"],
+  "worn": ["wrist", "finger", "neck", "chest"],
+  "made_by": "given by a friend or relative in the Balkan custom, where buying one for yourself is not the form",
+  "colour": ["red", "white"],
+  "single_use": true,
+  "source": "s:wp-red-string-kabbalah"
+ },
+ "against": [
+  {"harm": "evil-eye", "who": "the Jewish folk custom, which names the harm as ayin hara", "source": "s:wp-red-string-kabbalah", "tier": "cited"},
+  {"harm": "bad-luck", "who": "the same custom, described as a way to ward off misfortune", "source": "s:wp-red-string-kabbalah", "tier": "cited"},
+  {"harm": "illness", "who": "Bulgarian and Macedonian practice: the red and white threads are a wish for good health", "source": "s:wp-martenitsa", "tier": "cited"},
+  {"harm": "house", "who": "Romanian and Moldovan observers, who record the pendant as a talisman for the wearer's health and beauty", "source": "s:wp-m-r-i-or", "tier": "cited"}
+ ],
+ "recognitions": [
+  {"by": "unesco-ich", "what": "Martenitsa inscribed on the Representative List of the Intangible Cultural Heritage of Humanity", "year": null, "source": "s:wp-martenitsa"},
+  {"by": "unesco-ich", "what": "Mărțișor inscribed on the Representative List of the Intangible Cultural Heritage of Humanity", "year": null, "source": "s:wp-m-r-i-or"}
+ ],
+ "links": [{"label": "Red string (Kabbalah) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Red_string_(Kabbalah)"}],
+ "sources": ["s:wp-red-string-kabbalah", "s:wp-martenitsa", "s:wp-m-r-i-or", "s:wp-practical-kabbalah", "s:wp-tefillin"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-red-string-kabbalah"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:wp-red-string-kabbalah", "note": "the closing refusal to connect the Jewish, Hindu and Chinese threads is this project's position and is marked inference there"},
+   "recognitions": {"tier": "cited", "source": "s:wp-martenitsa", "note": "no inscription year was published in what was read, so the year stays null"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Red string bracelet.jpg", "File:Martenitsa.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

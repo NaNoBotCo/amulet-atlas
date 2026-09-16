@@ -1,0 +1,427 @@
+{
+ "schema": 1,
+ "id": "hex-sign",
+ "type": "amulet",
+ "names": {
+  "name": "Hex sign",
+  "native": "Hexefoos",
+  "script": "Latin",
+  "lang": "pdc",
+  "said": "HEKS sine",
+  "aliases": [
+   "barn star",
+   "Blume",
+   "Sterne",
+   "witch foot",
+   "painted prayer"
+  ]
+ },
+ "etymology": {
+  "root": "English hex sign, from Pennsylvania German hex (German Hexe, Dutch heks), 'witch'. The compound is not old: the term was not used until the twentieth century, after Wallace Nutting's Pennsylvania Beautiful appeared in 1924.",
+  "note": "Nutting was not a Pennsylvanian; he interviewed farmers about their barn decoration. Before his book there was no standard term, and Pennsylvania German farmers called the designs Blume or Sterne — flowers or stars. One farmer used Hexefoos, witch foot. The name then became popular with Pennsylvania Germans themselves during the growth of the southeastern Pennsylvania tourist trade.",
+  "folk": "A competing account has English settlers mispronouncing sechs, the German word for six, as hex — the signs were traditionally adorned with six-pointed stars.",
+  "tier": "cited",
+  "source": "s:wp-hex-sign"
+ },
+ "region": [
+  "north-america"
+ ],
+ "countries": [
+  "US"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "contested",
+  "portable": "fixed",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A painted disc on the side of a barn: usually a star inside a circular border, in bright colour on white. The later commercial ones are separate discs, screen-printed and mounted, carrying stars, compass roses, hearts, tulips, a tree of life, or the stylised bird called a distelfink. They are found on Pennsylvania Dutch barns in central and southeastern Pennsylvania, densest in Berks, Lancaster and Lehigh counties. The Amish do not use them.",
+  "story": "Two schools of thought exist about what these are, and this atlas's job here is to give both. One ascribes a talismanic nature to the signs. The other holds that they are purely decorative. Both schools accept that \"there are sometimes superstitions associated with certain hex sign themes\", and neither ascribes strong magical power to them.\n\nThe decorative side has a name and a date: Alfred L. Shoemaker, whose 32-page Hex, No! came out from the Pennsylvania Dutch Folklore Center in Lancaster in 1953 and whose title is its argument. *Inference —* this record has read that book's catalogue record and not its pages, and takes the phrase usually quoted from it, \"chust for nice\", from accounts of it rather than from the text. The scholarship the argument has run through since is Thomas E. Graves's 1984 doctoral dissertation at the University of Pennsylvania, The Pennsylvania German Hex Sign: A Study in Folk Process, and Hex Signs: Pennsylvania Dutch Barn Symbols and Their Meaning, by Don Yoder and Graves, published by Stackpole in 2000.\n\nThe chronology matters to the argument, because it is short. Barn painting of this kind is a late development in Pennsylvania Dutch folk art. Before the 1830s the cost of paint meant most barns went unpainted; the stars-in-circles began to appear in the early nineteenth century and became widespread decades later, when commercial ready-mixed paint became easy to buy. Barn decorating peaked in the early twentieth century, when there were many artists who specialised in it, drawing on a large repertoire and combining elements. The geometric patterns of quilts show up in the designs; the hearts and tulips are the ones found on fraktur, the elaborately lettered birth, baptism and marriage certificates of the same community.\n\nThe mountable sign is a documented commercial invention. Jacob Zook of Paradise, Pennsylvania, claimed to have originated it in 1942, based on traditional designs, to be sold in souvenir shops along the Lincoln Highway; Edward Buchak of Gilbertsville designed and screen-printed many of the Zook signs. William Schuster, Milton Hill, Johnny Ott and Johnny and Eric Claypoole also worked in that revival. It is the modern artists who tend to stress meanings: a horse head to protect animals from disease and the building from lightning, a dove for peace and contentment. The Pennsylvania Bureau of Radiation Protection built the international radiation symbol into a yellow-and-red hex sign design for its official logo.\n\nTwo more readings have names attached. Lee R. Gandee, in Strange Experience: The Autobiography of a Hexenmeister (1971), called hex signs \"painted prayers\". Others read the designs as decorative markers of ethnic identity, possibly arising in reaction to nineteenth-century government attempts to suppress the Pennsylvania German language. In recent years the signs have been taken up as talismans for folk magic by people who are not Pennsylvania Dutch, and neopagans have taken up making them, working other pre-Christian signs into the designs on the argument that the hex designs are of pre-Christian Germanic origin and related to Alpine German work — a circled rosette is called the Sun of the Alps in the Po Valley. Anabaptist sects in the region, the Amish and the Mennonites, take a negative view of hex signs, and the signs are rarely if ever seen on their farms.",
+  "how": "Painted directly onto barn siding, in a circular border, by a specialist barn painter working from a repertoire of designs. The commercial version since 1942 is screen-printed on a separate disc and mounted on a barn or hung indoors. Nothing in this record's sources describes a blessing, a consecration, or a retirement.",
+  "today": "Still painted, still sold, and still argued over. *Inference —* the argument is unusually hard to settle because the commercial sign arrived in 1942 with an explicit set of meanings attached for the buyer, which means most published lists of what a hex sign means postdate the tourist trade rather than the barns."
+ },
+ "dating": {
+  "period": "Nineteenth century to the present",
+  "from_year": 1800,
+  "to_year": null,
+  "living": true,
+  "label": "early 19th century to now",
+  "method": "art-historical",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-hex-sign",
+  "note": "The source dates the barn paintings to the early nineteenth century and their spread to the later arrival of ready-mixed commercial paint; the mountable commercial sign is dated to 1942 by its own maker's claim."
+ },
+ "object": {
+  "form": "plaque",
+  "materials": [
+   "wood",
+   "paper"
+  ],
+  "worn": [
+   "wall",
+   "door",
+   "shop"
+  ],
+  "made_by": "barn painters who specialised in the work; since 1942, screen printers making signs for the souvenir trade",
+  "inscription": "",
+  "colour": [
+   "red",
+   "blue",
+   "yellow",
+   "white",
+   "green"
+  ],
+  "single_use": false,
+  "source": "s:wp-hex-sign",
+  "note": "The material is really paint on siding; wood is entered for the barn board and for the mounted disc. No measurement is published in the source."
+ },
+ "against": [
+  {
+   "harm": "livestock",
+   "who": "modern hex sign artists, who stress the symbolic meanings — a horse head used to protect animals from disease",
+   "source": "s:wp-hex-sign",
+   "tier": "cited",
+   "note": "the second school of thought holds the signs are purely decorative and this claim is a modern attachment; both positions are set out in the story"
+  },
+  {
+   "harm": "fire",
+   "who": "the same modern artists, for whom the horse head also protects the building from lightning",
+   "source": "s:wp-hex-sign",
+   "tier": "cited"
+  },
+  {
+   "harm": "house",
+   "who": "the talismanic school of interpretation, and Lee R. Gandee, who called the signs painted prayers in 1971",
+   "source": "s:wp-hex-sign",
+   "tier": "tradition",
+   "note": "reported as one of two named positions; the decorative school disputes it"
+  }
+ ],
+ "kin": [
+  {
+   "to": "tree",
+   "as": "one of the designs by name — the tree of life is a standard theme on the commercial signs",
+   "rel": "motif"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "the practice it is the biggest version of: a sign fixed to a building, facing outward, in public",
+   "rel": "practice"
+  },
+  {
+   "to": "bagua-mirror",
+   "as": "the other painted geometric disc in this atlas fixed to the outside of a building, and a useful comparison because nobody argues about what that one is for",
+   "rel": "parallel"
+  },
+  {
+   "to": "concealed-shoe",
+   "as": "the opposite instinct in the same kind of building: one charm walled up where nobody can see it, one painted six feet across on the gable",
+   "rel": "contrast"
+  },
+  {
+   "to": "horseshoe",
+   "as": "the other thing on an American barn, and the one whose protective claim nobody disputes",
+   "rel": "parallel"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the tradition the emigrants brought, and the one this object may or may not still belong to — that is the argument",
+   "rel": "tradition"
+  },
+  {
+   "to": "the-fake-market",
+   "as": "the long read the 1942 souvenir sign belongs in: a traditional design, a new object, and a meaning printed on the box",
+   "rel": "story"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read for the rest of it: neopagans making them, the Amish refusing them, and a state radiation office using one as a logo",
+   "rel": "story"
+  },
+  {
+   "to": "apotropaic-word",
+   "as": "the word the talismanic school uses and the decorative school will not",
+   "rel": "term"
+  }
+ ],
+ "links": [
+  {
+   "label": "Hex sign — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hex_sign"
+  }
+ ],
+ "sources": [
+  "s:wp-hex-sign",
+  "s:book-shoemaker-hex-no",
+  "s:wp-apotropaic-magic",
+  "s:wp-folk-religion"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-hex-sign"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "inference",
+    "note": "the closing observation about dated meanings is this project's reasoning from the 1942 commercial chronology, and is marked in the prose"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A painted disc on the side of a barn: usually a star inside a circular border, in bright colour on white.",
+ "region_terms": [
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "tree",
+   "type": "motif",
+   "name": "The tree",
+   "as": "one of the designs by name — the tree of life is a standard theme on the commercial signs",
+   "rel": "motif"
+  },
+  {
+   "to": "hanging-at-door",
+   "type": "practice",
+   "name": "Hanging at the door",
+   "as": "the practice it is the biggest version of: a sign fixed to a building, facing outward, in public",
+   "rel": "practice"
+  },
+  {
+   "to": "bagua-mirror",
+   "type": "amulet",
+   "name": "Bagua mirror",
+   "as": "the other painted geometric disc in this atlas fixed to the outside of a building, and a useful comparison because nobody argues about what that one is for",
+   "rel": "parallel"
+  },
+  {
+   "to": "concealed-shoe",
+   "type": "amulet",
+   "name": "Concealed shoe",
+   "as": "the opposite instinct in the same kind of building: one charm walled up where nobody can see it, one painted six feet across on the gable",
+   "rel": "contrast"
+  },
+  {
+   "to": "horseshoe",
+   "type": "amulet",
+   "name": "Horseshoe",
+   "as": "the other thing on an American barn, and the one whose protective claim nobody disputes",
+   "rel": "parallel"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "type": "tradition",
+   "name": "European folk apotropaic craft",
+   "as": "the tradition the emigrants brought, and the one this object may or may not still belong to — that is the argument",
+   "rel": "tradition"
+  },
+  {
+   "to": "the-fake-market",
+   "type": "story",
+   "name": "The fake market",
+   "as": "the long read the 1942 souvenir sign belongs in: a traditional design, a new object, and a meaning printed on the box",
+   "rel": "story"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read for the rest of it: neopagans making them, the Amish refusing them, and a state radiation office using one as a logo",
+   "rel": "story"
+  },
+  {
+   "to": "apotropaic-word",
+   "type": "term",
+   "name": "apotropaic",
+   "as": "the word the talismanic school uses and the decorative school will not",
+   "rel": "term"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-hex-sign",
+   "kind": "encyclopedia",
+   "title": "Hex sign",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hex_sign",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:book-shoemaker-hex-no",
+   "kind": "book",
+   "title": "Hex, no!",
+   "author": "Alfred Lewis Shoemaker",
+   "publisher": "Pennsylvania Dutch Folklore Center, Inc., Lancaster, PA",
+   "year": 1953,
+   "url": "https://archive.org/details/hexnobyalfredlsh00shoe",
+   "accessed": "2026-09-16",
+   "note": "The Internet Archive item page was read: 32 pages, illustrated, subject headings Hex signs--Pennsylvania and Barn symbols--Pennsylvania. The booklet's own text was not read, and the record citing it says so."
+  },
+  {
+   "id": "s:wp-apotropaic-magic",
+   "kind": "encyclopedia",
+   "title": "Apotropaic magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Apotropaic_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-folk-religion",
+   "kind": "encyclopedia",
+   "title": "Folk religion",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Folk_religion",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-hex-sign"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-hex-sign"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-hex-sign"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "the closing observation about dated meanings is this project's reasoning from the 1942 commercial chronology, and is marked in the prose"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-hex-sign"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-hex-sign"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-hex-sign"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "livestock",
+   "label": "Harm to livestock",
+   "who": "modern hex sign artists, who stress the symbolic meanings — a horse head used to protect animals from disease",
+   "quote": "",
+   "source": "s:wp-hex-sign",
+   "tier": "cited",
+   "note": "the second school of thought holds the signs are purely decorative and this claim is a modern attachment; both positions are set out in the story"
+  },
+  {
+   "key": "fire",
+   "label": "Fire",
+   "who": "the same modern artists, for whom the horse head also protects the building from lightning",
+   "quote": "",
+   "source": "s:wp-hex-sign",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "house",
+   "label": "Harm to a house or a field",
+   "who": "the talismanic school of interpretation, and Lee R. Gandee, who called the signs painted prayers in 1971",
+   "quote": "",
+   "source": "s:wp-hex-sign",
+   "tier": "tradition",
+   "note": "reported as one of two named positions; the decorative school disputes it"
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "wood",
+   "label": "Wood",
+   "kind": "plant"
+  },
+  {
+   "key": "paper",
+   "label": "Paper",
+   "kind": "written"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  },
+  {
+   "key": "shop",
+   "label": "At the till",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "plaque",
+  "label": "Plaque or tablet"
+ },
+ "holding_facts": [],
+ "span": "1800 CE to now",
+ "country_names": [
+  {
+   "iso": "US",
+   "name": "United States of America"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "bagua-mirror",
+   "type": "amulet",
+   "name": "Bagua mirror",
+   "as": "Pennsylvania's painted answer on the same part of a building, argued over in the same way",
+   "rel": "parallel"
+  },
+  {
+   "from": "witch-bottle",
+   "type": "amulet",
+   "name": "Witch bottle",
+   "as": "the other charm in this atlas whose scholarship is an argument between archaeologists and decorators",
+   "rel": "parallel"
+  },
+  {
+   "from": "hanging-at-door",
+   "type": "practice",
+   "name": "Hanging at the door",
+   "as": "the same idea painted at barn scale, and argued over as protective or decorative in the same county",
+   "rel": "carried-by"
+  }
+ ]
+}

@@ -1,0 +1,545 @@
+{
+ "schema": 1,
+ "id": "scarab-sign",
+ "type": "motif",
+ "names": {
+  "name": "The beetle",
+  "native": "𓆣",
+  "script": "Egyptian hieroglyphic",
+  "lang": "egy",
+  "aliases": [
+   "scarab motif",
+   "dung beetle",
+   "kheper sign",
+   "Khepri"
+  ]
+ },
+ "region": [
+  "ancient-egypt",
+  "levant",
+  "nubia-sudan",
+  "greece-aegean",
+  "anatolia"
+ ],
+ "countries": [
+  "EG",
+  "SD",
+  "IL",
+  "PS",
+  "LB",
+  "SY",
+  "JO",
+  "GR",
+  "TR",
+  "IT"
+ ],
+ "facets": {
+  "era": "ancient",
+  "family": "animal",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A dung beetle seen from above — head, wing case and legs indicated, the underside left flat so it can be engraved. Usually identified as Scarabaeus sacer. Standard ones run between 6 mm and 40 mm long, most between 10 mm and 20 mm, drilled end to end for a thread or a swivel ring. It is the only sign in this atlas that doubles as a signature: the flat base takes a name, a title or a motto and prints it in clay.",
+  "story": "The reading Egyptians gave the beetle is stated in the sources: Khepri rolls the sun across the sky at daybreak the way the beetle rolls a ball of dung, so the sign stands for the sun's journey, for rebirth and for regeneration. The beetle-shaped amulet became enormously popular by the early Middle Kingdom, around 2000 BCE, and stayed popular for the rest of the pharaonic period and beyond. By the end of the First Intermediate Period, about 2055 BCE, scarabs had become extremely common and largely replaced cylinder seals and circular button seals with simple geometric designs.\n\nThe sign travelled as an object, not as an idea. From the middle Bronze Age other peoples of the Mediterranean and the Middle East imported scarabs from Egypt and made their own, in Egyptian or in local styles, especially in the Levant. A scarab inscribed with Nefertiti's name was among the luxury goods on the Uluburun wreck off Turkey. *Inference —* a portable seal that also functions as a charm is unusually easy to export, and the Levantine copies are evidence of trade in the thing rather than of the Egyptian theology travelling with it.\n\nWhat is cut on the base changed over time. Pharaohs' names in the Middle Kingdom, then officials' names and titles used as administrative seals, then short prayers or mottoes in the New Kingdom and Third Intermediate Period, which are hard to translate. Some carry hunting scenes. Commemorative scarabs were made for political purposes, notably the large ones of Amenhotep III.\n\nMaterials are the other half of the story. Most were carved from steatite — a soft stone that hardens when fired — or moulded in Egyptian faience, then glazed blue or green and fired. Hardstone examples are green jasper, amethyst and carnelian. Most were originally green or blue; weathering has left most steatite ones looking white or brown, so a museum tray reads paler than the original trade did.",
+  "today": "Scarabs are made by the thousand as souvenirs in Egypt, and the shape is standard jewellery and tattoo flash worldwide. The ancient ones are also the most forged class of Egyptian antiquity this atlas covers, which is a matter for the long read on authentication rather than for this page."
+ },
+ "kin": [
+  {
+   "to": "scarab",
+   "as": "the amulet and seal itself, which is the sign's body",
+   "rel": "carried-by"
+  },
+  {
+   "to": "heart-scarab",
+   "as": "the large one laid at the heart, inscribed to keep the heart from speaking against its owner",
+   "rel": "carried-by"
+  },
+  {
+   "to": "eye",
+   "as": "the other sign Egypt made by the thousand; the eye went over the incision, the beetle at the heart",
+   "rel": "contrast"
+  },
+  {
+   "to": "faience",
+   "as": "the glazed quartz paste that made it cheap enough to bury in quantity",
+   "rel": "material"
+  },
+  {
+   "to": "carnelian",
+   "as": "the red hardstone version, cut rather than moulded",
+   "rel": "material"
+  },
+  {
+   "to": "egyptian-amulet-craft",
+   "as": "the tradition that produced it at industrial scale",
+   "rel": "tradition"
+  },
+  {
+   "to": "inscribing",
+   "as": "the practice that makes the base matter more than the back",
+   "rel": "practice"
+  },
+  {
+   "to": "flinders-petrie",
+   "as": "the excavator whose typology of scarabs is still how museums sort them",
+   "rel": "person"
+  },
+  {
+   "to": "the-fake-market",
+   "as": "the long read on authentication, which has a chapter's worth of scarabs in it",
+   "rel": "story"
+  }
+ ],
+ "dating": {
+  "period": "Middle Kingdom to the Roman period and beyond",
+  "from_year": -2054,
+  "to_year": null,
+  "living": true,
+  "label": "c. 2055 BCE to now, as a sign; as an Egyptian amulet, to the end of the pharaonic period",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-scarab-artifact",
+  "note": "Extremely common by the end of the First Intermediate Period, about 2055 BCE, and popular from the early Middle Kingdom, about 2000 BCE. to_year is null because the shape is still made and worn, not because pharaonic use continues."
+ },
+ "object": {
+  "form": "seal",
+  "materials": [
+   "faience",
+   "carnelian",
+   "agate",
+   "gold",
+   "glass"
+  ],
+  "worn": [
+   "neck",
+   "finger",
+   "chest",
+   "grave"
+  ],
+  "made_by": "Egyptian workshops, and local workshops in the Levant making Egyptian-style and local-style copies",
+  "inscription": "royal names, officials' names and titles, short prayers and mottoes, hunting scenes",
+  "script": "Egyptian hieroglyphic",
+  "length_mm": 40,
+  "colour": [
+   "blue-green",
+   "green",
+   "white",
+   "brown"
+  ],
+  "source": "s:wp-scarab-artifact",
+  "note": "Standard scarabs run 6–40 mm long, most 10–20 mm; length_mm records the top of the published standard range, not a typical piece."
+ },
+ "against": [
+  {
+   "harm": "the-dead",
+   "who": "Egyptian funerary practice, in which the scarab stands for rebirth and regeneration",
+   "source": "s:wp-scarab-artifact",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the sign's association with Khepri and the daily renewal of the sun, as summarised by Egyptologists",
+   "source": "s:wp-scarab-artifact",
+   "tier": "tradition",
+   "note": "hedged: the source describes the symbolism, not a stated protective claim"
+  }
+ ],
+ "holdings": [
+  {
+   "museum": "petrie",
+   "what": "Petrie's excavated scarab series, the basis of the typology museums use",
+   "source": "s:wp-flinders-petrie"
+  },
+  {
+   "museum": "british-museum",
+   "what": "scarabs in the Egyptian collection",
+   "source": "s:wp-british-museum"
+  }
+ ],
+ "links": [
+  {
+   "label": "Scarab (artifact) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Scarab_(artifact)"
+  }
+ ],
+ "sources": [
+  "s:wp-scarab-artifact",
+  "s:wp-heart-scarab",
+  "s:wp-egyptian-faience",
+  "s:wp-flinders-petrie",
+  "s:wp-british-museum"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-scarab-artifact"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "inference",
+    "note": "the souvenir trade and the forgery problem are reasoned from the object's ubiquity; no market study was read"
+   },
+   "against[1]": {
+    "tier": "tradition",
+    "note": "the healing reading is a gloss on the symbolism rather than a claim in the source"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Scarab MET DP109382.jpg",
+  "File:Egyptian - Scarab - Walters 4230.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A dung beetle seen from above — head, wing case and legs indicated, the underside left flat so it can be engraved. Usually identified as Scarabaeus sacer.",
+ "region_terms": [
+  {
+   "key": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Nile valley and delta, Predynastic through Roman Egypt"
+  },
+  {
+   "key": "levant",
+   "name": "The Levant",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "nubia-sudan",
+   "name": "Nubia and Sudan",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "greece-aegean",
+   "name": "Greece and the Aegean",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "anatolia",
+   "name": "Anatolia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "scarab",
+   "type": "amulet",
+   "name": "Scarab",
+   "as": "the amulet and seal itself, which is the sign's body",
+   "rel": "carried-by"
+  },
+  {
+   "to": "heart-scarab",
+   "type": "amulet",
+   "name": "Heart scarab",
+   "as": "the large one laid at the heart, inscribed to keep the heart from speaking against its owner",
+   "rel": "carried-by"
+  },
+  {
+   "to": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "the other sign Egypt made by the thousand; the eye went over the incision, the beetle at the heart",
+   "rel": "contrast"
+  },
+  {
+   "to": "faience",
+   "type": "material",
+   "name": "Faience",
+   "as": "the glazed quartz paste that made it cheap enough to bury in quantity",
+   "rel": "material"
+  },
+  {
+   "to": "carnelian",
+   "type": "material",
+   "name": "Carnelian",
+   "as": "the red hardstone version, cut rather than moulded",
+   "rel": "material"
+  },
+  {
+   "to": "egyptian-amulet-craft",
+   "type": "tradition",
+   "name": "Egyptian amulet craft",
+   "as": "the tradition that produced it at industrial scale",
+   "rel": "tradition"
+  },
+  {
+   "to": "inscribing",
+   "type": "practice",
+   "name": "Inscribing",
+   "as": "the practice that makes the base matter more than the back",
+   "rel": "practice"
+  },
+  {
+   "to": "flinders-petrie",
+   "type": "person",
+   "name": "Flinders Petrie",
+   "as": "the excavator whose typology of scarabs is still how museums sort them",
+   "rel": "person"
+  },
+  {
+   "to": "the-fake-market",
+   "type": "story",
+   "name": "The fake market",
+   "as": "the long read on authentication, which has a chapter's worth of scarabs in it",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-scarab-artifact",
+   "kind": "encyclopedia",
+   "title": "Scarab (artifact)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Scarab_(artifact)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-heart-scarab",
+   "kind": "encyclopedia",
+   "title": "Heart scarab",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Heart_scarab",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-egyptian-faience",
+   "kind": "encyclopedia",
+   "title": "Egyptian faience",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Egyptian_faience",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-flinders-petrie",
+   "kind": "encyclopedia",
+   "title": "Flinders Petrie",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Flinders_Petrie",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-british-museum",
+   "kind": "encyclopedia",
+   "title": "British Museum",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/British_Museum",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-scarab-artifact"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-scarab-artifact"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "the souvenir trade and the forgery problem are reasoned from the object's ubiquity; no market study was read"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-scarab-artifact"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-scarab-artifact"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "the-dead",
+   "label": "Danger to the dead",
+   "gloss": "charms put in a grave for the person in it",
+   "who": "Egyptian funerary practice, in which the scarab stands for rebirth and regeneration",
+   "quote": "",
+   "source": "s:wp-scarab-artifact",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "the sign's association with Khepri and the daily renewal of the sun, as summarised by Egyptologists",
+   "quote": "",
+   "source": "s:wp-scarab-artifact",
+   "tier": "tradition",
+   "note": "hedged: the source describes the symbolism, not a stated protective claim"
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "faience",
+   "label": "Faience",
+   "kind": "fired",
+   "note": "glazed quartz paste; Egypt's amulet material at scale"
+  },
+  {
+   "key": "carnelian",
+   "label": "Carnelian",
+   "kind": "stone",
+   "note": "red; Egypt's colour for blood and life"
+  },
+  {
+   "key": "agate",
+   "label": "Agate and onyx",
+   "kind": "stone"
+  },
+  {
+   "key": "gold",
+   "label": "Gold",
+   "kind": "metal"
+  },
+  {
+   "key": "glass",
+   "label": "Glass",
+   "kind": "fired"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "finger",
+   "label": "On a finger",
+   "group": "body"
+  },
+  {
+   "key": "chest",
+   "label": "On the chest, under the shirt",
+   "group": "body"
+  },
+  {
+   "key": "grave",
+   "label": "In the grave",
+   "group": "placed",
+   "note": "most surviving ancient amulets are here because somebody was buried in them"
+  }
+ ],
+ "form_fact": {
+  "key": "seal",
+  "label": "Seal or stamp"
+ },
+ "holding_facts": [
+  {
+   "key": "petrie",
+   "label": "The Petrie Museum of Egyptian Archaeology",
+   "city": "London",
+   "country": "GB",
+   "url": "",
+   "what": "Petrie's excavated scarab series, the basis of the typology museums use",
+   "accession": "",
+   "source": "s:wp-flinders-petrie"
+  },
+  {
+   "key": "british-museum",
+   "label": "The British Museum",
+   "city": "London",
+   "country": "GB",
+   "url": "",
+   "what": "scarabs in the Egyptian collection",
+   "accession": "",
+   "source": "s:wp-british-museum"
+  }
+ ],
+ "span": "2055 BCE to now",
+ "country_names": [
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  },
+  {
+   "iso": "SD",
+   "name": "Sudan"
+  },
+  {
+   "iso": "IL",
+   "name": "Israel"
+  },
+  {
+   "iso": "PS",
+   "name": "Palestine"
+  },
+  {
+   "iso": "LB",
+   "name": "Lebanon"
+  },
+  {
+   "iso": "SY",
+   "name": "Syria"
+  },
+  {
+   "iso": "JO",
+   "name": "Jordan"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "TR",
+   "name": "Turkey"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "heart-scarab",
+   "type": "amulet",
+   "name": "Heart scarab",
+   "as": "the sign it carries, read as the sun rolled up at daybreak and so as rebirth",
+   "rel": "motif"
+  },
+  {
+   "from": "scarab",
+   "type": "amulet",
+   "name": "Scarab",
+   "as": "the sign this object is a body for: the beetle that rolls the sun up at daybreak",
+   "rel": "motif"
+  }
+ ]
+}

@@ -1,0 +1,634 @@
+{
+ "schema": 1,
+ "id": "tooth-and-claw",
+ "type": "motif",
+ "names": {
+  "name": "The tooth and the claw",
+  "aliases": [
+   "pierced tooth",
+   "animal tooth amulet",
+   "whale tooth",
+   "tabua",
+   "lei niho palaoa",
+   "wolf's tooth"
+  ]
+ },
+ "region": [
+  "western-europe",
+  "rome-italy",
+  "balkans",
+  "pacific",
+  "siberia-arctic",
+  "north-america"
+ ],
+ "countries": [
+  "FR",
+  "IT",
+  "GB",
+  "AL",
+  "FJ",
+  "TO",
+  "US",
+  "GL",
+  "CA"
+ ],
+ "facets": {
+  "era": "ancient",
+  "family": "tooth-and-claw",
+  "hemisphere": [
+   "N",
+   "S",
+   "E",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A tooth, a tusk or a claw, pierced or mounted and hung. Sometimes the animal part is left as it came off the animal; sometimes it is carved past recognition. A wolf's canine set in gold, a sperm whale's tooth polished and strung on plaited coir, a whale tooth cut into a hook and hung from a rope of braided human hair.",
+  "story": "The clearest documented European case is small and specific. The Pitt Rivers Museum holds a wolf's canine mounted in gold, from the Haute-Marne in north-eastern France, accession 1985.52.105, acquired before 1931 and transferred from the Wellcome Institute in 1985. The museum records it as worn by a child as a remedy for convulsions, and chewed or rubbed on the gums during teething. The practice is old: Pliny the Elder writes that a wolf's tooth could also stop a child being startled.\n\nIllyrians used animal teeth against the evil eye, alongside shapes of the phallus, the hand and the leg — so the tooth sits in the same substitution set as the other signs in this atlas's eye family.\n\nIn the Pacific the tooth is a whale's and its meaning is social before it is protective. A Fijian tabua is a polished sperm whale tooth, given as sevusevu for atonement or esteem, and used in negotiations between rival chiefs. The dead were buried with their tabua. Originally the teeth were rare — from beached whales, or traded from Tonga, where the practice may have begun — but once the market was known in the early nineteenth century thousands of teeth, and fakes made from ivory and walrus tusk, entered it. That trade is where the European art of scrimshaw grew up. A Hawaiian lei niho palaoa is a neck ornament worn by aliʻi of both sexes, most nineteenth-century examples a whale tooth carved into a hook and suspended on plaited human hair. What it means is not known; it may represent a tongue that speaks the law, or a vessel for mana. Pre-contact ones were under two inches long and made of shell, bone, wood, stone and coral as well as whale ivory. The Bishop Museum holds one whose hair bundle has a circumference of 7.5 inches: a single eight-ply square braid cord 1,708 feet long, looped back and forth over a thousand times on each side.\n\nInuit use of amulets is documented but the sources read here describe the class rather than the material. The Netsilik used a great many, unlike the Iglulik; even dogs could have them; one boy was recorded with eighty, so many he could hardly play. The efficacy is attributed to the amulet's corresponding spirit, and amulets could be made by an angakoq or by a lay person.\n\n*Inference —* a tooth is the part of an animal that did the animal's work, and it is the part that survives burial. Both of those are reasons it turns up; this atlas cannot separate them from the evidence read here.\n\nThis record does not name every people among whom teeth and claws are worn. Where a source names a people, that name is printed above. Where none does, the gap stays a gap."
+ },
+ "kin": [
+  {
+   "to": "inuit-amulet",
+   "as": "the Arctic class this sign belongs to, described by its holders rather than by its material",
+   "rel": "carried-by"
+  },
+  {
+   "to": "tooth",
+   "as": "the material file — tooth, tusk and claw, and what keeps them intact in the ground",
+   "rel": "material"
+  },
+  {
+   "to": "eye",
+   "as": "Illyrians used animal teeth against the same harm the eye is aimed at, in the same substitution set",
+   "rel": "parallel"
+  },
+  {
+   "to": "horn",
+   "as": "the other piece of an animal worn for what the animal could do",
+   "rel": "parallel"
+  },
+  {
+   "to": "rabbits-foot",
+   "as": "the same logic reduced to a keyring, and the one everybody in the anglophone world has seen",
+   "rel": "kin"
+  },
+  {
+   "to": "pitt-rivers-charms",
+   "as": "the amulet collection the wolf tooth sits in, catalogued and published online",
+   "rel": "held-at"
+  },
+  {
+   "to": "wellcome-lovett",
+   "as": "the collection the wolf tooth came from before 1985",
+   "rel": "origin"
+  },
+  {
+   "to": "bone-ivory",
+   "as": "the neighbouring material, and what a whale tooth is filed as once it is carved",
+   "rel": "material"
+  }
+ ],
+ "dating": {
+  "period": "Roman written record to the present",
+  "from_year": 23,
+  "to_year": null,
+  "living": true,
+  "label": "attested by Pliny in the 1st century CE; still current in Fiji",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:web-prm-wolf-tooth",
+  "note": "from_year is Pliny the Elder's lifetime as the date of the written attestation the Pitt Rivers page cites; no excavation date for a pierced tooth amulet was read. Pierced animal teeth are far older than this, and the absence of an earlier date here is a gap in this project's sources, not in the record."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": [
+   "tooth",
+   "bone",
+   "gold",
+   "hair",
+   "shell",
+   "coral",
+   "wood"
+  ],
+  "worn": [
+   "neck",
+   "grave"
+  ],
+  "made_by": "for the lei niho palaoa, worn by aliʻi of both sexes; for the tabua, given rather than sold",
+  "source": "s:wp-lei-niho-palaoa",
+  "note": "The published measurement quoted in the prose is the Bishop Museum's hair bundle, not the pendant, so no length_mm is given here."
+ },
+ "against": [
+  {
+   "harm": "child-harm",
+   "who": "the Pitt Rivers Museum, on a wolf's tooth worn by a child as a remedy for convulsions and chewed during teething",
+   "source": "s:web-prm-wolf-tooth",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "Pliny the Elder, cited by the museum: a wolf's tooth could also prevent a child from being startled",
+   "source": "s:web-prm-wolf-tooth",
+   "tier": "cited"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "Illyrians, who used animal teeth against it alongside the phallus, the hand and the leg",
+   "source": "s:wp-evil-eye",
+   "tier": "cited"
+  },
+  {
+   "harm": "the-dead",
+   "who": "Fijian practice: the dead were buried with their tabua",
+   "source": "s:wp-tabua",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "Inuit accounts, in which an amulet's efficacy is attributed to its corresponding spirit",
+   "source": "s:wp-inuit-religion",
+   "tier": "cited"
+  }
+ ],
+ "holdings": [
+  {
+   "museum": "pitt-rivers",
+   "what": "wolf's canine tooth mounted in gold, Haute-Marne, France",
+   "accession": "1985.52.105",
+   "url": "https://web.prm.ox.ac.uk/amulets/index.php/tooth-amulet1/",
+   "source": "s:web-prm-wolf-tooth"
+  },
+  {
+   "museum": "te-papa",
+   "what": "tabua in the collection of the Museum of New Zealand Te Papa Tongarewa",
+   "source": "s:wp-tabua"
+  }
+ ],
+ "restricted": {
+  "note": "Removing a tabua from Fiji is highly restricted — 225 exports a year — and needs a permit from the Ministry of iTaukei Affairs as well as CITES permits, because the tooth comes from an endangered species. Original CITES permits must be shown to the importing country's border officials. In 2007 New Zealand authorities returned 146 tabua to Fiji after seizing them as illegally exported.",
+  "who_says": "the Fijian Ministry of iTaukei Affairs, and CITES",
+  "source": "s:wp-tabua",
+  "url": "https://en.wikipedia.org/wiki/Tabua"
+ },
+ "links": [
+  {
+   "label": "Small Blessings — Wolf Tooth, France (Pitt Rivers Museum)",
+   "url": "https://web.prm.ox.ac.uk/amulets/index.php/tooth-amulet1/"
+  },
+  {
+   "label": "Tabua — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tabua"
+  }
+ ],
+ "sources": [
+  "s:web-prm-wolf-tooth",
+  "s:wp-tabua",
+  "s:wp-lei-niho-palaoa",
+  "s:wp-inuit-religion",
+  "s:wp-evil-eye",
+  "s:wp-pitt-rivers-museum"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-prm-wolf-tooth"
+  },
+  "fields": {
+   "dating": {
+    "tier": "inference",
+    "note": "Pliny's lifetime is used as the attestation date; the museum page cites him without a year"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-prm-wolf-tooth",
+    "note": "the closing two paragraphs state this project's reasoning and its gaps"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Tabua.jpg",
+  "File:Lei niho palaoa.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A tooth, a tusk or a claw, pierced or mounted and hung. Sometimes the animal part is left as it came off the animal; sometimes it is carved past recognition.",
+ "region_terms": [
+  {
+   "key": "western-europe",
+   "name": "Western Europe",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "balkans",
+   "name": "The Balkans",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "pacific",
+   "name": "The Pacific",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "Polynesia, Melanesia, Micronesia"
+  },
+  {
+   "key": "siberia-arctic",
+   "name": "Siberia and the Arctic",
+   "hemi": [
+    "N",
+    "E",
+    "W"
+   ]
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "inuit-amulet",
+   "type": "amulet",
+   "name": "Inuit amulet",
+   "as": "the Arctic class this sign belongs to, described by its holders rather than by its material",
+   "rel": "carried-by"
+  },
+  {
+   "to": "tooth",
+   "type": "material",
+   "name": "Tooth, tusk and claw",
+   "as": "the material file — tooth, tusk and claw, and what keeps them intact in the ground",
+   "rel": "material"
+  },
+  {
+   "to": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "Illyrians used animal teeth against the same harm the eye is aimed at, in the same substitution set",
+   "rel": "parallel"
+  },
+  {
+   "to": "horn",
+   "type": "motif",
+   "name": "The horn",
+   "as": "the other piece of an animal worn for what the animal could do",
+   "rel": "parallel"
+  },
+  {
+   "to": "rabbits-foot",
+   "type": "amulet",
+   "name": "Rabbit's foot",
+   "as": "the same logic reduced to a keyring, and the one everybody in the anglophone world has seen",
+   "rel": "kin"
+  },
+  {
+   "to": "pitt-rivers-charms",
+   "type": "place",
+   "name": "The amulet and charm cases, Pitt Rivers Museum",
+   "as": "the amulet collection the wolf tooth sits in, catalogued and published online",
+   "rel": "held-at"
+  },
+  {
+   "to": "wellcome-lovett",
+   "type": "place",
+   "name": "The Lovett charms at Wellcome Collection",
+   "as": "the collection the wolf tooth came from before 1985",
+   "rel": "origin"
+  },
+  {
+   "to": "bone-ivory",
+   "type": "material",
+   "name": "Bone and ivory",
+   "as": "the neighbouring material, and what a whale tooth is filed as once it is carved",
+   "rel": "material"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:web-prm-wolf-tooth",
+   "kind": "web",
+   "title": "Small Blessings — Wolf Tooth, France",
+   "publisher": "Pitt Rivers Museum, University of Oxford",
+   "url": "https://web.prm.ox.ac.uk/amulets/index.php/tooth-amulet1/",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-tabua",
+   "kind": "encyclopedia",
+   "title": "Tabua",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tabua",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-lei-niho-palaoa",
+   "kind": "encyclopedia",
+   "title": "Lei niho palaoa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lei_niho_palaoa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-inuit-religion",
+   "kind": "encyclopedia",
+   "title": "Inuit religion",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Inuit_religion",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-evil-eye",
+   "kind": "encyclopedia",
+   "title": "Evil eye",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Evil_eye",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-pitt-rivers-museum",
+   "kind": "encyclopedia",
+   "title": "Pitt Rivers Museum",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pitt_Rivers_Museum",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:web-prm-wolf-tooth"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:web-prm-wolf-tooth",
+   "note": "the closing two paragraphs state this project's reasoning and its gaps"
+  },
+  "dating": {
+   "tier": "inference",
+   "note": "Pliny's lifetime is used as the attestation date; the museum page cites him without a year"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:web-prm-wolf-tooth"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "child-harm",
+   "label": "Harm to a child",
+   "gloss": "harm to an infant or a small child; common across the atlas, though not the largest class in it — see /story/most-of-them-are-for-children/",
+   "who": "the Pitt Rivers Museum, on a wolf's tooth worn by a child as a remedy for convulsions and chewed during teething",
+   "quote": "",
+   "source": "s:web-prm-wolf-tooth",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "Pliny the Elder, cited by the museum: a wolf's tooth could also prevent a child from being startled",
+   "quote": "",
+   "source": "s:web-prm-wolf-tooth",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "Illyrians, who used animal teeth against it alongside the phallus, the hand and the leg",
+   "quote": "",
+   "source": "s:wp-evil-eye",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "the-dead",
+   "label": "Danger to the dead",
+   "gloss": "charms put in a grave for the person in it",
+   "who": "Fijian practice: the dead were buried with their tabua",
+   "quote": "",
+   "source": "s:wp-tabua",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "Inuit accounts, in which an amulet's efficacy is attributed to its corresponding spirit",
+   "quote": "",
+   "source": "s:wp-inuit-religion",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "tooth",
+   "label": "Tooth, tusk and claw",
+   "kind": "organic"
+  },
+  {
+   "key": "bone",
+   "label": "Bone and ivory",
+   "kind": "organic"
+  },
+  {
+   "key": "gold",
+   "label": "Gold",
+   "kind": "metal"
+  },
+  {
+   "key": "hair",
+   "label": "Hair",
+   "kind": "organic"
+  },
+  {
+   "key": "shell",
+   "label": "Shell",
+   "kind": "organic"
+  },
+  {
+   "key": "coral",
+   "label": "Red coral",
+   "kind": "organic"
+  },
+  {
+   "key": "wood",
+   "label": "Wood",
+   "kind": "plant"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "grave",
+   "label": "In the grave",
+   "group": "placed",
+   "note": "most surviving ancient amulets are here because somebody was buried in them"
+  }
+ ],
+ "form_fact": {
+  "key": "pendant",
+  "label": "Pendant"
+ },
+ "holding_facts": [
+  {
+   "key": "pitt-rivers",
+   "label": "The Pitt Rivers Museum",
+   "city": "Oxford",
+   "country": "GB",
+   "url": "https://web.prm.ox.ac.uk/amulets/index.php/tooth-amulet1/",
+   "what": "wolf's canine tooth mounted in gold, Haute-Marne, France",
+   "accession": "1985.52.105",
+   "source": "s:web-prm-wolf-tooth"
+  },
+  {
+   "key": "te-papa",
+   "label": "Museum of New Zealand Te Papa Tongarewa",
+   "city": "Wellington",
+   "country": "NZ",
+   "url": "",
+   "open": true,
+   "what": "tabua in the collection of the Museum of New Zealand Te Papa Tongarewa",
+   "accession": "",
+   "source": "s:wp-tabua"
+  }
+ ],
+ "span": "23 CE to now",
+ "country_names": [
+  {
+   "iso": "FR",
+   "name": "France"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "AL",
+   "name": "Albania"
+  },
+  {
+   "iso": "FJ",
+   "name": "Fiji"
+  },
+  {
+   "iso": "TO",
+   "name": "Tonga"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "GL",
+   "name": "Greenland"
+  },
+  {
+   "iso": "CA",
+   "name": "Canada"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "inuit-amulet",
+   "type": "amulet",
+   "name": "Inuit amulet",
+   "as": "the sign family most of these belong to — the animal, kept as a part of itself",
+   "rel": "motif"
+  },
+  {
+   "from": "nkisi",
+   "type": "amulet",
+   "name": "Nkisi",
+   "as": "the sign inside it — bird claws go into the bilongo to catch a wrongdoer, chosen by metaphor rather than by pharmacy",
+   "rel": "motif"
+  },
+  {
+   "from": "rabbits-foot",
+   "type": "amulet",
+   "name": "Rabbit's foot",
+   "as": "the sign family it belongs to: a piece of an animal, carried for what the animal was",
+   "rel": "motif"
+  },
+  {
+   "from": "lion",
+   "type": "motif",
+   "name": "The lion",
+   "as": "the neighbouring sign: this one borrows the predator's face, that one carries the predator's parts",
+   "rel": "parallel"
+  },
+  {
+   "from": "serpent",
+   "type": "motif",
+   "name": "The serpent",
+   "as": "the animal reduced to its dangerous part; the serpent is kept whole instead",
+   "rel": "contrast"
+  },
+  {
+   "from": "tooth",
+   "type": "material",
+   "name": "Tooth, tusk and claw",
+   "as": "the sign this material is: a piece of a dangerous animal, left recognisable",
+   "rel": "motif"
+  },
+  {
+   "from": "akodessewa-market",
+   "type": "place",
+   "name": "Akodessawa fetish market",
+   "as": "the sign family most of the stock belongs to, taken from the animal it came from",
+   "rel": "motif"
+  }
+ ]
+}

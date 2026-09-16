@@ -1,0 +1,42 @@
+{
+ "schema": 1,
+ "id": "petrie-amulet-plates",
+ "type": "art",
+ "names": {
+  "name": "Petrie's amulet plates",
+  "aliases": ["Amulets (1914), plates", "Petrie 1914 plates", "the UCL amulet plates"]
+ },
+ "region": ["ancient-egypt", "britain-ireland"],
+ "countries": ["EG", "GB"],
+ "facets": {"kind": "plate", "era": "modern"},
+ "text": {
+  "what": "Plates of small Egyptian amulets, photographed in rows against a plain ground, printed at the back of a slim book: W. M. Flinders Petrie's \"Amulets: illustrated by the Egyptian collection in University College, London\", published by Constable in London in 1914. Objects sit side by side at a common scale with a class number under each, so a reader can lay a tray beside the page and match shape to shape. The Internet Archive's copy carries the rights note \"no visible notice of copyright; stated date is 1914\" and the status NOT_IN_COPYRIGHT.",
+  "story": "The plates are a sorting machine. Petrie arranged the amulets by what they are — head, limb, animal, sign, tool — rather than by reign or by site, and gave each class a number that ran across the whole collection. That arrangement is why a museum drawer in 2026 still holds wedjat eyes together and scarabs together instead of holding Eleventh Dynasty together.\n\nPetrie had already written the reason down. \"I believe the true line of research lies in the noting and comparison of the smallest details,\" he wrote of his method, and an amulet is nothing but smallest details — a mould flaw, a drill angle, a glaze that fired green instead of blue.\n\nThe pictures also carry the man. Petrie held the first chair of Egyptology in the United Kingdom and has been called the father of Egyptian archaeology; he has also been denounced for his pro-eugenics views, and believed in the superiority of northern over southern peoples. Alice Stevenson's UCL Press volume on the museum, and the 2014 book Archaeology of Race, put that record beside the excavations rather than after them. *Inference —* this atlas takes the plates as a finding aid and not as an authority on who made what, for the plain reason that the typology outlived the racial theory bolted to it.",
+  "today": "Public domain, free to reproduce, and scanned at a resolution good enough to zoom. The collection they picture went to University College in 1913 and is now the Petrie Museum of Egyptian and Sudanese Archaeology at Malet Place in London — over 80,000 objects, entirely digitised, catalogue online, admission free."
+ },
+ "kin": [
+  {"to": "flinders-petrie", "as": "the excavator who made these plates, and whose sorting is still the shape of a museum amulet drawer", "rel": "person"},
+  {"to": "budge-plates", "as": "the other great amulet picture-book of the period, made from purchases rather than from digs", "rel": "contrast"},
+  {"to": "wedjat-eye", "as": "the class that fills the most rows on these plates, because Egypt made more of it than of anything else", "rel": "carries"},
+  {"to": "scarab", "as": "the other class that runs to page after page here", "rel": "carries"},
+  {"to": "egyptian-amulet-craft", "as": "the tradition these plates put in order", "rel": "tradition"},
+  {"to": "faience", "as": "the material most of the objects in these rows are made of", "rel": "material"},
+  {"to": "the-drawn-signs", "as": "the atlas's own answer to the same problem — one picture for a class, not a portrait of one object", "rel": "parallel"},
+  {"to": "free-to-use", "as": "why these plates can appear here at all: no visible copyright notice, 1914", "rel": "story"}
+ ],
+ "links": [
+  {"label": "Amulets (Petrie, 1914) at the Internet Archive", "url": "https://archive.org/details/amuletsillustrat00petruoft"}
+ ],
+ "sources": ["s:web-petrie-amulets-1914", "s:wp-flinders-petrie", "s:wp-petrie-museum-of-egyptian-archaeology", "s:wp-amulet"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:web-petrie-amulets-1914"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:wp-flinders-petrie", "note": "the typology's afterlife in museum drawers is marked as this project's inference where it appears"},
+   "text.today": {"tier": "cited", "source": "s:wp-petrie-museum-of-egyptian-archaeology"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Petrie Museum of Egyptian Archaeology.jpg", "File:Flinders Petrie.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,378 @@
+{
+ "schema": 1,
+ "id": "patua",
+ "type": "amulet",
+ "names": {
+  "name": "Patuá",
+  "native": "patuá",
+  "lang": "pt",
+  "script": "Latin",
+  "said": "pah-too-AH",
+  "aliases": [
+   "pátua",
+   "bolsa de mandinga"
+  ]
+ },
+ "region": [
+  "brazil",
+  "diaspora"
+ ],
+ "countries": [
+  "BR"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "limited",
+  "hemisphere": [
+   "S",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A small sewn packet, worn at the neck or carried, closed over whatever was put inside it. The example catalogued by Duke University's Sacred Arts of the Black Atlantic project is 43 by 35 by 11 mm: cloth and blue vinyl, wood pieces, white thread, and a cowrie shell. It is not meant to be opened.",
+  "story": "Duke's catalogue entry is blunt about what the object is for: \"This amulet, called a pátua, used the power of the Brazilian goddess Iemanjá to protect the owner.\"\n\nThe construction is a set of claims stitched into cloth. Iemanjá's name is embroidered in white thread on blue vinyl — her colour — in twenty-one stitches, a number the catalogue says is sacred to her. Wood pieces reference Catholic relics. A Star of David sits on the back. A cowrie is set in, the shell that is both an instrument of divination and, in Candomblé, a body the gods are present in. The entry reads the combination as sacred colour, sacred number, and references that follow the trade routes between West Africa and Brazil.\n\n*Inference —* the Catholic relic and the Star of David on an Iemanjá packet are the record of a religion that spent centuries being illegal and learned to be legible in more than one language at once. This atlas states that as its own reading and not as the catalogue's.\n\nWhat this record cannot do is tell a reader how a patuá is filled, closed or charged. That happens inside a terreiro, a Candomblé house, under people entitled to do it; this project has read no published account of the procedure that it can cite, and does not fill the gap from a neighbouring tradition. The entry stops here.",
+  "how": "Sewn shut. The Duke example is closed with a counted number of stitches carrying the name of the orixá it belongs to. Beyond that, the making is not described here — see the note above. A patuá is worn under clothing at the neck, or carried in a bag, wallet or car.",
+  "today": "Patuás are made and sold in Brazil, in terreiros and in shops selling to Umbanda and Candomblé practitioners, and are a regular subject of Brazilian religious-goods retail online as of 2026. This project has no dated price and no maker's name for the current trade."
+ },
+ "dating": {
+  "period": "Afro-Brazilian religious practice",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "documented in the twentieth and twenty-first centuries; older than that and undated here",
+  "method": "ethnographic",
+  "tier": "cited",
+  "source": "s:web-duke-sacred-arts-patua",
+  "note": "The Duke catalogue gives no date for the object it describes, and this project found no dated first attestation for the form."
+ },
+ "object": {
+  "form": "packet",
+  "materials": [
+   "cloth",
+   "wood",
+   "cowrie",
+   "thread"
+  ],
+  "worn": [
+   "neck",
+   "pocket",
+   "vehicle"
+  ],
+  "made_by": "made inside a terreiro by people entitled to make one; not described further here",
+  "inscription": "the name of the orixá, embroidered — Iemanjá, in the Duke example, in twenty-one stitches",
+  "script": "Latin",
+  "length_mm": 42.87,
+  "colour": [
+   "blue",
+   "white"
+  ],
+  "count": 21,
+  "single_use": false,
+  "source": "s:web-duke-sacred-arts-patua",
+  "note": "Dimensions as published by Duke: 42.87 by 35.18 by 11.44 mm. Blue vinyl is part of the Duke example and is not in this project's materials list."
+ },
+ "against": [
+  {
+   "harm": "bad-luck",
+   "who": "the Duke catalogue, describing the object's purpose",
+   "quote": "This amulet, called a pátua, used the power of the Brazilian goddess Iemanjá to protect the owner.",
+   "source": "s:web-duke-sacred-arts-patua",
+   "tier": "cited",
+   "note": "the catalogue names protection in general and no specific harm; this atlas does not narrow it for them"
+  }
+ ],
+ "kin": [
+  {
+   "to": "gris-gris",
+   "as": "the West African-descended sewn packet this is kin to across the Atlantic, in New Orleans rather than Bahia",
+   "rel": "kin"
+  },
+  {
+   "to": "hirz-pouch",
+   "as": "the same object in Islamic West Africa — a written charm sewn shut and worn",
+   "rel": "parallel"
+  },
+  {
+   "to": "cowrie",
+   "as": "the shell set into it, which is a divination instrument before it is an ornament",
+   "rel": "material"
+  },
+  {
+   "to": "sewing-in",
+   "as": "the practice that makes it — the closing is the charging",
+   "rel": "practice"
+  },
+  {
+   "to": "west-african-charm-craft",
+   "as": "where the form comes from, before the Atlantic crossing",
+   "rel": "origin"
+  },
+  {
+   "to": "cowrie-strand",
+   "as": "the other object built from the same shell, strung instead of sewn in",
+   "rel": "kin"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the long read explaining why this record stops where it stops",
+   "rel": "story"
+  },
+  {
+   "to": "wearing-hidden",
+   "as": "how it is worn: under the shirt, unopened",
+   "rel": "practice"
+  }
+ ],
+ "links": [
+  {
+   "label": "Amulet (Patuá) Invoking Protection by the Candomblé Goddess Iemanjá — The Sacred Arts of the Black Atlantic, Duke University",
+   "url": "https://sacredart.caaar.duke.edu/artifacts/amulet-patua-invoking-protection-by-the-candomble-goddess-iemanja/"
+  }
+ ],
+ "sources": [
+  "s:web-duke-sacred-arts-patua",
+  "s:wp-gris-gris-talisman",
+  "s:wp-cowrie"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-duke-sacred-arts-patua"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-duke-sacred-arts-patua",
+    "note": "the paragraph on legibility in more than one language is marked as this project's inference where it appears"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "present trade reasoned from the object's continued sale; no dated source read"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A small sewn packet, worn at the neck or carried, closed over whatever was put inside it.",
+ "region_terms": [
+  {
+   "key": "brazil",
+   "name": "Brazil",
+   "hemi": [
+    "S",
+    "W"
+   ]
+  },
+  {
+   "key": "diaspora",
+   "name": "Diaspora",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "a practice carried out of its home region and kept"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "gris-gris",
+   "type": "amulet",
+   "name": "Gris-gris",
+   "as": "the West African-descended sewn packet this is kin to across the Atlantic, in New Orleans rather than Bahia",
+   "rel": "kin"
+  },
+  {
+   "to": "hirz-pouch",
+   "type": "amulet",
+   "name": "Hirz",
+   "as": "the same object in Islamic West Africa — a written charm sewn shut and worn",
+   "rel": "parallel"
+  },
+  {
+   "to": "cowrie",
+   "type": "material",
+   "name": "Cowrie",
+   "as": "the shell set into it, which is a divination instrument before it is an ornament",
+   "rel": "material"
+  },
+  {
+   "to": "sewing-in",
+   "type": "practice",
+   "name": "Sewing in",
+   "as": "the practice that makes it — the closing is the charging",
+   "rel": "practice"
+  },
+  {
+   "to": "west-african-charm-craft",
+   "type": "tradition",
+   "name": "West African charm craft",
+   "as": "where the form comes from, before the Atlantic crossing",
+   "rel": "origin"
+  },
+  {
+   "to": "cowrie-strand",
+   "type": "amulet",
+   "name": "Cowrie strand",
+   "as": "the other object built from the same shell, strung instead of sewn in",
+   "rel": "kin"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "type": "story",
+   "name": "What this atlas does not print",
+   "as": "the long read explaining why this record stops where it stops",
+   "rel": "story"
+  },
+  {
+   "to": "wearing-hidden",
+   "type": "practice",
+   "name": "Wearing hidden",
+   "as": "how it is worn: under the shirt, unopened",
+   "rel": "practice"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:web-duke-sacred-arts-patua",
+   "kind": "web",
+   "title": "Amulet (Patuá) Invoking Protection by the Candomblé Goddess Iemanjá",
+   "publisher": "The Sacred Arts of the Black Atlantic, Duke University",
+   "url": "https://sacredart.caaar.duke.edu/artifacts/amulet-patua-invoking-protection-by-the-candomble-goddess-iemanja/",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-gris-gris-talisman",
+   "kind": "encyclopedia",
+   "title": "Gris-gris (talisman)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gris-gris_(talisman)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cowrie",
+   "kind": "encyclopedia",
+   "title": "Cowrie",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cowrie",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:web-duke-sacred-arts-patua"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:web-duke-sacred-arts-patua",
+   "note": "the paragraph on legibility in more than one language is marked as this project's inference where it appears"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:web-duke-sacred-arts-patua"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "present trade reasoned from the object's continued sale; no dated source read"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:web-duke-sacred-arts-patua"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:web-duke-sacred-arts-patua"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "the Duke catalogue, describing the object's purpose",
+   "quote": "This amulet, called a pátua, used the power of the Brazilian goddess Iemanjá to protect the owner.",
+   "source": "s:web-duke-sacred-arts-patua",
+   "tier": "cited",
+   "note": "the catalogue names protection in general and no specific harm; this atlas does not narrow it for them"
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "cloth",
+   "label": "Cloth",
+   "kind": "textile"
+  },
+  {
+   "key": "wood",
+   "label": "Wood",
+   "kind": "plant"
+  },
+  {
+   "key": "cowrie",
+   "label": "Cowrie",
+   "kind": "organic"
+  },
+  {
+   "key": "thread",
+   "label": "Thread and cord",
+   "kind": "textile",
+   "note": "red thread runs from the Mediterranean to Mongolia"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  },
+  {
+   "key": "vehicle",
+   "label": "In a vehicle",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "packet",
+  "label": "Sewn packet or pouch"
+ },
+ "holding_facts": [],
+ "span": "undated",
+ "country_names": [
+  {
+   "iso": "BR",
+   "name": "Brazil"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "key",
+   "type": "motif",
+   "name": "The key",
+   "as": "the other Atlantic charm made where Catholic imagery and an African pantheon meet",
+   "rel": "kin"
+  }
+ ]
+}

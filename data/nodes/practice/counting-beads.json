@@ -1,0 +1,75 @@
+{
+ "schema": 1,
+ "id": "counting-beads",
+ "type": "practice",
+ "names": {
+  "name": "Counting beads",
+  "aliases": ["prayer beads", "mala", "misbaha", "rosary", "komboskini", "japamala"],
+  "said": "four traditions, four counts, four reasons — the English phrase 'prayer beads' merges them and this record does not"
+ },
+ "region": ["world", "south-asia", "himalaya-tibet", "arabia-gulf", "rome-italy", "greece-aegean", "western-europe", "levant", "japan", "china"],
+ "countries": ["IN", "NP", "CN", "TH", "SA", "TR", "EG", "IT", "GR", "RU", "RS", "ES", "IR"],
+ "facets": {"stage": "wear", "era": "living", "status": "living", "restricted": "open"},
+ "text": {
+  "what": "A string of a fixed number of beads or knots, run through the fingers so that the hand keeps count while the mouth says something. The object is a counter before it is an ornament, and the number is not decoration: each tradition publishes its own count for its own reason, and a string with the wrong number is the wrong instrument.",
+  "story": "Take them one at a time, because merging them is the mistake this record exists to avoid.\n\nThe Catholic rosary: 59 beads, in the form attributed to Saint Dominic — an attribution some scholars doubt. Materials published include glass, amethyst, rose quartz, crystal, onyx and pearl. The Church's own filing is split: it treats the rosary as a popular devotion rather than as a sacramental, and the beads themselves as a devotional article.\n\nThe Eastern Orthodox prayer rope: 33, 50 or 100 knots, not beads — knotted wool, though bead versions exist. It is called chotki in Russian, komboskini in Greek and brojanica in Serbian and Macedonian, and its origin is placed with the Desert Fathers in the third to fifth centuries. This is the only member of the family in which the counting unit is a knot the user can tie.\n\nThe Muslim misbaha: 99 beads with separators, or 33 cycled three times — the count follows the ninety-nine names of God. The names in Arabic are misbaha, subha and tasbih, and the practice is traced back in the tradition to Abu Hurayra.\n\nThe Hindu japamala: 108 beads, most commonly of rudraksha seeds or tulasi stems. The rudraksha account gives the arithmetic precisely: most garlands hold 108 plus one, because 108 is held sacred and a suitable number of repetitions for a short mantra, and the extra bead — the meru, bindu or guru bead — marks where a cycle begins and ends. Shorter strings run 27+1 or 54+1 on the same principle. Om Namah Shivaya is a mantra often counted on them, within Shaivism, because Shiva is described as wearing rudraksha garlands.\n\nThe Buddhist mala: also 108, adopted from the Hindu practice, with 27 in Pure Land Buddhism. Published materials include rudraksha, tulsi wood, bone, Bodhi seeds, lotus and sandalwood.\n\nTwo more that the English phrase also swallows. Sikh: 27 beads, often of iron, worn on the wrist, also called a simranee. Bahá'í: 95 beads, or 19 with five counters, for a prayer recited 95 times daily.\n\n*Inference —* the counts are not interchangeable and neither are the reasons. 99 follows a list of divine names. 108 follows a number held sacred, with one extra bead added for a purely mechanical purpose — knowing where you are. 33, 50 and 100 are round numbers on a rope. 59 is the structure of a specific sequence of prayers. Only one of those is arithmetic about God; the rest are arithmetic about repetition, and the guru bead is the clearest evidence that at least part of this object is an engineering solution to losing your place.\n\nWhere the string meets the atlas's other records is in the object doubling as a charm. Rudraksha are worn for protection as well as counted — the same seeds, on the same cord, doing two jobs. A prayer rope is worn on the wrist. A misbaha sits in a pocket. The count is what makes it an instrument; being on the body is what makes it an amulet, and most carriers are not obliged to choose.",
+  "how": "One bead or knot per repetition, moved by the thumb, going round until the marker comes back under the hand. On a Hindu or Buddhist mala the meru or guru bead marks the start and end of a cycle of 108. On a misbaha the separators divide 99 into three runs of 33. A prayer rope's knots are tied by the user's own tradition rather than strung. Walking versions exist: at the Barkhor in Lhasa the circuit is walked clockwise, one round of the ring to one round of the string.",
+  "today": "Live in every tradition listed, and sold far outside them. The mala in particular has a large secular retail market attached to yoga and wellness, in which the count is often kept and the mantra is not — an argument this atlas reports rather than settles, and which runs among practitioners rather than between practitioners and outsiders. Rudraksha remain commercially sourced from India, Indonesia and Nepal for jewellery and malas, and are valued similarly to semi-precious stones."
+ },
+ "dating": {
+  "period": "Late antique to the present",
+  "from_year": 201,
+  "to_year": null,
+  "living": true,
+  "label": "from the 3rd century on the earliest dated strand; the Hindu practice older and undated here",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:web-prayer-beads",
+  "note": "from_year is the earlier end of the third-to-fifth-century range the cited account gives for the Orthodox prayer rope among the Desert Fathers — the earliest dated origin in that account. The Hindu japamala is older; the source names no date for it, and this record does not supply one. The Buddhist mala is described as adopted from the Hindu tradition, also without a date."
+ },
+ "object": {
+  "form": "rosary",
+  "materials": ["seed", "wood", "bone", "glass", "iron", "thread", "amber", "coral", "silver"],
+  "worn": ["wrist", "neck", "pocket", "hair"],
+  "made_by": "stringers and workshops in each tradition; a prayer rope is knotted, in Orthodox practice, by the user's own tradition rather than bought strung",
+  "count": 108,
+  "single_use": false,
+  "source": "s:web-prayer-beads",
+  "note": "The count field can hold only one number and this practice has at least seven. 108 is entered because it is the count shared by the Hindu japamala and the Buddhist mala; the others — 59, 99 or 33, 33/50/100, 27, 95 or 19 — are set out in the story and are not merged into it."
+ },
+ "against": [
+  {"harm": "illness", "who": "wearers of rudraksha, which the cited account says are worn by believers for protection and for chanting mantras such as Om Namah Shivaya", "source": "s:wp-rudraksha", "tier": "cited", "note": "the protective claim and the counting function belong to the same object here, which is why this practice appears in an atlas of amulets at all"},
+  {"harm": "bad-luck", "who": "the Sikh simranee, 27 beads often of iron, worn on the wrist", "source": "s:web-prayer-beads", "tier": "cited", "note": "listed as worn rather than as claimed against a named harm; the source gives the count and the wearing, not a protective claim"}
+ ],
+ "kin": [
+  {"to": "rudraksha", "as": "the string this record's arithmetic is clearest on — 108 plus one, the extra bead there to mark where a cycle begins and ends", "rel": "carried-by"},
+  {"to": "knotting", "as": "the same cord with knots instead of beads: an Orthodox prayer rope carries 33, 50 or 100 of them", "rel": "parallel"},
+  {"to": "worry-stone", "as": "the single-bead version — repetition in the hand with the count taken out", "rel": "parallel"},
+  {"to": "cowrie-strand", "as": "the other fixed-number string in this atlas, where handling a set number becomes a throw and a reading rather than a tally", "rel": "contrast"},
+  {"to": "hindu-kavacha", "as": "the tradition that turns a string into an instrument: 108 and one", "rel": "tradition"},
+  {"to": "catholic-sacramentals", "as": "the tradition that files the rosary as a popular devotion and the beads as a devotional article — two different categories for one object", "rel": "tradition"},
+  {"to": "islamic-talismanic", "as": "the neighbouring tradition whose count follows a list rather than a number: 99 names, 99 beads, or 33 taken three times", "rel": "parallel"},
+  {"to": "barkhor-lhasa", "as": "the circuit walked with one of these, one round of the ring to one round of the string", "rel": "place"},
+  {"to": "divine-name", "as": "what the Muslim string is counting: the ninety-nine names, one bead each, or thirty-three taken three times", "rel": "motif"}
+ ],
+ "links": [
+  {"label": "Prayer beads — Wikipedia", "url": "https://en.wikipedia.org/wiki/Prayer_beads"},
+  {"label": "Rudraksha — Wikipedia", "url": "https://en.wikipedia.org/wiki/Rudraksha"}
+ ],
+ "sources": ["s:web-prayer-beads", "s:wp-rudraksha", "s:wp-sacramental", "s:wp-devotional-medal", "s:wp-barkhor", "s:wp-tibetan-buddhism", "s:wp-kavacha"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:web-prayer-beads"},
+  "fields": {
+   "dating": {"tier": "cited", "source": "s:web-prayer-beads", "note": "the earliest dated origin in the source; the undated strands are named as undated rather than estimated"},
+   "text.story": {"tier": "cited", "source": "s:web-prayer-beads", "note": "each count comes from the cited account for that tradition; the 108-plus-one arithmetic is from the rudraksha source. The paragraph comparing the reasons is marked inference where it appears."},
+   "object": {"tier": "cited", "source": "s:web-prayer-beads", "note": "count holds 108 because the schema allows one number; the note names the other six counts rather than folding them in"},
+   "text.today": {"tier": "inference", "note": "the secular mala market is this project's reading of a visible retail trade; no survey or study is cited for it, and the sentence says so"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Japa mala rudraksha.jpg", "File:Misbaha.jpg", "File:Komboskini.jpg"],
+ "confidence": "high",
+ "needs_verification": true,
+ "updated": "2026-09-17"
+}

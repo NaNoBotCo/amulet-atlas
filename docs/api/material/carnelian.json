@@ -1,0 +1,517 @@
+{
+ "id": "carnelian",
+ "names": {
+  "name": "Carnelian",
+  "aliases": [
+   "cornelian",
+   "sard",
+   "aqiq",
+   "'aqiq"
+  ],
+  "said": "kar-NEE-lee-an"
+ },
+ "etymology": {
+  "root": "Medieval Latin corneolus, from Latin cornum, the cornel cherry, whose translucent red fruit the stone resembles; English cornelian from the 14th century, carnelian a 16th-century corruption by analogy with caro, carnis, 'flesh'",
+  "note": "The Oxford English Dictionary calls the modern spelling a perversion of the older one. Pliny the Elder derives sard from the city of Sardis in Lydia; others connect it to Persian sered, 'yellowish-red', or Greek sarx, 'flesh'.",
+  "tier": "cited",
+  "source": "s:wp-carnelian"
+ },
+ "region": [
+  "ancient-egypt",
+  "mesopotamia",
+  "south-asia",
+  "greece-aegean",
+  "rome-italy",
+  "arabia-gulf",
+  "balkans"
+ ],
+ "countries": [
+  "BG",
+  "PK",
+  "IN",
+  "IR",
+  "IQ",
+  "EG",
+  "GR",
+  "IT",
+  "LK",
+  "ID",
+  "BR",
+  "RU",
+  "DE",
+  "PE"
+ ],
+ "facets": {
+  "kind": "stone"
+ },
+ "text": {
+  "what": "A brownish-red to orange chalcedony — silica, coloured by impurities of iron oxide — hard enough to take a polish and to hold a cut line. Sard is the same family, generally harder and darker, and the boundary between the two names is blurry enough that dealers use them interchangeably. Hot wax does not stick to carnelian, which is why Rome cut its seal-rings from it.",
+  "story": "Carnelian is one of the first stones anybody strung. Red chalcedony was worked into beads in the Early Neolithic in Bulgaria, and the Varna Chalcolithic necropolis, middle of the fifth millennium BCE, gives the first faceted carnelian beads — thirty-two facets, sixteen a side. At Mehrgarh in the fourth and fifth millennia BCE a bow drill was already going through it. The Indus Valley Civilisation made etched carnelian beads through the third millennium BCE, and the stone reached Bronze Age Knossos by about 1800 BCE.\n\nWhat the stone was asked to carry changed with who cut it. Sard went into Assyrian cylinder seals, into Egyptian and Phoenician scarabs, into early Greek and Etruscan gems. Rome used carnelian for the engraved gems of signet rings, the seal a letter was closed with. The Hebrew odem, first stone of the High Priest's breastplate, was a red stone — probably sard, possibly red jasper.\n\nIn the Islamic world the stone's own biography is the argument. Carnelian, 'aqiq, is often favoured because it was taken as the stone of Muhammad, who was said to have worn a carnelian seal set in silver on the little finger of his right hand. Writers on Islamic amulets set out the reasoning plainly: the protective value claimed for a material rests on its natural rarity, its monetary value and its symbolic implications. Carnelian's reddish translucency is read as blood, and the reading is anchored to the clot of congealed blood of Qur'an 96:2. Set beside jade, the pair is read as fertility and embryogenesis.\n\n*Inference —* carnelian is cut, never moulded, and that is the whole of its class position on a museum tray. The same wedjat eye that came out of a mould in faience by the thousand had to be ground from this stone one at a time. Where a drawer holds both, the stone ones cost more to make, and the tray is a price list as much as a typology.",
+  "today": "Still cut for beads and seal rings, and still sold as 'aqiq across West and South Asia. The mineral literature names Yanacodo in Peru and Ratnapura in Sri Lanka among significant localities, with the stone also found in Indonesia, Brazil, India, Iran, Siberia and Germany."
+ },
+ "dating": {
+  "period": "Chalcolithic to the present",
+  "from_year": -4499,
+  "to_year": null,
+  "living": true,
+  "label": "c. 4500 BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-carnelian",
+  "note": "Dated from the faceted beads of the Varna Chalcolithic necropolis, middle of the fifth millennium BCE. The same source reports red chalcedony beads from the Early Neolithic in Bulgaria without giving a year, so the floor is older than the number here."
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "writers on Islamic amulet practice, summarising why this stone is chosen",
+   "source": "s:wp-amulet",
+   "tier": "cited",
+   "note": "the claim is made for the material, not for any one shape cut from it"
+  },
+  {
+   "harm": "infertility",
+   "who": "Islamic amulet practice, where carnelian set with jade is read as fertility and embryogenesis",
+   "source": "s:wp-amulet",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "wedjat-eye",
+   "as": "the eye ground out of this stone rather than pressed from paste — the costlier half of the same tray",
+   "rel": "material"
+  },
+  {
+   "to": "scarab",
+   "as": "sard is named as a stone of Egyptian and Phoenician scarabs, engraved on the flat underside",
+   "rel": "material"
+  },
+  {
+   "to": "magical-gem",
+   "as": "the Greek and Roman engraved gem, for which this stone's refusal to hold hot wax made it the seal-cutter's default",
+   "rel": "material"
+  },
+  {
+   "to": "taweez",
+   "as": "the Islamic amulet whose makers argue from the stone itself — rarity, price, and a prophetic seal worn on the right little finger",
+   "rel": "material"
+  },
+  {
+   "to": "islamic-talismanic",
+   "as": "the tradition that states its materials doctrine out loud, and puts carnelian near the top of it",
+   "rel": "tradition"
+  },
+  {
+   "to": "egyptian-amulet-craft",
+   "as": "the workshops that cut this stone alongside the moulds that undercut it",
+   "rel": "tradition"
+  },
+  {
+   "to": "faience",
+   "as": "the cheap answer to this stone: quartz paste, moulded and glazed to look like something mined",
+   "rel": "contrast"
+  },
+  {
+   "to": "turquoise",
+   "as": "the other stone Egypt's kilns were asked to counterfeit in glaze",
+   "rel": "parallel"
+  },
+  {
+   "to": "glass",
+   "as": "the later imitation, poured rather than ground, and sold by the tray",
+   "rel": "contrast"
+  }
+ ],
+ "links": [
+  {
+   "label": "Carnelian — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Carnelian"
+  }
+ ],
+ "sources": [
+  "s:wp-carnelian",
+  "s:wp-amulet",
+  "s:wp-egyptian-faience",
+  "s:wp-eye-of-horus"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-carnelian"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-carnelian",
+    "note": "the Islamic materials paragraph is from s:wp-amulet; the closing paragraph is marked as this project's inference where it appears"
+   }
+  }
+ },
+ "x_commons_files": [
+  "File:Carnelian.jpg"
+ ],
+ "confidence": "high",
+ "schema": 1,
+ "type": "material",
+ "images": [],
+ "updated": "2026-09-16",
+ "blurb": "A brownish-red to orange chalcedony — silica, coloured by impurities of iron oxide — hard enough to take a polish and to hold a cut line.",
+ "region_terms": [
+  {
+   "key": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Nile valley and delta, Predynastic through Roman Egypt"
+  },
+  {
+   "key": "mesopotamia",
+   "name": "Mesopotamia",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Sumer, Akkad, Babylonia, Assyria"
+  },
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "greece-aegean",
+   "name": "Greece and the Aegean",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "arabia-gulf",
+   "name": "Arabia and the Gulf",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "balkans",
+   "name": "The Balkans",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "wedjat-eye",
+   "type": "amulet",
+   "name": "Wedjat eye",
+   "as": "the eye ground out of this stone rather than pressed from paste — the costlier half of the same tray",
+   "rel": "material"
+  },
+  {
+   "to": "scarab",
+   "type": "amulet",
+   "name": "Scarab",
+   "as": "sard is named as a stone of Egyptian and Phoenician scarabs, engraved on the flat underside",
+   "rel": "material"
+  },
+  {
+   "to": "magical-gem",
+   "type": "amulet",
+   "name": "Magical gem",
+   "as": "the Greek and Roman engraved gem, for which this stone's refusal to hold hot wax made it the seal-cutter's default",
+   "rel": "material"
+  },
+  {
+   "to": "taweez",
+   "type": "amulet",
+   "name": "Ta'wiz",
+   "as": "the Islamic amulet whose makers argue from the stone itself — rarity, price, and a prophetic seal worn on the right little finger",
+   "rel": "material"
+  },
+  {
+   "to": "islamic-talismanic",
+   "type": "tradition",
+   "name": "Islamic talismanic craft",
+   "as": "the tradition that states its materials doctrine out loud, and puts carnelian near the top of it",
+   "rel": "tradition"
+  },
+  {
+   "to": "egyptian-amulet-craft",
+   "type": "tradition",
+   "name": "Egyptian amulet craft",
+   "as": "the workshops that cut this stone alongside the moulds that undercut it",
+   "rel": "tradition"
+  },
+  {
+   "to": "faience",
+   "type": "material",
+   "name": "Faience",
+   "as": "the cheap answer to this stone: quartz paste, moulded and glazed to look like something mined",
+   "rel": "contrast"
+  },
+  {
+   "to": "turquoise",
+   "type": "material",
+   "name": "Turquoise",
+   "as": "the other stone Egypt's kilns were asked to counterfeit in glaze",
+   "rel": "parallel"
+  },
+  {
+   "to": "glass",
+   "type": "material",
+   "name": "Glass",
+   "as": "the later imitation, poured rather than ground, and sold by the tray",
+   "rel": "contrast"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-carnelian",
+   "kind": "encyclopedia",
+   "title": "Carnelian",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Carnelian",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-amulet",
+   "kind": "encyclopedia",
+   "title": "Amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-egyptian-faience",
+   "kind": "encyclopedia",
+   "title": "Egyptian faience",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Egyptian_faience",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-eye-of-horus",
+   "kind": "encyclopedia",
+   "title": "Eye of Horus",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eye_of_Horus",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-carnelian"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-carnelian",
+   "note": "the Islamic materials paragraph is from s:wp-amulet; the closing paragraph is marked as this project's inference where it appears"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-carnelian"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-carnelian"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-carnelian"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "writers on Islamic amulet practice, summarising why this stone is chosen",
+   "quote": "",
+   "source": "s:wp-amulet",
+   "tier": "cited",
+   "note": "the claim is made for the material, not for any one shape cut from it"
+  },
+  {
+   "key": "infertility",
+   "label": "Infertility",
+   "who": "Islamic amulet practice, where carnelian set with jade is read as fertility and embryogenesis",
+   "quote": "",
+   "source": "s:wp-amulet",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "4500 BCE to now",
+ "country_names": [
+  {
+   "iso": "BG",
+   "name": "Bulgaria"
+  },
+  {
+   "iso": "PK",
+   "name": "Pakistan"
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  },
+  {
+   "iso": "IR",
+   "name": "Iran"
+  },
+  {
+   "iso": "IQ",
+   "name": "Iraq"
+  },
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "LK",
+   "name": "Sri Lanka"
+  },
+  {
+   "iso": "ID",
+   "name": "Indonesia"
+  },
+  {
+   "iso": "BR",
+   "name": "Brazil"
+  },
+  {
+   "iso": "RU",
+   "name": "Russia"
+  },
+  {
+   "iso": "DE",
+   "name": "Germany"
+  },
+  {
+   "iso": "PE",
+   "name": "Peru"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "dzi-bead",
+   "type": "amulet",
+   "name": "Dzi bead",
+   "as": "the stone of the chung dzi, the ordinary etched beads counted as a lesser kind of the same thing",
+   "rel": "material"
+  },
+  {
+   "from": "magical-gem",
+   "type": "amulet",
+   "name": "Magical gem",
+   "as": "one of the stones cut for this, and the one the later Islamic tradition singles out as the Prophet's",
+   "rel": "material"
+  },
+  {
+   "from": "quran-pendant",
+   "type": "amulet",
+   "name": "Qur'an pendant",
+   "as": "the stone the tradition singles out as the Prophet's, worn set in silver",
+   "rel": "material"
+  },
+  {
+   "from": "scarab",
+   "type": "amulet",
+   "name": "Scarab",
+   "as": "the hardstone version, cut not moulded, and costlier",
+   "rel": "material"
+  },
+  {
+   "from": "tyet-knot",
+   "type": "amulet",
+   "name": "Tyet",
+   "as": "the red stone that stands in for the red jasper Chapter 156 asks for",
+   "rel": "material"
+  },
+  {
+   "from": "wedjat-eye",
+   "type": "amulet",
+   "name": "Wedjat eye",
+   "as": "the red stone version, cut rather than moulded, and costlier",
+   "rel": "material"
+  },
+  {
+   "from": "scarab-sign",
+   "type": "motif",
+   "name": "The beetle",
+   "as": "the red hardstone version, cut rather than moulded",
+   "rel": "material"
+  },
+  {
+   "from": "faience",
+   "type": "material",
+   "name": "Faience",
+   "as": "the cut stone the moulded copy competed with, and undercut",
+   "rel": "contrast"
+  },
+  {
+   "from": "jade",
+   "type": "material",
+   "name": "Jade",
+   "as": "its partner in Islamic amulet practice, where the pair is read as fertility",
+   "rel": "kin"
+  },
+  {
+   "from": "met-egyptian-galleries",
+   "type": "place",
+   "name": "The Egyptian galleries, the Metropolitan Museum of Art",
+   "as": "the red stone the same eye is cut from a few cases along",
+   "rel": "material"
+  },
+  {
+   "from": "campbell-bonner",
+   "type": "person",
+   "name": "Campbell Bonner",
+   "as": "one of the stones the gems are cut from, alongside haematite and jasper",
+   "rel": "material"
+  }
+ ]
+}

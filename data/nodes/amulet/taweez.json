@@ -1,0 +1,84 @@
+{
+ "schema": 1,
+ "id": "taweez",
+ "type": "amulet",
+ "names": {
+  "name": "Ta'wiz",
+  "native": "تعویذ",
+  "script": "Arabic",
+  "lang": "ur",
+  "said": "ta-WEEZ; Arabic taʿwīdh, Urdu and Hindi ta'wiz, Hindi तावीज़",
+  "aliases": ["taweez", "tawiz", "taʿwīdh", "hafiz", "himala"]
+ },
+ "etymology": {
+  "root": "Arabic taʿwīdh, 'amulet' or 'charm', from the verb ʿawwadha, 'to fortify someone with an amulet or incantation'; Urdu and Hindi take the word from the Arabic",
+  "note": "In Islamic contexts the object is also called hafiz, protector, or himala, pendant.",
+  "tier": "cited",
+  "source": "s:wp-amulet"
+ },
+ "region": ["south-asia", "arabia-gulf", "central-asia", "maghreb", "anatolia", "balkans"],
+ "countries": ["PK", "IN", "BD", "EG", "TR", "AF", "AL", "IR", "MA"],
+ "facets": {"era": "living", "status": "contested", "portable": "worn", "restricted": "open", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "Writing, folded up and worn. A ta'wiz can be a paper packet in a black pouch, a scroll in a tubular pendant case, letters carved into metal, or a framed dua on a wall. The text is Qur'anic verses, names of God, names of prophets and companions, hadith, religious narratives, or duas. In Central and West Asia the packet is often triangular and pinned to a baby's clothes.",
+  "story": "The trade in these has a documented shape. Texts packaged in ta'wiz were most often pre-made for the public; a literate wearer could change the verse at his own discretion. Scrolls with Qur'anic quotations, prophetic references and sacred symbols were common in war in the Ottoman Empire, carrying verses such as 'victory is from God and conquest is near', Qur'an 61:13, worn in combat.\n\nOne of the oldest surviving examples is a printed object, not a written one. Diminutive amulets made in the medieval Mediterranean Islamic world were executed with a block print or die, called tarsh, and folded down small enough for a tiny box or tubular case. The Aga Khan Museum in Toronto holds an Egyptian block-printed amulet of the tenth or eleventh century, ink on paper, 7.2 by 5.5 centimetres; the last line of its text is Qur'an 20:46, \"So God will safeguard you from them. He is All-Hearing and All-Knowing\". Such text amulets were housed in lead cases stamped with surat al-Ikhlas, with lugs so the packet could be sewn to clothing or hung from the body. The cases were kept sealed, so the printed contents were invisible to an owner who could not afford a handwritten one.\n\nWhether a Muslim should wear one at all is disagreed about, by name, and this atlas reports both sides without joining either. Some hadith condemn the wearing of talismans, and some Muslims, notably Salafis, hold that amulets and talismans are forbidden and that using them is shirk — associating a partner with God. Other hadith support their use, and some denominations count it permissible magic, usually on conditions: that the wearer holds the talisman to help only through God's will. The formulation reported for Sunni practice is that a ta'wiz may be worn as long as it consciously strengthens the wearer's bond with Allah, and not out of a belief that the ta'wiz itself cures or protects. Set against that, virtually all Muslim scholars are described as permitting talismans that invoke God or an intercessor — Muhammad, Ali, the saints — while addressing jinn or demons is prohibited. Muhammad ibn Abd al-Wahhab treated sorcery as one of the few sins carrying a divinely sanctioned death penalty; Muhammad Nasiruddin al-Albani held that those convinced sorcery has effect of its own accord, rather than by God's decision and will, will not enter paradise; the Wahhabi preacher Bilal Philips has tried to draw the line by way of a hadith in which a sura with supernatural properties was recited but not written down and used as a charm.\n\nThe numbers are surveyed. A Pew Research Center survey of Muslims worldwide in 2011–2012 found belief in talismans, witchcraft and spiritual healers ranging from about a quarter to a half of Muslims in the Middle East and North Africa, Turkey, South Asia and Southeast Asia — less widespread than belief in jinn. Ta'wiz use is reported at 41 per cent of Muslims in Pakistan and 39 per cent in Albania.\n\n*Tradition holds —* a ta'wiz worn by Hindus often carries the sacred Om symbol instead, which is the plainest evidence in the atlas that the container and the writing can come apart."
+ },
+ "dating": {
+  "period": "Medieval Islamic to the present",
+  "from_year": 901,
+  "to_year": null,
+  "living": true,
+  "label": "block-printed examples from the 10th or 11th century; still worn",
+  "method": "dated-object",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-amulet",
+  "note": "Dated from the Egyptian block-printed amulet of the tenth or eleventh century in the Aga Khan Museum. The practice of writing Qur'anic text to carry is older than that object; the cited article gives no earlier dated example."
+ },
+ "object": {
+  "form": "packet",
+  "materials": ["paper", "ink", "lead", "silver", "leather", "cloth"],
+  "worn": ["neck", "upper-arm", "sewn-in", "pocket", "wall"],
+  "made_by": "pre-made for the public and sold ready-written; a literate wearer could substitute his own verse. Handwritten amulets cost more than serialised printed ones.",
+  "inscription": "Qur'anic verses, the ninety-nine names of God, names of prophets and companions — Solomon, Ali, Hasan, Husain, the Seven Sleepers of Ephesus are among the favoured figures — and duas",
+  "script": "Arabic",
+  "length_mm": 72,
+  "source": "s:wp-amulet",
+  "note": "The measurement is the Aga Khan Museum's block-printed amulet, 7.2 by 5.5 cm, as published in the cited article. Other ta'wiz are any size."
+ },
+ "against": [
+  {"harm": "evil-eye", "who": "the cited account of Islamic amulets, which names warding off the evil eye as one of their main functions", "source": "s:wp-amulet", "tier": "cited"},
+  {"harm": "demons", "who": "the same account, which names the jinn; Islamic talismans invoke God, angels or prophets, and addressing jinn or demons is prohibited", "source": "s:wp-islam-and-magic", "tier": "cited"},
+  {"harm": "war", "who": "Ottoman soldiers, who carried scrolls with Qur'anic quotations in combat, among them 'victory is from God and conquest is near' (Qur. 61:13)", "source": "s:wp-amulet", "tier": "cited"},
+  {"harm": "child-harm", "who": "households in Central and West Asia, who attached triangular packets containing a sacred verse to the clothing of babies and young children", "source": "s:wp-amulet", "tier": "cited"},
+  {"harm": "illness", "who": "the cited account, which says these objects were meant to promote health, longevity, fertility and potency as well as to ward off misfortune", "source": "s:wp-amulet", "tier": "cited"}
+ ],
+ "holdings": [
+  {"museum": "other", "what": "the Aga Khan Museum, Toronto — an Egyptian block-printed paper amulet of the tenth or eleventh century, ink on paper, 7.2 × 5.5 cm, ending in Qur'an 20:46", "source": "s:wp-amulet", "note": "described in the cited article; this project read no catalogue page, so no accession number appears"}
+ ],
+ "kin": [
+  {"to": "islamic-talismanic", "as": "the tradition this is the everyday object of, and the argument it sits inside", "rel": "tradition"},
+  {"to": "quran-pendant", "as": "the same scripture in a metal case rather than a folded packet", "rel": "kin"},
+  {"to": "talismanic-shirt", "as": "the same writing scaled up until it is a garment", "rel": "kin"},
+  {"to": "hirz-pouch", "as": "the North African and Nile version of the same container", "rel": "kin"},
+  {"to": "tabiz", "as": "the South Asian object under the same word, carried by Muslims and by Hindus with an Om on it instead", "rel": "same-word"},
+  {"to": "taweez-word", "as": "the word, from a verb meaning to fortify somebody with an amulet", "rel": "same-word"},
+  {"to": "kamea", "as": "the Jewish parallel, argued over inside its own tradition on almost the same terms", "rel": "parallel"},
+  {"to": "paper", "as": "the material, and the reason the cheap ones were printed and sealed unread", "rel": "material"},
+  {"to": "folding", "as": "the practice that makes a page into a thing you can wear", "rel": "practice"},
+  {"to": "magic-square", "as": "the other thing written inside these — the wafq, whose 3×3 form the tradition tied to the four archangels", "rel": "motif"},
+  {"to": "khan-el-khalili", "as": "one of the markets that sells them by the tray", "rel": "place"}
+ ],
+ "links": [{"label": "Amulet — Wikipedia", "url": "https://en.wikipedia.org/wiki/Amulet"}],
+ "sources": ["s:wp-amulet", "s:wp-islam-and-magic", "s:wp-throne-verse", "s:wp-magic-square", "s:wp-hamsa"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-amulet"},
+  "fields": {
+   "countries": {"tier": "cited", "source": "s:wp-amulet", "note": "Pakistan and Albania are named with survey percentages; Egypt, Turkey, Central and West Asia and the Maghreb are named in the text; the rest of the Muslim world is under-reported here on purpose"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Taweez.jpg", "File:Block printed amulet Egypt.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

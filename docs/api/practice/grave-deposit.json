@@ -1,0 +1,860 @@
+{
+ "schema": 1,
+ "id": "grave-deposit",
+ "type": "practice",
+ "names": {
+  "name": "Grave deposit",
+  "aliases": [
+   "burial goods",
+   "amulets in the wrappings",
+   "grave goods"
+  ],
+  "said": "what goes into the ground with the person"
+ },
+ "region": [
+  "ancient-egypt",
+  "levant",
+  "china",
+  "rome-italy",
+  "greece-aegean",
+  "aotearoa",
+  "pacific",
+  "north-america"
+ ],
+ "countries": [
+  "EG",
+  "IL",
+  "PS",
+  "CN",
+  "IT",
+  "GR",
+  "NZ",
+  "FJ",
+  "US",
+  "SD"
+ ],
+ "facets": {
+  "stage": "wear",
+  "era": "ancient",
+  "status": "archaeological"
+ },
+ "text": {
+  "what": "Amulets put into a burial — on the body, in the wrappings, in the chest cavity, in the hand, around the coffin. This is where most of the ancient charms in the world's museums come from, which means the drawers are a record of what people were buried in rather than of what they wore to work.",
+  "story": "Egypt made the grave the standard destination. Amulets of gold, faience and carnelian appear in Old Kingdom burials in various shapes to protect different parts of the body, and the mummification sequence put them into the linen as it went on: the body was wrapped in strips with amulets while a priest recited prayers and burned incense. By the Late period a burial could carry heart scarabs, djed columns in gold and faience, Eye of Horus amulets, figures of deities and magical bricks set at the four compass points.\n\nParticular amulets carry their own placement rules. A heart scarab went directly over the heart and was wrapped into the bandages; in a Third Intermediate Period variant, smaller and uninscribed, it went inside the chest cavity alongside the real heart. The amulet's job, in the Egyptian account, was to keep the heart silent at the weighing in the Duat, so that it did not testify against its owner, or to stand in for it. The first known depictions are Sixteenth or Seventeenth Dynasty, around 1690 BCE. Tyet amulets — the knot of Isis — began going into burials in the early New Kingdom, from Amenhotep III, and from then until the end of dynastic Egypt few people were buried without one in the wrappings, usually on the upper torso; Chapter 156 of the Book of the Dead calls for one in red jasper at the neck.\n\nJerusalem produced the oldest surviving biblical text this way. In 1979, two tiny silver scrolls inscribed with portions of the Priestly Blessing and apparently once used as amulets were found in one of the Iron Age Judahite burial chambers at Ketef Hinnom, a site whose 1975 salvage excavation Gabriel Barkay reported. They date to around 600 BCE and took three years to unroll. They are in the Israel Museum.\n\nHan China buried its dead in stone. Jade burial suits were made of plaques joined through drilled corners with gold, silver, copper or silk thread, with the wire assigned by rank in the Book of Later Han — gold for emperors, silver for princes and marquises, copper for their children, silk for lesser aristocrats, and everyone else forbidden. Two complete suits found in 1968 in the tombs of Liu Sheng and Dou Wan at Mancheng, Hebei, settled a long argument about whether such suits existed. A suit took several years to make; some were too small for the body and were laid on a wooden effigy instead. Emperor Wen of Wei banned their production in 223 CE to reduce tomb looting, which is a dated statement about how much of this material was already being dug up.\n\nElsewhere the grave takes the same objects the living used. Fijian men were buried with their tabua, the polished sperm-whale teeth, along with war clubs. Hei-tiki were often buried when their kaitiaki, their guardian, died, and retrieved later to be kept somewhere special and brought out at tangihanga. Greek and Roman curse tablets were put in graves so that the dead person could carry the message, chosen often from those who had died young or violently. In Rome, by contrast, a boy's bulla left him at manhood and went to the household Lares rather than to the ground.\n\n*Inference —* the timeline and the map in this atlas are built on graves. A material that survives burial and a custom of burying it together decide which traditions look old and which look recent; Egypt looks enormous partly because it buried faience by the thousand in dry ground. That is a fact about preservation before it is a fact about devotion.",
+  "how": "Put on the body, wrapped into the bandages at the position the texts specify, laid in the coffin, or set at the compass points of the chamber. In several traditions the placement is the whole instruction and the amulet is otherwise an ordinary one.",
+  "today": "Now mostly a question of who holds the objects. Grave goods are the most contested class in museum collections: in the United States the Native American Graves Protection and Repatriation Act sets out how human remains and funerary objects in federally funded collections are returned, and repatriation claims elsewhere turn on the same distinction between an object given to the dead and an object traded by the living. Egyptian funerary amulets remain on open display in many collections, and the asymmetry between those two situations is itself an argument."
+ },
+ "dating": {
+  "period": "Old Kingdom Egypt onward",
+  "from_year": -2685,
+  "to_year": null,
+  "living": true,
+  "label": "c. 2686 BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-ancient-egyptian-funerary-practices",
+  "note": "From the Old Kingdom, when amulets of gold, faience and carnelian first appear in burials to protect parts of the body. The end is left open because the traditions named in this record — Fijian, Māori — describe burial with personal objects as continuing; no source read here dates a last instance."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": [
+   "faience",
+   "carnelian",
+   "gold",
+   "jade",
+   "silver",
+   "tooth",
+   "lead"
+  ],
+  "worn": [
+   "grave",
+   "chest",
+   "neck"
+  ],
+  "made_by": "workshops attached to the embalming trade in Egypt; imperial workshops in Han China; the household elsewhere",
+  "inscription": "Chapter 30B of the Book of the Dead on Egyptian heart scarabs; the Priestly Blessing on the Ketef Hinnom scrolls",
+  "script": "Egyptian hieroglyphic, Palaeo-Hebrew",
+  "single_use": true,
+  "source": "s:wp-heart-scarab"
+ },
+ "against": [
+  {
+   "harm": "the-dead",
+   "who": "Egyptian funerary religion, in which the heart scarab binds the heart to silence at the weighing or speaks in its place",
+   "source": "s:wp-heart-scarab",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "Chapter 156 of the Book of the Dead, on the red jasper tyet placed at a mummy's neck",
+   "quote": "the power of Isis will be the protection of [the mummy's] body",
+   "source": "s:wp-tyet",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "Fijian practice, in which men were buried with their tabua and war clubs to help them in the afterlife",
+   "source": "s:wp-tabua",
+   "tier": "cited"
+  },
+  {
+   "harm": "curse",
+   "who": "Greek and Roman clients whose tablets went into graves, addressed through the person buried there",
+   "source": "s:wp-curse-tablet",
+   "tier": "cited"
+  }
+ ],
+ "holdings": [
+  {
+   "museum": "british-museum",
+   "what": "Egyptian funerary amulets, heart scarabs and wrapped-in material",
+   "source": "s:wp-british-museum"
+  },
+  {
+   "museum": "met",
+   "what": "Egyptian funerary amulets in the Egyptian galleries",
+   "source": "s:wp-metropolitan-museum-of-art",
+   "open_access": true
+  },
+  {
+   "museum": "petrie",
+   "what": "excavated amulet series from Egyptian cemeteries",
+   "source": "s:wp-petrie-museum-of-egyptian-archaeology"
+  }
+ ],
+ "kin": [
+  {
+   "to": "heart-scarab",
+   "as": "the amulet with the strictest placement in this practice — over the heart, or later inside the chest",
+   "rel": "carried-by"
+  },
+  {
+   "to": "wedjat-eye",
+   "as": "the amulet Egypt buried in the greatest numbers, and the reason museum trays of it are so deep",
+   "rel": "carried-by"
+  },
+  {
+   "to": "tyet-knot",
+   "as": "in the wrappings on the upper torso from Amenhotep III to the end of dynastic Egypt",
+   "rel": "carried-by"
+  },
+  {
+   "to": "ketef-hinnom-scrolls",
+   "as": "silver worn in life and found in a burial chamber, carrying the oldest surviving biblical text known",
+   "rel": "carried-by"
+  },
+  {
+   "to": "hei-tiki",
+   "as": "buried when its guardian died, then lifted again and brought out at tangihanga",
+   "rel": "carried-by"
+  },
+  {
+   "to": "bulla",
+   "as": "the counter-case: a Roman boy's charm went to the household gods at manhood, not into the ground",
+   "rel": "contrast"
+  },
+  {
+   "to": "egyptian-amulet-craft",
+   "as": "the tradition that made this the default destination for a small object",
+   "rel": "tradition"
+  },
+  {
+   "to": "nagpra",
+   "as": "the law that governs what happens to funerary objects held in United States collections",
+   "rel": "org"
+  },
+  {
+   "to": "flinders-petrie",
+   "as": "the excavator whose cemetery work produced the amulet series museums still sort by",
+   "rel": "person"
+  },
+  {
+   "to": "foundation-deposit",
+   "as": "the other undisturbed context that fills the drawers",
+   "rel": "parallel"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read this practice leads straight into",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Ketef Hinnom — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ketef_Hinnom"
+  },
+  {
+   "label": "Jade burial suit — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jade_burial_suit"
+  }
+ ],
+ "sources": [
+  "s:wp-ancient-egyptian-funerary-practices",
+  "s:wp-heart-scarab",
+  "s:wp-tyet",
+  "s:wp-ketef-hinnom",
+  "s:wp-jade-burial-suit",
+  "s:wp-tabua",
+  "s:wp-hei-tiki",
+  "s:wp-curse-tablet",
+  "s:wp-bulla-amulet",
+  "s:wp-native-american-graves-protection-and-repatriation-act",
+  "s:wp-british-museum",
+  "s:wp-metropolitan-museum-of-art",
+  "s:wp-petrie-museum-of-egyptian-archaeology"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-ancient-egyptian-funerary-practices"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-jade-burial-suit",
+    "note": "the closing paragraph about preservation bias is this project's reading and is marked where it appears"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-native-american-graves-protection-and-repatriation-act",
+    "note": "the final sentence, that the asymmetry is itself an argument, is this project's observation"
+   },
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-ancient-egyptian-funerary-practices",
+    "note": "the open end is not a claim that any particular tradition still buries amulets today; it records that no last instance is dated in these sources"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Jade burial suit Liu Sheng.jpg",
+  "File:Heart scarab MET.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Amulets put into a burial — on the body, in the wrappings, in the chest cavity, in the hand, around the coffin.",
+ "region_terms": [
+  {
+   "key": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Nile valley and delta, Predynastic through Roman Egypt"
+  },
+  {
+   "key": "levant",
+   "name": "The Levant",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "china",
+   "name": "China",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "greece-aegean",
+   "name": "Greece and the Aegean",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "aotearoa",
+   "name": "Aotearoa New Zealand",
+   "hemi": [
+    "S",
+    "E"
+   ]
+  },
+  {
+   "key": "pacific",
+   "name": "The Pacific",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "Polynesia, Melanesia, Micronesia"
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "heart-scarab",
+   "type": "amulet",
+   "name": "Heart scarab",
+   "as": "the amulet with the strictest placement in this practice — over the heart, or later inside the chest",
+   "rel": "carried-by"
+  },
+  {
+   "to": "wedjat-eye",
+   "type": "amulet",
+   "name": "Wedjat eye",
+   "as": "the amulet Egypt buried in the greatest numbers, and the reason museum trays of it are so deep",
+   "rel": "carried-by"
+  },
+  {
+   "to": "tyet-knot",
+   "type": "amulet",
+   "name": "Tyet",
+   "as": "in the wrappings on the upper torso from Amenhotep III to the end of dynastic Egypt",
+   "rel": "carried-by"
+  },
+  {
+   "to": "ketef-hinnom-scrolls",
+   "type": "amulet",
+   "name": "Ketef Hinnom silver scrolls",
+   "as": "silver worn in life and found in a burial chamber, carrying the oldest surviving biblical text known",
+   "rel": "carried-by"
+  },
+  {
+   "to": "hei-tiki",
+   "type": "amulet",
+   "name": "Hei-tiki",
+   "as": "buried when its guardian died, then lifted again and brought out at tangihanga",
+   "rel": "carried-by"
+  },
+  {
+   "to": "bulla",
+   "type": "amulet",
+   "name": "Bulla",
+   "as": "the counter-case: a Roman boy's charm went to the household gods at manhood, not into the ground",
+   "rel": "contrast"
+  },
+  {
+   "to": "egyptian-amulet-craft",
+   "type": "tradition",
+   "name": "Egyptian amulet craft",
+   "as": "the tradition that made this the default destination for a small object",
+   "rel": "tradition"
+  },
+  {
+   "to": "nagpra",
+   "type": "org",
+   "name": "The Native American Graves Protection and Repatriation Act",
+   "as": "the law that governs what happens to funerary objects held in United States collections",
+   "rel": "org"
+  },
+  {
+   "to": "flinders-petrie",
+   "type": "person",
+   "name": "Flinders Petrie",
+   "as": "the excavator whose cemetery work produced the amulet series museums still sort by",
+   "rel": "person"
+  },
+  {
+   "to": "foundation-deposit",
+   "type": "practice",
+   "name": "Foundation deposit",
+   "as": "the other undisturbed context that fills the drawers",
+   "rel": "parallel"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read this practice leads straight into",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-ancient-egyptian-funerary-practices",
+   "kind": "encyclopedia",
+   "title": "Ancient Egyptian funerary practices",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_funerary_practices",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-heart-scarab",
+   "kind": "encyclopedia",
+   "title": "Heart scarab",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Heart_scarab",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tyet",
+   "kind": "encyclopedia",
+   "title": "Tyet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tyet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ketef-hinnom",
+   "kind": "encyclopedia",
+   "title": "Ketef Hinnom",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ketef_Hinnom",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-jade-burial-suit",
+   "kind": "encyclopedia",
+   "title": "Jade burial suit",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jade_burial_suit",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tabua",
+   "kind": "encyclopedia",
+   "title": "Tabua",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tabua",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-hei-tiki",
+   "kind": "encyclopedia",
+   "title": "Hei-tiki",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hei-tiki",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-curse-tablet",
+   "kind": "encyclopedia",
+   "title": "Curse tablet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Curse_tablet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-bulla-amulet",
+   "kind": "encyclopedia",
+   "title": "Bulla (amulet)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bulla_(amulet)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-native-american-graves-protection-and-repatriation-act",
+   "kind": "encyclopedia",
+   "title": "Native American Graves Protection and Repatriation Act",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Native_American_Graves_Protection_and_Repatriation_Act",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-british-museum",
+   "kind": "encyclopedia",
+   "title": "British Museum",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/British_Museum",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-metropolitan-museum-of-art",
+   "kind": "encyclopedia",
+   "title": "Metropolitan Museum of Art",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-petrie-museum-of-egyptian-archaeology",
+   "kind": "encyclopedia",
+   "title": "Petrie Museum of Egyptian Archaeology",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Petrie_Museum_of_Egyptian_Archaeology",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-ancient-egyptian-funerary-practices"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-jade-burial-suit",
+   "note": "the closing paragraph about preservation bias is this project's reading and is marked where it appears"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-ancient-egyptian-funerary-practices"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-native-american-graves-protection-and-repatriation-act",
+   "note": "the final sentence, that the asymmetry is itself an argument, is this project's observation"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-ancient-egyptian-funerary-practices",
+   "note": "the open end is not a claim that any particular tradition still buries amulets today; it records that no last instance is dated in these sources"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-ancient-egyptian-funerary-practices"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "the-dead",
+   "label": "Danger to the dead",
+   "gloss": "charms put in a grave for the person in it",
+   "who": "Egyptian funerary religion, in which the heart scarab binds the heart to silence at the weighing or speaks in its place",
+   "quote": "",
+   "source": "s:wp-heart-scarab",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "Chapter 156 of the Book of the Dead, on the red jasper tyet placed at a mummy's neck",
+   "quote": "the power of Isis will be the protection of [the mummy's] body",
+   "source": "s:wp-tyet",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "Fijian practice, in which men were buried with their tabua and war clubs to help them in the afterlife",
+   "quote": "",
+   "source": "s:wp-tabua",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "curse",
+   "label": "A curse already laid",
+   "who": "Greek and Roman clients whose tablets went into graves, addressed through the person buried there",
+   "quote": "",
+   "source": "s:wp-curse-tablet",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "faience",
+   "label": "Faience",
+   "kind": "fired",
+   "note": "glazed quartz paste; Egypt's amulet material at scale"
+  },
+  {
+   "key": "carnelian",
+   "label": "Carnelian",
+   "kind": "stone",
+   "note": "red; Egypt's colour for blood and life"
+  },
+  {
+   "key": "gold",
+   "label": "Gold",
+   "kind": "metal"
+  },
+  {
+   "key": "jade",
+   "label": "Jade",
+   "kind": "stone",
+   "note": "nephrite and jadeite; China, Mesoamerica, Aotearoa"
+  },
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  },
+  {
+   "key": "tooth",
+   "label": "Tooth, tusk and claw",
+   "kind": "organic"
+  },
+  {
+   "key": "lead",
+   "label": "Lead",
+   "kind": "metal"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "grave",
+   "label": "In the grave",
+   "group": "placed",
+   "note": "most surviving ancient amulets are here because somebody was buried in them"
+  },
+  {
+   "key": "chest",
+   "label": "On the chest, under the shirt",
+   "group": "body"
+  },
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  }
+ ],
+ "form_fact": {
+  "key": "pendant",
+  "label": "Pendant"
+ },
+ "holding_facts": [
+  {
+   "key": "british-museum",
+   "label": "The British Museum",
+   "city": "London",
+   "country": "GB",
+   "url": "",
+   "what": "Egyptian funerary amulets, heart scarabs and wrapped-in material",
+   "accession": "",
+   "source": "s:wp-british-museum"
+  },
+  {
+   "key": "met",
+   "label": "The Metropolitan Museum of Art",
+   "city": "New York",
+   "country": "US",
+   "url": "",
+   "open": true,
+   "what": "Egyptian funerary amulets in the Egyptian galleries",
+   "accession": "",
+   "source": "s:wp-metropolitan-museum-of-art"
+  },
+  {
+   "key": "petrie",
+   "label": "The Petrie Museum of Egyptian Archaeology",
+   "city": "London",
+   "country": "GB",
+   "url": "",
+   "what": "excavated amulet series from Egyptian cemeteries",
+   "accession": "",
+   "source": "s:wp-petrie-museum-of-egyptian-archaeology"
+  }
+ ],
+ "span": "2686 BCE to now",
+ "country_names": [
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  },
+  {
+   "iso": "IL",
+   "name": "Israel"
+  },
+  {
+   "iso": "PS",
+   "name": "Palestine"
+  },
+  {
+   "iso": "CN",
+   "name": "China"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "NZ",
+   "name": "New Zealand"
+  },
+  {
+   "iso": "FJ",
+   "name": "Fiji"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "SD",
+   "name": "Sudan"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "charm-coin",
+   "type": "amulet",
+   "name": "Chinese charm coin",
+   "as": "the practice behind the burial classes, and the reason the \"Laid to Rest\" charms are documented at all",
+   "rel": "practice"
+  },
+  {
+   "from": "cowrie-strand",
+   "type": "amulet",
+   "name": "Cowrie strand",
+   "as": "the practice that put them around the skulls of girls in predynastic Egypt and the Neolithic Levant",
+   "rel": "practice"
+  },
+  {
+   "from": "djed-pillar",
+   "type": "amulet",
+   "name": "Djed pillar",
+   "as": "the practice this amulet exists inside",
+   "rel": "practice"
+  },
+  {
+   "from": "heart-scarab",
+   "type": "amulet",
+   "name": "Heart scarab",
+   "as": "the practice this object exists inside; it was never meant to be seen again",
+   "rel": "practice"
+  },
+  {
+   "from": "hei-tiki",
+   "type": "amulet",
+   "name": "Hei-tiki",
+   "as": "the practice recorded here: buried with a kaitiaki, and lifted again for the tangihanga",
+   "rel": "practice"
+  },
+  {
+   "from": "ketef-hinnom-scrolls",
+   "type": "amulet",
+   "name": "Ketef Hinnom silver scrolls",
+   "as": "the practice that is the reason this object exists to be read",
+   "rel": "practice"
+  },
+  {
+   "from": "mjolnir-pendant",
+   "type": "amulet",
+   "name": "Mjölnir pendant",
+   "as": "the practice that put a tenth of these pendants where archaeologists found them, mostly in cremations, mostly in women's graves",
+   "rel": "practice"
+  },
+  {
+   "from": "pazuzu-head",
+   "type": "amulet",
+   "name": "Pazuzu head",
+   "as": "why some of these are still here: they were buried with the people who wore them",
+   "rel": "practice"
+  },
+  {
+   "from": "phra-khrueang",
+   "type": "amulet",
+   "name": "Phra khrueang",
+   "as": "why so many surface at once: tablets were sealed into stupas at construction and come out when the stupa falls",
+   "rel": "practice"
+  },
+  {
+   "from": "scarab",
+   "type": "amulet",
+   "name": "Scarab",
+   "as": "the practice that is why so many survive at all",
+   "rel": "practice"
+  },
+  {
+   "from": "taweret-amulet",
+   "type": "amulet",
+   "name": "Taweret amulet",
+   "as": "the other end of her work — hippopotami with marsh flora put in tombs for a second birth",
+   "rel": "practice"
+  },
+  {
+   "from": "tyet-knot",
+   "type": "amulet",
+   "name": "Tyet",
+   "as": "the practice this amulet exists inside, and the reason so many survive",
+   "rel": "practice"
+  },
+  {
+   "from": "wedjat-eye",
+   "type": "amulet",
+   "name": "Wedjat eye",
+   "as": "the practice that is the reason this amulet survives at all",
+   "rel": "practice"
+  },
+  {
+   "from": "copper",
+   "type": "material",
+   "name": "Copper and bronze",
+   "as": "the practice that put a measured bronze disc in a dead person's mouth",
+   "rel": "practice"
+  },
+  {
+   "from": "cowrie",
+   "type": "material",
+   "name": "Cowrie",
+   "as": "the practice that puts cowries around a girl's skull, and the reason we have any from 4000 BCE",
+   "rel": "practice"
+  },
+  {
+   "from": "burying",
+   "type": "practice",
+   "name": "Burying",
+   "as": "the same verb pointed at a person rather than a place",
+   "rel": "parallel"
+  },
+  {
+   "from": "foundation-deposit",
+   "type": "practice",
+   "name": "Foundation deposit",
+   "as": "the other great undisturbed context, and the other reason the drawers are full",
+   "rel": "parallel"
+  },
+  {
+   "from": "flinders-petrie",
+   "type": "person",
+   "name": "Flinders Petrie",
+   "as": "the practice his cemeteries recorded — over seventeen cemeteries between Hu and Abadiya alone",
+   "rel": "practice"
+  },
+  {
+   "from": "nagpra",
+   "type": "org",
+   "name": "The Native American Graves Protection and Repatriation Act",
+   "as": "the practice the Act exists to answer: what was buried with somebody, and who it still belongs to",
+   "rel": "practice"
+  }
+ ]
+}

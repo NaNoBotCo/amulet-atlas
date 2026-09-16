@@ -1,0 +1,73 @@
+{
+ "schema": 1,
+ "id": "lunula",
+ "type": "amulet",
+ "names": {
+  "name": "Lunula",
+  "native": "lunula",
+  "script": "Latin",
+  "lang": "la",
+  "said": "LOO-nu-la, plural lunulae, 'little moon'",
+  "aliases": ["crescent pendant", "Roman girl's crescent"]
+ },
+ "region": ["rome-italy", "greece-aegean"],
+ "countries": ["IT"],
+ "facets": {"era": "classical", "status": "archaeological", "portable": "worn", "restricted": "limited", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A crescent moon on a chain, usually gold, worn by girls in ancient Rome. Isidore of Seville defines it exactly: \"Lunulae are female ornaments in the likeness of the moon, little hanging gold bullae.\" It came off on the eve of her marriage, with her childhood toys and the rest of her child's clothes, and she put on women's dress.",
+  "story": "Two lines of Plautus are most of what a reader can hold onto. In Epidicus, the speaker asks the girl Telestis: \"Don't you remember my bringing you a gold lunula on your birthday, and a little gold ring for your finger?\" In Rudens, Palaestra says her father gave her a golden bulla on the day she was born. Girls got a crescent, boys got a locket, and the plays treat both as the ordinary furniture of a childhood.\n\nThe cited account is direct about what Romans wore amulets for: against evil forces, demons and sorcery, and especially against the evil eye. It also draws a map line worth keeping. Lunulae were common right across the Mediterranean; the bulla, the boys' version, was mostly an Italian object. This record lists Italy alone in its countries because Italy is where the source names the practice; the wider Mediterranean spread is stated in the source without countries attached to it.\n\n*Inference —* an amulet with a removal ceremony is doing two jobs. It guards a child, and it counts. Take it off and something has ended — a wedding in this case, a toga in the boys'. The atlas has a small class of these, and the Bulgarian martenitsa, which comes off when the wearer sees a stork, belongs to it."
+ },
+ "dating": {
+  "period": "Roman",
+  "from_year": -299,
+  "to_year": 399,
+  "living": false,
+  "label": "Roman antiquity",
+  "method": "textual",
+  "circa": true,
+  "tier": "inference",
+  "source": "s:wp-lunula-amulet",
+  "note": "The cited article gives no attestation range. Its dated anchors are Plautus in the 3rd–2nd century BCE and Isidore of Seville around 600 CE, quoting an object he expects his readers to know. The span here is a hedge."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": ["gold"],
+  "worn": ["neck"],
+  "made_by": "worn by girls, from childhood until the eve of the wedding",
+  "inscription": "",
+  "script": "Latin",
+  "colour": ["gold"],
+  "single_use": false,
+  "source": "s:wp-lunula-amulet",
+  "note": "Isidore calls them little hanging gold bullae; no published measurement was read."
+ },
+ "against": [
+  {"harm": "evil-eye", "who": "the cited account of Roman amulet practice, which names the evil eye as the thing Romans guarded against above all", "source": "s:wp-lunula-amulet", "tier": "cited"},
+  {"harm": "demons", "who": "Roman practice, as summarised in the cited article: against evil forces, demons and sorcery", "source": "s:wp-lunula-amulet", "tier": "cited"},
+  {"harm": "witchcraft", "who": "the same account, which names sorcery alongside demons", "source": "s:wp-lunula-amulet", "tier": "cited"},
+  {"harm": "child-harm", "who": "Roman families; Plautus has a lunula given to a girl as a birthday present and a bulla given to a girl on the day of her birth", "source": "s:wp-lunula-amulet", "tier": "cited"}
+ ],
+ "kin": [
+  {"to": "bulla", "as": "the boys' counterpart, and the object Isidore defines this one against", "rel": "parallel"},
+  {"to": "crescent", "as": "the sign it is, and the one it shares with a thousand years of later Islamic and Balkan silver", "rel": "motif"},
+  {"to": "greco-roman-apotropaic", "as": "the tradition it belongs to", "rel": "tradition"},
+  {"to": "gold", "as": "the metal Isidore specifies and Plautus's characters can afford", "rel": "material"},
+  {"to": "martenitsa", "as": "the other amulet in this atlas that is defined by when it comes off", "rel": "parallel"},
+  {"to": "fascinum", "as": "the Roman charm aimed at the same look, with none of this one's discretion", "rel": "kin"},
+  {"to": "most-of-them-are-for-children", "as": "the long read; both Roman childhood amulets end at the moment the child stops being one", "rel": "story"}
+ ],
+ "links": [{"label": "Lunula (amulet) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Lunula_(amulet)"}],
+ "sources": ["s:wp-lunula-amulet", "s:wp-bulla-amulet", "s:wp-crescent", "s:wp-evil-eye"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-lunula-amulet"},
+  "fields": {
+   "countries": {"tier": "cited", "source": "s:wp-lunula-amulet", "note": "the source says lunulae were common throughout the Mediterranean without naming places; only Italy is listed here, so the map under-reports this record on purpose"},
+   "dating": {"tier": "inference", "note": "see dating.note"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Roman gold lunula pendant.jpg"],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

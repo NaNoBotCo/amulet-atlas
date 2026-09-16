@@ -1,0 +1,130 @@
+{
+ "note": "What a charm is said to be for, in the words the tradition uses. This project reports the claim and names who makes it. It does not test the claim and does not rank charms by it.",
+ "entries": [
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one"
+  },
+  {
+   "key": "envy",
+   "label": "Envy",
+   "gloss": "a neighbour's ill will, named as such"
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named"
+  },
+  {
+   "key": "fever",
+   "label": "Fever and plague"
+  },
+  {
+   "key": "childbirth",
+   "label": "Death in childbirth"
+  },
+  {
+   "key": "child-harm",
+   "label": "Harm to a child",
+   "gloss": "harm to an infant or a small child; common across the atlas, though not the largest class in it — see /story/most-of-them-are-for-children/"
+  },
+  {
+   "key": "infertility",
+   "label": "Infertility"
+  },
+  {
+   "key": "snakebite",
+   "label": "Snakes and scorpions"
+  },
+  {
+   "key": "animal-attack",
+   "label": "Dangerous animals"
+  },
+  {
+   "key": "drowning",
+   "label": "Drowning and storm at sea"
+  },
+  {
+   "key": "travel",
+   "label": "Danger on a journey"
+  },
+  {
+   "key": "traffic",
+   "label": "A road accident",
+   "gloss": "the modern descendant of the travel charm"
+  },
+  {
+   "key": "weapons",
+   "label": "Blades and bullets",
+   "gloss": "invulnerability charms; reported, never recommended"
+  },
+  {
+   "key": "war",
+   "label": "War"
+  },
+  {
+   "key": "theft",
+   "label": "Theft"
+  },
+  {
+   "key": "lawsuit",
+   "label": "A court case or an official"
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits"
+  },
+  {
+   "key": "demons",
+   "label": "Demons and night-hags"
+  },
+  {
+   "key": "witchcraft",
+   "label": "Another person's sorcery"
+  },
+  {
+   "key": "curse",
+   "label": "A curse already laid"
+  },
+  {
+   "key": "fire",
+   "label": "Fire"
+  },
+  {
+   "key": "poverty",
+   "label": "Poverty"
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified"
+  },
+  {
+   "key": "exams",
+   "label": "Failing an exam",
+   "gloss": "a whole modern genre, Japan and Korea especially"
+  },
+  {
+   "key": "loneliness",
+   "label": "Going unloved"
+  },
+  {
+   "key": "the-dead",
+   "label": "Danger to the dead",
+   "gloss": "charms put in a grave for the person in it"
+  },
+  {
+   "key": "house",
+   "label": "Harm to a house or a field"
+  },
+  {
+   "key": "livestock",
+   "label": "Harm to livestock"
+  },
+  {
+   "key": "attraction",
+   "label": "Attracting custom, luck or love",
+   "gloss": "the charm that pulls rather than blocks"
+  }
+ ]
+}

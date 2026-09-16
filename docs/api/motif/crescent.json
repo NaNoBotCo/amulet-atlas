@@ -1,0 +1,518 @@
+{
+ "schema": 1,
+ "id": "crescent",
+ "type": "motif",
+ "names": {
+  "name": "The crescent",
+  "native": "lunula",
+  "script": "Latin",
+  "lang": "la",
+  "said": "LOO-noo-la, 'little moon'",
+  "aliases": [
+   "lunula",
+   "increscent",
+   "decrescent",
+   "star and crescent",
+   "sickle moon"
+  ]
+ },
+ "region": [
+  "rome-italy",
+  "mesopotamia",
+  "levant",
+  "anatolia",
+  "greece-aegean",
+  "maghreb",
+  "iran-persia",
+  "arabia-gulf",
+  "baltic-slavic"
+ ],
+ "countries": [
+  "IT",
+  "IQ",
+  "SY",
+  "TR",
+  "GR",
+  "TN",
+  "DZ",
+  "IR",
+  "YE",
+  "RU"
+ ],
+ "facets": {
+  "era": "ancient",
+  "family": "celestial",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A moon with its middle cut out, two horns and a curved back, hung point-up at the neck. Roman ones are gold. Isidore of Seville defines them as female ornaments in the likeness of the moon, little hanging gold bullae. The shape is a lune in geometry and a crescent in heraldry only when the horns point up.",
+  "story": "Rome gave the crescent to girls. A lunula was worn as an apotropaic amulet — a charm meant to turn harm away — and stood as the girl's equivalent of the boy's bulla. Romans wore amulets against evil forces, demons and sorcery, and above all against the evil eye. In Plautus's Epidicus, Epidicus asks the girl Telestis whether she remembers his bringing her a gold lunula on her birthday and a little gold ring for her finger; in Rudens, Palaestra says her father gave her a golden bulla on the day she was born. Lunulae were common across the whole Mediterranean, while the bulla stayed mostly Italian.\n\nAs a sign rather than an amulet the crescent is older and travels further. It stands for the moon and for the moon deity Nanna or Sin in Akkadian cylinder seals as early as 2300 BCE. Egypt's logograph for the moon is a crescent. Phoenicians carried it as far as Carthage and Numidia in the eighth century BCE. The star-and-crescent pair arises in the ancient Near East for the moon and Ishtar as the planet Venus, often with the solar disk as a third, and was inherited in Sassanian and Hellenistic iconography. It moved into Islamic iconography from Sassanian use after the Muslim conquest of Persia, and into Marian iconography in Christianity through the Woman of the Apocalypse, with the moon under her feet.\n\n*Inference —* two different things share this outline and this atlas does not merge them. The Roman lunula is a birth-gift to a named child; the star-and-crescent is a dynastic and then a religious emblem. Nothing read here shows the second growing out of the first."
+ },
+ "kin": [
+  {
+   "to": "lunula",
+   "as": "the amulet itself — the gold crescent a Roman girl was given",
+   "rel": "carried-by"
+  },
+  {
+   "to": "bulla",
+   "as": "the boy's locket, given at birth where the girl got this; the pair is the clearest gendered split in Roman charms",
+   "rel": "contrast"
+  },
+  {
+   "to": "horn",
+   "as": "the other two-pointed sign of the Mediterranean, and the one this is most often mistaken for",
+   "rel": "contrast"
+  },
+  {
+   "to": "cimaruta",
+   "as": "the Neapolitan silver sprig that grows a crescent moon on one of its branches",
+   "rel": "carried-by"
+  },
+  {
+   "to": "silver",
+   "as": "the metal the crescent is tied to through Luna in the alchemical scheme",
+   "rel": "material"
+  },
+  {
+   "to": "eye",
+   "as": "the harm Roman amulets were worn against, this one included",
+   "rel": "parallel"
+  },
+  {
+   "to": "greco-roman-apotropaic",
+   "as": "the tradition that fixed it as a child's charm",
+   "rel": "tradition"
+  }
+ ],
+ "dating": {
+  "period": "Akkadian to Roman, and still current as an emblem",
+  "from_year": -2299,
+  "to_year": null,
+  "living": true,
+  "label": "c. 2300 BCE to now",
+  "method": "art-historical",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-crescent",
+  "note": "Start from the crescent for Nanna/Sin on Akkadian cylinder seals as early as 2300 BCE. The Roman lunula as a worn amulet is dated only by the Plautus references, which the source does not date."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": [
+   "gold",
+   "silver"
+  ],
+  "worn": [
+   "neck"
+  ],
+  "made_by": "Roman goldsmiths; given, in the recorded cases, by a father or a household member",
+  "colour": [
+   "gold"
+  ],
+  "source": "s:wp-lunula-amulet"
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "Roman practice, in which amulets were worn especially against the evil eye",
+   "source": "s:wp-lunula-amulet",
+   "tier": "cited"
+  },
+  {
+   "harm": "demons",
+   "who": "the same account: against evil forces, demons and sorcery",
+   "source": "s:wp-lunula-amulet",
+   "tier": "cited"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "Roman practice, as recorded of amulets worn as talismans",
+   "source": "s:wp-lunula-amulet",
+   "tier": "cited"
+  },
+  {
+   "harm": "child-harm",
+   "who": "the wearers were girls; Isidore of Seville defines the lunula as a female ornament",
+   "quote": "Lunulae are female ornaments in the likeness of the moon, little hanging gold bullae.",
+   "source": "s:wp-lunula-amulet",
+   "tier": "cited"
+  }
+ ],
+ "links": [
+  {
+   "label": "Lunula (amulet) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lunula_(amulet)"
+  }
+ ],
+ "sources": [
+  "s:wp-lunula-amulet",
+  "s:wp-crescent",
+  "s:wp-bulla-amulet",
+  "s:wp-cimaruta",
+  "s:wp-silver"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-lunula-amulet"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-crescent",
+    "note": "the closing refusal to merge the two uses is this project's reading and is marked inference there"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Roman lunula pendant.jpg",
+  "File:Star and crescent.svg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A moon with its middle cut out, two horns and a curved back, hung point-up at the neck. Roman ones are gold. Isidore of Seville defines them as female ornaments in the likeness of the moon, little hanging gold bullae.",
+ "region_terms": [
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "mesopotamia",
+   "name": "Mesopotamia",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Sumer, Akkad, Babylonia, Assyria"
+  },
+  {
+   "key": "levant",
+   "name": "The Levant",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "anatolia",
+   "name": "Anatolia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "greece-aegean",
+   "name": "Greece and the Aegean",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "maghreb",
+   "name": "The Maghreb",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Morocco, Algeria, Tunisia, Libya"
+  },
+  {
+   "key": "iran-persia",
+   "name": "Iran",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "arabia-gulf",
+   "name": "Arabia and the Gulf",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "baltic-slavic",
+   "name": "The Baltic and the Slavic lands",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "lunula",
+   "type": "amulet",
+   "name": "Lunula",
+   "as": "the amulet itself — the gold crescent a Roman girl was given",
+   "rel": "carried-by"
+  },
+  {
+   "to": "bulla",
+   "type": "amulet",
+   "name": "Bulla",
+   "as": "the boy's locket, given at birth where the girl got this; the pair is the clearest gendered split in Roman charms",
+   "rel": "contrast"
+  },
+  {
+   "to": "horn",
+   "type": "motif",
+   "name": "The horn",
+   "as": "the other two-pointed sign of the Mediterranean, and the one this is most often mistaken for",
+   "rel": "contrast"
+  },
+  {
+   "to": "cimaruta",
+   "type": "amulet",
+   "name": "Cimaruta",
+   "as": "the Neapolitan silver sprig that grows a crescent moon on one of its branches",
+   "rel": "carried-by"
+  },
+  {
+   "to": "silver",
+   "type": "material",
+   "name": "Silver",
+   "as": "the metal the crescent is tied to through Luna in the alchemical scheme",
+   "rel": "material"
+  },
+  {
+   "to": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "the harm Roman amulets were worn against, this one included",
+   "rel": "parallel"
+  },
+  {
+   "to": "greco-roman-apotropaic",
+   "type": "tradition",
+   "name": "Greek and Roman protective magic",
+   "as": "the tradition that fixed it as a child's charm",
+   "rel": "tradition"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-lunula-amulet",
+   "kind": "encyclopedia",
+   "title": "Lunula (amulet)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lunula_(amulet)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-crescent",
+   "kind": "encyclopedia",
+   "title": "Crescent",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Crescent",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-bulla-amulet",
+   "kind": "encyclopedia",
+   "title": "Bulla (amulet)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bulla_(amulet)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-cimaruta",
+   "kind": "encyclopedia",
+   "title": "Cimaruta",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cimaruta",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-silver",
+   "kind": "encyclopedia",
+   "title": "Silver",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Silver",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-lunula-amulet"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-crescent",
+   "note": "the closing refusal to merge the two uses is this project's reading and is marked inference there"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-lunula-amulet"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-lunula-amulet"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "Roman practice, in which amulets were worn especially against the evil eye",
+   "quote": "",
+   "source": "s:wp-lunula-amulet",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "demons",
+   "label": "Demons and night-hags",
+   "who": "the same account: against evil forces, demons and sorcery",
+   "quote": "",
+   "source": "s:wp-lunula-amulet",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "witchcraft",
+   "label": "Another person's sorcery",
+   "who": "Roman practice, as recorded of amulets worn as talismans",
+   "quote": "",
+   "source": "s:wp-lunula-amulet",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "child-harm",
+   "label": "Harm to a child",
+   "gloss": "harm to an infant or a small child; common across the atlas, though not the largest class in it — see /story/most-of-them-are-for-children/",
+   "who": "the wearers were girls; Isidore of Seville defines the lunula as a female ornament",
+   "quote": "Lunulae are female ornaments in the likeness of the moon, little hanging gold bullae.",
+   "source": "s:wp-lunula-amulet",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "gold",
+   "label": "Gold",
+   "kind": "metal"
+  },
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  }
+ ],
+ "form_fact": {
+  "key": "pendant",
+  "label": "Pendant"
+ },
+ "holding_facts": [],
+ "span": "2300 BCE to now",
+ "country_names": [
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "IQ",
+   "name": "Iraq"
+  },
+  {
+   "iso": "SY",
+   "name": "Syria"
+  },
+  {
+   "iso": "TR",
+   "name": "Turkey"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "TN",
+   "name": "Tunisia"
+  },
+  {
+   "iso": "DZ",
+   "name": "Algeria"
+  },
+  {
+   "iso": "IR",
+   "name": "Iran"
+  },
+  {
+   "iso": "YE",
+   "name": "Yemen"
+  },
+  {
+   "iso": "RU",
+   "name": "Russia"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "cimaruta",
+   "type": "amulet",
+   "name": "Cimaruta",
+   "as": "the moon on another branch, doing in miniature what a lunula does on its own cord",
+   "rel": "motif"
+  },
+  {
+   "from": "horseshoe",
+   "type": "amulet",
+   "name": "Horseshoe",
+   "as": "the shape it shares with an older sign, and the shape the earliest written record names it by — crescent figured irons",
+   "rel": "motif"
+  },
+  {
+   "from": "lunula",
+   "type": "amulet",
+   "name": "Lunula",
+   "as": "the sign it is, and the one it shares with a thousand years of later Islamic and Balkan silver",
+   "rel": "motif"
+  },
+  {
+   "from": "horn",
+   "type": "motif",
+   "name": "The horn",
+   "as": "the other two-pointed sign in the Mediterranean, and one it is regularly confused with",
+   "rel": "contrast"
+  }
+ ]
+}

@@ -1,0 +1,469 @@
+{
+ "schema": 1,
+ "id": "heart-scarab",
+ "type": "amulet",
+ "names": {
+  "name": "Heart scarab",
+  "said": "the Egyptian word for the heart is ib; the object is named for where it lies",
+  "aliases": [
+   "heart scarab amulet",
+   "Chapter 30B scarab"
+  ]
+ },
+ "region": [
+  "ancient-egypt"
+ ],
+ "countries": [
+  "EG"
+ ],
+ "facets": {
+  "era": "ancient",
+  "status": "archaeological",
+  "portable": "placed",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "An oval beetle, larger and heavier than the scarabs of the living, cut from a dark green or black stone — green jasper, serpentine, basalt — and usually not drilled for suspension. New Kingdom examples run four to five centimetres long. The base carries Chapter 30B of the Book of the Dead, cut into the stone or onto a gold plate fixed to it. It is hung at the mummy's neck on gold wire, the stone held in a gold frame, and laid over the heart.",
+  "story": "The spell on the base is an instruction to an organ. At the Weighing of the Heart the dead person's heart goes on one pan of the scales and a single feather from Ma'at's headdress on the other. A heart lighter than the feather lets its owner start the journey to Aaru; a heart heavy with wrongdoing tips off the pan into the jaws of Ammit, and the soul is left restless in the Duat. Chapter 30B commands the heart not to give evidence against its owner. The scarab is there to hold it to that, or to speak in its place.\n\nThat is why the heart, alone among the organs, stayed in the body. Egyptians held it to be the seat of the mind, so the embalmers took out the other viscera and preserved them separately and left the heart where it was — with the stone beetle on top of it.\n\nThe first known depictions are Sixteenth or Seventeenth Dynasty, about 1690 BCE, though the amulet was in use as early as the Eleventh Dynasty. Until the Eighteenth Dynasty it stayed close to Theban royalty; then it turns up in other people's burials. In the Twenty-first Dynasty it is an important piece of protection among the priesthood of Amun. After that it thins out of human burials and attaches to particular gods instead.\n\nThe object shrank. New Kingdom heart scarabs are large, four to five centimetres. By the Third Intermediate Period a smaller variant appears, two to four centimetres — and because it is small it is left uninscribed. These small ones are not laid over the wrappings but put inside the chest cavity, next to the real heart. *Inference —* a spell-bearing amulet that stops bearing its spell is a change worth naming: the shape is doing the work the words used to do.\n\nThe Book of the Dead specifies a stone it calls nmhf, nemehef. Nobody has identified it.",
+  "how": "Cut from dark stone, inscribed on the base with Chapter 30B, set in a gold frame and hung at the neck on gold wire, or — in the smaller late form — put into the chest cavity beside the heart during mummification. Some were worked into pectorals, the rectangular chest ornaments laid on a mummy's breast.",
+  "today": "Not made and not used; the practice ended with the religion that needed it. Heart scarabs sit in museum cases, and the Israel Museum and the British Museum both publish examples. As of 2026 what a reader is most likely to meet is a photograph of one, captioned with a spell about a heart being asked to keep quiet."
+ },
+ "dating": {
+  "period": "Second Intermediate Period to the Third Intermediate Period",
+  "from_year": -1689,
+  "to_year": -663,
+  "living": false,
+  "label": "c. 1690 BCE to the end of the Third Intermediate Period",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-heart-scarab",
+  "note": "from_year is the source's 'Sixteenth Dynasty or Seventeenth Dynasty circa 1690 B.C.' for the first known depictions; the source also says the amulet was in use as early as the Eleventh Dynasty, which is earlier and undated there. The end is the source's 'remained in use until the Third Intermediate Period'; the Late Period opens c. 664 BCE, so -663 is that boundary and is this project's arithmetic."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": [
+   "gold"
+  ],
+  "worn": [
+   "chest",
+   "neck",
+   "grave"
+  ],
+  "made_by": "the embalming trade and the workshops that supplied it",
+  "inscription": "Chapter 30B of the Book of the Dead, naming the dead person and commanding the heart not to testify against them",
+  "script": "Egyptian hieroglyphic",
+  "length_mm": 50,
+  "colour": [
+   "dark green",
+   "black"
+  ],
+  "single_use": true,
+  "source": "s:wp-heart-scarab",
+  "note": "The source publishes 4–5 cm for New Kingdom examples and 2–4 cm for the Third Intermediate Period variant; 50 mm is the top of the New Kingdom band. Green jasper, serpentine and basalt are named in the source and have no key in materials.json; the gold is the frame, the wire and the inscribed plate."
+ },
+ "against": [
+  {
+   "harm": "the-dead",
+   "who": "Chapter 30B of the Book of the Dead, as summarised by Egyptologists",
+   "quote": "to bind the heart to silence whilst it was being weighed in the underworld",
+   "source": "s:wp-heart-scarab",
+   "tier": "cited"
+  },
+  {
+   "harm": "lawsuit",
+   "who": "Egyptian funerary texts — the Weighing of the Heart is a trial, and the spell is written to stop a witness",
+   "source": "s:wp-heart-scarab",
+   "tier": "cited",
+   "note": "filed here because the harm the amulet is aimed at is a judgment, though the court is not an earthly one"
+  }
+ ],
+ "holdings": [
+  {
+   "museum": "israel-museum",
+   "what": "a heart scarab, published by the museum",
+   "source": "s:wp-heart-scarab"
+  },
+  {
+   "museum": "british-museum",
+   "what": "heart scarab amulets in the Egyptian collection",
+   "source": "s:wp-british-museum"
+  }
+ ],
+ "kin": [
+  {
+   "to": "scarab",
+   "as": "the parent shape — the same beetle, worn by the living and used to stamp their letters",
+   "rel": "origin"
+  },
+  {
+   "to": "wedjat-eye",
+   "as": "its partner in the wrappings: one speaks for the dead at the weighing, the other guards the cut the embalmer made",
+   "rel": "kin"
+  },
+  {
+   "to": "scarab-sign",
+   "as": "the sign it carries, read as the sun rolled up at daybreak and so as rebirth",
+   "rel": "motif"
+  },
+  {
+   "to": "egyptian-amulet-craft",
+   "as": "the tradition that placed it, by the rules of a funeral rather than by a wearer's choice",
+   "rel": "tradition"
+  },
+  {
+   "to": "grave-deposit",
+   "as": "the practice this object exists inside; it was never meant to be seen again",
+   "rel": "practice"
+  },
+  {
+   "to": "inscribing",
+   "as": "the step that makes it work as a heart scarab rather than as a large beetle — and the step the late small ones drop",
+   "rel": "practice"
+  },
+  {
+   "to": "wallis-budge",
+   "as": "the translator through whom most English readers first met Chapter 30B",
+   "rel": "person"
+  },
+  {
+   "to": "tyet-knot",
+   "as": "another amulet the wrappings required, placed on the upper torso rather than the heart",
+   "rel": "kin"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "scarab",
+   "tell": "a heart scarab is big, dark, usually undrilled, and carries a spell rather than a name"
+  }
+ ],
+ "links": [
+  {
+   "label": "Heart scarab — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Heart_scarab"
+  }
+ ],
+ "sources": [
+  "s:wp-heart-scarab",
+  "s:wp-scarab-artifact",
+  "s:wp-ancient-egyptian-funerary-practices",
+  "s:wp-e-a-wallis-budge",
+  "s:wp-british-museum"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-heart-scarab"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "inference",
+    "note": "the present state is reasoned from the object being archaeological; no museum display survey was read"
+   },
+   "against[1]": {
+    "tier": "inference",
+    "note": "reading the Weighing of the Heart as a court case is this project's filing decision, not the source's wording"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Heart scarab of Hatnefer MET DP352206.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "An oval beetle, larger and heavier than the scarabs of the living, cut from a dark green or black stone — green jasper, serpentine, basalt — and usually not drilled for suspension.",
+ "region_terms": [
+  {
+   "key": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Nile valley and delta, Predynastic through Roman Egypt"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "scarab",
+   "type": "amulet",
+   "name": "Scarab",
+   "as": "the parent shape — the same beetle, worn by the living and used to stamp their letters",
+   "rel": "origin"
+  },
+  {
+   "to": "wedjat-eye",
+   "type": "amulet",
+   "name": "Wedjat eye",
+   "as": "its partner in the wrappings: one speaks for the dead at the weighing, the other guards the cut the embalmer made",
+   "rel": "kin"
+  },
+  {
+   "to": "scarab-sign",
+   "type": "motif",
+   "name": "The beetle",
+   "as": "the sign it carries, read as the sun rolled up at daybreak and so as rebirth",
+   "rel": "motif"
+  },
+  {
+   "to": "egyptian-amulet-craft",
+   "type": "tradition",
+   "name": "Egyptian amulet craft",
+   "as": "the tradition that placed it, by the rules of a funeral rather than by a wearer's choice",
+   "rel": "tradition"
+  },
+  {
+   "to": "grave-deposit",
+   "type": "practice",
+   "name": "Grave deposit",
+   "as": "the practice this object exists inside; it was never meant to be seen again",
+   "rel": "practice"
+  },
+  {
+   "to": "inscribing",
+   "type": "practice",
+   "name": "Inscribing",
+   "as": "the step that makes it work as a heart scarab rather than as a large beetle — and the step the late small ones drop",
+   "rel": "practice"
+  },
+  {
+   "to": "wallis-budge",
+   "type": "person",
+   "name": "E. A. Wallis Budge",
+   "as": "the translator through whom most English readers first met Chapter 30B",
+   "rel": "person"
+  },
+  {
+   "to": "tyet-knot",
+   "type": "amulet",
+   "name": "Tyet",
+   "as": "another amulet the wrappings required, placed on the upper torso rather than the heart",
+   "rel": "kin"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-heart-scarab",
+   "kind": "encyclopedia",
+   "title": "Heart scarab",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Heart_scarab",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-scarab-artifact",
+   "kind": "encyclopedia",
+   "title": "Scarab (artifact)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Scarab_(artifact)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ancient-egyptian-funerary-practices",
+   "kind": "encyclopedia",
+   "title": "Ancient Egyptian funerary practices",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ancient_Egyptian_funerary_practices",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-e-a-wallis-budge",
+   "kind": "encyclopedia",
+   "title": "E. A. Wallis Budge",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/E._A._Wallis_Budge",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-british-museum",
+   "kind": "encyclopedia",
+   "title": "British Museum",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/British_Museum",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-heart-scarab"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-heart-scarab"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-heart-scarab"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "the present state is reasoned from the object being archaeological; no museum display survey was read"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-heart-scarab"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-heart-scarab"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "the-dead",
+   "label": "Danger to the dead",
+   "gloss": "charms put in a grave for the person in it",
+   "who": "Chapter 30B of the Book of the Dead, as summarised by Egyptologists",
+   "quote": "to bind the heart to silence whilst it was being weighed in the underworld",
+   "source": "s:wp-heart-scarab",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "lawsuit",
+   "label": "A court case or an official",
+   "who": "Egyptian funerary texts — the Weighing of the Heart is a trial, and the spell is written to stop a witness",
+   "quote": "",
+   "source": "s:wp-heart-scarab",
+   "tier": "cited",
+   "note": "filed here because the harm the amulet is aimed at is a judgment, though the court is not an earthly one"
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "gold",
+   "label": "Gold",
+   "kind": "metal"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "chest",
+   "label": "On the chest, under the shirt",
+   "group": "body"
+  },
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "grave",
+   "label": "In the grave",
+   "group": "placed",
+   "note": "most surviving ancient amulets are here because somebody was buried in them"
+  }
+ ],
+ "form_fact": {
+  "key": "pendant",
+  "label": "Pendant"
+ },
+ "holding_facts": [
+  {
+   "key": "israel-museum",
+   "label": "The Israel Museum",
+   "city": "Jerusalem",
+   "country": "IL",
+   "url": "",
+   "what": "a heart scarab, published by the museum",
+   "accession": "",
+   "source": "s:wp-heart-scarab"
+  },
+  {
+   "key": "british-museum",
+   "label": "The British Museum",
+   "city": "London",
+   "country": "GB",
+   "url": "",
+   "what": "heart scarab amulets in the Egyptian collection",
+   "accession": "",
+   "source": "s:wp-british-museum"
+  }
+ ],
+ "span": "1690 BCE – 664 BCE",
+ "country_names": [
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "djed-pillar",
+   "type": "amulet",
+   "name": "Djed pillar",
+   "as": "the other amulet the wrappings required at the chest, aimed at a different organ and a different threat",
+   "rel": "kin"
+  },
+  {
+   "from": "scarab",
+   "type": "amulet",
+   "name": "Scarab",
+   "as": "the funerary member of this family — same beetle, but sized to the chest, inscribed with a spell and told to keep quiet at the weighing",
+   "rel": "descendant"
+  },
+  {
+   "from": "tyet-knot",
+   "type": "amulet",
+   "name": "Tyet",
+   "as": "the other amulet the wrappings required, one organ lower and with a spell cut on it rather than spoken over it",
+   "rel": "kin"
+  },
+  {
+   "from": "wedjat-eye",
+   "type": "amulet",
+   "name": "Wedjat eye",
+   "as": "its partner in the wrappings — one guards the body's opening, the other speaks for the dead at the weighing",
+   "rel": "kin"
+  },
+  {
+   "from": "egyptian-amulet-craft",
+   "type": "tradition",
+   "name": "Egyptian amulet craft",
+   "as": "the piece it made to argue on a dead person's behalf at a trial",
+   "rel": "carries"
+  },
+  {
+   "from": "scarab-sign",
+   "type": "motif",
+   "name": "The beetle",
+   "as": "the large one laid at the heart, inscribed to keep the heart from speaking against its owner",
+   "rel": "carried-by"
+  },
+  {
+   "from": "grave-deposit",
+   "type": "practice",
+   "name": "Grave deposit",
+   "as": "the amulet with the strictest placement in this practice — over the heart, or later inside the chest",
+   "rel": "carried-by"
+  },
+  {
+   "from": "met-egyptian-galleries",
+   "type": "place",
+   "name": "The Egyptian galleries, the Metropolitan Museum of Art",
+   "as": "the large scarab laid on the chest of the dead, held in the same department",
+   "rel": "carries"
+  }
+ ]
+}

@@ -1,0 +1,426 @@
+{
+ "schema": 1,
+ "id": "lungta-flag",
+ "type": "amulet",
+ "names": {
+  "name": "Lung ta prayer flag",
+  "native": "རླུང་རྟ།",
+  "script": "Tibetan",
+  "lang": "bo",
+  "said": "LOONG-ta, 'wind horse'",
+  "aliases": [
+   "lungta",
+   "rlung-rta",
+   "wind horse flag",
+   "prayer flag",
+   "darchog"
+  ]
+ },
+ "etymology": {
+  "root": "Tibetan rlung-rta, 'wind horse' — rlung wind, rta horse",
+  "note": "The vertical kind is darchog, dar-lcog, 'flagstaff'.",
+  "tier": "cited",
+  "source": "s:wp-prayer-flag"
+ },
+ "region": [
+  "himalaya-tibet",
+  "south-asia"
+ ],
+ "countries": [
+  "CN",
+  "NP",
+  "IN",
+  "BT"
+ ],
+ "facets": {
+  "era": "medieval",
+  "status": "living",
+  "portable": "placed",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A square or oblong of coloured cloth, printed from a woodblock, sewn along its top edge to a long string with others. Flags come in sets of five and always in the same order of colours: blue for sky and space, white for air and wind, red for fire, green for water, yellow for earth — the five elements, whose balance Tibetan medicine reads as health. Strings are hung on a diagonal, high to low, between two fixed points: a rock and a pole, a roof and a tree, the top of a temple, a stupa, a mountain pass. The vertical kind, darchog, is a single large rectangle fixed along its side to a pole and planted in ground, cairns and rooftops.",
+  "story": "The centre of the printed field is a horse carrying three flaming jewels on its back. The horse stands for speed and for the turning of bad fortune into good; the three jewels are the Buddha, the Dharma and the Sangha. Around the horse run versions of some four hundred traditional mantras, each addressed to a particular deity, including mantras of Padmasambhava, Avalokiteśvara — Chenrezig, patron of the Tibetan people — and Manjusri. The four corners carry the Four Dignities: the dragon, the garuda, the tiger and the snow lion. Prayers for a long life of good fortune are often added for whoever puts the flags up, and wishes are written on them.\n\nThe flags are held to have come out of Bon, where shamanistic Bonpo used plain flags in primary colours. Sutras first written on cloth banners travelled as prayer flags; legend ascribes the origin to the Buddha, whose prayers were written on the battle flags the devas carried against the asuras. That knowledge reached Tibet by 800 CE, and the flags themselves no later than 1040 CE, where they were modified further; the Indian monk Atisha (980–1054) brought the Indian practice of printing on cloth flags to Tibet and Nepal.\n\nWhat the flags do is stated in the negative as often as the positive. They do not carry prayers to gods — the source calls that a common misconception. As wind passes over the cloth the air is held to be purified and sanctified by the mantras, and the blessings are carried to all beings. The printed images fade with exposure, and the fading is not decay in this reading: the prayers become a permanent part of the universe as the images go, and new flags are mounted beside the old ones, which is read as a welcome to life's changes.\n\nDuring the Cultural Revolution prayer flags were discouraged but not eliminated, and many traditional designs may have been lost.",
+  "how": "Printed from woodblocks onto the five colours, strung, and raised. Timing matters: some hold that flags hung on inauspicious astrological dates may bring negative results for as long as they fly, and the best time to put new ones up is the morning of a sunny, windy day. Because the symbols and mantras are treated as sacred, flags are not to be put on the ground or used on clothing. In Tibet old flags are replaced with new ones every year at the Tibetan New Year, and old flags should be burned.",
+  "today": "Strung across passes, roofs, bridges and monastery courtyards throughout the Tibetan world as of 2026, and sold worldwide as decoration, often in the right five colours and the wrong order, and often hung where nothing is renewed and nothing is burned. Different styles can now be seen across the Tibetan region."
+ },
+ "dating": {
+  "period": "Bon roots; flags in Tibet by the 11th century",
+  "from_year": 1040,
+  "to_year": null,
+  "living": true,
+  "label": "no later than 1040 CE to now",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-prayer-flag",
+  "note": "The source says the knowledge was carried into Tibet by 800 CE and the flags themselves were introduced no later than 1040 CE. The later, firmer date is used here; the Bon origin behind it is not dated in the source."
+ },
+ "object": {
+  "form": "cord",
+  "materials": [
+   "cloth",
+   "ink"
+  ],
+  "worn": [
+   "roof",
+   "wall"
+  ],
+  "made_by": "printed from woodblocks; hung by anybody, on a day chosen for it",
+  "inscription": "some four hundred traditional mantras in versions, with prayers for long life and written wishes; Om mani padme hum among them",
+  "script": "Tibetan",
+  "colour": [
+   "blue",
+   "white",
+   "red",
+   "green",
+   "yellow"
+  ],
+  "count": 5,
+  "single_use": true,
+  "source": "s:wp-prayer-flag",
+  "note": "This atlas's form list has no key for a flag; cord is the nearest, because a lung ta string is the unit rather than the single flag. Mountain passes and stupas are the commonest positions and have no key in the worn list either."
+ },
+ "against": [
+  {
+   "harm": "bad-luck",
+   "who": "the reading of the wind horse itself, which stands for speed and for the transformation of bad fortune to good fortune",
+   "source": "s:wp-prayer-flag",
+   "tier": "cited",
+   "note": "The tradition's own framing is not warding but spreading: Tibetans hold that the wind blows the prayers and mantras out to all pervading space, to the benefit of all beings."
+  }
+ ],
+ "kin": [
+  {
+   "to": "tibetan-protection",
+   "as": "the tradition that prints it, and that says what the wind does with it",
+   "rel": "tradition"
+  },
+  {
+   "to": "sungkhor",
+   "as": "the same printed mantras folded onto a body instead of left open to the wind",
+   "rel": "contrast"
+  },
+  {
+   "to": "gau-box",
+   "as": "the household's other printed protection, kept shut in metal while this one is left out to fade",
+   "rel": "kin"
+  },
+  {
+   "to": "renewing-yearly",
+   "as": "the practice that keeps it going — replaced each Tibetan New Year, the old string left flying beside the new",
+   "rel": "practice"
+  },
+  {
+   "to": "burning-retirement",
+   "as": "how it ends: old flags are burned, never binned and never put on the ground",
+   "rel": "practice"
+  },
+  {
+   "to": "ofuda",
+   "as": "Japan's paper parallel, taken from a shrine each year and burned at the next",
+   "rel": "parallel"
+  },
+  {
+   "to": "ink",
+   "as": "the woodblock printing that makes a mantra repeatable by the hundred",
+   "rel": "material"
+  },
+  {
+   "to": "barkhor-lhasa",
+   "as": "one of the circuits they are strung over and sold beside",
+   "rel": "place"
+  }
+ ],
+ "links": [
+  {
+   "label": "Prayer flag — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Prayer_flag"
+  }
+ ],
+ "sources": [
+  "s:wp-prayer-flag",
+  "s:wp-tibetan-buddhism"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-prayer-flag"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "inference",
+    "note": "the export trade and its handling are reasoned from the tradition's own rules on order, renewal and burning; no market source backs the description"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Prayer flags.jpg",
+  "File:Tibetan prayer flags.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A square or oblong of coloured cloth, printed from a woodblock, sewn along its top edge to a long string with others.",
+ "region_terms": [
+  {
+   "key": "himalaya-tibet",
+   "name": "The Himalaya and Tibet",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "tibetan-protection",
+   "type": "tradition",
+   "name": "Tibetan protection craft",
+   "as": "the tradition that prints it, and that says what the wind does with it",
+   "rel": "tradition"
+  },
+  {
+   "to": "sungkhor",
+   "type": "amulet",
+   "name": "Sungkhor",
+   "as": "the same printed mantras folded onto a body instead of left open to the wind",
+   "rel": "contrast"
+  },
+  {
+   "to": "gau-box",
+   "type": "amulet",
+   "name": "Gau",
+   "as": "the household's other printed protection, kept shut in metal while this one is left out to fade",
+   "rel": "kin"
+  },
+  {
+   "to": "renewing-yearly",
+   "type": "practice",
+   "name": "Renewing yearly",
+   "as": "the practice that keeps it going — replaced each Tibetan New Year, the old string left flying beside the new",
+   "rel": "practice"
+  },
+  {
+   "to": "burning-retirement",
+   "type": "practice",
+   "name": "Burning at retirement",
+   "as": "how it ends: old flags are burned, never binned and never put on the ground",
+   "rel": "practice"
+  },
+  {
+   "to": "ofuda",
+   "type": "amulet",
+   "name": "Ofuda",
+   "as": "Japan's paper parallel, taken from a shrine each year and burned at the next",
+   "rel": "parallel"
+  },
+  {
+   "to": "ink",
+   "type": "material",
+   "name": "Ink",
+   "as": "the woodblock printing that makes a mantra repeatable by the hundred",
+   "rel": "material"
+  },
+  {
+   "to": "barkhor-lhasa",
+   "type": "place",
+   "name": "The Barkhor",
+   "as": "one of the circuits they are strung over and sold beside",
+   "rel": "place"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-prayer-flag",
+   "kind": "encyclopedia",
+   "title": "Prayer flag",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Prayer_flag",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tibetan-buddhism",
+   "kind": "encyclopedia",
+   "title": "Tibetan Buddhism",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tibetan_Buddhism",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-prayer-flag"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-prayer-flag"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-prayer-flag"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "the export trade and its handling are reasoned from the tradition's own rules on order, renewal and burning; no market source backs the description"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-prayer-flag"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-prayer-flag"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-prayer-flag"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "the reading of the wind horse itself, which stands for speed and for the transformation of bad fortune to good fortune",
+   "quote": "",
+   "source": "s:wp-prayer-flag",
+   "tier": "cited",
+   "note": "The tradition's own framing is not warding but spreading: Tibetans hold that the wind blows the prayers and mantras out to all pervading space, to the benefit of all beings."
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "cloth",
+   "label": "Cloth",
+   "kind": "textile"
+  },
+  {
+   "key": "ink",
+   "label": "Ink",
+   "kind": "written"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "roof",
+   "label": "On the roof",
+   "group": "placed"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "cord",
+  "label": "Cord or string"
+ },
+ "holding_facts": [],
+ "span": "1040 CE to now",
+ "country_names": [
+  {
+   "iso": "CN",
+   "name": "China"
+  },
+  {
+   "iso": "NP",
+   "name": "Nepal"
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  },
+  {
+   "iso": "BT",
+   "name": "Bhutan"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "sungkhor",
+   "type": "amulet",
+   "name": "Sungkhor",
+   "as": "the printed sibling that is left open to the wind rather than folded onto a body",
+   "rel": "contrast"
+  },
+  {
+   "from": "toli-mirror",
+   "type": "amulet",
+   "name": "Toli",
+   "as": "the other thing in this region called wind horse — there a printed flag left to the wind, here the power a mirror is said to hold",
+   "rel": "kin"
+  },
+  {
+   "from": "tibetan-protection",
+   "type": "tradition",
+   "name": "Tibetan protection craft",
+   "as": "its public form — the same mantras printed and left to the wind instead of sealed to a body",
+   "rel": "carries"
+  },
+  {
+   "from": "swastika-sign",
+   "type": "motif",
+   "name": "The swastika",
+   "as": "Tibetan and Bon material carries the left-facing yungdrung",
+   "rel": "carried-by"
+  },
+  {
+   "from": "tree",
+   "type": "motif",
+   "name": "The tree",
+   "as": "cloth strung between high points, doing at a mountain pass what the tied fortune does at a pine",
+   "rel": "parallel"
+  },
+  {
+   "from": "cloth",
+   "type": "material",
+   "name": "Cloth",
+   "as": "cloth hung to weather rather than worn, strung top-edge to a thread from high to low",
+   "rel": "carried-by"
+  },
+  {
+   "from": "burning-retirement",
+   "type": "practice",
+   "name": "Burning at retirement",
+   "as": "worn flags burnt because the mantras on them cannot be put on the ground",
+   "rel": "carried-by"
+  },
+  {
+   "from": "barkhor-lhasa",
+   "type": "place",
+   "name": "The Barkhor",
+   "as": "the wind horse printed on cloth, replaced across Tibet at the new year",
+   "rel": "carries"
+  },
+  {
+   "from": "kathmandu-thamel",
+   "type": "place",
+   "name": "Thamel",
+   "as": "the printed cloth flag Atisha brought to Nepal and Tibet, hung on passes above this city",
+   "rel": "carries"
+  }
+ ]
+}

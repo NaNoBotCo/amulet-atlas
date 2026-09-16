@@ -1,0 +1,614 @@
+{
+ "schema": 1,
+ "id": "takrut",
+ "type": "amulet",
+ "names": {
+  "name": "Takrut",
+  "native": "ตะกรุด",
+  "script": "Thai",
+  "lang": "th",
+  "said": "tà-krùt",
+  "aliases": [
+   "tangkai",
+   "rolled yant scroll"
+  ]
+ },
+ "etymology": {
+  "root": "Thai ตะกรุด; the word is the same in singular and plural, and takes no -s",
+  "note": "Called tangkai in some neighbouring usages. The Thai word covers the object whatever is rolled inside it.",
+  "tier": "cited",
+  "source": "s:wp-takrut"
+ },
+ "region": [
+  "mainland-sea"
+ ],
+ "countries": [
+  "TH"
+ ],
+ "facets": {
+  "era": "medieval",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "limited",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A tube. A thin sheet of metal or a strip of palm leaf is inscribed with yant — sacred geometry and Pali phrases — then rolled tight into an elongated scroll and bound with cord, or sealed in a case. Nothing on the outside shows what is inside. It is tied to the body on a cord at the waist, hung at the chest on a chain, or worn like any other piece of jewellery. Some are small enough to hold between the teeth.",
+  "story": "The takrut is the amulet Thai literature reaches for first. It is the form mentioned more often than any other in Khun Chang Khun Phaen, the Thai epic, and the source this record follows puts it in Thai culture before Buddhism arrived, with the monk-made takrut becoming the earliest form of Buddhist amulet around 1200 to 1300 CE. That last claim carries no citation in the source, so it is dated here with a flag rather than a full stop.\n\nWhat goes on the sheet is yant — yantra — incantations and geometric designs carrying Pali gatha and Buddhist invocations. The script is usually Khom Pali, the variant of Khmer script used in Thailand; in the north, Lan Na Tai Tham. The same writing appears on cloth, on metal plates and in skin, so a takrut is one surface among several for a single body of design.\n\nThe demand was practical. In older Thailand, with constant warfare and poor security, takrut were blessed mainly for safe keeping — invulnerability — and issued to people going to work, to travel on business, or to war.\n\nThe positions carry meanings. A takrut is worn about a part of the body to protect that part, or to grant it power. The one held between the teeth is for speech: the power is called sariga, after the golden-tongued celestial magpie of Vedic and Thai Buddhist legend, and it makes the carrier a stronger speaker.",
+  "how": "Inscribe the yant on metal foil — or on palm leaf — roll it into a tube, bind it with cord, case it. Which yant, and what is said over it, belongs to the maker's lineage. Thai amulet rules place the takrut outside the Buddha-image restrictions: because it carries no monk and no Buddha image, it may be put in a trouser pocket, where an amulet bearing the Buddha may not go below the waist at all. Worn at the waist or at the chest, the purpose is the same either way — protection of the person carrying it.",
+  "today": "Still made, still sold, still worn, and sold from the same trays as the pressed Buddha tablets at Tha Phrachan in Bangkok, as of the accounts this project has read. Online dealers list them by monk, by temple and by year in the same way collectors grade a phra khrueang."
+ },
+ "dating": {
+  "period": "pre-Buddhist Thailand, then Buddhist from around the 13th century",
+  "from_year": 1200,
+  "to_year": null,
+  "living": true,
+  "label": "c. 1200 to now as a Buddhist amulet; older as a Thai one",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-takrut",
+  "note": "The source states that takrut predate Buddhism in Thailand and that monk-made takrut became the earliest form of Buddhist amulet in 1200–1300 CE. That statement is uncited there, so this record marks it and sets confidence to medium."
+ },
+ "object": {
+  "form": "scroll",
+  "materials": [
+   "silver",
+   "gold",
+   "copper",
+   "lead",
+   "palm-leaf",
+   "ink",
+   "thread"
+  ],
+  "worn": [
+   "waist",
+   "neck",
+   "chest",
+   "pocket"
+  ],
+  "made_by": "monks and lay masters working in a named lineage; which yant and which incantation belongs to that lineage",
+  "inscription": "yant — geometric designs with Pali gatha and Buddhist invocations",
+  "script": "Khom Pali, a Khmer-derived script used in Thailand; Lan Na Tai Tham in the north",
+  "single_use": false,
+  "source": "s:wp-takrut",
+  "note": "Elongated, scroll-shaped, tied to the body with a cord, often kept in a case. No published measurement was read."
+ },
+ "against": [
+  {
+   "harm": "weapons",
+   "who": "Thai wearers, in the category Kong Grapan — invincibility; the source says takrut are blessed mainly for safe keeping",
+   "source": "s:wp-takrut",
+   "tier": "cited"
+  },
+  {
+   "harm": "war",
+   "who": "Thai practice in a period of constant warfare, when takrut were blessed for people going to war",
+   "source": "s:wp-takrut",
+   "tier": "cited"
+  },
+  {
+   "harm": "travel",
+   "who": "Thai wearers, blessed for safety in daily work and on business trips",
+   "source": "s:wp-takrut",
+   "tier": "cited"
+  },
+  {
+   "harm": "attraction",
+   "who": "Thai wearers, in the categories Maha Sanaeh (attraction), Metta Mahaniyom (popularity and business success) and Maha Pokasap (drawing riches)",
+   "source": "s:wp-takrut",
+   "tier": "cited"
+  },
+  {
+   "harm": "poverty",
+   "who": "Thai wearers, in the category Maha Lap — the drawing of wealth",
+   "source": "s:wp-takrut",
+   "tier": "cited"
+  }
+ ],
+ "restricted": {
+  "note": "Which yant goes on a takrut, and the incantation said over it, belong to the maker's school and lineage. This atlas prints what the sources publish about the object and does not print a consecration formula.",
+  "who_says": "Thai amulet practice as described in the sources: the incantations depend on the creator's lineage in each school",
+  "source": "s:wp-palad-khik"
+ },
+ "kin": [
+  {
+   "to": "phra-khrueang",
+   "as": "the pressed tablet it hangs beside, and the rule that separates them: no Buddha image here, so this one may go in a pocket",
+   "rel": "kin"
+  },
+  {
+   "to": "sak-yant",
+   "as": "the same yant, same script, same lineages — put into skin instead of rolled into foil",
+   "rel": "parallel"
+  },
+  {
+   "to": "yantra-plate",
+   "as": "the South Asian version of the design on metal, flat rather than rolled",
+   "rel": "parallel"
+  },
+  {
+   "to": "taweez",
+   "as": "the Islamic rolled written charm in a case — the same solution reached along a different road",
+   "rel": "parallel"
+  },
+  {
+   "to": "ethiopian-magic-scroll",
+   "as": "the other great rolled text in this atlas: written protection kept in a tube and carried on the body",
+   "rel": "parallel"
+  },
+  {
+   "to": "thai-wicha",
+   "as": "the craft that makes it, in which the yant and the incantation are a lineage's property",
+   "rel": "tradition"
+  },
+  {
+   "to": "inscribing",
+   "as": "the act that charges it: the writing, not the metal, is the amulet",
+   "rel": "practice"
+  },
+  {
+   "to": "wearing-hidden",
+   "as": "how it works — a sealed tube whose contents nobody sees, tied under the clothes",
+   "rel": "practice"
+  },
+  {
+   "to": "tha-phrachan",
+   "as": "the Bangkok market that sells it from the same tray as the clay tablets",
+   "rel": "place"
+  },
+  {
+   "to": "yant-flash",
+   "as": "the sheet of designs the yant on this tube is drawn from",
+   "rel": "art"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "phra-khrueang",
+   "tell": "a takrut is a plain rolled tube with nothing to look at; a phra khrueang carries an image in relief"
+  },
+  {
+   "id": "taweez",
+   "tell": "both are rolled written charms in a case — a takrut carries yant in Khom Pali, a taweez carries Arabic"
+  }
+ ],
+ "links": [
+  {
+   "label": "Takrut — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Takrut"
+  }
+ ],
+ "sources": [
+  "s:wp-takrut",
+  "s:wp-thai-buddha-amulet",
+  "s:wp-yantra-tattooing",
+  "s:wp-yantra",
+  "s:wp-palad-khik"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-takrut"
+  },
+  "fields": {
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-takrut",
+    "note": "the 1200–1300 CE date is uncited in the source; it is carried here with that flag and the record's confidence set to medium"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "reasoned from published accounts of the Bangkok trade; nobody from this project has stood at the stalls"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Takrut.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A tube. A thin sheet of metal or a strip of palm leaf is inscribed with yant — sacred geometry and Pali phrases — then rolled tight into an elongated scroll and bound with cord, or sealed in a case.",
+ "region_terms": [
+  {
+   "key": "mainland-sea",
+   "name": "Mainland Southeast Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "phra-khrueang",
+   "type": "amulet",
+   "name": "Phra khrueang",
+   "as": "the pressed tablet it hangs beside, and the rule that separates them: no Buddha image here, so this one may go in a pocket",
+   "rel": "kin"
+  },
+  {
+   "to": "sak-yant",
+   "type": "amulet",
+   "name": "Sak yant",
+   "as": "the same yant, same script, same lineages — put into skin instead of rolled into foil",
+   "rel": "parallel"
+  },
+  {
+   "to": "yantra-plate",
+   "type": "amulet",
+   "name": "Yantra plate",
+   "as": "the South Asian version of the design on metal, flat rather than rolled",
+   "rel": "parallel"
+  },
+  {
+   "to": "taweez",
+   "type": "amulet",
+   "name": "Ta'wiz",
+   "as": "the Islamic rolled written charm in a case — the same solution reached along a different road",
+   "rel": "parallel"
+  },
+  {
+   "to": "ethiopian-magic-scroll",
+   "type": "amulet",
+   "name": "Ethiopian talismanic scroll",
+   "as": "the other great rolled text in this atlas: written protection kept in a tube and carried on the body",
+   "rel": "parallel"
+  },
+  {
+   "to": "thai-wicha",
+   "type": "tradition",
+   "name": "Thai wicha",
+   "as": "the craft that makes it, in which the yant and the incantation are a lineage's property",
+   "rel": "tradition"
+  },
+  {
+   "to": "inscribing",
+   "type": "practice",
+   "name": "Inscribing",
+   "as": "the act that charges it: the writing, not the metal, is the amulet",
+   "rel": "practice"
+  },
+  {
+   "to": "wearing-hidden",
+   "type": "practice",
+   "name": "Wearing hidden",
+   "as": "how it works — a sealed tube whose contents nobody sees, tied under the clothes",
+   "rel": "practice"
+  },
+  {
+   "to": "tha-phrachan",
+   "type": "place",
+   "name": "Tha Phrachan amulet market",
+   "as": "the Bangkok market that sells it from the same tray as the clay tablets",
+   "rel": "place"
+  },
+  {
+   "to": "yant-flash",
+   "type": "art",
+   "name": "Yant flash",
+   "as": "the sheet of designs the yant on this tube is drawn from",
+   "rel": "art"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-takrut",
+   "kind": "encyclopedia",
+   "title": "Takrut",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Takrut",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-thai-buddha-amulet",
+   "kind": "encyclopedia",
+   "title": "Thai Buddha amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thai_Buddha_amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-yantra-tattooing",
+   "kind": "encyclopedia",
+   "title": "Yantra tattooing",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra_tattooing",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-yantra",
+   "kind": "encyclopedia",
+   "title": "Yantra",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-palad-khik",
+   "kind": "encyclopedia",
+   "title": "Palad khik",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Palad_khik",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-takrut"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-takrut"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-takrut"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "reasoned from published accounts of the Bangkok trade; nobody from this project has stood at the stalls"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-takrut"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-takrut",
+   "note": "the 1200–1300 CE date is uncited in the source; it is carried here with that flag and the record's confidence set to medium"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-takrut"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "weapons",
+   "label": "Blades and bullets",
+   "gloss": "invulnerability charms; reported, never recommended",
+   "who": "Thai wearers, in the category Kong Grapan — invincibility; the source says takrut are blessed mainly for safe keeping",
+   "quote": "",
+   "source": "s:wp-takrut",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "war",
+   "label": "War",
+   "who": "Thai practice in a period of constant warfare, when takrut were blessed for people going to war",
+   "quote": "",
+   "source": "s:wp-takrut",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "travel",
+   "label": "Danger on a journey",
+   "who": "Thai wearers, blessed for safety in daily work and on business trips",
+   "quote": "",
+   "source": "s:wp-takrut",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "attraction",
+   "label": "Attracting custom, luck or love",
+   "gloss": "the charm that pulls rather than blocks",
+   "who": "Thai wearers, in the categories Maha Sanaeh (attraction), Metta Mahaniyom (popularity and business success) and Maha Pokasap (drawing riches)",
+   "quote": "",
+   "source": "s:wp-takrut",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "poverty",
+   "label": "Poverty",
+   "who": "Thai wearers, in the category Maha Lap — the drawing of wealth",
+   "quote": "",
+   "source": "s:wp-takrut",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  },
+  {
+   "key": "gold",
+   "label": "Gold",
+   "kind": "metal"
+  },
+  {
+   "key": "copper",
+   "label": "Copper and bronze",
+   "kind": "metal"
+  },
+  {
+   "key": "lead",
+   "label": "Lead",
+   "kind": "metal"
+  },
+  {
+   "key": "palm-leaf",
+   "label": "Palm leaf",
+   "kind": "written"
+  },
+  {
+   "key": "ink",
+   "label": "Ink",
+   "kind": "written"
+  },
+  {
+   "key": "thread",
+   "label": "Thread and cord",
+   "kind": "textile",
+   "note": "red thread runs from the Mediterranean to Mongolia"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "waist",
+   "label": "At the waist",
+   "group": "body"
+  },
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "chest",
+   "label": "On the chest, under the shirt",
+   "group": "body"
+  },
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  }
+ ],
+ "form_fact": {
+  "key": "scroll",
+  "label": "Scroll"
+ },
+ "holding_facts": [],
+ "span": "1200 CE to now",
+ "country_names": [
+  {
+   "iso": "TH",
+   "name": "Thailand"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "jimat",
+   "type": "amulet",
+   "name": "Jimat",
+   "as": "the mainland Southeast Asian written charm doing the same work one sea north",
+   "rel": "parallel"
+  },
+  {
+   "from": "palad-khik",
+   "type": "amulet",
+   "name": "Palad khik",
+   "as": "the other non-Buddha charm on the same waist cord, and the same rule about what may hang below the belt",
+   "rel": "kin"
+  },
+  {
+   "from": "phra-khrueang",
+   "type": "amulet",
+   "name": "Phra khrueang",
+   "as": "the amulet it shares a chain with and is ranked against — no Buddha image on a takrut, so it may go where this may not, including a trouser pocket",
+   "rel": "kin"
+  },
+  {
+   "from": "sak-yant",
+   "type": "amulet",
+   "name": "Sak yant",
+   "as": "the same yant in the same scripts, rolled into metal foil instead of pricked into skin",
+   "rel": "parallel"
+  },
+  {
+   "from": "sungkhor",
+   "type": "amulet",
+   "name": "Sungkhor",
+   "as": "Southeast Asia's version of the same move: an inscribed sheet rolled tight and bound, worn without being read",
+   "rel": "parallel"
+  },
+  {
+   "from": "thai-wicha",
+   "type": "tradition",
+   "name": "Thai wicha",
+   "as": "its oldest strand — rolled metal or palm-leaf, made here before Buddhism arrived and by monks from 1200–1300 CE",
+   "rel": "carries"
+  },
+  {
+   "from": "iron",
+   "type": "material",
+   "name": "Iron",
+   "as": "the rolled metal scroll — the sheet is the amulet's body, the inscription its voice",
+   "rel": "carried-by"
+  },
+  {
+   "from": "palm-leaf",
+   "type": "material",
+   "name": "Palm leaf",
+   "as": "the amulet that is either metal or this leaf, rolled the same way, saying the same thing",
+   "rel": "carried-by"
+  },
+  {
+   "from": "silver",
+   "type": "material",
+   "name": "Silver",
+   "as": "the same technique at the other end of Asia: metal sheet, incised, rolled, worn on a cord",
+   "rel": "parallel"
+  },
+  {
+   "from": "consecration",
+   "type": "practice",
+   "name": "Consecration",
+   "as": "the earliest dated thing in this record: monks in Thailand rolling and empowering metal scrolls by 1200–1300 CE",
+   "rel": "practice"
+  },
+  {
+   "from": "folding",
+   "type": "practice",
+   "name": "Folding",
+   "as": "the rolled tube this practice is named for in Thailand — metal or palm leaf, cased, strung",
+   "rel": "practice"
+  },
+  {
+   "from": "inscribing",
+   "type": "practice",
+   "name": "Inscribing",
+   "as": "the rolled scroll this writing goes onto in Thailand, in Khom Pali or Lan Na Tai Tham",
+   "rel": "practice"
+  },
+  {
+   "from": "wearing-hidden",
+   "type": "practice",
+   "name": "Wearing hidden",
+   "as": "the cased scroll worn under the shirt, with a height rule attached to it",
+   "rel": "carried-by"
+  },
+  {
+   "from": "tha-phrachan",
+   "type": "place",
+   "name": "Tha Phrachan amulet market",
+   "as": "sold from the same trays — the rolled metal scroll beside the clay tablet",
+   "rel": "carries"
+  },
+  {
+   "from": "yant-flash",
+   "type": "art",
+   "name": "Yant flash",
+   "as": "sold from the same shops, and carrying the same script rolled up instead of laid out",
+   "rel": "kin"
+  }
+ ]
+}

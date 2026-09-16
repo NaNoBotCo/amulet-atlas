@@ -1,0 +1,493 @@
+{
+ "schema": 1,
+ "id": "senninbari",
+ "type": "amulet",
+ "names": {
+  "name": "Senninbari",
+  "native": "千人針",
+  "script": "Japanese",
+  "lang": "ja",
+  "said": "sen-nin-BA-ri",
+  "aliases": [
+   "thousand-person stitches",
+   "one thousand stitch belt",
+   "senninbari haramaki",
+   "tasuki"
+  ]
+ },
+ "etymology": {
+  "root": "Japanese sen 千 'thousand' + nin 人 'person' + hari/bari 針 'needle, stitch' — a thousand people's stitches",
+  "note": "The name is the specification. One stitch per woman, a thousand women, one belt.",
+  "tier": "cited",
+  "source": "s:wp-senninbari"
+ },
+ "region": [
+  "japan"
+ ],
+ "countries": [
+  "JP"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "archaeological",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A strip of cloth, usually white, about 15 centimetres wide and 90 to 120 centimetres or more long, carrying a thousand stitches or knots — commonly red, because white and red together were held to be auspicious. Each stitch was put in by a different woman. The ends might have strings, snaps or buttons to fasten it round the waist; ends without them were tucked in. Longer ones, tasuki, were worn crossed over the chest, shoulders and back. Others were never worn at all, but folded into a helmet liner, a pocket or a pack.",
+  "story": "The practice starts with the First Sino-Japanese War of 1894–95. The earliest senninbari were handkerchief-sized squares of cloth with a thousand knots or stitches worked into them to strengthen the material — and the implication carried was that the strength passed to the man who carried it.\n\nThe making was done in public, and by the women of one household first. A soldier's mother, sister or wife stood outside the local temple, or at the train station, or by a department store, and asked women passing to put in one stitch. At the height of the Second World War the demand outran that arrangement and women's organisations gathered to produce senninbari in bulk; the belts went into imonbukuro, comfort bags, and were shipped overseas.\n\nThe rules inside the thousand had exceptions. A woman born in the year of the Tiger could sew twelve stitches, or as many stitches as she had years. Some belts were lined with a woman's hair, or with several women's — a custom recorded as originating in folk belief on Okinawa. Coins were sewn in as well.\n\nWhat the stitching said is on the cloth. The commonest slogan worked into a senninbari was bu-un chō-kyū 武運長久, eternal good luck in war. Tigers were stitched or painted on, because a tiger was known to travel a long way from home and come back.\n\nWhat the men made of it varied, and the source is careful about this. The women who stitched them and the men who wore them held the belts to confer courage, luck, and immunity from injury, bullets above all. Some Japanese soldiers rejected the protection outright and held instead that the belt would let them do the most damage to the enemy before giving up their own lives. Others wore it as neither — a keepsake of the women who had made it. Three positions, in one army, about one object.",
+  "how": "White cotton cut to a strip; a thousand French knots or stitches worked in red thread, set in rows, or laid out to make a flag, a slogan or a tiger. Yellow, red and green cloth were used too, with yellow, gold, red or white thread. Variants were made as hachimaki headbands, vests and caps; the rarest were good-luck flags. The belt made for the waist, the senninbari haramaki, was held to keep the wearer in health as well as in luck. Fastened at the waist under the uniform, or folded into the kit. No priest, no shrine, no consecration: the charging is the thousand hands.",
+  "today": "Not a living practice in this project's sources, which carry it no further than the Second World War. Surviving belts are in private hands, in militaria collections and in museums; Michael A. Bortner's Imperial Japanese Good Luck Flags and One-Thousand Stitch Belts (Schiffer, 2008) is the collectors' reference, and Kazuhiro Watanabe's study at the Graduate University for Advanced Studies treats the bullet-protection belief as folklore of the war years. Whether a belt made by a thousand women for a conscript should now be traded as militaria is an argument this atlas reports and does not settle."
+ },
+ "dating": {
+  "period": "First Sino-Japanese War to the end of the Second World War",
+  "from_year": 1894,
+  "to_year": 1945,
+  "living": false,
+  "label": "1894 to 1945",
+  "method": "dated-object",
+  "circa": false,
+  "tier": "cited",
+  "source": "s:wp-senninbari",
+  "note": "The source dates the custom's origin to the First Sino-Japanese War of 1894–95 and carries mass production to the height of the Second World War. This project has read no source for senninbari made after 1945, which is not the same as saying none were."
+ },
+ "object": {
+  "form": "garment",
+  "materials": [
+   "cloth",
+   "thread",
+   "hair",
+   "coin"
+  ],
+  "worn": [
+   "waist",
+   "head",
+   "chest",
+   "sewn-in",
+   "pocket"
+  ],
+  "made_by": "women — a soldier's mother, sister or wife soliciting one stitch each from a thousand others, and later women's associations working in bulk",
+  "inscription": "bu-un chō-kyū 武運長久, 'eternal good luck in war', the commonest slogan stitched in; tigers stitched or painted",
+  "script": "Japanese",
+  "length_mm": 1200,
+  "colour": [
+   "white",
+   "red",
+   "yellow",
+   "green",
+   "gold"
+  ],
+  "count": 1000,
+  "single_use": false,
+  "source": "s:wp-senninbari",
+  "note": "Published dimensions: typically 15 cm wide, 90 cm to 120 cm or more long. length_mm records the top of that published range."
+ },
+ "against": [
+  {
+   "harm": "weapons",
+   "who": "the general belief recorded of the belts — courage, good luck and immunity from injury, bullets especially",
+   "source": "s:wp-senninbari",
+   "tier": "cited",
+   "note": "the same source records Japanese soldiers who rejected this and held instead that the belt would let them inflict the most damage before dying, and others who wore it only as a keepsake"
+  },
+  {
+   "harm": "war",
+   "who": "the women who stitched it, in the slogan they worked into the cloth: bu-un chō-kyū, eternal good luck in war",
+   "source": "s:wp-senninbari",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "wearers of the senninbari haramaki, the waist form, which was held to maintain good health as well as luck",
+   "source": "s:wp-senninbari",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "omamori",
+   "as": "the shrine's version of the same errand, bought over a counter; this one was assembled from a thousand strangers on a street",
+   "rel": "contrast"
+  },
+  {
+   "to": "thread",
+   "as": "the whole material argument: a thousand stitches were said to strengthen the cloth, and the strength to pass to the man in it",
+   "rel": "material"
+  },
+  {
+   "to": "hair",
+   "as": "what some belts were lined with — one woman's, or several — a custom recorded as coming from Okinawa",
+   "rel": "material"
+  },
+  {
+   "to": "knotting",
+   "as": "the act that makes it: one knot, one woman, a thousand times",
+   "rel": "practice"
+  },
+  {
+   "to": "sewing-in",
+   "as": "the other half of the act, and how the belt was fastened or folded into a pack and a helmet liner",
+   "rel": "practice"
+  },
+  {
+   "to": "talismanic-shirt",
+   "as": "the Islamic garment written over against blades and shot — the same idea worn, in ink rather than thread",
+   "rel": "parallel"
+  },
+  {
+   "to": "challenge-coin",
+   "as": "the other soldier's token in this atlas: issued by a unit rather than made by civilians, and kept rather than worn",
+   "rel": "contrast"
+  },
+  {
+   "to": "japanese-engimono",
+   "as": "the Japanese luck-object tradition this stands outside — no shrine issued it and no priest charged it",
+   "rel": "contrast"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read this belongs in: a belt made by a thousand named-nobody women, now bought and sold as militaria",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Senninbari — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Senninbari"
+  }
+ ],
+ "sources": [
+  "s:wp-senninbari",
+  "s:wp-omamori"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-senninbari"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-senninbari",
+    "note": "the Bortner volume and the Watanabe study are listed in the source's bibliography; this project has not read either, and says so"
+   },
+   "object": {
+    "tier": "cited",
+    "source": "s:wp-senninbari",
+    "note": "dimensions, colours and the count are all published in the source"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Senninbari.jpg",
+  "File:Thousand stitch belt.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A strip of cloth, usually white, about 15 centimetres wide and 90 to 120 centimetres or more long, carrying a thousand stitches or knots — commonly red, because white and red together were held to be auspicious.",
+ "region_terms": [
+  {
+   "key": "japan",
+   "name": "Japan",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "omamori",
+   "type": "amulet",
+   "name": "Omamori",
+   "as": "the shrine's version of the same errand, bought over a counter; this one was assembled from a thousand strangers on a street",
+   "rel": "contrast"
+  },
+  {
+   "to": "thread",
+   "type": "material",
+   "name": "Thread and cord",
+   "as": "the whole material argument: a thousand stitches were said to strengthen the cloth, and the strength to pass to the man in it",
+   "rel": "material"
+  },
+  {
+   "to": "hair",
+   "type": "material",
+   "name": "Hair",
+   "as": "what some belts were lined with — one woman's, or several — a custom recorded as coming from Okinawa",
+   "rel": "material"
+  },
+  {
+   "to": "knotting",
+   "type": "practice",
+   "name": "Knotting",
+   "as": "the act that makes it: one knot, one woman, a thousand times",
+   "rel": "practice"
+  },
+  {
+   "to": "sewing-in",
+   "type": "practice",
+   "name": "Sewing in",
+   "as": "the other half of the act, and how the belt was fastened or folded into a pack and a helmet liner",
+   "rel": "practice"
+  },
+  {
+   "to": "talismanic-shirt",
+   "type": "amulet",
+   "name": "Talismanic shirt",
+   "as": "the Islamic garment written over against blades and shot — the same idea worn, in ink rather than thread",
+   "rel": "parallel"
+  },
+  {
+   "to": "challenge-coin",
+   "type": "amulet",
+   "name": "Challenge coin",
+   "as": "the other soldier's token in this atlas: issued by a unit rather than made by civilians, and kept rather than worn",
+   "rel": "contrast"
+  },
+  {
+   "to": "japanese-engimono",
+   "type": "tradition",
+   "name": "Engimono",
+   "as": "the Japanese luck-object tradition this stands outside — no shrine issued it and no priest charged it",
+   "rel": "contrast"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read this belongs in: a belt made by a thousand named-nobody women, now bought and sold as militaria",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-senninbari",
+   "kind": "encyclopedia",
+   "title": "Senninbari",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Senninbari",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-omamori",
+   "kind": "encyclopedia",
+   "title": "Omamori",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Omamori",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-senninbari"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-senninbari"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-senninbari"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-senninbari",
+   "note": "the Bortner volume and the Watanabe study are listed in the source's bibliography; this project has not read either, and says so"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-senninbari"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-senninbari"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-senninbari",
+   "note": "dimensions, colours and the count are all published in the source"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "weapons",
+   "label": "Blades and bullets",
+   "gloss": "invulnerability charms; reported, never recommended",
+   "who": "the general belief recorded of the belts — courage, good luck and immunity from injury, bullets especially",
+   "quote": "",
+   "source": "s:wp-senninbari",
+   "tier": "cited",
+   "note": "the same source records Japanese soldiers who rejected this and held instead that the belt would let them inflict the most damage before dying, and others who wore it only as a keepsake"
+  },
+  {
+   "key": "war",
+   "label": "War",
+   "who": "the women who stitched it, in the slogan they worked into the cloth: bu-un chō-kyū, eternal good luck in war",
+   "quote": "",
+   "source": "s:wp-senninbari",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "wearers of the senninbari haramaki, the waist form, which was held to maintain good health as well as luck",
+   "quote": "",
+   "source": "s:wp-senninbari",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "cloth",
+   "label": "Cloth",
+   "kind": "textile"
+  },
+  {
+   "key": "thread",
+   "label": "Thread and cord",
+   "kind": "textile",
+   "note": "red thread runs from the Mediterranean to Mongolia"
+  },
+  {
+   "key": "hair",
+   "label": "Hair",
+   "kind": "organic"
+  },
+  {
+   "key": "coin",
+   "label": "A coin",
+   "kind": "metal"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "waist",
+   "label": "At the waist",
+   "group": "body"
+  },
+  {
+   "key": "head",
+   "label": "On the head",
+   "group": "body"
+  },
+  {
+   "key": "chest",
+   "label": "On the chest, under the shirt",
+   "group": "body"
+  },
+  {
+   "key": "sewn-in",
+   "label": "Sewn into clothing",
+   "group": "carried"
+  },
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  }
+ ],
+ "form_fact": {
+  "key": "garment",
+  "label": "Garment"
+ },
+ "holding_facts": [],
+ "span": "1894 CE – 1945 CE",
+ "country_names": [
+  {
+   "iso": "JP",
+   "name": "Japan"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "brown-scapular",
+   "type": "amulet",
+   "name": "Brown Scapular",
+   "as": "the other cloth worn against the body with a promise sewn into it, and the other one whose makers were a thousand women",
+   "rel": "parallel"
+  },
+  {
+   "from": "challenge-coin",
+   "type": "amulet",
+   "name": "Challenge coin",
+   "as": "the other soldiers' object here — that one was made by a thousand strangers' hands, this one is issued by a commander",
+   "rel": "contrast"
+  },
+  {
+   "from": "omamori",
+   "type": "amulet",
+   "name": "Omamori",
+   "as": "the charm Japanese women made by hand for soldiers when a shrine pouch was not enough",
+   "rel": "contrast"
+  },
+  {
+   "from": "talismanic-shirt",
+   "type": "amulet",
+   "name": "Talismanic shirt",
+   "as": "Japan's thousand-stitch belt: another textile a soldier wore into battle, made by somebody else's hands for him",
+   "rel": "parallel"
+  },
+  {
+   "from": "japanese-engimono",
+   "type": "tradition",
+   "name": "Engimono",
+   "as": "the Japanese luck object this tradition did not issue — a thousand stitches from a thousand women, with no priest and no counter anywhere in it",
+   "rel": "contrast"
+  },
+  {
+   "from": "knot",
+   "type": "motif",
+   "name": "The knot",
+   "as": "a thousand knots, one woman each, sewn into a belt for a soldier",
+   "rel": "carried-by"
+  },
+  {
+   "from": "cloth",
+   "type": "material",
+   "name": "Cloth",
+   "as": "a thousand stitches by a thousand women, 15 cm by 90 to 120 cm, and a soldier who may or may not have believed in it",
+   "rel": "carried-by"
+  },
+  {
+   "from": "thread",
+   "type": "material",
+   "name": "Thread and cord",
+   "as": "a thousand stitches by a thousand women, 15 cm by 90-120 cm, given to a man going to war",
+   "rel": "carried-by"
+  },
+  {
+   "from": "knotting",
+   "type": "practice",
+   "name": "Knotting",
+   "as": "a thousand knots from a thousand hands, solicited one at a time outside train stations",
+   "rel": "carried-by"
+  },
+  {
+   "from": "sewing-in",
+   "type": "practice",
+   "name": "Sewing in",
+   "as": "the belt where the stitching is the charm and a thousand strangers did it",
+   "rel": "carried-by"
+  }
+ ]
+}

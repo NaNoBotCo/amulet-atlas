@@ -1,0 +1,580 @@
+{
+ "schema": 1,
+ "id": "red-thread",
+ "type": "motif",
+ "names": {
+  "name": "The red thread",
+  "native": "חוט השני",
+  "script": "Hebrew",
+  "lang": "he",
+  "said": "khutt hashani, the scarlet thread",
+  "aliases": [
+   "red string",
+   "scarlet thread",
+   "kautuka",
+   "martenitsa thread",
+   "mărțișor"
+  ]
+ },
+ "region": [
+  "levant",
+  "balkans",
+  "south-asia",
+  "china",
+  "diaspora"
+ ],
+ "countries": [
+  "IL",
+  "BG",
+  "MK",
+  "RO",
+  "MD",
+  "AL",
+  "GR",
+  "IN",
+  "CN",
+  "US"
+ ],
+ "facets": {
+  "era": "medieval",
+  "family": "thread",
+  "hemisphere": [
+   "N",
+   "E",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A length of red wool or silk tied round a wrist. In the Jewish folk custom it is thin scarlet wool worn as a bracelet or band. In Bulgaria and North Macedonia red is twisted with white into a martenitsa, usually as two small dolls, Pizho in white and Penda in red. In Romania and Moldova the same two threads make a mărțișor with a charm hung from them.",
+  "story": "The thread's Jewish version is a folk custom, and the sources are careful about how thin its textual footing is. A scarlet thread tied about the wrist appears at Genesis 38, when Tamar gives birth to twins. As early as Rabbi Shmuel ben Hafni Gaon, commentators noted that a red string on the hand may be a good omen, and some say it could go round a finger; one early commentary, Aggadas Bereishis, says Joseph's coat was the same as his brothers' except that Jacob put a red string on the cuffs. But there is no written requirement in the Torah, in halacha or in Kabbalistic texts to tie a red string on a wrist, and it is not clear the mentions of red string as a good omen describe a widespread practice. The one public exhortation on record is from the 1490s: when Jews were barred from wearing tefillin, Rabbi Abraham Saba recommended wearing a red string on the hand instead, to remember the commandment.\n\nThe modern trade is documented. Elderly women sell scarlet thread to pilgrims and visitors in Israel, especially in the Old City of Jerusalem. Outside Israel it became popular in the late 1990s with celebrities, many of them not Jewish — Madonna and her children, Leonardo DiCaprio, Michael Jackson, Ariana Grande, Tucker Carlson, Jared Kushner — and the wider popularity is often linked to Philip Berg's Kabbalah Centre. Whether that is the same object as the thread a Jerusalem woman sells is an argument with named parties on both sides; the Kabbalah Centre's critics include the Kabbalist Michael Laitman, who holds that practical Kabbalah has no use for red strings.\n\nThe Balkan thread runs on a calendar instead. Martenitsi are given, never bought for oneself, from Baba Marta Day on 1 March, and worn pinned to clothing or at the wrist or neck until the wearer sees a stork or a swallow back from migration, or a tree in blossom — then taken off, and in some places tied to the branch of a fruit tree to give the tree health and luck. Red and white are read as a wish for good health; white for the purity of melting snow, red for the setting sun and for life. Both martenitsa and mărțișor are inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity.\n\n*Inference —* the red string is worn on wrists in Jewish, Hindu and Chinese practice, and the Jewish source itself says so without claiming a link between them. This atlas reports the three and does not draw a line between them, because nothing read here draws one."
+ },
+ "kin": [
+  {
+   "to": "red-string",
+   "as": "the amulet itself — the scarlet wool on a wrist",
+   "rel": "carried-by"
+  },
+  {
+   "to": "martenitsa",
+   "as": "the Balkan version, with a date to put it on and a bird that says take it off",
+   "rel": "carried-by"
+  },
+  {
+   "to": "knot",
+   "as": "the wider family: a charm whose working part is that somebody tied it",
+   "rel": "whole"
+  },
+  {
+   "to": "thread",
+   "as": "the material, and the reason almost none of these survive in a museum drawer",
+   "rel": "material"
+  },
+  {
+   "to": "tefillin",
+   "as": "the commandment Rabbi Abraham Saba proposed the string as a reminder of, in the 1490s",
+   "rel": "origin"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "as": "the tradition the string is popularly attached to, and which several Kabbalists say has no use for it",
+   "rel": "tradition"
+  },
+  {
+   "to": "unesco-ich",
+   "as": "the body whose Representative List carries the martenitsa and the mărțișor",
+   "rel": "org"
+  },
+  {
+   "to": "renewing-yearly",
+   "as": "the practice the Balkan thread runs on: a start date, a sign, an end",
+   "rel": "practice"
+  },
+  {
+   "to": "evil-eye-bracelet",
+   "as": "the other thing sold off a tray in Jerusalem and Istanbul for the same stated harm",
+   "rel": "parallel"
+  }
+ ],
+ "dating": {
+  "period": "late 15th century to the present",
+  "from_year": 1490,
+  "to_year": null,
+  "living": true,
+  "label": "1490s to now, as a recommended practice; the Genesis passage is older and is not a prescription",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-red-string-kabbalah",
+  "note": "Dated from Rabbi Abraham Saba's recommendation in the 1490s, the only public exhortation the source records. The scarlet thread at Genesis 38 is a narrative detail, not an instruction, and is not used to date the practice."
+ },
+ "object": {
+  "form": "cord",
+  "materials": [
+   "thread",
+   "cloth"
+  ],
+  "worn": [
+   "wrist",
+   "finger",
+   "neck",
+   "chest"
+  ],
+  "made_by": "given by a friend or relative in the Balkan custom, where buying one for yourself is not the form",
+  "colour": [
+   "red",
+   "white"
+  ],
+  "single_use": true,
+  "source": "s:wp-red-string-kabbalah"
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "the Jewish folk custom, which names the harm as ayin hara",
+   "source": "s:wp-red-string-kabbalah",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "the same custom, described as a way to ward off misfortune",
+   "source": "s:wp-red-string-kabbalah",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "Bulgarian and Macedonian practice: the red and white threads are a wish for good health",
+   "source": "s:wp-martenitsa",
+   "tier": "cited"
+  },
+  {
+   "harm": "house",
+   "who": "Romanian and Moldovan observers, who record the pendant as a talisman for the wearer's health and beauty",
+   "source": "s:wp-m-r-i-or",
+   "tier": "cited"
+  }
+ ],
+ "recognitions": [
+  {
+   "by": "unesco-ich",
+   "what": "Martenitsa inscribed on the Representative List of the Intangible Cultural Heritage of Humanity",
+   "year": null,
+   "source": "s:wp-martenitsa"
+  },
+  {
+   "by": "unesco-ich",
+   "what": "Mărțișor inscribed on the Representative List of the Intangible Cultural Heritage of Humanity",
+   "year": null,
+   "source": "s:wp-m-r-i-or"
+  }
+ ],
+ "links": [
+  {
+   "label": "Red string (Kabbalah) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Red_string_(Kabbalah)"
+  }
+ ],
+ "sources": [
+  "s:wp-red-string-kabbalah",
+  "s:wp-martenitsa",
+  "s:wp-m-r-i-or",
+  "s:wp-practical-kabbalah",
+  "s:wp-tefillin"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-red-string-kabbalah"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-red-string-kabbalah",
+    "note": "the closing refusal to connect the Jewish, Hindu and Chinese threads is this project's position and is marked inference there"
+   },
+   "recognitions": {
+    "tier": "cited",
+    "source": "s:wp-martenitsa",
+    "note": "no inscription year was published in what was read, so the year stays null"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Red string bracelet.jpg",
+  "File:Martenitsa.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A length of red wool or silk tied round a wrist. In the Jewish folk custom it is thin scarlet wool worn as a bracelet or band.",
+ "region_terms": [
+  {
+   "key": "levant",
+   "name": "The Levant",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "balkans",
+   "name": "The Balkans",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "china",
+   "name": "China",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "diaspora",
+   "name": "Diaspora",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "a practice carried out of its home region and kept"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "red-string",
+   "type": "amulet",
+   "name": "Red string",
+   "as": "the amulet itself — the scarlet wool on a wrist",
+   "rel": "carried-by"
+  },
+  {
+   "to": "martenitsa",
+   "type": "amulet",
+   "name": "Martenitsa",
+   "as": "the Balkan version, with a date to put it on and a bird that says take it off",
+   "rel": "carried-by"
+  },
+  {
+   "to": "knot",
+   "type": "motif",
+   "name": "The knot",
+   "as": "the wider family: a charm whose working part is that somebody tied it",
+   "rel": "whole"
+  },
+  {
+   "to": "thread",
+   "type": "material",
+   "name": "Thread and cord",
+   "as": "the material, and the reason almost none of these survive in a museum drawer",
+   "rel": "material"
+  },
+  {
+   "to": "tefillin",
+   "type": "amulet",
+   "name": "Tefillin",
+   "as": "the commandment Rabbi Abraham Saba proposed the string as a reminder of, in the 1490s",
+   "rel": "origin"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "type": "tradition",
+   "name": "Practical Kabbalah",
+   "as": "the tradition the string is popularly attached to, and which several Kabbalists say has no use for it",
+   "rel": "tradition"
+  },
+  {
+   "to": "unesco-ich",
+   "type": "org",
+   "name": "UNESCO Intangible Cultural Heritage",
+   "as": "the body whose Representative List carries the martenitsa and the mărțișor",
+   "rel": "org"
+  },
+  {
+   "to": "renewing-yearly",
+   "type": "practice",
+   "name": "Renewing yearly",
+   "as": "the practice the Balkan thread runs on: a start date, a sign, an end",
+   "rel": "practice"
+  },
+  {
+   "to": "evil-eye-bracelet",
+   "type": "amulet",
+   "name": "Evil eye bracelet",
+   "as": "the other thing sold off a tray in Jerusalem and Istanbul for the same stated harm",
+   "rel": "parallel"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-red-string-kabbalah",
+   "kind": "encyclopedia",
+   "title": "Red string (Kabbalah)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Red_string_(Kabbalah)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-martenitsa",
+   "kind": "encyclopedia",
+   "title": "Martenitsa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Martenitsa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-m-r-i-or",
+   "kind": "encyclopedia",
+   "title": "Mărțișor",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/M%C4%83r%C8%9Bi%C8%99or",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-practical-kabbalah",
+   "kind": "encyclopedia",
+   "title": "Practical Kabbalah",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Practical_Kabbalah",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tefillin",
+   "kind": "encyclopedia",
+   "title": "Tefillin",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tefillin",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-red-string-kabbalah"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-red-string-kabbalah",
+   "note": "the closing refusal to connect the Jewish, Hindu and Chinese threads is this project's position and is marked inference there"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-red-string-kabbalah"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-red-string-kabbalah"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [
+  {
+   "key": "unesco-ich",
+   "label": "UNESCO",
+   "what": "Martenitsa inscribed on the Representative List of the Intangible Cultural Heritage of Humanity",
+   "url": "",
+   "year": null,
+   "source": "s:wp-martenitsa"
+  },
+  {
+   "key": "unesco-ich",
+   "label": "UNESCO",
+   "what": "Mărțișor inscribed on the Representative List of the Intangible Cultural Heritage of Humanity",
+   "url": "",
+   "year": null,
+   "source": "s:wp-m-r-i-or"
+  }
+ ],
+ "acclaim": 1,
+ "against_facts": [
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "the Jewish folk custom, which names the harm as ayin hara",
+   "quote": "",
+   "source": "s:wp-red-string-kabbalah",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "the same custom, described as a way to ward off misfortune",
+   "quote": "",
+   "source": "s:wp-red-string-kabbalah",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "Bulgarian and Macedonian practice: the red and white threads are a wish for good health",
+   "quote": "",
+   "source": "s:wp-martenitsa",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "house",
+   "label": "Harm to a house or a field",
+   "who": "Romanian and Moldovan observers, who record the pendant as a talisman for the wearer's health and beauty",
+   "quote": "",
+   "source": "s:wp-m-r-i-or",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "thread",
+   "label": "Thread and cord",
+   "kind": "textile",
+   "note": "red thread runs from the Mediterranean to Mongolia"
+  },
+  {
+   "key": "cloth",
+   "label": "Cloth",
+   "kind": "textile"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "wrist",
+   "label": "On the wrist",
+   "group": "body"
+  },
+  {
+   "key": "finger",
+   "label": "On a finger",
+   "group": "body"
+  },
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "chest",
+   "label": "On the chest, under the shirt",
+   "group": "body"
+  }
+ ],
+ "form_fact": {
+  "key": "cord",
+  "label": "Cord or string"
+ },
+ "holding_facts": [],
+ "span": "1490 CE to now",
+ "country_names": [
+  {
+   "iso": "IL",
+   "name": "Israel"
+  },
+  {
+   "iso": "BG",
+   "name": "Bulgaria"
+  },
+  {
+   "iso": "MK",
+   "name": "North Macedonia"
+  },
+  {
+   "iso": "RO",
+   "name": "Romania"
+  },
+  {
+   "iso": "MD",
+   "name": "Moldova"
+  },
+  {
+   "iso": "AL",
+   "name": "Albania"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  },
+  {
+   "iso": "CN",
+   "name": "China"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "martenitsa",
+   "type": "amulet",
+   "name": "Martenitsa",
+   "as": "the sign, and the reason this record and a Jerusalem wrist bracelet are filed together",
+   "rel": "motif"
+  },
+  {
+   "from": "red-string",
+   "type": "amulet",
+   "name": "Red string",
+   "as": "the sign, and the one that runs from the Mediterranean to Mongolia without needing a text",
+   "rel": "motif"
+  },
+  {
+   "from": "rowan-cross",
+   "type": "amulet",
+   "name": "Rowan cross",
+   "as": "the second half of the charm and the half that does the binding — wood alone is not the object",
+   "rel": "motif"
+  },
+  {
+   "from": "knot",
+   "type": "motif",
+   "name": "The knot",
+   "as": "the knot reduced to one strand and one wrist",
+   "rel": "kin"
+  },
+  {
+   "from": "thread",
+   "type": "material",
+   "name": "Thread and cord",
+   "as": "the sign this material is, wherever it is worn",
+   "rel": "motif"
+  },
+  {
+   "from": "knotting",
+   "type": "practice",
+   "name": "Knotting",
+   "as": "the colour that runs with the knot from the Mediterranean to Mongolia",
+   "rel": "motif"
+  }
+ ]
+}

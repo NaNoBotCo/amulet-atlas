@@ -1,0 +1,63 @@
+{
+ "schema": 1,
+ "id": "marrakesh-souk",
+ "type": "place",
+ "names": {
+  "name": "The Marrakesh souk",
+  "native": "أسواق مراكش",
+  "script": "Arabic",
+  "lang": "ar",
+  "said": "SOOK",
+  "aliases": ["Souks of Marrakesh", "Marrakech souks"]
+ },
+ "region": ["maghreb"],
+ "countries": ["MA"],
+ "facets": {"kind": "market", "hemisphere": ["N", "W"]},
+ "text": {
+  "what": "The market streets of the Marrakesh medina, running north from the square called Jemaa el-Fnaa into the old city. The lanes follow the road that once linked the Almoravid stone fortress to the city's first Friday mosque, and they still hold the main axis of the souks. Each lane is one trade.",
+  "story": "Marrakesh was founded in 1070. Its two focal points were the Ksar el-Hajjar, the fortress of stone, and the first Friday mosque; the souk streets grew along the roads between them and have kept that line ever since. At the fortress end lay a large open space for temporary and weekly markets, called Rahbat al-Ksar, then as-Saha al-Kubra, the grand square. That space is today's Jemaa el-Fnaa, and the souk is edged along one side by it.\n\nWhat the square sells changes by the hour. By day: orange juice, water sellers with leather bags and brass cups, snake charmers. Later the charmers leave and the square fills with storytellers, musicians, magicians and peddlers of traditional medicines; after dark, food stalls. UNESCO's programme for intangible heritage began with people worried about exactly this square, and the label followed.\n\nThe written trade is documented across the region rather than lane by lane. The scholar Remke Kruk found books on magic and sorcery well represented in street stalls and bookshops from Marrakesh to Cairo to Yemen around 2005; from about 1990 religious pamphlets condemning those practices sold beside them.\n\n*Inference —* the herbalists' stalls are what most visitors come away describing, and this atlas has not yet read a source it can cite for them. The record therefore names the square's medicine peddlers, which is published, and stops there rather than furnishing the lanes from guidebooks it could not open.",
+  "today": "Trading. The square went into a renovation programme from May 2025, budgeted at 160 million dirhams and scheduled to finish by the end of that year, to rework infrastructure and reorganise the public and commercial space. Hours are the stallholders' own; none are marked below."
+ },
+ "dating": {
+  "period": "Almoravid to the present",
+  "from_year": 1070,
+  "to_year": null,
+  "living": true,
+  "label": "c. 1070 to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-jemaa-el-fnaa",
+  "note": "Dated from the founding of the city and the laying of the souk axis between the Ksar el-Hajjar and the first Friday mosque."
+ },
+ "geo": {"lat": 31.62583, "lon": -7.98944, "precision": "town", "source": "hand-placed on Jemaa el-Fnaa, using the coordinate published in the English Wikipedia article for that square; the souk itself is a quarter, not a point, and runs north from here"},
+ "address": {"street": "north from Jemaa el-Fnaa", "city": "Marrakesh", "admin": "Marrakesh-Safi", "country": "MA"},
+ "kin": [
+  {"to": "hamsa", "as": "the hand this region cuts in silver, and the sign a Moroccan market is likeliest to sell", "rel": "carries"},
+  {"to": "islamic-talismanic", "as": "the tradition whose handbooks Kruk found on stalls here, with the pamphlets against them alongside", "rel": "tradition"},
+  {"to": "taweez", "as": "the written charm those handbooks instruct; the writing is a specialist's work, not a stall's", "rel": "carries"},
+  {"to": "khan-el-khalili", "as": "the other end of Kruk's line, Cairo to Marrakesh, selling the same books", "rel": "parallel"},
+  {"to": "herb", "as": "the material the square's medicine peddlers trade in, named in UNESCO's file on the place", "rel": "material"},
+  {"to": "buying-in-a-market", "as": "the practice, in lanes laid out by trade since 1070", "rel": "practice"}
+ ],
+ "tags": [
+  {"tag": "market", "source": "s:wp-jemaa-el-fnaa", "tier": "cited", "note": "the Marrakesh souk edges the square; the square itself carries peddlers of traditional medicines"}
+ ],
+ "recognitions": [
+  {"by": "unesco-ich", "what": "the cultural space of Jemaa el-Fnaa, proclaimed a Masterpiece of the Oral and Intangible Heritage of Humanity; the UNESCO programme itself grew from campaigning over this square", "source": "s:wp-jemaa-el-fnaa"}
+ ],
+ "links": [{"label": "Jemaa el-Fnaa — Wikipedia", "url": "https://en.wikipedia.org/wiki/Jemaa_el-Fnaa"}],
+ "sources": ["s:wp-jemaa-el-fnaa", "s:wp-islam-and-magic", "s:wp-hamsa"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-jemaa-el-fnaa"},
+  "fields": {
+   "geo": {"tier": "inference", "note": "placed by hand on the published coordinate for Jemaa el-Fnaa because the souk is a quarter with no published point; precision is town, not street"},
+   "text.story": {"tier": "cited", "source": "s:wp-jemaa-el-fnaa", "note": "the last paragraph names a gap in this project's sources and is marked as inference where it appears"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Marrakech souk 2011.jpg", "File:Jemaa el-Fnaa square.jpg"],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

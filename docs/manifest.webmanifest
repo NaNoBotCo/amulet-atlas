@@ -1,0 +1,16 @@
+{
+ "name": "Amulet Atlas",
+ "short_name": "Amulets",
+ "start_url": "./index.html",
+ "display": "standalone",
+ "background_color": "#f6f3ec",
+ "theme_color": "#b23a2b",
+ "description": "worn, buried, nailed above the door \u2014 and what each one is meant to stop",
+ "icons": [
+  {
+   "src": "icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}

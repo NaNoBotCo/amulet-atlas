@@ -1,0 +1,50 @@
+{
+ "schema": 1,
+ "id": "unesco-ich",
+ "type": "org",
+ "names": {
+  "name": "UNESCO Intangible Cultural Heritage",
+  "aliases": ["the 2003 Convention", "Convention for the Safeguarding of the Intangible Cultural Heritage", "ICH"],
+  "sort": "UNESCO Intangible Cultural Heritage"
+ },
+ "region": ["world"],
+ "facets": {"kind": "registry"},
+ "text": {
+  "what": "The UNESCO programme run under the 2003 Convention for the Safeguarding of the Intangible Cultural Heritage. It lists practices, not objects. A charm cannot be inscribed; the craft of making it, the festival it is sold at or the rite it belongs to can be. States Parties nominate, and an intergovernmental committee meets annually and decides.",
+  "story": "Article 2 of the Convention defines intangible cultural heritage as traditions or living expressions inherited from our ancestors and passed on to our descendants — oral traditions, performing arts, social practices, rituals, festive events, knowledge and practices concerning nature and the universe, and the knowledge and skills to produce traditional crafts. Those are the five domains.\n\nTwo statements in the Convention's own summary matter more than the lists. The first is that intangible cultural heritage is \"traditional, contemporary and living at the same time\" — it is not a survival, and an element does not have to be old. The second is that it is \"community-based: intangible cultural heritage can only be heritage when it is recognized as such by the communities, groups or individuals that create, maintain and transmit it\". A state cannot inscribe a practice over the heads of the people doing it.\n\nThere are three registers: the Representative List of the Intangible Cultural Heritage of Humanity, the List of Intangible Cultural Heritage in Need of Urgent Safeguarding, and the Register of Good Safeguarding Practices. The committee meets annually to evaluate nominations proposed by States Parties and decide whether or not to inscribe them.",
+  "today": "What inscription is not: a ranking, a mark of quality, a property title, a trademark, or a bar on anyone making or selling anything. UNESCO's own wording is that intangible cultural heritage \"is not merely valued as a cultural good, on a comparative basis, for its exclusivity or its exceptional value\". *Inference —* this atlas therefore counts an inscription as attention paid and never as a verdict, and it never reads an absence from the lists as evidence that a practice is less real. Most of the practices in these records have never been nominated by anybody."
+ },
+ "dating": {
+  "period": "2003 to now",
+  "from_year": 2003,
+  "to_year": null,
+  "living": true,
+  "label": "Convention adopted 2003; inscriptions annual since",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:web-unesco-ich-what-is"
+ },
+ "kin": [
+  {"to": "thai-wicha", "as": "the kind of living craft tradition the Convention's traditional-craftsmanship domain is written for", "rel": "tradition"},
+  {"to": "japanese-engimono", "as": "a shrine-linked making and selling practice of the sort the lists take in", "rel": "tradition"},
+  {"to": "maori-taonga", "as": "a tradition where the community-recognition clause does the work, not the list", "rel": "tradition"},
+  {"to": "aiatsis", "as": "the Australian institute often confused with this programme; its language collection sits on UNESCO's Memory of the World register instead", "rel": "contrast"},
+  {"to": "nagpra", "as": "the contrast in kind: a binding national statute about objects, against an international list about practices", "rel": "contrast"},
+  {"to": "who-owns-a-charm", "as": "the long read on ownership, where inscription is the thing most often mistaken for a property claim", "rel": "story"},
+  {"to": "the-fake-market", "as": "the long read on authentication; an inscription settles nothing about whether a given object is what a seller says it is", "rel": "story"}
+ ],
+ "links": [
+  {"label": "What is Intangible Cultural Heritage?", "url": "https://ich.unesco.org/en/what-is-intangible-heritage-00003"},
+  {"label": "The Lists and the Register", "url": "https://ich.unesco.org/en/lists"}
+ ],
+ "sources": ["s:web-unesco-ich-what-is", "s:web-unesco-ich-lists"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:web-unesco-ich-what-is"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:web-unesco-ich-lists", "note": "the three registers and the nomination route are cited; no element count is given here, because the figures on the listing page were not read element by element"}
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "id": "what-this-atlas-does-not-print",
+ "type": "story",
+ "names": {
+  "name": "What this atlas does not print",
+  "aliases": ["the restriction rule", "why Australia is blank"]
+ },
+ "region": ["world", "australia"],
+ "countries": ["AU"],
+ "facets": {"kind": "essay", "era": "modern"},
+ "text": {
+  "what": "Open the map and one continent is close to empty. Australia has one of the longest continuous records of protective objects anywhere, and this atlas prints almost none of it. That is not an oversight, a research gap or a shortage of published material — it is a rule, applied on purpose, and this record is the rule explained by the project that wrote it, to the reader who has just noticed the hole."
+ },
+ "sections": [
+  {
+   "h": "The rule, in one sentence",
+   "text": "Where a tradition restricts an object, a design or a rite to initiates, to one gender, to one clan or to the dead, this atlas prints the restriction and stops.\n\nIt does not paraphrase the restricted thing in careful language. It does not reconstruct a guarded rite by stitching together three published fragments that each gave away a quarter of it. It does not fill the gap with a neighbouring people's practice on the reasoning that they are near each other. It writes down that the limit exists, names who says so, cites where they said it, and leaves the space empty.\n\nThe rule outranks completeness. That is the part that costs something, and it is the part the project is stating out loud so a reader can hold it to the standard."
+  },
+  {
+   "h": "Secret and sacred, in Australian law and in Australian institutions",
+   "text": "The phrase a reader will meet in Australian collections is \"secret/sacred\", and it is not decorative. The Australian Institute of Aboriginal and Torres Strait Islander Studies in Canberra, the country's principal collecting and research body for Aboriginal and Torres Strait Islander material, holds items of that kind and says so plainly. Its founding Act carries the terms. Section 41 of the AIATSIS Act reads:\n\n\"Where information or other matter has been deposited with the Institute under conditions of restricted access, the Institute or the Council shall not disclose that information or other matter except in accordance with those conditions.\"\n\nand then goes further:\n\n\"The Institute or the Council shall not disclose information or other matter held by it (including information or other matter covered by subsection (1)) if that disclosure would be inconsistent with the views or sensitivities of relevant Aboriginal persons or Torres Strait Islanders.\"\n\nThat second clause is a disclosure rule with no exception for scholarship. In practice AIATSIS stores restricted visual media separately from the rest of the collection; audio and moving image items are not played until cultural requirements have been checked; digitisation of restricted material is done in secured conditions, in enclosed booths, by staff who can meet the protocols attaching to the item. It also follows the protocols developed by the Aboriginal and Torres Strait Islander Library, Information and Resource Network, and cites Article 31 of the United Nations Declaration on the Rights of Indigenous Peoples, which recognises the right of Indigenous people to \"maintain, control, protect and develop their cultural heritage, traditional knowledge and traditional cultural expressions\".\n\nAIATSIS published its Guidelines for Ethical Research in Australian Indigenous Studies in 1999, revised them in 2012, and replaced them in 2020 with the AIATSIS Code of Ethics for Aboriginal and Torres Strait Islander Research, built on four principles: Indigenous self-determination, Indigenous leadership, impact and value, and sustainability and accountability. Access to culturally sensitive items is restricted to people who have the permission of the relevant Aboriginal or Torres Strait Islander community — and, where the depositor set conditions, of the depositor too.\n\nOne worked example is enough and this atlas will not add detail to it. Among the Arrernte and neighbouring groups of Central Australia there is a class of object called tjurunga, from the Arrernte word Tywerenge, meaning sacred or precious. The published account this project read states that only a small number of people may see them, that it is considered sacrilegious to publish a picture of them, and that in recent decades there have been moves to repatriate them from museum collections to their traditional owners. That is the entry. There is no object description here, no design, no material list, no photograph and no candidate image file, and the atlas holds no record for the class. The published account itself closes with an advisory to Aboriginal readers that viewing or displaying images of sacred objects may be inappropriate in their communities — which is a source telling its own readers to stop, and this project taking that as addressed to it as well."
+  },
+  {
+   "h": "Where else the rule bites",
+   "text": "Australia is the largest blank but not the only one.\n\n*Inference —* the same test is applied wherever this atlas meets it: initiation-limited designs, consecration formulas a lineage guards, objects entrusted to one gender, and grave goods whose owners' descendants object to their display. Where the project could not establish from a named source that a detail is published with the tradition's consent, the detail is not here — and the record says which of the three sentences it owes a reader it cannot say.\n\nMuseums now write the same rule for themselves, and their wording is worth quoting because it is theirs and not this project's. The Pitt Rivers Museum in Oxford took its tsantsa — shrunken heads, on display since the 1940s — off show during its 2020 closure. Its director's published statement reads: \"Exhibiting Tsantsas (shrunken heads) reinforced racist and stereotypical thinking that goes against the museum's core values.\" In September 2020 it removed its displayed human remains generally, said it would rewrite labels to carry voices of artists and Indigenous leaders, and began meeting originating communities about errors, gaps and repatriation. In 2021 the Wellcome Collection acknowledged that Henry Wellcome's collecting was shaped by colonialism and that objects bought at auction may have been \"unjustly taken\"; in 2025 it returned a group of Jain manuscripts to India after researchers found they had been acquired without the consent of the communities they belonged to.\n\nThose are institutions with the objects in hand deciding what not to show. This atlas has no objects; it has descriptions. The decision is the same one at lower stakes, which is exactly why there is no excuse for getting it wrong."
+  },
+  {
+   "h": "How the blank is built",
+   "text": "Every record in this atlas carries a field called `restricted`. Setting it does two things at once: the site prints the note instead of the detail, and the author does not write the detail anywhere else in the record either. The validator refuses a `restricted` block that does not name who says so — a restriction with no claimant is this project asserting a limit on somebody else's behalf, which is its own kind of overreach.\n\nThe `facets.restricted` value on an amulet, tradition or practice record says which of three states applies: open, limited, closed. A reader can therefore see, on the face of the record, that there is more and that it is not here.\n\nThis matters because the alternative is worse in a way that is easy to miss. A guessed record is not a half-empty record; it is a full record that reads exactly like a sourced one. It gets quoted. It gets translated. It gets fed back to the community it was guessed about. A blank with a citation cannot do any of that."
+  },
+  {
+   "h": "What the blank does not mean",
+   "text": "Absence of evidence is not evidence of absence, and a blank here is a statement about this project, not about a people.\n\nIt does not mean a tradition had no protective objects, has none now, or has nothing published. It does not mean the material is lost. It does not mean nobody may write about it — the people whose material it is write about it constantly, and their own publications, in their own framing, are exactly where a reader should go next. It means this project could not establish that a given detail is published with consent, and so did not print it.\n\n*Inference —* there is a corollary that cuts the other way and the project states it against itself. The blank areas of this map are also where the atlas is least able to tell a reader that it has checked. A reader should read the empty regions as \"not on this disk\", never as \"not in the world\"."
+  }
+ ],
+ "dating": {
+  "period": "the rule as applied from 2026",
+  "from_year": 1999,
+  "to_year": null,
+  "living": true,
+  "label": "1999, when AIATSIS first published ethical guidelines, to now",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies",
+  "note": "Dated from the publication of GERAIS in 1999, its 2012 revision and its replacement by the AIATSIS Code in 2020, not from the age of the restrictions themselves, which are older than any of those documents."
+ },
+ "kin": [
+  {"to": "aiatsis", "as": "the body whose Act and Code this rule is modelled on, and whose wording is quoted here rather than paraphrased", "rel": "org"},
+  {"to": "who-owns-a-charm", "as": "the companion read — this one is about what may be said, that one about what may be kept", "rel": "story"},
+  {"to": "pitt-rivers-museum", "as": "a museum that applied the same test to its own cases in 2020, and published its reasons", "rel": "org"},
+  {"to": "wellcome-collection", "as": "a collection that said in 2021 how its holdings were formed, and returned manuscripts in 2025", "rel": "org"},
+  {"to": "te-papa", "as": "a museum built around the proposition that the originating community sets the terms", "rel": "org"},
+  {"to": "maori-taonga", "as": "a tradition with published protocols of its own, which this atlas follows rather than summarises", "rel": "tradition"},
+  {"to": "dating-a-charm", "as": "the other methods note — why an undated record is not an undated object", "rel": "story"},
+  {"to": "free-to-use", "as": "what this project does publish, and on what terms", "rel": "story"},
+  {"to": "the-drawn-signs", "as": "the pictures the atlas makes itself, partly so it never has to publish one it should not", "rel": "art"}
+ ],
+ "links": [
+  {"label": "AIATSIS — Wikipedia", "url": "https://en.wikipedia.org/wiki/Australian_Institute_of_Aboriginal_and_Torres_Strait_Islander_Studies"}
+ ],
+ "sources": ["s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies", "s:wp-tjurunga", "s:wp-pitt-rivers-museum", "s:wp-wellcome-collection", "s:wp-repatriation-cultural-property", "s:repo-atlas-schema"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies"},
+  "fields": {
+   "sections": {"tier": "cited", "source": "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies", "note": "the two stretches of this project's own reasoning are labelled inline; the schema section is from the repository's own schema and validator"}
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

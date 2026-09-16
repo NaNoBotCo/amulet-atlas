@@ -1,0 +1,119 @@
+{
+ "schema": 1,
+ "id": "apotropaic-word",
+ "type": "term",
+ "names": {
+  "name": "apotropaic",
+  "native": "ἀποτρόπαιος",
+  "script": "Greek",
+  "lang": "grc",
+  "said": "ap-oh-troh-PAY-ik",
+  "aliases": [
+   "apotropaion",
+   "apotropaia"
+  ]
+ },
+ "etymology": {
+  "root": "Greek apo 'away' + tropos 'turn' > apotrepō (ἀποτρέπω) 'to turn away, to ward off' > apotropaios (ἀποτρόπαιος) 'averting' > English apotropaic",
+  "first_attested": "",
+  "note": "Wiktionary's English entry dates the adjective's use from 1883; this project has not read the citation behind that date, so it is reported and not asserted. Wikipedia's article glosses the Greek verb directly as 'to ward off', which is why the two English words sit on one shelf here.",
+  "tier": "cited",
+  "source": "s:wp-apotropaic-magic"
+ },
+ "region": [
+  "greece-aegean",
+  "western-europe",
+  "world"
+ ],
+ "countries": [
+  "GR",
+  "GB",
+  "US"
+ ],
+ "facets": {
+  "language": [
+   "English",
+   "Greek"
+  ]
+ },
+ "text": {
+  "what": "The scholar's adjective, and nobody's own. No wearer calls a bead apotropaic. It is the word a museum label, an excavation report and a doctoral thesis use for anything meant to turn harm aside — and its one virtue is that it names a purpose without taking a view on whether the purpose is met. This atlas uses it for that reason and no other.",
+  "story": "Greek did not need one word, because it had a crowd of them. The ancient sources carry apotropaia, probaskania, periammata, periapta, profylaktika, phylaktiria, antipharmaca, alexicaca, alexipharmaca and alexima pharmaca, all for protective objects, with no one of them dominant.\n\nThe gods came in matching sets. Offerings went to the apotropaioi theoi, the averting gods, and to the Apopompaioi theoi, who send evil away, and the Apōsikakoi theoi, the evil-averting gods. Zeus, Apollo, Heracles and Leucothea all carried the epithet Alexicacus, averter of evil; Heracles was also Keramyntes, another averter.\n\nEnglish boiled the crowd down to one adjective and handed it to the academy. *Inference —* that reduction is why an Egyptian birth tusk, a Roman fascinum, an Irish Brigid's cross and a Japanese ofuda can hang on one wall under one heading. The category is a translation choice, made once, in Greek, and then carried by people writing in English about everybody else.\n\n*Tradition holds —* the practices the word covers rarely describe themselves as a category at all. A household rite in Egypt, spitting into the folds of a garment in Greece, a grasshopper hung before the Acropolis by Peisistratus: these were separate acts to the people doing them, and the adjective that gathers them is ours."
+ },
+ "dating": {
+  "period": "Greek antiquity to the present",
+  "from_year": -499,
+  "to_year": null,
+  "living": true,
+  "label": "the Greek vocabulary from antiquity; the English adjective from the nineteenth century",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-apotropaic-magic",
+  "note": "The from_year is a rounded date for classical Greek usage of the underlying words, not a first attestation this project read."
+ },
+ "kin": [
+  {
+   "to": "ward-word",
+   "as": "the Old English verb that translates this Greek one — the same act, arriving in English from the other direction",
+   "rel": "same-word"
+  },
+  {
+   "to": "periapt",
+   "as": "one of the Greek protective words this adjective outlived, and the only other to reach English",
+   "rel": "same-word"
+  },
+  {
+   "to": "greco-roman-apotropaic",
+   "as": "the tradition the word was quarried out of, and the one it now labels",
+   "rel": "tradition"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the practices that never used the word and get filed under it anyway",
+   "rel": "tradition"
+  },
+  {
+   "to": "fascinum",
+   "as": "the Roman object this adjective is applied to more often than any other",
+   "rel": "term"
+  },
+  {
+   "to": "amulet-word",
+   "as": "the noun beside this adjective; one names the thing, the other names what it is for",
+   "rel": "contrast"
+  }
+ ],
+ "links": [
+  {
+   "label": "Apotropaic magic — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Apotropaic_magic"
+  }
+ ],
+ "sources": [
+  "s:wp-apotropaic-magic",
+  "s:web-wiktionary-apotropaic",
+  "s:wp-amulet"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-apotropaic-magic"
+  },
+  "fields": {
+   "etymology": {
+    "tier": "cited",
+    "source": "s:web-wiktionary-apotropaic",
+    "note": "the 1883 date is Wiktionary's; first_attested is left blank because the citation behind it was not read"
+   },
+   "dating": {
+    "tier": "inference",
+    "note": "rounded to classical Greek usage; no first attestation was read for either language"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

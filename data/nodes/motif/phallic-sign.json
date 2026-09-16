@@ -1,0 +1,68 @@
+{
+ "schema": 1,
+ "id": "phallic-sign",
+ "type": "motif",
+ "names": {
+  "name": "The phallus",
+  "native": "fascinum",
+  "script": "Latin",
+  "lang": "la",
+  "said": "fas-KI-num",
+  "aliases": ["fascinus", "fascinum", "winged phallus", "fist-and-phallus", "palad khik"]
+ },
+ "region": ["rome-italy", "britain-ireland", "maghreb", "greece-aegean", "mainland-sea"],
+ "countries": ["IT", "GB", "LY", "GR", "TH"],
+ "facets": {"era": "classical", "family": "body-part", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "An erect phallus, modelled in bronze, bone or wood and worn, hung or fixed. Roman versions are frequently winged, and turn up as pendants, finger rings, relief carvings, lamps and wind chimes. Thai palad khik are small carved rods worn at the waist. The sign is not decorative and was not treated as decorative.",
+  "story": "In Roman religion the fascinus was the divine phallus. Pliny called it a medicus invidiae — a doctor, or remedy, for envy and for the look that carries it. The Vestal Virgins tended the cult of the fascinus populi Romani, and when a general celebrated a triumph they hung an effigy of it under his chariot to protect him from invidia. Augustine, drawing on Varro, records a phallic image carried in procession at the festival of Father Liber to keep enchantment off the fields.\n\nWho wore one is a narrower question than it looks. There are very few Roman images of people wearing a phallic charm. Varro notes the custom of hanging one at a baby's neck, and phallus-bearing rings have been found too small for anyone but a child. A 2017 experimental archaeology project suggested some types were designed to stay pointing outwards, in the wearer's direction of travel, so as to face whatever was coming.\n\nThe explanation Roman writers give is not only fertility. The protective function is usually tied to the regenerative power of an erect phallus, but in most cases what diverts the look is the shame or the laughter that obscenity produces. The victory is sometimes drawn literally: a phallus ejaculating at a disembodied eye, a motif known from reliefs at Leptis Magna in present-day Libya and from several places on Hadrian's Wall, and from a first-century BCE terracotta of two small phallus-men sawing an eyeball in half.\n\nSoldiers carried a compound version, the fist-and-phallus amulet, with a clenched fist at the base of the shaft — often making the fig sign. The largest known collection is from Camulodunum.\n\nThe sign is not only Roman. In Thailand the palad khik is carved, blessed and worn at the waist, and Thai practice has its own account of what it is for, which this atlas records in that amulet's own file rather than folding into Rome's."
+ },
+ "kin": [
+  {"to": "fascinum", "as": "the Roman amulet itself — the winged bronze in the tray", "rel": "carried-by"},
+  {"to": "palad-khik", "as": "Thailand's carved phallus, worn at the waist, with its own tradition behind it and no line of descent from Rome that this project can show", "rel": "parallel"},
+  {"to": "fist", "as": "the hand fused to the shaft on the soldiers' fist-and-phallus pendants", "rel": "kin"},
+  {"to": "eye", "as": "the harm it is aimed at, and in Roman art the thing it is drawn attacking", "rel": "parallel"},
+  {"to": "bell", "as": "the tintinnabulum hung a phallus and bells together at a Roman doorway", "rel": "kin"},
+  {"to": "horn", "as": "southern Italy's later substitute — a shape that catches a glance without the obscenity", "rel": "descendant"},
+  {"to": "bulla", "as": "the locket a Roman boy wore, which is where a phallus was often put", "rel": "kin"},
+  {"to": "greco-roman-apotropaic", "as": "the tradition this sign sits at the centre of", "rel": "tradition"}
+ ],
+ "dating": {
+  "period": "Roman Republic and Empire, and living in Thailand",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "attested in Roman religion and magic; still carved in Thailand",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-fascinus",
+  "note": "No start year is given in the sources read. Varro, Pliny and Augustine are the named Roman witnesses; the terracotta of the phallus-men is dated to the first century BCE."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": ["copper", "bone", "wood", "terracotta"],
+  "worn": ["neck", "waist", "door", "vehicle"],
+  "made_by": "Roman bronze workshops; in Thailand, monks and lay specialists",
+  "source": "s:wp-fascinus",
+  "note": "Roman examples occur as pendants, finger rings, reliefs, lamps and wind chimes. No measurement is quoted because none was read."
+ },
+ "against": [
+  {"harm": "evil-eye", "who": "Pliny, who called the fascinus a medicus invidiae — a remedy for envy and for the look", "quote": "medicus invidiae", "source": "s:wp-fascinus", "tier": "cited"},
+  {"harm": "envy", "who": "Roman practice: the Vestals hung one under a triumphing general's chariot against invidia", "source": "s:wp-fascinus", "tier": "cited"},
+  {"harm": "child-harm", "who": "Varro, on the custom of hanging a phallic charm at a baby's neck; rings too small for an adult have been found", "source": "s:wp-fascinus", "tier": "cited"},
+  {"harm": "house", "who": "Roman householders, who hung phallic wind chimes at doorways and thresholds", "source": "s:wp-tintinnabulum-rome", "tier": "cited"},
+  {"harm": "witchcraft", "who": "Augustine, reporting Varro: the image was carried in procession at the festival of Liber to repel fascinatio from the fields", "source": "s:wp-fascinus", "tier": "cited"}
+ ],
+ "links": [{"label": "Fascinus — Wikipedia", "url": "https://en.wikipedia.org/wiki/Fascinus"}],
+ "sources": ["s:wp-fascinus", "s:wp-tintinnabulum-rome", "s:wp-fig-sign", "s:wp-palad-khik", "s:wp-evil-eye"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-fascinus"},
+  "fields": {
+   "dating": {"tier": "cited", "source": "s:wp-fascinus", "note": "left open at both ends: no start year was published in what was read, and the Thai practice is current"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Fascinum MAN Napoli.jpg", "File:Roman winged phallus amulet.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

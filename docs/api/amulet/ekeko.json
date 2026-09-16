@@ -1,0 +1,467 @@
+{
+ "schema": 1,
+ "id": "ekeko",
+ "type": "amulet",
+ "names": {
+  "name": "Ekeko",
+  "native": "Iqiqu",
+  "lang": "ay",
+  "script": "Latin",
+  "said": "eh-KEH-ko",
+  "aliases": [
+   "Iqiqu",
+   "Ekhako",
+   "Eqaqo",
+   "Ekhekho"
+  ]
+ },
+ "etymology": {
+  "root": "Aymara Ekhako or Eqaqo, popularised as Ekhekho — the name of the god of fortune and prosperity in Qullasuyu; contemporary Aymara spelling Iqiqu",
+  "note": "The cited source says the Ekhako was invoked when a disgrace disturbed a household.",
+  "tier": "cited",
+  "source": "s:wp-ekeko"
+ },
+ "region": [
+  "andes"
+ ],
+ "countries": [
+  "BO",
+  "PE"
+ ],
+ "facets": {
+  "era": "early-modern",
+  "status": "living",
+  "portable": "placed",
+  "restricted": "open",
+  "hemisphere": [
+   "S",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A short, moustached man in Andean dress, above all a poncho, loaded to the shoulders with everything a household could want: bags and baskets of grain, food, pots, tools, banknotes. Most are cast plaster now; the colonial ones were clay. Modern figures have a hole in the mouth sized for a lit cigarette. Small versions go on key rings and necklaces.",
+  "story": "The Ekeko is the Tiwanakan god of abundance and prosperity in the folklore of the Altiplano, and in Bolivia he is the figure the Alasitas fair is built around. That fair opens on 24 January in La Paz and runs for a month; in Peru the main festival is 3 May, in Puno, on the Machallata hill. Elsewhere the Ekeko's festival falls in October under the name Calvario.\n\nFour named scholars argue about what he was before the colony. Ernesto Cavour, in his book Alasitas, points to anthropomorphic and zoomorphic figures in stone, mud and gold found in the Bolivian departments of La Paz, Oruro and Potosí, made from basalt out of the pre-Columbian mines on the shores of Lake Poopó and andesite from the Copacabana peninsula. Carlos Ponce Sanginés works on humped, phallic figures he places in the Inca period and reads as the colonial Ekeko's predecessors. Antonio Paredes Candia takes them for the remains of summer-solstice festivals. Arthur Posnansky observed that around 22 December the Tiwanaku population offered miniatures of what they wanted to their gods.\n\nThe story Bolivians tell puts him in 1781, during the siege of La Paz. As Antonio Díaz Villamil narrates it, Paulita Tintaya, an Indigenous girl working for Doña Josefa Ursula de Rojas Foronda, had been given a small Ekeko by Isidoro Choquehuanca before she left the hacienda where they grew up. Isidoro, serving in the Indigenous army besieging the city, left food by the statue outside the house each week without saying so. Paulita and her employer survived the siege on it. *Tradition holds —* La Paz tells that story as the origin of the Ekeko's power to provide.\n\nWhat the figure is offered is specific. Banknotes are clipped to him. Grain is given for good harvests. Statuettes with the mouth opening are given a lit cigarette — in the most recent form of the practice, once a year, to secure a full year of prosperity.",
+  "how": "Cast in plaster, painted, then loaded. The Ekeko goes in a place of honour in the house and is added to rather than replaced: more miniatures, more banknotes, a cigarette on the day. Miniatures bought at Alasitas can be blessed by the men and, less often, women working the fair as shamans, and at midday on 24 January the Catholic Church blesses the gifts at the main cathedral in La Paz. Small Ekekos ride on key rings and necklaces and are not offered anything.",
+  "today": "Sold across western Bolivia and southern Peru, and central to a fair that fills streets and parks across central La Paz every January. In March 2011 Elizabeth Salguero, Bolivia's Minister of Cultures, nominated Alasitas along with two other Bolivian festivals to UNESCO for recognition as intangible cultural heritage. In 2016 the Feast of Alasita and the miniatures of the Altiplano of Puno were declared Cultural Heritage of the Nation of Peru."
+ },
+ "dating": {
+  "period": "colonial La Paz to the present",
+  "from_year": 1781,
+  "to_year": null,
+  "living": true,
+  "label": "1781 to now, on the colonial figure; older claims are named and not dated here",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-alasitas",
+  "note": "1781 is the siege of La Paz, after which Sebastián Segurola moved the fair to 24 January and the Ekeko appeared modelled in clay. Cavour, Ponce Sanginés, Paredes Candia and Posnansky each argue for pre-Columbian antecedents; this project reports those arguments and does not date them."
+ },
+ "object": {
+  "form": "figurine",
+  "materials": [
+   "terracotta",
+   "paper",
+   "coin"
+  ],
+  "worn": [
+   "hearth",
+   "neck",
+   "pocket",
+   "shop"
+  ],
+  "made_by": "Alasitas artisans and plaster casters; anyone may own one, and one given as a gift is the usual route",
+  "colour": [
+   "white",
+   "red",
+   "green"
+  ],
+  "single_use": false,
+  "source": "s:wp-ekeko",
+  "note": "Modern figures are cast in plaster, which has no key in this project's materials list; the colonial ones were clay. Banknotes clipped to the figure are part of the object as it stands in a house."
+ },
+ "against": [
+  {
+   "harm": "poverty",
+   "who": "the figure's owners",
+   "quote": "Ekeko brings monetary wealth to its worshippers. An offering is generally required before he provides his services.",
+   "source": "s:wp-ekeko",
+   "tier": "cited"
+  },
+  {
+   "harm": "attraction",
+   "who": "Alasitas buyers, who give a miniature so the recipient gets the real thing within the year",
+   "source": "s:wp-alasitas",
+   "tier": "cited"
+  },
+  {
+   "harm": "house",
+   "who": "Aymara households; the cited source says the Ekhako was invoked when a disgrace disturbed the home",
+   "source": "s:wp-ekeko",
+   "tier": "cited"
+  }
+ ],
+ "recognitions": [
+  {
+   "by": "national-heritage",
+   "what": "the Feast of Alasita and the miniatures of the Altiplano of Puno declared Cultural Heritage of the Nation of Peru",
+   "year": 2016,
+   "source": "s:wp-alasitas"
+  }
+ ],
+ "kin": [
+  {
+   "to": "andean-illa-practice",
+   "as": "the tradition this figure is the public face of — a miniature is a claim on the full-size thing",
+   "rel": "tradition"
+  },
+  {
+   "to": "illa",
+   "as": "the older Andean miniature, kept by herders for their animals rather than by households for their money",
+   "rel": "kin"
+  },
+  {
+   "to": "mercado-de-las-brujas-la-paz",
+   "as": "the La Paz market where he is sold year-round, not only in January",
+   "rel": "place"
+  },
+  {
+   "to": "maneki-neko",
+   "as": "the other figure in this atlas that sits at a till and is expected to pull custom in",
+   "rel": "parallel"
+  },
+  {
+   "to": "feeding-the-charm",
+   "as": "the practice this record turns on: banknotes clipped on, grain offered, a cigarette lit once a year",
+   "rel": "practice"
+  },
+  {
+   "to": "blessing-at-a-shrine",
+   "as": "what happens to the miniatures at midday on 24 January, at the cathedral in La Paz",
+   "rel": "practice"
+  },
+  {
+   "to": "buying-in-a-market",
+   "as": "how one is got — and at Alasitas, buying is the rite",
+   "rel": "practice"
+  },
+  {
+   "to": "unesco-ich",
+   "as": "the body Bolivia nominated Alasitas to in March 2011",
+   "rel": "org"
+  }
+ ],
+ "links": [
+  {
+   "label": "Ekeko — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ekeko"
+  },
+  {
+   "label": "Alasitas — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alasitas"
+  }
+ ],
+ "sources": [
+  "s:wp-ekeko",
+  "s:wp-alasitas"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-ekeko"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-ekeko",
+    "note": "the 1781 legend is marked as tradition where it appears; the scholars' pre-Columbian arguments are reported under their own names"
+   },
+   "object.colour": {
+    "tier": "inference",
+    "note": "read from the figure as sold; no published colour description"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A short, moustached man in Andean dress, above all a poncho, loaded to the shoulders with everything a household could want: bags and baskets of grain, food, pots, tools, banknotes.",
+ "region_terms": [
+  {
+   "key": "andes",
+   "name": "The Andes",
+   "hemi": [
+    "S",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "andean-illa-practice",
+   "type": "tradition",
+   "name": "Illa practice",
+   "as": "the tradition this figure is the public face of — a miniature is a claim on the full-size thing",
+   "rel": "tradition"
+  },
+  {
+   "to": "illa",
+   "type": "amulet",
+   "name": "Illa",
+   "as": "the older Andean miniature, kept by herders for their animals rather than by households for their money",
+   "rel": "kin"
+  },
+  {
+   "to": "mercado-de-las-brujas-la-paz",
+   "type": "place",
+   "name": "El Mercado de las Brujas",
+   "as": "the La Paz market where he is sold year-round, not only in January",
+   "rel": "place"
+  },
+  {
+   "to": "maneki-neko",
+   "type": "amulet",
+   "name": "Maneki-neko",
+   "as": "the other figure in this atlas that sits at a till and is expected to pull custom in",
+   "rel": "parallel"
+  },
+  {
+   "to": "feeding-the-charm",
+   "type": "practice",
+   "name": "Feeding the charm",
+   "as": "the practice this record turns on: banknotes clipped on, grain offered, a cigarette lit once a year",
+   "rel": "practice"
+  },
+  {
+   "to": "blessing-at-a-shrine",
+   "type": "practice",
+   "name": "Blessing at a shrine",
+   "as": "what happens to the miniatures at midday on 24 January, at the cathedral in La Paz",
+   "rel": "practice"
+  },
+  {
+   "to": "buying-in-a-market",
+   "type": "practice",
+   "name": "Buying one in a market",
+   "as": "how one is got — and at Alasitas, buying is the rite",
+   "rel": "practice"
+  },
+  {
+   "to": "unesco-ich",
+   "type": "org",
+   "name": "UNESCO Intangible Cultural Heritage",
+   "as": "the body Bolivia nominated Alasitas to in March 2011",
+   "rel": "org"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-ekeko",
+   "kind": "encyclopedia",
+   "title": "Ekeko",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ekeko",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-alasitas",
+   "kind": "encyclopedia",
+   "title": "Alasitas",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alasitas",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-ekeko"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-ekeko",
+   "note": "the 1781 legend is marked as tradition where it appears; the scholars' pre-Columbian arguments are reported under their own names"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-ekeko"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-ekeko"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-ekeko"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-ekeko"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-ekeko"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [
+  {
+   "key": "national-heritage",
+   "label": "A national heritage register",
+   "what": "the Feast of Alasita and the miniatures of the Altiplano of Puno declared Cultural Heritage of the Nation of Peru",
+   "url": "",
+   "year": 2016,
+   "source": "s:wp-alasitas"
+  }
+ ],
+ "acclaim": 1,
+ "against_facts": [
+  {
+   "key": "poverty",
+   "label": "Poverty",
+   "who": "the figure's owners",
+   "quote": "Ekeko brings monetary wealth to its worshippers. An offering is generally required before he provides his services.",
+   "source": "s:wp-ekeko",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "attraction",
+   "label": "Attracting custom, luck or love",
+   "gloss": "the charm that pulls rather than blocks",
+   "who": "Alasitas buyers, who give a miniature so the recipient gets the real thing within the year",
+   "quote": "",
+   "source": "s:wp-alasitas",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "house",
+   "label": "Harm to a house or a field",
+   "who": "Aymara households; the cited source says the Ekhako was invoked when a disgrace disturbed the home",
+   "quote": "",
+   "source": "s:wp-ekeko",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "terracotta",
+   "label": "Fired clay",
+   "kind": "fired"
+  },
+  {
+   "key": "paper",
+   "label": "Paper",
+   "kind": "written"
+  },
+  {
+   "key": "coin",
+   "label": "A coin",
+   "kind": "metal"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "hearth",
+   "label": "At the hearth",
+   "group": "placed"
+  },
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  },
+  {
+   "key": "shop",
+   "label": "At the till",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "figurine",
+  "label": "Figurine"
+ },
+ "holding_facts": [],
+ "span": "1781 CE to now",
+ "country_names": [
+  {
+   "iso": "BO",
+   "name": "Bolivia"
+  },
+  {
+   "iso": "PE",
+   "name": "Peru"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "daruma",
+   "type": "amulet",
+   "name": "Daruma",
+   "as": "another figure a household buys and asks a year's worth of gain from",
+   "rel": "parallel"
+  },
+  {
+   "from": "illa",
+   "type": "amulet",
+   "name": "Illa",
+   "as": "the household descendant of the same idea — a small loaded figure standing in for the full-size abundance",
+   "rel": "kin"
+  },
+  {
+   "from": "maneki-neko",
+   "type": "amulet",
+   "name": "Maneki-neko",
+   "as": "the Andean household figure loaded with goods and asked for more of them — the same job, a hemisphere away",
+   "rel": "parallel"
+  },
+  {
+   "from": "andean-illa-practice",
+   "type": "tradition",
+   "name": "Illa practice",
+   "as": "its public face: a figure loaded with everything you could want, fed banknotes, grain and a lit cigarette",
+   "rel": "carries"
+  },
+  {
+   "from": "blessing-at-a-shrine",
+   "type": "practice",
+   "name": "Blessing at a shrine",
+   "as": "where both directions land on one day — blessed at the fair, and blessed again at the cathedral at midday on 24 January",
+   "rel": "carried-by"
+  },
+  {
+   "from": "buying-in-a-market",
+   "type": "practice",
+   "name": "Buying one in a market",
+   "as": "the case where buying is not the preliminary to the rite but the rite",
+   "rel": "carried-by"
+  },
+  {
+   "from": "feeding-the-charm",
+   "type": "practice",
+   "name": "Feeding the charm",
+   "as": "the figure that smokes one cigarette a year and wears banknotes the rest of it",
+   "rel": "carried-by"
+  },
+  {
+   "from": "mercado-de-las-brujas-la-paz",
+   "type": "place",
+   "name": "El Mercado de las Brujas",
+   "as": "the god of abundance whose fair, Alasitas, runs from 24 January in the same streets",
+   "rel": "carries"
+  }
+ ]
+}

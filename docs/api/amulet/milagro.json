@@ -1,0 +1,521 @@
+{
+ "schema": 1,
+ "id": "milagro",
+ "type": "amulet",
+ "names": {
+  "name": "Milagro",
+  "native": "milagro",
+  "lang": "es",
+  "script": "Latin",
+  "said": "mee-LAH-gro, Spanish for 'miracle'",
+  "aliases": [
+   "ex-voto",
+   "dije",
+   "promesa",
+   "milagrito"
+  ]
+ },
+ "etymology": {
+  "root": "Spanish milagro, 'miracle' — the word for the answered prayer, used for the token that asks for it or thanks for it",
+  "tier": "cited",
+  "source": "s:wp-milagro-votive"
+ },
+ "region": [
+  "mesoamerica",
+  "north-america",
+  "iberia"
+ ],
+ "countries": [
+  "MX",
+  "US",
+  "ES"
+ ],
+ "facets": {
+  "era": "early-modern",
+  "status": "living",
+  "portable": "placed",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A small flat metal shape of the thing you are praying about — a leg, an eye, a heart, a lung, a kneeling man, a cow, a house, a car. Most are stamped tin or silver a few centimetres long, pierced or pinned so they can be fastened to a saint's robe, a shrine rail or a retablo; some are modelled in the round. Gold, silver, tin, lead, wood, bone and wax all turn up, depending on what the local trade works in.",
+  "story": "Milagros are religious folk charms used for healing and as votive offerings in Mexico, the southern United States, other parts of Latin America, and parts of the Iberian Peninsula. They are pinned to altars, shrines and sacred objects, and bought in churches and cathedrals or from vendors outside them.\n\nThe custom is traced to the ancient Iberians of the Spanish coast and travelled with the Spanish into Central and South America. It has thinned since, but it holds in rural Spain — Andalusia, Catalonia and Majorca — alongside its American forms.\n\nA milagro is offered to a saint's image either as a reminder of what the petitioner needs or in thanks for a prayer already answered. The shape does the pointing. But the code is local, not universal: a leg can mean a leg that hurts or a journey to be made; a heart can mean a heart condition, a romance, or something else again. *Inference —* that ambiguity is the interesting part. The object is precise enough to aim a prayer and loose enough that only the petitioner and the saint need know what it is about, which is a useful property for a token left in public on a church wall.\n\nMilagros also get carried rather than pinned, for protection and luck, and the same stampings end up as earrings and necklace charms. They correspond almost exactly to the tamata of the Eastern Orthodox churches — the same body parts, in the same thin metal, on the same kind of icon.",
+  "how": "Stamped, cast or cut, then pinned, wired, glued or nailed to the image. A vendor's tray outside a shrine is sorted by body part. Nothing is consecrated before it is offered; the offering is the act. Old milagros accumulate on a much-visited image until the metal is a second garment, and are periodically taken down and stored or sold by the church.",
+  "today": "Still sold at church doors and in markets across Mexico, the southwestern United States and rural Spain as of the most recent accounts this project has read. They also sell as craft jewellery to buyers with no shrine in mind, which is the same argument this atlas reports about every charm that reached a gift shop, and does not settle."
+ },
+ "dating": {
+  "period": "ancient Iberia to the present",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "traced to ancient Iberia; carried now",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-milagro-votive",
+  "note": "The cited source traces the custom to ancient Iberians and to the Spanish arrival in the Americas without giving a year for either, so no year is asserted here."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": [
+   "silver",
+   "gold",
+   "lead",
+   "wood",
+   "bone"
+  ],
+  "worn": [
+   "wall",
+   "neck",
+   "pocket"
+  ],
+  "made_by": "metalworkers and stampers selling at churches and in markets; no restriction on who may offer one",
+  "colour": [
+   "silver",
+   "gold"
+  ],
+  "single_use": false,
+  "source": "s:wp-milagro-votive",
+  "note": "Tin and wax are also named by the source but have no key in this project's materials list. Sizes vary from a fingernail to a hand; no published measurement was read, so none is given."
+ },
+ "against": [
+  {
+   "harm": "illness",
+   "who": "petitioners, who choose the shape to match the ailment",
+   "source": "s:wp-milagro-votive",
+   "tier": "cited",
+   "note": "a leg for a leg, a lung for a lung — the source stresses that the code is local and not universal"
+  },
+  {
+   "harm": "travel",
+   "who": "petitioners; the source notes a leg may stand for a journey rather than a limb",
+   "source": "s:wp-milagro-votive",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "people who carry rather than pin them",
+   "source": "s:wp-milagro-votive",
+   "tier": "cited",
+   "note": "the source says milagros are also carried for protection and good luck"
+  }
+ ],
+ "kin": [
+  {
+   "to": "tama-votive",
+   "as": "the Greek Orthodox object this one corresponds to almost exactly — same body parts, same thin metal, same icon",
+   "rel": "parallel"
+  },
+  {
+   "to": "latin-american-folk-catholic",
+   "as": "the tradition this belongs to, and the one that decides which saint gets which limb",
+   "rel": "tradition"
+  },
+  {
+   "to": "ex-voto-wall",
+   "as": "what a church wall looks like after a few hundred of these have been pinned to it",
+   "rel": "art"
+  },
+  {
+   "to": "catholic-sacramentals",
+   "as": "the Church's own category of blessed objects, which a milagro sits beside without being one",
+   "rel": "kin"
+  },
+  {
+   "to": "st-christopher-medal",
+   "as": "the other metal token bought at the same counter, worn instead of pinned",
+   "rel": "kin"
+  },
+  {
+   "to": "mercado-de-sonora",
+   "as": "one Mexico City market where these share an aisle with herbs, candles and the deer's-eye seed",
+   "rel": "place"
+  },
+  {
+   "to": "silver",
+   "as": "the metal that makes an expensive milagro, and the reason old ones were worth taking down",
+   "rel": "material"
+  },
+  {
+   "to": "azabache",
+   "as": "the other Hispanic charm pinned to a body rather than a saint — that one goes on the baby",
+   "rel": "kin"
+  },
+  {
+   "to": "blessing-at-a-shrine",
+   "as": "the act the object exists for",
+   "rel": "practice"
+  }
+ ],
+ "links": [
+  {
+   "label": "Milagro (votive) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Milagro_(votive)"
+  }
+ ],
+ "sources": [
+  "s:wp-milagro-votive",
+  "s:wp-ex-voto",
+  "s:wp-votive-offering",
+  "s:wp-mercado-de-sonora"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-milagro-votive"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "inference",
+    "note": "current trade reasoned from published accounts; no market survey and no dated price behind it"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A small flat metal shape of the thing you are praying about — a leg, an eye, a heart, a lung, a kneeling man, a cow, a house, a car.",
+ "region_terms": [
+  {
+   "key": "mesoamerica",
+   "name": "Mesoamerica",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "iberia",
+   "name": "Iberia",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "tama-votive",
+   "type": "amulet",
+   "name": "Tama",
+   "as": "the Greek Orthodox object this one corresponds to almost exactly — same body parts, same thin metal, same icon",
+   "rel": "parallel"
+  },
+  {
+   "to": "latin-american-folk-catholic",
+   "type": "tradition",
+   "name": "Latin American folk Catholic charm practice",
+   "as": "the tradition this belongs to, and the one that decides which saint gets which limb",
+   "rel": "tradition"
+  },
+  {
+   "to": "ex-voto-wall",
+   "type": "art",
+   "name": "The ex-voto wall",
+   "as": "what a church wall looks like after a few hundred of these have been pinned to it",
+   "rel": "art"
+  },
+  {
+   "to": "catholic-sacramentals",
+   "type": "tradition",
+   "name": "Catholic sacramentals",
+   "as": "the Church's own category of blessed objects, which a milagro sits beside without being one",
+   "rel": "kin"
+  },
+  {
+   "to": "st-christopher-medal",
+   "type": "amulet",
+   "name": "St Christopher medal",
+   "as": "the other metal token bought at the same counter, worn instead of pinned",
+   "rel": "kin"
+  },
+  {
+   "to": "mercado-de-sonora",
+   "type": "place",
+   "name": "Mercado de Sonora",
+   "as": "one Mexico City market where these share an aisle with herbs, candles and the deer's-eye seed",
+   "rel": "place"
+  },
+  {
+   "to": "silver",
+   "type": "material",
+   "name": "Silver",
+   "as": "the metal that makes an expensive milagro, and the reason old ones were worth taking down",
+   "rel": "material"
+  },
+  {
+   "to": "azabache",
+   "type": "amulet",
+   "name": "Azabache",
+   "as": "the other Hispanic charm pinned to a body rather than a saint — that one goes on the baby",
+   "rel": "kin"
+  },
+  {
+   "to": "blessing-at-a-shrine",
+   "type": "practice",
+   "name": "Blessing at a shrine",
+   "as": "the act the object exists for",
+   "rel": "practice"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-milagro-votive",
+   "kind": "encyclopedia",
+   "title": "Milagro (votive)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Milagro_(votive)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ex-voto",
+   "kind": "encyclopedia",
+   "title": "Ex-voto",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ex-voto",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-votive-offering",
+   "kind": "encyclopedia",
+   "title": "Votive offering",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Votive_offering",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mercado-de-sonora",
+   "kind": "encyclopedia",
+   "title": "Mercado de Sonora",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mercado_de_Sonora",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-milagro-votive"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-milagro-votive"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-milagro-votive"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "current trade reasoned from published accounts; no market survey and no dated price behind it"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-milagro-votive"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-milagro-votive"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-milagro-votive"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "petitioners, who choose the shape to match the ailment",
+   "quote": "",
+   "source": "s:wp-milagro-votive",
+   "tier": "cited",
+   "note": "a leg for a leg, a lung for a lung — the source stresses that the code is local and not universal"
+  },
+  {
+   "key": "travel",
+   "label": "Danger on a journey",
+   "who": "petitioners; the source notes a leg may stand for a journey rather than a limb",
+   "quote": "",
+   "source": "s:wp-milagro-votive",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "people who carry rather than pin them",
+   "quote": "",
+   "source": "s:wp-milagro-votive",
+   "tier": "cited",
+   "note": "the source says milagros are also carried for protection and good luck"
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  },
+  {
+   "key": "gold",
+   "label": "Gold",
+   "kind": "metal"
+  },
+  {
+   "key": "lead",
+   "label": "Lead",
+   "kind": "metal"
+  },
+  {
+   "key": "wood",
+   "label": "Wood",
+   "kind": "plant"
+  },
+  {
+   "key": "bone",
+   "label": "Bone and ivory",
+   "kind": "organic"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  }
+ ],
+ "form_fact": {
+  "key": "pendant",
+  "label": "Pendant"
+ },
+ "holding_facts": [],
+ "span": "undated",
+ "country_names": [
+  {
+   "iso": "MX",
+   "name": "Mexico"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "ES",
+   "name": "Spain"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "miraculous-medal",
+   "type": "amulet",
+   "name": "Miraculous Medal",
+   "as": "the other small metal offering of the Catholic world — that one is pinned to the saint, this one is worn by the petitioner",
+   "rel": "contrast"
+  },
+  {
+   "from": "tama-votive",
+   "type": "amulet",
+   "name": "Tama",
+   "as": "the same object in Spanish — the cited accounts on both sides call them equivalents, and this is the one that goes on an icon rather than on a robe",
+   "rel": "parallel"
+  },
+  {
+   "from": "latin-american-folk-catholic",
+   "type": "tradition",
+   "name": "Latin American folk Catholic charm practice",
+   "as": "the tradition's public object — left at the shrine rather than carried home, and the one that decides which saint gets which limb",
+   "rel": "carries"
+  },
+  {
+   "from": "footprint",
+   "type": "motif",
+   "name": "The footprint",
+   "as": "the other body part sold small and left at a shrine, for the opposite reason",
+   "rel": "contrast"
+  },
+  {
+   "from": "hand",
+   "type": "motif",
+   "name": "The hand",
+   "as": "a tin hand nailed to a votive wall asks for a hand to be healed — the same shape doing the opposite job",
+   "rel": "contrast"
+  },
+  {
+   "from": "gold",
+   "type": "material",
+   "name": "Gold",
+   "as": "made in gold, silver, tin, lead, wood, bone or wax, according to local custom and what the giver has",
+   "rel": "carried-by"
+  },
+  {
+   "from": "blessing-at-a-shrine",
+   "type": "practice",
+   "name": "Blessing at a shrine",
+   "as": "the inward direction: the object exists to be left at the shrine, not carried away from it",
+   "rel": "carried-by"
+  },
+  {
+   "from": "mercado-de-sonora",
+   "type": "place",
+   "name": "Mercado de Sonora",
+   "as": "the stamped metal votive of the same devotional economy, offered where these goods are bought",
+   "rel": "parallel"
+  },
+  {
+   "from": "quiapo-church",
+   "type": "place",
+   "name": "Quiapo Church",
+   "as": "the Catholic votive kin — metal offered for a body part, where the panata offers a walk",
+   "rel": "parallel"
+  },
+  {
+   "from": "ex-voto-wall",
+   "type": "art",
+   "name": "The ex-voto wall",
+   "as": "the stamped metal charm pinned to the same walls, and often sold from the same table",
+   "rel": "carries"
+  },
+  {
+   "from": "votive-wall",
+   "type": "art",
+   "name": "The votive wall",
+   "as": "its Latin American twin — the same body parts, hammered in tin instead of silver",
+   "rel": "carries"
+  }
+ ]
+}

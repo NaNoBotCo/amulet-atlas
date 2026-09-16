@@ -1,0 +1,104 @@
+{
+ "schema": 1,
+ "id": "miraculous-medal",
+ "type": "amulet",
+ "names": {
+  "name": "Miraculous Medal",
+  "native": "Médaille miraculeuse",
+  "script": "Latin",
+  "lang": "fr",
+  "said": "may-DIE mee-rah-kew-LERZ",
+  "aliases": ["Medal of the Immaculate Conception", "Medal of Our Lady of Graces", "médaille de la rue du Bac"]
+ },
+ "etymology": {
+  "root": "French médaille miraculeuse, 'miraculous medal' — a nickname the public gave it, not the name it was struck under",
+  "note": "It was minted as the Medal of the Immaculate Conception. The cited account says the present name was earned in the decades after cures were reported during a cholera pandemic.",
+  "tier": "cited",
+  "source": "s:wp-miraculous-medal"
+ },
+ "region": ["western-europe", "rome-italy", "china", "diaspora", "world"],
+ "countries": ["FR", "IT", "CN"],
+ "facets": {"era": "modern", "status": "living", "portable": "worn", "restricted": "open", "hemisphere": ["N", "E", "W"]},
+ "text": {
+  "what": "An oval stamped medal, worn at the neck on a chain. The front shows a woman standing on a globe, crushing a serpent's head, rays coming from rings on her hands, inside an oval of words that reads \"O Mary, conceived without sin, pray for us who have recourse to thee\", with 1830 struck below. The back has a bar and a cross over a large letter M, twelve stars around the rim, and two hearts beneath — one crowned with thorns, one pierced by a sword. Aluminium at the cheap end, silver and gold at the other.",
+  "story": "This one has a date, a witness and a goldsmith, which almost nothing else in this atlas does.\n\nCatherine Labouré, a novice with the Daughters of Charity in the rue du Bac in Paris, said that on 18 July 1830 a child's voice woke her and led her to the convent chapel, where the Virgin Mary told her: \"God wishes to charge you with a mission [...] You will be contradicted, but do not fear, you will have grace.\" On 27 November the same year, she said, Mary returned during her evening meditations, standing on a globe inside an oval frame, wearing rings that shed light — the rays, Mary told her, were \"the graces I shed upon those who ask for them\", and the gems that stayed dark \"are the graces for which souls forget to ask\". The frame turned, and the reverse design appeared. Then the instruction, which is the whole point of the object: have a medal struck after this model, and \"all who wear them will receive great graces\".\n\nHer priest watched her ordinary daily behaviour for two years before taking it to Archbishop Hyacinthe-Louis de Quélen of Paris. Approval came; the goldsmith Adrien Vachette made the die; the first 1,500 medals were minted on 30 June 1832. Then the arithmetic gets strange. The Daughters of Charity distributed them during a deadly cholera pandemic, cures were reported, and the public renamed the object. Over 500,000 had been distributed by 1834. By 1835, more than a million worldwide. By 1839, over ten million. By Labouré's death in 1876, more than a billion had been produced. *Inference —* a devotional object that reached a billion within a single lifetime is an industrial fact as much as a religious one, and the cholera years are where the curve bends.\n\nOn the Church's side the object sits inside a category. The Miraculous Medal is a sacramental — by the Catholic Church's definition a sacred sign that works \"through the intercession of the Church\", which prepares a person to receive grace and disposes them to cooperate with it, and which does not act by itself the way a sacrament does. The Enchiridion Indulgentiarum of 2004 grants a partial indulgence to the faithful who use a crucifix, a crown, a scapular or a medal blessed by a priest. The 2001 Directory on Popular Piety and the Liturgy lists Marian medals among approved practices while holding that popular piety \"may never incorporate rites permeated by magic, superstition, animism, vendettas or sexual connotations\". *Inference —* the medal's own promise, struck into it, is that wearing it brings graces; the doctrine is that the wearing disposes rather than delivers. Both sentences are on the record, they are not the same sentence, and this atlas does not decide between them.\n\nOne wearer's account is famous enough to be in the liturgy. In 1842 Marie-Alphonse Ratisbonne, a Jewish man, took a bet to wear the medal on a trip to Rome, entered the basilica of Sant'Andrea delle Fratte, and reported a vision of the Virgin exactly as the medal depicts her. He converted, became a Jesuit, and the event has its own canonical inquiry behind it and a place in the Feast of the Miraculous Medal. Maximilian Kolbe, founding the Militia of the Immaculate in 1917 under this Virgin's patronage, handed the medals out and called them his \"ammunition\".",
+  "how": "Struck from the 1832 die design by religious-goods manufacturers worldwide. Bought or given; the giving is the commoner route, and the Daughters of Charity have handed them out free since the first batch. A priest may bless one, which is what attaches the indulgence; nothing requires it. Worn at the neck under clothing more often than over it. Never retired — a lost one is simply replaced.",
+  "today": "Still struck to the 1830 design, still sold and given at the rue du Bac chapel, where Catherine Labouré's body lies, and in religious-goods shops everywhere the Catholic Church is. In 2026 it shares a counter with the St Christopher medal and the Brown Scapular. No dated retail price was read for this record."
+ },
+ "dating": {
+  "period": "the nineteenth century to now",
+  "from_year": 1832,
+  "to_year": null,
+  "living": true,
+  "label": "first struck 30 June 1832; carried now",
+  "method": "dated-object",
+  "tier": "cited",
+  "source": "s:wp-miraculous-medal",
+  "note": "1832 is the minting of the first 1,500 medals. The reported apparitions behind the design are dated 18 July and 27 November 1830 by the cited source, which reports them as Labouré's own account."
+ },
+ "object": {
+  "form": "medal",
+  "materials": ["silver", "gold", "brass", "copper"],
+  "worn": ["neck", "chest", "pocket"],
+  "made_by": "religious-goods manufacturers; the first die was cut by the goldsmith Adrien Vachette in Paris",
+  "inscription": "O Mary, conceived without sin, pray for us who have recourse to thee",
+  "script": "Latin",
+  "colour": ["silver", "gold"],
+  "single_use": false,
+  "source": "s:wp-miraculous-medal",
+  "note": "The inscription is quoted from the cited source, which gives the French original as Ô Marie, conçue sans péché, priez pour nous qui avons recours à vous. Aluminium is the commonest cheap metal and has no key in this project's materials list. No published measurement was read, so no length_mm is entered."
+ },
+ "against": [
+  {
+   "harm": "attraction",
+   "who": "the account Catherine Labouré gave of what the Virgin told her",
+   "quote": "all who wear them will receive great graces",
+   "source": "s:wp-miraculous-medal",
+   "tier": "cited",
+   "note": "this atlas's harm list has no key for grace; 'attraction' is its key for a charm that pulls rather than blocks, and that is what the promise describes"
+  },
+  {
+   "harm": "illness",
+   "who": "the Daughters of Charity and the people who reported cures during the cholera pandemic of the 1830s",
+   "source": "s:wp-miraculous-medal",
+   "tier": "cited",
+   "note": "the cited source says the medals were distributed during the pandemic, that cures were reported, and that the name Miraculous Medal followed from those reports"
+  }
+ ],
+ "kin": [
+  {"to": "st-christopher-medal", "as": "the other stamped medal on the same counter — that one promises a safe road, this one promises graces", "rel": "kin"},
+  {"to": "catholic-sacramentals", "as": "the category the Church files it under, and the doctrine that says a medal disposes rather than delivers", "rel": "tradition"},
+  {"to": "brown-scapular", "as": "the cloth sacramental it is usually sold beside, and the one a 1911 ruling allowed a blessed medal to replace", "rel": "kin"},
+  {"to": "agnus-dei", "as": "the sacramental that came first — wax before struck silver, and a papal blessing instead of a parish one", "rel": "origin"},
+  {"to": "ladanka", "as": "what hangs beside an Orthodox cross where this hangs beside a Catholic one", "rel": "parallel"},
+  {"to": "milagro", "as": "the other small metal offering of the Catholic world — that one is pinned to the saint, this one is worn by the petitioner", "rel": "contrast"},
+  {"to": "cross", "as": "the sign over the M on its reverse", "rel": "motif"},
+  {"to": "serpent", "as": "the creature under the woman's heel on its face, and the oldest thing on the medal", "rel": "motif"},
+  {"to": "silver", "as": "the metal of the costly version, and the one that makes an old medal worth keeping", "rel": "material"},
+  {"to": "amulet-or-talisman", "as": "the long read where a promise struck into an object meets a doctrine that qualifies it", "rel": "story"}
+ ],
+ "confusable_with": [
+  {"id": "st-christopher-medal", "tell": "Christopher is a bearded man in a river with a child on his shoulder; this is a woman on a globe inside an oval of words, with twelve stars and an M on the back"}
+ ],
+ "links": [
+  {"label": "Miraculous Medal — Wikipedia", "url": "https://en.wikipedia.org/wiki/Miraculous_Medal"}
+ ],
+ "sources": [
+  "s:wp-miraculous-medal",
+  "s:wp-sacramental",
+  "s:wp-devotional-medal",
+  "s:web-vatican-directory-popular-piety"
+ ],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-miraculous-medal"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:wp-miraculous-medal", "note": "the apparitions are reported as Catherine Labouré's own account, which is how the cited source frames them; the two stretches marked *Inference —* are this project's"},
+   "text.today": {"tier": "inference", "note": "current sale reasoned from the sources; no market figure and no dated price read"},
+   "object.materials": {"tier": "inference", "source": "s:wp-miraculous-medal", "note": "the cited source names the goldsmith but not the metals of later strikes; these are the ordinary retail range"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Miraculous medal.jpg", "File:Médaille miraculeuse 1832.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-17"
+}

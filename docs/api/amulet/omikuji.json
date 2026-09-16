@@ -1,0 +1,438 @@
+{
+ "schema": 1,
+ "id": "omikuji",
+ "type": "amulet",
+ "names": {
+  "name": "Omikuji",
+  "native": "御神籤",
+  "script": "Japanese",
+  "lang": "ja",
+  "said": "o-mi-KU-ji",
+  "aliases": [
+   "o-mikuji",
+   "おみくじ",
+   "sacred lot"
+  ]
+ },
+ "etymology": {
+  "root": "Japanese kuji 籤 'lot, drawn slip', with honorific mi- and o-; literally 'the sacred lot'",
+  "note": "Kuji carries two senses at once: chance used to make a verdict impartial, and chance used to consult a deity's will. The same word covers drawing straws for an office and asking a kami.",
+  "tier": "cited",
+  "source": "s:wp-o-mikuji"
+ },
+ "region": [
+  "japan"
+ ],
+ "countries": [
+  "JP"
+ ],
+ "facets": {
+  "era": "medieval",
+  "status": "living",
+  "portable": "carried",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A narrow strip of printed paper drawn at random from a box at a shrine or temple, for a small offering. It carries a graded verdict at the top — great blessing down to misfortune — then a run of short readings for particular departments of a life: auspicious directions, a wish, a person being waited for, a lost article, travel, business, study, market speculation, disputes, love, moving house, childbirth, illness, a marriage proposal. It is not a charm anybody wears. It is filed in this atlas because of what happens next: a bad slip is folded and tied to a pine branch or to a rack of wire in the grounds, and left behind. The disposal is the charm-act.",
+  "story": "The dating here is unusually firm for a paper object. A wooden container of oracular lots dated 1409 survives at Tendai-ji in Iwate Prefecture, which puts the method in Japan before the Muromachi period. The system it belongs to was modelled on the Chinese kau chim — a tube of bamboo sticks read against a numbered sequence of printed oracles — and the hundred five-character quatrains used in Japanese Buddhist temples descend from a Southern Song set, the Tiānzhú língqiān.\n\nThose hundred verses are attributed to Ryōgen (912–985), the Tendai monk known posthumously as Ganzan Daishi, and the sequence is called the Ganzan Daishi Hyakusen after him. *Tradition holds —* Avalokiteśvara revealed the verses to him. The attribution itself has a date and an author: Tenkai (1536–1643) is credited with attaching Ryōgen's name to the set, and a story from one of Tenkai's disciples has Ryōgen appear to Tenkai in a dream to reveal that the hundred quatrains, lost for centuries, still existed. Copies duly turned up at Togakushi Shrine in Shinano. The sequence spread through the Edo period into temples of every school, Tendai or not, and publishers put out books explaining what the oracles meant.\n\nThe pine is a pun. Matsu 松, pine, is a homophone of matsu 待つ, to wait: tie the bad fortune to the tree and the bad luck waits there instead of following you home. A good fortune can be tied up too, to make it work harder, or kept.\n\nOmikuji still do public work beyond personal fortune. Provincial festivals use the same drawing to pick the tōnin, the person responsible for a coming year's religious duties: names go on slips, and the choice is settled by a ritual strike of a gohei wand.",
+  "how": "Make a small offering, shake or draw from the box, take the slip you get. Read the grade first. The standard Ganzan Daishi sequence runs great blessing (dai-kichi), blessing (kichi), small blessing (shō-kichi), half-blessing (han-kichi), future blessing (sue-kichi), future small blessing (sue-shō-kichi), misfortune (kyō); other sequences add middle blessing, great misfortune, or a grade that says the outcome is still undetermined and depends on what you do. A bad slip is folded and knotted onto a pine or onto the wire racks set up for it. A good one is either tied up as well or pocketed.",
+  "today": "Available at shrines and temples across Japan as of 2026; since 2024 vending machines dispense them in some places. The paper fortune in a Western fortune cookie may descend from this: the claim is made by Seiichi Kito of Fugetsu-Do, and rests on evidence that American fortune cookies derive from nineteenth-century Kyoto crackers called tsujiura senbei."
+ },
+ "dating": {
+  "period": "Muromachi to the present",
+  "from_year": 1409,
+  "to_year": null,
+  "living": true,
+  "label": "1409 to now",
+  "method": "dated-object",
+  "circa": false,
+  "tier": "cited",
+  "source": "s:wp-o-mikuji",
+  "note": "Fixed by a dated wooden lot-container of 1409 (Ōei 16) preserved at Tendai-ji, Iwate. The verse sequence behind it is older — a Southern Song set of 1127–1279 — and its attribution to Ryōgen (912–985) is a later tradition."
+ },
+ "object": {
+  "form": "card",
+  "materials": [
+   "paper",
+   "ink"
+  ],
+  "worn": [
+   "pocket",
+   "wall"
+  ],
+  "made_by": "the shrine or temple, printing from a fixed numbered sequence",
+  "inscription": "a graded verdict and a set of short readings by department of life; historically a five-character quatrain",
+  "script": "Japanese",
+  "count": 100,
+  "single_use": true,
+  "source": "s:wp-o-mikuji",
+  "note": "The count is the hundred quatrains of the Ganzan Daishi Hyakusen, the sequence most Japanese Buddhist temples used. 'Worn' is a poor fit: a bad slip is tied to a pine or a wire rack and left, a good one may be pocketed."
+ },
+ "against": [
+  {
+   "harm": "bad-luck",
+   "who": "the practice as recorded: a bad fortune is folded onto a pine so the bad luck waits by the tree rather than attaching itself to the bearer",
+   "source": "s:wp-o-mikuji",
+   "tier": "cited",
+   "note": "the mechanism carriers give is a pun — matsu, pine, and matsu, to wait"
+  }
+ ],
+ "kin": [
+  {
+   "to": "omamori",
+   "as": "the other paper from the same counter, and the opposite transaction: an omamori is chosen by category and carried shut, an omikuji is drawn blind and mostly left behind",
+   "rel": "contrast"
+  },
+  {
+   "to": "ofuda",
+   "as": "the household tablet from the same issuing body; omikuji never goes on the altar",
+   "rel": "contrast"
+  },
+  {
+   "to": "japanese-engimono",
+   "as": "the tradition that runs the counter this is drawn at",
+   "rel": "tradition"
+  },
+  {
+   "to": "senso-ji",
+   "as": "a temple where the drawing goes on beside the charm stalls in Tokyo's oldest temple grounds",
+   "rel": "place"
+  },
+  {
+   "to": "fushimi-inari",
+   "as": "one of the shrines the racks of folded slips stand in, thickest at New Year",
+   "rel": "place"
+  },
+  {
+   "to": "blessing-at-a-shrine",
+   "as": "the visit this is part of — offering, draw, read, tie",
+   "rel": "practice"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "the nearest practice in this atlas to knotting a fortune onto a pine: a paper fixed in place to do its work where it hangs",
+   "rel": "parallel"
+  },
+  {
+   "to": "luck-word",
+   "as": "the word this object grades, in seven or nine steps from great blessing to great misfortune",
+   "rel": "term"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "omamori",
+   "tell": "an omikuji is a loose printed strip with a grade at the top, drawn at random; an omamori is a sewn pouch chosen off a rack by what it is for"
+  }
+ ],
+ "links": [
+  {
+   "label": "O-mikuji — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/O-mikuji"
+  }
+ ],
+ "sources": [
+  "s:wp-o-mikuji",
+  "s:wp-omamori",
+  "s:wp-ofuda",
+  "s:wp-sens-ji",
+  "s:wp-fushimi-inari-taisha"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-o-mikuji"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-o-mikuji",
+    "note": "the Avalokiteśvara revelation is marked inline as tradition"
+   },
+   "object": {
+    "tier": "cited",
+    "source": "s:wp-o-mikuji",
+    "note": "no measurement is published in this project's source, so length_mm is absent"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Omikuji.jpg",
+  "File:Omikuji tied at shrine.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A narrow strip of printed paper drawn at random from a box at a shrine or temple, for a small offering.",
+ "region_terms": [
+  {
+   "key": "japan",
+   "name": "Japan",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "omamori",
+   "type": "amulet",
+   "name": "Omamori",
+   "as": "the other paper from the same counter, and the opposite transaction: an omamori is chosen by category and carried shut, an omikuji is drawn blind and mostly left behind",
+   "rel": "contrast"
+  },
+  {
+   "to": "ofuda",
+   "type": "amulet",
+   "name": "Ofuda",
+   "as": "the household tablet from the same issuing body; omikuji never goes on the altar",
+   "rel": "contrast"
+  },
+  {
+   "to": "japanese-engimono",
+   "type": "tradition",
+   "name": "Engimono",
+   "as": "the tradition that runs the counter this is drawn at",
+   "rel": "tradition"
+  },
+  {
+   "to": "senso-ji",
+   "type": "place",
+   "name": "Sensō-ji",
+   "as": "a temple where the drawing goes on beside the charm stalls in Tokyo's oldest temple grounds",
+   "rel": "place"
+  },
+  {
+   "to": "fushimi-inari",
+   "type": "place",
+   "name": "Fushimi Inari-taisha",
+   "as": "one of the shrines the racks of folded slips stand in, thickest at New Year",
+   "rel": "place"
+  },
+  {
+   "to": "blessing-at-a-shrine",
+   "type": "practice",
+   "name": "Blessing at a shrine",
+   "as": "the visit this is part of — offering, draw, read, tie",
+   "rel": "practice"
+  },
+  {
+   "to": "hanging-at-door",
+   "type": "practice",
+   "name": "Hanging at the door",
+   "as": "the nearest practice in this atlas to knotting a fortune onto a pine: a paper fixed in place to do its work where it hangs",
+   "rel": "parallel"
+  },
+  {
+   "to": "luck-word",
+   "type": "term",
+   "name": "luck",
+   "as": "the word this object grades, in seven or nine steps from great blessing to great misfortune",
+   "rel": "term"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-o-mikuji",
+   "kind": "encyclopedia",
+   "title": "O-mikuji",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/O-mikuji",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-omamori",
+   "kind": "encyclopedia",
+   "title": "Omamori",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Omamori",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ofuda",
+   "kind": "encyclopedia",
+   "title": "Ofuda",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ofuda",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-sens-ji",
+   "kind": "encyclopedia",
+   "title": "Sensō-ji",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sens%C5%8D-ji",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fushimi-inari-taisha",
+   "kind": "encyclopedia",
+   "title": "Fushimi Inari-taisha",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fushimi_Inari-taisha",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-o-mikuji"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-o-mikuji",
+   "note": "the Avalokiteśvara revelation is marked inline as tradition"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-o-mikuji"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-o-mikuji"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-o-mikuji"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-o-mikuji"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-o-mikuji",
+   "note": "no measurement is published in this project's source, so length_mm is absent"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "the practice as recorded: a bad fortune is folded onto a pine so the bad luck waits by the tree rather than attaching itself to the bearer",
+   "quote": "",
+   "source": "s:wp-o-mikuji",
+   "tier": "cited",
+   "note": "the mechanism carriers give is a pun — matsu, pine, and matsu, to wait"
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "paper",
+   "label": "Paper",
+   "kind": "written"
+  },
+  {
+   "key": "ink",
+   "label": "Ink",
+   "kind": "written"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "card",
+  "label": "Card or sticker"
+ },
+ "holding_facts": [],
+ "span": "1409 CE to now",
+ "country_names": [
+  {
+   "iso": "JP",
+   "name": "Japan"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "exam-charm",
+   "type": "amulet",
+   "name": "Exam charm",
+   "as": "the other thing bought at the same window on the same visit, and the one that answers back",
+   "rel": "kin"
+  },
+  {
+   "from": "omamori",
+   "type": "amulet",
+   "name": "Omamori",
+   "as": "the other paper a visitor leaves the same counter with — but a drawn fortune, not a charm, and tied to a rack rather than carried",
+   "rel": "contrast"
+  },
+  {
+   "from": "japanese-engimono",
+   "type": "tradition",
+   "name": "Engimono",
+   "as": "the counter where the transaction is a draw rather than a purchase, and the paper is tied up rather than taken home",
+   "rel": "carries"
+  },
+  {
+   "from": "tree",
+   "type": "motif",
+   "name": "The tree",
+   "as": "the paper fortune that ends its life knotted to a pine, on a pun between the tree and the verb to wait",
+   "rel": "carried-by"
+  },
+  {
+   "from": "paper",
+   "type": "material",
+   "name": "Paper",
+   "as": "the paper drawn at a shrine and tied up there — the same material, spent in one use",
+   "rel": "carried-by"
+  },
+  {
+   "from": "wood",
+   "type": "material",
+   "name": "Wood",
+   "as": "the paper fortune that ends up tied to a pine, which is the tree doing the holding",
+   "rel": "kin"
+  },
+  {
+   "from": "blessing-at-a-shrine",
+   "type": "practice",
+   "name": "Blessing at a shrine",
+   "as": "the third kind of counter — a draw rather than an issue, with the paper tied up on the grounds if the answer is bad",
+   "rel": "carried-by"
+  },
+  {
+   "from": "fushimi-inari",
+   "type": "place",
+   "name": "Fushimi Inari-taisha",
+   "as": "the drawn fortune, cousin of the folded senbei cracker sold on this approach since the 19th century",
+   "rel": "carries"
+  },
+  {
+   "from": "senso-ji",
+   "type": "place",
+   "name": "Sensō-ji",
+   "as": "the drawn fortune, at 100 yen suggested and a hundred possible drawers, taken at stalls inside this precinct",
+   "rel": "carries"
+  }
+ ]
+}

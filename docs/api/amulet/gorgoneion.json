@@ -1,0 +1,541 @@
+{
+ "schema": 1,
+ "id": "gorgoneion",
+ "type": "amulet",
+ "names": {
+  "name": "Gorgoneion",
+  "native": "γοργόνειον",
+  "script": "Greek",
+  "lang": "grc",
+  "said": "gor-GO-nay-on, plural gorgoneia",
+  "aliases": [
+   "Gorgon head",
+   "Medusa head",
+   "Medusa mask"
+  ]
+ },
+ "region": [
+  "greece-aegean",
+  "rome-italy",
+  "anatolia"
+ ],
+ "countries": [
+  "GR",
+  "IT",
+  "TR"
+ ],
+ "facets": {
+  "era": "classical",
+  "status": "archaeological",
+  "portable": "placed",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A face, not a body: wild eyes, tusks, tongue out, snakes for hair. It is moulded, cut or struck onto whatever needs guarding — a shield boss, a temple pediment, a terracotta roof antefix, a coin, the bottom of a drinking cup, a pendant. The archaic ones are hideous on purpose. From the fifth century BCE the face begins to be carved beautiful instead, and the Medusa Rondanini, a Roman copy of a Greek original, is the earliest such gorgoneion named in the literature.",
+  "story": "Homer had already fixed what the thing was for. On Agamemnon's shield in the Iliad sits \"the Gorgon, grim of aspect, glaring terribly, and about her were Terror and Rout\"; on Athena's aegis the same head makes the aegis proof against Apollo's spear and Zeus's thunderbolt alike. Hector at his most frightening has \"the eyes of the Gorgon\". Odysseus, standing in the underworld and determined to stay, bolts at the thought of meeting \"the head of the Gorgon, that awful monster\".\n\nOver six hundred Gorgon representations are catalogued in the Lexicon Iconographicum Mythologiae Classicae, and of all the depictions of Greek demons, the gorgoneion is by far the most frequent. The consensus among classicists is that its function was apotropaic — a device for turning unwanted things away — and that it began as a mask worn by a dancer. Jane Ellen Harrison put that view in the form everyone still quotes: the gorgoneion is \"a ritual mask misunderstood\".\n\nHer argument runs backwards through the myth. What came first, she wrote, was \"a grinning mask with glaring eyes and protruding beast-like tusks and pendent tongue\", known in ritual. Then: \"How did this Gorgoneion come to be? A hero had slain a beast called the Gorgon, and this was its head.\" The object comes first; the monster is invented to explain it; the hero is supplied to kill the monster. Two seventh-century BCE groups of terracotta Gorgon-like masks support her — wearable helmet masks from Tiryns, and votive masks, not wearable, from the Sanctuary of Orthia at Sparta.\n\n*Inference —* the gorgoneion is the clearest case in the atlas of a charm that works by being looked at. Everything the sources say it does, it does to a viewer: terror, rout, flight. That is the same mechanism a Neapolitan coral horn or a blue glass bead is described as using, with the volume turned up."
+ },
+ "dating": {
+  "period": "Archaic Greek through Roman",
+  "from_year": -659,
+  "to_year": 399,
+  "living": false,
+  "label": "from the 7th or 6th century BCE through Greek, Etruscan and Roman antiquity",
+  "method": "art-historical",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-gorgons",
+  "note": "The cited article gives the earliest representations of Gorgons and gorgoneia as mid-7th century BC in one place and mid-6th century BC for gorgoneia in another. This record takes the earlier date and flags the discrepancy rather than choosing silently. The upper end is the Roman period, which the article dates by copies rather than by a last attestation."
+ },
+ "object": {
+  "form": "plaque",
+  "materials": [
+   "terracotta",
+   "copper",
+   "gold",
+   "silver",
+   "glass"
+  ],
+  "worn": [
+   "neck",
+   "door",
+   "wall",
+   "roof"
+  ],
+  "made_by": "no restriction is recorded; the face appears on state coinage, temple architecture, armour and private jewellery alike",
+  "inscription": "",
+  "script": "Greek",
+  "source": "s:wp-gorgons",
+  "note": "The roof position is the antefix and acroterion; the wall position is the temple pediment. No published measurement was read."
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "the consensus of classical scholars, who read the gorgoneion as an apotropaion — a device to ward away unwanted things",
+   "quote": "a ritual mask misunderstood",
+   "source": "s:wp-gorgons",
+   "tier": "cited",
+   "note": "Jane Ellen Harrison's phrase, quoted in the cited article"
+  },
+  {
+   "harm": "weapons",
+   "who": "Homer, on Athena's aegis, which the head makes proof against Apollo's spear and Zeus's thunderbolt",
+   "source": "s:wp-gorgons",
+   "tier": "cited"
+  },
+  {
+   "harm": "house",
+   "who": "Greek builders, who set the face on pediments, antefixes and acroteria",
+   "source": "s:wp-gorgons",
+   "tier": "cited"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "Greek practice generally, as summarised in the account of apotropaic magic: the Gorgon was the most widely used image among the Greeks for averting evil",
+   "source": "s:wp-apotropaic-magic",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "eye",
+   "as": "the sign underneath this one; the gorgoneion's whole force sits in the glare, and Homer describes the eyes before anything else",
+   "rel": "motif"
+  },
+  {
+   "to": "greco-roman-apotropaic",
+   "as": "the tradition whose loudest object this is",
+   "rel": "tradition"
+  },
+  {
+   "to": "fascinum",
+   "as": "the Roman alternative for the same interception — a phallus instead of a face, and laughter instead of terror",
+   "rel": "parallel"
+  },
+  {
+   "to": "pazuzu-head",
+   "as": "Mesopotamia's version of the argument: a frightening head, mounted facing the way in",
+   "rel": "parallel"
+  },
+  {
+   "to": "holy-rider-pendant",
+   "as": "the medieval lead amulets whose main image resembles a gorgoneion and is read as a womb symbol — the face outliving the myth",
+   "rel": "descendant"
+  },
+  {
+   "to": "nazar",
+   "as": "the same mechanism reduced to a bead, and the version still sold in Athens and Istanbul",
+   "rel": "parallel"
+  },
+  {
+   "to": "lion",
+   "as": "the beasts flanking the full Gorgon on the oldest standing Greek temple",
+   "rel": "motif"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "the practice the temple antefix is the monumental form of — put the guard where the thing gets in",
+   "rel": "practice"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "as": "the long read; this is the family's most-copied member in the classical world",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Gorgons — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gorgon"
+  }
+ ],
+ "sources": [
+  "s:wp-gorgons",
+  "s:wp-medusa",
+  "s:wp-apotropaic-magic",
+  "s:wp-evil-eye"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-gorgons"
+  },
+  "fields": {
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-gorgons",
+    "note": "the source contradicts itself on the earliest date; see dating.note"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-gorgons",
+    "note": "the closing paragraph is this project's reading, marked where it appears"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Medusa Rondanini Glyptothek Munich 252.jpg",
+  "File:Gorgoneion antefix.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A face, not a body: wild eyes, tusks, tongue out, snakes for hair.",
+ "region_terms": [
+  {
+   "key": "greece-aegean",
+   "name": "Greece and the Aegean",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "anatolia",
+   "name": "Anatolia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "eye",
+   "type": "motif",
+   "name": "The eye",
+   "as": "the sign underneath this one; the gorgoneion's whole force sits in the glare, and Homer describes the eyes before anything else",
+   "rel": "motif"
+  },
+  {
+   "to": "greco-roman-apotropaic",
+   "type": "tradition",
+   "name": "Greek and Roman protective magic",
+   "as": "the tradition whose loudest object this is",
+   "rel": "tradition"
+  },
+  {
+   "to": "fascinum",
+   "type": "amulet",
+   "name": "Fascinum",
+   "as": "the Roman alternative for the same interception — a phallus instead of a face, and laughter instead of terror",
+   "rel": "parallel"
+  },
+  {
+   "to": "pazuzu-head",
+   "type": "amulet",
+   "name": "Pazuzu head",
+   "as": "Mesopotamia's version of the argument: a frightening head, mounted facing the way in",
+   "rel": "parallel"
+  },
+  {
+   "to": "holy-rider-pendant",
+   "type": "amulet",
+   "name": "Holy rider pendant",
+   "as": "the medieval lead amulets whose main image resembles a gorgoneion and is read as a womb symbol — the face outliving the myth",
+   "rel": "descendant"
+  },
+  {
+   "to": "nazar",
+   "type": "amulet",
+   "name": "Nazar",
+   "as": "the same mechanism reduced to a bead, and the version still sold in Athens and Istanbul",
+   "rel": "parallel"
+  },
+  {
+   "to": "lion",
+   "type": "motif",
+   "name": "The lion",
+   "as": "the beasts flanking the full Gorgon on the oldest standing Greek temple",
+   "rel": "motif"
+  },
+  {
+   "to": "hanging-at-door",
+   "type": "practice",
+   "name": "Hanging at the door",
+   "as": "the practice the temple antefix is the monumental form of — put the guard where the thing gets in",
+   "rel": "practice"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "type": "story",
+   "name": "The eye everywhere",
+   "as": "the long read; this is the family's most-copied member in the classical world",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-gorgons",
+   "kind": "encyclopedia",
+   "title": "Gorgons",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gorgons",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-medusa",
+   "kind": "encyclopedia",
+   "title": "Medusa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Medusa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-apotropaic-magic",
+   "kind": "encyclopedia",
+   "title": "Apotropaic magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Apotropaic_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-evil-eye",
+   "kind": "encyclopedia",
+   "title": "Evil eye",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Evil_eye",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-gorgons"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-gorgons",
+   "note": "the closing paragraph is this project's reading, marked where it appears"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-gorgons",
+   "note": "the source contradicts itself on the earliest date; see dating.note"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-gorgons"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "the consensus of classical scholars, who read the gorgoneion as an apotropaion — a device to ward away unwanted things",
+   "quote": "a ritual mask misunderstood",
+   "source": "s:wp-gorgons",
+   "tier": "cited",
+   "note": "Jane Ellen Harrison's phrase, quoted in the cited article"
+  },
+  {
+   "key": "weapons",
+   "label": "Blades and bullets",
+   "gloss": "invulnerability charms; reported, never recommended",
+   "who": "Homer, on Athena's aegis, which the head makes proof against Apollo's spear and Zeus's thunderbolt",
+   "quote": "",
+   "source": "s:wp-gorgons",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "house",
+   "label": "Harm to a house or a field",
+   "who": "Greek builders, who set the face on pediments, antefixes and acroteria",
+   "quote": "",
+   "source": "s:wp-gorgons",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "witchcraft",
+   "label": "Another person's sorcery",
+   "who": "Greek practice generally, as summarised in the account of apotropaic magic: the Gorgon was the most widely used image among the Greeks for averting evil",
+   "quote": "",
+   "source": "s:wp-apotropaic-magic",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "terracotta",
+   "label": "Fired clay",
+   "kind": "fired"
+  },
+  {
+   "key": "copper",
+   "label": "Copper and bronze",
+   "kind": "metal"
+  },
+  {
+   "key": "gold",
+   "label": "Gold",
+   "kind": "metal"
+  },
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  },
+  {
+   "key": "glass",
+   "label": "Glass",
+   "kind": "fired"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "roof",
+   "label": "On the roof",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "plaque",
+  "label": "Plaque or tablet"
+ },
+ "holding_facts": [],
+ "span": "660 BCE – 399 CE",
+ "country_names": [
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "TR",
+   "name": "Turkey"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "bes-amulet",
+   "type": "amulet",
+   "name": "Bes amulet",
+   "as": "the Greek face-on-the-object, staring out the same way for the same reason",
+   "rel": "parallel"
+  },
+  {
+   "from": "fascinum",
+   "type": "amulet",
+   "name": "Fascinum",
+   "as": "the Greek answer to the same problem — terror where Rome used laughter",
+   "rel": "parallel"
+  },
+  {
+   "from": "holy-rider-pendant",
+   "type": "amulet",
+   "name": "Holy rider pendant",
+   "as": "the face on the reverse; the medieval lead amulets carry a device that resembles one and is read as a womb symbol",
+   "rel": "motif"
+  },
+  {
+   "from": "nazar",
+   "type": "amulet",
+   "name": "Nazar",
+   "as": "the Greek ancestor in the same soil: a frightening face doing by terror what the bead does by looking back",
+   "rel": "parallel"
+  },
+  {
+   "from": "pazuzu-head",
+   "type": "amulet",
+   "name": "Pazuzu head",
+   "as": "the same device in Greek: a face too frightening to walk past, mounted where the danger comes in",
+   "rel": "parallel"
+  },
+  {
+   "from": "toli-mirror",
+   "type": "amulet",
+   "name": "Toli",
+   "as": "the far-off parallel — a disc worn on the chest as armour, meant for whatever is looking",
+   "rel": "parallel"
+  },
+  {
+   "from": "greco-roman-apotropaic",
+   "type": "tradition",
+   "name": "Greek and Roman protective magic",
+   "as": "its loudest object, and the one whose function classicists agree on",
+   "rel": "part"
+  },
+  {
+   "from": "spiral",
+   "type": "motif",
+   "name": "The spiral",
+   "as": "the other thing a Greek put on a shield, which is how this record reads the triskeles blazon",
+   "rel": "parallel"
+  },
+  {
+   "from": "jet",
+   "type": "material",
+   "name": "Jet",
+   "as": "the Medusa head Roman Britain liked to cut into jet cameos, aimed at whoever looked",
+   "rel": "motif"
+  },
+  {
+   "from": "terracotta",
+   "type": "material",
+   "name": "Fired clay",
+   "as": "fired as masks at Tiryns and Sparta in the seventh century BCE, which is the earliest physical form of that face",
+   "rel": "carried-by"
+  },
+  {
+   "from": "monastiraki",
+   "type": "place",
+   "name": "Monastiraki",
+   "as": "the older Greek answer to the same look, cut on shields and temple roofs instead of strung on a cord",
+   "rel": "kin"
+  },
+  {
+   "from": "christopher-faraone",
+   "type": "person",
+   "name": "Christopher A. Faraone",
+   "as": "the guardian face; his first book took the guardian statue, of which this is the portable end",
+   "rel": "kin"
+  }
+ ]
+}

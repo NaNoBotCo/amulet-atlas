@@ -1,0 +1,180 @@
+{
+ "schema": 1,
+ "id": "lead",
+ "type": "material",
+ "names": {
+  "name": "Lead",
+  "native": "tabella defixionis",
+  "lang": "la",
+  "said": "defixio, from the Latin for pierce and bind",
+  "aliases": [
+   "lead sheet",
+   "lamella",
+   "defixio",
+   "katadesmos"
+  ]
+ },
+ "region": [
+  "greece-aegean",
+  "rome-italy",
+  "britain-ireland",
+  "mainland-sea",
+  "north-america"
+ ],
+ "countries": [
+  "GR",
+  "IT",
+  "GB",
+  "EG",
+  "KH",
+  "US"
+ ],
+ "facets": {
+  "kind": "metal"
+ },
+ "text": {
+  "what": "A soft grey metal, cheap, heavy, and soft enough to scratch with a stylus and then fold in the hand. It is also poisonous, which is the whole of its modern story. Lead is the curse tablet's material, and this atlas files the curse tablet beside the amulet on purpose rather than in a separate room.",
+  "story": "Curse tablets are typically very thin sheets of lead with the text scratched on in tiny letters. They were rolled, folded, or pierced with nails, and then put out of reach: buried in graves or tombs, thrown into wells or pools, sequestered in underground sanctuaries, or nailed to the walls of temples. Around 1,600 have been found, most of them inscribed in Greek, with 220 from Attica. The first group discovered came from Selinus in Sicily — twenty-two tablets, mostly from the early fifth century BCE, directed at someone the writer was suing.\n\nBritain holds the largest single deposit. In 1979 and 1980 the Bath curse tablets were found at Aquae Sulis, and all but one of the 130 concern the restitution of stolen goods; over eighty more came from the temple to Mercury at West Hill, Uley nearby, which makes south-western Britain one of the major centres for finds of Latin defixiones. Roger Tomlin published the Bath group in 1988 under a title that names the metal twice over: Tabellae Sulis: Roman inscribed tablets of tin and lead from the sacred spring at Bath.\n\nWhat is written on them is not always a curse. Texts are addressed to infernal or liminal gods — Pluto, Charon, Hecate, Persephone — sometimes through a dead person, usually the corpse in whose grave the tablet lay. Many list the target's crimes in detail and hand the punishment to the gods, and some scholars refuse the word curse for those, preferring judicial prayers. Tablets were also used to help the dead: those laid at the graves of people who had died young or violently were meant to settle their souls.\n\n*Inference —* the tablet and the amulet are one technology used in two directions. Both name a person. Both write a formula on metal. Both are folded, pierced or rolled, and both are put where nobody will read them — sewn in, buried, nailed up. Kotansky's corpus of protective amulets is titled Greek Magical Amulets: the inscribed gold, silver, copper and bronze lamellae; the tablets are the same lamellae in a base metal, aimed the other way. Filing them apart would hide the fact that the same hands made both.\n\nLead also moved as a raw material rather than an object: Egyptian faience workshops imported lead and copper during periods of prosperity, when the ores were not available locally.",
+  "how": "Hammered into a sheet, scratched with a stylus, then rolled, folded or nailed. Sometimes the tablet was made in advance with a blank left for a name: \"Not all tablets included a personal name, but it is clear especially in the Roman period, that tablets were sometimes prepared in advance, with space left for inserting the names provided by paying customers.\" Hair or a piece of the target's clothing could be folded in with the sheet.",
+  "today": "Lead is still worn and it still poisons children. In March 2009 a one-year-old boy in New York City had a blood lead level of 10 µg/dL, which reached 20 µg/dL three months later. The source was an amulet: a knotted string onto which grey metallic beads had been moulded, bought by the boy's mother in a rural Cambodian market, worn since he was three months old and observed being mouthed. The beads' total lead content was 450,000 mg/kg, or 45 per cent. Eight days after the amulet was removed his level was 14 µg/dL; at six weeks 10, and at five months 5. The report's recommendation is that health-care providers ask parents about their use of amulets, particularly in Southeast Asian families and where a child has an elevated blood lead level. New York City's health department names the class of object plainly — amulets, sheesha, tabiz, metal charms, necklaces and bracelets given to children can contain high levels of lead — and asks that they be kept out of a child's mouth, naming no country of origin."
+ },
+ "dating": {
+  "period": "Classical Greece to the present",
+  "from_year": -499,
+  "to_year": null,
+  "living": true,
+  "label": "early 5th century BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-curse-tablet",
+  "note": "Dated from the Selinus group, mostly early fifth century BCE. The end is left open because lead is still being worn: the Cambodian amulet in the 2011 MMWR report was in use in 2009."
+ },
+ "object": {
+  "form": "plaque",
+  "materials": [
+   "lead"
+  ],
+  "worn": [
+   "grave",
+   "wall",
+   "neck"
+  ],
+  "inscription": "the target's name, the crime or condition, the harm asked for, and often voces mysticae such as Bazagra, Bescu or Berebescu",
+  "script": "Greek and Latin",
+  "source": "s:wp-curse-tablet"
+ },
+ "against": [
+  {
+   "harm": "theft",
+   "who": "the writers of the Bath tablets: all but one of the 130 concern the restitution of stolen goods",
+   "source": "s:wp-curse-tablet",
+   "tier": "cited"
+  },
+  {
+   "harm": "lawsuit",
+   "who": "Athenian litigants, whose tablets ask that the opposing speaker botch his performance, forget his words and become dizzy",
+   "source": "s:wp-curse-tablet",
+   "tier": "cited"
+  },
+  {
+   "harm": "attraction",
+   "who": "the users of erotic binding spells, which Christopher Faraone divides into spells for inducing passion and spells for encouraging affection",
+   "source": "s:wp-curse-tablet",
+   "tier": "cited"
+  },
+  {
+   "harm": "the-dead",
+   "who": "those who laid tablets at the graves of people who died young or violently, to help settle their souls",
+   "source": "s:wp-curse-tablet",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "curse-tablet",
+   "as": "the object this material exists for in the atlas, and the reason lead has a record at all",
+   "rel": "carried-by"
+  },
+  {
+   "to": "magical-gem",
+   "as": "the protective side of the same late-antique workshop, cut in stone instead of scratched in lead",
+   "rel": "contrast"
+  },
+  {
+   "to": "ketef-hinnom-scrolls",
+   "as": "the same idea in silver: a thin sheet, a written formula, rolled and worn, aimed at protecting rather than binding",
+   "rel": "parallel"
+  },
+  {
+   "to": "hair",
+   "as": "what gets folded into the sheet to make the writing point at one named person",
+   "rel": "material"
+  },
+  {
+   "to": "inscribing",
+   "as": "the practice of scratching the words, which is the only step lead requires",
+   "rel": "practice"
+  },
+  {
+   "to": "burying",
+   "as": "how a lead tablet is delivered: into a grave, a well, or a temple wall",
+   "rel": "practice"
+  },
+  {
+   "to": "christopher-faraone",
+   "as": "the scholar who sorted the erotic tablets into passion spells and affection spells, and found men and women using different ones",
+   "rel": "person"
+  },
+  {
+   "to": "copper",
+   "as": "the metal the protective lamellae were beaten from, where the tablets used the cheap one",
+   "rel": "contrast"
+  },
+  {
+   "to": "most-of-them-are-for-children",
+   "as": "the long read the modern lead story belongs to: the charm that poisoned a child was put on him at three months old",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Curse tablet — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Curse_tablet"
+  },
+  {
+   "label": "Lead Poisoning of a Child Associated with Use of a Cambodian Amulet — MMWR",
+   "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6003a2.htm"
+  }
+ ],
+ "sources": [
+  "s:wp-curse-tablet",
+  "s:wp-egyptian-faience",
+  "s:web-cdc-mmwr-cambodian-amulet",
+  "s:web-nyc-hazardous-amulets"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-curse-tablet"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-curse-tablet",
+    "note": "the fourth paragraph, filing the curse tablet as the amulet's mirror, is this project's own argument and is marked in the text"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:web-cdc-mmwr-cambodian-amulet"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Bath curse tablet.jpg",
+  "File:Defixio.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-17"
+}

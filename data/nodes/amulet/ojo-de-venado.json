@@ -1,0 +1,179 @@
+{
+ "schema": 1,
+ "id": "ojo-de-venado",
+ "type": "amulet",
+ "names": {
+  "name": "Ojo de venado",
+  "native": "ojo de venado",
+  "lang": "es",
+  "script": "Latin",
+  "said": "OH-ho deh veh-NAH-do, 'deer's eye'",
+  "aliases": [
+   "deer's eye",
+   "ojo de buey",
+   "ojo de toro",
+   "ojo de caballo",
+   "semilla de mucuna"
+  ]
+ },
+ "etymology": {
+  "root": "Spanish ojo de venado, 'deer's eye' — a name for the look of the seed, not for its plant",
+  "note": "The seed is a Mucuna, a climbing legume; México Desconocido lists ojo de buey, ojo de toro and ojo de caballo as the same seed under other animals' eyes.",
+  "tier": "cited",
+  "source": "s:web-mexicodesconocido-ojo-de-venado"
+ },
+ "region": [
+  "mesoamerica"
+ ],
+ "countries": [
+  "MX"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A hard round seed of a Mucuna vine, dark and glossy with a broad black band across it, which is why it reads as an eye at arm's length. Sellers dress it: a red cord or ribbon, often a tuft of coloured wool, sometimes a tiny image or a bead glued to the face. It is sold loose on a string, as a bracelet, or on a cord long enough to hang from a rear-view mirror.",
+  "story": "Wikipedia's account of the Mercado de Sonora in Mexico City puts it in one line among the market's magical stock: crosses of ocote wood for good luck, chains of garlic to ward off evil, and a seed called \"deer's eye\" to protect against the \"evil eye\".\n\nMéxico Desconocido traces the seed's career as a good-luck amulet to Xichú, a municipality in the northeast of Guanajuato, and notes that Mucuna also grew in Chiapas, Oaxaca, Puebla, San Luis Potosí and Veracruz, so other regions may have reached the same use independently. Newborns get one against mal de ojo; adults take one up for a hard stretch; drivers hang one where they can see it.\n\nThe object has a public opponent. The priest Eduardo Hayen Cuarón condemned it as \"un amuleto y por tanto una práctica esotérica, maligna y 'obra de Satanás'\" — an amulet, and therefore an esoteric practice, malign, and the work of Satan. *Inference —* a charm that draws a priest's condemnation by name is a charm being carried by people who also go to Mass, which is where most of this atlas's Latin American material sits. Both statements are reported here; neither is settled here.\n\nThe seed reached national pop culture too: the band Caifanes put it on their 1988 debut album.",
+  "how": "Gathered from the vine, dried, drilled or bound, and finished with red thread. No consecration is published in the sources this project read. Wearers say a seed that cracks or splits has taken a hit meant for the person carrying it — the same account Turkish sellers give of a broken nazar bead — and it is replaced rather than repaired.",
+  "today": "Sold across central and southern Mexico in markets, at church doors and online as of 2026, and hung in cars as often as worn. No dated price was read for this record, so none is printed."
+ },
+ "dating": {
+  "period": "modern Mexico",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "documented in modern Mexico; no first attestation this project could date",
+  "method": "ethnographic",
+  "tier": "cited",
+  "source": "s:web-mexicodesconocido-ojo-de-venado",
+  "note": "México Desconocido names Xichú, Guanajuato as the origin of the seed's use as an amulet but gives no date; nothing here dates the practice."
+ },
+ "object": {
+  "form": "bead",
+  "materials": [
+   "seed",
+   "thread"
+  ],
+  "worn": [
+   "neck",
+   "wrist",
+   "vehicle",
+   "cradle"
+  ],
+  "made_by": "market sellers and herb vendors; anyone may buy or give one",
+  "colour": [
+   "brown",
+   "black",
+   "red"
+  ],
+  "single_use": false,
+  "source": "s:web-mexicodesconocido-ojo-de-venado",
+  "note": "Species given by México Desconocido as Mucuna urens. No published measurement was read."
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "sellers in the Mercado de Sonora, Mexico City",
+   "quote": "a seed called \"deer's eye\" to protect against the \"evil eye\"",
+   "source": "s:wp-mercado-de-sonora",
+   "tier": "cited"
+  },
+  {
+   "harm": "child-harm",
+   "who": "parents, who put one on a newborn",
+   "source": "s:web-mexicodesconocido-ojo-de-venado",
+   "tier": "cited"
+  },
+  {
+   "harm": "travel",
+   "who": "drivers, who hang one from the rear-view mirror",
+   "source": "s:web-mexicodesconocido-ojo-de-venado",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "eye",
+   "as": "the sign this seed already is without anybody cutting it — a dark band on a pale ground, read as a pupil",
+   "rel": "motif"
+  },
+  {
+   "to": "nazar",
+   "as": "the same logic in glass, and the same story about a charm that breaks because it took the look",
+   "rel": "parallel"
+  },
+  {
+   "to": "azabache",
+   "as": "the other charm Hispanic families put on an infant against mal de ojo, in jet rather than seed",
+   "rel": "kin"
+  },
+  {
+   "to": "mercado-de-sonora",
+   "as": "the Mexico City market where it is sold beside garlic chains and ocote crosses",
+   "rel": "place"
+  },
+  {
+   "to": "latin-american-folk-catholic",
+   "as": "the tradition it is carried inside, and the one a priest was condemning when he condemned it",
+   "rel": "tradition"
+  },
+  {
+   "to": "most-of-them-are-for-children",
+   "as": "the long read this seed belongs in — it goes on the newborn first",
+   "rel": "story"
+  },
+  {
+   "to": "car-saint",
+   "as": "what hangs on the other side of the same rear-view mirror",
+   "rel": "parallel"
+  },
+  {
+   "to": "buying-in-a-market",
+   "as": "how one is got: an aisle, a tray, a red cord tied on the spot",
+   "rel": "practice"
+  }
+ ],
+ "links": [
+  {
+   "label": "Ojo de venado, el amuleto mexicano por excelencia — México Desconocido",
+   "url": "https://www.mexicodesconocido.com.mx/ojo-de-venado-amuleto.html"
+  },
+  {
+   "label": "Mercado de Sonora — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mercado_de_Sonora"
+  }
+ ],
+ "sources": [
+  "s:web-mexicodesconocido-ojo-de-venado",
+  "s:wp-mercado-de-sonora",
+  "s:wp-evil-eye",
+  "s:wp-nazar-amulet"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-mexicodesconocido-ojo-de-venado"
+  },
+  "fields": {
+   "text.how": {
+    "tier": "tradition",
+    "note": "the account of a cracked seed having taken the harm is general knowledge of the practice, hedged in the prose; the cited parallel is the Turkish nazar bead"
+   },
+   "object.colour": {
+    "tier": "inference",
+    "note": "read from the object as sold, not from a published description"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,189 @@
+{
+ "schema": 1,
+ "id": "agnus-dei",
+ "type": "amulet",
+ "names": {
+  "name": "Agnus Dei",
+  "native": "Agnus Dei",
+  "script": "Latin",
+  "lang": "la",
+  "said": "AHN-yoos DAY-ee, 'Lamb of God'",
+  "aliases": [
+   "Agnus Dei wax",
+   "wax lamb",
+   "Agnus Dei disc",
+   "pascal wax medallion"
+  ]
+ },
+ "etymology": {
+  "root": "Latin Agnus Dei, 'Lamb of God' — from John 1:29, where John the Baptist says of Jesus, \"Behold, the Lamb of God, who takes away the sin of the world!\"",
+  "note": "The same two words name three different things: the prayer sung at Mass, the music written for it, and this object. Only the object is an amulet, and confusing the three is the commonest mistake made about it.",
+  "tier": "cited",
+  "source": "s:wp-agnus-dei"
+ },
+ "region": [
+  "rome-italy",
+  "western-europe",
+  "iberia",
+  "diaspora"
+ ],
+ "countries": [
+  "IT",
+  "ES",
+  "GB"
+ ],
+ "facets": {
+  "era": "medieval",
+  "portable": "worn",
+  "restricted": "limited",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A disc of wax, round or oval, with a lamb pressed into one face. The lamb carries a cross or a flag; the reverse usually takes a saint, or the name and arms of the reigning pope. The wax is made from what is left of the previous year's paschal candle. It hangs at the neck, or it is kept somewhere safe and looked at.",
+  "story": "The oldest sacramental in the Roman Church is a lump of recycled candle.\n\nHerbert Thurston, writing the Catholic Encyclopedia entry in 1907, puts the ninth-century practice like this: the archdeacon made the Agnus Deis early on Holy Saturday morning out of clean wax mixed with chrism, and handed them out to the people on the Saturday following. What changed later is who does the blessing. The great consecration of Agnus Deis takes place only in the first year of a pontificate and every seventh year after it — a rule Thurston says was still followed in 1907 — and it is the pope who performs it. That schedule is the whole economics of the object: a papal Agnus Dei is scarce by design.\n\nThe claims Thurston records are stated plainly and stated wide: protection \"from all malign influences\", and specifically \"perils from storm and pestilence, from fire and flood, and also of the dangers to which women are exposed in childbirth\". He also records the reported results rather than asserting them: \"Fires are said to have been extinguished, and floods stayed.\" That is the exact grammar this atlas uses, arrived at independently and a century earlier.\n\nThe Agnus Dei is also where the Roman habit of blessing an object and attaching indulgences to it got started, or at least where the Catholic Encyclopedia says it got started. Writing on devotional medals, the same encyclopedia dates the sixteenth-century practice of giving a papal blessing to medals — and then enriching them with indulgences — to a usage \"long previously in vogue in the case of Agnus Dei (discs of wax impressed with the figure of a lamb and blessed at stated seasons by the Pope, which could be worn suspended round the neck)\". *Inference —* every struck medal later in this batch descends from this wax disc, procedurally if not physically.\n\nThe Church's line between a sacramental and an amulet runs straight through it. A sacramental, by the Catholic Church's own definition, is a sacred sign that works by the Church's prayer and \"does not confer the grace of the Holy Spirit in the way that the sacraments do\"; it disposes a person to receive grace rather than acting on its own. Set that beside a wax disc credited with stopping a flood and the tension is not hypothetical. The 2001 Directory on Popular Piety and the Liturgy names the boundary in general terms: popular piety \"may never incorporate rites permeated by magic, superstition, animism, vendettas or sexual connotations\", and elsewhere it warns against keeping blessed palms as amulets or for therapeutic or magical purposes. Both positions are the Church's. This atlas prints both and settles neither.",
+  "how": "Cast from the remains of the previous year's paschal candle, mixed with chrism, impressed with the lamb, and blessed by the pope in the first year of his pontificate and every seventh year after. Distributed by the pontiff, often through envoys, and usually in a case or a cloth mount when worn. It is not renewed on a cycle and it is not burnt at retirement; it is kept.",
+  "today": "This project has read nothing dated later than the 1907 encyclopedia entry on whether the seven-year consecration still happens, and it will not guess. Old Agnus Deis survive in Catholic households, in reliquary frames, and in museum and papal-artefact collections. That is what can be said: the object exists, its present manufacture is unverified here, and a reader who needs to know should ask a diocese."
+ },
+ "dating": {
+  "period": "the early Middle Ages onward",
+  "from_year": 800,
+  "to_year": null,
+  "label": "from the ninth century; present manufacture unverified here",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:web-cathen-agnus-dei",
+  "note": "800 is a round marker for 'the ninth century', which is the earliest practice Thurston describes: the archdeacon making the discs on Holy Saturday morning. to_year is null because this project found no dated evidence that the practice stopped — which is not the same as evidence that it continues, and `living` is deliberately not set."
+ },
+ "object": {
+  "form": "medal",
+  "worn": [
+   "neck",
+   "chest"
+  ],
+  "made_by": "the pope, in the first year of a pontificate and every seventh year afterwards; in the ninth century, the archdeacon on Holy Saturday morning",
+  "inscription": "a lamb bearing a cross or a flag; on the reverse, a saint, or the name and arms of the reigning pope",
+  "script": "Latin",
+  "colour": [
+   "white"
+  ],
+  "single_use": false,
+  "source": "s:web-cathen-agnus-dei",
+  "note": "Materials are deliberately left empty: this is wax, and wax has no key in this project's materials list. Form is entered as medal for want of a closer key — it is a disc with a device impressed in it, but it is cast from candle wax, not struck from metal. The cited source gives no measurement, so no length_mm is entered."
+ },
+ "against": [
+  {
+   "harm": "fire",
+   "who": "Herbert Thurston, reporting the claims made for the object in the Catholic Encyclopedia of 1907",
+   "quote": "Fires are said to have been extinguished, and floods stayed.",
+   "source": "s:web-cathen-agnus-dei",
+   "tier": "cited"
+  },
+  {
+   "harm": "drowning",
+   "who": "the same 1907 account, which names storm and flood among the perils",
+   "quote": "perils from storm and pestilence, from fire and flood, and also of the dangers to which women are exposed in childbirth",
+   "source": "s:web-cathen-agnus-dei",
+   "tier": "cited"
+  },
+  {
+   "harm": "fever",
+   "who": "the same account, which names pestilence",
+   "source": "s:web-cathen-agnus-dei",
+   "tier": "cited"
+  },
+  {
+   "harm": "childbirth",
+   "who": "the same account, which names the dangers to which women are exposed in childbirth",
+   "source": "s:web-cathen-agnus-dei",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "catholic-sacramentals",
+   "as": "the category, and the object the Catholic Encyclopedia treats as its oldest member",
+   "rel": "tradition"
+  },
+  {
+   "to": "miraculous-medal",
+   "as": "the struck descendant — the practice of blessing a medal and attaching an indulgence to it is traced back to this wax",
+   "rel": "descendant"
+  },
+  {
+   "to": "st-christopher-medal",
+   "as": "the other neck-worn Roman sacramental, in metal and in quantity",
+   "rel": "kin"
+  },
+  {
+   "to": "brown-scapular",
+   "as": "the cloth sacramental worn on the same chest, with a promise attached instead of a papal blessing",
+   "rel": "kin"
+  },
+  {
+   "to": "ladanka",
+   "as": "the Orthodox pouch that does the same job — a blessed thing worn at the neck, with the same argument attached about what it is",
+   "rel": "parallel"
+  },
+  {
+   "to": "cross",
+   "as": "the sign the lamb carries",
+   "rel": "motif"
+  },
+  {
+   "to": "consecration",
+   "as": "the act that makes it — a papal blessing on a seven-year cycle, which is the scarcest consecration schedule in this atlas",
+   "rel": "practice"
+  },
+  {
+   "to": "amulet-or-talisman",
+   "as": "the long read where the Church's word sacramental meets the reader's word amulet, on an object credited with stopping floods",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Agnus Dei — Catholic Encyclopedia (1907), via New Advent",
+   "url": "https://www.newadvent.org/cathen/01220a.htm"
+  },
+  {
+   "label": "Agnus Dei — Wikipedia (the prayer, not the object)",
+   "url": "https://en.wikipedia.org/wiki/Agnus_Dei"
+  }
+ ],
+ "sources": [
+  "s:web-cathen-agnus-dei",
+  "s:wp-agnus-dei",
+  "s:wp-devotional-medal",
+  "s:wp-sacramental",
+  "s:web-vatican-directory-popular-piety"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-cathen-agnus-dei"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "inference",
+    "note": "this record says out loud that it does not know whether the object is still made; nothing dated later than 1907 was read on that question"
+   },
+   "dating": {
+    "tier": "cited",
+    "source": "s:web-cathen-agnus-dei",
+    "note": "the open end of the range is an unknown, not a claim of continuity; `living` is left unset for that reason"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Agnus Dei wax.jpg",
+  "File:Agnus Dei (sacramental).jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-17"
+}

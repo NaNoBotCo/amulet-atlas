@@ -1,0 +1,73 @@
+{
+ "schema": 1,
+ "id": "coin-square",
+ "type": "motif",
+ "names": {
+  "name": "The square hole",
+  "native": "厭勝錢",
+  "script": "Han",
+  "lang": "zh",
+  "said": "yàn shèng qián, 'charm coin'; the hole itself is called an eye, 眼 yǎn",
+  "aliases": ["yansheng coin", "huaqian", "flower coin", "cash coin hole", "round coin with a square hole"]
+ },
+ "region": ["china", "japan", "korea", "mainland-sea", "island-sea", "diaspora"],
+ "countries": ["CN", "JP", "KR", "VN", "ID", "TW", "SG"],
+ "facets": {"era": "ancient", "family": "coin", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A round disc of copper alloy, brass or bronze with a square hole punched through the middle, the four sides of the hole framed by characters. It is the shape of Chinese money for two thousand years, and it is also the shape of a charm that was never money. Most numismatic charms imitate whatever circulating cash coin was current when they first appeared; some were cast instead as spades, locks, fish, peaches and gourds.",
+  "story": "The charm coin — yansheng qian, now more often called huaqian, flower coin — first appears under the Western Han as a variant of the Ban Liang and Wu Zhu cash coins. It was used to speak to the dead, to pray for a good outcome, to frighten ghosts and as lucky money. Over centuries it became a separate commodity with its own shapes and sizes. Unlike a cash coin, which carries two or four characters on a side, a charm often carries more characters, and pictures on the same side.\n\nThese were mostly privately funded and cast by wealthy families for their own ceremonies, though governments and religious orders cast some. They circulated alongside official coinage and held value because they were made of copper alloy and Chinese coins were valued by weight in bronze or brass. In periods of copper scarcity they worked as alternative currency — temple coins were issued by Buddhist temples under the Yuan when copper was short or deliberately limited by the Mongol government.\n\nThe square hole is not only an opening. It is called an eye, yǎn, and Chinese charms are built on visual puns: a gourd charm made of two Wu Zhu replicas with a bat covering the character where they meet reads as happiness is before your eyes, because bat sounds like happiness and coin sounds like before. A charm's meaning is frequently a rebus you have to hear rather than see.\n\nThe forms multiply from there. Open-work charms have irregular openings between the design elements and usually a single large round hole, or a square one where the design is a building. Lock charms are flat, have no moving parts, resemble the character 凹, and were tied around children's necks by Buddhist or Taoist priests; the hundred family lock was funded by a poor family asking a hundred other families each to give a cash coin for a newborn. Pendant charms were worn at the neck or waist from the beginning of the Han, or fixed to rafters, pagodas, temples and lanterns; fish and lock charms were worn mainly by young children and infants. Han pendant charms carry inscriptions like chu xiong qu yang, do away with evil and dispel calamity, and bi bing mo dang, avoid hostilities and ward off sickness.\n\nQing-era cash coins of the five emperors Shunzhi, Kangxi, Yongzheng, Qianlong and Jiaqing are strung together as a set said to bring wealth and good fortune. Strung coins are also built into swords: in feng shui, coin-swords are hung to frighten demons and evil spirits away.\n\nChinese charms inspired the same tradition in Japan, Korea and Vietnam, and charms from those countries are regularly mistaken for Chinese ones because the symbolism and inscriptions are close. Chinese cash coins themselves are treated as lucky charms outside China.",
+  "today": "A Chinese Numismatic Charms Museum opened on 1 February 2015 in Haikou, Hainan, in a building that replicates the Szechuan Kanting Civilian Commercial Bank in Movie Town Haikou, with about 530 square metres of exhibition space and more than 2,000 charms from the Han to the Republic."
+ },
+ "kin": [
+  {"to": "charm-coin", "as": "the object this sign is the shape of — the charm in the tray", "rel": "carried-by"},
+  {"to": "bagua-mirror", "as": "hung on the same walls and sold from the same shelf, and appearing on lock charms as a design", "rel": "kin"},
+  {"to": "ping-an-fu", "as": "the other Chinese thing tied round a child's neck for safety", "rel": "kin"},
+  {"to": "fu-talisman", "as": "the drawn Taoist talisman; some coin charms are cast as imperial decrees in the same voice", "rel": "kin"},
+  {"to": "divine-name", "as": "Taoist charms carry writing meant to command rather than to be read, which is a different use of script from this one", "rel": "parallel"},
+  {"to": "eye", "as": "the square hole is called an eye in Chinese, which is a pun and not this atlas's eye family", "rel": "contrast"},
+  {"to": "chinese-fu-craft", "as": "the tradition that casts, inscribes and reads them", "rel": "tradition"},
+  {"to": "copper", "as": "the alloy that gave the charm its weight and therefore its value", "rel": "material"},
+  {"to": "challenge-coin", "as": "the modern coin carried for belonging rather than for luck, and the nearest living parallel outside Asia", "rel": "parallel"}
+ ],
+ "dating": {
+  "period": "Western Han to the present",
+  "from_year": -205,
+  "to_year": null,
+  "living": true,
+  "label": "Western Han (from c. 206 BCE) to now",
+  "method": "dated-object",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-chinese-numismatic-charm",
+  "note": "Dated from the statement that yansheng coins first appeared during the Western Han as a variant of the Ban Liang and Wu Zhu cash coins; the conventional start of the Western Han is used for the year."
+ },
+ "object": {
+  "form": "coin",
+  "materials": ["copper", "brass", "jade", "gold", "silver"],
+  "worn": ["neck", "waist", "wall", "roof", "door"],
+  "made_by": "privately cast by wealthy families for their own ceremonies; some by governments, some by Buddhist temples",
+  "inscription": "chu xiong qu yang, 'do away with evil and dispel calamity'; bi bing mo dang, 'avoid hostilities and ward off sickness'; ri ru qian jin, 'may you earn a 1,000 gold everyday'",
+  "script": "Han",
+  "source": "s:wp-chinese-numismatic-charm"
+ },
+ "against": [
+  {"harm": "spirits", "who": "Han-era users: the coins were cast to speak to the dead, to pray for favourable outcomes and to terrify ghosts", "source": "s:wp-chinese-numismatic-charm", "tier": "cited"},
+  {"harm": "demons", "who": "feng shui practice, in which coin-swords are hung to frighten away demons and evil spirits", "source": "s:wp-chinese-numismatic-charm", "tier": "cited"},
+  {"harm": "child-harm", "who": "Buddhist and Taoist priests, who tied lock charms round children's necks; the hundred family lock was funded by a hundred families for one newborn", "source": "s:wp-chinese-numismatic-charm", "tier": "cited"},
+  {"harm": "illness", "who": "a Han pendant charm inscription, bi bing mo dang — avoid hostilities and ward off sickness", "source": "s:wp-chinese-numismatic-charm", "tier": "cited"},
+  {"harm": "attraction", "who": "collectors of the five-emperors string, said to bring wealth and good fortune", "source": "s:wp-chinese-numismatic-charm", "tier": "cited"},
+  {"harm": "exams", "who": "lock charms, said to bring high results in the imperial exams as well as protection and long life", "source": "s:wp-chinese-numismatic-charm", "tier": "cited"}
+ ],
+ "links": [{"label": "Chinese numismatic charm — Wikipedia", "url": "https://en.wikipedia.org/wiki/Chinese_numismatic_charm"}],
+ "sources": ["s:wp-chinese-numismatic-charm", "s:wp-numismatic-charm", "s:wp-fulu", "s:wp-bagua"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-chinese-numismatic-charm"},
+  "fields": {
+   "dating": {"tier": "inference", "note": "the dynasty is cited; converting Western Han to -205 is this project's arithmetic"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Chinese numismatic charm.jpg", "File:Coin sword.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

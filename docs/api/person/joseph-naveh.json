@@ -1,0 +1,277 @@
+{
+ "schema": 1,
+ "id": "joseph-naveh",
+ "type": "person",
+ "names": {
+  "name": "Joseph Naveh",
+  "sort": "Naveh, Joseph"
+ },
+ "region": [
+  "levant",
+  "mesopotamia"
+ ],
+ "countries": [
+  "IL",
+  "IQ",
+  "IR"
+ ],
+ "facets": {
+  "role": [
+   "scholar",
+   "excavator"
+  ]
+ },
+ "text": {
+  "what": "Israeli epigrapher and palaeographer, 1928–2011, who read the writing on the amulets. With Shaul Shaked he published the Aramaic texts of late antique metal amulet strips and of the clay incantation bowls — the objects buried upside down under house floors in Babylonia — in editions that print the text, the translation and the object together.",
+  "story": "Naveh was born in Mukachevo, then Czechoslovakia, on 21 January 1928. He worked for the Israel Department of Antiquities from 1955 to 1971 and was a district archaeologist from 1958, then taught in the Department of Ancient Semitic Languages at the Hebrew University of Jerusalem from 1971 to 1991. His field was West Semitic epigraphy: the shapes of letters, and what the shapes date.\n\nThat is the skill the amulet material needs. A rolled silver or bronze lamella and a bowl written in a spiral both carry script and nothing else datable — no stratigraphy in a bowl bought on a market, no style in a thin strip of metal. \"The Development of the Aramaic Script\", his 1970 dissertation, and \"Early History of the Alphabet\", 1997, are the tools; the amulet volumes are what he used them on.\n\nWith Shaked he produced \"Amulets and Magic Bowls: Aramaic Incantations of Late Antiquity\" and then \"Magic Spells and Formulae\" in 1993. *Inference —* the dating in this atlas for any Aramaic amulet or bowl rests on that letter-by-letter work, whether or not the record says so.\n\nHe was elected to the Israel Academy of Sciences and Humanities in 1994. He died on 21 November 2011.",
+  "today": "The bowls keep arriving on the antiquities market without find-spots, which is the reason his palaeography stays load-bearing and also the reason the objects are contested. This project has not read a published provenance study of the bowl corpus and does not assert what share of it was excavated."
+ },
+ "dating": {
+  "period": "Twentieth century",
+  "from_year": 1928,
+  "to_year": 2011,
+  "living": false,
+  "label": "21 January 1928 – 21 November 2011",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:web-joseph-naveh-wikipedia"
+ },
+ "kin": [
+  {
+   "to": "incantation-bowl",
+   "as": "the object he and Shaked edited — text, translation and bowl printed together",
+   "rel": "kin"
+  },
+  {
+   "to": "shaul-shaked",
+   "as": "his co-author on the Aramaic amulet and bowl editions, over roughly three decades",
+   "rel": "person"
+  },
+  {
+   "to": "ketef-hinnom-scrolls",
+   "as": "the rolled silver amulet strip from Jerusalem — the object class his palaeography dates",
+   "rel": "kin"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "as": "the later tradition these late antique Aramaic texts sit behind",
+   "rel": "tradition"
+  },
+  {
+   "to": "divine-name",
+   "as": "the sign his editions are mostly reading: the names written into the bowls and strips",
+   "rel": "motif"
+  },
+  {
+   "to": "silver",
+   "as": "the metal the rolled amulet strips are beaten from, and the reason their text survives at all",
+   "rel": "material"
+  },
+  {
+   "to": "inscribing",
+   "as": "the practice his whole method addresses — what was written, in which hand, and when",
+   "rel": "practice"
+  }
+ ],
+ "links": [
+  {
+   "label": "Joseph Naveh — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Joseph_Naveh"
+  }
+ ],
+ "sources": [
+  "s:web-joseph-naveh-wikipedia",
+  "s:wp-incantation-bowl",
+  "s:wp-ketef-hinnom"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-joseph-naveh-wikipedia"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-joseph-naveh-wikipedia",
+    "note": "the publication year of the Amulets and Magic Bowls volume is given as 1985 in one encyclopaedia entry and 1987 in another; this record names no year for it because the two disagree and neither was checked against the book"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "the market observation is reasoned from the literature, not from a provenance survey"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "Israeli epigrapher and palaeographer, 1928–2011, who read the writing on the amulets.",
+ "region_terms": [
+  {
+   "key": "levant",
+   "name": "The Levant",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "mesopotamia",
+   "name": "Mesopotamia",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Sumer, Akkad, Babylonia, Assyria"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "incantation-bowl",
+   "type": "amulet",
+   "name": "Incantation bowl",
+   "as": "the object he and Shaked edited — text, translation and bowl printed together",
+   "rel": "kin"
+  },
+  {
+   "to": "shaul-shaked",
+   "type": "person",
+   "name": "Shaul Shaked",
+   "as": "his co-author on the Aramaic amulet and bowl editions, over roughly three decades",
+   "rel": "person"
+  },
+  {
+   "to": "ketef-hinnom-scrolls",
+   "type": "amulet",
+   "name": "Ketef Hinnom silver scrolls",
+   "as": "the rolled silver amulet strip from Jerusalem — the object class his palaeography dates",
+   "rel": "kin"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "type": "tradition",
+   "name": "Practical Kabbalah",
+   "as": "the later tradition these late antique Aramaic texts sit behind",
+   "rel": "tradition"
+  },
+  {
+   "to": "divine-name",
+   "type": "motif",
+   "name": "The name",
+   "as": "the sign his editions are mostly reading: the names written into the bowls and strips",
+   "rel": "motif"
+  },
+  {
+   "to": "silver",
+   "type": "material",
+   "name": "Silver",
+   "as": "the metal the rolled amulet strips are beaten from, and the reason their text survives at all",
+   "rel": "material"
+  },
+  {
+   "to": "inscribing",
+   "type": "practice",
+   "name": "Inscribing",
+   "as": "the practice his whole method addresses — what was written, in which hand, and when",
+   "rel": "practice"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:web-joseph-naveh-wikipedia",
+   "kind": "web",
+   "title": "Joseph Naveh",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Joseph_Naveh",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-incantation-bowl",
+   "kind": "encyclopedia",
+   "title": "Incantation bowl",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Incantation_bowl",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ketef-hinnom",
+   "kind": "encyclopedia",
+   "title": "Ketef Hinnom",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ketef_Hinnom",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:web-joseph-naveh-wikipedia"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:web-joseph-naveh-wikipedia",
+   "note": "the publication year of the Amulets and Magic Bowls volume is given as 1985 in one encyclopaedia entry and 1987 in another; this record names no year for it because the two disagree and neither was checked against the book"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "the market observation is reasoned from the literature, not from a provenance survey"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:web-joseph-naveh-wikipedia"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1928 CE – 2011 CE",
+ "country_names": [
+  {
+   "iso": "IL",
+   "name": "Israel"
+  },
+  {
+   "iso": "IQ",
+   "name": "Iraq"
+  },
+  {
+   "iso": "IR",
+   "name": "Iran"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "incantation-bowl",
+   "type": "amulet",
+   "name": "Incantation bowl",
+   "as": "with Shaul Shaked, the editor whose 1985 Amulets and Magic Bowls put these texts in front of readers who are not Aramaists",
+   "rel": "person"
+  },
+  {
+   "from": "jewish-practical-kabbalah",
+   "type": "tradition",
+   "name": "Practical Kabbalah",
+   "as": "one of the two editors who made the Aramaic evidence for the ancestor practice readable",
+   "rel": "person"
+  },
+  {
+   "from": "shaul-shaked",
+   "type": "person",
+   "name": "Shaul Shaked",
+   "as": "his co-author: Naveh brought the letter-forms, Shaked the Iranian side of the vocabulary",
+   "rel": "person"
+  }
+ ]
+}

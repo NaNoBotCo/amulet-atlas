@@ -1,0 +1,183 @@
+{
+ "schema": 1,
+ "id": "car-saint",
+ "type": "amulet",
+ "names": {
+  "name": "Car saint",
+  "said": "in French, Saint Christophe; in Spanish, San Cristóbal",
+  "aliases": [
+   "dashboard saint",
+   "St Christopher medal",
+   "visor medal",
+   "dashboard statue"
+  ]
+ },
+ "region": [
+  "western-europe",
+  "iberia",
+  "north-america",
+  "mesoamerica",
+  "diaspora"
+ ],
+ "countries": [
+  "FR",
+  "ES"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "living",
+  "portable": "placed",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "W",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A stamped metal medal clipped to a sun visor or glued to a dashboard, or a miniature statue standing on it, showing a giant wading a river with a child on his shoulder. The same image is worn as a pendant, fixed to a bracelet or carried in a pocket. Medals are aluminium, tin, brass or silver, usually 15 to 30 mm across; dashboard statues are painted resin.",
+  "story": "The image is legible before the text is. The Golden Legend, the thirteenth-century compendium of saints' lives, tells how Christopher, after his conversion, spent his life carrying travellers across a river; one day a boy asked to be carried, grew heavier with every step as the water rose, and on the far bank revealed himself as Christ. From that story various Christian denominations made him the patron saint of travellers, and small images of him are worn at the neck, on a bracelet, carried in a pocket or placed in a vehicle. Miniature statues are frequently displayed in automobiles. He is named patron of motorists and drivers alongside mariners, ferrymen, archers, bookbinders and gardeners.\n\nThe medals say out loud what they are for. The widespread French phrase is \"Regarde St Christophe et va-t-en rassuré\" — look at Saint Christopher and go on reassured. The Spanish medals and holy cards carry a harder promise: \"Si en San Cristóbal confías, de accidente no morirás\" — if you trust in Saint Christopher, you will not die in an accident. This atlas prints those two sentences as what the object says of itself, names who says it, and stops there.\n\nThe Church's own position moved under the object. Christopher's commemoration was of relatively late date, around 1550; by 1954 it had been extended to all Masses; in 1970 it was dropped from the general calendar of the Roman rite and restricted to particular calendars. *Inference —* the medal did not go with it. A devotional object with a working use outlived the liturgical decision that demoted it, which is the ordinary pattern for this whole class and not a Catholic peculiarity.\n\nHe is not alone on the dashboard. Japan's shrines sell a kōtsū-anzen omamori specifically for traffic safety, and it hangs from the same mirror in Nagoya that the medal is clipped under in Marseille.",
+  "how": "Bought at a church shop, a shrine stall, a service station or online, and fixed where the driver can see it: clipped to the visor, adhered to the dash, hung from the mirror, slipped behind a licence plate. A medal may be blessed by a priest as a sacramental; nothing requires it to be. It stays with the car more often than with the driver, and is passed on with the vehicle.",
+  "today": "Still sold and still fixed in cars across Catholic Europe and the Americas in 2026, and still stocked alongside the Miraculous Medal and the scapular in the same shops. No dated price was read for this record."
+ },
+ "dating": {
+  "period": "the motor age",
+  "from_year": 1900,
+  "to_year": null,
+  "living": true,
+  "label": "the motor age to now; the cult behind it is medieval",
+  "method": "textual",
+  "circa": true,
+  "tier": "inference",
+  "source": "s:wp-saint-christopher",
+  "note": "1900 is this project's round marker for the arrival of the car, not a documented first dashboard medal. The cited source dates Christopher's commemoration to around 1550 and its removal from the general Roman calendar to 1970; neither is the date of this object."
+ },
+ "object": {
+  "form": "medal",
+  "materials": [
+   "silver",
+   "brass",
+   "plastic",
+   "paper"
+  ],
+  "worn": [
+   "vehicle",
+   "neck",
+   "wrist",
+   "pocket",
+   "wallet"
+  ],
+  "made_by": "medal strikers and religious-goods manufacturers; a priest may bless one, and nothing requires it",
+  "inscription": "Regarde St Christophe et va-t-en rassuré / Si en San Cristóbal confías, de accidente no morirás",
+  "script": "Latin",
+  "colour": [
+   "silver",
+   "gold"
+  ],
+  "single_use": false,
+  "source": "s:wp-saint-christopher",
+  "note": "Both inscriptions are quoted from the cited source. No published measurement was read; the sizes given in text.what are the ordinary retail range and are not cited."
+ },
+ "against": [
+  {
+   "harm": "traffic",
+   "who": "the Spanish medals themselves",
+   "quote": "Si en San Cristóbal confías, de accidente no morirás",
+   "source": "s:wp-saint-christopher",
+   "tier": "cited",
+   "note": "if you trust in Saint Christopher, you will not die in an accident"
+  },
+  {
+   "harm": "travel",
+   "who": "the French medals",
+   "quote": "Regarde St Christophe et va-t-en rassuré",
+   "source": "s:wp-saint-christopher",
+   "tier": "cited",
+   "note": "look at Saint Christopher and go on reassured"
+  },
+  {
+   "harm": "drowning",
+   "who": "the Roman Catholic Church's patronage list, which names mariners, boatmen, floods and storms",
+   "source": "s:wp-saint-christopher",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "st-christopher-medal",
+   "as": "the same saint worn at the neck rather than fixed to a car — this record is what happens when the medal gets a dashboard",
+   "rel": "kin"
+  },
+  {
+   "to": "omamori",
+   "as": "the Japanese object doing the same job from the same mirror: kōtsū-anzen, sold for traffic safety",
+   "rel": "parallel"
+  },
+  {
+   "to": "catholic-sacramentals",
+   "as": "the Church's category a blessed medal falls into, and the framework the object outlived a calendar decision inside",
+   "rel": "tradition"
+  },
+  {
+   "to": "miraculous-medal",
+   "as": "the other stamped medal on the same shop counter, for a different promise",
+   "rel": "kin"
+  },
+  {
+   "to": "ojo-de-venado",
+   "as": "what hangs from the other side of the same Mexican rear-view mirror",
+   "rel": "parallel"
+  },
+  {
+   "to": "hei-matau",
+   "as": "the Pacific object most often worn against danger on a crossing",
+   "rel": "parallel"
+  },
+  {
+   "to": "latin-american-folk-catholic",
+   "as": "the tradition that fills the most dashboards with this image",
+   "rel": "tradition"
+  },
+  {
+   "to": "the-charm-goes-digital",
+   "as": "the long read about where a travel charm went next, once the journey had a screen in it",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Saint Christopher — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Saint_Christopher"
+  }
+ ],
+ "sources": [
+  "s:wp-saint-christopher",
+  "s:wp-devotional-medal",
+  "s:wp-sacramental",
+  "s:wp-omamori"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-saint-christopher"
+  },
+  "fields": {
+   "dating": {
+    "tier": "inference",
+    "note": "1900 is a marker for the motor age, not a documented first dashboard medal"
+   },
+   "text.what": {
+    "tier": "inference",
+    "note": "the medal sizes and materials are the ordinary retail range, not a published measurement"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "reasoned from continued sale; no dated price or figure read"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

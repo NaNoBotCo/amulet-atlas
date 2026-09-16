@@ -1,0 +1,174 @@
+{
+ "schema": 1,
+ "id": "tree",
+ "type": "motif",
+ "names": {
+  "name": "The tree",
+  "aliases": [
+   "sacred tree",
+   "portal tree",
+   "tree pillar",
+   "the tied tree"
+  ]
+ },
+ "region": [
+  "britain-ireland",
+  "japan",
+  "ancient-egypt",
+  "mesopotamia",
+  "caribbean",
+  "west-africa",
+  "south-asia"
+ ],
+ "countries": [
+  "GB",
+  "IE",
+  "JP",
+  "EG",
+  "IQ",
+  "HT",
+  "BJ",
+  "TG",
+  "IN",
+  "NP"
+ ],
+ "facets": {
+  "era": "ancient",
+  "family": "plant",
+  "hemisphere": [
+   "N",
+   "E",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A tree standing where it stands. This is the one sign in the atlas that is often not drawn at all: the mark is the tree, and what a reader would notice is not a carving but the things tied to it, planted beside it, or cut from it.",
+  "story": "Scotland plants it at the gate. British folklorists of the Victorian era reported the rowan's warding of witches — Edwin Lees for the Wyre Forest in 1856, James Frazer in 1890 for Scotland, where the tree was often planted near a gate or front door, and Charles Godfrey Leland in 1891 citing the Denham Tracts collected between 1846 and 1859. A flying rowan, grown as an epiphyte in the fork of an oak or a maple from a bird-dropped seed, was held especially potent against witches and black magic. Thomas Keightley recorded that mortals could safely witness the fairy rades by placing a rowan branch over their doors. In Neo-Druidism the rowan is the portal tree, and Elen Sentier's description of it is a definition of the whole sign: \"Threshold is a place of both ingress (the way in) and egress (the way out). Rowan is a portal, threshold tree offering you the chance of 'going somewhere ... and leaving somewhere.\"\n\nJapan ties bad luck to it and walks away. When an omikuji fortune comes out badly, the custom is to fold the strip and attach it to a pine tree — or to a wall of metal wires — alongside other bad fortunes on the shrine grounds. The reason given is a pun: matsu is both pine and to wait, so the bad luck waits by the tree instead of attaching itself to the bearer. A good fortune can be tied there too, to make it work harder, or taken home.\n\nHaiti treats particular trees as the altar. Certain trees are held to have resident spirits and are used as natural altars, with different species linked to different lwa — Oyu with mango trees, Danbala with bougainvillea — and some have metal affixed to them to form shrines to Ogou, who is associated with iron and the roads. In Benin and Togo, plant material is central to building a shrine, and offerings may be given to the tree from which the material is harvested.\n\nEgypt, which had almost no trees, made a pillar out of one. Erich Neumann calls the djed a tree fetish, and points out that this matters because Egypt was primarily treeless; he suggests the myth may record the importation of trees from Syria. The Osiris story is the tree in question: a sacred tree took root and grew around the coffin at Byblos, enclosing it in its trunk, and the king had it cut down and installed as a pillar in his palace. Sidney Smith proposed in 1922 a parallel with the Assyrian sacred tree, noting the bands on both; Cohen and Kangas connect that tree to Enki and point out that the Assyrian king is shown beside the sacred tree much as the pharaoh is shown at the raising of the djed.\n\nAnd a tree can be a category rather than a plant. The Babylonian Talmud lists coral among trees, and Rashi, writing in eleventh-century France, calls it \"a type of tree that grows underwater\" — an animal filed under this sign because of its shape.\n\n*Inference —* on transmission, this atlas will say three different things in one record, because the evidence differs. Between the djed and the Assyrian sacred tree, transmission is argued by named scholars from shared features and a plausible route, and remains an argument. Between the Haitian altar tree and the West African shrine tree, the historical connection is the documented one that produced the religion itself. Between the Scottish rowan at the gate and the Japanese pine on the shrine ground, nothing at all is claimed: no source read here proposes a link, the two acts are different — one plants, the other ties — and the resemblance is the kind this project refuses to build on.",
+  "how": "Planted at a threshold, tied to, cut from under rules, or carved into a pillar. Where the tree stays alive, the charm is maintained by returning to it; where it is cut, the taboo tends to follow the wood — in the Highlands no part of the rowan was to be used save the berries, except for ritual purposes.",
+  "today": "The tied tree is the version most visible now. Shrine grounds in Japan carry racks of metal wire beside the pines precisely because the custom outgrew the trees, which is a small and exact record of what happens to a living sign under volume."
+ },
+ "dating": {
+  "period": "New Kingdom Egypt to the present",
+  "from_year": -1549,
+  "to_year": null,
+  "living": true,
+  "label": "c. 1550 BCE to now",
+  "method": "art-historical",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-djed",
+  "note": "Dated from the djed, which by the New Kingdom was firmly associated with Osiris and with the Byblos tree of the Osiris myth; the New Kingdom conventionally opens about 1550 BCE. The tree reading of the djed is Erich Neumann's interpretation rather than an Egyptian statement, and this date should be read as the earliest point at which the sources read here put the tree and the pillar together. The folklore dates — 1856, 1890, 1891 — are dates of collection, not of practice."
+ },
+ "against": [
+  {
+   "harm": "witchcraft",
+   "who": "Victorian folklorists reporting English and Scottish practice: Edwin Lees in 1856, James Frazer in 1890, Charles Godfrey Leland in 1891",
+   "source": "s:wp-rowan",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "Thomas Keightley's account of the fairy rades, watched safely from behind a rowan branch laid over the door",
+   "source": "s:wp-rowan",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "Japanese shrine-goers, who tie a bad omikuji to a pine so the luck waits by the tree rather than following them home",
+   "source": "s:wp-o-mikuji",
+   "tier": "cited"
+  },
+  {
+   "harm": "travel",
+   "who": "the rowan's English by-names, wayfarer's tree and traveller's tree, given because it was said to keep travellers from getting lost",
+   "source": "s:wp-rowan",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "rowan-cross",
+   "as": "the charm cut from the tree at the gate, which is this sign reduced to two sticks and a thread",
+   "rel": "carried-by"
+  },
+  {
+   "to": "omikuji",
+   "as": "the paper fortune that ends its life knotted to a pine, on a pun between the tree and the verb to wait",
+   "rel": "carried-by"
+  },
+  {
+   "to": "djed-pillar",
+   "as": "the sign as a pillar: Neumann's tree fetish, in a country that had to import its timber",
+   "rel": "carried-by"
+  },
+  {
+   "to": "wood",
+   "as": "the same thing felled — where the tree becomes a material and the rules about which parts may be cut begin",
+   "rel": "material"
+  },
+  {
+   "to": "coral",
+   "as": "the sea animal the Talmud files among trees, and Rashi calls a tree that grows underwater",
+   "rel": "kin"
+  },
+  {
+   "to": "lungta-flag",
+   "as": "cloth strung between high points, doing at a mountain pass what the tied fortune does at a pine",
+   "rel": "parallel"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "the practice the rowan belongs to: the sign is placed at the threshold, not worn",
+   "rel": "practice"
+  },
+  {
+   "to": "seed",
+   "as": "how a flying rowan gets into the fork of an oak — the potency came from a bird's droppings",
+   "rel": "material"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "as": "the long read on signs that recur across unrelated traditions, which this record answers with three different verdicts",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Rowan — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rowan"
+  },
+  {
+   "label": "Omikuji — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/O-mikuji"
+  }
+ ],
+ "sources": [
+  "s:wp-rowan",
+  "s:wp-o-mikuji",
+  "s:wp-haitian-vodou",
+  "s:wp-west-african-vod-n",
+  "s:wp-djed",
+  "s:wp-coral"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-rowan"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-djed",
+    "note": "the closing paragraph, which sorts the three cases into argued transmission, documented descent and no claim, is this project's reasoning and is marked in the text"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Sorbus aucuparia berries.jpg",
+  "File:Omikuji tied at shrine.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-17"
+}

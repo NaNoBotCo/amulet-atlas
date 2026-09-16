@@ -1,0 +1,121 @@
+{
+ "schema": 1,
+ "id": "wallis-budge",
+ "type": "person",
+ "names": {
+  "name": "E. A. Wallis Budge",
+  "aliases": [
+   "Sir Ernest Alfred Thompson Wallis Budge",
+   "Ernest Alfred Wallis Budge",
+   "Wallis Budge"
+  ],
+  "sort": "Budge, E. A. Wallis"
+ },
+ "region": [
+  "ancient-egypt",
+  "mesopotamia",
+  "nubia-sudan",
+  "britain-ireland",
+  "east-africa"
+ ],
+ "countries": [
+  "EG",
+  "IQ",
+  "SD",
+  "GB",
+  "ET"
+ ],
+ "facets": {
+  "role": [
+   "curator",
+   "scholar",
+   "collector",
+   "writer"
+  ]
+ },
+ "text": {
+  "what": "English Egyptologist and Orientalist, 1857–1934, Keeper of Egyptian and Assyrian Antiquities at the British Museum from 1894 to 1924. He bought for that museum across Egypt, Sudan and Iraq, wrote over a hundred books, and in 1930 published a 543-page compendium of amulets and talismans that is still the volume a second-hand shop is likeliest to have. Egyptologists who use it warn about it in the same breath.",
+  "story": "Budge left school at twelve and clerked at W. H. Smith for eight years, studying Assyrian in his lunch hours at St Paul's until the cathedral organist raised money to send him to Cambridge. He entered the British Museum in 1883 and stayed forty-one years.\n\nBetween 1886 and 1892 he made three missions to Mesopotamia and then went to Egypt almost yearly and to Sudan five times. He came back with cuneiform tablets, Syriac, Coptic and Greek manuscripts and hieroglyphic papyri — the Papyrus of Ani among them, and the Amarna letters. On the 1888 Baghdad trip his baggage was searched under new Ottoman customs rules; he got the Tell Amarna tablets out by bribery, and said so himself in his 1920 memoir By Nile and Tigris. Museum officers of the period, Budge included, moved antiquities in diplomatic pouches and paid customs officials to look away. The archaeologist Brian M. Fagan has called him \"one of the major illegal looters of antiquities\".\n\nThe amulet book is \"Amulets and superstitions\", Oxford University Press, 1930: xxxix plus 543 pages, twenty-two plates, and a subtitle that lists what it covers — Egyptian, Sumerian, Assyrian, Hebrew, Christian, Gnostic and Muslim amulets and talismans, the evil eye, the pentagon, the swastika, the cross, the properties of stones, rings, divination, numbers, the Kabbalah, ancient astrology. It is the widest single sweep anybody attempted, and it was assembled by one man who had handled most of the objects.\n\nThe warnings are on the record and they are specific. The Egyptologist James Peter Allen writes that Budge's books \"were not too reliable when they first appeared and are now woefully outdated\". Wikipedia's own summary says the writing style of his era — a lack of clear distinction between opinion and incontrovertible fact — is no longer acceptable in scholarly works. Adam H. Becker's article \"Doctoring the Past in the Present: E. A. Wallis Budge, the Discourse on Magic, and the Colonization of Iraq\", in History of Religions 44:3 (2005), puts the vocabulary Budge used for other people's religions next to the politics of the occupation he wrote it under.\n\nOn one point his colleagues were wrong and he was not: Budge argued that Egyptian religion had grown out of the religions of northeastern and central Africa. That was regarded as impossible at the time, when nearly everyone followed Flinders Petrie's invading \"Dynastic Race\".",
+  "today": "Because Budge's books entered the public domain they have stayed continuously in print and are scanned in full online, so his translations and his framing reach far more readers than any corrected edition does. *Inference —* a search for almost any amulet term still lands on him first, which is why this atlas cites him for what he saw and not for what he concluded."
+ },
+ "dating": {
+  "period": "Victorian and early twentieth century",
+  "from_year": 1857,
+  "to_year": 1934,
+  "living": false,
+  "label": "27 July 1857 – 23 November 1934",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-e-a-wallis-budge"
+ },
+ "kin": [
+  {
+   "to": "british-museum",
+   "as": "the collection he bought for and then kept, and the one his acquisition methods are now argued about inside",
+   "rel": "org"
+  },
+  {
+   "to": "budge-plates",
+   "as": "the plates from his 1930 compendium, the widest single spread of amulet types anybody printed",
+   "rel": "art"
+  },
+  {
+   "to": "flinders-petrie",
+   "as": "his opponent: Petrie put Egyptian civilisation's origin in an invading race, Budge put it in Africa",
+   "rel": "contrast"
+  },
+  {
+   "to": "incantation-bowl",
+   "as": "the Mesopotamian object his Iraq missions brought to London in quantity",
+   "rel": "kin"
+  },
+  {
+   "to": "magical-gem",
+   "as": "the Gnostic and Graeco-Egyptian engraved stones his 1930 compendium gathered and illustrated alongside everything else",
+   "rel": "kin"
+  },
+  {
+   "to": "amulet-word",
+   "as": "the word whose history his first chapter set out for a general readership, and largely fixed there",
+   "rel": "term"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read on acquisition; his own account of getting tablets out of Baghdad is one of its documents",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "E. A. Wallis Budge — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/E._A._Wallis_Budge"
+  },
+  {
+   "label": "Amulets and superstitions (1930) at the Internet Archive",
+   "url": "https://archive.org/details/b29978154"
+  }
+ ],
+ "sources": [
+  "s:wp-e-a-wallis-budge",
+  "s:web-budge-amulets-1930",
+  "s:wp-british-museum"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-e-a-wallis-budge"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "inference",
+    "note": "the reach of the public-domain reprints is reasoned from their availability, not measured"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:E. A. Wallis Budge.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

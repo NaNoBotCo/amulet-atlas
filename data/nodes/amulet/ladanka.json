@@ -1,0 +1,194 @@
+{
+ "schema": 1,
+ "id": "ladanka",
+ "type": "amulet",
+ "names": {
+  "name": "Ladanka",
+  "native": "ладанка",
+  "script": "Cyrillic",
+  "lang": "ru",
+  "said": "LA-dan-ka",
+  "aliases": [
+   "ладонка",
+   "ковчежец",
+   "incense pouch",
+   "Orthodox reliquary pendant"
+  ]
+ },
+ "etymology": {
+  "root": "Russian ладан, 'incense, frankincense', plus a diminutive — the little thing you keep incense in",
+  "note": "The same word once named a small brass censer, a sphere with a cross on top, set before the icons in the red corner of a house. The neck-worn pouch is the sense that survived.",
+  "tier": "cited",
+  "source": "s:wp-ru-ladanka"
+ },
+ "region": [
+  "baltic-slavic",
+  "diaspora"
+ ],
+ "countries": [
+  "RU"
+ ],
+ "facets": {
+  "era": "early-modern",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A small pouch or a small hinged case hung at the neck on the same cord or chain as a baptismal cross. Cloth for the old kind, stamped or cast metal for the kind sold now, often with an icon on the lid. Inside goes incense, or a fragment of a relic, or a written prayer — commonly the Lord's Prayer, Psalm 90 or the Jesus Prayer. It is worn next to the skin and it is not opened for show.",
+  "story": "The Orthodox reference portal Azbyka very defines it in one line: a ковчежец со священными реликвиями в виде иконы, носимый на шее — a small reliquary with sacred relics, in the form of an icon, worn at the neck. The Russian encyclopedic entry adds the older layer: a fabric pouch, worn on the body, holding ладан, incense, and sometimes a bone from a saint's remains. Ivan Shmelev, in Bogomolye, gives it in a child's voice: \"У бабушки ладанка из Иерусалима с косточкой... от мощей...\" — grandmother has a ladanka from Jerusalem with a little bone in it, from the relics.\n\nThe positional rule is the first thing every Orthodox source states, and it is the whole argument in miniature. Её принято носить вместе с ним, но не вместо него: it is worn together with the cross, never instead of it. The cross is the baptismal object and cannot be displaced by this one.\n\nThe second thing every Orthodox source states is what a ladanka is not. Azbyka very is categorical: никаких оберегов и амулетов православный христианин носить на себе не должен — an Orthodox Christian should wear no protective charms and no amulets at all. The same entry says that wearing a ladanka with a prayer inside carries no sacred meaning without knowledge of the prayer and a personal appeal to God, and that treating an object with Christian symbolism as an amulet does the soul no good. The Russian encyclopedic account, describing what people do rather than what the Church teaches, records the object as functioning as both талисман and амулет, and notes that the pouches have carried protective signs.\n\n*Inference —* set those two paragraphs side by side and this is the Orthodox twin of the Catholic argument on this shelf. In Rome the Church built a legal category — the sacramental — that lets a blessed object be devotional without being magical, and then spent centuries policing the edge of it. Here there is no such category to stand on; the instruction is simply not to. The object is still sold, still filled, still worn under the shirt, and the instruction is still printed.\n\nThe trade has moved with the money. Monastery and church shops sell ladanki in sterling silver and gold with enamelled icons on the lid; one Moscow Orthodox shop's catalogue page, read on 17 September 2026, listed twenty-five of them priced between 5,377 and 50,037 roubles. The cloth pouch with incense in it costs a fraction of that and is the older thing.",
+  "how": "Bought at a church or monastery shop, or given. Filled with incense, a relic fragment, or a written prayer, and hung on the cross cord at the neck. The Orthodox sources this record cites do not describe a consecration rite for the pouch itself and this project has not gone looking for one; what they describe instead is where the relic or the incense came from, which is what carries the weight. Nothing is said about retiring one.",
+  "today": "Sold in Russian church and monastery shops in 2026 in every price band, from a fabric pouch to a gold locket. The Orthodox reference portal that explains what it is spends most of the entry explaining what it must not be taken for, which is a fair description of the object's position now."
+ },
+ "dating": {
+  "period": "not dated by the sources read here",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "undated here; worn now",
+  "method": "undated",
+  "tier": "cited",
+  "source": "s:wp-ru-ladanka",
+  "note": "Neither the Russian encyclopedic entry nor the Orthodox reference portal dates the practice, so this record dates none of it. The literary attestation quoted, Shmelev's Bogomolye, describes pre-revolutionary Russia; that is the earliest anchor this project read, and it is a novel, not a dated first attestation."
+ },
+ "object": {
+  "form": "packet",
+  "materials": [
+   "cloth",
+   "thread",
+   "silver",
+   "gold",
+   "paper"
+  ],
+  "worn": [
+   "neck",
+   "chest"
+  ],
+  "made_by": "church and monastery workshops, and jewellers selling to them; the contents come from a shrine, a pilgrimage or a priest",
+  "inscription": "a written prayer, where one is enclosed: commonly the Lord's Prayer, Psalm 90 or the Jesus Prayer",
+  "script": "Cyrillic",
+  "colour": [
+   "silver",
+   "gold"
+  ],
+  "single_use": false,
+  "source": "s:web-azbyka-ladanka",
+  "note": "Incense — ладан, the thing the object is named after — has no key in this project's materials list. The metal forms are the modern retail shape; the older one is cloth. No published measurement was read, so no length_mm is entered."
+ },
+ "against": [
+  {
+   "harm": "bad-luck",
+   "who": "wearers, in the practice the Russian encyclopedic entry describes and the Orthodox reference portal warns against",
+   "source": "s:wp-ru-ladanka",
+   "tier": "cited",
+   "note": "the entry records the ladanka being treated as талисман and амулет, protective in kind. Azbyka very answers that an Orthodox Christian should wear no charms or amulets whatever, and both positions are printed here."
+  }
+ ],
+ "kin": [
+  {
+   "to": "agnus-dei",
+   "as": "the Roman object closest to it — a blessed thing worn at the neck, with the same question attached about what it is",
+   "rel": "parallel"
+  },
+  {
+   "to": "st-christopher-medal",
+   "as": "what a Catholic neck carries where this hangs beside an Orthodox cross",
+   "rel": "parallel"
+  },
+  {
+   "to": "hirz-pouch",
+   "as": "the Islamic sewn pouch doing the same work — a written prayer, carried on the body, not to be opened",
+   "rel": "parallel"
+  },
+  {
+   "to": "gau-box",
+   "as": "the Tibetan version — a metal case at the neck with a consecrated thing inside, and a hinged lid",
+   "rel": "parallel"
+  },
+  {
+   "to": "mezuzah",
+   "as": "the other container this atlas holds whose contents are a named text and whose rules are about placement",
+   "rel": "parallel"
+  },
+  {
+   "to": "cross",
+   "as": "the sign it is worn with and never instead of",
+   "rel": "motif"
+  },
+  {
+   "to": "wearing-hidden",
+   "as": "the practice — under the shirt, on the cross cord, not opened",
+   "rel": "practice"
+  },
+  {
+   "to": "tama-votive",
+   "as": "the other Orthodox object in this atlas, and the one that goes on the icon rather than on the body",
+   "rel": "kin"
+  },
+  {
+   "to": "amulet-or-talisman",
+   "as": "the long read where a church's own word for an object collides with the reader's",
+   "rel": "story"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "gau-box",
+   "tell": "a gau is a Tibetan Buddhist box, usually with a window showing the image inside; a ladanka carries an Orthodox icon on a closed lid and hangs on the same cord as a baptismal cross"
+  }
+ ],
+ "links": [
+  {
+   "label": "Ладанка: что это такое и для чего нужна — Азбука веры",
+   "url": "https://azbyka.ru/ladanka"
+  },
+  {
+   "label": "Ладанка — Russian Wikipedia",
+   "url": "https://ru.wikipedia.org/wiki/Ладанка"
+  }
+ ],
+ "sources": [
+  "s:web-azbyka-ladanka",
+  "s:wp-ru-ladanka",
+  "s:web-vazhe-ladanki"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-azbyka-ladanka"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-azbyka-ladanka",
+    "note": "the Russian sources were read in translation; the Russian phrases are quoted as printed and the English is this project's rendering. The stretch marked *Inference —* is this project's own reasoning."
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:web-vazhe-ladanki",
+    "note": "the price band is one Moscow Orthodox shop's catalogue page read on 17 September 2026 — one shop, not a market, and dated in the prose for that reason"
+   },
+   "text.how": {
+    "tier": "tradition",
+    "note": "the sources describe wearing and contents, not a rite; this record says so rather than filling the gap from a neighbouring practice"
+   },
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-ru-ladanka",
+    "note": "no source read here dates the practice"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Ладанка.jpg",
+  "File:Orthodox reliquary pendant.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-17"
+}

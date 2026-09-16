@@ -1,0 +1,648 @@
+{
+ "schema": 1,
+ "id": "knot",
+ "type": "motif",
+ "names": {
+  "name": "The knot",
+  "aliases": [
+   "knot motif",
+   "tyet",
+   "knot of Isis",
+   "girdle of Isis",
+   "sacral knot",
+   "tied thread"
+  ]
+ },
+ "region": [
+  "ancient-egypt",
+  "greece-aegean",
+  "britain-ireland",
+  "balkans",
+  "levant",
+  "japan",
+  "arabia-gulf"
+ ],
+ "countries": [
+  "EG",
+  "GR",
+  "IE",
+  "BG",
+  "MK",
+  "RO",
+  "MD",
+  "IL",
+  "JP"
+ ],
+ "facets": {
+  "era": "ancient",
+  "family": "knot",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A tie, either made in cloth and thread or copied in stone and metal. Two kinds sit under one heading: the knot that is actually tied — a red string on a wrist, a thousand stitches in a soldier's belt, rushes woven on a feast day — and the knot that is depicted, cut in jasper or drawn as a hieroglyph, with nothing to untie.",
+  "story": "Egypt gives the depicted knot its clearest case. The tyet resembles a knot of cloth and may have started as a bandage to absorb menstrual blood. An early example comes from a First Dynasty tomb at Helwan, excavated by Zaki Saad in the 1940s — old enough to predate the first written references to Isis, whom it was later tied to. From the early New Kingdom, roughly 1550 BCE, tyet amulets went into the wrappings, usually on the upper torso, and from then to the end of dynastic Egypt few people were buried without one. Chapter 156 of the Book of the Dead calls for a tyet of red jasper at the mummy's neck and says the power of Isis will protect the body and drive away whoever would commit a crime against it. Green faience examples were made too, the colour standing for renewed life. The tyet can be compared with the Minoan sacral knot at Knossos — a knot with a projecting loop — and the comparison is offered as a resemblance, not a descent.\n\nThe tied knot is a different object with a different working part: somebody's hands did it, at a named time, and it can be undone. Bulgarian and Macedonian martenitsi are twisted red and white yarn, given never bought, worn from 1 March and taken off at the sight of a stork or a blossoming tree — sometimes tied then onto a fruit tree. Romanian mărțișor uses the same two threads and is described by observers as funia anului, the year's rope, winding summer into winter. Irish Brigid's crosses are woven from straw or rushes on 1 February and hung in the rafters. Japanese senninbari carry a thousand knots, each made by a different woman, for a soldier going to war.\n\nUndoing is part of the grammar. Islamic hadith describe a charm worked against Muhammad; in one variant he is cured only after the charm — a knot — is taken and taken apart. *Inference —* a knot is the one amulet form that carries its own cancellation in its shape, which is why so many traditions put a date on when it comes off."
+ },
+ "kin": [
+  {
+   "to": "tyet-knot",
+   "as": "the Egyptian amulet this sign is cut as, in red jasper at the mummy's neck",
+   "rel": "carried-by"
+  },
+  {
+   "to": "red-thread",
+   "as": "the knot reduced to one strand and one wrist",
+   "rel": "kin"
+  },
+  {
+   "to": "martenitsa",
+   "as": "twisted red and white yarn with a date to put it on and a bird that says take it off",
+   "rel": "carried-by"
+  },
+  {
+   "to": "brigids-cross",
+   "as": "rushes woven on 1 February and pinned in the rafters for the year",
+   "rel": "carried-by"
+  },
+  {
+   "to": "senninbari",
+   "as": "a thousand knots, one woman each, sewn into a belt for a soldier",
+   "rel": "carried-by"
+  },
+  {
+   "to": "knotting",
+   "as": "the practice — the hands, the count, the moment it is tied",
+   "rel": "practice"
+  },
+  {
+   "to": "thread",
+   "as": "what most of these are made of, and the reason so few old ones survive",
+   "rel": "material"
+  },
+  {
+   "to": "corn-dolly",
+   "as": "the other European straw-work, made from the last sheaf rather than for a saint's day",
+   "rel": "parallel"
+  },
+  {
+   "to": "swastika-sign",
+   "as": "one of the seven shapes the National Museum of Ireland sorts Brigid's crosses into is the bent-armed cross",
+   "rel": "kin"
+  }
+ ],
+ "dating": {
+  "period": "First Dynasty Egypt to the present",
+  "from_year": -3099,
+  "to_year": null,
+  "living": true,
+  "label": "c. 3100 BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-tyet",
+  "note": "Start from the First Dynasty tomb at Helwan excavated by Zaki Saad, using the conventional First Dynasty date; the article gives the dynasty, not a year. Tyet amulets in wrappings are separately dated to c. 1550 BCE onward."
+ },
+ "object": {
+  "form": "knot",
+  "materials": [
+   "thread",
+   "cloth",
+   "carnelian",
+   "faience",
+   "glass",
+   "wood"
+  ],
+  "worn": [
+   "neck",
+   "wrist",
+   "waist",
+   "grave",
+   "roof",
+   "sewn-in"
+  ],
+  "inscription": "Book of the Dead chapter 156 is recited over the Egyptian version",
+  "colour": [
+   "red",
+   "green",
+   "white"
+  ],
+  "single_use": true,
+  "source": "s:wp-tyet",
+  "note": "single_use is true of the tied kinds — martenitsa and senninbari come off or wear out; the carved tyet does not."
+ },
+ "against": [
+  {
+   "harm": "the-dead",
+   "who": "Book of the Dead chapter 156, which calls for a red jasper tyet at the mummy's neck",
+   "quote": "the power of Isis will be the protection of [the mummy's] body",
+   "source": "s:wp-tyet",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "Bulgarian and Macedonian practice: the red and white threads are described as a wish for good health",
+   "source": "s:wp-martenitsa",
+   "tier": "cited"
+  },
+  {
+   "harm": "war",
+   "who": "Japanese women who stitched senninbari for departing soldiers; the commonest slogan sewn in is bu-un chō-kyū, eternal good luck in war",
+   "source": "s:wp-senninbari",
+   "tier": "cited"
+  },
+  {
+   "harm": "house",
+   "who": "Irish practice — a Brigid's cross hung from the rafters for the saint's blessing and protection over the year",
+   "source": "s:wp-brigid-s-cross",
+   "tier": "cited"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "hadith reporting a charm worked against Muhammad, in one version undone only when the knot was taken apart",
+   "source": "s:wp-islam-and-magic",
+   "tier": "cited"
+  }
+ ],
+ "links": [
+  {
+   "label": "Tyet — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tyet"
+  }
+ ],
+ "sources": [
+  "s:wp-tyet",
+  "s:wp-martenitsa",
+  "s:wp-m-r-i-or",
+  "s:wp-brigid-s-cross",
+  "s:wp-senninbari",
+  "s:wp-red-string-kabbalah",
+  "s:wp-islam-and-magic",
+  "s:wp-corn-dolly"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-tyet"
+  },
+  "fields": {
+   "dating": {
+    "tier": "inference",
+    "note": "the First Dynasty is given in the source; converting it to -3099 is this project's arithmetic and is approximate"
+   },
+   "object": {
+    "tier": "cited",
+    "source": "s:wp-tyet",
+    "note": "materials and positions pooled across the five traditions named in the story; the note says which half single_use applies to"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Tyet amulet.jpg",
+  "File:Martenitsa Pizho i Penda.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A tie, either made in cloth and thread or copied in stone and metal.",
+ "region_terms": [
+  {
+   "key": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Nile valley and delta, Predynastic through Roman Egypt"
+  },
+  {
+   "key": "greece-aegean",
+   "name": "Greece and the Aegean",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "balkans",
+   "name": "The Balkans",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "levant",
+   "name": "The Levant",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "japan",
+   "name": "Japan",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "arabia-gulf",
+   "name": "Arabia and the Gulf",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "tyet-knot",
+   "type": "amulet",
+   "name": "Tyet",
+   "as": "the Egyptian amulet this sign is cut as, in red jasper at the mummy's neck",
+   "rel": "carried-by"
+  },
+  {
+   "to": "red-thread",
+   "type": "motif",
+   "name": "The red thread",
+   "as": "the knot reduced to one strand and one wrist",
+   "rel": "kin"
+  },
+  {
+   "to": "martenitsa",
+   "type": "amulet",
+   "name": "Martenitsa",
+   "as": "twisted red and white yarn with a date to put it on and a bird that says take it off",
+   "rel": "carried-by"
+  },
+  {
+   "to": "brigids-cross",
+   "type": "amulet",
+   "name": "Brigid's cross",
+   "as": "rushes woven on 1 February and pinned in the rafters for the year",
+   "rel": "carried-by"
+  },
+  {
+   "to": "senninbari",
+   "type": "amulet",
+   "name": "Senninbari",
+   "as": "a thousand knots, one woman each, sewn into a belt for a soldier",
+   "rel": "carried-by"
+  },
+  {
+   "to": "knotting",
+   "type": "practice",
+   "name": "Knotting",
+   "as": "the practice — the hands, the count, the moment it is tied",
+   "rel": "practice"
+  },
+  {
+   "to": "thread",
+   "type": "material",
+   "name": "Thread and cord",
+   "as": "what most of these are made of, and the reason so few old ones survive",
+   "rel": "material"
+  },
+  {
+   "to": "corn-dolly",
+   "type": "amulet",
+   "name": "Corn dolly",
+   "as": "the other European straw-work, made from the last sheaf rather than for a saint's day",
+   "rel": "parallel"
+  },
+  {
+   "to": "swastika-sign",
+   "type": "motif",
+   "name": "The swastika",
+   "as": "one of the seven shapes the National Museum of Ireland sorts Brigid's crosses into is the bent-armed cross",
+   "rel": "kin"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-tyet",
+   "kind": "encyclopedia",
+   "title": "Tyet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tyet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-martenitsa",
+   "kind": "encyclopedia",
+   "title": "Martenitsa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Martenitsa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-m-r-i-or",
+   "kind": "encyclopedia",
+   "title": "Mărțișor",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/M%C4%83r%C8%9Bi%C8%99or",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-brigid-s-cross",
+   "kind": "encyclopedia",
+   "title": "Brigid's cross",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Brigid%27s_cross",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-senninbari",
+   "kind": "encyclopedia",
+   "title": "Senninbari",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Senninbari",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-red-string-kabbalah",
+   "kind": "encyclopedia",
+   "title": "Red string (Kabbalah)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Red_string_(Kabbalah)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-islam-and-magic",
+   "kind": "encyclopedia",
+   "title": "Islam and magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Islam_and_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-corn-dolly",
+   "kind": "encyclopedia",
+   "title": "Corn dolly",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Corn_dolly",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-tyet"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-tyet"
+  },
+  "dating": {
+   "tier": "inference",
+   "note": "the First Dynasty is given in the source; converting it to -3099 is this project's arithmetic and is approximate"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-tyet",
+   "note": "materials and positions pooled across the five traditions named in the story; the note says which half single_use applies to"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "the-dead",
+   "label": "Danger to the dead",
+   "gloss": "charms put in a grave for the person in it",
+   "who": "Book of the Dead chapter 156, which calls for a red jasper tyet at the mummy's neck",
+   "quote": "the power of Isis will be the protection of [the mummy's] body",
+   "source": "s:wp-tyet",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "Bulgarian and Macedonian practice: the red and white threads are described as a wish for good health",
+   "quote": "",
+   "source": "s:wp-martenitsa",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "war",
+   "label": "War",
+   "who": "Japanese women who stitched senninbari for departing soldiers; the commonest slogan sewn in is bu-un chō-kyū, eternal good luck in war",
+   "quote": "",
+   "source": "s:wp-senninbari",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "house",
+   "label": "Harm to a house or a field",
+   "who": "Irish practice — a Brigid's cross hung from the rafters for the saint's blessing and protection over the year",
+   "quote": "",
+   "source": "s:wp-brigid-s-cross",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "witchcraft",
+   "label": "Another person's sorcery",
+   "who": "hadith reporting a charm worked against Muhammad, in one version undone only when the knot was taken apart",
+   "quote": "",
+   "source": "s:wp-islam-and-magic",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "thread",
+   "label": "Thread and cord",
+   "kind": "textile",
+   "note": "red thread runs from the Mediterranean to Mongolia"
+  },
+  {
+   "key": "cloth",
+   "label": "Cloth",
+   "kind": "textile"
+  },
+  {
+   "key": "carnelian",
+   "label": "Carnelian",
+   "kind": "stone",
+   "note": "red; Egypt's colour for blood and life"
+  },
+  {
+   "key": "faience",
+   "label": "Faience",
+   "kind": "fired",
+   "note": "glazed quartz paste; Egypt's amulet material at scale"
+  },
+  {
+   "key": "glass",
+   "label": "Glass",
+   "kind": "fired"
+  },
+  {
+   "key": "wood",
+   "label": "Wood",
+   "kind": "plant"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "wrist",
+   "label": "On the wrist",
+   "group": "body"
+  },
+  {
+   "key": "waist",
+   "label": "At the waist",
+   "group": "body"
+  },
+  {
+   "key": "grave",
+   "label": "In the grave",
+   "group": "placed",
+   "note": "most surviving ancient amulets are here because somebody was buried in them"
+  },
+  {
+   "key": "roof",
+   "label": "On the roof",
+   "group": "placed"
+  },
+  {
+   "key": "sewn-in",
+   "label": "Sewn into clothing",
+   "group": "carried"
+  }
+ ],
+ "form_fact": {
+  "key": "knot",
+  "label": "Knot"
+ },
+ "holding_facts": [],
+ "span": "3100 BCE to now",
+ "country_names": [
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "IE",
+   "name": "Ireland"
+  },
+  {
+   "iso": "BG",
+   "name": "Bulgaria"
+  },
+  {
+   "iso": "MK",
+   "name": "North Macedonia"
+  },
+  {
+   "iso": "RO",
+   "name": "Romania"
+  },
+  {
+   "iso": "MD",
+   "name": "Moldova"
+  },
+  {
+   "iso": "IL",
+   "name": "Israel"
+  },
+  {
+   "iso": "JP",
+   "name": "Japan"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "ankh-amulet",
+   "type": "amulet",
+   "name": "Ankh amulet",
+   "as": "the family most Egyptologists put its origin in",
+   "rel": "motif"
+  },
+  {
+   "from": "dreamcatcher",
+   "type": "amulet",
+   "name": "Dreamcatcher",
+   "as": "the sign: a net, which holds what touches it",
+   "rel": "motif"
+  },
+  {
+   "from": "tyet-knot",
+   "type": "amulet",
+   "name": "Tyet",
+   "as": "the family it belongs to — a tied thing worn because it is tied",
+   "rel": "motif"
+  },
+  {
+   "from": "red-thread",
+   "type": "motif",
+   "name": "The red thread",
+   "as": "the wider family: a charm whose working part is that somebody tied it",
+   "rel": "whole"
+  },
+  {
+   "from": "spiral",
+   "type": "motif",
+   "name": "The spiral",
+   "as": "the family this sign is filed under: a line that turns back on itself and does not let go",
+   "rel": "kin"
+  },
+  {
+   "from": "thread",
+   "type": "material",
+   "name": "Thread and cord",
+   "as": "what thread turns into when the tying itself is the charm",
+   "rel": "motif"
+  },
+  {
+   "from": "knotting",
+   "type": "practice",
+   "name": "Knotting",
+   "as": "the sign this practice makes — and the rare case where making the sign and making the object are the same act",
+   "rel": "motif"
+  }
+ ]
+}

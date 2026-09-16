@@ -1,0 +1,103 @@
+{
+ "schema": 1,
+ "id": "nkisi",
+ "type": "amulet",
+ "names": {
+  "name": "Nkisi",
+  "native": "nkisi",
+  "script": "Latin",
+  "lang": "kg",
+  "said": "n-KEE-see; plural minkisi, and also mikisi, zinkisi, nkisi",
+  "aliases": ["nkishi", "minkisi", "nkisi nkondi", "nkondi", "kozo"]
+ },
+ "etymology": {
+  "root": "From the Proto-Njila root *-kitį, an ancient subdivision of the Bantu language family, meaning a spiritual entity or the material object it inhabits.",
+  "first_attested": "early seventeenth century in Kikongo dialects, transliterated into Dutch as mokissie — the mu- prefix of the noun class was still being pronounced",
+  "note": "Dutch visitors to Loango, in what is now Cabinda, used it in the 1668 book Description of Africa for both the material item and the spirit inside it. When the Kingdom of Kongo converted in the sixteenth century, the Kikongo Catechism of 1624 used ukisi — a substance having the characteristics of nkisi — to translate 'holy'.",
+  "tier": "cited",
+  "source": "s:wp-nkisi"
+ },
+ "region": ["central-africa", "diaspora"],
+ "countries": ["CD", "CG", "AO"],
+ "facets": {"era": "early-modern", "status": "contested", "portable": "placed", "restricted": "limited", "hemisphere": ["S", "E"]},
+ "text": {
+  "what": "A container with a spirit in it. The container can be a ceramic vessel, a gourd, an animal horn, a shell, a cloth bundle — anything that will hold spiritually charged substances — and it can also be a carved wooden figure, human or animal, with a cavity cut in the belly, the head, or a pouch at the neck. The cavity is closed with a mirror or a disc of reflective glass fixed in resin, and the eyes are often mirrors too. On the aggressive class, nkondi, the surface bristles with nails and blades hammered in. The word names the spirit and the object at once.",
+  "story": "The first thing to get right is the word for the person, not the object. A nganga — plural banganga — is a healer, diviner and mediator who defends the living against harmful workings and supplies remedies against sicknesses caused either by them or by the demands of the bakisi, the spirits who are emissaries from the land of the dead. Banganga harness those powers by making minkisi. Nothing here happens without one.\n\nThe substances that go inside are bilongo, singular nlongo, a word usually translated 'medicine'. Wyatt MacGaffey's objection to that translation is the useful one: bilongo are not applied to the sick or swallowed, so 'therapeutic substances' is closer. They are chosen by metaphor. Bird claws go in to catch a wrongdoer. Minerals come from places associated with the dead — earth from graves, earth from riverbeds. White clay matters because white carries dead skin, moral rightness and spiritual positivity against the black of negativity, and red ochre where the powers of the dead are being mediated. Some minkisi have been described as portable graves, and many contain earth or relics from the grave of a powerful person as a prime ingredient.\n\nThe nails are not decoration. Nkondi comes from -konda, 'to hunt'; a nkondi hunts. The phrase used for hammering a nail in is koma nloka, to attach or hammer in a curse, from two ancient Bantu roots — one whose field includes hammering, one that covers witchcraft and cursing. According to Kongo testimony of the early twentieth century, people drive the nails in as a petition: for help, for healing, or as a witness to a contract or a pledge. Each nail stands for a vow, a signed treaty, an effort to abolish an evil. The purpose is to wake the nkisi, and sometimes to enrage it, for the task in hand. An oath-taker may declare himself open to the sickness a particular nkondi causes should he break the oath, and a person who falls ill with that sickness consults the nganga who mediates with that spirit to find out how to be cured. Kindoki, from the same root, covers any action that enlists spirits to harm others: used privately and selfishly it is condemned as witchcraft, used publicly by a village, a tribe or political leaders, or defensively by innocent people, it is not.\n\nThe nailed figures are narrower in time and place than the museum trays suggest. Minkisi nkondi have probably been made since at least the sixteenth century, but the nailed ones were probably made mainly in the northern part of the Kongo cultural zone in the nineteenth and early twentieth centuries. Nailed minkisi are not described by missionaries or anyone else writing in the sixteenth to nineteenth centuries. MacGaffey, reading the late seventeenth-century Capuchin missionary Luca da Caltanisetta, notes that banganga then sometimes banged minkisi together, and suggests nails — which he argues were first being made around that time — eventually replaced the metaphor. Other scholars think Portuguese missionaries' images of Christ nailed to the cross and of Saint Sebastian influenced the practice; MacGaffey argues against that, on the grounds that nailing is tied up with too many other Kongo concepts to be a misreading of a missionary's picture. The earliest firmly dated nailed nkondi is one Commodore A. P. Eardley Wilmot acquired in 1864 while suppressing Solongo piracy at the mouth of the Congo River; another, named Mabiala mu ndemba and described as a thief-finder, is illustrated in the notes of the German Loango expedition of 1873–76.\n\nHow they got to Europe is part of the object. European collectors wanted the nailed ones as soon as the German Loango expedition published them. Robert Visser, a German trader and diplomat, collected a great many for German museums, especially Berlin and Stuttgart. In the nkondi entry's own words, \"Many were purchased, others confiscated or removed by colonial authorities, and often found their way to museums, but many also remain in private hands.\" In the art world they arrived as a stimulus: the source says Bantu themes \"previously considered primitive or gruesome were now viewed as aesthetically interesting\" — a sentence about European taste, not about the objects. MacGaffey's counter is that the banganga's intentions were practical, the characteristics of the object dictated by the work it had to do, and the nails never decorative.\n\nThe argument about where they should be now is live and has names on it. The 2018 Report on the Restitution of African Cultural Heritage by Felwine Sarr and Bénédicte Savoy set out the case for return and moved the debate onto moral rather than only legal ground. In Belgium the Royal Museum for Central Africa holds more than 180,000 cultural and natural history objects, mainly from the former Belgian Congo, and has run its first major renovation in more than a century as a decolonisation programme. The Pitt Rivers Museum has built its own programme on four tenets — provenance, transparency, repatriation and redress — and in 2020 joined Savoy and other art historians at Technische Universität Berlin in a research project called Restitution of Knowledge. The British Museum has consistently refused to return objects, citing the British Museum Act 1963.\n\n*Inference —* the European label for these objects entered this atlas as a term, not as a description. This record files the word under fetish-word for that reason, and writes about it there.",
+  "how": "The nganga gathers the bilongo and assembles them, most often into a carved figure with a cavity cut for them, and then either becomes possessed by the spirit or leaves the finished object in a graveyard or another place spirits frequent. Once it is charged it can be handed to the client. Nkondi are often composed at the edge of the village, on the reasoning that a village, like a body, must have its entrances guarded; the nganga works isolated in a hidden camp and returns covered in paint and behaving strangely, to show he has come back from the land of the living's far side. Personal minkisi are kept in a private house. Community ones are put where the village can see them, though often inside their own enclosure by day.",
+  "today": "Contested, and split across three places: Kongo communities, European and American museum stores, and private hands. Artists have taken the form up — Renee Stout, whose exhibition Astonishment and Power at the Smithsonian paired her own versions with commentary by MacGaffey; Tania Bruguera, who in 1998–99 performed Destierro in a suit made to resemble a nailed nkondi and then went looking for people who had broken promises; Kara Walker, Dread Scott, Karen Seneferu, Wesley Clark, Stephanie Dinkins, Michael MacGarry, Andrew Lamprecht, Justin Par. The Republic of the Congo painter Trigo Piula made a New Fetish series and said of it: \"is a way of engaging with my community and a way of denouncing things that I believe are impacting us, like television for example\". As of 2026 this project has read no count of how many minkisi sit in European collections."
+ },
+ "restricted": {
+  "note": "This record prints no recipe and no invocation. The composition of the bilongo and the words that awaken an nkisi belong to the nganga who assembles it; the nganga does that work isolated, in a hidden camp away from the village, and learns the object's proper use and its songs before bringing it back. What is printed here is the class of substances, the reasoning behind choosing them, and what Kongo testimony says the nails are for.",
+  "who_says": "the practice as described in the sources, and in the Kongo testimony of the early twentieth century that Wyatt MacGaffey edited and translated",
+  "source": "s:wp-nkondi"
+ },
+ "dating": {
+  "period": "early seventeenth century to the present; nailed figures mainly nineteenth and early twentieth century",
+  "from_year": 1600,
+  "to_year": null,
+  "living": true,
+  "label": "attested from the early seventeenth century; nailed nkondi mainly 1800s–1900s",
+  "method": "textual",
+  "circa": true,
+  "tier": "inference",
+  "source": "s:wp-nkisi",
+  "note": "from_year is the earliest attestation the source dates — the early seventeenth-century Kikongo transliteration mokissie, with the 1624 catechism and the 1668 Description of Africa behind it. The source also says minkisi nkondi have probably been made since at least the sixteenth century. living is entered true because no source read here dates an end to the practice; that is this project's reading, not a statement anybody made, and is why the record is flagged for verification."
+ },
+ "object": {
+  "form": "figurine",
+  "materials": ["wood", "iron", "earth", "herb", "glass", "cloth"],
+  "made_by": "a nganga, plural banganga — a healer, diviner and mediator; nobody else assembles one",
+  "inscription": "none; the nails, blades and mirrors are the record, each nail standing for a vow, a treaty or an effort to abolish an evil",
+  "colour": ["white", "red", "black"],
+  "single_use": false,
+  "source": "s:wp-nkisi",
+  "note": "The figure is one form among many: ceramic vessels, gourds, horns, shells and bundles are all minkisi, and so, the source says, can a grave be. Gunpowder is named among the substances in tubes on nkondi. No measurement is entered — the source says human figures ranged from small to life-size without publishing a number."
+ },
+ "against": [
+  {"harm": "witchcraft", "who": "Kongo practice as summarised in the source: banganga defend the living against harmful workings and against the sicknesses that result from them", "source": "s:wp-nkisi", "tier": "cited"},
+  {"harm": "theft", "who": "the nkondi's own name, from -konda, 'to hunt' — and the German Loango expedition's Mabiala mu ndemba, described as a thief-finder", "source": "s:wp-nkondi", "tier": "cited"},
+  {"harm": "illness", "who": "Kongo practice — many minkisi are used for healing, and a nkondi can cause or cure a sickness tied to it", "source": "s:wp-nkisi", "tier": "cited"},
+  {"harm": "curse", "who": "oath-takers, who declare themselves open to a nkondi's sickness should they break the oath", "source": "s:wp-nkondi", "tier": "cited"},
+  {"harm": "lawsuit", "who": "villages, which used publicly held nkondi to affirm oaths, seal treaties and locate and punish wrongdoers", "source": "s:wp-nkondi", "tier": "cited"},
+  {"harm": "poverty", "who": "the source, which lists success in hunting or in trade among the purposes minkisi serve", "source": "s:wp-nkisi", "tier": "cited"}
+ ],
+ "holdings": [
+  {"museum": "pitt-rivers", "what": "a nkondi, published by the museum with text", "source": "s:wp-nkondi"},
+  {"museum": "met", "what": "nkondi material, including the figure Kara Walker used as a central motif in her 2006 show", "source": "s:wp-nkondi"},
+  {"museum": "quai-branly", "what": "Central African collections; the museum holds 70,000 of the 90,000 sub-Saharan objects in France, and is the institution the 2018 Sarr and Savoy report put at the centre of the restitution debate", "source": "s:wp-mus-e-du-quai-branly-jacques-chirac"}
+ ],
+ "kin": [
+  {"to": "bakongo-nkisi-craft", "as": "the tradition that makes it, and the banganga without whom there is no nkisi at all", "rel": "tradition"},
+  {"to": "fetish-word", "as": "the European label applied to this object from outside, and the word's own history — which is about Portuguese traders on the West African coast, not about Kongo practice", "rel": "term"},
+  {"to": "mojo-word", "as": "the Kikongo word mooyo, the cavity of an nkisi where the charged substances sit, carried to the American South as the name of a bag", "rel": "term"},
+  {"to": "gris-gris", "as": "the other African bag that reached Louisiana, by a different route — Mande Muslim writing rather than Kongo bilongo", "rel": "contrast"},
+  {"to": "tooth-and-claw", "as": "the sign inside it — bird claws go into the bilongo to catch a wrongdoer, chosen by metaphor rather than by pharmacy", "rel": "motif"},
+  {"to": "mirror-sign", "as": "the reflective disc over the belly cavity and in the eyes, which is how the nkisi is said to see into the spirit world", "rel": "motif"},
+  {"to": "iron", "as": "the material of the nails, and the reason the nailed figures are datable at all", "rel": "material"},
+  {"to": "feeding-the-charm", "as": "the practice of keeping a charged object working, which here means waking and enraging it for a task", "rel": "practice"},
+  {"to": "consecration", "as": "the step that turns an assembled container into an nkisi, done away from the village", "rel": "practice"},
+  {"to": "who-owns-a-charm", "as": "the long read this object is the centre of: purchased, confiscated or removed by colonial authorities, and argued over by name since 2018", "rel": "story"},
+  {"to": "pitt-rivers-museum", "as": "one of the museums holding examples, and one running a repatriation and redress programme over them", "rel": "org"},
+  {"to": "quai-branly", "as": "the Paris museum at the centre of the French restitution debate, holding 70,000 of France's 90,000 sub-Saharan objects", "rel": "org"}
+ ],
+ "confusable_with": [
+  {"id": "akuaba-figure", "tell": "an akua'ba is a smooth Akan figure with a flat disc head and no cavity; an nkisi is a Kongo container, often with nails, mirrors and a packed belly"}
+ ],
+ "links": [
+  {"label": "Nkisi — Wikipedia", "url": "https://en.wikipedia.org/wiki/Nkisi"},
+  {"label": "Nkondi — Wikipedia", "url": "https://en.wikipedia.org/wiki/Nkondi"}
+ ],
+ "sources": ["s:wp-nkisi", "s:wp-nkondi", "s:wp-fetishism", "s:wp-mojo-bag", "s:wp-repatriation-cultural-property", "s:wp-mus-e-du-quai-branly-jacques-chirac", "s:wp-pitt-rivers-museum", "s:wp-british-museum"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-nkisi"},
+  "fields": {
+   "dating": {"tier": "inference", "source": "s:wp-nkisi", "note": "living is this project's reading of silence in the sources, not a statement anybody made"},
+   "text.today": {"tier": "cited", "source": "s:wp-nkondi", "note": "the artists and the exhibitions are cited; the three-way split of where minkisi now are is this project's summary"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Nkisi nkondi Kongo.jpg", "File:Power Figure (Nkisi N'Kondi) MET.jpg"],
+ "confidence": "high",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

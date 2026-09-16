@@ -1,0 +1,645 @@
+{
+ "schema": 1,
+ "id": "folding",
+ "type": "practice",
+ "names": {
+  "name": "Folding",
+  "aliases": [
+   "rolling a charm",
+   "kenharai",
+   "sealing a packet"
+  ],
+  "said": "closing the writing so nobody reads it again"
+ },
+ "region": [
+  "world",
+  "levant",
+  "japan",
+  "mainland-sea",
+  "rome-italy",
+  "greece-aegean",
+  "south-asia",
+  "west-africa"
+ ],
+ "countries": [
+  "IL",
+  "PS",
+  "JP",
+  "TH",
+  "IT",
+  "GB",
+  "GR",
+  "IN",
+  "PK",
+  "SN"
+ ],
+ "facets": {
+  "stage": "make",
+  "era": "ancient",
+  "status": "living",
+  "restricted": "limited"
+ },
+ "text": {
+  "what": "The step after the writing: the sheet is rolled into a tube, folded into a packet, or creased into a shape, and then cased, sewn or sealed. From that point the text is inside and nobody reads it. A takrut is a rolled scroll in a tube; a mezuzah's parchment is rolled and dropped into its case; a Japanese kenharai is a sliver of wood inside a fold of paper cut so the packet resembles a sword blade.",
+  "story": "Two silver scrolls from a burial chamber at Ketef Hinnom, near Jerusalem, were found rolled in 1979 and took three years to unroll without disintegrating. They carry the Priestly Blessing and date to around 600 BCE. Whoever wore them never read them either: the text went in, the metal closed, and it stayed closed for twenty-six centuries.\n\nJapan folded the same logic into a distribution system. Wandering preachers attached to the shrines of Ise, the oshi, handed out purification wands called Oharai Taima to households across the country as proof that prayers had been said on their behalf. The wands travelled either in folded paper packets — kenharai, named because the packet's shape resembles a sword blade, ken — or in boxes, oharaibako. Distribution began in the Muromachi period and peaked in the Edo: a document of 1777 records that between eighty-nine and ninety per cent of households in the country owned an Ise talisman. Kenharai are still given out at Ise.\n\nThe Greco-Roman world folded to bind. Lead curse tablets were rolled, folded or pierced with nails before they went into the ground, and some love spells have been found folded around a piece of the target's hair, which the tablets' own texts treat as carrying that person's ousia, their central essence.\n\nThe seal creates a rule of its own. Omamori are customarily not opened, so that the protection is not lost — the carrier holds a brocade bag whose contents are the shrine's business, not theirs. *Inference —* that single custom is the clearest statement in this atlas of what a fold is for. Once the packet is closed, the object stops being a text a person can check and becomes a thing a person has to trust. Scribal traditions and sealed-packet traditions split exactly here: a mezuzah is opened and inspected by a scribe twice in seven years, and an omamori is never opened at all.",
+  "how": "Roll, or fold, then contain. Metal foil rolls around a former and slides into a tube or a case. Parchment rolls and goes into a mezuzah case or a tefillin box. Paper folds into a packet that is itself the shape of something — a blade, in the Ise case. Lead folds over on itself, sometimes around hair or a scrap of clothing, and can then be nailed through. Cloth versions are folded and sewn shut rather than cased, which crosses into sewing-in.",
+  "today": "Live and industrial. Shrines and temples across Japan issue folded and cased talismans year-round, with the Association of Shinto Shrines distributing Jingū Taima to affiliated shrines nationally. Thai takrut are still rolled and cased and worn at the neck or the waist. Where a sealed charm is sold to somebody outside the tradition, the seal is also what makes it unverifiable, which is the trade's oldest complaint about itself."
+ },
+ "dating": {
+  "period": "Iron Age to the present",
+  "from_year": -599,
+  "to_year": null,
+  "living": true,
+  "label": "c. 600 BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-ketef-hinnom",
+  "note": "Dated from the Ketef Hinnom scrolls, found rolled in a burial chamber and dated to c. 600 BCE. Folding a written charm is older than any date in these sources; this is the earliest one that carries a year."
+ },
+ "object": {
+  "form": "folded-paper",
+  "materials": [
+   "paper",
+   "parchment",
+   "silver",
+   "copper",
+   "lead",
+   "palm-leaf",
+   "cloth"
+  ],
+  "worn": [
+   "neck",
+   "waist",
+   "pocket",
+   "wall",
+   "grave"
+  ],
+  "made_by": "the person who wrote the text, or the shrine or workshop that issues it",
+  "single_use": false,
+  "source": "s:wp-ofuda",
+  "note": "No measurement is quoted: none was read in the cited accounts."
+ },
+ "restricted": {
+  "note": "What is inside a sealed packet is, in several of these traditions, not the carrier's information and not this project's. Omamori are customarily not opened; Taoist talismanic craft is transmitted in secret. This record describes the fold and what it is for, and does not describe the contents of packets a tradition keeps shut.",
+  "who_says": "the omamori custom as reported in the cited account; Taoist transmission as described by Ge Zhaoguang of Fudan University",
+  "source": "s:wp-omamori"
+ },
+ "against": [
+  {
+   "harm": "bad-luck",
+   "who": "carriers of omamori, who keep the packet shut so the protection is not lost",
+   "source": "s:wp-omamori",
+   "tier": "cited"
+  },
+  {
+   "harm": "curse",
+   "who": "the Greek and Roman writers of defixiones, who folded the lead before burying it",
+   "source": "s:wp-curse-tablet",
+   "tier": "cited"
+  },
+  {
+   "harm": "house",
+   "who": "Japanese households, who keep folded shrine talismans on a kamidana facing east, south or southeast",
+   "source": "s:wp-ofuda",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "takrut",
+   "as": "the rolled tube this practice is named for in Thailand — metal or palm leaf, cased, strung",
+   "rel": "practice"
+  },
+  {
+   "to": "ofuda",
+   "as": "the folded paper packet cut to the shape of a sword blade and handed out by the shrines of Ise",
+   "rel": "practice"
+  },
+  {
+   "to": "omamori",
+   "as": "the sealed brocade bag nobody opens, which is this practice's strictest rule",
+   "rel": "practice"
+  },
+  {
+   "to": "mezuzah",
+   "as": "parchment rolled into a case at the door — and unrolled again by a scribe twice in seven years",
+   "rel": "contrast"
+  },
+  {
+   "to": "ketef-hinnom-scrolls",
+   "as": "the oldest rolled charm this atlas dates, found still rolled in a Jerusalem burial chamber",
+   "rel": "practice"
+  },
+  {
+   "to": "curse-tablet",
+   "as": "lead folded over hair, then nailed — the same gesture used to bind rather than to guard",
+   "rel": "practice"
+  },
+  {
+   "to": "taweez",
+   "as": "the folded paper charm of Islamic practice, cased in metal and worn at the neck or the arm",
+   "rel": "practice"
+  },
+  {
+   "to": "paper",
+   "as": "the material that made folding cheap, repeatable and issuable by the ten thousand",
+   "rel": "material"
+  },
+  {
+   "to": "inscribing",
+   "as": "the step this one closes over",
+   "rel": "practice"
+  },
+  {
+   "to": "sewing-in",
+   "as": "the cloth branch of the same move: fold, then stitch shut instead of casing",
+   "rel": "parallel"
+  }
+ ],
+ "links": [
+  {
+   "label": "Ofuda — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ofuda"
+  },
+  {
+   "label": "Omamori — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Omamori"
+  }
+ ],
+ "sources": [
+  "s:wp-ofuda",
+  "s:wp-omamori",
+  "s:wp-ketef-hinnom",
+  "s:wp-curse-tablet",
+  "s:wp-mezuzah",
+  "s:wp-takrut",
+  "s:wp-tefillin",
+  "s:wp-fulu"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-ofuda"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-ofuda",
+    "note": "the closing comparison between opened and never-opened traditions is this project's, and is marked where it appears"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "the closing sentence about unverifiability is this project's reading, not a claim in the cited accounts"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Omamori.jpg",
+  "File:Takrut.jpg"
+ ],
+ "confidence": "medium",
+ "updated": "2026-09-16",
+ "blurb": "The step after the writing: the sheet is rolled into a tube, folded into a packet, or creased into a shape, and then cased, sewn or sealed. From that point the text is inside and nobody reads it.",
+ "region_terms": [
+  {
+   "key": "world",
+   "name": "Everywhere",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "use for a sign or a practice documented on more than two continents"
+  },
+  {
+   "key": "levant",
+   "name": "The Levant",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "japan",
+   "name": "Japan",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "mainland-sea",
+   "name": "Mainland Southeast Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "greece-aegean",
+   "name": "Greece and the Aegean",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "west-africa",
+   "name": "West Africa",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "takrut",
+   "type": "amulet",
+   "name": "Takrut",
+   "as": "the rolled tube this practice is named for in Thailand — metal or palm leaf, cased, strung",
+   "rel": "practice"
+  },
+  {
+   "to": "ofuda",
+   "type": "amulet",
+   "name": "Ofuda",
+   "as": "the folded paper packet cut to the shape of a sword blade and handed out by the shrines of Ise",
+   "rel": "practice"
+  },
+  {
+   "to": "omamori",
+   "type": "amulet",
+   "name": "Omamori",
+   "as": "the sealed brocade bag nobody opens, which is this practice's strictest rule",
+   "rel": "practice"
+  },
+  {
+   "to": "mezuzah",
+   "type": "amulet",
+   "name": "Mezuzah",
+   "as": "parchment rolled into a case at the door — and unrolled again by a scribe twice in seven years",
+   "rel": "contrast"
+  },
+  {
+   "to": "ketef-hinnom-scrolls",
+   "type": "amulet",
+   "name": "Ketef Hinnom silver scrolls",
+   "as": "the oldest rolled charm this atlas dates, found still rolled in a Jerusalem burial chamber",
+   "rel": "practice"
+  },
+  {
+   "to": "curse-tablet",
+   "type": "amulet",
+   "name": "Curse tablet",
+   "as": "lead folded over hair, then nailed — the same gesture used to bind rather than to guard",
+   "rel": "practice"
+  },
+  {
+   "to": "taweez",
+   "type": "amulet",
+   "name": "Ta'wiz",
+   "as": "the folded paper charm of Islamic practice, cased in metal and worn at the neck or the arm",
+   "rel": "practice"
+  },
+  {
+   "to": "paper",
+   "type": "material",
+   "name": "Paper",
+   "as": "the material that made folding cheap, repeatable and issuable by the ten thousand",
+   "rel": "material"
+  },
+  {
+   "to": "inscribing",
+   "type": "practice",
+   "name": "Inscribing",
+   "as": "the step this one closes over",
+   "rel": "practice"
+  },
+  {
+   "to": "sewing-in",
+   "type": "practice",
+   "name": "Sewing in",
+   "as": "the cloth branch of the same move: fold, then stitch shut instead of casing",
+   "rel": "parallel"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-ofuda",
+   "kind": "encyclopedia",
+   "title": "Ofuda",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ofuda",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-omamori",
+   "kind": "encyclopedia",
+   "title": "Omamori",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Omamori",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ketef-hinnom",
+   "kind": "encyclopedia",
+   "title": "Ketef Hinnom",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ketef_Hinnom",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-curse-tablet",
+   "kind": "encyclopedia",
+   "title": "Curse tablet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Curse_tablet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mezuzah",
+   "kind": "encyclopedia",
+   "title": "Mezuzah",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mezuzah",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-takrut",
+   "kind": "encyclopedia",
+   "title": "Takrut",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Takrut",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tefillin",
+   "kind": "encyclopedia",
+   "title": "Tefillin",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tefillin",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fulu",
+   "kind": "encyclopedia",
+   "title": "Fulu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fulu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-ofuda"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-ofuda",
+   "note": "the closing comparison between opened and never-opened traditions is this project's, and is marked where it appears"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-ofuda"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "the closing sentence about unverifiability is this project's reading, not a claim in the cited accounts"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-ofuda"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-ofuda"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "carriers of omamori, who keep the packet shut so the protection is not lost",
+   "quote": "",
+   "source": "s:wp-omamori",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "curse",
+   "label": "A curse already laid",
+   "who": "the Greek and Roman writers of defixiones, who folded the lead before burying it",
+   "quote": "",
+   "source": "s:wp-curse-tablet",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "house",
+   "label": "Harm to a house or a field",
+   "who": "Japanese households, who keep folded shrine talismans on a kamidana facing east, south or southeast",
+   "quote": "",
+   "source": "s:wp-ofuda",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "paper",
+   "label": "Paper",
+   "kind": "written"
+  },
+  {
+   "key": "parchment",
+   "label": "Parchment and vellum",
+   "kind": "written"
+  },
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  },
+  {
+   "key": "copper",
+   "label": "Copper and bronze",
+   "kind": "metal"
+  },
+  {
+   "key": "lead",
+   "label": "Lead",
+   "kind": "metal"
+  },
+  {
+   "key": "palm-leaf",
+   "label": "Palm leaf",
+   "kind": "written"
+  },
+  {
+   "key": "cloth",
+   "label": "Cloth",
+   "kind": "textile"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "waist",
+   "label": "At the waist",
+   "group": "body"
+  },
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "grave",
+   "label": "In the grave",
+   "group": "placed",
+   "note": "most surviving ancient amulets are here because somebody was buried in them"
+  }
+ ],
+ "form_fact": {
+  "key": "folded-paper",
+  "label": "Folded paper"
+ },
+ "holding_facts": [],
+ "span": "600 BCE to now",
+ "country_names": [
+  {
+   "iso": "IL",
+   "name": "Israel"
+  },
+  {
+   "iso": "PS",
+   "name": "Palestine"
+  },
+  {
+   "iso": "JP",
+   "name": "Japan"
+  },
+  {
+   "iso": "TH",
+   "name": "Thailand"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  },
+  {
+   "iso": "PK",
+   "name": "Pakistan"
+  },
+  {
+   "iso": "SN",
+   "name": "Senegal"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "hirz-pouch",
+   "type": "amulet",
+   "name": "Hirz",
+   "as": "the practice that gets a verse into a case that size",
+   "rel": "practice"
+  },
+  {
+   "from": "sungkhor",
+   "type": "amulet",
+   "name": "Sungkhor",
+   "as": "the step that turns a readable diagram into a carried object",
+   "rel": "practice"
+  },
+  {
+   "from": "taweez",
+   "type": "amulet",
+   "name": "Ta'wiz",
+   "as": "the practice that makes a page into a thing you can wear",
+   "rel": "practice"
+  },
+  {
+   "from": "paper",
+   "type": "material",
+   "name": "Paper",
+   "as": "how a printed sheet becomes something small enough to wear",
+   "rel": "practice"
+  },
+  {
+   "from": "inscribing",
+   "type": "practice",
+   "name": "Inscribing",
+   "as": "what happens to the writing next — rolled, folded, sealed away from the eye that reads",
+   "rel": "practice"
+  },
+  {
+   "from": "sewing-in",
+   "type": "practice",
+   "name": "Sewing in",
+   "as": "the paper-and-metal branch of the same move: close the charm over its contents",
+   "rel": "parallel"
+  }
+ ]
+}

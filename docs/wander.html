@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Wander — Amulet Atlas</title>
+<meta name="description" content="A record at random.">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+<meta name="color-scheme" content="light dark">
+<meta property="og:site_name" content="Amulet Atlas"><meta property="og:locale" content="en_US">
+<meta property="og:title" content="Wander — Amulet Atlas"><meta property="og:description" content="A record at random."><meta property="og:type" content="website">
+
+
+
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#b23a2b">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="search" type="application/opensearchdescription+xml" title="Amulet Atlas" href="opensearch.xml">
+<link rel="alternate" type="application/atom+xml" title="Amulet Atlas updates" href="feed.xml">
+
+<style>
+:root{--bg:#f6f3ec;--panel:#fffdf7;--ink:#1d2321;--mute:#6b6a60;--line:#e2ddcf;--carn:#b23a2b;
+  --faience:#2b7268;--faience-l:#71b8ab;--gold:#9d7320;--indigo:#31456b;--deep:#1a4b46;
+  --focus:#1f5fa8;--chip:#efe9dc;
+  /* An atlas letters its plates. Headings take a cut with real serifs so a date reads as a
+     date; labels take a narrow sans the way a museum card does; the reading text stays a
+     plain humanist sans. All of it is already on the reader's machine. */
+  --display:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
+  --label:"Avenir Next Condensed","HelveticaNeue-CondensedBold","Arial Narrow",Helvetica,sans-serif;
+  --body:"Avenir Next",Avenir,"Segoe UI",system-ui,-apple-system,Helvetica,Arial,sans-serif;
+  --ui:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#14171a;--panel:#1c2024;--ink:#eef1ee;--mute:#a8ada6;--line:#2e3337;--carn:#e8705c;--faience:#69bdb0;--faience-l:#8fd2c6;--gold:#d7ab55;--indigo:#8fa8d4;--deep:#9fd6cc;--focus:#8ab4f8;--chip:#242a2e}}
+:root[data-theme="dark"]{--bg:#14171a;--panel:#1c2024;--ink:#eef1ee;--mute:#a8ada6;--line:#2e3337;--carn:#e8705c;--faience:#69bdb0;--faience-l:#8fd2c6;--gold:#d7ab55;--indigo:#8fa8d4;--deep:#9fd6cc;--focus:#8ab4f8;--chip:#242a2e}
+*{box-sizing:border-box}html{font-size:19px;scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);line-height:1.62;font-size:1.02rem}
+a{color:var(--carn);text-decoration-thickness:.07em;text-underline-offset:.16em}a:hover{color:var(--deep)}
+a:focus-visible,button:focus-visible,input:focus-visible{outline:3px solid var(--focus);outline-offset:2px;border-radius:4px}
+header.top{border-bottom:1px solid var(--line);padding:.7rem 1rem;max-width:72rem;margin:0 auto;display:flex;gap:.6rem 1.2rem;flex-wrap:wrap;align-items:baseline}
+header.top .brand{font-family:var(--display);font-weight:700;font-size:1.12rem;text-decoration:none;color:var(--ink)}header.top .brand b{color:var(--carn)}
+nav.crumbs{font-size:.83rem;color:var(--mute);font-family:var(--ui)}nav.crumbs a{text-decoration:none}nav.crumbs a:hover{text-decoration:underline}
+main{max-width:72rem;margin:0 auto;padding:1.2rem 1rem 4rem}
+h1{font-family:var(--display);font-size:clamp(2rem,4.4vw,2.95rem);line-height:1.1;margin:.5rem 0 .3rem;font-weight:700}
+h1 .kind{display:block;font-size:.74rem;color:var(--gold);text-transform:uppercase;letter-spacing:.22em;font-family:var(--label);margin-bottom:.5rem}
+h1 .native{display:block;font-size:.5em;color:var(--mute);font-weight:400;margin-top:.25rem}
+h2{font-family:var(--display);font-size:1.38rem;margin:1.9rem 0 .5rem;border-bottom:2px solid var(--line);padding-bottom:.25rem;font-weight:700}
+h3{font-family:var(--display);font-size:1.08rem;margin:1rem 0 .3rem;font-weight:700}
+.said{font-style:italic;color:var(--mute);margin:.2rem 0 .8rem}.lede{font-size:1.13rem;margin:.2rem 0 1rem}.mute{color:var(--mute)}
+p{margin:.55rem 0}.prose p{margin:.75rem 0}
+.dir{display:grid;grid-template-columns:repeat(auto-fill,minmax(19rem,1fr));gap:1.3rem 2.4rem;align-items:start;margin-top:.8rem}
+.dir section{margin:0}.dir h2{margin:.2rem 0 .3rem;border:0;font-size:1.16rem}
+.dir h2 a{text-decoration:none;color:var(--ink)}.dir h2 a:hover{color:var(--carn)}
+.dir ul{list-style:none;margin:0;padding:0 0 0 .7rem;border-left:2px solid var(--line)}
+.dir li{margin:.14rem 0}.dir li.sub{padding-left:.9rem;font-size:.95rem}
+.count{color:var(--mute);font-size:.85em;font-family:var(--ui)}
+.chip{display:inline-block;background:var(--chip);border:1px solid var(--line);border-radius:999px;padding:.05rem .62rem;font-size:.78rem;margin:.1rem .25rem .1rem 0;color:var(--ink);font-family:var(--ui)}
+a.chip{text-decoration:none}a.chip:hover{border-color:var(--carn)}
+.tier-cited{border-color:var(--focus)}.tier-harvested{border-color:var(--faience)}.tier-tradition{border-color:var(--gold)}.tier-inference{border-style:dashed}.tier-field{border-color:var(--carn)}
+table{border-collapse:collapse;width:100%;margin:.4rem 0 1rem;font-size:.95rem}
+th,td{text-align:left;vertical-align:top;padding:.45rem .5rem;border-bottom:1px solid var(--line)}
+th{width:26%;color:var(--mute);font-weight:600}
+.kin{display:grid;grid-template-columns:repeat(auto-fill,minmax(17rem,1fr));gap:.9rem}
+.kin a.card{display:block;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:.8rem .95rem;text-decoration:none;color:var(--ink)}
+.kin a.card b{display:block;font-size:1.03rem;color:var(--carn);font-family:var(--display);font-weight:700}
+.kin a.card small{display:block;font-size:.68rem;color:var(--gold);text-transform:uppercase;letter-spacing:.18em;font-family:var(--label)}
+.kin a.card span{display:block;margin-top:.3rem;font-size:.92rem;color:var(--ink)}
+.kin a.card:hover b{color:var(--deep)}
+figure{margin:0 0 1rem;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:.6rem}
+figure img{width:100%;height:auto;max-height:32rem;object-fit:contain;border-radius:8px;display:block}
+figcaption{font-size:.8rem;color:var(--mute);margin-top:.4rem;font-family:var(--ui)}
+.gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(12rem,1fr));gap:.7rem}.gallery figure{margin:0}
+.hero{display:grid;grid-template-columns:1fr;gap:.6rem;margin:.6rem 0 1.2rem}
+.hero h1{font-size:clamp(2.4rem,6.4vw,4rem);letter-spacing:-.012em;margin-bottom:.1rem}
+.hero .sub{font-size:1.16rem;color:var(--mute);font-style:italic;max-width:42rem}
+.mapwrap{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:.6rem}
+.mapwrap svg{width:100%;height:auto;display:block}
+.worldmap .cty.has{cursor:pointer}
+.worldmap .cty.has:hover{fill:var(--carn)}
+.legend{font-size:.82rem;color:var(--mute);margin:.5rem 0 0;font-family:var(--ui);display:flex;flex-wrap:wrap;gap:.25rem .5rem;align-items:center}
+.legend .sw{display:inline-block;width:1.15rem;height:.72rem;border:1px solid var(--line);border-radius:2px}
+.legend .lb{margin-right:.5rem}.legend .unit{font-style:italic}
+.facts{display:flex;flex-wrap:wrap;gap:.8rem;margin:.7rem 0 1.2rem}
+.fact{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:.7rem 1rem;min-width:8rem;text-align:center}
+.fact .n{display:block;font-family:var(--display);font-size:2rem;font-weight:700;line-height:1}
+.fact .l{display:block;font-size:.72rem;color:var(--mute);margin-top:.28rem;font-family:var(--label);text-transform:uppercase;letter-spacing:.11em}
+.search{display:flex;gap:.5rem;margin:.6rem 0 1rem}
+.search input{flex:1;font:inherit;font-size:1.1rem;padding:.6rem .8rem;border:2px solid var(--line);border-radius:10px;background:var(--panel);color:var(--ink)}
+.search button{font:inherit;padding:.6rem 1rem;border-radius:10px;border:2px solid var(--carn);background:var(--carn);color:#fff;cursor:pointer}
+.tierline{font-size:.9rem;color:var(--mute);margin:.2rem 0 .8rem}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(15rem,1fr));gap:1rem;align-items:start}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:.9rem}
+.card a.t{font-family:var(--display);font-weight:700;text-decoration:none;font-size:1.06rem}
+.card p{margin:.3rem 0 0;font-size:.9rem;color:var(--mute)}
+.card .thumb{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:9px;margin-bottom:.55rem;display:block;background:var(--chip)}
+footer{max-width:72rem;margin:0 auto;padding:1rem;color:var(--mute);font-size:.85rem;border-top:1px solid var(--line);font-family:var(--ui)}
+.bots a{margin-right:.7rem}
+.btn{display:inline-block;padding:.55rem 1.05rem;border-radius:999px;background:var(--carn);color:#fff;text-decoration:none;font-weight:700;border:2px solid var(--carn);font-family:var(--label);font-size:.95rem;letter-spacing:.03em}
+.btn.ghost{background:transparent;color:var(--ink);border-color:var(--line)}
+.btn:hover{color:#fff;filter:brightness(1.08)}.btn.ghost:hover{color:var(--ink);border-color:var(--carn)}
+.cta{display:flex;gap:.6rem;flex-wrap:wrap;margin:.9rem 0}
+.etym{background:var(--panel);border-left:4px solid var(--gold);border-radius:0 12px 12px 0;padding:.7rem 1rem;margin:.8rem 0}
+.restricted{background:var(--panel);border-left:4px solid var(--carn);border-radius:0 12px 12px 0;padding:.8rem 1rem;margin:1rem 0}
+.restricted b{font-family:var(--label);text-transform:uppercase;letter-spacing:.14em;font-size:.76rem;color:var(--carn);display:block;margin-bottom:.3rem}
+.whenbox{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:.9rem 1rem;margin:.4rem 0 1rem}
+.spanline{font-family:var(--display);font-size:1.5rem;margin:.1rem 0 .2rem}
+.spanline .liv{color:var(--carn)}
+.against{list-style:none;margin:.4rem 0;padding:0;display:grid;gap:.5rem}
+.against li{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:.6rem .85rem}
+.against b{font-family:var(--display)}
+.against .who{color:var(--mute);font-size:.88rem;display:block}
+.against blockquote{margin:.35rem 0 0;padding-left:.7rem;border-left:3px solid var(--gold);font-style:italic}
+.two-up{display:grid;grid-template-columns:1fr 1fr;gap:1.2rem;margin:1.4rem 0}
+@media(max-width:760px){.two-up{grid-template-columns:1fr}html{font-size:18px}}
+.mults{display:grid;grid-template-columns:repeat(auto-fill,minmax(13rem,1fr));gap:.7rem;margin:.8rem 0}
+.mults figure{margin:0;padding:.4rem}.mults svg{width:100%;height:auto;display:block}
+.mults figcaption{font-size:.8rem;margin-top:.25rem}.mults .n{color:var(--carn);font-weight:700}
+.timechart,.density,.bars,.matrix,.bodymap{width:100%;height:auto;display:block}
+.timechart .rl,.bars .rl,.matrix .rl{font:500 11px var(--ui);fill:currentColor}
+.timechart .tk,.density .tk{font:600 10px var(--label);fill:currentColor;opacity:.7}
+.matrix .cl{font:600 10px var(--ui);fill:currentColor}
+.bars .vn{font:700 11px var(--ui);fill:currentColor}
+.timechart .trow:hover .rl{fill:var(--carn)}
+.glyph{color:var(--ink);vertical-align:middle}
+.glyphgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(8.5rem,1fr));gap:.7rem;margin:1rem 0}
+.glyphgrid a{display:flex;flex-direction:column;align-items:center;gap:.35rem;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:.8rem .5rem;text-decoration:none;color:var(--ink);text-align:center}
+.glyphgrid a:hover{border-color:var(--carn);color:var(--carn)}
+.glyphgrid .nm{font-family:var(--display);font-size:.96rem}
+.glyphgrid .ct{font-size:.74rem;color:var(--mute);font-family:var(--ui)}
+.bodymap .spot{cursor:pointer}.bodymap .spot:hover{fill-opacity:1}
+.wearlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(16rem,1fr));gap:1rem}
+.wearlist section{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:.8rem .95rem}
+.wearlist h3{margin:.1rem 0 .3rem}
+.wearlist ul{margin:.2rem 0 0;padding-left:1.1rem;font-size:.93rem}
+.tdot{display:inline-block;width:.55rem;height:.55rem;border-radius:50%;margin-right:.3rem;vertical-align:baseline}
+.pl-list{columns:2;column-gap:2.4rem;font-size:.95rem}.pl-list h3{break-after:avoid;margin:.6rem 0 .2rem}
+.pl-list ul{margin:0 0 .5rem;padding-left:1rem}@media(max-width:700px){.pl-list{columns:1}}
+mark.tier{background:transparent;color:var(--mute);font-style:italic}
+.sect{margin:1.3rem 0}
+.wander{font-size:.85rem}
+.quiz fieldset{border:1px solid var(--line);border-radius:12px;background:var(--panel);margin:0 0 1rem;padding:.8rem 1rem}
+.quiz legend{font-family:var(--display);font-weight:700;padding:0 .4rem}
+.quiz label{display:block;margin:.28rem 0;cursor:pointer}
+@media (prefers-reduced-motion: no-preference){
+  .kin a.card,.card,.fact,.glyphgrid a{transition:transform .18s ease,box-shadow .18s ease}
+  .kin a.card:hover,.card:hover,.glyphgrid a:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(0,0,0,.09)}
+  .btn{transition:transform .15s ease}.btn:hover{transform:scale(1.04)}
+  .search input{transition:box-shadow .2s}.search input:focus{box-shadow:0 0 0 4px color-mix(in srgb,var(--carn) 22%,transparent)}}
+
+.shareme{margin:2.6rem 0 .4rem;padding:1rem 1.1rem;background:var(--panel);border:1px solid var(--line);border-radius:14px}
+.shareme b{display:block;font-size:.95rem;margin-bottom:.55rem}
+.shareme .row{display:flex;flex-wrap:wrap;gap:.45rem}
+.shareme a,.shareme button{font:inherit;font-size:.87rem;font-family:var(--ui);padding:.4rem .85rem;border-radius:999px;
+  border:1.5px solid var(--line);background:var(--bg);color:var(--ink);cursor:pointer;text-decoration:none;display:inline-flex;align-items:center;gap:.35rem}
+.shareme a:hover,.shareme button:hover{border-color:var(--carn);color:var(--carn)}
+.shareme .said{font-size:.85rem;color:var(--mute);margin-left:.4rem}
+.shareme .copy{border-color:var(--carn);color:#fff;background:var(--carn)}
+.shareme .copy:hover{color:#fff;filter:brightness(1.08)}
+</style>
+
+</head>
+<body>
+<header class="top"><a class="brand" href="index.html">Amulet <b>Atlas</b></a>
+<nav class="crumbs"><a href="index.html">Everything</a> · <a href="map/index.html">The map</a> · <a href="time/index.html">The timeline</a> · <a href="against/index.html">What it stops</a> · <a href="wear/index.html">Where it goes</a> · <a href="signs/index.html">The signs</a> · <a href="materials/index.html">Materials</a> · <a href="places/index.html">Places</a> · <a href="stories/index.html">Long reads</a> · <a href="numbers/index.html">Numbers</a> · <a href="quiz/index.html">Pick me one</a> · <a href="search/index.html">Search</a> · <a href="words/index.html">Words</a> · <a href="sources/index.html">Where we got it</a> · <a href="coverage/index.html">Where we stop</a> · <a href="api/index.json">API</a> · <a href="llms.txt">llms.txt</a> · <a class="wander" href="wander.html" title="a record at random">🎲 Wander</a></nav></header>
+<main>
+<h1>Wander</h1><p class="lede">One record at random. Press <b>r</b> anywhere on this site for another.</p><noscript><p>Pick one: <a href="amulet/agnus-dei/index.html">Agnus Dei</a> · <a href="amulet/akuaba-figure/index.html">Akua&#x27;ba</a> · <a href="amulet/ankh-amulet/index.html">Ankh amulet</a> · <a href="amulet/anting-anting/index.html">Anting-anting</a> · <a href="amulet/azabache/index.html">Azabache</a> · <a href="amulet/bagua-mirror/index.html">Bagua mirror</a> · <a href="amulet/bes-amulet/index.html">Bes amulet</a> · <a href="amulet/brigids-cross/index.html">Brigid&#x27;s cross</a> · <a href="amulet/brown-scapular/index.html">Brown Scapular</a> · <a href="amulet/bujeok/index.html">Bujeok</a> · <a href="amulet/bulla/index.html">Bulla</a> · <a href="amulet/car-saint/index.html">Car saint</a> · <a href="amulet/caul/index.html">Caul</a> · <a href="amulet/challenge-coin/index.html">Challenge coin</a> · <a href="amulet/charm-coin/index.html">Chinese charm coin</a> · <a href="amulet/cimaruta/index.html">Cimaruta</a> · <a href="amulet/cippus-of-horus/index.html">Cippus of Horus</a> · <a href="amulet/concealed-shoe/index.html">Concealed shoe</a> · <a href="amulet/coptic-cross-tattoo/index.html">Coptic cross tattoo</a> · <a href="amulet/corn-dolly/index.html">Corn dolly</a> · <a href="amulet/cornicello/index.html">Cornicello</a> · <a href="amulet/cowrie-strand/index.html">Cowrie strand</a> · <a href="amulet/crystal-pendant/index.html">Crystal pendant</a> · <a href="amulet/curse-tablet/index.html">Curse tablet</a> · <a href="amulet/daruma/index.html">Daruma</a> · <a href="amulet/djed-pillar/index.html">Djed pillar</a> · <a href="amulet/dolhareubang/index.html">Dol hareubang</a> · <a href="amulet/dreamcatcher/index.html">Dreamcatcher</a> · <a href="amulet/dzi-bead/index.html">Dzi bead</a> · <a href="amulet/ekeko/index.html">Ekeko</a> · <a href="amulet/ethiopian-magic-scroll/index.html">Ethiopian talismanic scroll</a> · <a href="amulet/evil-eye-bracelet/index.html">Evil eye bracelet</a> · <a href="amulet/exam-charm/index.html">Exam charm</a> · <a href="amulet/fascinum/index.html">Fascinum</a> · <a href="amulet/figa/index.html">Figa</a> · <a href="amulet/four-leaf-clover/index.html">Four-leaf clover</a> · <a href="amulet/fu-talisman/index.html">Fu talisman</a> · <a href="amulet/game-day-charm/index.html">Game-day charm</a> · <a href="amulet/gau-box/index.html">Gau</a> · <a href="amulet/gorgoneion/index.html">Gorgoneion</a> · <a href="amulet/gris-gris/index.html">Gris-gris</a> · <a href="amulet/hagstone/index.html">Hagstone</a> · <a href="amulet/hamsa/index.html">Hamsa</a> · <a href="amulet/heart-scarab/index.html">Heart scarab</a> · <a href="amulet/hei-matau/index.html">Hei matau</a> · <a href="amulet/hei-tiki/index.html">Hei-tiki</a> · <a href="amulet/hex-sign/index.html">Hex sign</a> · <a href="amulet/hirz-pouch/index.html">Hirz</a> · <a href="amulet/holy-rider-pendant/index.html">Holy rider pendant</a> · <a href="amulet/horseshoe/index.html">Horseshoe</a> · <a href="amulet/illa/index.html">Illa</a> · <a href="amulet/incantation-bowl/index.html">Incantation bowl</a> · <a href="amulet/inuit-amulet/index.html">Inuit amulet</a> · <a href="amulet/jimat/index.html">Jimat</a> · <a href="amulet/kamea/index.html">Kamea</a> · <a href="amulet/keris-pusaka/index.html">Keris pusaka</a> · <a href="amulet/ketef-hinnom-scrolls/index.html">Ketef Hinnom silver scrolls</a> · <a href="amulet/ladanka/index.html">Ladanka</a> · <a href="amulet/lamashtu-plaque/index.html">Lamashtu plaque</a> · <a href="amulet/lungta-flag/index.html">Lung ta prayer flag</a></p></noscript><script>var U=["amulet/agnus-dei/index.html", "amulet/akuaba-figure/index.html", "amulet/ankh-amulet/index.html", "amulet/anting-anting/index.html", "amulet/azabache/index.html", "amulet/bagua-mirror/index.html", "amulet/bes-amulet/index.html", "amulet/brigids-cross/index.html", "amulet/brown-scapular/index.html", "amulet/bujeok/index.html", "amulet/bulla/index.html", "amulet/car-saint/index.html", "amulet/caul/index.html", "amulet/challenge-coin/index.html", "amulet/charm-coin/index.html", "amulet/cimaruta/index.html", "amulet/cippus-of-horus/index.html", "amulet/concealed-shoe/index.html", "amulet/coptic-cross-tattoo/index.html", "amulet/corn-dolly/index.html", "amulet/cornicello/index.html", "amulet/cowrie-strand/index.html", "amulet/crystal-pendant/index.html", "amulet/curse-tablet/index.html", "amulet/daruma/index.html", "amulet/djed-pillar/index.html", "amulet/dolhareubang/index.html", "amulet/dreamcatcher/index.html", "amulet/dzi-bead/index.html", "amulet/ekeko/index.html", "amulet/ethiopian-magic-scroll/index.html", "amulet/evil-eye-bracelet/index.html", "amulet/exam-charm/index.html", "amulet/fascinum/index.html", "amulet/figa/index.html", "amulet/four-leaf-clover/index.html", "amulet/fu-talisman/index.html", "amulet/game-day-charm/index.html", "amulet/gau-box/index.html", "amulet/gorgoneion/index.html", "amulet/gris-gris/index.html", "amulet/hagstone/index.html", "amulet/hamsa/index.html", "amulet/heart-scarab/index.html", "amulet/hei-matau/index.html", "amulet/hei-tiki/index.html", "amulet/hex-sign/index.html", "amulet/hirz-pouch/index.html", "amulet/holy-rider-pendant/index.html", "amulet/horseshoe/index.html", "amulet/illa/index.html", "amulet/incantation-bowl/index.html", "amulet/inuit-amulet/index.html", "amulet/jimat/index.html", "amulet/kamea/index.html", "amulet/keris-pusaka/index.html", "amulet/ketef-hinnom-scrolls/index.html", "amulet/ladanka/index.html", "amulet/lamashtu-plaque/index.html", "amulet/lungta-flag/index.html", "amulet/lunula/index.html", "amulet/magical-gem/index.html", "amulet/maneki-neko/index.html", "amulet/martenitsa/index.html", "amulet/mezuzah/index.html", "amulet/milagro/index.html", "amulet/miraculous-medal/index.html", "amulet/mjolnir-pendant/index.html", "amulet/navaratna-ring/index.html", "amulet/nazar/index.html", "amulet/nimbu-mirchi/index.html", "amulet/nkisi/index.html", "amulet/ofuda/index.html", "amulet/ojo-de-venado/index.html", "amulet/omamori/index.html", "amulet/omikuji/index.html", "amulet/ongon/index.html", "amulet/palad-khik/index.html", "amulet/patua/index.html", "amulet/pazuzu-head/index.html", "amulet/phone-charm/index.html", "amulet/phra-khrueang/index.html", "amulet/ping-an-fu/index.html", "amulet/quran-pendant/index.html", "amulet/rabbits-foot/index.html", "amulet/red-string/index.html", "amulet/rowan-cross/index.html", "amulet/rudraksha/index.html", "amulet/sak-yant/index.html", "amulet/scarab/index.html", "amulet/senninbari/index.html", "amulet/st-christopher-medal/index.html", "amulet/sungkhor/index.html", "amulet/tabiz/index.html", "amulet/takrut/index.html", "amulet/talismanic-shirt/index.html", "amulet/tama-votive/index.html", "amulet/taweez/index.html", "amulet/taweret-amulet/index.html", "amulet/tefillin/index.html", "amulet/teru-teru-bozu/index.html", "amulet/toli-mirror/index.html", "amulet/tuareg-cross/index.html", "amulet/tupilaq/index.html", "amulet/tyet-knot/index.html", "amulet/wedjat-eye/index.html", "amulet/witch-bottle/index.html", "amulet/worry-stone/index.html", "amulet/yantra-plate/index.html", "tradition/andean-illa-practice/index.html", "tradition/bakongo-nkisi-craft/index.html", "tradition/catholic-sacramentals/index.html", "tradition/chinese-fu-craft/index.html", "tradition/egyptian-amulet-craft/index.html", "tradition/ethiopian-scroll-craft/index.html", "tradition/european-folk-apotropaic/index.html", "tradition/greco-roman-apotropaic/index.html", "tradition/hindu-kavacha/index.html", "tradition/islamic-talismanic/index.html", "tradition/japanese-engimono/index.html", "tradition/jewish-practical-kabbalah/index.html", "tradition/korean-bujeok-craft/index.html", "tradition/latin-american-folk-catholic/index.html", "tradition/maori-taonga/index.html", "tradition/mesopotamian-apotropaic/index.html", "tradition/thai-wicha/index.html", "tradition/tibetan-protection/index.html", "tradition/west-african-charm-craft/index.html", "sign/bell/index.html", "sign/coin-square/index.html", "sign/crescent/index.html", "sign/cross/index.html", "sign/divine-name/index.html", "sign/eye/index.html", "sign/fish/index.html", "sign/fist/index.html", "sign/footprint/index.html", "sign/hand/index.html", "sign/horn/index.html", "sign/key/index.html", "sign/knot/index.html", "sign/lion/index.html", "sign/magic-square/index.html", "sign/mirror-sign/index.html", "sign/open-palm/index.html", "sign/palindrome-word/index.html", "sign/phallic-sign/index.html", "sign/red-thread/index.html", "sign/scarab-sign/index.html", "sign/serpent/index.html", "sign/spiral/index.html", "sign/swastika-sign/index.html", "sign/tooth-and-claw/index.html", "sign/tree/index.html", "material/amber/index.html", "material/bone-ivory/index.html", "material/carnelian/index.html", "material/cloth/index.html", "material/copper/index.html", "material/coral/index.html", "material/cowrie/index.html", "material/faience/index.html", "material/glass/index.html", "material/gold/index.html", "material/hair/index.html", "material/herb/index.html", "material/ink/index.html", "material/iron/index.html", "material/jade/index.html", "material/jet/index.html", "material/lead/index.html", "material/palm-leaf/index.html", "material/paper/index.html", "material/parchment/index.html", "material/salt/index.html", "material/seed/index.html", "material/silver/index.html", "material/skin/index.html", "material/terracotta/index.html", "material/thread/index.html", "material/tooth/index.html", "material/turquoise/index.html", "material/wood/index.html", "practice/blessing-at-a-shrine/index.html", "practice/burning-retirement/index.html", "practice/burying/index.html", "practice/buying-in-a-market/index.html", "practice/consecration/index.html", "practice/counting-beads/index.html", "practice/feeding-the-charm/index.html", "practice/folding/index.html", "practice/foundation-deposit/index.html", "practice/grave-deposit/index.html", "practice/hanging-at-door/index.html", "practice/inheriting/index.html", "practice/inscribing/index.html", "practice/knotting/index.html", "practice/renewing-yearly/index.html", "practice/sewing-in/index.html", "practice/tattooing/index.html", "practice/washing-off-ink/index.html", "practice/wearing-hidden/index.html", "place/akodessewa-market/index.html", "place/barkhor-lhasa/index.html", "place/british-museum-room-1/index.html", "place/fushimi-inari/index.html", "place/grand-bazaar/index.html", "place/insadong/index.html", "place/kathmandu-thamel/index.html", "place/khan-el-khalili/index.html", "place/marrakesh-souk/index.html", "place/mercado-de-las-brujas-la-paz/index.html", "place/mercado-de-las-brujas-lima/index.html", "place/mercado-de-sonora/index.html", "place/merkato-addis/index.html", "place/met-egyptian-galleries/index.html", "place/monastiraki/index.html", "place/pitt-rivers-charms/index.html", "place/quiapo-church/index.html", "place/san-gregorio-armeno/index.html", "place/senso-ji/index.html", "place/te-papa-taonga/index.html", "place/tha-phrachan/index.html", "place/wellcome-lovett/index.html", "person/alan-dundes/index.html", "person/augustus-pitt-rivers/index.html", "person/campbell-bonner/index.html", "person/christopher-faraone/index.html", "person/edward-lovett/index.html", "person/flinders-petrie/index.html", "person/frederick-elworthy/index.html", "person/joseph-naveh/index.html", "person/shaul-shaked/index.html", "person/siegfried-seligmann/index.html", "person/wallis-budge/index.html", "person/walter-hildburgh/index.html", "org/aiatsis/index.html", "org/british-museum/index.html", "org/metropolitan-museum/index.html", "org/nagpra/index.html", "org/pitt-rivers-museum/index.html", "org/quai-branly/index.html", "org/te-papa/index.html", "org/unesco-ich/index.html", "org/wellcome-collection/index.html", "org/wikimedia-commons/index.html", "word/abracadabra/index.html", "word/amulet-word/index.html", "word/apotropaic-word/index.html", "word/charm-word/index.html", "word/fetish-word/index.html", "word/fu-word/index.html", "word/gris-gris-word/index.html", "word/hamsa-word/index.html", "word/juju-word/index.html", "word/luck-word/index.html", "word/mascot-word/index.html", "word/mojo-word/index.html", "word/nazar-word/index.html", "word/omamori-word/index.html", "word/periapt/index.html", "word/phylactery-word/index.html", "word/talisman-word/index.html", "word/taweez-word/index.html", "word/vodou-not-voodoo/index.html", "word/ward-word/index.html", "word/yantra-word/index.html", "art/budge-plates/index.html", "art/ex-voto-wall/index.html", "art/lovett-collection/index.html", "art/market-stall-sign/index.html", "art/petrie-amulet-plates/index.html", "art/the-drawn-signs/index.html", "art/votive-wall/index.html", "art/yant-flash/index.html", "story/amulet-or-talisman/index.html", "story/dating-a-charm/index.html", "story/free-to-use/index.html", "story/most-of-them-are-for-children/index.html", "story/the-charm-goes-digital/index.html", "story/the-charm-in-the-wall/index.html", "story/the-eye-everywhere/index.html", "story/the-fake-market/index.html", "story/the-swastika-problem/index.html", "story/what-this-atlas-does-not-print/index.html", "story/who-owns-a-charm/index.html"];location.replace(U[Math.floor(Math.random()*U.length)]);</script>
+
+</main>
+<script>document.addEventListener("keydown",function(e){if(e.key==="r"&&!e.metaKey&&!e.ctrlKey&&!e.altKey&&!/input|textarea/i.test(e.target.tagName))location.href="wander.html"});</script>
+<footer>
+<div class="bots">For the machines: <a href="api/nodes.json">nodes.json</a> <a href="api/atlas.json">atlas.json</a> <a href="api/timeline.json">timeline.json</a> <a href="api/against.json">against.json</a> <a href="api/kin.json">kin.json</a> <a href="nodes.jsonl">nodes.jsonl</a> <a href="nodes.csv">nodes.csv</a> <a href="llms-full.txt">llms-full.txt</a> <a href="sitemap.xml">sitemap.xml</a> <a href="feed.xml">feed.xml</a> <a href="api/coverage.json">coverage</a> <a href="api/sources.json">sources</a></div>
+<p>Records licensed <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. Country outlines from <a href="https://www.naturalearthdata.com/">Natural Earth</a>, public domain. Pictures carry their own licences, stated beside each one. Every field says where it came from — and where a tradition asks that something not be published, this atlas prints the ask instead.</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,364 @@
+{
+ "id": "tooth",
+ "names": {
+  "name": "Tooth, tusk and claw",
+  "aliases": [
+   "tabua",
+   "whale tooth",
+   "wolf tooth",
+   "animal teeth"
+  ]
+ },
+ "region": [
+  "pacific",
+  "rome-italy",
+  "aotearoa",
+  "balkans",
+  "north-america"
+ ],
+ "countries": [
+  "FJ",
+  "TO",
+  "US",
+  "IT",
+  "NZ"
+ ],
+ "facets": {
+  "kind": "organic"
+ },
+ "text": {
+  "what": "A tooth worn as a charm is the one material that arrives already shaped, already pointed, and already the property of something that could bite. Teeth, tusks and claws are carved very little: drilled at the root, polished, hung. The class includes sperm whale teeth in Fiji and Hawaii, wolf teeth in Italy, and the animal teeth the Illyrians used against the harmful look.",
+  "story": "Fiji's tabua is a polished sperm whale tooth and one of the most important objects in Fijian society. Tabua are presented as sevusevu, in atonement or esteem, and were central to negotiation between rival chiefs; men were once buried with their tabua alongside their war clubs. They were originally very rare, available only from beached whales and by trade from Tonga, where the practice may have begun. When the European market learned of the demand in the early nineteenth century, thousands of teeth — and fake teeth cut from ivory and walrus tusk — entered Fiji, and the trade that supplied them produced the European craft of scrimshaw. A tabua darkens as the oils in human hands work into it, so its age shows.\n\nIn Hawaii the lei niho palaoa hangs a carved whale tooth at the throat of an ali'i, on a cord of plaited human hair. Around the Mediterranean the tooth is smaller and the claim narrower: a tooth or a tuft of fur of the Italian wolf was worn as a talisman against the evil eye, and Illyrians used animal teeth against the same harm alongside the phallus, the hand and the leg.\n\n*Inference —* every use listed here works the same way. The charm is a piece of a dangerous animal, kept whole enough to be recognised as one. That is a different argument from the one a cut stone makes, and it is why this atlas files tooth with claw rather than with ivory.",
+  "today": "Tabua are not sold in Fiji; they are still given, at weddings, birthdays and funerals, and they appear on the twenty cent coin and in airline branding. Because the sperm whale is an endangered species, removing a tabua from Fiji is capped at 225 exports a year and requires permits from the Ministry of iTaukei Affairs as well as CITES permits, with the original CITES paperwork presented to the importing country's border officials. In 2007 New Zealand authorities returned 146 tabua to Fiji that had been seized for lacking valid permits."
+ },
+ "dating": {
+  "period": "documented from the early nineteenth century; older in use",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "attested from the early 1800s, and older than that",
+  "method": "ethnographic",
+  "tier": "cited",
+  "source": "s:wp-tabua",
+  "note": "No source read here dates the first tooth amulet. The earliest datable point is the early nineteenth century, when the tabua trade opened to Europeans; Fijian and Illyrian use both predate any year that can be named from these sources."
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "wearers in Italy, who used a tooth or a tuft of fur of the Italian wolf against it",
+   "source": "s:wp-evil-eye",
+   "tier": "cited"
+  },
+  {
+   "harm": "curse",
+   "who": "Fijian practice, in which a tabua is presented in atonement",
+   "source": "s:wp-tabua",
+   "tier": "cited",
+   "note": "the tabua settles between people rather than warding off a force; it is filed here because that is what its givers use it for"
+  },
+  {
+   "harm": "the-dead",
+   "who": "Fijian burial custom, which put a man's tabua in the grave with him",
+   "source": "s:wp-tabua",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "bone-ivory",
+   "as": "the wider class this sits inside, and the one that gets carved rather than kept whole",
+   "rel": "whole"
+  },
+  {
+   "to": "tooth-and-claw",
+   "as": "the sign this material is: a piece of a dangerous animal, left recognisable",
+   "rel": "motif"
+  },
+  {
+   "to": "hei-matau",
+   "as": "the hook that reads as a tooth and is worn in the same place, at the throat",
+   "rel": "parallel"
+  },
+  {
+   "to": "cornicello",
+   "as": "the Italian horn worn for the same harm the wolf tooth was worn for",
+   "rel": "parallel"
+  },
+  {
+   "to": "te-papa-taonga",
+   "as": "where a tabua can be seen outside Fiji, in a museum that publishes what it holds",
+   "rel": "held-at"
+  },
+  {
+   "to": "inuit-amulet",
+   "as": "the Arctic version of the same argument: the charm is a part of the animal it came from",
+   "rel": "parallel"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read for an object under export caps, permits and a 2007 repatriation",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Tabua — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tabua"
+  }
+ ],
+ "sources": [
+  "s:wp-tabua",
+  "s:wp-lei-niho-palaoa",
+  "s:wp-evil-eye"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-tabua"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-tabua",
+    "note": "the closing paragraph is this project's inference and is marked in the text"
+   }
+  }
+ },
+ "x_commons_files": [
+  "File:Tabua.jpg"
+ ],
+ "confidence": "high",
+ "schema": 1,
+ "type": "material",
+ "images": [],
+ "updated": "2026-09-16",
+ "blurb": "A tooth worn as a charm is the one material that arrives already shaped, already pointed, and already the property of something that could bite.",
+ "region_terms": [
+  {
+   "key": "pacific",
+   "name": "The Pacific",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "Polynesia, Melanesia, Micronesia"
+  },
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "aotearoa",
+   "name": "Aotearoa New Zealand",
+   "hemi": [
+    "S",
+    "E"
+   ]
+  },
+  {
+   "key": "balkans",
+   "name": "The Balkans",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "bone-ivory",
+   "type": "material",
+   "name": "Bone and ivory",
+   "as": "the wider class this sits inside, and the one that gets carved rather than kept whole",
+   "rel": "whole"
+  },
+  {
+   "to": "tooth-and-claw",
+   "type": "motif",
+   "name": "The tooth and the claw",
+   "as": "the sign this material is: a piece of a dangerous animal, left recognisable",
+   "rel": "motif"
+  },
+  {
+   "to": "hei-matau",
+   "type": "amulet",
+   "name": "Hei matau",
+   "as": "the hook that reads as a tooth and is worn in the same place, at the throat",
+   "rel": "parallel"
+  },
+  {
+   "to": "cornicello",
+   "type": "amulet",
+   "name": "Cornicello",
+   "as": "the Italian horn worn for the same harm the wolf tooth was worn for",
+   "rel": "parallel"
+  },
+  {
+   "to": "te-papa-taonga",
+   "type": "place",
+   "name": "Mana Whenua, Te Papa",
+   "as": "where a tabua can be seen outside Fiji, in a museum that publishes what it holds",
+   "rel": "held-at"
+  },
+  {
+   "to": "inuit-amulet",
+   "type": "amulet",
+   "name": "Inuit amulet",
+   "as": "the Arctic version of the same argument: the charm is a part of the animal it came from",
+   "rel": "parallel"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read for an object under export caps, permits and a 2007 repatriation",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-tabua",
+   "kind": "encyclopedia",
+   "title": "Tabua",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tabua",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-lei-niho-palaoa",
+   "kind": "encyclopedia",
+   "title": "Lei niho palaoa",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lei_niho_palaoa",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-evil-eye",
+   "kind": "encyclopedia",
+   "title": "Evil eye",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Evil_eye",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-tabua"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-tabua",
+   "note": "the closing paragraph is this project's inference and is marked in the text"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-tabua"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-tabua"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "wearers in Italy, who used a tooth or a tuft of fur of the Italian wolf against it",
+   "quote": "",
+   "source": "s:wp-evil-eye",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "curse",
+   "label": "A curse already laid",
+   "who": "Fijian practice, in which a tabua is presented in atonement",
+   "quote": "",
+   "source": "s:wp-tabua",
+   "tier": "cited",
+   "note": "the tabua settles between people rather than warding off a force; it is filed here because that is what its givers use it for"
+  },
+  {
+   "key": "the-dead",
+   "label": "Danger to the dead",
+   "gloss": "charms put in a grave for the person in it",
+   "who": "Fijian burial custom, which put a man's tabua in the grave with him",
+   "quote": "",
+   "source": "s:wp-tabua",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "undated",
+ "country_names": [
+  {
+   "iso": "FJ",
+   "name": "Fiji"
+  },
+  {
+   "iso": "TO",
+   "name": "Tonga"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "NZ",
+   "name": "New Zealand"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "tooth-and-claw",
+   "type": "motif",
+   "name": "The tooth and the claw",
+   "as": "the material file — tooth, tusk and claw, and what keeps them intact in the ground",
+   "rel": "material"
+  },
+  {
+   "from": "bone-ivory",
+   "type": "material",
+   "name": "Bone and ivory",
+   "as": "the same body, one step along: a tusk is a tooth, and the Pacific charms cut from whale ivory are both records at once",
+   "rel": "kin"
+  }
+ ]
+}

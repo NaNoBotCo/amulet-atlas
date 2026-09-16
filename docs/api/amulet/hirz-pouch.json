@@ -1,0 +1,577 @@
+{
+ "schema": 1,
+ "id": "hirz-pouch",
+ "type": "amulet",
+ "names": {
+  "name": "Hirz",
+  "native": "حرز",
+  "script": "Arabic",
+  "lang": "ar",
+  "said": "HIRZ",
+  "aliases": [
+   "herz",
+   "Qur'an case",
+   "amulet box",
+   "Qur'an necklace"
+  ]
+ },
+ "etymology": {
+  "root": "Arabic حرز ḥirz, from a root meaning to guard or fortify — the word means fortification, and implies a search for protection.",
+  "note": "The same object is called a ta'wiz further east and a muska in Turkish; the difference is the carrier and the region, not the contents.",
+  "tier": "cited",
+  "source": "s:web-mwnf-hirz-oman"
+ },
+ "region": [
+  "arabia-gulf"
+ ],
+ "countries": [
+  "OM",
+  "YE"
+ ],
+ "facets": {
+  "era": "living",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A small case on a chain, rectangular or cylindrical, holding verses of the Qur'an written on paper inside. Usually silver. The case may hang from a plain silver chain or sit at the centre of an elaborate necklace strung with beads, coins and other pendants; smaller versions are worn as hair ornaments or built into a headdress. The example the National Museum in Muscat publishes is silver with geometric and silver-leaf work, 30.6 cm long and weighing 152.9 g, and is dated to the fourteenth century AH — the early twentieth century CE — under the Al Bu Said dynasty.",
+  "story": "The case is the amulet's body and the verse is its content, and Islamic talismanic practice is clear about which of those is doing the work. Talismans in this tradition usually carry Qur'anic verses, pious phrases or invocations, and one description quoted in the literature calls the result \"a supercharged prayer\". Virtually all Muslim scholars permit a talisman that invokes God or one of His intercessors; addressing jinn or demons is prohibited. That is the line this object sits on the safe side of, and it is why the hirz differs from European charms, which often address minor deities or demons rather than God.\n\nThe verse most often named for protection is Ayat al-Kursi, the Throne Verse, al-Baqara 2:255, the 255th verse of the Qur'an's second chapter, widely memorised and widely displayed. A hadith says reciting it wards off devils, shayatin, and fiends, afarit. Al-Suyuti narrates that a man and a jinn met and wrestled, and the jinn, as a reward for being beaten, taught the man a verse which, recited, keeps no devil able to enter his house with him — the Throne Verse.\n\n*Inference —* the case, then, is a solution to a practical problem: paper in a hot, dusty, sweaty place does not last, and a verse that must stay legible has to be shut into metal. The jewellery around it is a second solution, to a different problem: what is worn every day has to be worth wearing.\n\nThe form is widespread on the Arabian Peninsula. Old Yemeni silver amulets called hirz were made to keep Qur'anic verses inside, and this sort of pendant is found across Oman, Yemen and the peninsula.",
+  "how": "A case is cast or worked in silver and given a hinge or a sliding end. Verses are written on paper and folded into it. It is hung at the neck, or worked into a larger necklace, or scaled down for the hair or a headdress.",
+  "today": "Made and worn, and also collected. The National Museum in Muscat publishes one through the Discover Islamic Art database of Museum With No Frontiers, and the form is sold new by silver dealers across the Gulf. As of 2026 this project has read no figure for the split between pieces made for wearers and pieces made for buyers."
+ },
+ "dating": {
+  "period": "Al Bu Said dynasty for the published example; the practice is older",
+  "from_year": 1900,
+  "to_year": null,
+  "living": true,
+  "label": "the published example is early twentieth century; the practice runs to now",
+  "method": "dated-object",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:web-mwnf-hirz-oman",
+  "note": "from_year is the date the National Museum in Muscat gives for the piece read for this record: 14th century AH / early 20th century AD. That dates one necklace, not the practice, which the sources read here do not date at all. Anyone who can cite an earlier dated hirz should replace this."
+ },
+ "object": {
+  "form": "box",
+  "materials": [
+   "silver",
+   "paper",
+   "ink"
+  ],
+  "worn": [
+   "neck",
+   "hair",
+   "head"
+  ],
+  "made_by": "silversmiths; the writing inside is a scribe's or a scholar's",
+  "inscription": "verses of the Qur'an, kept inside rather than cut on the case; Ayat al-Kursi, the Throne Verse, is the verse the tradition names for protection",
+  "script": "Arabic",
+  "length_mm": 306,
+  "colour": [
+   "silver"
+  ],
+  "single_use": false,
+  "source": "s:web-mwnf-hirz-oman",
+  "note": "306 mm is the published length of the whole necklace in the National Museum, Muscat — not of the case. The same entry gives its weight as 152.9 g."
+ },
+ "against": [
+  {
+   "harm": "bad-luck",
+   "who": "the catalogue entry, which says wearers use these pieces for spiritual protection through their sacred textual contents",
+   "source": "s:web-mwnf-hirz-oman",
+   "tier": "cited"
+  },
+  {
+   "harm": "demons",
+   "who": "the hadith reported in the source on the Throne Verse: reciting it wards off devils, shayatin, and fiends, afarit",
+   "source": "s:wp-throne-verse",
+   "tier": "cited"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "Islamic talismanic practice as summarised in the source, which lists protection against the evil eye, misfortune, jinn and demons first among what such talismans are used for",
+   "source": "s:wp-islam-and-magic",
+   "tier": "cited"
+  },
+  {
+   "harm": "infertility",
+   "who": "the same summary, which names increasing fertility among the purposes",
+   "source": "s:wp-islam-and-magic",
+   "tier": "cited"
+  }
+ ],
+ "holdings": [
+  {
+   "museum": "other",
+   "what": "a hirz necklace with Qur'an case, silver with geometric and silver-leaf designs, 30.6 cm, 152.9 g, 14th century AH / early 20th century CE, published by the National Museum in Muscat through the Discover Islamic Art database",
+   "url": "https://islamicart.museumwnf.org/database_item.php?id=object;EPM;on;Mus21;16;en",
+   "source": "s:web-mwnf-hirz-oman",
+   "note": "museums.json has no key for the National Museum, Oman, so the entry is filed under other with the catalogue URL"
+  }
+ ],
+ "kin": [
+  {
+   "to": "islamic-talismanic",
+   "as": "the tradition that fills it, and the rule it obeys: invoke God, never jinn",
+   "rel": "tradition"
+  },
+  {
+   "to": "quran-pendant",
+   "as": "the same verses worn as a solid inscribed piece rather than as paper in a box",
+   "rel": "kin"
+  },
+  {
+   "to": "taweez",
+   "as": "the same object under its South Asian name",
+   "rel": "parallel"
+  },
+  {
+   "to": "gris-gris",
+   "as": "the West African cousin — the same Qur'anic writing, carried in cloth instead of silver, by way of Mande scholars",
+   "rel": "parallel"
+  },
+  {
+   "to": "mezuzah",
+   "as": "the other Abrahamic case with a written text sealed inside it, fixed to a doorpost rather than hung at a neck",
+   "rel": "parallel"
+  },
+  {
+   "to": "silver",
+   "as": "the metal it is nearly always made in",
+   "rel": "material"
+  },
+  {
+   "to": "folding",
+   "as": "the practice that gets a verse into a case that size",
+   "rel": "practice"
+  },
+  {
+   "to": "divine-name",
+   "as": "what is written inside — God's names, the names of angels or of prophets, or a verse",
+   "rel": "motif"
+  },
+  {
+   "to": "tuareg-cross",
+   "as": "the other silver charm in this batch, and the contrast: that one holds nothing",
+   "rel": "contrast"
+  },
+  {
+   "to": "grand-bazaar",
+   "as": "a market where the same case is sold under the Turkish name muska",
+   "rel": "place"
+  }
+ ],
+ "confusable_with": [
+  {
+   "id": "taweez",
+   "tell": "they are the same idea; hirz is the Arabic word and the Gulf form, taweez the South Asian one"
+  }
+ ],
+ "links": [
+  {
+   "label": "Hirz (Necklace) with Qur'an case — Discover Islamic Art",
+   "url": "https://islamicart.museumwnf.org/database_item.php?id=object;EPM;on;Mus21;16;en"
+  },
+  {
+   "label": "Throne Verse — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Throne_Verse"
+  }
+ ],
+ "sources": [
+  "s:web-mwnf-hirz-oman",
+  "s:wp-throne-verse",
+  "s:wp-islam-and-magic",
+  "s:wp-talisman",
+  "s:wp-silver"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-mwnf-hirz-oman"
+  },
+  "fields": {
+   "dating": {
+    "tier": "cited",
+    "source": "s:web-mwnf-hirz-oman",
+    "note": "one dated object stands in for an undated practice; the note says so"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "the present trade is reasoned from the form being described as widespread across Oman, Yemen and the peninsula; no market source was read"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Amulet case Oman silver.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A small case on a chain, rectangular or cylindrical, holding verses of the Qur'an written on paper inside. Usually silver.",
+ "region_terms": [
+  {
+   "key": "arabia-gulf",
+   "name": "Arabia and the Gulf",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "islamic-talismanic",
+   "type": "tradition",
+   "name": "Islamic talismanic craft",
+   "as": "the tradition that fills it, and the rule it obeys: invoke God, never jinn",
+   "rel": "tradition"
+  },
+  {
+   "to": "quran-pendant",
+   "type": "amulet",
+   "name": "Qur'an pendant",
+   "as": "the same verses worn as a solid inscribed piece rather than as paper in a box",
+   "rel": "kin"
+  },
+  {
+   "to": "taweez",
+   "type": "amulet",
+   "name": "Ta'wiz",
+   "as": "the same object under its South Asian name",
+   "rel": "parallel"
+  },
+  {
+   "to": "gris-gris",
+   "type": "amulet",
+   "name": "Gris-gris",
+   "as": "the West African cousin — the same Qur'anic writing, carried in cloth instead of silver, by way of Mande scholars",
+   "rel": "parallel"
+  },
+  {
+   "to": "mezuzah",
+   "type": "amulet",
+   "name": "Mezuzah",
+   "as": "the other Abrahamic case with a written text sealed inside it, fixed to a doorpost rather than hung at a neck",
+   "rel": "parallel"
+  },
+  {
+   "to": "silver",
+   "type": "material",
+   "name": "Silver",
+   "as": "the metal it is nearly always made in",
+   "rel": "material"
+  },
+  {
+   "to": "folding",
+   "type": "practice",
+   "name": "Folding",
+   "as": "the practice that gets a verse into a case that size",
+   "rel": "practice"
+  },
+  {
+   "to": "divine-name",
+   "type": "motif",
+   "name": "The name",
+   "as": "what is written inside — God's names, the names of angels or of prophets, or a verse",
+   "rel": "motif"
+  },
+  {
+   "to": "tuareg-cross",
+   "type": "amulet",
+   "name": "Agadez cross",
+   "as": "the other silver charm in this batch, and the contrast: that one holds nothing",
+   "rel": "contrast"
+  },
+  {
+   "to": "grand-bazaar",
+   "type": "place",
+   "name": "The Grand Bazaar",
+   "as": "a market where the same case is sold under the Turkish name muska",
+   "rel": "place"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:web-mwnf-hirz-oman",
+   "kind": "web",
+   "title": "Hirz (Necklace) with Qur'an case",
+   "publisher": "Discover Islamic Art, Museum With No Frontiers — National Museum, Muscat",
+   "url": "https://islamicart.museumwnf.org/database_item.php?id=object;EPM;on;Mus21;16;en",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-throne-verse",
+   "kind": "encyclopedia",
+   "title": "Throne Verse",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Throne_Verse",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-islam-and-magic",
+   "kind": "encyclopedia",
+   "title": "Islam and magic",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Islam_and_magic",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-talisman",
+   "kind": "encyclopedia",
+   "title": "Talisman",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Talisman",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-silver",
+   "kind": "encyclopedia",
+   "title": "Silver",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Silver",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:web-mwnf-hirz-oman"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:web-mwnf-hirz-oman"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:web-mwnf-hirz-oman"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "the present trade is reasoned from the form being described as widespread across Oman, Yemen and the peninsula; no market source was read"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:web-mwnf-hirz-oman"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:web-mwnf-hirz-oman",
+   "note": "one dated object stands in for an undated practice; the note says so"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:web-mwnf-hirz-oman"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "the catalogue entry, which says wearers use these pieces for spiritual protection through their sacred textual contents",
+   "quote": "",
+   "source": "s:web-mwnf-hirz-oman",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "demons",
+   "label": "Demons and night-hags",
+   "who": "the hadith reported in the source on the Throne Verse: reciting it wards off devils, shayatin, and fiends, afarit",
+   "quote": "",
+   "source": "s:wp-throne-verse",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "Islamic talismanic practice as summarised in the source, which lists protection against the evil eye, misfortune, jinn and demons first among what such talismans are used for",
+   "quote": "",
+   "source": "s:wp-islam-and-magic",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "infertility",
+   "label": "Infertility",
+   "who": "the same summary, which names increasing fertility among the purposes",
+   "quote": "",
+   "source": "s:wp-islam-and-magic",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  },
+  {
+   "key": "paper",
+   "label": "Paper",
+   "kind": "written"
+  },
+  {
+   "key": "ink",
+   "label": "Ink",
+   "kind": "written"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "hair",
+   "label": "In the hair",
+   "group": "body"
+  },
+  {
+   "key": "head",
+   "label": "On the head",
+   "group": "body"
+  }
+ ],
+ "form_fact": {
+  "key": "box",
+  "label": "Box or reliquary"
+ },
+ "holding_facts": [
+  {
+   "key": "other",
+   "label": "Another collection",
+   "note": "name it in `what` when it has no key here yet",
+   "what": "a hirz necklace with Qur'an case, silver with geometric and silver-leaf designs, 30.6 cm, 152.9 g, 14th century AH / early 20th century CE, published by the National Museum in Muscat through the Discover Islamic Art database",
+   "accession": "",
+   "url": "https://islamicart.museumwnf.org/database_item.php?id=object;EPM;on;Mus21;16;en",
+   "source": "s:web-mwnf-hirz-oman"
+  }
+ ],
+ "span": "1900 CE to now",
+ "country_names": [
+  {
+   "iso": "OM",
+   "name": "Oman"
+  },
+  {
+   "iso": "YE",
+   "name": "Yemen"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "gau-box",
+   "type": "amulet",
+   "name": "Gau",
+   "as": "the leather-cased cousin from North Africa, carried the same way at the neck",
+   "rel": "parallel"
+  },
+  {
+   "from": "gris-gris",
+   "type": "amulet",
+   "name": "Gris-gris",
+   "as": "the Arabian version — the same Qur'anic verses, but in a silver case rather than a cloth sack",
+   "rel": "parallel"
+  },
+  {
+   "from": "ladanka",
+   "type": "amulet",
+   "name": "Ladanka",
+   "as": "the Islamic sewn pouch doing the same work — a written prayer, carried on the body, not to be opened",
+   "rel": "parallel"
+  },
+  {
+   "from": "patua",
+   "type": "amulet",
+   "name": "Patuá",
+   "as": "the same object in Islamic West Africa — a written charm sewn shut and worn",
+   "rel": "parallel"
+  },
+  {
+   "from": "quran-pendant",
+   "type": "amulet",
+   "name": "Qur'an pendant",
+   "as": "the silver box of Qur'anic verses the Egyptian tradition names alongside the eye and the hamsa",
+   "rel": "kin"
+  },
+  {
+   "from": "taweez",
+   "type": "amulet",
+   "name": "Ta'wiz",
+   "as": "the North African and Nile version of the same container",
+   "rel": "kin"
+  },
+  {
+   "from": "tuareg-cross",
+   "type": "amulet",
+   "name": "Agadez cross",
+   "as": "the other silver charm in this batch, and the contrast: that one is a container for a text, this one is solid",
+   "rel": "contrast"
+  },
+  {
+   "from": "islamic-talismanic",
+   "type": "tradition",
+   "name": "Islamic talismanic craft",
+   "as": "the same writing in a North African and Nile container, and the clearest statement of the rule: invoke God, never jinn",
+   "rel": "carries"
+  },
+  {
+   "from": "silver",
+   "type": "material",
+   "name": "Silver",
+   "as": "a silver box with Qur'anic verses inside it",
+   "rel": "carried-by"
+  },
+  {
+   "from": "sewing-in",
+   "type": "practice",
+   "name": "Sewing in",
+   "as": "the sewn leather or cloth case of Islamic West and North Africa, holding written verses",
+   "rel": "carried-by"
+  },
+  {
+   "from": "wellcome-collection",
+   "type": "org",
+   "name": "Wellcome Collection",
+   "as": "the North African written charm class Henry Wellcome bought in bulk",
+   "rel": "carries"
+  },
+  {
+   "from": "gris-gris-word",
+   "type": "term",
+   "name": "gris-gris",
+   "as": "the same object under another name further east — a pouch holding written scripture",
+   "rel": "parallel"
+  },
+  {
+   "from": "taweez-word",
+   "type": "term",
+   "name": "taweez",
+   "as": "the pouch form of the same practice, sewn rather than cased",
+   "rel": "term"
+  }
+ ]
+}

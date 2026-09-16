@@ -1,0 +1,406 @@
+{
+ "schema": 1,
+ "id": "free-to-use",
+ "type": "story",
+ "names": {
+  "name": "Free to use",
+  "aliases": [
+   "the licensing record",
+   "what you may do with this",
+   "CC BY 4.0 and MIT"
+  ]
+ },
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "kind": "resources",
+  "era": "modern"
+ },
+ "text": {
+  "what": "This is the licence explained to the person who wants to take something. The records and the pages built from them are under Creative Commons Attribution 4.0. The code that builds them is MIT. Every picture keeps whatever licence it arrived with and is not relicensed by being here. The country outlines are public domain. Quotations belong to the people who said them. And there is one thing in this repository that the licence cannot reach, which this record states as a request rather than pretending it is a term."
+ },
+ "sections": [
+  {
+   "h": "Four different things, four different licences",
+   "text": "The LICENSE file at the root of this repository splits into parts, and a reuser needs to know which part they are holding.\n\nThe records in `data/` and the pages built from them: Creative Commons Attribution 4.0 International, CC BY 4.0. That covers the text of every node, the `against[]` claims, the `dating` blocks, the kin sentences and the long reads including this one.\n\nThe code in `tools/`: MIT, copyright 2026 NaN. Permission to use, copy, modify, merge, publish, distribute, sublicense and sell, with the notice kept and no warranty given.\n\nThe pictures in `data/images/**` and `docs/images/**`: each one carries its own licence, in its own record and on the page that shows it — CC0, public domain, CC BY, CC BY-SA, the Free Art Licence, or a \"no known copyright restrictions\" rights statement from the holding institution. The LICENSE says plainly that none of them is relicensed by this repository. A CC BY-SA photograph here is still CC BY-SA when you take it, and the CC BY 4.0 on the records does not convert it.\n\nThe drawn signs — the glyphs in `tools/viz.py`, and the figure, house, car and boat on /wear/ — were drawn for this project from published descriptions rather than traced from any one object or anybody else's drawing, and they go out CC BY 4.0 with the records.\n\nQuoted text is the fourth case and is not licensed at all. Every quotation on this site is short, in quotation marks, and attributed to a named speaker or publication, as fair dealing or fair use. Nothing here reproduces a copyrighted work at length, and a reuser taking a record takes the quotations under the same doctrine, not under CC BY."
+  },
+  {
+   "h": "What the picture pipeline will accept, and what it refuses",
+   "text": "The allowlist is in code and it is short.\n\n`tools/harvest_commons.py` tests every candidate file against one expression: CC0, public domain, CC BY, CC BY-SA, or the Free Art Licence. Anything else is listed on screen with its licence and skipped, so a rejected file is visible rather than silently missing. The file's own comment states the position on share-alike: it is complied with, not avoided — the licence and the author ride with the image into the record and onto the page.\n\n`tools/validate.py` runs the same test from the other end, refusing any record whose `images[]` entry carries a licence outside the list. It accepts three institutional statements as well: \"No known copyright restrictions\", NoC-US, and United States Government Work. The comment beside that line says why and sets a limit — the first of those is the Flickr Commons and Library of Congress statement, meaning the holding institution found no copyright and asks only for a credit, and it is accepted here only where an item carries it on its own page, per item and never per collection.\n\nWhat the pipeline will not take is anything non-commercial-only, anything no-derivatives, and anything held under fair use. On that last point this project follows Wikimedia Commons, which states that it \"does not accept fair use justifications\". Commons accepts only free content — \"images and other media files that are not subject to copyright restrictions which would prevent them being used by anyone, anytime, for any purpose\" — and requires that republication, derivative work and commercial use all be allowed, under a licence that is perpetual and non-revocable.\n\nAs this record is written, `images[]` is empty on every node in the atlas and candidate Commons filenames sit in `x_commons_files` waiting for that harvest. The rules above therefore describe a pass that has not yet run."
+  },
+  {
+   "h": "What Natural Earth and Wikimedia contribute",
+   "text": "Two outside bodies of work do heavy lifting here and neither charges for it.\n\nThe country outlines in `data/geo/world.json` are Natural Earth, 1:110m. Its terms of use are among the shortest in cartography: \"All versions of Natural Earth raster + vector map data found on this website are in the public domain.\" And then, remarkably: \"No permission is needed to use Natural Earth. Crediting the authors is unnecessary.\" The site offers a suggested credit line — \"Made with Natural Earth\" — for anybody who wants to give one, and notes that the authors take no responsibility for accuracy or for how the data is used. This atlas credits it in the LICENSE anyway, because a reader tracing a border deserves to know whose sheet it came off.\n\nWikimedia Commons is where the atlas's pictures will come from, and its licensing policy is the reason a picture pipeline can exist at all: a repository of files vetted in advance against a single free-content test, with licence, author and page URL published for each. *Inference —* the practical value is that a small project can assemble an illustrated reference without negotiating a single permission, and the price is that the project has to carry the share-alike obligations forward rather than quietly dropping them."
+  },
+  {
+   "h": "How to reuse a record",
+   "text": "CC BY 4.0, in the deed's own words, lets you \"Share — copy and redistribute the material in any medium or format for any purpose, even commercially\" and \"Adapt — remix, transform, and build upon the material for any purpose, even commercially\". The licensor cannot revoke those freedoms while you follow the terms.\n\nTwo terms. \"Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.\" And \"No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.\"\n\nIn practice, for this atlas: name it as the Amulet Atlas, link to the CC BY 4.0 deed, and say if you changed anything. Take the text from the record, the JSON from the API tables under `build/api/` — `nodes.json`, `timeline.json`, `against.json`, `kin.json`, `atlas.json` — or the whole repository. Translating a record is an adaptation and is allowed; so is correcting it, and a correction that is not marked as one will be read as this project's sentence.\n\nOne request that is not a term: the sources are cited by id, and a record travels better with its `sources[]` intact than with the citations stripped. Nothing in the licence requires keeping them. This record notes the difference between a requirement and a request every time it meets one."
+  },
+  {
+   "h": "The one thing this licence cannot do",
+   "text": "Some of the material this atlas describes is restricted by the traditions it belongs to. Where that is so, the record carries a `restricted` block, the validator refuses that block unless it names who says so, and the detail is absent by design.\n\nThe LICENSE puts the consequence in one sentence: a licence permitting reuse of these records is not permission to fill that absence from elsewhere, and the project asks that reusers keep the restriction with the record it belongs to.\n\nThat is an ask and this record will not dress it as anything more. CC BY 4.0's second term forbids applying additional legal terms or technological measures that restrict what the licence permits — which means a project publishing under it cannot bolt on a clause requiring a restriction to travel, and could not enforce one if it did. The freedom that lets a reader take these records is the same freedom that lets a reader take a record's blank and fill it with a guess from a neighbouring tradition.\n\n*Inference —* the only real defence against that is in the writing, not in the licence. A record whose `restricted` block names a body, a policy and a date is harder to quietly overwrite than one that only goes quiet in the right place. Which is why the restriction is written as a sourced claim with a claimant, in the same form as every other claim in the atlas — so that a reuser who strips it has to strip a citation, and notice themselves doing it."
+  }
+ ],
+ "dating": {
+  "period": "the licence as applied from 2026",
+  "from_year": 2026,
+  "to_year": null,
+  "living": true,
+  "label": "2026, when this repository was licensed, to now",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:repo-atlas-license",
+  "note": "Dated from the LICENSE file in this repository, read on 17 September 2026. The licences it names — CC BY 4.0, MIT, and Natural Earth's public-domain terms — are all older than this project; no publication date is claimed for any of them here because none was read."
+ },
+ "kin": [
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the restriction rule this licence deliberately cannot enforce, set out at length",
+   "rel": "story"
+  },
+  {
+   "to": "dating-a-charm",
+   "as": "the other note about how this site is built, rather than about what it describes",
+   "rel": "story"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the same question about objects instead of about text: what may be kept, and by whom",
+   "rel": "story"
+  },
+  {
+   "to": "wikimedia-commons",
+   "as": "where every picture in this atlas is to come from, and whose free-content test the pipeline copies",
+   "rel": "org"
+  },
+  {
+   "to": "the-drawn-signs",
+   "as": "the images the project makes itself, drawn from published descriptions and released with the records",
+   "rel": "art"
+  },
+  {
+   "to": "pitt-rivers-museum",
+   "as": "one of the collections whose own published terms govern what this atlas may show of its objects",
+   "rel": "org"
+  },
+  {
+   "to": "te-papa",
+   "as": "a museum whose copyright and taonga terms set conditions this licence has to respect rather than override",
+   "rel": "org"
+  },
+  {
+   "to": "unesco-ich",
+   "as": "the register that raises the same question at state scale — who may list, and who may reuse, somebody else's practice",
+   "rel": "org"
+  }
+ ],
+ "links": [
+  {
+   "label": "Attribution 4.0 International (CC BY 4.0)",
+   "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "label": "Commons:Licensing — Wikimedia Commons",
+   "url": "https://commons.wikimedia.org/wiki/Commons:Licensing"
+  },
+  {
+   "label": "Terms of Use — Natural Earth",
+   "url": "https://www.naturalearthdata.com/about/terms-of-use/"
+  }
+ ],
+ "sources": [
+  "s:repo-atlas-license",
+  "s:repo-atlas-build",
+  "s:repo-atlas-schema",
+  "s:repo-atlas-viz",
+  "s:web-cc-by-4",
+  "s:web-commons-licensing",
+  "s:web-natural-earth-terms",
+  "s:web-tepapa-copyright",
+  "s:web-prm-collections-terms"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:repo-atlas-license"
+  },
+  "fields": {
+   "sections": {
+    "tier": "cited",
+    "source": "s:repo-atlas-license",
+    "note": "the licence text and the two allowlists were read in this repository on 17 September 2026; the outside terms are quoted from the licensors' own pages; one stretch of this project's reasoning is labelled inline"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-17",
+ "blurb": "This is the licence explained to the person who wants to take something. The records and the pages built from them are under Creative Commons Attribution 4.0. The code that builds them is MIT.",
+ "region_terms": [
+  {
+   "key": "world",
+   "name": "Everywhere",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "use for a sign or a practice documented on more than two continents"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "what-this-atlas-does-not-print",
+   "type": "story",
+   "name": "What this atlas does not print",
+   "as": "the restriction rule this licence deliberately cannot enforce, set out at length",
+   "rel": "story"
+  },
+  {
+   "to": "dating-a-charm",
+   "type": "story",
+   "name": "Dating a charm",
+   "as": "the other note about how this site is built, rather than about what it describes",
+   "rel": "story"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the same question about objects instead of about text: what may be kept, and by whom",
+   "rel": "story"
+  },
+  {
+   "to": "wikimedia-commons",
+   "type": "org",
+   "name": "Wikimedia Commons",
+   "as": "where every picture in this atlas is to come from, and whose free-content test the pipeline copies",
+   "rel": "org"
+  },
+  {
+   "to": "the-drawn-signs",
+   "type": "art",
+   "name": "The drawn signs",
+   "as": "the images the project makes itself, drawn from published descriptions and released with the records",
+   "rel": "art"
+  },
+  {
+   "to": "pitt-rivers-museum",
+   "type": "org",
+   "name": "The Pitt Rivers Museum",
+   "as": "one of the collections whose own published terms govern what this atlas may show of its objects",
+   "rel": "org"
+  },
+  {
+   "to": "te-papa",
+   "type": "org",
+   "name": "Museum of New Zealand Te Papa Tongarewa",
+   "as": "a museum whose copyright and taonga terms set conditions this licence has to respect rather than override",
+   "rel": "org"
+  },
+  {
+   "to": "unesco-ich",
+   "type": "org",
+   "name": "UNESCO Intangible Cultural Heritage",
+   "as": "the register that raises the same question at state scale — who may list, and who may reuse, somebody else's practice",
+   "rel": "org"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:repo-atlas-license",
+   "kind": "repository",
+   "title": "LICENSE",
+   "publisher": "Amulet Atlas — this repository",
+   "accessed": "2026-09-16",
+   "note": "The licence file at the repository root, read in place. No public URL; it ships with the source."
+  },
+  {
+   "id": "s:repo-atlas-build",
+   "kind": "repository",
+   "title": "tools/build.py, tools/harvest_commons.py and the tables in build/api/",
+   "publisher": "Amulet Atlas — this repository",
+   "accessed": "2026-09-17",
+   "note": "Read in place. Carries the timeline table, the against table, the picture pipeline and its licence allowlist. No public URL; it ships with the source."
+  },
+  {
+   "id": "s:repo-atlas-schema",
+   "kind": "repository",
+   "title": "schema/node.schema.json and tools/validate.py",
+   "publisher": "Amulet Atlas — this repository",
+   "accessed": "2026-09-16",
+   "note": "Read in place. The record schema and the checks run against it."
+  },
+  {
+   "id": "s:repo-atlas-viz",
+   "kind": "repository",
+   "title": "tools/viz.py — every drawn thing on this site, as inline SVG",
+   "publisher": "Amulet Atlas — this repository",
+   "accessed": "2026-09-16",
+   "note": "Read in place. Carries the drawn sign glyphs and the timeline axis."
+  },
+  {
+   "id": "s:web-cc-by-4",
+   "kind": "web",
+   "title": "Attribution 4.0 International (CC BY 4.0) — deed",
+   "publisher": "Creative Commons",
+   "url": "https://creativecommons.org/licenses/by/4.0/",
+   "accessed": "2026-09-17",
+   "note": "The human-readable deed, not the legal code. The 'No additional restrictions' clause quoted in /story/free-to-use is from this page."
+  },
+  {
+   "id": "s:web-commons-licensing",
+   "kind": "web",
+   "title": "Commons:Licensing",
+   "publisher": "Wikimedia Commons",
+   "url": "https://commons.wikimedia.org/wiki/Commons:Licensing",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-natural-earth-terms",
+   "kind": "web",
+   "title": "Terms of Use",
+   "publisher": "Natural Earth",
+   "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-tepapa-copyright",
+   "kind": "web",
+   "title": "Copyright and terms of use",
+   "publisher": "Museum of New Zealand Te Papa Tongarewa",
+   "url": "https://www.tepapa.govt.nz/about/collections/all-te-papa-websites/copyright-and-terms-use",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-prm-collections-terms",
+   "kind": "web",
+   "title": "Collections Online — Terms and Conditions",
+   "publisher": "Pitt Rivers Museum, University of Oxford",
+   "url": "https://www.prm.ox.ac.uk/collections-online-terms-and-conditions",
+   "accessed": "2026-09-16"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:repo-atlas-license"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:repo-atlas-license"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "2026 CE to now",
+ "country_names": [],
+ "kin_in": [
+  {
+   "from": "british-museum-room-1",
+   "type": "place",
+   "name": "Room 1: Enlightenment, the British Museum",
+   "as": "the long read on licensing; this museum's images can be linked from here and not hosted here",
+   "rel": "story"
+  },
+  {
+   "from": "met-egyptian-galleries",
+   "type": "place",
+   "name": "The Egyptian galleries, the Metropolitan Museum of Art",
+   "as": "the long read on licensing, where the CC0 dedication behind these object records is the case that works",
+   "rel": "story"
+  },
+  {
+   "from": "british-museum",
+   "type": "org",
+   "name": "The British Museum",
+   "as": "the long read on licensing, where this museum is the worked example of a licence that looks open and is not",
+   "rel": "story"
+  },
+  {
+   "from": "metropolitan-museum",
+   "type": "org",
+   "name": "The Metropolitan Museum of Art",
+   "as": "the long read on licensing; CC0 here is the case that works",
+   "rel": "story"
+  },
+  {
+   "from": "wellcome-collection",
+   "type": "org",
+   "name": "Wellcome Collection",
+   "as": "the long read on licensing, where a per-item licence like this one is the awkward middle case",
+   "rel": "story"
+  },
+  {
+   "from": "wikimedia-commons",
+   "type": "org",
+   "name": "Wikimedia Commons",
+   "as": "the long read this record is the machinery behind — what this atlas may show, and why the gaps are where they are",
+   "rel": "story"
+  },
+  {
+   "from": "budge-plates",
+   "type": "art",
+   "name": "Budge's amulet plates",
+   "as": "why these plates are named here and not shown here: the catalogue record says in copyright",
+   "rel": "story"
+  },
+  {
+   "from": "petrie-amulet-plates",
+   "type": "art",
+   "name": "Petrie's amulet plates",
+   "as": "why these plates can appear here at all: no visible copyright notice, 1914",
+   "rel": "story"
+  },
+  {
+   "from": "the-drawn-signs",
+   "type": "art",
+   "name": "The drawn signs",
+   "as": "the licence record: what you may do with these drawings, in full",
+   "rel": "story"
+  },
+  {
+   "from": "amulet-or-talisman",
+   "type": "story",
+   "name": "Amulet or talisman?",
+   "as": "the other record about this project's own terms, rather than about anybody else's",
+   "rel": "story"
+  },
+  {
+   "from": "dating-a-charm",
+   "type": "story",
+   "name": "Dating a charm",
+   "as": "the third record about this project's own workings: who may reuse all of this, and on what terms",
+   "rel": "story"
+  },
+  {
+   "from": "the-swastika-problem",
+   "type": "story",
+   "name": "The swastika problem",
+   "as": "the licensing record, which is where the question of who may reuse this material is answered",
+   "rel": "story"
+  },
+  {
+   "from": "what-this-atlas-does-not-print",
+   "type": "story",
+   "name": "What this atlas does not print",
+   "as": "what this project does publish, and on what terms",
+   "rel": "story"
+  }
+ ]
+}

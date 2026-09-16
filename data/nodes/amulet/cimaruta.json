@@ -1,0 +1,84 @@
+{
+ "schema": 1,
+ "id": "cimaruta",
+ "type": "amulet",
+ "names": {
+  "name": "Cimaruta",
+  "native": "cimaruta",
+  "script": "Latin",
+  "lang": "it",
+  "said": "chee-mah-ROO-tah; plural cimarute",
+  "aliases": ["sprig of rue", "cima di ruta"]
+ },
+ "etymology": {
+  "root": "Neapolitan cimaruta, from Italian cima di ruta, 'sprig of rue' — cima 'top, tip' plus ruta, the flowering medicinal herb the whole charm is shaped as.",
+  "tier": "cited",
+  "source": "s:wp-cimaruta"
+ },
+ "region": ["rome-italy", "diaspora"],
+ "countries": ["IT", "US"],
+ "facets": {"era": "modern", "status": "contested", "portable": "worn", "restricted": "open", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A silver sprig of rue with charms on the ends of its branches. From a central stalk the branches radiate and each one blossoms into a different object: a rose, a hand holding a wand or a sword, a flaming heart, a fish, a crescent moon, a snake, an owl, a plumed medieval helmet, a vervain blossom, a dolphin, a cock, an eagle. One cimaruta might carry a key, a dagger, a blossom and a moon and no more. Most are double-sided and fairly large — some almost four inches across.",
+  "story": "The cimaruta is worn round the neck or hung above an infant's bed, and what it is hung against is named in Italian: mal'occhio, the evil eye. Which charms go on the branches varies by region of origin, and the form is particularly associated with southern Italy.\n\nThe piece has been studied as a structure rather than as a symbol. R. T. Günther published \"The Cimaruta: Its Structure and Development\" in Folk-lore in 1905, working on how the branches and their charms are put together and how that arrangement changed.\n\nThere is a live argument about whose object it is. Some practitioners of the neopagan religion of witchcraft called Stregoneria or Stregheria treat the cimaruta as a survival of an older Italian magic tradition, of the kind Charles Leland described in his 1899 Aradia, or the Gospel of the Witches, which claimed a pagan witch-cult still active in Italy. Raven Grimassi, in The Cimaruta: And Other Magical Charms from Old Italy (2012), argues the cimaruta was originally a witches' charm, a sign of membership in what he calls the Society of Diana, later taken over by Italian folk magic, with Christian symbols added to the original pagan ones. Wikipedia's own account of the same material describes the cimaruta as alleged to be in borrowed use among self-identified Italian-American witches, which is a different claim about the same objects. This atlas reports both and settles neither; what is not in dispute is that the charm is worn in southern Italy and by descendants of Italian emigrants, against the eye, and that some of its branches carry Christian imagery.",
+  "how": "Cast, commonly in silver, as a single piece: stalk, branches, and the charms that terminate them. Some modern versions are cast in bronze or pewter. Worn on a cord or chain at the neck, or hung over the bed of a child too young to wear one.",
+  "today": "Still cast and sold, in Italy and in the Italian-American market, in silver and in cheaper alloys, and sold alongside books that make the Stregheria claim for it. *Inference —* the object's present-day buyers are not the same population as its nineteenth-century wearers, and the argument recorded above is mostly an argument between the two."
+ },
+ "dating": {
+  "period": "Documented from the turn of the twentieth century",
+  "from_year": 1899,
+  "to_year": null,
+  "living": true,
+  "label": "documented from 1899; still made",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-cimaruta",
+  "note": "This dates the first writing, not the object. The earliest dated items in the source are Leland's Aradia of 1899 and Günther's structural study of 1905. The charm is older than both and this record does not guess by how much — the bar on the timeline is a floor, not a start."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": ["silver"],
+  "worn": ["neck", "cradle"],
+  "made_by": "silversmiths; no restriction on who may wear one is recorded",
+  "inscription": "",
+  "colour": ["silver"],
+  "single_use": false,
+  "source": "s:wp-cimaruta",
+  "note": "The source says most are double-sided and fairly large, some almost four inches in width. That is a description of the largest examples, not a typical dimension, so no length is entered. Modern casts are also made in bronze and pewter."
+ },
+ "against": [
+  {"harm": "evil-eye", "who": "Italian wearers, who name the harm mal'occhio", "source": "s:wp-cimaruta", "tier": "cited"},
+  {"harm": "child-harm", "who": "the same practice, in which the charm is hung above an infant's bed rather than worn", "source": "s:wp-cimaruta", "tier": "cited"}
+ ],
+ "kin": [
+  {"to": "cornicello", "as": "the other Italian answer to the same eye, and the one that says it with a single shape instead of a dozen", "rel": "parallel"},
+  {"to": "eye", "as": "the harm this charm is aimed at, stated in its own language as mal'occhio", "rel": "motif"},
+  {"to": "hand", "as": "one of the charms on its branches — a hand holding a wand or a sword — and a sign that stands alone elsewhere in this atlas", "rel": "motif"},
+  {"to": "serpent", "as": "the snake on one branch; the cimaruta is the rare amulet that stacks signs rather than choosing one", "rel": "motif"},
+  {"to": "crescent", "as": "the moon on another branch, doing in miniature what a lunula does on its own cord", "rel": "motif"},
+  {"to": "key", "as": "another of the terminal charms, and one that carries its own meanings across Europe", "rel": "motif"},
+  {"to": "silver", "as": "the metal it is nearly always cast in, and the metal Naples associates with the moon", "rel": "material"},
+  {"to": "herb", "as": "what it is a portrait of: rue, a medicinal plant, reproduced in metal so it never wilts", "rel": "material"},
+  {"to": "lunula", "as": "the older Italian charm hung on a child, and the one this atlas dates properly", "rel": "parallel"},
+  {"to": "san-gregorio-armeno", "as": "the Naples street where charms of this kind are still cast and sold", "rel": "place"},
+  {"to": "frederick-elworthy", "as": "the Victorian who travelled Italy and Spain collecting charms against the eye and published on them in 1895", "rel": "person"},
+  {"to": "who-owns-a-charm", "as": "the long read the Stregheria argument belongs in: who a folk object belongs to once a revival claims it", "rel": "story"}
+ ],
+ "confusable_with": [
+  {"id": "cornicello", "tell": "the cimaruta branches — a stalk with several charms on its tips; the cornicello is one twisted horn and nothing else"}
+ ],
+ "links": [{"label": "Cimaruta — Wikipedia", "url": "https://en.wikipedia.org/wiki/Cimaruta"}],
+ "sources": ["s:wp-cimaruta", "s:wp-cornicello", "s:wp-evil-eye", "s:wp-frederick-thomas-elworthy", "s:wp-via-san-gregorio-armeno"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-cimaruta"},
+  "fields": {
+   "dating": {"tier": "cited", "source": "s:wp-cimaruta", "note": "the years are the first publications, and the field's note says so"},
+   "text.today": {"tier": "inference", "note": "the present-day market and the composition of its buyers are this project's reasoning, marked in the prose"}
+  }
+ },
+ "images": [],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

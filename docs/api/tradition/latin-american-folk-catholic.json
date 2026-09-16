@@ -1,0 +1,844 @@
+{
+ "schema": 1,
+ "id": "latin-american-folk-catholic",
+ "type": "tradition",
+ "names": {
+  "name": "Latin American folk Catholic charm practice",
+  "said": "religiosidad popular — the term Spanish-speaking clergy and scholars use for it",
+  "aliases": [
+   "religiosidad popular",
+   "folk Catholicism of the Americas",
+   "Latin American popular devotion"
+  ]
+ },
+ "region": [
+  "mesoamerica",
+  "caribbean",
+  "andes",
+  "southern-cone",
+  "brazil",
+  "iberia",
+  "north-america"
+ ],
+ "countries": [
+  "MX",
+  "PR",
+  "CU",
+  "DO",
+  "PE",
+  "BO",
+  "GT",
+  "ES",
+  "US",
+  "PH"
+ ],
+ "facets": {
+  "era": "living",
+  "status": "living",
+  "restricted": "open",
+  "language": "Spanish",
+  "hemisphere": [
+   "N",
+   "S",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "Catholic forms in lay hands, worked past the point the clergy sanctions. A tin leg pinned to a saint's robe; a jet fist tied on a newborn in the first week; a seed called deer's eye on a red cord; a Saint Christopher on the dashboard; a candle, a cleansing and a saint's image bought in the same market aisle as medicinal herbs. Nothing in the list is outside Catholicism's own vocabulary. What makes it a separate tradition is who decides where the line falls — and here the household decides, not the parish.",
+  "story": "The objects arrived with the ships and most of them are older than the crossing. Milagros — small metal or wax body parts offered at a shrine — are traced to the ancient Iberians of the Spanish coast, travelled with the Spanish into Central and South America, and still hold in rural Andalusia, Catalonia and Majorca alongside their American forms. Jet amulets have been cut since the Neolithic; by the end of the Middle Ages the working of jet religious objects was concentrated at Santiago de Compostela and sold to pilgrims on the Camino, and the Asturian fist for a baby went from there into the Spanish Caribbean. Edward Tabor traces that fist further back, to Muslim North Africa, citing Washington Irving's 1829 description of a comparable jet hand among the Moors of Barbary, into Spain during the Moorish period of 711 to 1492 and on to the colonies.\n\nThe local material entered the same kit. In Mexico the ojo de venado is a Mucuna seed; México Desconocido traces its career as an amulet to Xichú in northeastern Guanajuato and notes the plant also grew in Chiapas, Oaxaca, Puebla, San Luis Potosí and Veracruz, so other regions may have arrived at the use independently. Newborns get one against mal de ojo; adults take one up for a hard stretch; drivers hang one where they can see it.\n\nThe argument in this tradition is unusually well documented because the clergy write it down. The Catechism of the Catholic Church condemns attributing a magical importance to otherwise lawful practices and crediting an object's efficacy to its material form. The priest Eduardo Hayen Cuarón condemned the ojo de venado by name, as an amulet and therefore an esoteric practice, malign and the work of Satan. Set against that, a Saint Christopher medal sold in Spanish-speaking markets carries a printed promise — 'Si en San Cristóbal confías, de accidente no morirás', if you trust in Saint Christopher you will not die in an accident — which is exactly the proposition the Catechism warns against, printed on a devotional article and sold in a shop. Both facts are on the record. This atlas prints them side by side and settles nothing.\n\nThe markets are where the tradition is legible as a system. At the Mercado de Sonora in Mexico City, established with other public markets by the city government on 23 September 1957 to regulate retail trade, medicinal herbs and magical and occult goods occupy aisles at the back of a single metal-framed nave. The two categories are not separate, and the account says so. Candles, saints' images, cleansings and herbs are bought in the same visit, from the same stallholders, by customers across the income range. In Lima and La Paz the equivalent counters sell the same combination with Andean material alongside.\n\n*Inference —* the tradition's defining move is a doubling rather than a substitution. A saint does not replace a charm and a charm does not replace a saint; the same object is both, and which one it is depends on who is asked. That is why this record sits beside catholic-sacramentals rather than inside it: the sacramental tradition is defined by the Church drawing a line, and this one by households drawing it somewhere else.",
+  "how": "Bought rather than made, in a church, a cathedral, a churchyard stall, a botánica or a market aisle, and then put to work in a named place: pinned to a saint's image or a shrine wall, tied to an infant's wrist within days of birth, hung from a rear-view mirror, set on a home altar, carried in a pocket. Some are blessed by a priest and some are not, and the tradition does not treat that as the deciding fact. Milagros can be offered as a reminder of what the petitioner needs or in thanks for a prayer already answered, and the shape does the pointing — though the code is local, not universal, so a leg can mean a leg or a journey.",
+  "today": "Live across Mexico, the Spanish-speaking Caribbean, the Andes, parts of the United States, and the Philippines by the same galleon route. Prices have been published for one object: Tabor gives US$3 to US$10 for an azabache in a botánica and US$9 to US$55 online at the time he wrote, in 2023, and reports that 29 per cent of the wearers he surveyed had chosen the fist and 71 per cent the polyhedron. Quiapo Church in Manila draws millions on 9 January and thousands every Friday, with the stalls outside selling the amulets alongside. The Mercado de Sonora still trades, in a building the city put up in 1957 and has maintained badly since."
+ },
+ "dating": {
+  "period": "Colonial to the present",
+  "from_year": 1521,
+  "to_year": null,
+  "living": true,
+  "label": "from the Spanish arrival in the Americas to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-milagro-votive",
+  "note": "from_year marks the Spanish arrival in Mesoamerica, which is when the cited account says the milagro custom accompanied the Spanish into Central and South America. It is a convention, not an event: the sources date the objects' Iberian ancestry far earlier — jet amulets from the Neolithic, the milagro to the ancient Iberians — and date no single American starting point."
+ },
+ "object": {
+  "form": "medal",
+  "materials": [
+   "silver",
+   "gold",
+   "lead",
+   "jet",
+   "seed",
+   "wood",
+   "glass",
+   "thread",
+   "paper"
+  ],
+  "worn": [
+   "neck",
+   "wrist",
+   "vehicle",
+   "wall",
+   "pocket",
+   "cradle",
+   "shop"
+  ],
+  "made_by": "workshops, market stallholders and small manufacturers; bought in churches and cathedrals, from street vendors, in botánicas and in market aisles. Blessing by a priest is available and is not the tradition's deciding fact.",
+  "colour": [
+   "red",
+   "black",
+   "silver"
+  ],
+  "single_use": false,
+  "source": "s:wp-milagro-votive",
+  "note": "There is no single object. The fields are the commonest cases across the Latin American records in this atlas."
+ },
+ "against": [
+  {
+   "harm": "evil-eye",
+   "who": "Mexican and Caribbean households: a Mucuna seed called deer's eye against mal de ojo, and a jet fist tied on a newborn within days of birth",
+   "source": "s:web-mexicodesconocido-ojo-de-venado",
+   "tier": "cited"
+  },
+  {
+   "harm": "child-harm",
+   "who": "Puerto Rican, Cuban and Dominican parents, who told Edward Tabor the azabache is against the evil eye and with it diarrhoea, respiratory infections, deformities and above all sudden infant death",
+   "source": "s:web-hektoen-azabache",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "petitioners at shrines, who pin a milagro shaped like the afflicted part to a saint's image as a reminder of the need or in thanks for an answer",
+   "source": "s:wp-milagro-votive",
+   "tier": "cited"
+  },
+  {
+   "harm": "traffic",
+   "who": "the medals themselves, which print the claim: 'Si en San Cristóbal confías, de accidente no morirás' — if you trust in Saint Christopher, you will not die in an accident",
+   "source": "s:wp-saint-christopher",
+   "tier": "cited"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "customers at the Mercado de Sonora, whose back aisles sell goods for magic and the occult alongside medicinal herbs, the two not kept separate",
+   "source": "s:wp-mercado-de-sonora",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "the same market's stock, which includes crosses of ocote wood for good luck and chains of garlic to turn evil away",
+   "source": "s:wp-mercado-de-sonora",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "milagro",
+   "as": "the tradition's public object — left at the shrine rather than carried home, and the one that decides which saint gets which limb",
+   "rel": "carries"
+  },
+  {
+   "to": "azabache",
+   "as": "its earliest arrival: a jet fist out of Asturias by way of Santiago de Compostela, tied on a Caribbean newborn in the first week",
+   "rel": "carries"
+  },
+  {
+   "to": "ojo-de-venado",
+   "as": "the local material entering the same kit — a Mexican seed on a red cord, and the object a priest condemned by name",
+   "rel": "carries"
+  },
+  {
+   "to": "car-saint",
+   "as": "the dashboard end of it, where a devotional medal prints a promise the Catechism warns against",
+   "rel": "carries"
+  },
+  {
+   "to": "figa",
+   "as": "the fist as a sign, carried across the same Iberian route into Brazil and the Caribbean",
+   "rel": "carries"
+  },
+  {
+   "to": "catholic-sacramentals",
+   "as": "the tradition this one is defined against: there the Church draws the line, here the household draws it somewhere else",
+   "rel": "origin"
+  },
+  {
+   "to": "anting-anting",
+   "as": "the same move in another Spanish colony — church forms taken up and worked by people outside the clergy, across the Pacific by the galleon route",
+   "rel": "parallel"
+  },
+  {
+   "to": "andean-illa-practice",
+   "as": "the tradition it shares a counter with in La Paz and Lima, and the one whose January blessing the Church joins in on",
+   "rel": "parallel"
+  },
+  {
+   "to": "ex-voto-wall",
+   "as": "the format this tradition keeps alive on tin — a painted account of the danger survived, hung where the next petitioner will read it",
+   "rel": "art"
+  },
+  {
+   "to": "blessing-at-a-shrine",
+   "as": "the act most of these objects exist for, and the one the markets are laid out around",
+   "rel": "practice"
+  },
+  {
+   "to": "buying-in-a-market",
+   "as": "how one is got: an aisle, a tray, a red cord tied on the spot",
+   "rel": "practice"
+  },
+  {
+   "to": "mercado-de-sonora",
+   "as": "the tradition's clearest single address — a building the city put up in 1957 to regulate exactly this trade",
+   "rel": "place"
+  }
+ ],
+ "links": [
+  {
+   "label": "Milagro (votive) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Milagro_(votive)"
+  },
+  {
+   "label": "Mercado de Sonora — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mercado_de_Sonora"
+  }
+ ],
+ "sources": [
+  "s:wp-milagro-votive",
+  "s:wp-ex-voto",
+  "s:wp-votive-offering",
+  "s:wp-mercado-de-sonora",
+  "s:web-mexicodesconocido-ojo-de-venado",
+  "s:web-hektoen-azabache",
+  "s:wp-saint-christopher",
+  "s:wp-devotional-medal",
+  "s:wp-sacramental",
+  "s:web-ccc-first-commandment",
+  "s:wp-folk-religion",
+  "s:wp-quiapo-church",
+  "s:web-ulima-paseo-fe-magia",
+  "s:wp-jet-gemstone",
+  "s:wp-fig-sign"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-milagro-votive"
+  },
+  "fields": {
+   "dating": {
+    "tier": "inference",
+    "note": "the start year is this project's convention for the Spanish arrival, stated as such in the note; the cited accounts date the objects' Iberian ancestry and not an American beginning"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-milagro-votive",
+    "note": "the closing paragraph is marked inference where it appears"
+   },
+   "object": {
+    "tier": "inference",
+    "note": "no single object; the fields are the commonest cases across the Latin American records, not a published composite"
+   },
+   "countries": {
+    "tier": "cited",
+    "note": "Mexico, Puerto Rico, Cuba, the Dominican Republic, Spain and the southern United States are named in the sources read here; Peru and Bolivia for the market counters; Guatemala is the weakest entry; the Philippines is included because the same galleon route carried the same doubling of saint and charm, which the quiapo-church record sets out"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Milagros ex voto.jpg",
+  "File:Azabache amulet.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-17",
+ "blurb": "Catholic forms in lay hands, worked past the point the clergy sanctions.",
+ "region_terms": [
+  {
+   "key": "mesoamerica",
+   "name": "Mesoamerica",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "caribbean",
+   "name": "The Caribbean",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "andes",
+   "name": "The Andes",
+   "hemi": [
+    "S",
+    "W"
+   ]
+  },
+  {
+   "key": "southern-cone",
+   "name": "The Southern Cone",
+   "hemi": [
+    "S",
+    "W"
+   ]
+  },
+  {
+   "key": "brazil",
+   "name": "Brazil",
+   "hemi": [
+    "S",
+    "W"
+   ]
+  },
+  {
+   "key": "iberia",
+   "name": "Iberia",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "milagro",
+   "type": "amulet",
+   "name": "Milagro",
+   "as": "the tradition's public object — left at the shrine rather than carried home, and the one that decides which saint gets which limb",
+   "rel": "carries"
+  },
+  {
+   "to": "azabache",
+   "type": "amulet",
+   "name": "Azabache",
+   "as": "its earliest arrival: a jet fist out of Asturias by way of Santiago de Compostela, tied on a Caribbean newborn in the first week",
+   "rel": "carries"
+  },
+  {
+   "to": "ojo-de-venado",
+   "type": "amulet",
+   "name": "Ojo de venado",
+   "as": "the local material entering the same kit — a Mexican seed on a red cord, and the object a priest condemned by name",
+   "rel": "carries"
+  },
+  {
+   "to": "car-saint",
+   "type": "amulet",
+   "name": "Car saint",
+   "as": "the dashboard end of it, where a devotional medal prints a promise the Catechism warns against",
+   "rel": "carries"
+  },
+  {
+   "to": "figa",
+   "type": "amulet",
+   "name": "Figa",
+   "as": "the fist as a sign, carried across the same Iberian route into Brazil and the Caribbean",
+   "rel": "carries"
+  },
+  {
+   "to": "catholic-sacramentals",
+   "type": "tradition",
+   "name": "Catholic sacramentals",
+   "as": "the tradition this one is defined against: there the Church draws the line, here the household draws it somewhere else",
+   "rel": "origin"
+  },
+  {
+   "to": "anting-anting",
+   "type": "amulet",
+   "name": "Anting-anting",
+   "as": "the same move in another Spanish colony — church forms taken up and worked by people outside the clergy, across the Pacific by the galleon route",
+   "rel": "parallel"
+  },
+  {
+   "to": "andean-illa-practice",
+   "type": "tradition",
+   "name": "Illa practice",
+   "as": "the tradition it shares a counter with in La Paz and Lima, and the one whose January blessing the Church joins in on",
+   "rel": "parallel"
+  },
+  {
+   "to": "ex-voto-wall",
+   "type": "art",
+   "name": "The ex-voto wall",
+   "as": "the format this tradition keeps alive on tin — a painted account of the danger survived, hung where the next petitioner will read it",
+   "rel": "art"
+  },
+  {
+   "to": "blessing-at-a-shrine",
+   "type": "practice",
+   "name": "Blessing at a shrine",
+   "as": "the act most of these objects exist for, and the one the markets are laid out around",
+   "rel": "practice"
+  },
+  {
+   "to": "buying-in-a-market",
+   "type": "practice",
+   "name": "Buying one in a market",
+   "as": "how one is got: an aisle, a tray, a red cord tied on the spot",
+   "rel": "practice"
+  },
+  {
+   "to": "mercado-de-sonora",
+   "type": "place",
+   "name": "Mercado de Sonora",
+   "as": "the tradition's clearest single address — a building the city put up in 1957 to regulate exactly this trade",
+   "rel": "place"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-milagro-votive",
+   "kind": "encyclopedia",
+   "title": "Milagro (votive)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Milagro_(votive)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ex-voto",
+   "kind": "encyclopedia",
+   "title": "Ex-voto",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ex-voto",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-votive-offering",
+   "kind": "encyclopedia",
+   "title": "Votive offering",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Votive_offering",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mercado-de-sonora",
+   "kind": "encyclopedia",
+   "title": "Mercado de Sonora",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mercado_de_Sonora",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-mexicodesconocido-ojo-de-venado",
+   "kind": "web",
+   "title": "Ojo de venado, el amuleto mexicano por excelencia",
+   "publisher": "México Desconocido",
+   "url": "https://www.mexicodesconocido.com.mx/ojo-de-venado-amuleto.html",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-hektoen-azabache",
+   "kind": "journal",
+   "title": "A Hispanic amulet against disease in infants",
+   "author": "Edward Tabor",
+   "publisher": "Hektoen International: A Journal of Medical Humanities",
+   "url": "https://hekint.org/2023/10/10/a-hispanic-amulet-against-disease-in-infants/",
+   "date": "2023",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-saint-christopher",
+   "kind": "encyclopedia",
+   "title": "Saint Christopher",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Saint_Christopher",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-devotional-medal",
+   "kind": "encyclopedia",
+   "title": "Devotional medal",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Devotional_medal",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-sacramental",
+   "kind": "encyclopedia",
+   "title": "Sacramental",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sacramental",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-ccc-first-commandment",
+   "kind": "web",
+   "title": "Catechism of the Catholic Church — Part Three, Section Two, Chapter One, Article 1, III: You Shall Have No Other Gods Before Me",
+   "publisher": "Libreria Editrice Vaticana / The Holy See",
+   "url": "https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_one/article_1/iii_you_shall_have_no_other_gods_before_me.html",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-folk-religion",
+   "kind": "encyclopedia",
+   "title": "Folk religion",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Folk_religion",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-quiapo-church",
+   "kind": "encyclopedia",
+   "title": "Quiapo Church",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Quiapo_Church",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-ulima-paseo-fe-magia",
+   "kind": "web",
+   "title": "Un paseo de fe y magia",
+   "publisher": "Nexos, Universidad de Lima; by Daniela Ramos, 31 October 2024",
+   "url": "https://nexos.ulima.edu.pe/2024/10/31/un-paseo-de-fe-y-magia/",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:wp-jet-gemstone",
+   "kind": "encyclopedia",
+   "title": "Jet (gemstone)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jet_(gemstone)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fig-sign",
+   "kind": "encyclopedia",
+   "title": "Fig sign",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fig_sign",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-milagro-votive"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-milagro-votive",
+   "note": "the closing paragraph is marked inference where it appears"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-milagro-votive"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-milagro-votive"
+  },
+  "dating": {
+   "tier": "inference",
+   "note": "the start year is this project's convention for the Spanish arrival, stated as such in the note; the cited accounts date the objects' Iberian ancestry and not an American beginning"
+  },
+  "object": {
+   "tier": "inference",
+   "note": "no single object; the fields are the commonest cases across the Latin American records, not a published composite"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "Mexican and Caribbean households: a Mucuna seed called deer's eye against mal de ojo, and a jet fist tied on a newborn within days of birth",
+   "quote": "",
+   "source": "s:web-mexicodesconocido-ojo-de-venado",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "child-harm",
+   "label": "Harm to a child",
+   "gloss": "harm to an infant or a small child; common across the atlas, though not the largest class in it — see /story/most-of-them-are-for-children/",
+   "who": "Puerto Rican, Cuban and Dominican parents, who told Edward Tabor the azabache is against the evil eye and with it diarrhoea, respiratory infections, deformities and above all sudden infant death",
+   "quote": "",
+   "source": "s:web-hektoen-azabache",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "petitioners at shrines, who pin a milagro shaped like the afflicted part to a saint's image as a reminder of the need or in thanks for an answer",
+   "quote": "",
+   "source": "s:wp-milagro-votive",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "traffic",
+   "label": "A road accident",
+   "gloss": "the modern descendant of the travel charm",
+   "who": "the medals themselves, which print the claim: 'Si en San Cristóbal confías, de accidente no morirás' — if you trust in Saint Christopher, you will not die in an accident",
+   "quote": "",
+   "source": "s:wp-saint-christopher",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "witchcraft",
+   "label": "Another person's sorcery",
+   "who": "customers at the Mercado de Sonora, whose back aisles sell goods for magic and the occult alongside medicinal herbs, the two not kept separate",
+   "quote": "",
+   "source": "s:wp-mercado-de-sonora",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "the same market's stock, which includes crosses of ocote wood for good luck and chains of garlic to turn evil away",
+   "quote": "",
+   "source": "s:wp-mercado-de-sonora",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  },
+  {
+   "key": "gold",
+   "label": "Gold",
+   "kind": "metal"
+  },
+  {
+   "key": "lead",
+   "label": "Lead",
+   "kind": "metal"
+  },
+  {
+   "key": "jet",
+   "label": "Jet",
+   "kind": "stone"
+  },
+  {
+   "key": "seed",
+   "label": "Seed and nut",
+   "kind": "plant"
+  },
+  {
+   "key": "wood",
+   "label": "Wood",
+   "kind": "plant"
+  },
+  {
+   "key": "glass",
+   "label": "Glass",
+   "kind": "fired"
+  },
+  {
+   "key": "thread",
+   "label": "Thread and cord",
+   "kind": "textile",
+   "note": "red thread runs from the Mediterranean to Mongolia"
+  },
+  {
+   "key": "paper",
+   "label": "Paper",
+   "kind": "written"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "wrist",
+   "label": "On the wrist",
+   "group": "body"
+  },
+  {
+   "key": "vehicle",
+   "label": "In a vehicle",
+   "group": "placed"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  },
+  {
+   "key": "cradle",
+   "label": "On a cradle",
+   "group": "placed"
+  },
+  {
+   "key": "shop",
+   "label": "At the till",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "medal",
+  "label": "Medal"
+ },
+ "holding_facts": [],
+ "span": "1521 CE to now",
+ "country_names": [
+  {
+   "iso": "MX",
+   "name": "Mexico"
+  },
+  {
+   "iso": "PR",
+   "name": "Puerto Rico"
+  },
+  {
+   "iso": "CU",
+   "name": "Cuba"
+  },
+  {
+   "iso": "DO",
+   "name": "Dominican Rep."
+  },
+  {
+   "iso": "PE",
+   "name": "Peru"
+  },
+  {
+   "iso": "BO",
+   "name": "Bolivia"
+  },
+  {
+   "iso": "GT",
+   "name": "Guatemala"
+  },
+  {
+   "iso": "ES",
+   "name": "Spain"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "PH",
+   "name": "Philippines"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "anting-anting",
+   "type": "amulet",
+   "name": "Anting-anting",
+   "as": "the nearest tradition in this atlas: church forms taken up and worked by people outside the clergy, in another Spanish colony",
+   "rel": "parallel"
+  },
+  {
+   "from": "azabache",
+   "type": "amulet",
+   "name": "Azabache",
+   "as": "the tradition that carried it from Asturias to San Juan",
+   "rel": "tradition"
+  },
+  {
+   "from": "car-saint",
+   "type": "amulet",
+   "name": "Car saint",
+   "as": "the tradition that fills the most dashboards with this image",
+   "rel": "tradition"
+  },
+  {
+   "from": "milagro",
+   "type": "amulet",
+   "name": "Milagro",
+   "as": "the tradition this belongs to, and the one that decides which saint gets which limb",
+   "rel": "tradition"
+  },
+  {
+   "from": "ojo-de-venado",
+   "type": "amulet",
+   "name": "Ojo de venado",
+   "as": "the tradition it is carried inside, and the one a priest was condemning when he condemned it",
+   "rel": "tradition"
+  },
+  {
+   "from": "andean-illa-practice",
+   "type": "tradition",
+   "name": "Illa practice",
+   "as": "the tradition it shares a counter and a calendar with; the Church blesses the Alasitas miniatures at the cathedral at midday on 24 January",
+   "rel": "parallel"
+  },
+  {
+   "from": "catholic-sacramentals",
+   "type": "tradition",
+   "name": "Catholic sacramentals",
+   "as": "what happens to these objects where the Church's line is drawn in one place and the household draws it in another",
+   "rel": "descendant"
+  },
+  {
+   "from": "mercado-de-las-brujas-lima",
+   "type": "place",
+   "name": "Mercado de Brujas de Gamarra",
+   "as": "the other half of the counter: candles, saints and cleansings alongside the plants",
+   "rel": "tradition"
+  },
+  {
+   "from": "mercado-de-sonora",
+   "type": "place",
+   "name": "Mercado de Sonora",
+   "as": "the tradition the candles, saints and cleansings belong to",
+   "rel": "tradition"
+  },
+  {
+   "from": "quiapo-church",
+   "type": "place",
+   "name": "Quiapo Church",
+   "as": "the parallel from across the Pacific: the same galleon route, the same doubling of saint and charm",
+   "rel": "parallel"
+  },
+  {
+   "from": "ex-voto-wall",
+   "type": "art",
+   "name": "The ex-voto wall",
+   "as": "the tradition that keeps this format alive on tin",
+   "rel": "tradition"
+  }
+ ]
+}

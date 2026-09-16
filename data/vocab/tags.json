@@ -1,0 +1,59 @@
+{
+ "note": "Tag keys a place record may carry. Every tag names its evidence. Tier cited = a named page; harvested = a public directory fetched by a tool; field = someone stood there.",
+ "entries": [
+  {
+   "key": "free-entry",
+   "label": "Free to enter",
+   "group": "visit",
+   "evidence": "the institution's own admissions page"
+  },
+  {
+   "key": "open-images",
+   "label": "Publishes open images",
+   "group": "collection",
+   "evidence": "the collection's own rights statement"
+  },
+  {
+   "key": "amulets-on-display",
+   "label": "Amulets on display",
+   "group": "collection",
+   "evidence": "a gallery guide or a published catalogue"
+  },
+  {
+   "key": "still-makes",
+   "label": "Still makes them",
+   "group": "trade",
+   "evidence": "the workshop's own words or a dated press profile"
+  },
+  {
+   "key": "market",
+   "label": "A market you can walk",
+   "group": "trade",
+   "evidence": "a dated guide, a municipal listing"
+  },
+  {
+   "key": "pilgrimage",
+   "label": "A pilgrimage site",
+   "group": "visit",
+   "evidence": "the site's own description or a named study"
+  },
+  {
+   "key": "excavated",
+   "label": "An excavated site",
+   "group": "site",
+   "evidence": "an excavation report, named"
+  },
+  {
+   "key": "repatriation",
+   "label": "Repatriation under way",
+   "group": "collection",
+   "evidence": "a published claim, agreement or return, named and dated"
+  },
+  {
+   "key": "photography-limits",
+   "label": "Photography restricted",
+   "group": "visit",
+   "evidence": "the site's own rule"
+  }
+ ]
+}

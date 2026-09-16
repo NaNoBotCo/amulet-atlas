@@ -1,0 +1,77 @@
+{
+ "schema": 1,
+ "id": "knotting",
+ "type": "practice",
+ "names": {
+  "name": "Knotting",
+  "aliases": ["tying", "binding a thread", "kroke", "khutt hashani"],
+  "said": "tying the thing shut, or tying it on"
+ },
+ "region": ["world", "ancient-egypt", "balkans", "greece-aegean", "levant", "japan", "britain-ireland", "south-asia"],
+ "countries": ["EG", "BG", "MK", "RO", "MD", "GR", "AL", "IL", "JP", "IE", "IN", "CN"],
+ "facets": {"stage": "make", "era": "ancient", "status": "living"},
+ "text": {
+  "what": "Tying, as the whole of the charm. A knot needs no words, no metal and no kiln — two colours of wool twisted together, a leather strap knotted into the shape of a letter, a thousand stitches pulled tight by a thousand different hands. Where a knot is the object, the tying is the making, the charging and often the giving all at once.",
+  "story": "Egypt made the knot a sign. The tyet, the knot of Isis, resembles a knot of cloth and may have begun as a bandage; an early example comes from a First Dynasty tomb at Helwan, excavated by Zaki Saad in the 1940s. Tyet amulets started going into burials in the early New Kingdom, from the reign of Amenhotep III, and from then to the end of dynastic Egypt few people were buried without one in the wrappings, usually on the upper torso. Chapter 156 of the Book of the Dead calls for a tyet of red jasper at the mummy's neck, saying the power of Isis will be the protection of the body and that the amulet will drive away whoever would commit a crime against it.\n\nIn the Balkans the knot is worn for a month and then untied by the calendar. A martenitsa is twisted from white and red yarn, usually as two small wool dolls, Pizho and Penda, and is put on at Baba Marta Day on 1 March. It comes off when the wearer first sees a stork, a swallow or a tree in blossom — then it is tied to the branch of a fruit tree, or put under a stone so that whichever creature is nearest it the next day reads the coming year: a worm or larva for health and success, an ant for success won by hard work, a spider for trouble. Photios' Lexicon records an older Greek version in which priests wrapped a red thread, kroke, around the right hand and foot; ethnographers who trace the custom back that far do so tentatively, and the tradition itself names Thracian, Hellenic or Roman origins without settling on one. The practice is inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity.\n\nJewish practice knots leather into letters. The head-tefillin strap's knot forms the letter dalet or a double dalet, the arm strap's knot forms a yud, and with the shin on the head box those three letters spell Shaddai, one of the names of God. A separate folk custom ties a thin scarlet wool thread round the wrist against the evil eye; there is no requirement for it in the Torah, in halakha or in kabbalistic texts, and the only public exhortation to wear one that the sources name is from the 1490s, when Rabbi Abraham Saba recommended it to Jews forbidden to wear tefillin, as a reminder of the commandment.\n\nJapan counted knots. A senninbari, a thousand-person-stitch belt, was decorated with a thousand knots or stitches, each normally made by a different woman; the custom began in the First Sino-Japanese War of 1894–95, when the earliest versions were handkerchief-sized squares knotted to strengthen the cloth, the implication being that the strength passed to the man carrying it.\n\n*Inference —* knots are the cheapest charm in this atlas and the most evenly distributed. That is worth saying plainly rather than reading as a single ancient custom travelling: thread is everywhere, tying is learned by every child, and a knot is the one amulet a person with nothing can make.",
+  "how": "Twist, tie, or stitch. Martenitsi are twisted from red and white wool and pinned to clothing or tied at the wrist or neck. Brigid's crosses are woven from rushes or straw gathered the evening before. Senninbari stitches were solicited one at a time from women passing a temple, a train station or a department store, with a woman born in a Tiger year entitled by custom to sew twelve stitches or as many as her years; some belts were lined with women's hair, a practice the sources trace to folk belief on Okinawa, and coins were sewn in as well.",
+  "today": "Martenitsi are worn every March in Bulgaria and North Macedonia and given, never bought for oneself, with modern versions adding coloured beads. Red wrist threads are sold by elderly women to pilgrims and tourists in the Old City of Jerusalem and were taken up in the late 1990s by celebrities with no connection to the custom, a spread often traced to Philip Berg's Kabbalah Centre. Tefillin knots are tied the same way every weekday morning."
+ },
+ "dating": {
+  "period": "Early Dynastic Egypt to the present",
+  "from_year": -1549,
+  "to_year": null,
+  "living": true,
+  "label": "c. 1550 BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-tyet",
+  "note": "Dated from tyet amulets entering burials in the early New Kingdom, c. 1550 BCE. The tyet sign itself is older — a First Dynasty example from Helwan — but it is the amulet that this practice is dated by."
+ },
+ "object": {
+  "form": "knot",
+  "materials": ["thread", "cloth", "carnelian", "faience", "leather", "wood"],
+  "worn": ["wrist", "neck", "waist", "grave", "lintel"],
+  "made_by": "usually the giver rather than a specialist: a mother, a sister, a wife, a passer-by asked for one stitch",
+  "colour": ["red", "white", "green"],
+  "count": 1000,
+  "single_use": true,
+  "source": "s:wp-senninbari",
+  "note": "The count is the senninbari's thousand stitches; martenitsi and red threads carry no fixed count in the cited accounts."
+ },
+ "against": [
+  {"harm": "evil-eye", "who": "wearers of the scarlet wrist thread, a Jewish folk custom with no basis in Torah, halakha or kabbalistic law", "source": "s:wp-red-string-kabbalah", "tier": "cited"},
+  {"harm": "illness", "who": "the Bulgarian and Macedonian custom, in which the red and white threads stand for a wish for good health", "source": "s:wp-martenitsa", "tier": "cited"},
+  {"harm": "weapons", "who": "Japanese women who stitched senninbari for soldiers; some soldiers rejected the claim and wore the belt as a keepsake instead", "source": "s:wp-senninbari", "tier": "cited", "note": "the cited account reports both positions, and this record keeps both"},
+  {"harm": "the-dead", "who": "Chapter 156 of the Book of the Dead, which calls for a red jasper tyet at the mummy's neck", "quote": "the power of Isis will be the protection of [the mummy's] body", "source": "s:wp-tyet", "tier": "cited"}
+ ],
+ "kin": [
+  {"to": "knot", "as": "the sign this practice makes — and the rare case where making the sign and making the object are the same act", "rel": "motif"},
+  {"to": "tyet-knot", "as": "the knot cut in stone: Egypt's version, tied by a carver rather than by hand", "rel": "carried-by"},
+  {"to": "martenitsa", "as": "the knot with an expiry date — 1 March to the first stork, then tied to a fruit tree", "rel": "carried-by"},
+  {"to": "red-string", "as": "the plainest form: scarlet wool at the wrist, and an argument about where it came from", "rel": "carried-by"},
+  {"to": "senninbari", "as": "a thousand knots from a thousand hands, solicited one at a time outside train stations", "rel": "carried-by"},
+  {"to": "tefillin", "as": "leather knotted into letters — dalet and yud, spelling a name of God with the shin on the box", "rel": "practice"},
+  {"to": "brigids-cross", "as": "the woven version: rushes gathered on 31 January, tied the same night, hung the next morning", "rel": "carried-by"},
+  {"to": "thread", "as": "the material that makes this the cheapest charm in the atlas", "rel": "material"},
+  {"to": "red-thread", "as": "the colour that runs with the knot from the Mediterranean to Mongolia", "rel": "motif"},
+  {"to": "counting-beads", "as": "the same cord, knotted to count with instead of to bind — an Orthodox prayer rope carries 33, 50 or 100 knots", "rel": "parallel"},
+  {"to": "renewing-yearly", "as": "the practice a martenitsa belongs to: worn for a season, then taken off on a sign from a bird", "rel": "practice"}
+ ],
+ "links": [
+  {"label": "Martenitsa — Wikipedia", "url": "https://en.wikipedia.org/wiki/Martenitsa"},
+  {"label": "Tyet — Wikipedia", "url": "https://en.wikipedia.org/wiki/Tyet"}
+ ],
+ "sources": ["s:wp-tyet", "s:wp-martenitsa", "s:wp-red-string-kabbalah", "s:wp-senninbari", "s:wp-tefillin", "s:wp-brigid-s-cross", "s:web-prayer-beads"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-martenitsa"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:wp-tyet", "note": "the closing paragraph about distribution is this project's reading and is marked where it appears"},
+   "object": {"tier": "cited", "source": "s:wp-senninbari"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Martenitsa Pizho i Penda.jpg", "File:Tyet amulet.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

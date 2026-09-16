@@ -1,0 +1,901 @@
+{
+ "schema": 1,
+ "id": "inscribing",
+ "type": "practice",
+ "names": {
+  "name": "Inscribing",
+  "aliases": [
+   "writing a charm",
+   "ktav stam",
+   "yant",
+   "fulu",
+   "voces mysticae"
+  ],
+  "said": "putting the words on"
+ },
+ "region": [
+  "world",
+  "levant",
+  "mesopotamia",
+  "greece-aegean",
+  "rome-italy",
+  "china",
+  "japan",
+  "mainland-sea",
+  "south-asia",
+  "anatolia",
+  "iran-persia"
+ ],
+ "countries": [
+  "IL",
+  "PS",
+  "IQ",
+  "IR",
+  "GR",
+  "IT",
+  "GB",
+  "CN",
+  "JP",
+  "TH",
+  "KH",
+  "LA",
+  "TR",
+  "IN"
+ ],
+ "facets": {
+  "stage": "make",
+  "era": "ancient",
+  "status": "living",
+  "restricted": "limited"
+ },
+ "text": {
+  "what": "Writing the words that do the work. Lead scratched with a stylus, parchment ruled and lettered with a quill, silver foil punched with a blessing, metal foil incised with Khom Pali, paper painted with strokes nobody is meant to read. In most of these traditions the writing is the charm and the material is packaging: get the letters wrong and there is no object, only a blank.",
+  "story": "The oldest dated example in this atlas is two silver scrolls found in 1979 in a Judahite burial chamber at Ketef Hinnom, southwest of Jerusalem's Old City, in a site first reported by Gabriel Barkay in 1975. They carry portions of the Priestly Blessing from Numbers, date from around 600 BCE, and took three years to unroll without destroying. They are the oldest surviving texts from the Hebrew Bible known, and they were worn.\n\nJewish practice still treats the letters as the object. A mezuzah's klaf is written by a qualified scribe, a sofer stam, trained in the law and in the calligraphy of Ktav Stam, in indelible black ink with a quill made from a feather or, rarely now, a reed; tearing or damaging the wording invalidates it. Tefillin are stricter still: 3,188 letters across the parchments, as long as fifteen hours of a scribe's work for a set, and the letters must be written in order — find a mistake later and it cannot be corrected, because the replacement letter would have been written out of sequence.\n\nThe Greek and Roman world wrote to bind rather than to bless. Curse tablets — tabella defixionis, katadesmos — are thin lead sheets scratched in tiny letters, then rolled, folded or pierced with nails. Writers added palindromes, boustrophedon lines and otherwise meaningless words such as Bazagra or Bescu, and professionals sometimes prepared tablets in advance with a space left for the customer's name. Mesopotamian incantation bowls run their text in a spiral from the outer rim inward, so that, in John Charles Arnold's description, demons following the charms would be caught in the centre.\n\nChina took the logic to its end and made the writing unreadable on purpose. Fulu are talismanic script — strokes that resemble Chinese characters without being them. Ge Hong noted in the Baopuzi, in the Eastern Jin (317–420), that a talisman worked whether or not its user could decipher it, and Fudan University's Ge Zhaoguang describes the illegibility as deliberate archaism, a veil that leaves only qualified clergy able to produce them. Thai yant are written in Khom Pali, a Thai variant of Khmer script, or in Lan Na Tai Tham in the north. Islamic talismanic shirts carry Quranic verses, names of God and of prophets, and numbers; the earliest surviving examples were made in or near the fifteenth century.\n\n*Inference —* two opposite strategies run through all of this. One camp writes to be read by a power that reads: the blessing, the verse, the name. The other writes to be unreadable by anyone: the meaningless words on a lead sheet, the Taoist strokes, the letters that only a scribe's hand can form. Both are ways of putting the text beyond the ordinary user's reach.",
+  "how": "Materials first, because they decide the tool: lead takes a stylus, parchment takes a quill and a ruled line, silver takes a punch, metal foil takes a stylus and then rolls, paper takes a brush. Then the text, in a script the tradition specifies. Then, in several traditions, a check: many observant Jews have a scribe examine mezuzah parchments for tears and faded letters at least twice every seven years.",
+  "today": "Still a paid trade. Scribes write mezuzot and tefillin to order, and sellers who supply a photocopied text on paper with a decorated case are selling a case: a valid mezuzah has to be handwritten on parchment by a qualified scribe. Thai and Cambodian masters still write yant on metal, cloth and skin. Chinese folk healers still use zhuyou, the talismanic branch of healing, which traditional Chinese medicine rejects and which was reinterpreted in the twentieth century as a local counterpart to hypnosis."
+ },
+ "dating": {
+  "period": "Iron Age to the present",
+  "from_year": -599,
+  "to_year": null,
+  "living": true,
+  "label": "c. 600 BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-ketef-hinnom",
+  "note": "Dated from the Ketef Hinnom silver scrolls, c. 600 BCE, the earliest inscribed amulet this atlas can put a year on. Writing on charms is certainly older; this is what is dated."
+ },
+ "object": {
+  "form": "scroll",
+  "materials": [
+   "lead",
+   "parchment",
+   "silver",
+   "paper",
+   "copper",
+   "palm-leaf"
+  ],
+  "worn": [
+   "neck",
+   "upper-arm",
+   "door",
+   "grave",
+   "foundation"
+  ],
+  "made_by": "a scribe, a priest or a master the tradition licenses — sofer stam for Jewish texts, a Taoist priest for fulu, a yant master in mainland Southeast Asia",
+  "inscription": "varies by tradition: the Priestly Blessing, the Shema passages, Quranic verses and names of God, Pali gatha, binding formulae addressed to Pluto, Charon, Hecate or Persephone",
+  "script": "Palaeo-Hebrew, Ashuri Hebrew, Arabic, Khom Pali, Lan Na Tai Tham, Greek, Latin, Taoist talismanic script",
+  "single_use": false,
+  "source": "s:wp-tefillin"
+ },
+ "restricted": {
+  "note": "Taoist talismanic script is transmitted in secret from priest to disciple, and its incantations and hand-forms differ from sect to sect. This atlas prints what the practice is for and who may write it, and does not reproduce a talisman's strokes or the words that accompany them.",
+  "who_says": "Ge Zhaoguang, Fudan University, and the accounts of fulu transmission summarised with him",
+  "source": "s:wp-fulu"
+ },
+ "against": [
+  {
+   "harm": "demons",
+   "who": "the Aramaic and Syriac incantation bowls themselves, addressed to the demons they name",
+   "source": "s:wp-incantation-bowl",
+   "tier": "cited"
+  },
+  {
+   "harm": "curse",
+   "who": "Greek and Roman clients, whose tablets hand the target over to underworld gods",
+   "source": "s:wp-curse-tablet",
+   "tier": "cited",
+   "note": "here the writing is the attack, not the shield — the same craft pointed the other way"
+  },
+  {
+   "harm": "weapons",
+   "who": "Hürrem Sultan, who told Suleiman the Magnificent the inscriptions on the talismanic shirt she gave him would protect him from bullets",
+   "quote": "its inscriptions would protect him from bullets",
+   "source": "s:wp-talismanic-shirt",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "Taoist zhuyou healers, in use in China since at least the Eastern Han",
+   "source": "s:wp-fulu",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "ketef-hinnom-scrolls",
+   "as": "the oldest dated thing this practice made: a blessing punched into silver and worn to the grave around 600 BCE",
+   "rel": "practice"
+  },
+  {
+   "to": "tefillin",
+   "as": "the strictest version — 3,188 letters in order, and a mistake found afterwards cannot be fixed",
+   "rel": "practice"
+  },
+  {
+   "to": "mezuzah",
+   "as": "the parchment a scribe writes and another scribe checks twice in seven years",
+   "rel": "practice"
+  },
+  {
+   "to": "takrut",
+   "as": "the rolled scroll this writing goes onto in Thailand, in Khom Pali or Lan Na Tai Tham",
+   "rel": "practice"
+  },
+  {
+   "to": "fu-talisman",
+   "as": "writing built to be unreadable, which is the point its own scholars make about it",
+   "rel": "practice"
+  },
+  {
+   "to": "curse-tablet",
+   "as": "the same craft aimed at somebody: lead, tiny letters, then nails",
+   "rel": "contrast"
+  },
+  {
+   "to": "incantation-bowl",
+   "as": "text spiralling inward on clay, buried face down to catch what follows it",
+   "rel": "practice"
+  },
+  {
+   "to": "talismanic-shirt",
+   "as": "a whole garment as the writing surface, Quranic verse over the body in battle",
+   "rel": "practice"
+  },
+  {
+   "to": "ink",
+   "as": "the material that carries this entire practice, and whose indelibility is a legal requirement in Jewish law",
+   "rel": "material"
+  },
+  {
+   "to": "divine-name",
+   "as": "the single most common thing written, from the Priestly Blessing to the names of God on a shirt",
+   "rel": "motif"
+  },
+  {
+   "to": "folding",
+   "as": "what happens to the writing next — rolled, folded, sealed away from the eye that reads",
+   "rel": "practice"
+  },
+  {
+   "to": "washing-off-ink",
+   "as": "the branch where the writing is meant to be destroyed and drunk rather than kept",
+   "rel": "practice"
+  }
+ ],
+ "links": [
+  {
+   "label": "Ketef Hinnom — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ketef_Hinnom"
+  },
+  {
+   "label": "Curse tablet — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Curse_tablet"
+  }
+ ],
+ "sources": [
+  "s:wp-ketef-hinnom",
+  "s:wp-tefillin",
+  "s:wp-mezuzah",
+  "s:wp-curse-tablet",
+  "s:wp-incantation-bowl",
+  "s:wp-fulu",
+  "s:wp-takrut",
+  "s:wp-talismanic-shirt",
+  "s:wp-yantra",
+  "s:wp-magic-supernatural"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-tefillin"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-ketef-hinnom",
+    "note": "the closing two-strategies reading is this project's, and is marked where it appears"
+   },
+   "object": {
+    "tier": "cited",
+    "source": "s:wp-tefillin",
+    "note": "no measurement is given because none was read; the 3,188-letter count is quoted from the cited account"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Ketef Hinnom scroll.jpg",
+  "File:Defixio.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "Writing the words that do the work. Lead scratched with a stylus, parchment ruled and lettered with a quill, silver foil punched with a blessing, metal foil incised with Khom Pali, paper painted with strokes nobody is…",
+ "region_terms": [
+  {
+   "key": "world",
+   "name": "Everywhere",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "use for a sign or a practice documented on more than two continents"
+  },
+  {
+   "key": "levant",
+   "name": "The Levant",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "mesopotamia",
+   "name": "Mesopotamia",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Sumer, Akkad, Babylonia, Assyria"
+  },
+  {
+   "key": "greece-aegean",
+   "name": "Greece and the Aegean",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "china",
+   "name": "China",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "japan",
+   "name": "Japan",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "mainland-sea",
+   "name": "Mainland Southeast Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "anatolia",
+   "name": "Anatolia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "iran-persia",
+   "name": "Iran",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "ketef-hinnom-scrolls",
+   "type": "amulet",
+   "name": "Ketef Hinnom silver scrolls",
+   "as": "the oldest dated thing this practice made: a blessing punched into silver and worn to the grave around 600 BCE",
+   "rel": "practice"
+  },
+  {
+   "to": "tefillin",
+   "type": "amulet",
+   "name": "Tefillin",
+   "as": "the strictest version — 3,188 letters in order, and a mistake found afterwards cannot be fixed",
+   "rel": "practice"
+  },
+  {
+   "to": "mezuzah",
+   "type": "amulet",
+   "name": "Mezuzah",
+   "as": "the parchment a scribe writes and another scribe checks twice in seven years",
+   "rel": "practice"
+  },
+  {
+   "to": "takrut",
+   "type": "amulet",
+   "name": "Takrut",
+   "as": "the rolled scroll this writing goes onto in Thailand, in Khom Pali or Lan Na Tai Tham",
+   "rel": "practice"
+  },
+  {
+   "to": "fu-talisman",
+   "type": "amulet",
+   "name": "Fu talisman",
+   "as": "writing built to be unreadable, which is the point its own scholars make about it",
+   "rel": "practice"
+  },
+  {
+   "to": "curse-tablet",
+   "type": "amulet",
+   "name": "Curse tablet",
+   "as": "the same craft aimed at somebody: lead, tiny letters, then nails",
+   "rel": "contrast"
+  },
+  {
+   "to": "incantation-bowl",
+   "type": "amulet",
+   "name": "Incantation bowl",
+   "as": "text spiralling inward on clay, buried face down to catch what follows it",
+   "rel": "practice"
+  },
+  {
+   "to": "talismanic-shirt",
+   "type": "amulet",
+   "name": "Talismanic shirt",
+   "as": "a whole garment as the writing surface, Quranic verse over the body in battle",
+   "rel": "practice"
+  },
+  {
+   "to": "ink",
+   "type": "material",
+   "name": "Ink",
+   "as": "the material that carries this entire practice, and whose indelibility is a legal requirement in Jewish law",
+   "rel": "material"
+  },
+  {
+   "to": "divine-name",
+   "type": "motif",
+   "name": "The name",
+   "as": "the single most common thing written, from the Priestly Blessing to the names of God on a shirt",
+   "rel": "motif"
+  },
+  {
+   "to": "folding",
+   "type": "practice",
+   "name": "Folding",
+   "as": "what happens to the writing next — rolled, folded, sealed away from the eye that reads",
+   "rel": "practice"
+  },
+  {
+   "to": "washing-off-ink",
+   "type": "practice",
+   "name": "Washing off the ink",
+   "as": "the branch where the writing is meant to be destroyed and drunk rather than kept",
+   "rel": "practice"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-ketef-hinnom",
+   "kind": "encyclopedia",
+   "title": "Ketef Hinnom",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ketef_Hinnom",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-tefillin",
+   "kind": "encyclopedia",
+   "title": "Tefillin",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tefillin",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mezuzah",
+   "kind": "encyclopedia",
+   "title": "Mezuzah",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mezuzah",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-curse-tablet",
+   "kind": "encyclopedia",
+   "title": "Curse tablet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Curse_tablet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-incantation-bowl",
+   "kind": "encyclopedia",
+   "title": "Incantation bowl",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Incantation_bowl",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-fulu",
+   "kind": "encyclopedia",
+   "title": "Fulu",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fulu",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-takrut",
+   "kind": "encyclopedia",
+   "title": "Takrut",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Takrut",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-talismanic-shirt",
+   "kind": "encyclopedia",
+   "title": "Talismanic shirt",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Talismanic_shirt",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-yantra",
+   "kind": "encyclopedia",
+   "title": "Yantra",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-magic-supernatural",
+   "kind": "encyclopedia",
+   "title": "Magic (supernatural)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Magic_(supernatural)",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-tefillin"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-ketef-hinnom",
+   "note": "the closing two-strategies reading is this project's, and is marked where it appears"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-tefillin"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-tefillin"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-tefillin"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-tefillin",
+   "note": "no measurement is given because none was read; the 3,188-letter count is quoted from the cited account"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "demons",
+   "label": "Demons and night-hags",
+   "who": "the Aramaic and Syriac incantation bowls themselves, addressed to the demons they name",
+   "quote": "",
+   "source": "s:wp-incantation-bowl",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "curse",
+   "label": "A curse already laid",
+   "who": "Greek and Roman clients, whose tablets hand the target over to underworld gods",
+   "quote": "",
+   "source": "s:wp-curse-tablet",
+   "tier": "cited",
+   "note": "here the writing is the attack, not the shield — the same craft pointed the other way"
+  },
+  {
+   "key": "weapons",
+   "label": "Blades and bullets",
+   "gloss": "invulnerability charms; reported, never recommended",
+   "who": "Hürrem Sultan, who told Suleiman the Magnificent the inscriptions on the talismanic shirt she gave him would protect him from bullets",
+   "quote": "its inscriptions would protect him from bullets",
+   "source": "s:wp-talismanic-shirt",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "illness",
+   "label": "Illness",
+   "gloss": "sickness in general, where no cause is named",
+   "who": "Taoist zhuyou healers, in use in China since at least the Eastern Han",
+   "quote": "",
+   "source": "s:wp-fulu",
+   "tier": "cited",
+   "note": ""
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "lead",
+   "label": "Lead",
+   "kind": "metal"
+  },
+  {
+   "key": "parchment",
+   "label": "Parchment and vellum",
+   "kind": "written"
+  },
+  {
+   "key": "silver",
+   "label": "Silver",
+   "kind": "metal"
+  },
+  {
+   "key": "paper",
+   "label": "Paper",
+   "kind": "written"
+  },
+  {
+   "key": "copper",
+   "label": "Copper and bronze",
+   "kind": "metal"
+  },
+  {
+   "key": "palm-leaf",
+   "label": "Palm leaf",
+   "kind": "written"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  },
+  {
+   "key": "upper-arm",
+   "label": "On the upper arm",
+   "group": "body"
+  },
+  {
+   "key": "door",
+   "label": "At the door",
+   "group": "placed"
+  },
+  {
+   "key": "grave",
+   "label": "In the grave",
+   "group": "placed",
+   "note": "most surviving ancient amulets are here because somebody was buried in them"
+  },
+  {
+   "key": "foundation",
+   "label": "In the foundations",
+   "group": "placed"
+  }
+ ],
+ "form_fact": {
+  "key": "scroll",
+  "label": "Scroll"
+ },
+ "holding_facts": [],
+ "span": "600 BCE to now",
+ "country_names": [
+  {
+   "iso": "IL",
+   "name": "Israel"
+  },
+  {
+   "iso": "PS",
+   "name": "Palestine"
+  },
+  {
+   "iso": "IQ",
+   "name": "Iraq"
+  },
+  {
+   "iso": "IR",
+   "name": "Iran"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "CN",
+   "name": "China"
+  },
+  {
+   "iso": "JP",
+   "name": "Japan"
+  },
+  {
+   "iso": "TH",
+   "name": "Thailand"
+  },
+  {
+   "iso": "KH",
+   "name": "Cambodia"
+  },
+  {
+   "iso": "LA",
+   "name": "Laos"
+  },
+  {
+   "iso": "TR",
+   "name": "Turkey"
+  },
+  {
+   "iso": "IN",
+   "name": "India"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "bujeok",
+   "type": "amulet",
+   "name": "Bujeok",
+   "as": "the act that makes it: Hanja pushed out of legibility into a figure",
+   "rel": "practice"
+  },
+  {
+   "from": "cippus-of-horus",
+   "type": "amulet",
+   "name": "Cippus of Horus",
+   "as": "the step that does the work — without the cut spells the water is water",
+   "rel": "practice"
+  },
+  {
+   "from": "fu-talisman",
+   "type": "amulet",
+   "name": "Fu talisman",
+   "as": "the practice itself, taught privately and differing by sect",
+   "rel": "practice"
+  },
+  {
+   "from": "heart-scarab",
+   "type": "amulet",
+   "name": "Heart scarab",
+   "as": "the step that makes it work as a heart scarab rather than as a large beetle — and the step the late small ones drop",
+   "rel": "practice"
+  },
+  {
+   "from": "jimat",
+   "type": "amulet",
+   "name": "Jimat",
+   "as": "what makes a rajah a rajah — the characters, not the paper",
+   "rel": "practice"
+  },
+  {
+   "from": "takrut",
+   "type": "amulet",
+   "name": "Takrut",
+   "as": "the act that charges it: the writing, not the metal, is the amulet",
+   "rel": "practice"
+  },
+  {
+   "from": "tefillin",
+   "type": "amulet",
+   "name": "Tefillin",
+   "as": "the practice at its most exacting: 3,188 letters, in order, no corrections",
+   "rel": "practice"
+  },
+  {
+   "from": "yantra-plate",
+   "type": "amulet",
+   "name": "Yantra plate",
+   "as": "the making itself — the mantra written into the geometry rather than beside it",
+   "rel": "practice"
+  },
+  {
+   "from": "chinese-fu-craft",
+   "type": "tradition",
+   "name": "Fulu — Taoist talismanic craft",
+   "as": "the practice at its most restricted — the strokes are the secret, not the intention behind them",
+   "rel": "practice"
+  },
+  {
+   "from": "ethiopian-scroll-craft",
+   "type": "tradition",
+   "name": "Ethiopian scroll craft",
+   "as": "the practice at the centre of it — in this tradition, writing is the power",
+   "rel": "practice"
+  },
+  {
+   "from": "west-african-charm-craft",
+   "type": "tradition",
+   "name": "West African charm craft",
+   "as": "the practice at the centre of the Muslim strand: the verse is the charm and the sack is the carrier",
+   "rel": "practice"
+  },
+  {
+   "from": "magic-square",
+   "type": "motif",
+   "name": "The number square",
+   "as": "the practice — the square only works, in every one of these traditions, once somebody writes it out",
+   "rel": "practice"
+  },
+  {
+   "from": "palindrome-word",
+   "type": "motif",
+   "name": "The word that reads both ways",
+   "as": "the practice — in several of these cures the writing is eaten, which is as far as inscribing goes",
+   "rel": "practice"
+  },
+  {
+   "from": "scarab-sign",
+   "type": "motif",
+   "name": "The beetle",
+   "as": "the practice that makes the base matter more than the back",
+   "rel": "practice"
+  },
+  {
+   "from": "ink",
+   "type": "material",
+   "name": "Ink",
+   "as": "the practice of writing the charm, before anybody decides whether to keep it",
+   "rel": "practice"
+  },
+  {
+   "from": "lead",
+   "type": "material",
+   "name": "Lead",
+   "as": "the practice of scratching the words, which is the only step lead requires",
+   "rel": "practice"
+  },
+  {
+   "from": "palm-leaf",
+   "type": "material",
+   "name": "Palm leaf",
+   "as": "the practice this material demands — a stylus cutting, not a pen laying down ink",
+   "rel": "practice"
+  },
+  {
+   "from": "parchment",
+   "type": "material",
+   "name": "Parchment",
+   "as": "the practice that makes the object — in sequence, with no correction possible",
+   "rel": "practice"
+  },
+  {
+   "from": "consecration",
+   "type": "practice",
+   "name": "Consecration",
+   "as": "the step before this one — the writing that has to be right before anyone chants over it",
+   "rel": "practice"
+  },
+  {
+   "from": "folding",
+   "type": "practice",
+   "name": "Folding",
+   "as": "the step this one closes over",
+   "rel": "practice"
+  },
+  {
+   "from": "tattooing",
+   "type": "practice",
+   "name": "Tattooing",
+   "as": "the writing step, done with a needle and at the bearer's expense",
+   "rel": "practice"
+  },
+  {
+   "from": "washing-off-ink",
+   "type": "practice",
+   "name": "Washing off the ink",
+   "as": "the writing step, done here in the knowledge that the writing is about to be destroyed",
+   "rel": "practice"
+  },
+  {
+   "from": "insadong",
+   "type": "place",
+   "name": "Insa-dong",
+   "as": "the practice a stationery district exists to equip",
+   "rel": "practice"
+  },
+  {
+   "from": "campbell-bonner",
+   "type": "person",
+   "name": "Campbell Bonner",
+   "as": "the practice his method reads — image and cut text taken together, never separately",
+   "rel": "practice"
+  },
+  {
+   "from": "joseph-naveh",
+   "type": "person",
+   "name": "Joseph Naveh",
+   "as": "the practice his whole method addresses — what was written, in which hand, and when",
+   "rel": "practice"
+  },
+  {
+   "from": "abracadabra",
+   "type": "term",
+   "name": "abracadabra",
+   "as": "the practice the whole thing consists of — no material, no shape, just the writing of it",
+   "rel": "practice"
+  },
+  {
+   "from": "yantra-word",
+   "type": "term",
+   "name": "yantra",
+   "as": "the practice the word requires: a yantra is drawn before it is anything",
+   "rel": "practice"
+  }
+ ]
+}

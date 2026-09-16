@@ -1,0 +1,39 @@
+{
+ "schema": 1,
+ "id": "budge-plates",
+ "type": "art",
+ "names": {
+  "name": "Budge's amulet plates",
+  "aliases": ["Amulets and Superstitions (1930), plates", "Budge 1930 plates"]
+ },
+ "region": ["ancient-egypt", "mesopotamia", "levant", "britain-ireland", "world"],
+ "countries": ["EG", "IQ", "GB"],
+ "facets": {"kind": "plate", "era": "modern"},
+ "text": {
+  "what": "Twenty-two plates and three hundred in-text illustrations bound into a 543-page book: E. A. Wallis Budge's \"Amulets and superstitions\", published in London and New York by Oxford University Press and H. Milford in 1930. The Wellcome Collection's catalogue record gives the collation as xxxix, 543 pages with illustrations, plates and facsimiles, 25 cm tall. A single plate will set an Egyptian scarab beside a Babylonian cylinder, a Hebrew amulet and a Gnostic gem, drawn or photographed to no common scale.",
+  "story": "The subtitle is the argument. Budge's runs to a paragraph — Egyptian, Sumerian, Assyrian, Hebrew, Christian, Gnostic and Muslim amulets and talismans and magical figures, with chapters on the evil eye, the origin of the amulet, the pentagon, the swastika, the cross, the properties of stones, rings, divination, numbers, the Kabbâlâh and ancient astrology. Nobody had put that list on one shelf before, and the plates are the list made visible: this atlas's own habit of setting a Cairo object beside a Naples one descends directly from pages laid out like these.\n\nThe books have a reputation and it is not a good one. The Egyptologist James Peter Allen writes that Budge's books \"were not too reliable when they first appeared and are now woefully outdated\". The archaeologist Brian M. Fagan has called Budge \"one of the major illegal looters of antiquities\": as the British Museum's buyer he smuggled cuneiform tablets out of Iraq by bribery, and gave his own account of one such trip in By Nile and Tigris.\n\n*Inference —* the plates and the text fail differently, and the difference matters to a reader. A plate records what an object looked like in 1930, which is checkable. The caption records what Budge thought it meant, which is often not. So this atlas cites these pictures for shape and cites almost nothing here for meaning.",
+  "today": "The Wellcome Collection's record for the 1930 edition carries the rights statement \"In copyright. It is possible this item is protected by copyright and/or related rights.\" So the plates are not reproduced here, and no candidate image file is listed below. Later reprints of Budge circulate widely and have kept his readings in print long after Egyptology dropped them."
+ },
+ "kin": [
+  {"to": "wallis-budge", "as": "the keeper who assembled these plates, and the buyer whose acquisition methods are part of the record", "rel": "person"},
+  {"to": "petrie-amulet-plates", "as": "the other amulet picture-book of the period — dug up and sorted, where Budge's was bought and compared", "rel": "contrast"},
+  {"to": "british-museum", "as": "the collection Budge built and photographed from, and the one most of these objects still sit in", "rel": "held-at"},
+  {"to": "incantation-bowl", "as": "one of the Mesopotamian classes these plates put in front of a European reader for the first time", "rel": "carries"},
+  {"to": "magical-gem", "as": "the Gnostic and Graeco-Egyptian stones that fill several of the plates", "rel": "carries"},
+  {"to": "who-owns-a-charm", "as": "the long read that starts from how objects like these reached London", "rel": "story"},
+  {"to": "free-to-use", "as": "why these plates are named here and not shown here: the catalogue record says in copyright", "rel": "story"}
+ ],
+ "links": [
+  {"label": "Amulets and superstitions (Budge, 1930) — Wellcome Collection catalogue", "url": "https://wellcomecollection.org/works/xdr9gjdz"}
+ ],
+ "sources": ["s:web-budge-amulets-1930", "s:wp-e-a-wallis-budge", "s:wp-british-museum", "s:wp-amulet"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:web-budge-amulets-1930"},
+  "fields": {
+   "text.story": {"tier": "cited", "source": "s:wp-e-a-wallis-budge", "note": "the closing paragraph is marked as this project's inference where it appears"}
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

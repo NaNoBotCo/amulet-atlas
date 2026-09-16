@@ -1,0 +1,85 @@
+{
+ "schema": 1,
+ "id": "taweret-amulet",
+ "type": "amulet",
+ "names": {
+  "name": "Taweret amulet",
+  "said": "ta-WER-et, from Ancient Egyptian tꜣ-wrt, 'she who is great'; Greek Θουέρις, Thouéris",
+  "aliases": ["Taurt", "Ta-weret", "Tawaret", "Thoeris", "hippopotamus goddess amulet"]
+ },
+ "etymology": {
+  "root": "Egyptian tꜣ-wrt, 'she who is great' or simply 'great one' — a pacificatory address, the form of words used to calm a dangerous deity rather than to describe a kind one.",
+  "note": "Her sister goddesses are named the same careful way: Ipet, 'the Nurse'; Reret, 'the Sow', from the Egyptian classification of hippopotami as water pigs; Hedjet, 'the White One', whose sense is less clear.",
+  "tier": "cited",
+  "source": "s:wp-taweret"
+ },
+ "region": ["ancient-egypt", "nubia-sudan", "levant", "greece-aegean"],
+ "countries": ["EG", "SD", "GR", "LB", "SY"],
+ "facets": {"era": "ancient", "status": "archaeological", "portable": "worn", "restricted": "open", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A hippopotamus standing upright on two legs, with a lion's limbs and paws, a Nile crocodile down her back and tail, human breasts and a pregnant belly. She usually holds the sa sign, the hieroglyph that means 'protection'. She comes as a pendant, as a face on furniture, chairs, stools and headrests, on children's feeding cups, and as a vessel whose spout is a nipple.",
+  "story": "Egypt made two decisions about hippopotami and kept both. The male was chaos, hunted down by kings to show divine power. The female was the opposite, because she guards her young with everything she has — so the protective goddesses of the household are female hippopotami, and amulets in their likeness are among the oldest in the country. They start before 3000 BCE, in the Predynastic period, and the making and wearing of them runs the whole length of Egyptian history into the Ptolemaic and Roman periods, to about 390 CE.\n\nHer amulet peaks in popularity at the very end. In the Ptolemaic and Roman centuries, when the temples were changing hands and the old state religion was thinning out, household amulets of Taweret and her fellow hippopotamus goddesses sold better than ever.\n\nShe worked at both ends of a life. In the Middle Kingdom her image is carved onto a class of curved implement made from hippopotamus ivory that Egyptologists call a wand or a knife; tomb paintings show these in the hands of nurses, and wear on the tips indicates they were used to draw protective patterns in the sand. Taweret is on almost all known wands. The other figures on them are the gods who escort the sun through the underworld at night. At the same time hippopotami decorated with marsh flora were being put in tombs, which Egyptologists read as the same goddess helping a dead person be reborn the way she helped a living one be delivered.\n\nShe survived Akhenaten. Objects bearing Taweret were found at Amarna, from a reign, about 1352–1336 BCE, when the worship of the traditional gods was proscribed in favour of the sun disc. *Inference —* what people keep when the state tells them to stop is a good measure of what an object is for, and a birth charm is not easy to give up.\n\nShe travelled by trade. Middle Kingdom contact with the Levant carried her into the religions there in the same maternal role. From the Levantine coast she reached Crete, where Minoan artists redrew her in their own style as the figure Aegean archaeologists call the Minoan Genius, and from Crete the image reached the mainland and appears in palace art at Mycenae. Nubia took her into its pantheon in the late Middle Kingdom, and she features in royal rituals at Kerma.\n\nDo not confuse her with Ammit. Ammit is also a composite hippopotamus and she is there to eat the unjust at the weighing; Taweret and her kin nourish and help.",
+  "how": "Moulded or carved as a pendant, cut into furniture, moulded onto feeding cups, and poured from: New Kingdom vessels in her shape are taken to have purified the liquid poured out of them, since one of her epithets is 'She of the Pure Water', and some have their openings through the nipples. The hippopotamus-ivory wands were drawn with, in sand, by the nurse.",
+  "today": "Not made as a birth charm. She is a museum object, a name in Egyptology, and a character in a television series. As of 2026 this project has read no account of anybody in Egypt using a Taweret at a birth."
+ },
+ "dating": {
+  "period": "Predynastic to Roman Egypt",
+  "from_year": -2999,
+  "to_year": 390,
+  "living": false,
+  "label": "c. 3000 BCE – c. 390 CE",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-taweret",
+  "note": "The source dates protective amulets bearing female hippopotamuses to the Predynastic period, c. 3000–2686 BCE, and says the tradition of making and wearing them continued through Egyptian history into the Ptolemaic Kingdom and the Roman period, c. 332 BCE – 390 CE. Both ends are the source's own figures."
+ },
+ "object": {
+  "form": "pendant",
+  "materials": ["faience", "bone", "terracotta", "gold"],
+  "worn": ["neck", "cradle", "grave", "hearth"],
+  "made_by": "household workshops; the ivory wands were used by nurses",
+  "inscription": "none; she is usually shown holding the sa sign, Gardiner V17, which literally means 'protection'",
+  "colour": ["blue-green"],
+  "single_use": false,
+  "source": "s:wp-taweret",
+  "note": "bone-ivory covers the hippopotamus ivory the Middle Kingdom wands are cut from. No measurement was read, so length_mm is absent."
+ },
+ "against": [
+  {"harm": "childbirth", "who": "Egyptian household practice — the source calls her the protective goddess of childbirth and fertility, with the epithet 'Lady of the Birth House'", "source": "s:wp-taweret", "tier": "cited"},
+  {"harm": "child-harm", "who": "Egyptian mothers; the source says her amulets protected mothers and children from harm and that her powers were invoked particularly to protect children and their mothers", "source": "s:wp-taweret", "tier": "cited"},
+  {"harm": "infertility", "who": "Egyptian household practice, which grouped her with the fertility goddesses", "source": "s:wp-taweret", "tier": "cited"},
+  {"harm": "the-dead", "who": "Egyptologists, reading the hippopotami placed in tombs as the goddess facilitating rebirth after death as she aided earthly births", "source": "s:wp-taweret", "tier": "cited", "note": "the source presents this as a scholarly reading"}
+ ],
+ "holdings": [
+  {"museum": "british-museum", "what": "Taweret amulets and hippopotamus-ivory wands in the Egyptian collection", "source": "s:wp-british-museum"},
+  {"museum": "met", "what": "Taweret figures in the Egyptian galleries", "source": "s:wp-metropolitan-museum-of-art", "open_access": true},
+  {"museum": "petrie", "what": "Taweret amulets in the excavated amulet series", "source": "s:wp-petrie-museum-of-egyptian-archaeology"}
+ ],
+ "kin": [
+  {"to": "bes-amulet", "as": "the god who works the same birth with her; the sources put the two of them in the room together", "rel": "kin"},
+  {"to": "egyptian-amulet-craft", "as": "the tradition that made her, and the oldest amulet shape in it", "rel": "tradition"},
+  {"to": "lamashtu-plaque", "as": "Mesopotamia's answer to the same fear — but there the danger to mother and baby is the figure on the plaque, and here she is the guard", "rel": "contrast"},
+  {"to": "most-of-them-are-for-children", "as": "the long read she heads: the largest class of amulet in the world is the one hung on somebody who cannot ask for it", "rel": "story"},
+  {"to": "bone-ivory", "as": "the material of the Middle Kingdom wands her face is cut into", "rel": "material"},
+  {"to": "faience", "as": "the material that made her cheap enough to hang over a cradle", "rel": "material"},
+  {"to": "grave-deposit", "as": "the other end of her work — hippopotami with marsh flora put in tombs for a second birth", "rel": "practice"},
+  {"to": "met-egyptian-galleries", "as": "a room where her amulets and the wands sit within sight of each other", "rel": "place"},
+  {"to": "tabiz", "as": "a later charm for the same fear, made of a written verse in a case rather than a goddess in faience", "rel": "parallel"}
+ ],
+ "confusable_with": [
+  {"id": "bes-amulet", "tell": "Bes is a squat bearded face shown head-on; Taweret is a standing hippopotamus in profile with a crocodile down her back"}
+ ],
+ "links": [{"label": "Taweret — Wikipedia", "url": "https://en.wikipedia.org/wiki/Taweret"}],
+ "sources": ["s:wp-taweret", "s:wp-bes", "s:wp-lamashtu", "s:wp-egyptian-faience", "s:wp-apotropaic-magic", "s:wp-british-museum", "s:wp-metropolitan-museum-of-art", "s:wp-petrie-museum-of-egyptian-archaeology"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-taweret"},
+  "fields": {
+   "text.today": {"tier": "inference", "note": "reasoned from the absence of any living practice in the sources read; not a survey"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Taweret amulet MET DP109380.jpg", "File:Statuette of Taweret MET DT11738.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

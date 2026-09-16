@@ -1,0 +1,491 @@
+{
+ "schema": 1,
+ "id": "spiral",
+ "type": "motif",
+ "names": {
+  "name": "The spiral",
+  "aliases": [
+   "triskelion",
+   "triple spiral",
+   "spiral inscription",
+   "the coil"
+  ]
+ },
+ "region": [
+  "britain-ireland",
+  "western-europe",
+  "greece-aegean",
+  "mesopotamia",
+  "ancient-egypt",
+  "caucasus"
+ ],
+ "countries": [
+  "MT",
+  "IE",
+  "IM",
+  "IT",
+  "GR",
+  "IQ",
+  "SY",
+  "EG",
+  "RU"
+ ],
+ "facets": {
+  "era": "prehistoric",
+  "family": "geometric",
+  "hemisphere": [
+   "N",
+   "E",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A line that winds in on itself. It is cut into stone, painted on pottery, blazoned on a shield, and — once, and importantly — used as the direction in which to write, so that the words themselves coil inward.",
+  "story": "Mesopotamia is the only place in this record where somebody says what the spiral is for. Incantation bowls were usually inscribed in a spiral, beginning at the rim and moving toward the centre, most of them in Jewish Babylonian Aramaic, made in Upper Mesopotamia and Syria from the sixth to the eighth centuries. The scholar John Charles Arnold describes how they worked: \"When placed upside down under each corner of a house, demons would follow the inscribed charms that spiraled from the outer rim inward, only to be caught in the center.\" The geometry is the mechanism. The spiral is a trap, and a text written that way is a corridor with no exit.\n\nEurope cut it into tombs long before anyone wrote in it. The triple spiral, the triskelion, first appears in Malta between 4400 and 3600 BCE, and then in the astronomical calendar of the megalithic tomb at Newgrange in Ireland, built around 3200 BCE. It runs through European Neolithic and Bronze Age artefacts and into the Iron Age, especially in the La Tène culture. From the late sixth century BCE it appears on hoplite shields and Greek pottery, and it was adopted as an emblem by the rulers of Syracuse, possibly in connection with the island's Greek name Trinacria, 'having three headlands'. It survives in the arms and flags of the Isle of Man.\n\nEgypt kept a spiral on the eye. The wedjat has a line extending below and toward the rear of the eye that ends in a curl or spiral; the Egyptologist Richard H. Wilkinson suggests the curling line derives from the facial markings of the cheetah, which Egyptians associated with the sky because its spots were likened to stars. In New Kingdom elaborations the rear spiral could become a bird's tail feathers.\n\nThe Caucasus keeps a spiralled version of another sign: according to Vakhushti of Kartli, the tribal banner of the Avar khans depicted a wolf with a standard bearing a double-spiral swastika.\n\nTransmission or convergence: unknown, and the sources read here do not say. The triskelion page sets out the recurrences and declines to explain them. The distances are the argument against a single story — Malta and Newgrange are separated by twelve hundred years and a sea, and the Mesopotamian bowl spiral comes three and a half thousand years after either and is not an ornament at all but a way of arranging letters. *Inference —* the shield blazon and the bowl inscription are doing different jobs with the same curve: one is a face shown to an enemy, like a gorgoneion, and the other is a floor plan for a maze. This record files them together because they share a shape and says plainly that sharing a shape is all they are known to share.",
+  "notes": "Filed under the geometric family, which this record's own objection got added to the vocabulary: the spiral is a line that turns back on itself and belongs with shape rather than with rope."
+ },
+ "dating": {
+  "period": "Maltese Neolithic to the early Islamic period",
+  "from_year": -4399,
+  "to_year": null,
+  "living": true,
+  "label": "c. 4400 BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:web-wp-triskelion",
+  "note": "Dated from the earliest appearance the cited account gives, in Malta between 4400 and 3600 BCE, with Newgrange at around 3200 BCE. The end is left open because the triskelion is still borne on the arms and flags of the Isle of Man; the protective uses documented here — the bowls, the wedjat, the shield blazon — all end far earlier."
+ },
+ "object": {
+  "form": "bead",
+  "materials": [
+   "terracotta",
+   "ink",
+   "copper"
+  ],
+  "worn": [
+   "foundation",
+   "wall",
+   "neck"
+  ],
+  "source": "s:wp-incantation-bowl"
+ },
+ "against": [
+  {
+   "harm": "demons",
+   "who": "the householders of Nippur, in John Charles Arnold's reading of the bowls",
+   "quote": "When placed upside down under each corner of a house, demons would follow the inscribed charms that spiraled from the outer rim inward, only to be caught in the center.",
+   "source": "s:wp-incantation-bowl",
+   "tier": "cited"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "the bowls' own inscriptions, which name the evil eye among the influences they act against",
+   "source": "s:wp-incantation-bowl",
+   "tier": "cited"
+  },
+  {
+   "harm": "weapons",
+   "who": "the hoplites who bore the triskeles on their shields from the late sixth century BCE",
+   "source": "s:web-wp-triskelion",
+   "tier": "cited",
+   "note": "the source records the blazon; it does not say the bearers claimed protection from it, and this record does not"
+  }
+ ],
+ "kin": [
+  {
+   "to": "incantation-bowl",
+   "as": "the only object in this atlas where the spiral is load-bearing: the words follow it inward and the demon follows the words",
+   "rel": "carried-by"
+  },
+  {
+   "to": "wedjat-eye",
+   "as": "carries the sign as a tail — the curl below the eye that Wilkinson traces to a cheetah's markings",
+   "rel": "carried-by"
+  },
+  {
+   "to": "swastika-sign",
+   "as": "the neighbouring turning sign, and the one whose Avar banner version is recorded as a double spiral",
+   "rel": "kin"
+  },
+  {
+   "to": "gorgoneion",
+   "as": "the other thing a Greek put on a shield, which is how this record reads the triskeles blazon",
+   "rel": "parallel"
+  },
+  {
+   "to": "knot",
+   "as": "the family this sign is filed under: a line that turns back on itself and does not let go",
+   "rel": "kin"
+  },
+  {
+   "to": "ink",
+   "as": "what the spiral is made of in the bowls — the shape exists only as writing there",
+   "rel": "material"
+  },
+  {
+   "to": "terracotta",
+   "as": "the surface that kept the spiral legible for fourteen centuries",
+   "rel": "material"
+  },
+  {
+   "to": "foundation-deposit",
+   "as": "the practice the bowls belong to: face down, under each corner of the house",
+   "rel": "practice"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "as": "the long read on signs that recur without a route, which this one is a clean example of",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Triskelion — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Triskelion"
+  },
+  {
+   "label": "Incantation bowl — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Incantation_bowl"
+  }
+ ],
+ "sources": [
+  "s:web-wp-triskelion",
+  "s:wp-incantation-bowl",
+  "s:wp-eye-of-horus",
+  "s:wp-swastika"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-wp-triskelion"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-incantation-bowl",
+    "note": "the closing sentences comparing the blazon with the bowl are this project's reasoning and are marked in the text"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Newgrange triple spiral.jpg",
+  "File:Triskelion.svg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-17",
+ "blurb": "A line that winds in on itself. It is cut into stone, painted on pottery, blazoned on a shield, and — once, and importantly — used as the direction in which to write, so that the words themselves coil inward.",
+ "region_terms": [
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "western-europe",
+   "name": "Western Europe",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "greece-aegean",
+   "name": "Greece and the Aegean",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "mesopotamia",
+   "name": "Mesopotamia",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Sumer, Akkad, Babylonia, Assyria"
+  },
+  {
+   "key": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Nile valley and delta, Predynastic through Roman Egypt"
+  },
+  {
+   "key": "caucasus",
+   "name": "The Caucasus",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "incantation-bowl",
+   "type": "amulet",
+   "name": "Incantation bowl",
+   "as": "the only object in this atlas where the spiral is load-bearing: the words follow it inward and the demon follows the words",
+   "rel": "carried-by"
+  },
+  {
+   "to": "wedjat-eye",
+   "type": "amulet",
+   "name": "Wedjat eye",
+   "as": "carries the sign as a tail — the curl below the eye that Wilkinson traces to a cheetah's markings",
+   "rel": "carried-by"
+  },
+  {
+   "to": "swastika-sign",
+   "type": "motif",
+   "name": "The swastika",
+   "as": "the neighbouring turning sign, and the one whose Avar banner version is recorded as a double spiral",
+   "rel": "kin"
+  },
+  {
+   "to": "gorgoneion",
+   "type": "amulet",
+   "name": "Gorgoneion",
+   "as": "the other thing a Greek put on a shield, which is how this record reads the triskeles blazon",
+   "rel": "parallel"
+  },
+  {
+   "to": "knot",
+   "type": "motif",
+   "name": "The knot",
+   "as": "the family this sign is filed under: a line that turns back on itself and does not let go",
+   "rel": "kin"
+  },
+  {
+   "to": "ink",
+   "type": "material",
+   "name": "Ink",
+   "as": "what the spiral is made of in the bowls — the shape exists only as writing there",
+   "rel": "material"
+  },
+  {
+   "to": "terracotta",
+   "type": "material",
+   "name": "Fired clay",
+   "as": "the surface that kept the spiral legible for fourteen centuries",
+   "rel": "material"
+  },
+  {
+   "to": "foundation-deposit",
+   "type": "practice",
+   "name": "Foundation deposit",
+   "as": "the practice the bowls belong to: face down, under each corner of the house",
+   "rel": "practice"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "type": "story",
+   "name": "The eye everywhere",
+   "as": "the long read on signs that recur without a route, which this one is a clean example of",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:web-wp-triskelion",
+   "kind": "encyclopedia",
+   "title": "Triskelion",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Triskelion",
+   "accessed": "2026-09-17",
+   "license": "CC BY-SA 4.0",
+   "note": "Read for the triple spiral: Malta 4400-3600 BCE, Newgrange c. 3200 BCE, European Neolithic through La Tene, hoplite shields and Greek pottery from the late 6th century BCE, the emblem of the rulers of Syracuse, and the arms and flags of the Isle of Man. The page does not say whether the recurrences are transmission or independent invention, and the record citing it says so."
+  },
+  {
+   "id": "s:wp-incantation-bowl",
+   "kind": "encyclopedia",
+   "title": "Incantation bowl",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Incantation_bowl",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-eye-of-horus",
+   "kind": "encyclopedia",
+   "title": "Eye of Horus",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eye_of_Horus",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-swastika",
+   "kind": "encyclopedia",
+   "title": "Swastika",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Swastika",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:web-wp-triskelion"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-incantation-bowl",
+   "note": "the closing sentences comparing the blazon with the bowl are this project's reasoning and are marked in the text"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:web-wp-triskelion"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:web-wp-triskelion"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "demons",
+   "label": "Demons and night-hags",
+   "who": "the householders of Nippur, in John Charles Arnold's reading of the bowls",
+   "quote": "When placed upside down under each corner of a house, demons would follow the inscribed charms that spiraled from the outer rim inward, only to be caught in the center.",
+   "source": "s:wp-incantation-bowl",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "evil-eye",
+   "label": "The evil eye",
+   "gloss": "harm carried by a look, often an admiring one",
+   "who": "the bowls' own inscriptions, which name the evil eye among the influences they act against",
+   "quote": "",
+   "source": "s:wp-incantation-bowl",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "weapons",
+   "label": "Blades and bullets",
+   "gloss": "invulnerability charms; reported, never recommended",
+   "who": "the hoplites who bore the triskeles on their shields from the late sixth century BCE",
+   "quote": "",
+   "source": "s:web-wp-triskelion",
+   "tier": "cited",
+   "note": "the source records the blazon; it does not say the bearers claimed protection from it, and this record does not"
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "terracotta",
+   "label": "Fired clay",
+   "kind": "fired"
+  },
+  {
+   "key": "ink",
+   "label": "Ink",
+   "kind": "written"
+  },
+  {
+   "key": "copper",
+   "label": "Copper and bronze",
+   "kind": "metal"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "foundation",
+   "label": "In the foundations",
+   "group": "placed"
+  },
+  {
+   "key": "wall",
+   "label": "On a wall",
+   "group": "placed"
+  },
+  {
+   "key": "neck",
+   "label": "At the neck",
+   "group": "body",
+   "note": "the world's default position"
+  }
+ ],
+ "form_fact": {
+  "key": "bead",
+  "label": "Bead"
+ },
+ "holding_facts": [],
+ "span": "4400 BCE to now",
+ "country_names": [
+  {
+   "iso": "MT",
+   "name": "Malta"
+  },
+  {
+   "iso": "IE",
+   "name": "Ireland"
+  },
+  {
+   "iso": "IM",
+   "name": "Isle of Man"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  },
+  {
+   "iso": "GR",
+   "name": "Greece"
+  },
+  {
+   "iso": "IQ",
+   "name": "Iraq"
+  },
+  {
+   "iso": "SY",
+   "name": "Syria"
+  },
+  {
+   "iso": "EG",
+   "name": "Egypt"
+  },
+  {
+   "iso": "RU",
+   "name": "Russia"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "swastika-sign",
+   "type": "motif",
+   "name": "The swastika",
+   "as": "the other rotating figure, and the one it is often grouped with in prehistoric assemblages",
+   "rel": "parallel"
+  },
+  {
+   "from": "ink",
+   "type": "material",
+   "name": "Ink",
+   "as": "the shape the writing takes in the bowls, where the geometry is the mechanism",
+   "rel": "motif"
+  }
+ ]
+}

@@ -1,0 +1,358 @@
+{
+ "schema": 1,
+ "id": "amulet-word",
+ "type": "term",
+ "names": {
+  "name": "amulet",
+  "said": "AM-yoo-let",
+  "aliases": [
+   "amuletum",
+   "amulette",
+   "amalettys"
+  ]
+ },
+ "etymology": {
+  "root": "Latin amuletum > Middle French amulette > English amulet",
+  "first_attested": "mid-15th century in English, as amalettys, then not recorded again until c. 1600 (Online Etymology Dictionary)",
+  "note": "Pliny's Natural History describes an amuletum as an object that protects a person from trouble. Where the Latin word itself came from is not settled: the Online Etymology Dictionary calls its origin uncertain and offers a possible link to amoliri, 'to avert, to carry away, remove'.",
+  "folk": "Labelled folk etymology: an Arabic source is sometimes claimed for amuletum. The Online Etymology Dictionary's entry rejects an Arabic origin.",
+  "tier": "cited",
+  "source": "s:web-etymonline-amulet"
+ },
+ "region": [
+  "world",
+  "western-europe",
+  "rome-italy"
+ ],
+ "countries": [
+  "GB",
+  "US",
+  "IT"
+ ],
+ "facets": {
+  "language": [
+   "English",
+   "Latin",
+   "French"
+  ]
+ },
+ "text": {
+  "what": "The English cover-word for a protective object, and the word this atlas is written in. English-language museums, catalogues and scholarship use it as the wide category and file everything else inside it — Wikipedia's article calls amulet the proper, inclusive term and puts good luck charm and devotional article underneath it as subsets. Other writers split the pair: an amulet turns harm away, a talisman brings fortune in. The same encyclopedia carries both positions, one article apart. Which sense a reader meets depends on who wrote the label in front of them.",
+  "story": "Pliny's Natural History pins the Latin word to a thing: an amuletum is an object that protects a person from trouble. Beyond that the Latin is dark. The Online Etymology Dictionary calls its origin uncertain, floats a link to amoliri, 'to avert, to carry away', and turns down the Arabic derivation that gets repeated in popular writing.\n\nEnglish took the word late, and then dropped it. The Online Etymology Dictionary records amalettys in the middle of the fifteenth century, probably through French, and then nothing again until about 1600. A hundred and fifty years of silence, and then it came back to stay.\n\nThe split with talisman is the argument the word carries. Wikipedia's amulet article states flatly that talismans and amulets have interchangeable meanings, and in the next breath that an amulet is generally worn for protection and made from a durable material. Its talisman article keeps the functions apart: protection against evil on one side, good fortune on the other. Museum labels follow one convention or the other without announcing which.\n\n*Inference —* the category is European and it was laid over the world from outside. An Egyptian wore a wedjat; a Bangkok collector buys a phra khrueang by temple and by monk; a visitor to a Kyoto shrine takes home an omamori. None of them reaches for a word meaning amulet-in-general. The wide word belongs to the cataloguer, and it is the word on the spine of this project. Saying so is the least the reader is owed."
+ },
+ "dating": {
+  "from_year": 1450,
+  "to_year": null,
+  "living": true,
+  "label": "in English from the mid-1400s",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:web-etymonline-amulet",
+  "note": "Dated from the first English attestation, not from the Latin word, which Pliny already uses."
+ },
+ "kin": [
+  {
+   "to": "talisman-word",
+   "as": "the word it is paired with and sometimes distinguished from — protection on this side, fortune on that, when a writer bothers to split them",
+   "rel": "contrast"
+  },
+  {
+   "to": "charm-word",
+   "as": "the older English word, which started as the spoken spell and only later meant the object",
+   "rel": "contrast"
+  },
+  {
+   "to": "phylactery-word",
+   "as": "used as a general synonym for any amulet, and at the same time the fixed English word for tefillin",
+   "rel": "same-word"
+  },
+  {
+   "to": "periapt",
+   "as": "the near-dead English synonym, kept alive by antiquarians and by translators out of Greek",
+   "rel": "same-word"
+  },
+  {
+   "to": "apotropaic-word",
+   "as": "the scholar's adjective for the same objects, describing the function and claiming nothing for it",
+   "rel": "contrast"
+  },
+  {
+   "to": "fetish-word",
+   "as": "the other European cover-word for other people's objects — and the one this atlas uses for its own history only",
+   "rel": "contrast"
+  },
+  {
+   "to": "amulet-or-talisman",
+   "as": "the long read that takes this disagreement apart instead of settling it",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Amulet — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet"
+  }
+ ],
+ "sources": [
+  "s:wp-amulet",
+  "s:wp-talisman",
+  "s:web-etymonline-amulet",
+  "s:web-wiktionary-amulet"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-etymonline-amulet"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-amulet",
+    "note": "the closing paragraph is this project's own argument and is marked inference where it appears"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "The English cover-word for a protective object, and the word this atlas is written in.",
+ "region_terms": [
+  {
+   "key": "world",
+   "name": "Everywhere",
+   "hemi": [
+    "N",
+    "S",
+    "E",
+    "W"
+   ],
+   "note": "use for a sign or a practice documented on more than two continents"
+  },
+  {
+   "key": "western-europe",
+   "name": "Western Europe",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "rome-italy",
+   "name": "Rome and Italy",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "talisman-word",
+   "type": "term",
+   "name": "talisman",
+   "as": "the word it is paired with and sometimes distinguished from — protection on this side, fortune on that, when a writer bothers to split them",
+   "rel": "contrast"
+  },
+  {
+   "to": "charm-word",
+   "type": "term",
+   "name": "charm",
+   "as": "the older English word, which started as the spoken spell and only later meant the object",
+   "rel": "contrast"
+  },
+  {
+   "to": "phylactery-word",
+   "type": "term",
+   "name": "phylactery",
+   "as": "used as a general synonym for any amulet, and at the same time the fixed English word for tefillin",
+   "rel": "same-word"
+  },
+  {
+   "to": "periapt",
+   "type": "term",
+   "name": "periapt",
+   "as": "the near-dead English synonym, kept alive by antiquarians and by translators out of Greek",
+   "rel": "same-word"
+  },
+  {
+   "to": "apotropaic-word",
+   "type": "term",
+   "name": "apotropaic",
+   "as": "the scholar's adjective for the same objects, describing the function and claiming nothing for it",
+   "rel": "contrast"
+  },
+  {
+   "to": "fetish-word",
+   "type": "term",
+   "name": "fetish",
+   "as": "the other European cover-word for other people's objects — and the one this atlas uses for its own history only",
+   "rel": "contrast"
+  },
+  {
+   "to": "amulet-or-talisman",
+   "type": "story",
+   "name": "Amulet or talisman?",
+   "as": "the long read that takes this disagreement apart instead of settling it",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-amulet",
+   "kind": "encyclopedia",
+   "title": "Amulet",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-talisman",
+   "kind": "encyclopedia",
+   "title": "Talisman",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Talisman",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:web-etymonline-amulet",
+   "kind": "web",
+   "title": "amulet — Etymology, Origin & Meaning",
+   "publisher": "Online Etymology Dictionary (Douglas Harper)",
+   "url": "https://www.etymonline.com/word/amulet",
+   "accessed": "2026-09-16"
+  },
+  {
+   "id": "s:web-wiktionary-amulet",
+   "kind": "web",
+   "title": "amulet — Wiktionary, the free dictionary",
+   "publisher": "Wiktionary",
+   "url": "https://en.wiktionary.org/wiki/amulet",
+   "accessed": "2026-09-16"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:web-etymonline-amulet"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-amulet",
+   "note": "the closing paragraph is this project's own argument and is marked inference where it appears"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:web-etymonline-amulet"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:web-etymonline-amulet"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1450 CE to now",
+ "country_names": [
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  },
+  {
+   "iso": "IT",
+   "name": "Italy"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "caul",
+   "type": "amulet",
+   "name": "Caul",
+   "as": "the word the sources reach for here, alongside talisman, for an object that is a body part and an omen at once",
+   "rel": "term"
+  },
+  {
+   "from": "wallis-budge",
+   "type": "person",
+   "name": "E. A. Wallis Budge",
+   "as": "the word whose history his first chapter set out for a general readership, and largely fixed there",
+   "rel": "term"
+  },
+  {
+   "from": "apotropaic-word",
+   "type": "term",
+   "name": "apotropaic",
+   "as": "the noun beside this adjective; one names the thing, the other names what it is for",
+   "rel": "contrast"
+  },
+  {
+   "from": "charm-word",
+   "type": "term",
+   "name": "charm",
+   "as": "the Latinate cover-word that took over the object sense in catalogues, leaving charm to the bracelet and the compliment",
+   "rel": "contrast"
+  },
+  {
+   "from": "fetish-word",
+   "type": "term",
+   "name": "fetish",
+   "as": "the cover-word Europeans used for their own protective objects while this one was used for other people's",
+   "rel": "contrast"
+  },
+  {
+   "from": "periapt",
+   "type": "term",
+   "name": "periapt",
+   "as": "the word that beat it — both mean a worn protective object, and only one is still sold in bookshops",
+   "rel": "same-word"
+  },
+  {
+   "from": "phylactery-word",
+   "type": "term",
+   "name": "phylactery",
+   "as": "the cover-word phylactery is sometimes swapped for, wrongly and often",
+   "rel": "contrast"
+  },
+  {
+   "from": "talisman-word",
+   "type": "term",
+   "name": "talisman",
+   "as": "the word it is set against — fortune in, harm away — by writers who split them at all",
+   "rel": "contrast"
+  },
+  {
+   "from": "ward-word",
+   "type": "term",
+   "name": "ward",
+   "as": "the noun for the thing that does the warding, arriving in English a thousand years later",
+   "rel": "contrast"
+  },
+  {
+   "from": "amulet-or-talisman",
+   "type": "story",
+   "name": "Amulet or talisman?",
+   "as": "the wide word this atlas files everything under, with its Latin and its hundred and fifty years of silence in English",
+   "rel": "term"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "schema": 1,
+ "id": "mesopotamian-apotropaic",
+ "type": "tradition",
+ "names": {
+  "name": "Mesopotamian household protection",
+  "said": "the apotropaic craft of Sumer, Akkad, Babylonia and Assyria",
+  "aliases": ["Mesopotamian apotropaic magic", "Babylonian white magic", "Assyrian household magic"]
+ },
+ "region": ["mesopotamia", "levant", "iran-persia"],
+ "countries": ["IQ", "SY", "IR", "TR"],
+ "facets": {"era": "ancient", "status": "archaeological", "language": "Akkadian and Sumerian", "restricted": "open", "hemisphere": ["N", "E"]},
+ "text": {
+  "what": "A craft with four moving parts: a demon with a name, a counter-power with a name, an incantation that addresses the demon directly, and a physical object — a plaque, a cast head, a figurine — placed where the danger comes in. Apotropaic ritual of this kind was practised throughout the ancient Near East, in houses rather than in state temples.",
+  "story": "The method is verbal before it is material. The incantations open by naming the demon and then work through her epithets — 'Dimme, daughter of Anu', 'Who was named by the gods' — because the names are the hold. The object carries the words. An amulet with Lamashtu's image on it is not a portrait; it is her, held and instructed.\n\nThe counter-power does not have to be good. Pazuzu is a wind that brings plague and a text addresses him as 'Agony of Mankind', and his head hangs over the bed anyway, because he is the one thing that sends Lamashtu back underground. That is the tradition's most distinctive move: it hires demons.\n\nPlacement is documented rather than guessed. Amulets bearing Lamashtu's image could be worn, attached to the body or to clothing, or set near beds, doorways and other vulnerable spaces. A large Pazuzu wall amulet was found on the floor of the main reception room of a house at Dur-Katlimmu, where it had hung facing the entryway. Ritual texts from Uruk prescribe a bronze Pazuzu necklace for a woman at risk of miscarriage.\n\nThe objects were made at scale. The uniformity of the Pazuzu heads and their number across sites is read as mass production, which makes this the earliest industrialised amulet trade in the atlas.\n\n*Inference —* the tradition does not end where the language does. Six hundred years after the last Pazuzu heads, the same ground is producing incantation bowls: a named demon, an incantation addressed to it directly, an object buried at the threshold. The scripts are Aramaic and Mandaic and the demons have new names, and the method is the one described above."
+ },
+ "dating": {
+  "period": "Old Babylonian to Seleucid",
+  "from_year": -1999,
+  "to_year": -62,
+  "living": false,
+  "label": "second and first millennia BCE, to the Seleucid period",
+  "method": "excavated",
+  "circa": true,
+  "tier": "inference",
+  "source": "s:wp-pazuzu",
+  "note": "The firm dated object is Pazuzu, from the 8th century BCE to the Seleucid period. The floor here reaches back to the Old Babylonian Atra-Hasis myth in which Lamashtu appears as Pashittu, and is this project's hedge rather than a dated find; the cited articles give no first attestation for a Lamashtu amulet."
+ },
+ "against": [
+  {"harm": "child-harm", "who": "the incantations, which name the unborn and newly born as the demon's first victims", "source": "s:wp-lamashtu", "tier": "cited"},
+  {"harm": "childbirth", "who": "ritual texts from Uruk, prescribing a bronze amulet against miscarriage", "source": "s:wp-pazuzu", "tier": "cited"},
+  {"harm": "demons", "who": "the ritual specialists, who set one demon against another", "source": "s:wp-pazuzu", "tier": "cited"},
+  {"harm": "fever", "who": "Mesopotamian religion, in which Pazuzu is the south-western wind and is paired with plague", "source": "s:wp-pazuzu", "tier": "cited"},
+  {"harm": "house", "who": "the household use the cited account describes: fearsome deities invoked in the home, not in state-run temples", "source": "s:wp-apotropaic-magic", "tier": "cited"}
+ ],
+ "kin": [
+  {"to": "lamashtu-plaque", "as": "the object at the centre of it — the demon, named and held, on a thing you can hang", "rel": "part"},
+  {"to": "pazuzu-head", "as": "the counter-power, cast by the thousand and worn at the neck", "rel": "part"},
+  {"to": "incantation-bowl", "as": "what this tradition becomes after the cuneiform stops: the same method in Aramaic ink, buried under the floor", "rel": "descendant"},
+  {"to": "egyptian-amulet-craft", "as": "the neighbouring workshop tradition, which made more objects and named fewer demons", "rel": "parallel"},
+  {"to": "bes-amulet", "as": "Egypt's household guardian, compared to Pazuzu by scholars on iconography and on function alike", "rel": "parallel"},
+  {"to": "greco-roman-apotropaic", "as": "the Mediterranean tradition that inherits the threshold logic and drops the demon's name", "rel": "descendant"},
+  {"to": "hamsa", "as": "the hand of Ishtar, used in Mesopotamia and Babylon against evil or disease entering a building, is one of the antecedents claimed for it", "rel": "descendant"},
+  {"to": "hanging-at-door", "as": "the practice this tradition is built on: put the guard where the thing gets in", "rel": "practice"},
+  {"to": "foundation-deposit", "as": "the other placement — under the floor rather than on the wall", "rel": "practice"},
+  {"to": "british-museum", "as": "one of the collections where these objects can be seen", "rel": "org"}
+ ],
+ "links": [{"label": "Pazuzu — Wikipedia", "url": "https://en.wikipedia.org/wiki/Pazuzu"}],
+ "sources": ["s:wp-pazuzu", "s:wp-lamashtu", "s:wp-mesopotamian-mythology", "s:wp-apotropaic-magic", "s:wp-incantation-bowl"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-pazuzu"},
+  "fields": {
+   "dating": {"tier": "inference", "note": "see dating.note; the floor is a hedge"}
+  }
+ },
+ "images": [],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

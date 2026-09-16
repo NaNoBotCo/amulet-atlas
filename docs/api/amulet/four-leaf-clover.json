@@ -1,0 +1,451 @@
+{
+ "schema": 1,
+ "id": "four-leaf-clover",
+ "type": "amulet",
+ "names": {
+  "name": "Four-leaf clover",
+  "aliases": [
+   "quadrifoglio",
+   "lucky clover",
+   "four-leaved shamrock"
+  ]
+ },
+ "etymology": {
+  "root": "English four-leaf clover; Italian quadrifoglio, 'four-leaf'.",
+  "note": "Four-leaf is botanically a misnomer. A clover plant carries many leaves, each made of a varying number of leaflets, usually three; what is being counted here is leaflets, not leaves.",
+  "tier": "cited",
+  "source": "s:wp-four-leaf-clover"
+ },
+ "region": [
+  "britain-ireland",
+  "western-europe",
+  "north-america"
+ ],
+ "countries": [
+  "IE",
+  "GB",
+  "US"
+ ],
+ "facets": {
+  "era": "early-modern",
+  "status": "living",
+  "portable": "carried",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A clover leaf with four leaflets instead of three, usually white clover, Trifolium repens. It is a mutation, not a species. Found ones are pressed flat in a book or sealed in plastic; grown ones are sold the same way. Collectors in Ireland prize the five-leaflet version, which they call a rose clover.",
+  "story": "The arithmetic is the whole appeal, and it has been measured. A 2017 survey of about 5.7 million clovers across six European countries put the frequency at roughly one four-leaf clover in every 5,076 — around 5,000 to one, which is almost twice as common as the 10,000-to-one figure people usually quote. The same survey gives 24,390 to one for five leaflets and 312,500 to one for six.\n\nThe luck attached to it goes back to at least the seventeenth century. A description from 1869 splits the practice by who is doing it: the clovers were \"gathered at night-time during the full moon by sorceresses, who mixed it with vervain and other ingredients, while young girls in search of a token of perfect happiness made quest of the plant by day.\" Eight years later an eleven-year-old girl put the folk version in a letter to St. Nicholas Magazine: \"Did the fairies ever whisper in your ear, that a 4-leaf clover brought good luck to the finder?\" Some traditions assign a meaning to each leaflet — Christians have used them for hope, faith, love and luck — and others say the clover grants the power to see fairies.\n\nThe charm's condition is that you find it, and industry has been steadily dissolving that condition. There are reports of farms in the United States producing as many as 10,000 a day, sealed in plastic and sold as lucky charms, by introducing a genetically engineered ingredient that encourages the aberration. Cultivars that reliably throw extra leaflets have existed for a long time — Trifolium repens \"Purpurascens Quadrifolium\", \"Quadrifolium\", and a cultivar actually called \"Good Luck\". A 2009 study exposed white clover flowers to gamma radiation during pollination and produced a cultivar yielding up to 60 per cent four-leaf clovers. Phosphate fertiliser and the plant hormone auxin both raise the rate.\n\nFinding them is also a sport. Guinness World Records lists the clover with the most leaflets ever found at 63, discovered by Yoshiharu Watanabe of Nasushiobara, Tochigi prefecture, Japan, on 2 August 2023, beating a 56-leaf clover found by Shigeo Obara of Hanamaki, Iwate prefecture, on 10 May 2009. Both men bred for it. An expert finder interviewed by the New York Times described the technique as scanning a patch for ruptures in the pattern: three leaflets make a triangle, four make a square.",
+  "how": "Found, in spring, before the first mowing. Picked, pressed flat between the pages of a book or laminated, and carried in a wallet or a pocket. Nothing is said or done over it. There is no retirement rite; it fades.",
+  "today": "Carried as a personal charm, farmed by the thousand and sold sealed in plastic, and used as a corporate emblem by organisations that have nothing to do with either. Alfa Romeo has used the quadrifoglio on its racing and performance cars since the driver Ugo Sivocci painted a green clover on a white ground for the 1923 Targa Florio. SpaceX has embroidered a four-leaf clover on every mission patch since the first successful Falcon 1 launch in 2008, which the company describes as being for luck. *Inference —* a charm whose whole claim rests on being rare is the charm most exposed to being manufactured, and the farm and the meadow versions are sold in the same packet."
+ },
+ "dating": {
+  "period": "Early modern to the present",
+  "from_year": 1600,
+  "to_year": null,
+  "living": true,
+  "label": "17th century to now",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-four-leaf-clover",
+  "note": "The source dates the belief to at least the seventeenth century without naming the text; the earliest dated statements it quotes are from 1869 and 1877."
+ },
+ "object": {
+  "materials": [
+   "herb",
+   "plastic",
+   "paper"
+  ],
+  "worn": [
+   "pocket",
+   "wallet"
+  ],
+  "made_by": "nobody — the tradition's one rule is that it must be found; a farm now supplies the rest",
+  "inscription": "",
+  "colour": [
+   "green"
+  ],
+  "count": 4,
+  "single_use": true,
+  "source": "s:wp-four-leaf-clover",
+  "note": "count is the leaflets. Paper and plastic are the pressing and the lamination — the charm is almost never carried loose."
+ },
+ "against": [
+  {
+   "harm": "bad-luck",
+   "who": "an eleven-year-old girl, writing to St. Nicholas Magazine in 1877",
+   "quote": "Did the fairies ever whisper in your ear, that a 4-leaf clover brought good luck to the finder?",
+   "source": "s:wp-four-leaf-clover",
+   "tier": "cited"
+  },
+  {
+   "harm": "loneliness",
+   "who": "an 1869 description, of young girls who sought the plant by day as a token of perfect happiness",
+   "source": "s:wp-four-leaf-clover",
+   "tier": "cited",
+   "note": "the same description has sorceresses gathering it at night under a full moon and mixing it with vervain, which is a different use of the same plant"
+  },
+  {
+   "harm": "spirits",
+   "who": "the folk tradition that a four-leaf clover grants the power to see fairies",
+   "source": "s:wp-four-leaf-clover",
+   "tier": "tradition",
+   "note": "this is a power claimed for the charm rather than a protection against a harm; it is listed because it is what carriers say it does"
+  }
+ ],
+ "kin": [
+  {
+   "to": "rabbits-foot",
+   "as": "the other charm that must be taken under conditions nobody observes any more, and the other one a factory now supplies",
+   "rel": "parallel"
+  },
+  {
+   "to": "horseshoe",
+   "as": "the other object whose oldest rule is that it must be found and not bought",
+   "rel": "parallel"
+  },
+  {
+   "to": "herb",
+   "as": "what it actually is: a plant, carried dead and flattened, and the only charm in this atlas measured by a botanical survey",
+   "rel": "material"
+  },
+  {
+   "to": "luck-word",
+   "as": "the word that has entirely replaced protection here — nothing in this record names a harm it turns away",
+   "rel": "term"
+  },
+  {
+   "to": "mascot-word",
+   "as": "where it ends up: an emblem on a racing car and a rocket patch rather than an object in a pocket",
+   "rel": "term"
+  },
+  {
+   "to": "exam-charm",
+   "as": "what a student carries now, and often this, flattened in a wallet",
+   "rel": "parallel"
+  },
+  {
+   "to": "game-day-charm",
+   "as": "the sporting end of the same habit, from Ugo Sivocci's 1923 Targa Florio clover onward",
+   "rel": "parallel"
+  },
+  {
+   "to": "the-fake-market",
+   "as": "the long read this belongs in: 10,000 a day, grown to order, sold as the thing you were supposed to find",
+   "rel": "story"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the tradition it came out of, and its least protective object",
+   "rel": "tradition"
+  }
+ ],
+ "links": [
+  {
+   "label": "Four-leaf clover — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Four-leaf_clover"
+  }
+ ],
+ "sources": [
+  "s:wp-four-leaf-clover",
+  "s:wp-luck",
+  "s:wp-list-of-lucky-symbols",
+  "s:wp-mascot"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-four-leaf-clover"
+  },
+  "fields": {
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-four-leaf-clover",
+    "note": "the Alfa Romeo and SpaceX facts are cited; the closing sentence is marked as inference in the prose"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A clover leaf with four leaflets instead of three, usually white clover, Trifolium repens. It is a mutation, not a species. Found ones are pressed flat in a book or sealed in plastic; grown ones are sold the same way.",
+ "region_terms": [
+  {
+   "key": "britain-ireland",
+   "name": "Britain and Ireland",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "western-europe",
+   "name": "Western Europe",
+   "hemi": [
+    "N",
+    "W",
+    "E"
+   ]
+  },
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "rabbits-foot",
+   "type": "amulet",
+   "name": "Rabbit's foot",
+   "as": "the other charm that must be taken under conditions nobody observes any more, and the other one a factory now supplies",
+   "rel": "parallel"
+  },
+  {
+   "to": "horseshoe",
+   "type": "amulet",
+   "name": "Horseshoe",
+   "as": "the other object whose oldest rule is that it must be found and not bought",
+   "rel": "parallel"
+  },
+  {
+   "to": "herb",
+   "type": "material",
+   "name": "Herb and root",
+   "as": "what it actually is: a plant, carried dead and flattened, and the only charm in this atlas measured by a botanical survey",
+   "rel": "material"
+  },
+  {
+   "to": "luck-word",
+   "type": "term",
+   "name": "luck",
+   "as": "the word that has entirely replaced protection here — nothing in this record names a harm it turns away",
+   "rel": "term"
+  },
+  {
+   "to": "mascot-word",
+   "type": "term",
+   "name": "mascot",
+   "as": "where it ends up: an emblem on a racing car and a rocket patch rather than an object in a pocket",
+   "rel": "term"
+  },
+  {
+   "to": "exam-charm",
+   "type": "amulet",
+   "name": "Exam charm",
+   "as": "what a student carries now, and often this, flattened in a wallet",
+   "rel": "parallel"
+  },
+  {
+   "to": "game-day-charm",
+   "type": "amulet",
+   "name": "Game-day charm",
+   "as": "the sporting end of the same habit, from Ugo Sivocci's 1923 Targa Florio clover onward",
+   "rel": "parallel"
+  },
+  {
+   "to": "the-fake-market",
+   "type": "story",
+   "name": "The fake market",
+   "as": "the long read this belongs in: 10,000 a day, grown to order, sold as the thing you were supposed to find",
+   "rel": "story"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "type": "tradition",
+   "name": "European folk apotropaic craft",
+   "as": "the tradition it came out of, and its least protective object",
+   "rel": "tradition"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-four-leaf-clover",
+   "kind": "encyclopedia",
+   "title": "Four-leaf clover",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Four-leaf_clover",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-luck",
+   "kind": "encyclopedia",
+   "title": "Luck",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Luck",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-list-of-lucky-symbols",
+   "kind": "encyclopedia",
+   "title": "List of lucky symbols",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/List_of_lucky_symbols",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-mascot",
+   "kind": "encyclopedia",
+   "title": "Mascot",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mascot",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-four-leaf-clover"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-four-leaf-clover"
+  },
+  "text.how": {
+   "tier": "cited",
+   "source": "s:wp-four-leaf-clover"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-four-leaf-clover",
+   "note": "the Alfa Romeo and SpaceX facts are cited; the closing sentence is marked as inference in the prose"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-four-leaf-clover"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-four-leaf-clover"
+  },
+  "object": {
+   "tier": "cited",
+   "source": "s:wp-four-leaf-clover"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [
+  {
+   "key": "bad-luck",
+   "label": "Bad luck, unspecified",
+   "who": "an eleven-year-old girl, writing to St. Nicholas Magazine in 1877",
+   "quote": "Did the fairies ever whisper in your ear, that a 4-leaf clover brought good luck to the finder?",
+   "source": "s:wp-four-leaf-clover",
+   "tier": "cited",
+   "note": ""
+  },
+  {
+   "key": "loneliness",
+   "label": "Going unloved",
+   "who": "an 1869 description, of young girls who sought the plant by day as a token of perfect happiness",
+   "quote": "",
+   "source": "s:wp-four-leaf-clover",
+   "tier": "cited",
+   "note": "the same description has sorceresses gathering it at night under a full moon and mixing it with vervain, which is a different use of the same plant"
+  },
+  {
+   "key": "spirits",
+   "label": "Ghosts and hungry spirits",
+   "who": "the folk tradition that a four-leaf clover grants the power to see fairies",
+   "quote": "",
+   "source": "s:wp-four-leaf-clover",
+   "tier": "tradition",
+   "note": "this is a power claimed for the charm rather than a protection against a harm; it is listed because it is what carriers say it does"
+  }
+ ],
+ "material_facts": [
+  {
+   "key": "herb",
+   "label": "Herb and root",
+   "kind": "plant"
+  },
+  {
+   "key": "plastic",
+   "label": "Plastic and resin",
+   "kind": "modern"
+  },
+  {
+   "key": "paper",
+   "label": "Paper",
+   "kind": "written"
+  }
+ ],
+ "worn_facts": [
+  {
+   "key": "pocket",
+   "label": "In a pocket or a bag",
+   "group": "carried"
+  },
+  {
+   "key": "wallet",
+   "label": "In a wallet",
+   "group": "carried"
+  }
+ ],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1600 CE to now",
+ "country_names": [
+  {
+   "iso": "IE",
+   "name": "Ireland"
+  },
+  {
+   "iso": "GB",
+   "name": "United Kingdom"
+  },
+  {
+   "iso": "US",
+   "name": "United States of America"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "horseshoe",
+   "type": "amulet",
+   "name": "Horseshoe",
+   "as": "the other charm that must be found rather than bought, and the other one a factory now supplies anyway",
+   "rel": "parallel"
+  },
+  {
+   "from": "rabbits-foot",
+   "type": "amulet",
+   "name": "Rabbit's foot",
+   "as": "the charm it is usually sold beside, and the other one whose original condition the market has quietly dropped",
+   "rel": "parallel"
+  },
+  {
+   "from": "charm-word",
+   "type": "term",
+   "name": "charm",
+   "as": "the object a British or American reader is likeliest to name when the word is said",
+   "rel": "term"
+  },
+  {
+   "from": "luck-word",
+   "type": "term",
+   "name": "luck",
+   "as": "the object an English speaker names first when the word is said",
+   "rel": "term"
+  }
+ ]
+}

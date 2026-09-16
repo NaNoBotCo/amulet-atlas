@@ -1,0 +1,159 @@
+{
+ "id": "salt",
+ "names": {
+  "name": "Salt",
+  "native": "塩",
+  "script": "Han",
+  "lang": "ja",
+  "said": "shio in Japanese",
+  "aliases": [
+   "blessed salt",
+   "shio",
+   "sodium chloride"
+  ]
+ },
+ "region": [
+  "japan",
+  "rome-italy",
+  "levant",
+  "south-asia",
+  "mesoamerica",
+  "britain-ireland"
+ ],
+ "countries": [
+  "JP",
+  "IT",
+  "IL",
+  "IN",
+  "MX",
+  "GB"
+ ],
+ "facets": {
+  "kind": "mineral"
+ },
+ "text": {
+  "what": "Sodium chloride, got by evaporating seawater in ponds, by mining rock salt, or from mineral springs. It preserves, it purifies, and it dissolves. That last property is why the archaeology of salt charms is always the container and never the salt.",
+  "story": "Salt is a ritual material in more traditions than almost anything else in this atlas, and it is rarely worn. It is thrown, sprinkled, blessed, offered and put at thresholds.\n\nIn Judaism it is customary to spread salt on the bread or dip it in salt when it is passed round the table after the Kiddush. In Catholic practice salt is used in the Tridentine Mass and permitted in the preparation of holy water, and blessed salt is a sacramental: lay Catholics are not permitted to perform solemn exorcisms, but they may use holy water, blessed salt and other sacramentals for warding off evil. In Shinto, shio is used for ritual purification of places and entrances, and salt is among the offerings — with rice, water and sake — set before the kamidana beside the household ofuda. Mahayana Buddhists throw salt over the left shoulder on returning from a funeral. Hindu practice uses salt at house-warmings and weddings; Jains offer it before deities and sprinkle it on cremated remains. Aztec religion had Huixtocihuatl, a goddess of salt and saltwater.\n\nIt also goes inside other charms. The earliest documented witch bottles are salt-glazed stoneware Bellarmine jugs, and later bottles are filled with sand, stones, knotted thread, feathers, shells, herbs, flowers, salt, vinegar, oil, coins or ashes. A Turkish nazar bead is described as \"a mixture of molten glass, iron, copper, water, and salt, ingredients that are thought to shield people from evil\" — the salt is in the batch, fired into the glass.\n\nSalt was also a major traded good, moved along Mediterranean routes, along dedicated salt roads and by Saharan camel caravan. The English word salary comes from the Latin for salt, though the story that Roman legions were paid in it is unsubstantiated.\n\n*Inference —* every other material in this batch can be excavated. Salt cannot: it goes into water, into food, into the ground, and leaves nothing. A practice this widespread with this little to show for it is the clearest warning in the atlas against reading a museum drawer as a census.",
+  "today": "Still sold at shrine gates, still blessed in churches, still thrown at doorways. Almost none of it is ever an object."
+ },
+ "dating": {
+  "period": "no floor this record can date; documented across the present",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "attested in living practice; undated at its origin",
+  "method": "ethnographic",
+  "tier": "cited",
+  "source": "s:wp-salt",
+  "note": "None of the sources read here dates salt's first ritual or protective use. The datable neighbours are the seventeenth-century English witch bottle and the modern liturgical and Shinto uses. This record cannot put a bar on the timeline and says so."
+ },
+ "against": [
+  {
+   "harm": "witchcraft",
+   "who": "English folk practice, which sealed salt among the fillings of a witch bottle",
+   "source": "s:wp-witch-bottle",
+   "tier": "cited"
+  },
+  {
+   "harm": "demons",
+   "who": "Catholic teaching, which permits lay use of holy water and blessed salt for warding off evil",
+   "source": "s:wp-amulet",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "Mahayana Buddhist practice of throwing salt over the left shoulder on returning from a funeral",
+   "source": "s:wp-salt",
+   "tier": "cited"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "the published recipe for a Turkish nazar bead, which names salt among the ingredients",
+   "source": "s:wp-nazar-amulet",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "witch-bottle",
+   "as": "the salt-glazed jug, and the salt inside it — the container survives and the contents rarely do",
+   "rel": "carried-by"
+  },
+  {
+   "to": "nazar",
+   "as": "salt is named in the batch the bead is made from, fired into the glass",
+   "rel": "material"
+  },
+  {
+   "to": "ofuda",
+   "as": "the household altar where salt is offered with rice, water and sake",
+   "rel": "kin"
+  },
+  {
+   "to": "catholic-sacramentals",
+   "as": "the tradition that blesses salt and tells the laity exactly what they may do with it",
+   "rel": "tradition"
+  },
+  {
+   "to": "japanese-engimono",
+   "as": "the tradition that puts salt at an entrance rather than on a person",
+   "rel": "tradition"
+  },
+  {
+   "to": "herb",
+   "as": "the other material that goes into a charm and rots or dissolves out of the record",
+   "rel": "parallel"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "where salt is most often put: a threshold, a gate, a shop entrance",
+   "rel": "practice"
+  },
+  {
+   "to": "burying",
+   "as": "the practice a filled bottle ends in, and the reason we have the bottles at all",
+   "rel": "practice"
+  }
+ ],
+ "links": [
+  {
+   "label": "Salt — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Salt"
+  }
+ ],
+ "sources": [
+  "s:wp-salt",
+  "s:wp-witch-bottle",
+  "s:wp-amulet",
+  "s:wp-sacramental",
+  "s:wp-ofuda",
+  "s:wp-nazar-amulet"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-salt"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-salt",
+    "note": "the closing paragraph is this project's inference and is marked in the text"
+   },
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-salt",
+    "note": "no year is given because no source read here supplies one"
+   }
+  }
+ },
+ "x_commons_files": [
+  "File:Salt pile shrine entrance.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "schema": 1,
+ "type": "material",
+ "images": [],
+ "updated": "2026-09-16"
+}

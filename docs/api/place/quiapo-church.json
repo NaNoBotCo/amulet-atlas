@@ -1,0 +1,346 @@
+{
+ "schema": 1,
+ "id": "quiapo-church",
+ "type": "place",
+ "names": {
+  "name": "Quiapo Church",
+  "native": "Basilika Menor at Pambansang Dambana ni Jesus Nazareno",
+  "script": "Latin",
+  "lang": "fil",
+  "said": "kee-AH-po",
+  "aliases": [
+   "Minor Basilica and National Shrine of Jesus Nazareno",
+   "Simbahan ng Quiapo",
+   "Parish of Saint John the Baptist"
+  ]
+ },
+ "region": [
+  "island-sea"
+ ],
+ "countries": [
+  "PH"
+ ],
+ "facets": {
+  "kind": "shrine",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
+ "text": {
+  "what": "A Catholic basilica in the Quiapo district of Manila, housing the Jesús Nazareno, a dark statue of Christ carrying the cross. Outside it, on Plaza Miranda and in the streets around the building, stalls sell herbs, oils, candles and amulets. Two systems trade at one address, and both have said so in public.",
+  "story": "The church has burnt, fallen and been rebuilt since 1588: destroyed by Limahong's men in 1574, burnt in 1603, damaged by the British in 1762, burnt in 1791 with the image spared, thrown down by the earthquake of 1863, burnt again in 1929. The present reinforced-concrete building, by the architect Juan Nakpil, was finished in 1935 and expanded in 1984-86. Pope John Paul II raised it to a minor basilica in 1987; it was declared a national shrine in December 2023.\n\nThe devotion is enormous. The feast of the Traslación on 9 January re-enacts the image's transfer from Intramuros, and 6.5 million devotees took part in 2024. Every Friday is Quiapo Day, with a novena and thousands in attendance; devotees climb a narrow stair to kiss the statue's foot or wipe it with a handkerchief they bring each visit. Men who carry the image walk under a panata, a vow. In October 2024 the Archbishop of Manila decreed the church's name changed to the Minor Basilica and National Shrine of Jesus Nazareno, dropping the usual English name to shift attention from the image's colour to the name of Christ.\n\nThe plaza trade is the other half. Agimat — anting-anting in its folklorised form — is the Filipino word for an amulet, and the practice that goes with it: most bear Latin inscriptions, most come with a small book of incantations to be read on Good Friday. Agimat merchants set up near churches, in the courtyard or the marketplace alongside, and Quiapo is the district the encyclopedia names when it names one. Filipino fighters wore anting-anting against the Spanish and the Americans; Macario Sakay wore a vest of religious images and Latin phrases.\n\nThe church has not been quiet about what else the stalls sell. Published accounts record peddlers of unsafe abortifacients and untested herbal remedies working the vicinity, and the Archdiocese of Manila condemning practices connected with them; Cardinal Gaudencio Rosales issued canonical excommunications in relation to abortion near the shrine. Abortion is illegal in the Philippines, and the accounts tie the trade to people who cannot afford a surgical procedure.",
+  "today": "In use as a basilica and a national shrine, with the plaza trade running alongside it. This project has not read the basilica's own published timetable, so no day is marked open or closed below — the Friday novena is a cited fact about the week, not a statement that other days are shut."
+ },
+ "dating": {
+  "period": "Spanish colonial to the present",
+  "from_year": 1588,
+  "to_year": null,
+  "living": true,
+  "label": "1588 to now",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-quiapo-church",
+  "note": "Founded as a church in 1588 by the Franciscan Antonio de Nombella; the present building dates from 1935."
+ },
+ "geo": {
+  "lat": 14.59878,
+  "lon": 120.98377,
+  "precision": "exact",
+  "source": "Wikidata item Q1899439 (Quiapo Church), coordinate location P625, queried 2026-09-16"
+ },
+ "address": {
+  "street": "Plaza Miranda, Quiapo",
+  "city": "Manila",
+  "admin": "Metro Manila",
+  "country": "PH"
+ },
+ "kin": [
+  {
+   "to": "anting-anting",
+   "as": "the amulet sold at this address — the encyclopedia names Quiapo when it names where agimat merchants set up",
+   "rel": "carries"
+  },
+  {
+   "to": "catholic-sacramentals",
+   "as": "the church's own class of blessed object, sold and worn a few metres from the other trade",
+   "rel": "tradition"
+  },
+  {
+   "to": "latin-american-folk-catholic",
+   "as": "the parallel from across the Pacific: the same galleon route, the same doubling of saint and charm",
+   "rel": "parallel"
+  },
+  {
+   "to": "divine-name",
+   "as": "the sign most agimat carry, in Latin, cut or printed on metal",
+   "rel": "motif"
+  },
+  {
+   "to": "blessing-at-a-shrine",
+   "as": "the practice that draws millions here on 9 January and thousands every Friday",
+   "rel": "practice"
+  },
+  {
+   "to": "herb",
+   "as": "the other stock of the plaza stalls, and the part the Archdiocese has condemned",
+   "rel": "material"
+  },
+  {
+   "to": "milagro",
+   "as": "the Catholic votive kin — metal offered for a body part, where the panata offers a walk",
+   "rel": "parallel"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read this address argues in public: two systems, one plaza, both naming the other",
+   "rel": "story"
+  }
+ ],
+ "tags": [
+  {
+   "tag": "pilgrimage",
+   "source": "s:wp-quiapo-church",
+   "tier": "cited",
+   "note": "national shrine of the Jesús Nazareno; 6.5 million devotees in the 2024 Traslación, and a weekly Friday novena"
+  },
+  {
+   "tag": "market",
+   "source": "s:wp-agimat",
+   "tier": "cited",
+   "note": "agimat merchants set up near churches, in the courtyard or the marketplace nearby; Quiapo is the district named"
+  }
+ ],
+ "links": [
+  {
+   "label": "Quiapo Church — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Quiapo_Church"
+  },
+  {
+   "label": "Agimat — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Agimat"
+  }
+ ],
+ "sources": [
+  "s:wp-quiapo-church",
+  "s:wp-agimat"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-quiapo-church"
+  },
+  "fields": {
+   "geo": {
+    "tier": "harvested",
+    "note": "Wikidata P625 for Quiapo Church, queried 2026-09-16; the coordinate is the building"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "reasoned from published accounts; this project has not read the basilica's own opening times"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Quiapo Church Manila.jpg",
+  "File:Black Nazarene Traslacion.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A Catholic basilica in the Quiapo district of Manila, housing the Jesús Nazareno, a dark statue of Christ carrying the cross.",
+ "region_terms": [
+  {
+   "key": "island-sea",
+   "name": "Island Southeast Asia",
+   "hemi": [
+    "N",
+    "S",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "S"
+ ],
+ "kin_out": [
+  {
+   "to": "anting-anting",
+   "type": "amulet",
+   "name": "Anting-anting",
+   "as": "the amulet sold at this address — the encyclopedia names Quiapo when it names where agimat merchants set up",
+   "rel": "carries"
+  },
+  {
+   "to": "catholic-sacramentals",
+   "type": "tradition",
+   "name": "Catholic sacramentals",
+   "as": "the church's own class of blessed object, sold and worn a few metres from the other trade",
+   "rel": "tradition"
+  },
+  {
+   "to": "latin-american-folk-catholic",
+   "type": "tradition",
+   "name": "Latin American folk Catholic charm practice",
+   "as": "the parallel from across the Pacific: the same galleon route, the same doubling of saint and charm",
+   "rel": "parallel"
+  },
+  {
+   "to": "divine-name",
+   "type": "motif",
+   "name": "The name",
+   "as": "the sign most agimat carry, in Latin, cut or printed on metal",
+   "rel": "motif"
+  },
+  {
+   "to": "blessing-at-a-shrine",
+   "type": "practice",
+   "name": "Blessing at a shrine",
+   "as": "the practice that draws millions here on 9 January and thousands every Friday",
+   "rel": "practice"
+  },
+  {
+   "to": "herb",
+   "type": "material",
+   "name": "Herb and root",
+   "as": "the other stock of the plaza stalls, and the part the Archdiocese has condemned",
+   "rel": "material"
+  },
+  {
+   "to": "milagro",
+   "type": "amulet",
+   "name": "Milagro",
+   "as": "the Catholic votive kin — metal offered for a body part, where the panata offers a walk",
+   "rel": "parallel"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "type": "story",
+   "name": "Who owns a charm",
+   "as": "the long read this address argues in public: two systems, one plaza, both naming the other",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-quiapo-church",
+   "kind": "encyclopedia",
+   "title": "Quiapo Church",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Quiapo_Church",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-agimat",
+   "kind": "encyclopedia",
+   "title": "Agimat",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Agimat",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-quiapo-church"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-quiapo-church"
+  },
+  "text.today": {
+   "tier": "inference",
+   "note": "reasoned from published accounts; this project has not read the basilica's own opening times"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-quiapo-church"
+  },
+  "geo": {
+   "tier": "harvested",
+   "note": "Wikidata P625 for Quiapo Church, queried 2026-09-16; the coordinate is the building"
+  },
+  "address": {
+   "tier": "cited",
+   "source": "s:wp-quiapo-church"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [
+  {
+   "key": "pilgrimage",
+   "label": "A pilgrimage site",
+   "group": "visit",
+   "evidence": "the site's own description or a named study",
+   "source": "s:wp-quiapo-church",
+   "note": "national shrine of the Jesús Nazareno; 6.5 million devotees in the 2024 Traslación, and a weekly Friday novena",
+   "tier": "cited",
+   "url": ""
+  },
+  {
+   "key": "market",
+   "label": "A market you can walk",
+   "group": "trade",
+   "evidence": "a dated guide, a municipal listing",
+   "source": "s:wp-agimat",
+   "note": "agimat merchants set up near churches, in the courtyard or the marketplace nearby; Quiapo is the district named",
+   "tier": "cited",
+   "url": ""
+  }
+ ],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1588 CE to now",
+ "country_names": [
+  {
+   "iso": "PH",
+   "name": "Philippines"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "anting-anting",
+   "type": "amulet",
+   "name": "Anting-anting",
+   "as": "the Manila church whose courtyard and surrounding market are where these are bought",
+   "rel": "place"
+  },
+  {
+   "from": "key",
+   "type": "motif",
+   "name": "The key",
+   "as": "where the crossed keys sit on the pediment, over a plaza full of charm sellers",
+   "rel": "place"
+  },
+  {
+   "from": "herb",
+   "type": "material",
+   "name": "Herb and root",
+   "as": "the other place where herb selling runs against the law, and the reason this record's last paragraph exists",
+   "rel": "place"
+  },
+  {
+   "from": "blessing-at-a-shrine",
+   "type": "practice",
+   "name": "Blessing at a shrine",
+   "as": "the inward direction at its largest — 6.5 million people in the Traslación of 9 January 2024, and thousands every Friday",
+   "rel": "place"
+  },
+  {
+   "from": "votive-wall",
+   "type": "art",
+   "name": "The votive wall",
+   "as": "a shrine where the same accumulation happens around the doors rather than on a rack",
+   "rel": "place"
+  }
+ ]
+}

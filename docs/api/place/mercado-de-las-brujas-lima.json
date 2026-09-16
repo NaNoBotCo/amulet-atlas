@@ -1,0 +1,276 @@
+{
+ "schema": 1,
+ "id": "mercado-de-las-brujas-lima",
+ "type": "place",
+ "names": {
+  "name": "Mercado de Brujas de Gamarra",
+  "native": "Mercado de Brujas de Gamarra",
+  "script": "Latin",
+  "lang": "es",
+  "said": "mer-KA-do de BROO-has",
+  "aliases": [
+   "Mercado de las Brujas, Lima",
+   "the Lima witches' market"
+  ]
+ },
+ "region": [
+  "andes"
+ ],
+ "countries": [
+  "PE"
+ ],
+ "facets": {
+  "kind": "market",
+  "hemisphere": [
+   "S",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A row of esoteric stalls inside the Gamarra clothing district of La Victoria, Lima, along Avenida Aviación. Medicinal plants, bottled preparations in coloured glass, amulets, incense, black and white candles, and sprays sold for money. Readers work the same aisle, taking tarot and palm.",
+  "story": "Gamarra is Lima's garment quarter — blocks of textile workshops and wholesalers — and the esoteric market sits inside it rather than apart from it. Daniela Ramos described the trade for Nexos, the Universidad de Lima's magazine, on 31 October 2024: herbalists, curanderos and readers working side by side, a reader named Timbaya among them, selling plants, potions, amulets and cleansings.\n\nThe prices in that account are worth recording with their date. Herbal remedies at 10 to 30 soles; a potion for attracting love at 30; a tarot reading from 10 up to 120; an energy cleansing at 1,200. All in Peruvian soles, in October 2024.\n\nWhat customers ask for is not what the market's name implies. Ramos reports that money, not love, is the most common request — prosperity formulas outsell love potions at the stalls she stood at.\n\n*Inference —* an esoteric market inside a garment wholesaling district is a market serving traders, not tourists. Ramos's account is of a working aisle in a working quarter; this project has read no visitor survey and does not claim one.",
+  "today": "Trading, on the account this project has read, which is dated October 2024. No day is marked open or closed below."
+ },
+ "dating": {
+  "period": "modern",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "in trade as of October 2024; this project has read no founding date",
+  "method": "ethnographic",
+  "tier": "cited",
+  "source": "s:web-ulima-paseo-fe-magia",
+  "note": "No published founding date was read. The record does not guess one."
+ },
+ "geo": {
+  "lat": -12.065528,
+  "lon": -77.014972,
+  "precision": "street",
+  "source": "hand-placed on the Gamarra Commercial Emporium, using Wikidata item Q1492863, coordinate location P625, queried 2026-09-16; the stalls sit inside that district on Avenida Aviación"
+ },
+ "address": {
+  "street": "Avenida Aviación, Gamarra",
+  "city": "Lima",
+  "admin": "La Victoria",
+  "country": "PE"
+ },
+ "kin": [
+  {
+   "to": "andean-illa-practice",
+   "as": "the Andean tradition the herbs, offerings and cleansings sold here belong to",
+   "rel": "tradition"
+  },
+  {
+   "to": "herb",
+   "as": "the stock most of these stalls turn on, at 10 to 30 soles in October 2024",
+   "rel": "material"
+  },
+  {
+   "to": "latin-american-folk-catholic",
+   "as": "the other half of the counter: candles, saints and cleansings alongside the plants",
+   "rel": "tradition"
+  },
+  {
+   "to": "mercado-de-las-brujas-la-paz",
+   "as": "the La Paz market that shares this one's foreign name and sells to a different clientele",
+   "rel": "parallel"
+  },
+  {
+   "to": "mercado-de-sonora",
+   "as": "the Mexico City market with the same two aisles — plants and ritual goods, one trade",
+   "rel": "parallel"
+  },
+  {
+   "to": "buying-in-a-market",
+   "as": "the practice, inside a garment wholesaling district rather than a tourist lane",
+   "rel": "practice"
+  }
+ ],
+ "tags": [
+  {
+   "tag": "market",
+   "source": "s:web-ulima-paseo-fe-magia",
+   "tier": "cited",
+   "note": "stalls of herbs, potions, amulets and readings in the Gamarra district, described with prices in October 2024",
+   "url": "https://nexos.ulima.edu.pe/2024/10/31/un-paseo-de-fe-y-magia/",
+   "since": "2024-10-31"
+  }
+ ],
+ "links": [
+  {
+   "label": "Un paseo de fe y magia — Nexos, Universidad de Lima",
+   "url": "https://nexos.ulima.edu.pe/2024/10/31/un-paseo-de-fe-y-magia/"
+  }
+ ],
+ "sources": [
+  "s:web-ulima-paseo-fe-magia"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-ulima-paseo-fe-magia"
+  },
+  "fields": {
+   "geo": {
+    "tier": "inference",
+    "note": "placed by hand on the Gamarra emporium's published coordinate because the stalls have no published point of their own; precision is street"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-ulima-paseo-fe-magia",
+    "note": "the closing paragraph is this project's reading of that account and is marked as inference where it appears"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A row of esoteric stalls inside the Gamarra clothing district of La Victoria, Lima, along Avenida Aviación.",
+ "region_terms": [
+  {
+   "key": "andes",
+   "name": "The Andes",
+   "hemi": [
+    "S",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "andean-illa-practice",
+   "type": "tradition",
+   "name": "Illa practice",
+   "as": "the Andean tradition the herbs, offerings and cleansings sold here belong to",
+   "rel": "tradition"
+  },
+  {
+   "to": "herb",
+   "type": "material",
+   "name": "Herb and root",
+   "as": "the stock most of these stalls turn on, at 10 to 30 soles in October 2024",
+   "rel": "material"
+  },
+  {
+   "to": "latin-american-folk-catholic",
+   "type": "tradition",
+   "name": "Latin American folk Catholic charm practice",
+   "as": "the other half of the counter: candles, saints and cleansings alongside the plants",
+   "rel": "tradition"
+  },
+  {
+   "to": "mercado-de-las-brujas-la-paz",
+   "type": "place",
+   "name": "El Mercado de las Brujas",
+   "as": "the La Paz market that shares this one's foreign name and sells to a different clientele",
+   "rel": "parallel"
+  },
+  {
+   "to": "mercado-de-sonora",
+   "type": "place",
+   "name": "Mercado de Sonora",
+   "as": "the Mexico City market with the same two aisles — plants and ritual goods, one trade",
+   "rel": "parallel"
+  },
+  {
+   "to": "buying-in-a-market",
+   "type": "practice",
+   "name": "Buying one in a market",
+   "as": "the practice, inside a garment wholesaling district rather than a tourist lane",
+   "rel": "practice"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:web-ulima-paseo-fe-magia",
+   "kind": "web",
+   "title": "Un paseo de fe y magia",
+   "publisher": "Nexos, Universidad de Lima; by Daniela Ramos, 31 October 2024",
+   "url": "https://nexos.ulima.edu.pe/2024/10/31/un-paseo-de-fe-y-magia/",
+   "accessed": "2026-09-16"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:web-ulima-paseo-fe-magia"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:web-ulima-paseo-fe-magia",
+   "note": "the closing paragraph is this project's reading of that account and is marked as inference where it appears"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:web-ulima-paseo-fe-magia"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:web-ulima-paseo-fe-magia"
+  },
+  "geo": {
+   "tier": "inference",
+   "note": "placed by hand on the Gamarra emporium's published coordinate because the stalls have no published point of their own; precision is street"
+  },
+  "address": {
+   "tier": "cited",
+   "source": "s:web-ulima-paseo-fe-magia"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [
+  {
+   "key": "market",
+   "label": "A market you can walk",
+   "group": "trade",
+   "evidence": "a dated guide, a municipal listing",
+   "source": "s:web-ulima-paseo-fe-magia",
+   "note": "stalls of herbs, potions, amulets and readings in the Gamarra district, described with prices in October 2024",
+   "tier": "cited",
+   "url": "https://nexos.ulima.edu.pe/2024/10/31/un-paseo-de-fe-y-magia/"
+  }
+ ],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "undated",
+ "country_names": [
+  {
+   "iso": "PE",
+   "name": "Peru"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "andean-illa-practice",
+   "type": "tradition",
+   "name": "Illa practice",
+   "as": "the Peruvian counter selling the same herbs, offerings and cleansings, in a garment wholesaling district",
+   "rel": "place"
+  },
+  {
+   "from": "mercado-de-las-brujas-la-paz",
+   "type": "place",
+   "name": "El Mercado de las Brujas",
+   "as": "the Lima market carrying the same foreign name, in a garment district rather than a tourist quarter",
+   "rel": "parallel"
+  },
+  {
+   "from": "mercado-de-sonora",
+   "type": "place",
+   "name": "Mercado de Sonora",
+   "as": "the Lima counterpart, the same trade under a different name",
+   "rel": "parallel"
+  }
+ ]
+}

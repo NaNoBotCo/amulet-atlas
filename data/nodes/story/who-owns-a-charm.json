@@ -1,0 +1,76 @@
+{
+ "schema": 1,
+ "id": "who-owns-a-charm",
+ "type": "story",
+ "names": {
+  "name": "Who owns a charm",
+  "aliases": ["repatriation", "returning amulets", "whose object is it"]
+ },
+ "region": ["world", "north-america", "west-africa", "australia", "aotearoa", "britain-ireland"],
+ "countries": ["US", "GB", "NG", "AU", "NZ", "IE", "CH", "IN"],
+ "facets": {"kind": "essay", "era": "modern"},
+ "text": {
+  "what": "A museum drawer of amulets is the hardest kind of collection to hand back and the easiest kind to have taken. The objects are small, they were bought by the handful, most were never accessioned with a name attached, and a proportion of them were never anybody's to sell. This record sets out the law where there is law, the returns and the refusals where they are on the record with dates and institutions attached, and the specific reason amulets sit at the difficult end of the problem."
+ },
+ "sections": [
+  {
+   "h": "One country made it a duty",
+   "text": "The Native American Graves Protection and Repatriation Act, Pub. L. 101–601, was enacted in the United States on 16 November 1990. It requires federal agencies and institutions receiving federal funding to return Native American cultural items — human remains, funerary objects, sacred objects, and objects of cultural patrimony — to lineal descendants and to culturally affiliated American Indian tribes, Alaska Native villages and Native Hawaiian organisations. It makes trafficking in those items a criminal offence. In 2022 Congress raised the penalty for a first conviction for trafficking human remains from twelve months to a year and a day, making it a felony, and raised a subsequent conviction from five years to ten.\n\nThe counts since 1990 are published: the remains of approximately 32,000 individuals returned, nearly 670,000 funerary objects, 120,000 unassociated funerary objects, and 3,500 sacred objects. For scale, in 1990 federal agencies reported holding the remains of 14,500 deceased Native people.\n\nOn 12 January 2024 revised Interior Department regulations took effect. Their operative sentence is short: \"...museums and Federal agencies must defer to the Native American traditional knowledge of lineal descendants, Indian Tribes, and Native Hawaiian organizations.\" That is a rule about whose account of an object counts, which is the question underneath every dispute in this record.\n\nNAGPRA was enacted primarily at the insistence and by the direction of members of Native American nations, and one person is usually named first. Maria Pearson has been called \"the Founding Mother of modern Indian repatriation movement\" and the \"Rosa Parks of NAGPRA\". In the early 1970s her husband, an engineer with the Iowa Department of Transportation, told her that road construction at Glenwood, Iowa, had uncovered both white and Native burials; the twenty-six white burials were quickly reburied and the remains of a Native American mother and child were sent to a laboratory instead. Pearson sat outside Governor Robert D. Ray's office in traditional attire until he saw her. Asked what he could do for her, she said: \"You can give me back my people's bones and you can quit digging them up.\" The Iowa Burials Protection Act of 1976 followed — the first legislation in the United States specifically protecting Native American remains.\n\nThe law did not arrive without opposition and has not ended the argument. A number of archaeologists have objected that they are prevented from studying ancient remains that cannot be traced to a historic tribe, and investigations have stalled over it, the Spirit Cave mummy among them. Before 1990 the courts had already shown what no law looked like: in Wana the Bear v. Community Construction (1982) two hundred Miwok ancestral remains were bulldozed for a residential development in Stockton, California, and the California Courts of Appeal sided with the construction company."
+  },
+  {
+   "h": "The case everyone knows",
+   "text": "The Benin Bronzes, taken from the royal court of Benin in what is now Nigeria, are the reference case because both sides have stated positions in public.\n\nThe British Museum has been claimed to be the largest receiver of \"stolen goods\" in the world and has consistently refused to return objects, citing the British Museum Act 1963 as preventing restitution. The directors of the British Museum and of the Victoria and Albert Museum, and the British Minister of Culture, have spoken against permanent restitutions; like several European institutions they prefer cooperation and a \"circulation of objects\" through temporary exhibitions in Africa. The British Museum and the Pitt Rivers Museum both joined the Benin Dialogue Group, set up to coordinate scientific exchange, assistance for a new museum in Benin City, and eventual restitutions.\n\nThe first British institution to return a statue after proof that it was looted directly from the royal court was Jesus College, Cambridge, following a campaign by the college's Legacy of Slavery Working Party; the handover to Nigerian delegates was announced for 27 October 2021. In April 2021 the National Museum of Ireland announced that twenty-one Benin Bronzes would be returned to Africa; its head of collections, Audrey Whitty, said the museum group would investigate holdings with a view to repatriating those viewed as \"plunder\". Fintan O'Toole had written in 2013 that much of that ethnographic collection \"lies in the grey area between trade and coercive acquisition: an expansive terrain in imperial relations\", while other objects were unambiguously loot. In June 2026 eighteen artefacts from the Kingdom of Benin went back to Nigeria from three Swiss museums — fourteen from the Ethnographic Museum at the University of Zurich, two from Museum Rietberg Zurich and two from the Musée d'Ethnographie de Genève — out of roughly a hundred items in Swiss collections assumed to have come from Benin.\n\nThe intellectual frame most of this argument now runs on is the 2018 Report on the Restitution of African Cultural Heritage by Felwine Sarr and Bénédicte Savoy. Since its publication the debates have produced restitutions on moral rather than only legal grounds, which is a shift in what counts as a reason."
+  },
+  {
+   "h": "Why an amulet is the hard case",
+   "text": "*Inference —* a bronze plaque from a named royal court has three things an amulet usually lacks: it is singular, it is documented, and the taking is dated. An amulet is the opposite on all three counts, and the difficulties compound.\n\nThey were collected by volume. The Wellcome Collection holds 17,500 magic-medical amulets, talismans and charms picked up by Henry Wellcome in Islamic North Africa and elsewhere. A claim over one object in that number has to begin by identifying which object.\n\nThey arrived without paperwork. In 2021 the Wellcome Collection acknowledged that Wellcome's collecting was shaped by colonialism, that many objects bought at auction in the late nineteenth and early twentieth century carry no documentation of how they were acquired, and that they may have been \"unjustly taken\" from communities across Europe, Asia, Africa and the Middle East. The institution has committed to working with communities on provenance, and in 2025 returned a group of Jain manuscripts to India after researchers found they had been acquired without the consent of the communities they belonged to.\n\nAnd a large share of them are restricted in their own tradition, which means the claim and the catalogue entry cannot both be public. Australia's International Repatriation Program is written for exactly that overlap: it \"supports the repatriation of ancestral remains and secret sacred objects to their communities of origin to help promote healing and reconciliation\". More than 100,000 Indigenous Australian objects are held in over 220 institutions worldwide, at least 32,000 of them in British institutions. Australia has no law directly governing repatriation. The museum anthropologist Jason Gibson notes that there is a lack of Aboriginal authority surrounding collections, and that protocols have instead been made by non-Indigenous professionals.\n\nThat combination — many, unlabelled, and not ours to describe — is why this atlas is thinner on some of the richest amulet traditions in the world than on Egypt, where the objects were dug up with field numbers."
+  },
+  {
+   "h": "Returns, with dates and institutions",
+   "text": "The record is not only refusals.\n\nIn 2006 Tasmanian human remains — ash bundles and skeletal fragments — were returned from the British Museum to the Tasmanian Aboriginal community, following requests by the Tasmanian Aboriginal Centre with Australian government support, on the understanding they would be cremated in accordance with Aboriginal beliefs.\n\nIn 2008 several institutions including the British Museum repatriated Māori human remains to Te Papa Tongarewa in New Zealand, among them toi moko, tattooed heads, and bone fragments.\n\nAIATSIS began its Return of Cultural Heritage programme in 2019. In late October that year the Illinois State Museum returned forty-two Aranda (Arrernte) and Bardi Jawi objects removed from central Australia in 1920 — the first group. In November 2019 Manchester Museum returned objects including sacred artefacts collected 125 years earlier from the Nyamal people of the Pilbara; it returned nineteen sacred objects to the Arrernte people during the pandemic, celebrated in May 2021, and 174 artefacts in September 2023. AIATSIS project leader Christopher Simpson said they hoped the project could become an ongoing programme. UNESCO's director for culture and emergencies said: \"May this occasion be a source of inspiration, encouraging others to embark on similar journeys.\"\n\nIn 2022 the Pitt Rivers Museum and the Oxford University Museum of Natural History returned the remains of seventeen Aboriginal Australians to the Australian government. In 2026 the Pitt Rivers agreed to repatriate the skeletal remains of a number of Naga people, some of which had been displayed in a case titled Treatment of Dead Enemies.\n\nThe Pitt Rivers has also changed what it shows. During its 2020 closure it removed its tsantsa — shrunken heads displayed since the 1940s — and its human remains generally. Its director's statement: \"Exhibiting Tsantsas (shrunken heads) reinforced racist and stereotypical thinking that goes against the museum's core values.\" It said it would rewrite labels to carry the voices of artists and Indigenous leaders, and began meeting originating communities to address errors and gaps and to discuss repatriation."
+  },
+  {
+   "h": "Where this atlas stands",
+   "text": "*Inference —* this project holds no objects and can return nothing, so its only decision is what to publish. Three consequences follow and they are stated as descriptions, not undertakings.\n\nThe `holdings` field on a record names a museum and cites a published catalogue page. An accession number with no catalogue URL is rejected by the validator, because a number a reader cannot check is a number a reader cannot use in a claim.\n\nWhere a museum has published a position on its own provenance — the Wellcome's 2021 statement, the Pitt Rivers' 2020 one, the British Museum's reliance on the 1963 Act — the record carries the position and not a summary of it.\n\nAnd where a tradition says a class of object should not be shown or described, the description is absent and the restriction is printed instead. That rule has its own record.\n\nGweagal man Rodney Kelly and others have been working for the return of the Gweagal Shield and Spears from the British Museum and from the Museum of Archaeology and Anthropology at Cambridge. That claim is live as this is written, and no verdict belongs here."
+  }
+ ],
+ "dating": {
+  "period": "1976 to the present",
+  "from_year": 1976,
+  "to_year": null,
+  "living": true,
+  "label": "1976, the Iowa Burials Protection Act, to now",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-native-american-graves-protection-and-repatriation-act",
+  "note": "Dated from the first US statute specifically protecting Native American remains, not from the first claim; claims are older than any of this legislation."
+ },
+ "kin": [
+  {"to": "nagpra", "as": "the statute this read opens with, and the only one in the set that makes return a legal duty", "rel": "org"},
+  {"to": "aiatsis", "as": "the body running Australia's Return of Cultural Heritage programme since 2019", "rel": "org"},
+  {"to": "british-museum", "as": "the institution that refuses most often, and publishes the Act it refuses under", "rel": "org"},
+  {"to": "pitt-rivers-museum", "as": "the museum that removed its human remains in 2020 and published the reasoning", "rel": "org"},
+  {"to": "te-papa", "as": "where the toi moko went back to in 2008, and where the terms are set by the originating people", "rel": "org"},
+  {"to": "wellcome-collection", "as": "17,500 amulets, an acknowledgement in 2021, and a return to India in 2025", "rel": "org"},
+  {"to": "quai-branly", "as": "the French collection at the centre of the restitution argument Sarr and Savoy opened in 2018", "rel": "org"},
+  {"to": "nkisi", "as": "a class collected in quantity out of Central Africa, and one where the object's own community defines what it is", "rel": "parallel"},
+  {"to": "hei-tiki", "as": "a taonga whose return is governed by the tradition's own terms, not by a museum's", "rel": "parallel"},
+  {"to": "lovett-collection", "as": "the counter-example — a collector who wrote down who was carrying each charm", "rel": "art"},
+  {"to": "what-this-atlas-does-not-print", "as": "the companion read: what may be said, once you have settled what may be kept", "rel": "story"}
+ ],
+ "links": [
+  {"label": "NAGPRA — Wikipedia", "url": "https://en.wikipedia.org/wiki/Native_American_Graves_Protection_and_Repatriation_Act"},
+  {"label": "Repatriation (cultural property) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Repatriation_(cultural_property)"}
+ ],
+ "sources": ["s:wp-native-american-graves-protection-and-repatriation-act", "s:wp-repatriation-cultural-property", "s:wp-pitt-rivers-museum", "s:wp-wellcome-collection", "s:wp-british-museum", "s:wp-te-papa", "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-repatriation-cultural-property"},
+  "fields": {
+   "sections": {"tier": "cited", "source": "s:wp-repatriation-cultural-property", "note": "the two stretches of this project's own reasoning are labelled inline"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Benin Bronzes British Museum.jpg", "File:Pitt Rivers Museum Interior.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

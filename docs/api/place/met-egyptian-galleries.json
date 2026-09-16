@@ -1,0 +1,556 @@
+{
+ "schema": 1,
+ "id": "met-egyptian-galleries",
+ "type": "place",
+ "names": {
+  "name": "The Egyptian galleries, the Metropolitan Museum of Art",
+  "aliases": [
+   "Met Egyptian Art",
+   "Department of Egyptian Art"
+  ],
+  "sort": "Metropolitan Museum Egyptian galleries"
+ },
+ "region": [
+  "north-america",
+  "ancient-egypt"
+ ],
+ "countries": [
+  "US"
+ ],
+ "facets": {
+  "kind": "gallery",
+  "hemisphere": [
+   "N",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A chain of rooms along the museum's north side, running from the predynastic material through to Roman Egypt and ending at the Temple of Dendur in its glass hall. For this atlas it is the densest walkable run of amulets anywhere: wedjat eyes in faience, carnelian, obsidian and gold, scarabs, cippi, and trays of small figures, laid out in numbered galleries a visitor can name. Faience, which the labels use constantly, is crushed quartz fired with a glaze that comes out of the kiln blue or green.",
+  "story": "The Met's Egyptian collection was not mostly bought. The department's own page says the museum's three decades of archaeological work in Egypt began in 1906, and the encyclopedia account puts almost half the present collection down to the excavation seasons of 1906 to 1941. That is why a Met amulet more often carries a find-spot than a dealer's name: a small gold amulet in Gallery 109, accession 22.1.58, is credited to MMA excavations, 1920–22, from the Memphite Region.\n\nThe size of the collection is published two ways and this record prints both. The Wikipedia account gives more than 26,000 pieces across forty galleries, almost all on display; the department's own page, read on 17 September 2026, says \"approximately 30,000 objects\". Neither is wrong on its own terms and this project has not read a reconciliation.\n\nWalk it and the amulets sort themselves by gallery. Gallery 120 holds a run of faience wedjat eyes from about 1386–1347 BCE, entered in 1911 on the Rogers Fund. Gallery 127 holds one cut in gold, 332–30 BCE, and one in obsidian. Gallery 130 holds a long faience-and-aragonite wedjat, 6.5 centimetres, bought in 1926 on the Edward S. Harkness Gift. Gallery 128 holds the Metternich Stela, catalogued as Magical Stela with Horus the Child, 360–343 BCE, and Gallery 134 a shelf of smaller cippi in steatite, soapstone and faience — the same design shrunk from 83.5 centimetres to under 5.\n\nHow the objects got here is still being worked out in public, and not always by the museum first. In September 2022 New York law enforcement seized 27 objects on three warrants for return to Italy and Egypt. The museum has since published a statement on collecting practices and hired a provenance-research manager with a team of three. *Inference —* an excavation credit line is a stronger provenance than a purchase, and the 1906–1941 seasons are the reason this room reads differently from a room filled by a dealer; it is not the same thing as saying every object here arrived cleanly.\n\nThe licence is the other half of why this atlas keeps pointing here. Since 2017 every Met image of a public-domain work carries a Creative Commons Zero dedication, which is on Wikimedia Commons' accepted list. A photograph of a Met wedjat can be reproduced, cropped and altered with no permission asked. The dedication covers the museum's photographs. It says nothing about who the objects belong to.",
+  "today": "Open six days a week; closed Wednesdays. General admission on 17 September 2026 is US$30 for adults, US$22 for seniors and for visitors with a disability, US$17 for students and free for children 12 and under, with pay-what-you-wish admission for New York State residents and for New York, New Jersey and Connecticut students. The museum lists the Ancient West Asia and Ancient Cyprus galleries as closed for renovation as of that date; the Egyptian galleries are not on that list. This project has not stood in them."
+ },
+ "dating": {
+  "period": "collection from 1870; excavations 1906–1941",
+  "from_year": 1870,
+  "to_year": null,
+  "living": true,
+  "label": "collection begun 1870, dug 1906–1941, on display now",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-metropolitan-museum-of-art",
+  "note": "The objects themselves run from about 300,000 BCE to the fourth century CE, on the department's own statement; the years here date the rooms, not the contents."
+ },
+ "geo": {
+  "lat": 40.7794,
+  "lon": -73.9632,
+  "precision": "street",
+  "source": "hand-placed at 1000 Fifth Avenue from the address printed on the museum's own Plan Your Visit page; no published coordinate was read"
+ },
+ "address": {
+  "street": "1000 Fifth Avenue",
+  "city": "New York",
+  "admin": "NY",
+  "country": "US",
+  "postcode": "10028"
+ },
+ "hours": {
+  "open": [
+   "Su",
+   "Mo",
+   "Tu",
+   "Th",
+   "Fr",
+   "Sa"
+  ],
+  "closed": [
+   "We"
+  ],
+  "text": "Sunday, Monday, Tuesday and Thursday 10am–5pm; Friday and Saturday 10am–9pm; Wednesday closed.",
+  "seasonal": "Also closed Thanksgiving Day, 25 December, 1 January and the first Monday in May.",
+  "source": "s:web-met-plan-your-visit",
+  "url": "https://www.metmuseum.org/visit/plan-your-visit",
+  "tier": "cited",
+  "checked": "2026-09-17",
+  "note": "The museum's own published table for The Met Fifth Avenue. Individual galleries can close for renovation; the museum keeps a separate list."
+ },
+ "holdings": [
+  {
+   "museum": "met",
+   "what": "Wedjat Eye Amulet, faience and aragonite, ca. 1080–664 BCE, 6.5 cm long, on view in Gallery 130",
+   "accession": "26.7.1032",
+   "url": "https://www.metmuseum.org/art/collection/search/561047",
+   "source": "s:web-met-collection-api",
+   "open_access": true
+  },
+  {
+   "museum": "met",
+   "what": "Wedjat Eye Amulet in gold, 332–30 BCE, 3.2 by 3.7 cm, on view in Gallery 127",
+   "accession": "23.2.68",
+   "url": "https://www.metmuseum.org/art/collection/search/547767",
+   "source": "s:web-met-collection-api",
+   "open_access": true
+  },
+  {
+   "museum": "met",
+   "what": "Amulet in gold, ca. 1950–1850 BCE, 1.7 cm long, from the Memphite Region, credited to MMA excavations 1920–22, on view in Gallery 109",
+   "accession": "22.1.58",
+   "url": "https://www.metmuseum.org/art/collection/search/557128",
+   "source": "s:web-met-collection-api",
+   "open_access": true
+  },
+  {
+   "museum": "met",
+   "what": "Magical Stela with Horus the Child — the Metternich Stela — metagraywacke, 360–343 BCE, 83.5 cm high, on view in Gallery 128",
+   "accession": "50.85",
+   "url": "https://www.metmuseum.org/art/collection/search/546037",
+   "source": "s:web-met-collection-api",
+   "open_access": true
+  }
+ ],
+ "tags": [
+  {
+   "tag": "amulets-on-display",
+   "source": "s:web-met-collection-api",
+   "tier": "harvested",
+   "note": "the museum's own object records give gallery numbers for wedjat amulets on view in Galleries 103, 109, 120, 126, 127, 130 and 133, and for cippi in Galleries 128 and 134",
+   "url": "https://www.metmuseum.org/art/collection/search/561047"
+  },
+  {
+   "tag": "open-images",
+   "source": "s:wp-metropolitan-museum-of-art",
+   "tier": "cited",
+   "note": "all images of public-domain works released under Creative Commons Zero since 2017; the object records above are flagged public domain",
+   "url": "https://www.metmuseum.org/art/collection"
+  },
+  {
+   "tag": "repatriation",
+   "source": "s:wp-metropolitan-museum-of-art",
+   "tier": "cited",
+   "note": "27 objects seized on three warrants in September 2022 for return to Italy and Egypt; a statement on collecting practices and a provenance-research team followed. This project has not read a breakdown saying which of the 27 were Egyptian."
+  }
+ ],
+ "kin": [
+  {
+   "to": "metropolitan-museum",
+   "as": "the institution these rooms sit in, and the licence that lets this atlas show its photographs",
+   "rel": "org"
+  },
+  {
+   "to": "wedjat-eye",
+   "as": "the amulet this walk is really about — seven galleries of them, in faience, carnelian, obsidian and gold",
+   "rel": "carries"
+  },
+  {
+   "to": "scarab",
+   "as": "the other Egyptian class the 1906–1941 seasons supplied with find-spots attached",
+   "rel": "carries"
+  },
+  {
+   "to": "heart-scarab",
+   "as": "the large scarab laid on the chest of the dead, held in the same department",
+   "rel": "carries"
+  },
+  {
+   "to": "cippus-of-horus",
+   "as": "Gallery 128 has the big one — the Metternich Stela — and Gallery 134 the pocket-sized versions of the same design",
+   "rel": "carries"
+  },
+  {
+   "to": "faience",
+   "as": "the material the labels repeat: crushed quartz, fired, glazed blue or green",
+   "rel": "material"
+  },
+  {
+   "to": "carnelian",
+   "as": "the red stone the same eye is cut from a few cases along",
+   "rel": "material"
+  },
+  {
+   "to": "egyptian-amulet-craft",
+   "as": "the tradition these rooms document more completely than any other single building in the Americas",
+   "rel": "tradition"
+  },
+  {
+   "to": "flinders-petrie",
+   "as": "the excavator whose method the museum's own Egyptian Expedition followed; he published plates, the Met kept galleries",
+   "rel": "person"
+  },
+  {
+   "to": "british-museum-room-1",
+   "as": "the comparison in London: a room about the collectors, where these are rooms about the dig",
+   "rel": "contrast"
+  },
+  {
+   "to": "free-to-use",
+   "as": "the long read on licensing, where the CC0 dedication behind these object records is the case that works",
+   "rel": "story"
+  },
+  {
+   "to": "dating-a-charm",
+   "as": "the long read on dates; an excavation credit line is why these objects carry narrow ones",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Egyptian Art — The Metropolitan Museum of Art",
+   "url": "https://www.metmuseum.org/about-the-met/collection-areas/egyptian-art"
+  },
+  {
+   "label": "Plan Your Visit — The Met",
+   "url": "https://www.metmuseum.org/visit/plan-your-visit"
+  },
+  {
+   "label": "Wedjat Eye Amulet, 26.7.1032",
+   "url": "https://www.metmuseum.org/art/collection/search/561047"
+  }
+ ],
+ "sources": [
+  "s:web-met-egyptian-art-department",
+  "s:web-met-plan-your-visit",
+  "s:web-met-collection-api",
+  "s:wp-metropolitan-museum-of-art",
+  "s:wp-metternich-stela"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:web-met-egyptian-art-department"
+  },
+  "fields": {
+   "geo": {
+    "tier": "inference",
+    "note": "geocoded by hand to 1000 Fifth Avenue from the address on the museum's own visit page; no published coordinate was read, so precision is street, not exact"
+   },
+   "text.story": {
+    "tier": "harvested",
+    "source": "s:web-met-collection-api",
+    "note": "gallery numbers, accession numbers, dates, materials, measurements and credit lines were read off the museum's own object records on 17 September 2026; the two collection totals come from two different published statements and are not reconciled; the closing reading is marked as inference where it appears"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:web-met-plan-your-visit",
+    "note": "hours, prices and the renovation list are the museum's own, read 2026-09-17; nobody from this project has stood in the galleries"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Temple of Dendur, Metropolitan Museum of Art.jpg",
+  "File:Wedjat eye amulet MET.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-17",
+ "blurb": "A chain of rooms along the museum's north side, running from the predynastic material through to Roman Egypt and ending at the Temple of Dendur in its glass hall.",
+ "region_terms": [
+  {
+   "key": "north-america",
+   "name": "North America",
+   "hemi": [
+    "N",
+    "W"
+   ]
+  },
+  {
+   "key": "ancient-egypt",
+   "name": "Ancient Egypt",
+   "hemi": [
+    "N",
+    "E"
+   ],
+   "note": "Nile valley and delta, Predynastic through Roman Egypt"
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "metropolitan-museum",
+   "type": "org",
+   "name": "The Metropolitan Museum of Art",
+   "as": "the institution these rooms sit in, and the licence that lets this atlas show its photographs",
+   "rel": "org"
+  },
+  {
+   "to": "wedjat-eye",
+   "type": "amulet",
+   "name": "Wedjat eye",
+   "as": "the amulet this walk is really about — seven galleries of them, in faience, carnelian, obsidian and gold",
+   "rel": "carries"
+  },
+  {
+   "to": "scarab",
+   "type": "amulet",
+   "name": "Scarab",
+   "as": "the other Egyptian class the 1906–1941 seasons supplied with find-spots attached",
+   "rel": "carries"
+  },
+  {
+   "to": "heart-scarab",
+   "type": "amulet",
+   "name": "Heart scarab",
+   "as": "the large scarab laid on the chest of the dead, held in the same department",
+   "rel": "carries"
+  },
+  {
+   "to": "cippus-of-horus",
+   "type": "amulet",
+   "name": "Cippus of Horus",
+   "as": "Gallery 128 has the big one — the Metternich Stela — and Gallery 134 the pocket-sized versions of the same design",
+   "rel": "carries"
+  },
+  {
+   "to": "faience",
+   "type": "material",
+   "name": "Faience",
+   "as": "the material the labels repeat: crushed quartz, fired, glazed blue or green",
+   "rel": "material"
+  },
+  {
+   "to": "carnelian",
+   "type": "material",
+   "name": "Carnelian",
+   "as": "the red stone the same eye is cut from a few cases along",
+   "rel": "material"
+  },
+  {
+   "to": "egyptian-amulet-craft",
+   "type": "tradition",
+   "name": "Egyptian amulet craft",
+   "as": "the tradition these rooms document more completely than any other single building in the Americas",
+   "rel": "tradition"
+  },
+  {
+   "to": "flinders-petrie",
+   "type": "person",
+   "name": "Flinders Petrie",
+   "as": "the excavator whose method the museum's own Egyptian Expedition followed; he published plates, the Met kept galleries",
+   "rel": "person"
+  },
+  {
+   "to": "british-museum-room-1",
+   "type": "place",
+   "name": "Room 1: Enlightenment, the British Museum",
+   "as": "the comparison in London: a room about the collectors, where these are rooms about the dig",
+   "rel": "contrast"
+  },
+  {
+   "to": "free-to-use",
+   "type": "story",
+   "name": "Free to use",
+   "as": "the long read on licensing, where the CC0 dedication behind these object records is the case that works",
+   "rel": "story"
+  },
+  {
+   "to": "dating-a-charm",
+   "type": "story",
+   "name": "Dating a charm",
+   "as": "the long read on dates; an excavation credit line is why these objects carry narrow ones",
+   "rel": "story"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:web-met-egyptian-art-department",
+   "kind": "web",
+   "title": "Egyptian Art (department)",
+   "publisher": "The Metropolitan Museum of Art",
+   "url": "https://www.metmuseum.org/about-the-met/collection-areas/egyptian-art",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-met-plan-your-visit",
+   "kind": "web",
+   "title": "Plan Your Visit",
+   "publisher": "The Metropolitan Museum of Art",
+   "url": "https://www.metmuseum.org/visit/plan-your-visit",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:web-met-collection-api",
+   "kind": "web",
+   "title": "The Met Collection API — object records",
+   "publisher": "The Metropolitan Museum of Art",
+   "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects",
+   "accessed": "2026-09-17"
+  },
+  {
+   "id": "s:wp-metropolitan-museum-of-art",
+   "kind": "encyclopedia",
+   "title": "Metropolitan Museum of Art",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-metternich-stela",
+   "kind": "encyclopedia",
+   "title": "Metternich Stela",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Metternich_Stela",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:web-met-egyptian-art-department"
+  },
+  "text.story": {
+   "tier": "harvested",
+   "source": "s:web-met-collection-api",
+   "note": "gallery numbers, accession numbers, dates, materials, measurements and credit lines were read off the museum's own object records on 17 September 2026; the two collection totals come from two different published statements and are not reconciled; the closing reading is marked as inference where it appears"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:web-met-plan-your-visit",
+   "note": "hours, prices and the renovation list are the museum's own, read 2026-09-17; nobody from this project has stood in the galleries"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:web-met-egyptian-art-department"
+  },
+  "geo": {
+   "tier": "inference",
+   "note": "geocoded by hand to 1000 Fifth Avenue from the address on the museum's own visit page; no published coordinate was read, so precision is street, not exact"
+  },
+  "address": {
+   "tier": "cited",
+   "source": "s:web-met-egyptian-art-department"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [
+  {
+   "key": "amulets-on-display",
+   "label": "Amulets on display",
+   "group": "collection",
+   "evidence": "a gallery guide or a published catalogue",
+   "source": "s:web-met-collection-api",
+   "note": "the museum's own object records give gallery numbers for wedjat amulets on view in Galleries 103, 109, 120, 126, 127, 130 and 133, and for cippi in Galleries 128 and 134",
+   "tier": "harvested",
+   "url": "https://www.metmuseum.org/art/collection/search/561047"
+  },
+  {
+   "key": "open-images",
+   "label": "Publishes open images",
+   "group": "collection",
+   "evidence": "the collection's own rights statement",
+   "source": "s:wp-metropolitan-museum-of-art",
+   "note": "all images of public-domain works released under Creative Commons Zero since 2017; the object records above are flagged public domain",
+   "tier": "cited",
+   "url": "https://www.metmuseum.org/art/collection"
+  },
+  {
+   "key": "repatriation",
+   "label": "Repatriation under way",
+   "group": "collection",
+   "evidence": "a published claim, agreement or return, named and dated",
+   "source": "s:wp-metropolitan-museum-of-art",
+   "note": "27 objects seized on three warrants in September 2022 for return to Italy and Egypt; a statement on collecting practices and a provenance-research team followed. This project has not read a breakdown saying which of the 27 were Egyptian.",
+   "tier": "cited",
+   "url": ""
+  }
+ ],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [
+  {
+   "key": "met",
+   "label": "The Metropolitan Museum of Art",
+   "city": "New York",
+   "country": "US",
+   "url": "https://www.metmuseum.org/art/collection/search/561047",
+   "open": true,
+   "what": "Wedjat Eye Amulet, faience and aragonite, ca. 1080–664 BCE, 6.5 cm long, on view in Gallery 130",
+   "accession": "26.7.1032",
+   "source": "s:web-met-collection-api"
+  },
+  {
+   "key": "met",
+   "label": "The Metropolitan Museum of Art",
+   "city": "New York",
+   "country": "US",
+   "url": "https://www.metmuseum.org/art/collection/search/547767",
+   "open": true,
+   "what": "Wedjat Eye Amulet in gold, 332–30 BCE, 3.2 by 3.7 cm, on view in Gallery 127",
+   "accession": "23.2.68",
+   "source": "s:web-met-collection-api"
+  },
+  {
+   "key": "met",
+   "label": "The Metropolitan Museum of Art",
+   "city": "New York",
+   "country": "US",
+   "url": "https://www.metmuseum.org/art/collection/search/557128",
+   "open": true,
+   "what": "Amulet in gold, ca. 1950–1850 BCE, 1.7 cm long, from the Memphite Region, credited to MMA excavations 1920–22, on view in Gallery 109",
+   "accession": "22.1.58",
+   "source": "s:web-met-collection-api"
+  },
+  {
+   "key": "met",
+   "label": "The Metropolitan Museum of Art",
+   "city": "New York",
+   "country": "US",
+   "url": "https://www.metmuseum.org/art/collection/search/546037",
+   "open": true,
+   "what": "Magical Stela with Horus the Child — the Metternich Stela — metagraywacke, 360–343 BCE, 83.5 cm high, on view in Gallery 128",
+   "accession": "50.85",
+   "source": "s:web-met-collection-api"
+  }
+ ],
+ "span": "1870 CE to now",
+ "country_names": [
+  {
+   "iso": "US",
+   "name": "United States of America"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "cippus-of-horus",
+   "type": "amulet",
+   "name": "Cippus of Horus",
+   "as": "where the Metternich Stela stands, two thousand years after somebody walled it up",
+   "rel": "held-at"
+  },
+  {
+   "from": "scarab",
+   "type": "amulet",
+   "name": "Scarab",
+   "as": "a room where a tray of them can be read against each other",
+   "rel": "place"
+  },
+  {
+   "from": "taweret-amulet",
+   "type": "amulet",
+   "name": "Taweret amulet",
+   "as": "a room where her amulets and the wands sit within sight of each other",
+   "rel": "place"
+  },
+  {
+   "from": "british-museum-room-1",
+   "type": "place",
+   "name": "Room 1: Enlightenment, the British Museum",
+   "as": "the comparison across the Atlantic: rooms that show what was dug, where this one shows who did the collecting",
+   "rel": "contrast"
+  },
+  {
+   "from": "metropolitan-museum",
+   "type": "org",
+   "name": "The Metropolitan Museum of Art",
+   "as": "the forty rooms inside it this atlas sends a reader to",
+   "rel": "place"
+  }
+ ]
+}

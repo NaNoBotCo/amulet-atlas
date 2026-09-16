@@ -1,0 +1,157 @@
+{
+ "schema": 1,
+ "id": "hair",
+ "type": "material",
+ "names": {
+  "name": "Hair",
+  "native": "οὐσία",
+  "script": "Greek",
+  "lang": "grc",
+  "said": "ousia — the essence of a person, in the Greek of the binding spells",
+  "aliases": [
+   "nail clippings",
+   "ousia",
+   "conjure hair"
+  ]
+ },
+ "region": [
+  "greece-aegean",
+  "rome-italy",
+  "britain-ireland",
+  "western-europe",
+  "north-america"
+ ],
+ "countries": [
+  "GR",
+  "IT",
+  "GB",
+  "BE",
+  "US"
+ ],
+ "facets": {
+  "kind": "organic"
+ },
+ "text": {
+  "what": "Hair cut from a named person and put inside something else. It is almost never the charm on its own. It is the component that makes a general formula point at one particular body, and every tradition here says so out loud.",
+  "story": "The Greek binding spells give the theory. Curse tablets included hair or pieces of clothing, and the cited account explains why: this was seen as a way to give them strength through the inclusion of the central essence — ousia — of the person. Love spells are the strongest case, calling for \"hair from the head of the love target\", and some have been found \"folded around some hair\", probably to bind the spell itself.\n\nEngland put it in a bottle. A witch bottle historically contained the victim's urine, hair or nail clippings, or red thread from sprite traps; older accounts list rusty nails, urine, thorns, hair, menstrual blood, and pieces of glass, wood and bone. The bottle was buried at the farthest corner of a property, under the hearth, or hidden in a wall, and was held to work as long as it stayed hidden and unbroken.\n\nOne of those bottles has been opened in a laboratory, which is the only time in this record that hair gets analysed rather than described. A glass bottle found buried in the threshold of a house at Trelissick in Cornwall appeared on Antiques Roadshow in 2016; a 2019 episode reported that Loughborough University had analysed the contents and identified \"urine, a tiny bit of alcohol, and one human hair\", alongside brass pins dating from the late 1840s and an ostracod.\n\nIn the American South the same component travels under a different name. A former slave from Texas described how a conjure bag was assembled: they \"would take hair and brass nails and thimbles and needles and mix them up in a conjure bag.\" A goofer bag is made with goofer-root, cloth, strands of hair, needles and graveyard dirt, and camel hair is added to increase a bundle's potency.\n\n*Inference —* one hair, from one Cornish bottle, is the entire physical record this atlas can point to. Hair survives in the right conditions — dry, sealed, frozen — and rots everywhere else, and the bottles that preserved it did so by accident of being corked. Set that single strand against the thousands of surviving lead tablets that once had hair folded into them, and the shape of the gap is visible: the metal is in the museum and the person is gone.",
+  "how": "Cut, or collected after cutting, and then enclosed — folded inside a lead sheet, corked into a bottle, sewn into a flannel bag. The enclosing is the point. Hair on its own is not treated as a charm in any account read here.",
+  "notes": "This record describes a component taken from a named living person, sometimes without that person's knowledge. It names no living person and reproduces no procedure for obtaining it."
+ },
+ "dating": {
+  "period": "Classical Greece to the present",
+  "from_year": -499,
+  "to_year": null,
+  "living": true,
+  "label": "early 5th century BCE to now",
+  "method": "excavated",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-curse-tablet",
+  "note": "Dated from the curse-tablet corpus, whose earliest group — twenty-two tablets from Selinus in Sicily — is mostly early fifth century BCE; the tablets that carry hair are not separately dated in the source. The witch bottle tradition is dated to at least the sixteenth century, and conjure bags are made now."
+ },
+ "against": [
+  {
+   "harm": "attraction",
+   "who": "the writers of Greek erotic binding spells, which call for hair from the head of the love target",
+   "quote": "hair from the head of the love target",
+   "source": "s:wp-curse-tablet",
+   "tier": "cited"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "English householders, whose bottles held their own hair and urine as countermagic against a spell already cast",
+   "source": "s:wp-witch-bottle",
+   "tier": "cited"
+  },
+  {
+   "harm": "curse",
+   "who": "conjure workers in the American South, who put hair into bags meant to protect against conjure or to work it",
+   "source": "s:wp-mojo-bag",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "the makers of goofer bags, built from goofer-root, cloth, strands of hair, needles and graveyard dirt",
+   "source": "s:wp-mojo-bag",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "curse-tablet",
+   "as": "where the theory is written down: hair carries the ousia, the essence, and makes the sheet point at one person",
+   "rel": "carried-by"
+  },
+  {
+   "to": "witch-bottle",
+   "as": "the container that preserved the only analysed strand in this atlas, corked under a Cornish threshold",
+   "rel": "carried-by"
+  },
+  {
+   "to": "gris-gris",
+   "as": "the West African bagged charm whose American descendants take hair among their ingredients",
+   "rel": "kin"
+  },
+  {
+   "to": "cloth",
+   "as": "the other component curse tablets took from a person's body — a piece of clothing, doing the same pointing job",
+   "rel": "parallel"
+  },
+  {
+   "to": "thread",
+   "as": "the other material that leaves no museum tray, and for the same reason",
+   "rel": "parallel"
+  },
+  {
+   "to": "lead",
+   "as": "the sheet the hair was folded into, and the half of the pair that survived",
+   "rel": "contrast"
+  },
+  {
+   "to": "sewing-in",
+   "as": "the practice of enclosing, which is the only thing done to this material",
+   "rel": "practice"
+  },
+  {
+   "to": "burying",
+   "as": "how a hair charm is delivered: the farthest corner of the property, or under the hearth",
+   "rel": "practice"
+  },
+  {
+   "to": "dating-a-charm",
+   "as": "the long read on why the timeline in this atlas looks the way it does, which this record is the extreme case of",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Witch bottle — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Witch_bottle"
+  }
+ ],
+ "sources": [
+  "s:wp-curse-tablet",
+  "s:wp-witch-bottle",
+  "s:wp-mojo-bag"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-curse-tablet"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-witch-bottle",
+    "note": "the closing paragraph on the size of the surviving record is this project's inference and is marked in the text"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Witch bottle Museum of London.jpg"
+ ],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-17"
+}

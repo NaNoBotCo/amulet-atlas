@@ -1,0 +1,173 @@
+{
+ "schema": 1,
+ "id": "washing-off-ink",
+ "type": "practice",
+ "names": {
+  "name": "Washing off the ink",
+  "aliases": [
+   "drinking the writing",
+   "erasure water",
+   "swallowed charm"
+  ],
+  "said": "the charm is taken, not worn"
+ },
+ "region": [
+  "arabia-gulf",
+  "west-africa",
+  "east-africa",
+  "island-sea",
+  "south-asia"
+ ],
+ "countries": [
+  "SA",
+  "EG",
+  "SN",
+  "NG",
+  "ET",
+  "PH",
+  "IN",
+  "PK"
+ ],
+ "facets": {
+  "stage": "wear",
+  "era": "modern",
+  "status": "living",
+  "restricted": "limited"
+ },
+ "text": {
+  "what": "The charm written and then destroyed on purpose, so that a person can take it. Words are written inside a bowl, water is poured in, the writing comes off into the water, and the water is drunk. What was an object for a minute becomes a dose. Nothing survives, which is why almost no museum drawer holds an example of the practice that may be the commonest use of written charms alive.",
+  "story": "Islamic legal writing draws a fine line through this. Remke Kruk, summarising how close the approved and disapproved practices sit, notes that dissolving Quranic texts written on paper in water is forbidden, while the well-known Wahhabi-oriented cleric Wahid 'Abd al-Salam Bali recommends, in the cited account's words, writing in bowls with ink that is washed off by the water poured into the bowl. The same body of practice records treating a stomach ache by drinking water over which Quranic passages have been recited, and prescribes, for the condition called sihr al-nazif, drinking water over which an incantation has been recited and bathing in it for three days.\n\nThe Philippines has a swallowed branch of its own. An agimat can take the form of consumable enchanted mud, putik in Tagalog, and a mutya — described in one account as a drop of liquid taken from the heart of a banana tree at midnight — is ingested rather than worn.\n\n*Inference —* this practice is the reason a survey of amulets built from museum collections will always undercount written charms. A takrut rolled into metal lasts a thousand years; the same verse written to be washed off lasts a minute and leaves a person, not an object. Where a tradition uses both, the collections show one and not the other.\n\nIt is worth marking what this record does not claim. Mesopotamian incantation bowls, which are the other famous case of writing inside a bowl, were buried face down under thresholds in the accounts read here, not washed and drunk, and nothing in those accounts connects the two customs.",
+  "how": "Public structure only: a text is written on a surface chosen so the ink will lift — the inside of a bowl, a wooden slate — water is poured on, and the water is drunk or used for washing. Which text is written, and by whom, is the part the traditions govern, and this record does not set it out.",
+  "today": "Live and contested inside Islam. The practices of healers who claim to speak with jinn to cure or prevent the evil eye are held by some conservative Muslims to be shirk, a serious sin; the cited account sets out how narrow the difference between approved and disapproved practice can be, with the washing-off method on the approved side of the line drawn by the cleric it names. This atlas reports that disagreement between Muslim authorities and takes no side in it."
+ },
+ "dating": {
+  "period": "documented in modern Islamic legal and ethnographic writing; the practice is older than any date cited here",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "attested in modern accounts; undated at its start",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-islam-and-magic",
+  "note": "No source read here dates the practice's beginning. Rather than guess a century, this record leaves the start blank and says so; it will not appear on the timeline until a dated attestation is found."
+ },
+ "object": {
+  "form": "scroll",
+  "materials": [
+   "ink",
+   "paper",
+   "wood",
+   "earth"
+  ],
+  "worn": [
+   "swallowed"
+  ],
+  "made_by": "a healer, a scholar or a scribe the tradition recognises",
+  "inscription": "Quranic verses and recited incantations, in the Islamic cases",
+  "script": "Arabic",
+  "single_use": true,
+  "source": "s:wp-islam-and-magic",
+  "note": "The object is destroyed in use; the form given is the written text before washing."
+ },
+ "restricted": {
+  "note": "Which texts are written, and who may write and administer them, is governed within these traditions and disputed between authorities inside Islam. This record describes the method and the dispute, and does not print texts, formulae or dosages.",
+  "who_says": "the Islamic legal debate summarised in the cited account, including the ruling attributed there to Wahid 'Abd al-Salam Bali and the objections of Muslims who hold related healing practices to be shirk",
+  "source": "s:wp-islam-and-magic"
+ },
+ "against": [
+  {
+   "harm": "illness",
+   "who": "Islamic healing practice as summarised in the cited account, which records treating a stomach ache by drinking water over which Quranic passages have been recited",
+   "source": "s:wp-islam-and-magic",
+   "tier": "cited"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "the same body of practice, which prescribes drinking and bathing in water over which an incantation has been recited for the condition it calls sihr al-nazif",
+   "source": "s:wp-islam-and-magic",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "Filipino agimat practice, in which an amulet may be consumable — enchanted mud, or a mutya that is ingested",
+   "source": "s:wp-agimat",
+   "tier": "cited"
+  }
+ ],
+ "kin": [
+  {
+   "to": "quran-pendant",
+   "as": "the kept version of the same verses — worn instead of drunk",
+   "rel": "contrast"
+  },
+  {
+   "to": "taweez",
+   "as": "the folded written charm of the same tradition, cased to last rather than washed to be taken",
+   "rel": "contrast"
+  },
+  {
+   "to": "islamic-talismanic",
+   "as": "the tradition this practice sits inside, and where the argument about it is being had",
+   "rel": "tradition"
+  },
+  {
+   "to": "ink",
+   "as": "the material that has to be chosen to lift rather than to last, which inverts every other use of it in this atlas",
+   "rel": "material"
+  },
+  {
+   "to": "anting-anting",
+   "as": "the Filipino charm that can be eaten, described as consumable mud or an ingested mutya",
+   "rel": "carried-by"
+  },
+  {
+   "to": "incantation-bowl",
+   "as": "the other writing-inside-a-bowl practice, which in the accounts read here was buried rather than drunk — the parallel is a shape, not a link",
+   "rel": "contrast"
+  },
+  {
+   "to": "inscribing",
+   "as": "the writing step, done here in the knowledge that the writing is about to be destroyed",
+   "rel": "practice"
+  },
+  {
+   "to": "ethiopian-scroll-craft",
+   "as": "the neighbouring tradition of written healing charms, whose relation to this practice this record does not assert",
+   "rel": "parallel"
+  }
+ ],
+ "links": [
+  {
+   "label": "Islam and magic — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Islam_and_magic"
+  }
+ ],
+ "sources": [
+  "s:wp-islam-and-magic",
+  "s:wp-agimat",
+  "s:wp-incantation-bowl",
+  "s:wp-throne-verse"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-islam-and-magic"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-islam-and-magic",
+    "note": "the undercounting argument and the note about incantation bowls are this project's, and both are marked where they appear"
+   },
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-islam-and-magic",
+    "note": "no start date is claimed because none was read"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "low",
+ "needs_verification": true,
+ "updated": "2026-09-16"
+}

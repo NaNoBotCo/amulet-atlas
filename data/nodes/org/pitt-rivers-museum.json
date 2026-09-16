@@ -1,0 +1,60 @@
+{
+ "schema": 1,
+ "id": "pitt-rivers-museum",
+ "type": "org",
+ "names": {
+  "name": "The Pitt Rivers Museum",
+  "aliases": ["PRM"],
+  "sort": "Pitt Rivers Museum"
+ },
+ "region": ["britain-ireland", "world"],
+ "countries": ["GB"],
+ "facets": {"kind": "museum"},
+ "text": {
+  "what": "Oxford museum of archaeology and anthropology, founded in 1884 on Augustus Pitt Rivers' gift of about 22,000 objects and now holding more than 600,000. It is arranged by what things are for rather than by where they are from, so charms from a dozen continents share a case. Nearly the whole collection came in by donation from colonial officials, travellers, scholars and missionaries.",
+  "story": "The Deed of Gift set the terms. Oxford had to appoint a permanent lecturer in anthropology — Edward Burnett Tylor, in 1885, the first in the United Kingdom — and had to put up a building used for nothing else. Construction ran 1885 to 1886. A further clause says changes to the displays \"shall not affect the general principle originated by Augustus Henry Lane Fox Pitt Rivers\".\n\nThat is why the typological layout survived its own justification. The museum's account states that this evolutionary approach to material culture is no longer appropriate in the modern display paradigm for archaeological and anthropological objects, and that the original organisation has broadly been kept because the Deed requires it.\n\nThe amulet material arrived by two routes and they matter. Edward Lovett donated London street charms between 1896 and 1911. Walter Leo Hildburgh's amulets, bought across Europe, Asia and the Middle East, were bequeathed to the Wellcome Historical Medical Museum and transferred here in 1985.\n\nSince 2020 the museum has changed what it shows. During the COVID closure it removed human remains from display, including the tsantsas shown since the 1940s; the director said that exhibiting them \"reinforced racist and stereotypical thinking that goes against the museum's core values\". It is meeting originating communities to correct its records and discuss returns — the Living Cultures work with the Maasai group Oltoilo Le Maa and InsightShare among them. With the Museum of Natural History it returned the remains of 17 Aboriginal Australians to the Australian government in 2022, and in 2026 agreed to repatriate Naga skeletal remains, some of which had been displayed in a case titled Treatment of Dead Enemies.",
+  "today": "Collections Online is browsable and its images are not openly licensed. The museum's terms allow images to be used for non-commercial educational and community purposes and state that they \"cannot be used freely or without permission for commercial purposes\"; publication needs a licence application to photographic services, and credit must read \"© Pitt Rivers Museum, University of Oxford\" with the object's accession number. No Creative Commons licence is named. *Inference —* this atlas can therefore cite a Pitt Rivers accession and link to it, and cannot host the picture."
+ },
+ "dating": {
+  "period": "1884 to now",
+  "from_year": 1884,
+  "to_year": null,
+  "living": true,
+  "label": "1884 to the present",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-pitt-rivers-museum"
+ },
+ "geo": {"lat": 51.7586, "lon": -1.2554, "precision": "street", "source": "hand-placed at the Oxford University Museum of Natural History on Parks Road, through which the museum is entered"},
+ "address": {"street": "Parks Road", "city": "Oxford", "country": "GB"},
+ "tags": [
+  {"tag": "amulets-on-display", "source": "s:wp-pitt-rivers-museum", "tier": "cited", "note": "the typological arrangement groups charms from many regions in shared cases; displays are rotated"},
+  {"tag": "repatriation", "source": "s:wp-pitt-rivers-museum", "tier": "cited", "note": "remains of 17 Aboriginal Australians returned in 2022; Naga skeletal remains agreed for repatriation in 2026; meetings with originating communities ongoing"}
+ ],
+ "kin": [
+  {"to": "pitt-rivers-charms", "as": "the charm cases themselves, which is where a reader actually meets this collection", "rel": "place"},
+  {"to": "augustus-pitt-rivers", "as": "the founder whose 1884 Deed of Gift still fixes how the cases are laid out", "rel": "person"},
+  {"to": "edward-lovett", "as": "the donor of the London street charms, given between 1896 and 1911", "rel": "person"},
+  {"to": "walter-hildburgh", "as": "the collector whose amulets came here from Wellcome in 1985", "rel": "person"},
+  {"to": "wellcome-collection", "as": "the collection that passed its amulet material to Oxford in 1985", "rel": "org"},
+  {"to": "european-folk-apotropaic", "as": "the tradition its English cases document most densely, thanks to Lovett", "rel": "tradition"},
+  {"to": "who-owns-a-charm", "as": "the long read on ownership; this museum's own labels since 2020 are part of the argument", "rel": "story"},
+  {"to": "what-this-atlas-does-not-print", "as": "the long read on restricted material, which this museum's 2020 removals bear on directly", "rel": "story"}
+ ],
+ "links": [
+  {"label": "Pitt Rivers Museum — Wikipedia", "url": "https://en.wikipedia.org/wiki/Pitt_Rivers_Museum"},
+  {"label": "Collections Online — terms and conditions", "url": "https://www.prm.ox.ac.uk/collections-online-terms-and-conditions"}
+ ],
+ "sources": ["s:wp-pitt-rivers-museum", "s:web-prm-collections-terms", "s:web-walter-hildburgh-wikipedia", "s:wp-edward-lovett"],
+ "provenance": {
+  "default": {"tier": "cited", "source": "s:wp-pitt-rivers-museum"},
+  "fields": {
+   "text.today": {"tier": "cited", "source": "s:web-prm-collections-terms", "note": "terms read on the museum's own page; the consequence for this atlas is marked as inference"},
+   "geo": {"tier": "inference", "note": "geocoded by hand to Parks Road; the museum is entered through the natural history museum and has no separate street frontage"}
+  }
+ },
+ "images": [],
+ "x_commons_files": ["File:Pitt Rivers Museum Interior.jpg"],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

@@ -1,0 +1,313 @@
+{
+ "schema": 1,
+ "id": "yantra-word",
+ "type": "term",
+ "names": {
+  "name": "yantra",
+  "native": "यन्त्र",
+  "script": "Devanagari",
+  "lang": "sa",
+  "said": "YAN-tra; Thai yant",
+  "aliases": [
+   "yantrá",
+   "yant",
+   "ยันต์",
+   "y័ន្ត"
+  ]
+ },
+ "etymology": {
+  "root": "Sanskrit root yam 'to sustain, support' + the instrumental suffix -tra > yantra (यन्त्र), 'instrument, machine, contraption'",
+  "first_attested": "",
+  "note": "In Rigvedic Sanskrit yantra is an instrument for restraining or fastening — a prop, a support, a barrier. The literal sense is still live in Sushruta's medical vocabulary, where it names blunt surgical instruments such as tweezers or a vice. The sense 'mystical or occult diagram' arises in the medieval period, in the Kathasaritsagara and the Pancharatra.",
+  "tier": "cited",
+  "source": "s:wp-yantra"
+ },
+ "region": [
+  "south-asia",
+  "mainland-sea",
+  "himalaya-tibet"
+ ],
+ "countries": [
+  "IN",
+  "NP",
+  "LK",
+  "TH",
+  "KH",
+  "LA"
+ ],
+ "facets": {
+  "language": [
+   "Sanskrit",
+   "Thai",
+   "Khmer"
+  ]
+ },
+ "text": {
+  "what": "A machine. That is the word's plain sense and it has never gone away: yantra is an instrument, a thing built to hold and to do work. The diagram sense — concentric triangles, circles, hexagons, lotus petals and an outer square with doors at the four directions, radiating from a central point called the bindu — is a later specialisation of the same idea. A yantra that has not been energised with its mantra is held by practitioners to be lifeless, which is consistent with the root: an instrument that is not driving anything is not doing its job.",
+  "story": "The word travelled east and kept its shape. Sak yant, the tattooing practice of Cambodia, Thailand and Laos, splits into sak — a native Khmer word meaning to tattoo, from a Proto-Mon-Khmer root meaning to prick, which Chuon Nath's 1967 dictionary establishes is not a Sanskrit or Pali loan — and yant, the Sanskrit yantra arriving with Indian designs. One indigenous word, one borrowed one, welded into the name of a practice.\n\nGudrun Bühnemann sorts the diagrams into three kinds by use: those that a ritual implement such as a lamp or a vessel stands on; those used in regular worship, like the Sri Yantra of the goddess Tripura Sundari; and those made for a specific desire-driven rite, often on birch bark or paper, sometimes with flowers, rice paste or ashes worked in.\n\nThe dating of the form is where this record has to go carefully. Wikipedia's article says representations of the yantra in India 'have been considered to date back to 11,000–10,000 BCE', and in the next sentence reports that the Baghor stone, found in an Upper Palaeolithic context in the Son River Valley, was dated by G. R. Sharma, who excavated it, to 25,000–20,000 BCE, and that Kenoyer, also on the excavation, associated it with Shakti. Those two ranges do not agree with each other, and neither is a date for the word. *Inference —* what can be said is that a triangular engraved stone was excavated and read by its excavators as related to goddess worship; reading it as a yantra is an interpretation laid over an object by people who already had the word.\n\n*Tradition holds —* the diagrams are consecrated and energised by a priest, using mantras tied to the particular deity, and in Sri Lankan Buddhism a practitioner is required to hold the yantra of the deity once that deity has shown acceptance of their prayer."
+ },
+ "dating": {
+  "period": "Rigvedic Sanskrit to the present",
+  "from_year": -999,
+  "to_year": null,
+  "living": true,
+  "label": "the word from Vedic Sanskrit; the diagram sense from the medieval period",
+  "method": "textual",
+  "circa": true,
+  "tier": "cited",
+  "source": "s:wp-yantra",
+  "note": "The from_year is a rounded date for Vedic Sanskrit and is not a first attestation this project read. The claims of 11,000–10,000 BCE and 25,000–20,000 BCE in the source are for objects, not for the word, and they conflict with each other."
+ },
+ "kin": [
+  {
+   "to": "yantra-plate",
+   "as": "the object the word names in South Asia: the diagram drawn or engraved and then energised",
+   "rel": "term"
+  },
+  {
+   "to": "sak-yant",
+   "as": "the word carried into Khmer, Thai and Lao as yant, welded to a native word for tattooing",
+   "rel": "descendant"
+  },
+  {
+   "to": "hindu-kavacha",
+   "as": "the tradition the diagram belongs to at home",
+   "rel": "tradition"
+  },
+  {
+   "to": "thai-wicha",
+   "as": "the tradition it belongs to at the other end of the journey",
+   "rel": "tradition"
+  },
+  {
+   "to": "magic-square",
+   "as": "the numbered cousin — another figure whose power is claimed to sit in its arrangement",
+   "rel": "motif"
+  },
+  {
+   "to": "inscribing",
+   "as": "the practice the word requires: a yantra is drawn before it is anything",
+   "rel": "practice"
+  },
+  {
+   "to": "talisman-word",
+   "as": "the Arabic-derived English word for the same idea, an object made under conditions to do work",
+   "rel": "parallel"
+  }
+ ],
+ "links": [
+  {
+   "label": "Yantra — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra"
+  }
+ ],
+ "sources": [
+  "s:wp-yantra",
+  "s:wp-yantra-tattooing",
+  "s:wp-kavacha"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-yantra"
+  },
+  "fields": {
+   "dating": {
+    "tier": "inference",
+    "note": "rounded to Vedic Sanskrit; the source's two conflicting object dates are reported in the prose and not used here"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "medium",
+ "needs_verification": true,
+ "updated": "2026-09-16",
+ "blurb": "A machine. That is the word's plain sense and it has never gone away: yantra is an instrument, a thing built to hold and to do work.",
+ "region_terms": [
+  {
+   "key": "south-asia",
+   "name": "South Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "mainland-sea",
+   "name": "Mainland Southeast Asia",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  },
+  {
+   "key": "himalaya-tibet",
+   "name": "The Himalaya and Tibet",
+   "hemi": [
+    "N",
+    "E"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "E",
+  "N"
+ ],
+ "kin_out": [
+  {
+   "to": "yantra-plate",
+   "type": "amulet",
+   "name": "Yantra plate",
+   "as": "the object the word names in South Asia: the diagram drawn or engraved and then energised",
+   "rel": "term"
+  },
+  {
+   "to": "sak-yant",
+   "type": "amulet",
+   "name": "Sak yant",
+   "as": "the word carried into Khmer, Thai and Lao as yant, welded to a native word for tattooing",
+   "rel": "descendant"
+  },
+  {
+   "to": "hindu-kavacha",
+   "type": "tradition",
+   "name": "Kavacha — the Hindu armour tradition",
+   "as": "the tradition the diagram belongs to at home",
+   "rel": "tradition"
+  },
+  {
+   "to": "thai-wicha",
+   "type": "tradition",
+   "name": "Thai wicha",
+   "as": "the tradition it belongs to at the other end of the journey",
+   "rel": "tradition"
+  },
+  {
+   "to": "magic-square",
+   "type": "motif",
+   "name": "The number square",
+   "as": "the numbered cousin — another figure whose power is claimed to sit in its arrangement",
+   "rel": "motif"
+  },
+  {
+   "to": "inscribing",
+   "type": "practice",
+   "name": "Inscribing",
+   "as": "the practice the word requires: a yantra is drawn before it is anything",
+   "rel": "practice"
+  },
+  {
+   "to": "talisman-word",
+   "type": "term",
+   "name": "talisman",
+   "as": "the Arabic-derived English word for the same idea, an object made under conditions to do work",
+   "rel": "parallel"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-yantra",
+   "kind": "encyclopedia",
+   "title": "Yantra",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-yantra-tattooing",
+   "kind": "encyclopedia",
+   "title": "Yantra tattooing",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra_tattooing",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-kavacha",
+   "kind": "encyclopedia",
+   "title": "Kavacha",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kavacha",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-yantra"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-yantra"
+  },
+  "etymology": {
+   "tier": "cited",
+   "source": "s:wp-yantra"
+  },
+  "dating": {
+   "tier": "inference",
+   "note": "rounded to Vedic Sanskrit; the source's two conflicting object dates are reported in the prose and not used here"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [],
+ "recognition_facts": [],
+ "acclaim": 0,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "1000 BCE to now",
+ "country_names": [
+  {
+   "iso": "IN",
+   "name": "India"
+  },
+  {
+   "iso": "NP",
+   "name": "Nepal"
+  },
+  {
+   "iso": "LK",
+   "name": "Sri Lanka"
+  },
+  {
+   "iso": "TH",
+   "name": "Thailand"
+  },
+  {
+   "iso": "KH",
+   "name": "Cambodia"
+  },
+  {
+   "iso": "LA",
+   "name": "Laos"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "yantra-plate",
+   "type": "amulet",
+   "name": "Yantra plate",
+   "as": "the word, from a Sanskrit term for a machine, and the road it took to mean a drawn sign",
+   "rel": "same-word"
+  },
+  {
+   "from": "thai-wicha",
+   "type": "tradition",
+   "name": "Thai wicha",
+   "as": "the word at the other end of that journey, shortened to yant",
+   "rel": "term"
+  },
+  {
+   "from": "talisman-word",
+   "type": "term",
+   "name": "talisman",
+   "as": "the Sanskrit parallel: another word meaning an instrument built to do work, later meaning a drawn figure",
+   "rel": "parallel"
+  }
+ ]
+}

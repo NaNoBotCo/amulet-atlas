@@ -1,0 +1,109 @@
+{
+ "schema": 1,
+ "id": "frederick-elworthy",
+ "type": "person",
+ "names": {
+  "name": "Frederick Thomas Elworthy",
+  "aliases": [
+   "F. T. Elworthy"
+  ],
+  "sort": "Elworthy, Frederick Thomas"
+ },
+ "region": [
+  "britain-ireland",
+  "rome-italy",
+  "iberia",
+  "western-europe"
+ ],
+ "countries": [
+  "GB",
+  "IT",
+  "ES"
+ ],
+ "facets": {
+  "role": [
+   "collector",
+   "scholar",
+   "writer"
+  ]
+ },
+ "text": {
+  "what": "English philologist and antiquary, 1830–1907, of Wellington in Somerset. He wrote the two books that pulled the evil eye and its answering objects together as one subject in English — \"The Evil Eye\" in 1895 and \"Horns of Honour\" in 1900 — and he bought the objects while he was writing, in Spain, Italy and elsewhere. His collection went to the Somersetshire Archaeological Society's museum at Taunton after his widow's death.",
+  "story": "Elworthy came to writing late. A woollen manufacturer's eldest son, schooled privately at Denmark Hill, he made his first name as a dialect scholar: \"The Dialect of West Somerset\", published for the English Dialect Society by Trübner between 1875 and 1886, in two volumes with a grammar and a word-book.\n\nThen he turned to the eye. \"The Evil Eye: an account of this ancient and widespread superstition\", John Murray, 1895, gathered what he had seen on the road — the coral horn in Naples, the hand, the crescent, the amulets sold at street barrows — and set them beside Roman and Greek material. \"Horns of Honour\", the same publisher, 1900, took the horn on its own. He drew, and he drew well; the plates are his.\n\nHis obituarist in the Dictionary of National Biography wrote that in the course of those travels he made \"perhaps the finest collection of charms, amulets, and such-like trinkets in existence\". That sentence is the record of a whole period's vocabulary, and this atlas prints it as a quotation rather than borrowing it. Elworthy's own subtitle does the same work. The word he put on his title page is the verdict the book starts from, and everything inside is described by somebody who had already decided what the practice was.\n\n*Inference —* what survived the framing is the evidence. Elworthy recorded which object was sold on which street, what a seller said it did, and what shape it took in one town against the next; those observations are still checkable and are still cited, including in this atlas, wherever a Mediterranean charm needs a dated nineteenth-century sighting.",
+  "today": "His 1895 and 1900 books are out of copyright and circulate freely as scans, which keeps both the observations and the vocabulary in wide reach. The Pitt Rivers Museum's 'The Other Within' project, by Alison Petch, carries a biographical page on him as one of the collectors behind English ethnographic holdings."
+ },
+ "dating": {
+  "period": "Victorian",
+  "from_year": 1830,
+  "to_year": 1907,
+  "living": false,
+  "label": "10 January 1830 – 13 December 1907",
+  "method": "textual",
+  "tier": "cited",
+  "source": "s:wp-frederick-thomas-elworthy"
+ },
+ "kin": [
+  {
+   "to": "eye",
+   "as": "the sign he catalogued across Europe in 1895, and the reason many of these objects are grouped together at all",
+   "rel": "motif"
+  },
+  {
+   "to": "cornicello",
+   "as": "the Neapolitan horn he bought, drew and gave a book of its own in 1900",
+   "rel": "kin"
+  },
+  {
+   "to": "horn",
+   "as": "the sign he argued was doing the eye's work by another shape",
+   "rel": "motif"
+  },
+  {
+   "to": "cimaruta",
+   "as": "one of the Italian charms his fieldwork put into English print",
+   "rel": "kin"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the tradition his two books first assembled as a single subject in English",
+   "rel": "tradition"
+  },
+  {
+   "to": "edward-lovett",
+   "as": "his English contemporary, working the same decades on London streets rather than Mediterranean ones",
+   "rel": "parallel"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "as": "the long read his 1895 survey is the first English attempt at",
+   "rel": "story"
+  }
+ ],
+ "links": [
+  {
+   "label": "Frederick Thomas Elworthy — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Frederick_Thomas_Elworthy"
+  }
+ ],
+ "sources": [
+  "s:wp-frederick-thomas-elworthy",
+  "s:wp-evil-eye",
+  "s:wp-cornicello"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-frederick-thomas-elworthy"
+  },
+  "fields": {
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-frederick-thomas-elworthy",
+    "note": "the Dictionary of National Biography wording is quoted, not adopted; the closing paragraph is marked as this project's inference"
+   }
+  }
+ },
+ "images": [],
+ "confidence": "high",
+ "updated": "2026-09-16"
+}

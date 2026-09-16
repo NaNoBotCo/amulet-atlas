@@ -1,0 +1,351 @@
+{
+ "schema": 1,
+ "id": "mercado-de-las-brujas-la-paz",
+ "type": "place",
+ "names": {
+  "name": "El Mercado de las Brujas",
+  "native": "El Mercado de las Brujas",
+  "script": "Latin",
+  "lang": "es",
+  "said": "mer-KA-do de las BROO-has",
+  "aliases": [
+   "La Hechicería",
+   "The Witches' Market, La Paz"
+  ]
+ },
+ "region": [
+  "andes"
+ ],
+ "countries": [
+  "BO"
+ ],
+ "facets": {
+  "kind": "market",
+  "hemisphere": [
+   "S",
+   "W"
+  ]
+ },
+ "text": {
+  "what": "A run of stalls on Calle Linares in the El Rosario neighbourhood of La Paz, spilling into Jiménez, Santa Cruz and Illampu. Stock: medicinal plants, retama, amulets, talismans, powders, dried frogs, armadillos, and the sullus — dried llama foetuses — that are buried under the foundations of Bolivian houses as an offering to Pachamama.",
+  "story": "The market's Spanish name was chosen to be recognisable to foreigners, which is a fact about naming rather than about what is sold. Most of the stallholders are Aymara women, the chifreras. The yatiri who work here are identifiable by their black hats and coca pouches, and the pouches hold amulets, talismans and powders sold for luck, beauty and fertility; they also read fortunes and take commissions for love work and for curses.\n\nThe year has a shape. October is the busiest month, because Pachamama offerings cluster there — sellers put roughly 60 per cent of the year's sales in that one month — and February, at Carnival, is the other peak.\n\nOne street over in the calendar sits Alasitas. From 24 January, for a month, La Paz holds a fair for Ekeko, the Aymara god of abundance, where people buy miniature versions of what they want — food, tools, a house, a car, a diploma — to give to somebody else, on the understanding that the full-sized version follows within the year. Men and, less often, women acting as shaman bless the miniatures; at midday on 24 January the Catholic Church blesses them too, at the cathedral. The name is Aymara for buy from me.\n\nIn 2019 the market was named Intangible Cultural Heritage of La Paz. *Tradition holds —* many of the rituals served here have been adapted to an urban setting, which the encyclopedia attributes to the long aftermath of colonisation rather than to tourism.",
+  "today": "Trading, on published accounts. October and Carnival are the peaks. No day is marked open or closed below; stall hours are the sellers' own."
+ },
+ "dating": {
+  "period": "modern, on older ground",
+  "from_year": null,
+  "to_year": null,
+  "living": true,
+  "label": "in trade now; recognised by the city in 2019",
+  "method": "ethnographic",
+  "tier": "cited",
+  "source": "s:wp-the-witches-market",
+  "note": "No founding date is published in the sources read. The Alasitas fair beside it was moved to 24 January during the 1781 siege of La Paz, and the miniature-offering practice is traced to the pre-Columbian period."
+ },
+ "geo": {
+  "lat": -16.5,
+  "lon": -68.149,
+  "precision": "town",
+  "source": "the coordinate published for the English Wikipedia article The Witches' Market and in Wikidata item Q7775306, queried 2026-09-16; it is given to three decimal places, so it fixes the quarter rather than the stalls"
+ },
+ "address": {
+  "street": "Calle Linares, El Rosario",
+  "city": "La Paz",
+  "admin": "La Paz Department",
+  "country": "BO"
+ },
+ "kin": [
+  {
+   "to": "ekeko",
+   "as": "the god of abundance whose fair, Alasitas, runs from 24 January in the same streets",
+   "rel": "carries"
+  },
+  {
+   "to": "illa",
+   "as": "the Andean miniature that stands for the thing wanted — bought here, blessed, and given away",
+   "rel": "carries"
+  },
+  {
+   "to": "andean-illa-practice",
+   "as": "the tradition this market supplies, from the house offering to the miniature",
+   "rel": "tradition"
+  },
+  {
+   "to": "foundation-deposit",
+   "as": "the practice the sullus are bought for: an offering under the foundations of a house",
+   "rel": "practice"
+  },
+  {
+   "to": "herb",
+   "as": "the working stock of the stalls, retama among it",
+   "rel": "material"
+  },
+  {
+   "to": "mercado-de-las-brujas-lima",
+   "as": "the Lima market carrying the same foreign name, in a garment district rather than a tourist quarter",
+   "rel": "parallel"
+  },
+  {
+   "to": "mercado-de-sonora",
+   "as": "the Mexico City counterpart, where the same pairing of plants and ritual goods fills two aisles",
+   "rel": "parallel"
+  },
+  {
+   "to": "buying-in-a-market",
+   "as": "the practice, with a calendar: 60 per cent of the year's trade in October",
+   "rel": "practice"
+  }
+ ],
+ "tags": [
+  {
+   "tag": "market",
+   "source": "s:wp-the-witches-market",
+   "tier": "cited",
+   "note": "stalls on Calle Linares and the streets around it, run by Aymara chifreras and yatiri"
+  }
+ ],
+ "recognitions": [
+  {
+   "by": "national-heritage",
+   "what": "named Intangible Cultural Heritage of La Paz",
+   "year": 2019,
+   "source": "s:wp-the-witches-market",
+   "note": "a city designation, recorded here as the encyclopedia states it"
+  }
+ ],
+ "links": [
+  {
+   "label": "The Witches' Market — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Witches%27_Market"
+  },
+  {
+   "label": "Alasitas — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alasitas"
+  }
+ ],
+ "sources": [
+  "s:wp-the-witches-market",
+  "s:wp-alasitas",
+  "s:wp-ekeko"
+ ],
+ "provenance": {
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-the-witches-market"
+  },
+  "fields": {
+   "geo": {
+    "tier": "harvested",
+    "note": "the published coordinate for the article and its Wikidata item, queried 2026-09-16; three decimal places, so precision is town"
+   }
+  }
+ },
+ "images": [],
+ "x_commons_files": [
+  "File:Mercado de las Brujas La Paz.jpg",
+  "File:Alasitas La Paz.jpg"
+ ],
+ "confidence": "high",
+ "updated": "2026-09-16",
+ "blurb": "A run of stalls on Calle Linares in the El Rosario neighbourhood of La Paz, spilling into Jiménez, Santa Cruz and Illampu.",
+ "region_terms": [
+  {
+   "key": "andes",
+   "name": "The Andes",
+   "hemi": [
+    "S",
+    "W"
+   ]
+  }
+ ],
+ "hemispheres": [
+  "S",
+  "W"
+ ],
+ "kin_out": [
+  {
+   "to": "ekeko",
+   "type": "amulet",
+   "name": "Ekeko",
+   "as": "the god of abundance whose fair, Alasitas, runs from 24 January in the same streets",
+   "rel": "carries"
+  },
+  {
+   "to": "illa",
+   "type": "amulet",
+   "name": "Illa",
+   "as": "the Andean miniature that stands for the thing wanted — bought here, blessed, and given away",
+   "rel": "carries"
+  },
+  {
+   "to": "andean-illa-practice",
+   "type": "tradition",
+   "name": "Illa practice",
+   "as": "the tradition this market supplies, from the house offering to the miniature",
+   "rel": "tradition"
+  },
+  {
+   "to": "foundation-deposit",
+   "type": "practice",
+   "name": "Foundation deposit",
+   "as": "the practice the sullus are bought for: an offering under the foundations of a house",
+   "rel": "practice"
+  },
+  {
+   "to": "herb",
+   "type": "material",
+   "name": "Herb and root",
+   "as": "the working stock of the stalls, retama among it",
+   "rel": "material"
+  },
+  {
+   "to": "mercado-de-las-brujas-lima",
+   "type": "place",
+   "name": "Mercado de Brujas de Gamarra",
+   "as": "the Lima market carrying the same foreign name, in a garment district rather than a tourist quarter",
+   "rel": "parallel"
+  },
+  {
+   "to": "mercado-de-sonora",
+   "type": "place",
+   "name": "Mercado de Sonora",
+   "as": "the Mexico City counterpart, where the same pairing of plants and ritual goods fills two aisles",
+   "rel": "parallel"
+  },
+  {
+   "to": "buying-in-a-market",
+   "type": "practice",
+   "name": "Buying one in a market",
+   "as": "the practice, with a calendar: 60 per cent of the year's trade in October",
+   "rel": "practice"
+  }
+ ],
+ "source_list": [
+  {
+   "id": "s:wp-the-witches-market",
+   "kind": "encyclopedia",
+   "title": "The Witches' Market",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Witches%27_Market",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-alasitas",
+   "kind": "encyclopedia",
+   "title": "Alasitas",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alasitas",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  },
+  {
+   "id": "s:wp-ekeko",
+   "kind": "encyclopedia",
+   "title": "Ekeko",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ekeko",
+   "accessed": "2026-09-16",
+   "license": "CC BY-SA 4.0"
+  }
+ ],
+ "tiers": {
+  "text.what": {
+   "tier": "cited",
+   "source": "s:wp-the-witches-market"
+  },
+  "text.story": {
+   "tier": "cited",
+   "source": "s:wp-the-witches-market"
+  },
+  "text.today": {
+   "tier": "cited",
+   "source": "s:wp-the-witches-market"
+  },
+  "dating": {
+   "tier": "cited",
+   "source": "s:wp-the-witches-market"
+  },
+  "geo": {
+   "tier": "harvested",
+   "note": "the published coordinate for the article and its Wikidata item, queried 2026-09-16; three decimal places, so precision is town"
+  },
+  "address": {
+   "tier": "cited",
+   "source": "s:wp-the-witches-market"
+  }
+ },
+ "primary_image": null,
+ "tag_facts": [
+  {
+   "key": "market",
+   "label": "A market you can walk",
+   "group": "trade",
+   "evidence": "a dated guide, a municipal listing",
+   "source": "s:wp-the-witches-market",
+   "note": "stalls on Calle Linares and the streets around it, run by Aymara chifreras and yatiri",
+   "tier": "cited",
+   "url": ""
+  }
+ ],
+ "recognition_facts": [
+  {
+   "key": "national-heritage",
+   "label": "A national heritage register",
+   "what": "named Intangible Cultural Heritage of La Paz",
+   "url": "",
+   "year": 2019,
+   "source": "s:wp-the-witches-market"
+  }
+ ],
+ "acclaim": 1,
+ "against_facts": [],
+ "material_facts": [],
+ "worn_facts": [],
+ "form_fact": null,
+ "holding_facts": [],
+ "span": "undated",
+ "country_names": [
+  {
+   "iso": "BO",
+   "name": "Bolivia"
+  }
+ ],
+ "kin_in": [
+  {
+   "from": "ekeko",
+   "type": "amulet",
+   "name": "Ekeko",
+   "as": "the La Paz market where he is sold year-round, not only in January",
+   "rel": "place"
+  },
+  {
+   "from": "andean-illa-practice",
+   "type": "tradition",
+   "name": "Illa practice",
+   "as": "the market that supplies it year-round, with roughly 60 per cent of the year's trade falling in October",
+   "rel": "place"
+  },
+  {
+   "from": "buying-in-a-market",
+   "type": "practice",
+   "name": "Buying one in a market",
+   "as": "the practice with a published season — roughly 60 per cent of the year's trade in October",
+   "rel": "place"
+  },
+  {
+   "from": "mercado-de-las-brujas-lima",
+   "type": "place",
+   "name": "Mercado de Brujas de Gamarra",
+   "as": "the La Paz market that shares this one's foreign name and sells to a different clientele",
+   "rel": "parallel"
+  },
+  {
+   "from": "mercado-de-sonora",
+   "type": "place",
+   "name": "Mercado de Sonora",
+   "as": "the La Paz counterpart, where the sellers are Aymara and the goods are Andean",
+   "rel": "parallel"
+  }
+ ]
+}
