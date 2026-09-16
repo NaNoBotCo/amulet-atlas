@@ -201,9 +201,9 @@ def against_page(page, recs, against, by_id, site_url, E, **_) -> str:
 
     body = f"""
 <h1><span class="kind">Amulet Atlas</span>What it stops</h1>
-<p class="lede">{against["count"]} claims, each one belonging to somebody. This project does not
-record who said it and link the source. Whether a charm works is not a question this
-page answers. {E(against["note"])}</p>
+<p class="lede">{against["count"]} claims, each one belonging to somebody. Every row names who
+said it and links the source. Whether a charm works is not a question this page answers.
+{E(against["note"])}</p>
 {viz.bars([{"label": h["label"], "n": h["n"]} for h in harms], 1100, " claims", 29, 270)}
 <h2>Harm against region</h2>
 <p class="mute">A blank cell is a blank — no record here makes that claim in that region. It is
