@@ -5,3 +5,22 @@ worn, buried, nailed above the door — and what each one is meant to stop
 Built as static files by python3 tools/build.py and tools/site.py. Stdlib only.
 Maps drawn in Equal Earth from Natural Earth outlines, public domain.
 No trackers, no external requests, no fonts fetched from anywhere.
+
+# — roster of sibling sites, generated from data/fleet.json —
+/* ELSEWHERE */
+Everything this publisher holds, counted: https://nanobotco.github.io/index/
+The roster, as JSON: https://nanobotco.github.io/index/fleet.json
+Mot Dang — https://motdang.net/
+wichaa — https://wichaa.net/
+Carolina Barbecue — https://nanobotco.github.io/carolina-barbecue/
+Wing Country — https://nanobotco.github.io/buffalo-wings/
+Pink Box — https://nanobotco.github.io/pink-box/
+Basque Tables — https://nanobotco.github.io/basque-tables/
+Pinot Country — https://nanobotco.github.io/pinot-noir/
+Care Abroad — https://nanobotco.github.io/care-abroad/
+Thai Roots — https://nanobotco.github.io/thairoots/
+The index — https://nanobotco.github.io/index/
+Uptake — https://nanobotco.github.io/uptake/
+NaNoBotCo — https://nanobotco.github.io/
+ฮักฝรั่ง — https://hakfarang.net/
+Offrampt — https://offrampt.net/
