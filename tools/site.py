@@ -156,7 +156,7 @@ figcaption{font-size:.8rem;color:var(--mute);margin-top:.4rem;font-family:var(--
 .card p{margin:.3rem 0 0;font-size:.9rem;color:var(--mute)}
 .card .thumb{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:9px;margin-bottom:.55rem;display:block;background:var(--chip)}
 footer{max-width:72rem;margin:0 auto;padding:1rem;color:var(--mute);font-size:.85rem;border-top:1px solid var(--line);font-family:var(--ui)}
-.bots a{margin-right:.7rem}.fleet{margin:.6rem 0 0;line-height:1.9}.fleet a{margin-right:.55rem;white-space:nowrap}
+.bots a{margin-right:.7rem}.support{margin:.45rem 0 0}.support a{margin-right:.5rem}.fleet{margin:.6rem 0 0;line-height:1.9}.fleet a{margin-right:.55rem;white-space:nowrap}
 .btn{display:inline-block;padding:.55rem 1.05rem;border-radius:999px;background:var(--carn);color:#fff;text-decoration:none;font-weight:700;border:2px solid var(--carn);font-family:var(--label);font-size:.95rem;letter-spacing:.03em}
 .btn.ghost{background:transparent;color:var(--ink);border-color:var(--line)}
 .btn:hover{color:#fff;filter:brightness(1.08)}.btn.ghost:hover{color:var(--ink);border-color:var(--carn)}
@@ -305,6 +305,7 @@ def page(title: str, body: str, depth: int, desc: str = "", jsonld: list | None 
 <div class="bots">For the machines: <a href="{r}api/nodes.json">nodes.json</a> <a href="{r}api/atlas.json">atlas.json</a> <a href="{r}api/timeline.json">timeline.json</a> <a href="{r}api/against.json">against.json</a> <a href="{r}api/kin.json">kin.json</a> <a href="{r}nodes.jsonl">nodes.jsonl</a> <a href="{r}nodes.csv">nodes.csv</a> <a href="{r}llms-full.txt">llms-full.txt</a> <a href="{r}sitemap.xml">sitemap.xml</a> <a href="{r}feed.xml">feed.xml</a> <a href="{r}api/coverage.json">coverage</a> <a href="{r}api/sources.json">sources</a></div>
 <p>Records licensed <a href="{DATA_LICENSE}">CC BY 4.0</a>. Country outlines from <a href="https://www.naturalearthdata.com/">Natural Earth</a>, public domain. Pictures carry their own licences, stated beside each one. Every field says where it came from — and where a tradition asks that something not be published, this atlas prints the ask instead.</p>
 {fleet.row_html("amulet-atlas")}
+{fleet.support_html()}
 </footer>
 </body>
 </html>
