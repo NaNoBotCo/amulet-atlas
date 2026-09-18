@@ -98,7 +98,7 @@ FOR MACHINES
 
 LICENCE
 Records CC BY-SA 4.0. Country outlines Natural Earth, public domain. Pictures each carry
-their own licence. The drawn signs are CC BY-SA 4.0 with the records. Code MIT. See LICENSE.
+their own licence. The drawn signs are CC BY-SA 4.0 with the records. Code MIT. See LICENSE and NOTICE.txt.
 
 COMMERCIAL LICENCE
 If share-alike doesn't fit your use — a corpus, a product, a model — a
