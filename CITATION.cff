@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, cite it as below."
+title: "Amulets, charms and talismans worldwide"
+abstract: "Amulets, charms and talismans worldwide — one JSON record per node, every field carrying where it came from. Equal Earth maps, a deep timeline, the signs drawn."
+type: dataset
+authors:
+  - name: "NaN"
+    website: "https://github.com/NaNoBotCo"
+repository-code: "https://github.com/NaNoBotCo/amulet-atlas"
+url: "https://nanobotco.github.io/amulet-atlas/"
+license:
+  - CC-BY-SA-4.0
+  - MIT
+date-released: "2026-09-18"
