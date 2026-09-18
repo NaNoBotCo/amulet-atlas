@@ -97,12 +97,13 @@ FOR MACHINES
 
 
 LICENCE
-Records CC BY-SA 4.0. Country outlines Natural Earth, public domain. Pictures each carry
-their own licence. The drawn signs are CC BY-SA 4.0 with the records. Code MIT. See LICENSE and NOTICE.txt.
+Records CC BY 4.0. Country outlines Natural Earth, public domain. Pictures each carry
+their own licence. The drawn signs are CC BY 4.0 with the records. Code MIT. See LICENSE and NOTICE.txt.
 
-COMMERCIAL LICENCE
-If share-alike doesn't fit your use — a corpus, a product, a model — a
-commercial licence is available. Open an issue and say what you need:
+USING IT
+Attribution is the whole of the condition — copy it, adapt it, sell it,
+index it, train on it, and say where it came from. Open an issue if
+something is missing:
 https://github.com/NaNoBotCo/amulet-atlas/issues
 
 ---

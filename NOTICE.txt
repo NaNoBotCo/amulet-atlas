@@ -1,6 +1,6 @@
 The records in data/ and the pages built from them are licensed
-Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
-https://creativecommons.org/licenses/by-sa/4.0/
+Creative Commons Attribution 4.0 International (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
 
 Parts of this repository are NOT under that licence, and carry their own:
 
@@ -17,7 +17,7 @@ Parts of this repository are NOT under that licence, and carry their own:
 
   the drawn signs (tools/viz.py GLYPHS, and the figure, house, car and boat on /wear/)
       drawn for this project from published descriptions, not traced from any one
-      object or from anybody else's drawing. They are CC BY-SA 4.0 with the records.
+      object or from anybody else's drawing. They are CC BY 4.0 with the records.
 
 Country outlines in data/geo/world.json: Natural Earth, 1:110m, public domain.
 https://www.naturalearthdata.com/
