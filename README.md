@@ -106,3 +106,7 @@ own licence. The drawn signs are CC BY-SA 4.0 with the records. Code MIT. See [L
 **Commercial licence.** If share-alike doesn't fit your use — a corpus, a
 product, a model — a commercial licence is available.
 [Open an issue](https://github.com/NaNoBotCo/amulet-atlas/issues) and say what you need.
+
+---
+
+Contact: Nan · nan@motdang.net · Sponsor: [Ko-fi](https://ko-fi.com/defiantchiangmai) · [Patreon](https://www.patreon.com/nanobotco)
