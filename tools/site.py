@@ -306,6 +306,7 @@ def page(title: str, body: str, depth: int, desc: str = "", jsonld: list | None 
 <p>Records licensed <a href="{DATA_LICENSE}">CC BY 4.0</a>. Country outlines from <a href="https://www.naturalearthdata.com/">Natural Earth</a>, public domain. Pictures carry their own licences, stated beside each one. Every field says where it came from — and where a tradition asks that something not be published, this atlas prints the ask instead.</p>
 {fleet.row_html("amulet-atlas")}
 {fleet.support_html()}
+{fleet.maker_html()}
 </footer>
 </body>
 </html>

@@ -7,11 +7,17 @@ Maps drawn in Equal Earth from Natural Earth outlines, public domain.
 No trackers, no external requests, no fonts fetched from anywhere.
 
 # — roster of sibling sites, generated from data/fleet.json —
+/* STUDIO */
+Made by Hongdam (https://hongdam.net/), a bilingual web studio in Chiang Rai.
+
 /* ELSEWHERE */
 Everything this publisher holds, counted: https://nanobotco.github.io/index/
 The roster, as JSON: https://nanobotco.github.io/index/fleet.json
 Mot Dang — https://motdang.net/
+The Mae Hong Son Loop — https://nanobotco.github.io/mae-hong-son-loop/
+Muay Thai — https://motdang.net/muay-thai/
 wichaa — https://wichaa.net/
+Hand Poke — https://nanobotco.github.io/hand-poke/
 Carolina Barbecue — https://nanobotco.github.io/carolina-barbecue/
 Wing Country — https://nanobotco.github.io/buffalo-wings/
 Pink Box — https://nanobotco.github.io/pink-box/
