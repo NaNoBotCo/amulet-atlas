@@ -271,7 +271,7 @@ def page(title: str, body: str, depth: int, desc: str = "", jsonld: list | None 
               f'<meta name="twitter:image" content="{E(og_image)}"><meta name="twitter:title" content="{E(title)}">'
               f'<meta name="twitter:description" content="{E(desc[:200])}">')
     return f"""<!doctype html>
-<html lang="en">
+<html lang="en" translate="no" class="notranslate">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -292,6 +292,9 @@ def page(title: str, body: str, depth: int, desc: str = "", jsonld: list | None 
 {extra_head}
 <style>{CSS}{SHARE_CSS}</style>
 {ld}
+<meta name="google" content="notranslate">
+<meta name="robots" content="notranslate">
+<script>if(/[.]translate[.]goog$/.test(location.hostname))location.replace("https://"+location.hostname.slice(0,-15).replace(/--/g,"~").replace(/-/g,".").replace(/~/g,"-")+location.pathname+location.search.replace(/([?&])_x_tr_[^&]*/g,"$1").replace(/[?&]+$/,"").replace(/[?]&+/,"?")+location.hash)</script>
 </head>
 <body>
 <header class="top"><a class="brand" href="{r}index.html">Amulet <b>Atlas</b></a>
