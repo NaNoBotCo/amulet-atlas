@@ -305,7 +305,7 @@ def page(title: str, body: str, depth: int, desc: str = "", jsonld: list | None 
 <div class="bots">For the machines: <a href="{r}api/nodes.json">nodes.json</a> <a href="{r}api/atlas.json">atlas.json</a> <a href="{r}api/timeline.json">timeline.json</a> <a href="{r}api/against.json">against.json</a> <a href="{r}api/kin.json">kin.json</a> <a href="{r}nodes.jsonl">nodes.jsonl</a> <a href="{r}nodes.csv">nodes.csv</a> <a href="{r}llms-full.txt">llms-full.txt</a> <a href="{r}sitemap.xml">sitemap.xml</a> <a href="{r}feed.xml">feed.xml</a> <a href="{r}api/coverage.json">coverage</a> <a href="{r}api/sources.json">sources</a></div>
 <p>Records licensed <a href="{DATA_LICENSE}">CC BY 4.0</a>. Country outlines from <a href="https://www.naturalearthdata.com/">Natural Earth</a>, public domain. Pictures carry their own licences, stated beside each one. Every field says where it came from — and where a tradition asks that something not be published, this atlas prints the ask instead.</p>
 {fleet.row_html("amulet-atlas")}
-{fleet.support_html()}
+{fleet.support_html(self_id="amulet-atlas")}
 {fleet.maker_html()}
 </footer>
 </body>
