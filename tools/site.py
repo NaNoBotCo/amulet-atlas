@@ -71,6 +71,20 @@ def url_of(r: dict) -> str:
     return f"{PATH_OF[r['type']]}/{r['id']}/"
 
 
+# The build tables (timeline, atlas, against, matter, places) name a record by its type —
+# "motif/<id>/" — and the site files it under PATH_OF, from wherever the page sits.
+SEG_PATH = {("word" if k == "term" else k): v for k, v in PATH_OF.items()}
+
+
+def table_href(url: str, depth: int) -> str:
+    seg, _, rest = url.partition("/")
+    return f"{rel(depth)}{SEG_PATH.get(seg, seg)}/{rest}index.html"
+
+
+def time_rows(rows: list, depth: int) -> list:
+    return [dict(r, url=table_href(r["url"], depth)) if r.get("url") else r for r in rows]
+
+
 # Materials with a record of their own. The rest are only counted, on /materials/ (#m-<key>).
 MATERIAL_PAGES = {f.stem for f in (DATA / "nodes" / "material").glob("*.json")}
 
@@ -924,7 +938,7 @@ def front_page(recs: list[dict], by_id: dict, types: dict, atlas: dict, timeline
     if LANG == "th":
         return front_page_th(recs, by_id, types, atlas, timeline, against, cov)
     counts = {row["iso"]: row["n"] for row in atlas["rows"]}
-    links = {row["iso"]: f"#c-{row['iso']}" for row in atlas["rows"]}
+    links = {row["iso"]: f"map/index.html#c-{row['iso']}" for row in atlas["rows"]}
     n_amulet = sum(1 for r in recs if r["type"] == "amulet")
     edges = sum(len(r.get("kin_out", [])) for r in recs)
     oldest = cov["time"].get("earliest_year")
@@ -974,7 +988,7 @@ instead of the thing.</p>
 
     if timeline["rows"]:
         body.append(f'<h2>How long each one has been carried</h2>'
-                    f'<div class="mapwrap">{viz.time_chart(sorted(timeline["rows"], key=lambda r: (r["from_year"] if r["from_year"] is not None else 9999))[:26], 1040)}</div>'
+                    f'<div class="mapwrap">{viz.time_chart(time_rows(sorted(timeline["rows"], key=lambda r: (r["from_year"] if r["from_year"] is not None else 9999))[:26], 0), 1040)}</div>'
                     f'<p class="mute" style="font-size:.9rem">The oldest twenty-six. The axis is not linear and '
                     f'the ticks say so. <a href="time/index.html">All {timeline["count"]} →</a></p>')
 
@@ -1535,7 +1549,7 @@ def main() -> int:
 
     ctx = dict(page=page, recs=recs, by_id=by_id, atlas=atlas, timeline=timeline, against=against,
                matter=matter, places=places, cov=cov, site_url=SITE_URL, E=E, clip=clip,
-               path_of=PATH_OF, dir_of=DIR_OF, year_label=year_label)
+               path_of=PATH_OF, dir_of=DIR_OF, year_label=year_label, href=table_href, time_rows=time_rows)
     built = {
         "map": pages.map_page(**ctx),
         "time": pages.time_page(**ctx),

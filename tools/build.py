@@ -428,7 +428,7 @@ def main() -> int:
         "url": f"{r['type'] if r['type'] != 'term' else 'word'}/{r['id']}/",
     } for r in recs]}, API / "index.json")
     jdump({"built": time.strftime("%Y-%m-%d"), "edges": [dict(k, **{"from": r["id"]}) for r in recs for k in r["kin_out"]]}, API / "kin.json")
-    for a in ("regions", "types", "facets", "against", "materials", "forms", "worn", "museums"):
+    for a in ("regions", "types", "facets", "against", "materials", "forms", "worn", "museums", "quiz"):
         jdump(load_vocab(a), API / "vocab" / f"{a}.json")
     jdump(jload(SOURCES), API / "sources.json")
     jdump(places_table(recs), API / "places.json")

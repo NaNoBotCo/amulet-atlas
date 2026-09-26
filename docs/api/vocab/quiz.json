@@ -1,0 +1,219 @@
+{
+ "note": "Six questions, and the atlas hands you a charm. Scoring is transparent: every answer adds to the tallies named in `adds`, and the result page prints why.",
+ "questions": [
+  {
+   "q": "What are you actually worried about?",
+   "a": [
+    {
+     "t": "Somebody looking at me the wrong way",
+     "adds": {
+      "evil-eye": 3,
+      "envy": 2
+     }
+    },
+    {
+     "t": "A road, a flight, a crossing",
+     "adds": {
+      "travel": 3,
+      "traffic": 2,
+      "drowning": 1
+     }
+    },
+    {
+     "t": "Somebody small",
+     "adds": {
+      "child-harm": 3,
+      "illness": 1
+     }
+    },
+    {
+     "t": "Money, work, a court date",
+     "adds": {
+      "poverty": 2,
+      "lawsuit": 3
+     }
+    },
+    {
+     "t": "Something I can't name",
+     "adds": {
+      "bad-luck": 3,
+      "spirits": 1
+     }
+    }
+   ]
+  },
+  {
+   "q": "Where would you put it?",
+   "a": [
+    {
+     "t": "Round my neck, under the shirt",
+     "adds": {
+      "neck": 3,
+      "chest": 2
+     }
+    },
+    {
+     "t": "On my wrist where I can see it",
+     "adds": {
+      "wrist": 3
+     }
+    },
+    {
+     "t": "In a pocket, nobody's business",
+     "adds": {
+      "pocket": 3,
+      "wallet": 2
+     }
+    },
+    {
+     "t": "Over the front door",
+     "adds": {
+      "door": 3,
+      "lintel": 2
+     }
+    },
+    {
+     "t": "In the car",
+     "adds": {
+      "vehicle": 3,
+      "traffic": 2
+     }
+    }
+   ]
+  },
+  {
+   "q": "What should it be made of?",
+   "a": [
+    {
+     "t": "Stone — something cold and old",
+     "adds": {
+      "carnelian": 2,
+      "jade": 2,
+      "agate": 2
+     }
+    },
+    {
+     "t": "Metal — something that rings",
+     "adds": {
+      "iron": 3,
+      "silver": 2,
+      "coin": 2
+     }
+    },
+    {
+     "t": "Paper, with words on it",
+     "adds": {
+      "paper": 3,
+      "ink": 2,
+      "parchment": 1
+     }
+    },
+    {
+     "t": "Thread. Just thread",
+     "adds": {
+      "thread": 3,
+      "knot": 2
+     }
+    },
+    {
+     "t": "Something that was alive",
+     "adds": {
+      "coral": 2,
+      "cowrie": 2,
+      "tooth": 2,
+      "amber": 2
+     }
+    }
+   ]
+  },
+  {
+   "q": "Who should have made it?",
+   "a": [
+    {
+     "t": "Somebody ordained to",
+     "adds": {
+      "closed": 3
+     }
+    },
+    {
+     "t": "A specialist I paid",
+     "adds": {
+      "limited": 2,
+      "market": 2
+     }
+    },
+    {
+     "t": "My grandmother",
+     "adds": {
+      "inherit": 3
+     }
+    },
+    {
+     "t": "Me",
+     "adds": {
+      "open": 3,
+      "make": 2
+     }
+    }
+   ]
+  },
+  {
+   "q": "Does it need to say anything?",
+   "a": [
+    {
+     "t": "Yes — a name, a verse, a spell",
+     "adds": {
+      "script": 3,
+      "paper": 1
+     }
+    },
+    {
+     "t": "No. A shape is enough",
+     "adds": {
+      "eye": 2,
+      "hand": 2,
+      "horn": 2
+     }
+    },
+    {
+     "t": "It should be a picture of the danger",
+     "adds": {
+      "serpent": 2,
+      "eye": 2
+     }
+    }
+   ]
+  },
+  {
+   "q": "What happens when it wears out?",
+   "a": [
+    {
+     "t": "I burn it and get another",
+     "adds": {
+      "retire": 3,
+      "single-use": 2
+     }
+    },
+    {
+     "t": "I keep it forever",
+     "adds": {
+      "inherit": 3
+     }
+    },
+    {
+     "t": "I bury it",
+     "adds": {
+      "dispose": 3,
+      "grave": 1
+     }
+    },
+    {
+     "t": "I've never thought about it",
+     "adds": {
+      "modern": 2
+     }
+    }
+   ]
+  }
+ ]
+}
