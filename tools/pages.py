@@ -28,11 +28,11 @@ def _url(r, path_of):
 
 # ------------------------------------------------------------------------ map
 
-def map_page(page, recs, atlas, places, cov, site_url, E, clip, path_of, **_) -> str:
+def map_page(page, recs, atlas, places, cov, site_url, E, clip, path_of, href, **_) -> str:
     counts = {row["iso"]: row["n"] for row in atlas["rows"]}
     links = {row["iso"]: f"#c-{row['iso']}" for row in atlas["rows"]}
     pts = [{"lat": p["lat"], "lon": p["lon"], "name": f'{p["name"]} — {p["city"]}',
-            "url": f'../{p["url"]}index.html'} for p in places["places"] if p.get("lat") is not None]
+            "url": href(p["url"], 1)} for p in places["places"] if p.get("lat") is not None]
     # Small multiples by region family: the same world, eight times, so the eye compares
     # shapes instead of trying to hold eight colours apart on one sheet.
     fams = [("Worn at the neck", lambda r: "neck" in ((r.get("object") or {}).get("worn") or [])),
@@ -51,7 +51,7 @@ def map_page(page, recs, atlas, places, cov, site_url, E, clip, path_of, **_) ->
 
     rows = []
     for row in atlas["rows"]:
-        items = " · ".join(f'<a href="../{r["url"]}index.html">{E(r["name"])}</a>' for r in row["records"])
+        items = " · ".join(f'<a href="{href(r["url"], 1)}">{E(r["name"])}</a>' for r in row["records"])
         undrawn = "" if row.get("drawable", True) else ' <span class="chip">not on the sheet</span>'
         rows.append(f'<tr id="c-{E(row["iso"])}"><th>{E(row["name"])} <span class="count">({row["n"]})</span>{undrawn}</th>'
                     f'<td>{items}</td></tr>')
@@ -103,7 +103,7 @@ ERA_COLOUR = {"prehistoric": "#1a4b46", "ancient": "#2b7268", "classical": "#469
               "living": "#b23a2b"}
 
 
-def time_page(page, recs, timeline, by_id, site_url, E, year_label, **_) -> str:
+def time_page(page, recs, timeline, by_id, site_url, E, year_label, time_rows, path_of, **_) -> str:
     rows = sorted(timeline["rows"], key=lambda r: (r["from_year"] if r["from_year"] is not None else 9999))
 
     def colour(r):
@@ -120,7 +120,7 @@ def time_page(page, recs, timeline, by_id, site_url, E, year_label, **_) -> str:
     ended = [r for r in rows if not r["living"] and r["to_year"] is not None]
     undated = timeline.get("undated", [])
     undated_links = " · ".join(
-        f'<a href="../{ {"term": "word"}.get(by_id[i]["type"], by_id[i]["type"]) }/{E(i)}/index.html">{E(by_id[i]["names"]["name"])}</a>'
+        f'<a href="{_url(by_id[i], path_of)}">{E(by_id[i]["names"]["name"])}</a>'
         for i in undated if i in by_id)
 
     body = f"""
@@ -142,7 +142,7 @@ because the written record rises at 1800.</p>
 <p class="mute">A bar with an open circle at its right-hand end is something people still carry.
 A dotted bar is a date somebody reasoned to rather than dug up. Colour is the era the record
 files itself under.</p>
-<div class="mapwrap">{viz.time_chart(rows, 1100, 15.5, 200, colour)}</div>
+<div class="mapwrap">{viz.time_chart(time_rows(rows, 1), 1100, 15.5, 200, colour)}</div>
 <h2>How these dates are known</h2>
 {viz.bars(mrows, 760, " records", 28, 210)}
 <p class="mute">An excavated date and an ethnographer's date are not the same kind of fact, and
@@ -162,7 +162,7 @@ table behind this page is <a href="../api/timeline.json">timeline.json</a>.</p>
 
 # -------------------------------------------------------------------- against
 
-def against_page(page, recs, against, by_id, site_url, E, **_) -> str:
+def against_page(page, recs, against, by_id, site_url, E, href, **_) -> str:
     harms = [h for h in against["harms"] if h["n"]]
     rows = against["rows"]
     regions: dict = {}
@@ -193,7 +193,7 @@ def against_page(page, recs, against, by_id, site_url, E, **_) -> str:
             who = f'<span class="who">said by {E(c["who"])}</span>' if c.get("who") else \
                   '<span class="who">no claimant named in the source</span>'
             q = f'<blockquote>{E(c["quote"])}</blockquote>' if c.get("quote") else ""
-            items.append(f'<li><b><a href="../{c["url"]}index.html">{E(c["name"])}</a></b> '
+            items.append(f'<li><b><a href="{href(c["url"], 1)}">{E(c["name"])}</a></b> '
                          f'{viz.tier_dot(c["tier"])}{who}{q}</li>')
         gloss = f'<p class="mute">{E(h.get("gloss", ""))}</p>' if h.get("gloss") else ""
         blocks.append(f'<h3 id="h-{E(h["key"])}">{E(h["label"])} <span class="count">({h["n"]})</span></h3>'
@@ -224,7 +224,7 @@ knowledge of the practice, or this project's own reasoning. The table behind thi
 
 # ----------------------------------------------------------------------- wear
 
-def wear_page(page, matter, recs, site_url, E, **_) -> str:
+def wear_page(page, matter, recs, site_url, E, href, **_) -> str:
     worn = matter["worn"]
     have = {w["key"]: w["n"] for w in worn}
     groups: dict = {}
@@ -239,7 +239,7 @@ def wear_page(page, matter, recs, site_url, E, **_) -> str:
             continue
         cards = []
         for w in sorted(groups[g], key=lambda x: -x["n"]):
-            items = "".join(f'<li><a href="../{r["url"]}index.html">{E(r["name"])}</a></li>'
+            items = "".join(f'<li><a href="{href(r["url"], 1)}">{E(r["name"])}</a></li>'
                             for r in sorted(w["records"], key=lambda x: x["name"].lower()))
             note = f'<p class="mute" style="font-size:.86rem">{E(w.get("note", ""))}</p>' if w.get("note") else ""
             cards.append(f'<section id="w-{E(w["key"])}"><h3>{E(w["label"])} '
@@ -269,7 +269,7 @@ the house, the car and the boat are drawn for this atlas.</p>
 
 # ------------------------------------------------------------------ materials
 
-def material_page(page, matter, recs, by_id, site_url, E, **_) -> str:
+def material_page(page, matter, recs, by_id, site_url, E, href, **_) -> str:
     mats = matter["materials"]
     kinds: dict = {}
     for m in mats:
@@ -284,7 +284,7 @@ def material_page(page, matter, recs, by_id, site_url, E, **_) -> str:
             continue
         cards = []
         for m in sorted(kinds[k], key=lambda x: -x["n"]):
-            items = "".join(f'<li><a href="../{r["url"]}index.html">{E(r["name"])}</a></li>'
+            items = "".join(f'<li><a href="{href(r["url"], 1)}">{E(r["name"])}</a></li>'
                             for r in sorted(m["records"], key=lambda x: x["name"].lower()))
             page_link = (f'<a href="../material/{E(m["key"])}/index.html">written up →</a>'
                          if any(r["id"] == m["key"] and r["type"] == "material" for r in recs) else "")
