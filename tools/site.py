@@ -71,6 +71,16 @@ def url_of(r: dict) -> str:
     return f"{PATH_OF[r['type']]}/{r['id']}/"
 
 
+# Materials with a record of their own. The rest are only counted, on /materials/ (#m-<key>).
+MATERIAL_PAGES = {f.stem for f in (DATA / "nodes" / "material").glob("*.json")}
+
+
+def material_href(key: str) -> str:
+    """From a record page, two levels down."""
+    return (f"../../material/{key}/index.html" if key in MATERIAL_PAGES
+            else f"../../materials/index.html#m-{key}")
+
+
 def img_src(im: dict, depth: int) -> str:
     return f"{rel(depth)}images/{im['file']}"
 
@@ -472,7 +482,7 @@ def object_block(r: dict) -> str:
         rows.append(("Form", E(r["form_fact"]["label"])))
     if r.get("material_facts"):
         rows.append(("Made of", " · ".join(
-            f'<a href="../../material/{E(m["key"])}/index.html">{E(m["label"])}</a>' for m in r["material_facts"])))
+            f'<a href="{E(material_href(m["key"]))}">{E(m["label"])}</a>' for m in r["material_facts"])))
     if r.get("worn_facts"):
         rows.append(("Goes", " · ".join(f'<a href="../../wear/index.html#w-{E(w["key"])}">{E(w["label"])}</a>'
                                         for w in r["worn_facts"])))
