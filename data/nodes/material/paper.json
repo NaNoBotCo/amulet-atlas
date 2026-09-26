@@ -7,7 +7,8 @@
    "fu",
    "bujeok",
    "tarsh"
-  ]
+  ],
+  "th": "กระดาษ"
  },
  "region": [
   "japan",
@@ -34,6 +35,9 @@
   "story": "Paper made the amulet a print run. In medieval Egypt, block-printed prayers were struck from a die called a tarsh and folded down small enough for a tiny wearable case. The Aga Khan Museum in Toronto holds an Egyptian block-printed amulet of the tenth or eleventh century: minuscule ink script on paper, 7.2 by 5.5 cm, whose final line is a verse of the Qur'an — \"So God will safeguard you from them. He is All-Hearing and All-Knowing\". Such text amulets were housed in lead cases stamped with surat al-Ikhlas, with lugs so the package could be sewn to clothing or hung from the body, and were most likely kept sealed shut — so the buyer never saw the text inside, which is one reason they were affordable.\n\nEast Asia industrialised it differently. Taoist specialists developed fulu, a calligraphy made to act; the Japanese equivalent is the ofuda, made of paper, wood, cloth or metal, with paper ones called kamifuda. The three shrines of Kumano stamped their paper talismans with stylised crows; those sheets were used in oath-taking and contract drafting, with the terms written on the blank side. The Ise talismans, the Jingu Taima, were handed out across the country by wandering shrine officials: a document of 1777 indicates that eighty-nine to ninety per cent of all households in Japan owned one. The distribution was nationalised — an imperial decree of 1871 abolished the oshi who carried them, a new department took over production in 1900, the National Association of Shinto Priests took distribution in 1927, and the Association of Shinto Shrines has it now. In Korea the paper bujeok is carried inside a small brocade bag.\n\nWest African gris-gris were fashioned as small sacks holding Qur'anic scripture written on pieces of paper, with herbs, worn at the neck; the practice moved with the Atlantic slave trade into Louisiana Voodoo and Haitian Vodou.\n\n*Inference —* paper is the reason the amulet record after about 1700 looks so much fuller than the record before it, and it has nothing to do with more people wanting charms. Printing made the charm cheap, and the same fragility that lost every earlier paper charm is still running.",
   "how": "Written, stamped, or block-printed; then folded, rolled, cased, pasted up or carried. A paper charm usually has a term. Japanese ofuda and omamori are renewed at the year's turn and the old one returned to the shrine to be burnt.",
   "today": "Still the world's commonest amulet material by volume, and the one most likely to be bought at a counter. Paper also marks a boundary in Jewish practice: a mezuzah must be handwritten on parchment by a qualified scribe, and a text photocopied onto paper and sold with a case is not a valid mezuzah."
+ },
+ "text_th": {
+  "what": "พื้นผิวราคาถูกที่สุดที่ใช้เขียนเครื่องรางได้ และเป็นพื้นผิวที่ทำให้พิมพ์เครื่องรางได้ เครื่องรางกระดาษถูกออกให้ พับ ผนึกใส่กล่อง แปะที่ประตู กลืนลงไป และเผาเมื่อสิ้นปี ผู้เขียนเรื่องเครื่องรางขีดเส้นแบ่งไว้ตรงนี้: เครื่องรางในความหมายเคร่งครัดมักทำจากวัสดุคงทน คือโลหะหรือหินแข็ง และคำว่า \"ยันต์\" (talisman) มักใช้กับรูปแบบที่คงทนน้อยกว่าและเฉพาะตัวมากกว่าเหล่านี้"
  },
  "dating": {
   "period": "medieval Egypt to the present",

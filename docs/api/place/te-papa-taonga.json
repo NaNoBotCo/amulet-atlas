@@ -11,7 +11,8 @@
    "Taonga Māori at Te Papa",
    "Level 4, Te Papa"
   ],
-  "sort": "Te Papa Mana Whenua"
+  "sort": "Te Papa Mana Whenua",
+  "th": "มานาเฟนูอา ที่พิพิธภัณฑ์เตปาปา"
  },
  "region": [
   "aotearoa",
@@ -31,6 +32,9 @@
   "what": "Te Papa's permanent Māori exhibition, on Level 4 of the Wellington waterfront building. The museum's own description: taonga tuku iho — treasures handed down — \"ranging from weaving, carving, and pounamu pendants, to waka and whare\". A whare is a house; the whare here is Te Hau ki Tūranga, a carved meeting house standing inside the gallery. A waka is a canoe; Teremoe, a waka taua or war canoe from the Whanganui region used in the wars of the mid-1800s, is in the same room. Photography is not allowed. The lighting is deliberately low.",
   "story": "These are not curios, and the museum does not frame them as any. Its collections page states the principle it works under: \"Mana Taonga is a recognition of the power of taonga to communicate deep truths about our people.\" It counts more than 30,000 taonga registered in the Taonga Māori collection, from ancestral carvings, personal ornaments, garments and weaponry through to flaked stone, bird bone and shell from excavations, and it says the Mana Taonga principle guides its approach to access and research, aiming at \"the reconnection of people to their tribal taonga\".\n\nThe hei-tiki make the point about how objects travel. Te Papa holds over 200 of them, the largest single group anywhere; the British Museum has about fifty. Some were exchanged or given to European travellers and sailors at the earliest point of contact, and, in the encyclopedia's flat phrasing, \"the majority were stolen or improperly obtained through colonial processes\". The stone itself is now legally Māori: in 1997 the Crown handed ownership of all naturally occurring pounamu back to the South Island iwi Ngāi Tahu as part of their Claims Settlement. Pounamu is nephrite jade and bowenite, found only in the South Island, and Māori classify it by colour — kahurangi, īnanga, kawakawa, tangiwai.\n\nThe whare at the centre of the gallery is the clearest case in the building. Te Hau ki Tūranga is a nineteenth-century Rongowhakaata carved meeting house, confiscated by the Crown in 1867 and later held by Te Papa; ownership was returned to Rongowhakaata through the iwi's Treaty settlement, and the house stayed in the museum while the iwi-in-residence exhibition Ko Rongowhakaata: Ruku i te Pō, Ruku i te Ao ran from September 2017 to February 2022. The museum kept the object and gave back the title.\n\nTe Papa also does the asking. Karanga Aotearoa is, in the museum's own words, \"the government mandated authority that negotiates the repatriation of Māori and Moriori ancestral remains on behalf of Māori and Moriori\"; Cabinet agreed in May 2003 that Te Papa should act for the government in returning kōiwi and kōimi tangata — ancestral skeletal remains — and toi moko, preserved tattooed heads held in institutions abroad. Between 1 July 2003 and 1 May 2024 it repatriated 850 Māori and Moriori ancestral remains from overseas institutions, from Australia, Austria, Canada, France, Germany, Sweden, the United Kingdom, the United States and elsewhere, and returned 76 to iwi within New Zealand. A Repatriation Advisory Panel oversees it, and iwi representatives set the place, the time and the details of each return.\n\nFrom 29 August 2026 the carving argument is on show at scale. He Toi Whakairo: The Art of Māori Carving, running to August 2031 inside Mana Whenua on Level 4, puts more than 140 whakairo — carvings — from seven centuries in one place, many never exhibited before, under the whakataukī he toi whakairo, he mana tangata: the art of carving is the dignity of people.",
   "today": "Open every day, 10am to 6pm, except Christmas Day. Entry is free for New Zealanders and people living in New Zealand and NZ$35 for international visitors aged 16 and over, as published on 17 September 2026; some exhibitions and experiences are ticketed on top. Mana Whenua is free with museum entry, is listed as wheelchair accessible, has variable lighting, and carries a no-photography rule. This project has not stood on Level 4."
+ },
+ "text_th": {
+  "what": "นิทรรศการถาวรเรื่องชาวเมารีของเตปาปา (Te Papa) อยู่ที่ชั้น 4 ของอาคารริมท่าเรือเวลลิงตัน คำอธิบายของพิพิธภัณฑ์เอง: ตองกา ตูกู อิโฮ (taonga tuku iho) — สมบัติที่ส่งต่อกันมา — \"ตั้งแต่งานทอ งานแกะสลัก และจี้โปวนามู ไปจนถึงวากาและฟาเร\" ฟาเร (whare) คือบ้าน ฟาเรในที่นี้คือเตเฮาคีตูรังกา (Te Hau ki Tūranga) หอประชุมแกะสลักที่ตั้งอยู่ภายในห้องจัดแสดง วากา (waka) คือเรือแคนู เตเรโมเอ (Teremoe) เรือวากาเตาอาหรือเรือแคนูรบจากภูมิภาคฟางกานุย (Whanganui) ที่ใช้ในสงครามช่วงกลางคริสต์ศตวรรษที่ 19 อยู่ในห้องเดียวกัน ห้ามถ่ายภาพ แสงไฟจงใจให้สลัว"
  },
  "dating": {
   "period": "museum from 1992; taonga from seven centuries",
@@ -261,70 +265,90 @@
    "type": "org",
    "name": "Museum of New Zealand Te Papa Tongarewa",
    "as": "the museum this gallery is the heart of, and the one that asks other institutions worldwide for ancestral remains back",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์นิวซีแลนด์ เตปาปาตองกาเรวา",
+   "as_th": ""
   },
   {
    "to": "hei-tiki",
    "type": "amulet",
    "name": "Hei-tiki",
    "as": "the pounamu neck pendant held here in the largest number anywhere, over 200 of them",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เฮย์ติกิ (จี้หยกเมารี)",
+   "as_th": ""
   },
   {
    "to": "hei-matau",
    "type": "amulet",
    "name": "Hei matau",
    "as": "the hook pendant of the same stone and the same collection",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เฮย์ มาเตา (จี้ตะขอเบ็ดเมารี)",
+   "as_th": ""
   },
   {
    "to": "maori-taonga",
    "type": "tradition",
    "name": "Taonga Māori",
    "as": "the tradition whose own terms — taonga tuku iho, mana taonga, kaitiaki — this gallery is written in",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ตาองกาเมารี",
+   "as_th": ""
   },
   {
    "to": "jade",
    "type": "material",
    "name": "Jade",
    "as": "the stone, called pounamu here, whose naturally occurring supply the Crown returned to Ngāi Tahu in 1997",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "หยก",
+   "as_th": ""
   },
   {
    "to": "inheriting",
    "type": "practice",
    "name": "Inheriting",
    "as": "the practice the word taonga tuku iho names: a treasure handed down, not a thing acquired",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การสืบทอดเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "quai-branly",
    "type": "org",
    "name": "Musée du quai Branly — Jacques Chirac",
    "as": "the Paris museum this one asked for Māori remains and got them back from in January 2012",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "พิพิธภัณฑ์เก บรันลี – ฌัก ชีรัก",
+   "as_th": ""
   },
   {
    "to": "british-museum-room-1",
    "type": "place",
    "name": "Room 1: Enlightenment, the British Museum",
    "as": "the other side of the same argument: a London room that keeps what it holds, where this one gave a meeting house's title back",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ห้อง 1: ยุคเรืองปัญญา พิพิธภัณฑ์บริติช",
+   "as_th": ""
   },
   {
    "to": "what-this-atlas-does-not-print",
    "type": "story",
    "name": "What this atlas does not print",
    "as": "the long read on restriction; the no-photography rule on Level 4 is one of its worked examples",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สิ่งที่แอตลาสนี้ไม่ตีพิมพ์",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read on ownership, argued from the claimant's side — 850 ancestors returned since 2003",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -524,35 +548,45 @@
    "type": "amulet",
    "name": "Hei-tiki",
    "as": "the room a reader can stand in and see them",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "เฮย์ติกิ (จี้หยกเมารี)",
+   "as_th": ""
   },
   {
    "from": "jade",
    "type": "material",
    "name": "Jade",
    "as": "where pounamu taonga are held and shown in the country they come from",
-   "rel": "held-at"
+   "rel": "held-at",
+   "name_th": "หยก",
+   "as_th": ""
   },
   {
    "from": "tooth",
    "type": "material",
    "name": "Tooth, tusk and claw",
    "as": "where a tabua can be seen outside Fiji, in a museum that publishes what it holds",
-   "rel": "held-at"
+   "rel": "held-at",
+   "name_th": "ฟัน งา และกรงเล็บ",
+   "as_th": ""
   },
   {
    "from": "inheriting",
    "type": "practice",
    "name": "Inheriting",
    "as": "where inherited taonga sit when a museum holds them instead of a family",
-   "rel": "held-at"
+   "rel": "held-at",
+   "name_th": "การสืบทอดเครื่องราง",
+   "as_th": ""
   },
   {
    "from": "te-papa",
    "type": "org",
    "name": "Museum of New Zealand Te Papa Tongarewa",
    "as": "the taonga display inside it, which is where a reader meets this collection",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "พิพิธภัณฑ์นิวซีแลนด์ เตปาปาตองกาเรวา",
+   "as_th": ""
   }
  ]
 }

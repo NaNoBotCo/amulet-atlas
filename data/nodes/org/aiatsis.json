@@ -4,16 +4,30 @@
  "type": "org",
  "names": {
   "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
-  "aliases": ["AIATSIS", "Australian Institute of Aboriginal Studies", "AIAS"],
-  "sort": "AIATSIS"
+  "aliases": [
+   "AIATSIS",
+   "Australian Institute of Aboriginal Studies",
+   "AIAS"
+  ],
+  "sort": "AIATSIS",
+  "th": "สถาบันการศึกษาชาวอะบอริจินและชาวเกาะช่องแคบทอร์เรสแห่งออสเตรเลีย (AIATSIS)"
  },
- "region": ["australia"],
- "countries": ["AU"],
- "facets": {"kind": "archive"},
+ "region": [
+  "australia"
+ ],
+ "countries": [
+  "AU"
+ ],
+ "facets": {
+  "kind": "archive"
+ },
  "text": {
   "what": "Australian Government statutory authority in Canberra, founded in 1964 as the Australian Institute of Aboriginal Studies and renamed under the AIATSIS Act 1989. It collects, publishes and researches, and it holds over a million cultural items — roughly 42,000 hours of audio, around 700,000 photographs and about six million feet of film. Part of that collection is secret or sacred, and AIATSIS publishes the rules for handling it. Those rules are why this atlas leaves Australia largely blank.",
   "story": "The founding purpose was salvage, in the vocabulary of its time: to record language, song, art, material culture, ceremonial life and social structure before those traditions perished in the face of European ways. No Aboriginal people attended the 1961 conference that planned the institute. Before 1970 there had never been an Aboriginal or Torres Strait Islander member on its council. The 1989 Act changed the arithmetic: a council of nine, of whom the Act requires that at least five be Aboriginal or Torres Strait Islander, with one of the Minister's appointees a Torres Strait Islander.\n\nThe collection was built by donation, gift, purchase and fieldwork, and also by deposit — an arrangement that permits the original owners to assign access and use conditions appropriate to the cultural information in the items. That clause is the hinge. It means an item can sit in a national collection and still be governed by the people it came from.\n\nThe handling rules follow from it. AIATSIS holds material that is sensitive and/or secret/sacred to Aboriginal and Torres Strait Islander peoples, and under its founding Act adheres to strict protocols when processing it. Restricted visual media are stored separately from the rest of the collection. Audio and moving-image items are not played until cultural requirements have been checked. Restricted material is digitised in secured conditions such as enclosed booths, by staff who can meet the protocols of the item being digitised. The institute also supports the protocols of the Aboriginal and Torres Strait Islander Library, Information and Resource Network.\n\nOn the research side, AIATSIS published the Guidelines for Ethical Research in Australian Indigenous Studies in 1999, updated them in 2012, and replaced them in 2020 with the AIATSIS Code of Ethics for Aboriginal and Torres Strait Islander Research. The Code rests on four principles: Indigenous self-determination, Indigenous leadership, impact and value, and sustainability and accountability.",
   "today": "A new precinct, Ngurra, is planned on the shore of Lake Burley Griffin at a stated A$316.5 million, to include a resting place for ancestral remains of Aboriginal and Torres Strait Islander people that cannot be returned to Country. AIATSIS Central Australia opened in Alice Springs / Mparntwe on 2 February 2024. The institute's Australian Indigenous Language Collection is registered in UNESCO's Memory of the World programme — a different UNESCO instrument from the intangible-heritage lists."
+ },
+ "text_th": {
+  "what": "หน่วยงานตามกฎหมายของรัฐบาลออสเตรเลียในกรุงแคนเบอร์รา ก่อตั้งในปี ค.ศ. 1964 ในชื่อสถาบันการศึกษาชาวอะบอริจินแห่งออสเตรเลีย (Australian Institute of Aboriginal Studies) และเปลี่ยนชื่อตามพระราชบัญญัติ AIATSIS ปี ค.ศ. 1989 สถาบันนี้รวบรวม เผยแพร่ และทำวิจัย และมีวัตถุทางวัฒนธรรมกว่าหนึ่งล้านรายการ — เสียงบันทึกราว 42,000 ชั่วโมง ภาพถ่ายราว 700,000 ภาพ และฟิล์มภาพยนตร์ราวหกล้านฟุต ส่วนหนึ่งของคอลเลกชันเป็นของลับหรือของศักดิ์สิทธิ์ และ AIATSIS เผยแพร่กฎสำหรับการจัดการของเหล่านั้น กฎเหล่านี้คือเหตุที่แอตลาสนี้ปล่อยออสเตรเลียว่างไว้เกือบทั้งหมด"
  },
  "restricted": {
   "note": "AIATSIS holds material that is secret or sacred to Aboriginal and Torres Strait Islander peoples and restricts access to it: restricted visual media are stored apart from the rest of the collection, audio and moving-image items are not played until cultural requirements are checked, and depositors may set access and use conditions on what they deposit. This atlas prints those conditions and stops. It does not reconstruct restricted Australian designs, objects or rites from other sources, and does not fill the gap with a neighbouring tradition's practice.",
@@ -31,30 +45,92 @@
   "tier": "cited",
   "source": "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies"
  },
- "geo": {"lat": -35.2930, "lon": 149.1206, "precision": "street", "source": "hand-placed on Acton Peninsula, Canberra, from the stated location"},
- "address": {"street": "Acton Peninsula", "city": "Canberra", "admin": "ACT", "country": "AU"},
+ "geo": {
+  "lat": -35.293,
+  "lon": 149.1206,
+  "precision": "street",
+  "source": "hand-placed on Acton Peninsula, Canberra, from the stated location"
+ },
+ "address": {
+  "street": "Acton Peninsula",
+  "city": "Canberra",
+  "admin": "ACT",
+  "country": "AU"
+ },
  "tags": [
-  {"tag": "photography-limits", "source": "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies", "tier": "cited", "note": "restricted visual media are stored separately and digitised only under protocol, in secured conditions"}
+  {
+   "tag": "photography-limits",
+   "source": "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies",
+   "tier": "cited",
+   "note": "restricted visual media are stored separately and digitised only under protocol, in secured conditions"
+  }
  ],
  "kin": [
-  {"to": "what-this-atlas-does-not-print", "as": "the long read this record is the citation behind — the reason Australia is mostly blank on this map is published policy, not an oversight", "rel": "story"},
-  {"to": "who-owns-a-charm", "as": "the long read on ownership; the deposit clause here is the clearest model of a collection held under somebody else's conditions", "rel": "story"},
-  {"to": "te-papa", "as": "the other national institution in this atlas that works to the terms of the people whose material it holds", "rel": "parallel"},
-  {"to": "nagpra", "as": "the American statute doing part of the same work by law rather than by protocol, and covering only remains and named categories of object", "rel": "contrast"},
-  {"to": "pitt-rivers-museum", "as": "the Oxford museum that returned the remains of 17 Aboriginal Australians to the Australian government in 2022", "rel": "contrast"},
-  {"to": "wikimedia-commons", "as": "the opposite arrangement: a repository whose whole premise is that anyone may reuse anything in it", "rel": "contrast"},
-  {"to": "unesco-ich", "as": "the UNESCO instrument this institute is often assumed to work under; its language collection is on a different UNESCO register", "rel": "contrast"}
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the long read this record is the citation behind — the reason Australia is mostly blank on this map is published policy, not an oversight",
+   "rel": "story"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read on ownership; the deposit clause here is the clearest model of a collection held under somebody else's conditions",
+   "rel": "story"
+  },
+  {
+   "to": "te-papa",
+   "as": "the other national institution in this atlas that works to the terms of the people whose material it holds",
+   "rel": "parallel"
+  },
+  {
+   "to": "nagpra",
+   "as": "the American statute doing part of the same work by law rather than by protocol, and covering only remains and named categories of object",
+   "rel": "contrast"
+  },
+  {
+   "to": "pitt-rivers-museum",
+   "as": "the Oxford museum that returned the remains of 17 Aboriginal Australians to the Australian government in 2022",
+   "rel": "contrast"
+  },
+  {
+   "to": "wikimedia-commons",
+   "as": "the opposite arrangement: a repository whose whole premise is that anyone may reuse anything in it",
+   "rel": "contrast"
+  },
+  {
+   "to": "unesco-ich",
+   "as": "the UNESCO instrument this institute is often assumed to work under; its language collection is on a different UNESCO register",
+   "rel": "contrast"
+  }
  ],
  "links": [
-  {"label": "AIATSIS — Wikipedia", "url": "https://en.wikipedia.org/wiki/Australian_Institute_of_Aboriginal_and_Torres_Strait_Islander_Studies"},
-  {"label": "AIATSIS", "url": "https://aiatsis.gov.au/"}
+  {
+   "label": "AIATSIS — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Australian_Institute_of_Aboriginal_and_Torres_Strait_Islander_Studies"
+  },
+  {
+   "label": "AIATSIS",
+   "url": "https://aiatsis.gov.au/"
+  }
  ],
- "sources": ["s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies", "s:wp-pitt-rivers-museum"],
+ "sources": [
+  "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies",
+  "s:wp-pitt-rivers-museum"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies"
+  },
   "fields": {
-   "restricted": {"tier": "cited", "source": "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies", "note": "the protocols are summarised from the institute's published practice as reported; the Code of Ethics itself was not read on aiatsis.gov.au by this project"},
-   "geo": {"tier": "inference", "note": "geocoded by hand to Acton Peninsula; no published coordinate was read"}
+   "restricted": {
+    "tier": "cited",
+    "source": "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies",
+    "note": "the protocols are summarised from the institute's published practice as reported; the Code of Ethics itself was not read on aiatsis.gov.au by this project"
+   },
+   "geo": {
+    "tier": "inference",
+    "note": "geocoded by hand to Acton Peninsula; no published coordinate was read"
+   }
   }
  },
  "images": [],

@@ -16,7 +16,8 @@
    "Carlin",
    "Caseg Fedi",
    "vetula"
-  ]
+  ],
+  "th": "ตุ๊กตาฟางข้าว (คอร์นดอลลี)"
  },
  "etymology": {
   "root": "English corn in its British sense of grain in general — in American English this would be a grain dolly — plus dolly, a small figure. The Latin vetula, 'little old woman', is the name used for the same object among the Germanic pagans of seventh-century Flanders.",
@@ -56,6 +57,9 @@
   "story": "The explanation usually given for it is a scholars' explanation, and it is worth saying so first. Writers of the eighteenth and nineteenth centuries theorised that before Christianisation the spirit of the corn was held to live among the crop, and that the harvest made it homeless; the last sheaf, plaited into a shape, gave it somewhere to spend the winter until it was ploughed into the first furrow of the new season. James Frazer gave four chapters of The Golden Bough to the Corn-Mother and the Corn-Maiden in northern Europe, drawing on the enormous body of European folklore that Wilhelm Mannhardt had collected.\n\nWhat Frazer's informants actually described is more concrete. Near Danzig, whoever cut the last ears made them into a doll called the Corn-mother or the Old Woman and it came home on the last waggon. In parts of Holstein the last sheaf was dressed in women's clothes, called the Corn-mother, carried home and then thoroughly drenched with water — a rain-charm, Frazer says. In the district of Bruck in Styria the Corn-mother was made by the oldest married woman in the village, a woman of fifty to fifty-five; the finest ears were plucked out and twisted into a wreath, which the prettiest girl in the village carried on her head to the squire, while the Corn-mother herself was laid down in the barn to keep off the mice. In East Prussia the reapers called out to the woman binding the last sheaf that she was getting the Old Grandmother. In Scotland, when the last corn was cut after Hallowmas, the figure made from it was sometimes the Carlin, the old woman.\n\nThe oldest dated mention is a prohibition. In seventh-century Flanders, Saint Eligius told his congregation not to make vetulas — little figures of the Old Woman — nor little deer nor iotticos, nor set tables at night, nor exchange New Year gifts.\n\nMechanised harvesting effectively ended the craft at the beginning of the twentieth century. It came back in Britain in the 1950s and 1960s as a craft revival: farm workers made new things, including replicas of farm implements, windmills and large figures, new shapes and new techniques appeared, and several books came out in the 1960s and 1970s. The source is blunt about what that revival did: the simple origins of the craft had been lost, and new folklore stories were added to the original ideas. Anyone reading a modern account of what a particular corn dolly means is reading something from that period unless it is sourced to Mannhardt or earlier.\n\nThe old long-stemmed, hollow-stemmed wheats the work needs were replaced by short pithy varieties bred for the combine. A number of English and Scottish farmers still grow the old sorts — Maris Wigeon, Squarehead Master, Elite Le Peuple — mainly because thatchers want them.",
   "how": "Cut from the last sheaf standing, at the end of harvest, by a person the local custom names — the one who cuts the last ears, the woman who binds the last sheaf, the oldest married woman in the village. Plaited hollow, or tied with yarn, or dressed as a figure. Carried home on the last waggon, set at the centre of the harvest supper, hung in the house or laid in the barn, and kept over winter. Then it goes back into the ground: ploughed into the first furrow of the new season.",
   "today": "Made as a craft rather than as a harvest rite, and the Heritage Crafts Association lists corn dolly making as endangered. The Pitt Rivers Museum in Oxford, the Museum of English Rural Life in Reading and the Ryedale Folk Museum in Yorkshire hold collections of them from around the world."
+ },
+ "text_th": {
+  "what": "รูปทรงกลวงที่ถักจากฟ่อนข้าวฟ่อนสุดท้ายของการเก็บเกี่ยว: เป็นรูปคน ปม โคม มงกุฎ พัด หรือเกือกม้า ของบริเตนทำจากข้าวสาลี ข้าวโอ๊ต ข้าวไรย์ หรือข้าวบาร์เลย์ ของไอร์แลนด์ทำจากต้นกก ทางตอนใต้ของฝรั่งเศสทำจากใบปาล์ม ในสแกนดิเนเวียและประเทศที่พูดภาษาเยอรมัน ฟางจะมัดด้วยด้ายหรือเชือกราฟเฟียแทนการถัก บางชิ้นเป็นฟ่อนข้าวทั้งฟ่อนที่แต่งตัวเป็นผู้หญิง แล้วบรรทุกกลับบ้านไปบนเกวียนเล่มสุดท้าย"
  },
  "dating": {
   "period": "Early medieval to the present",
@@ -233,63 +237,81 @@
    "type": "amulet",
    "name": "Brigid's cross",
    "as": "the other straw weave of these islands, and the one made on a fixed feast day rather than at the end of a harvest — the National Museum of Ireland files harvest crosses with it",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กางเขนนักบุญบริจิด",
+   "as_th": ""
   },
   {
    "to": "knotting",
    "type": "practice",
    "name": "Knotting",
    "as": "the making itself: the countryman's favour is three straws plaited and tied into a loose knot shaped like a heart",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การผูกปม",
+   "as_th": ""
   },
   {
    "to": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "the rhythm it runs on — one made each harvest, last year's gone into the furrow",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   },
   {
    "to": "burying",
    "type": "practice",
    "name": "Burying",
    "as": "how it is retired: ploughed into the first furrow of the new season, which is the only disposal the tradition names",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การฝัง",
+   "as_th": ""
   },
   {
    "to": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "the tradition it belongs to, and its clearest case of an object made from the thing it is meant to protect",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "to": "horseshoe",
    "type": "amulet",
    "name": "Horseshoe",
    "as": "a shape it is plaited into — the Suffolk Horseshoe is a corn dolly, not a piece of iron",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เกือกม้า",
+   "as_th": ""
   },
   {
    "to": "pitt-rivers-charms",
    "type": "place",
    "name": "The amulet and charm cases, Pitt Rivers Museum",
    "as": "where a tray of them can be seen, alongside the rowan loops and the holed stones",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตู้เครื่องรางและของขลัง พิพิธภัณฑ์พิตต์ริเวอร์ส",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read the 1950s revival belongs in: new folklore attached to an old craft, and the source saying so outright",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "dating-a-charm",
    "type": "story",
    "name": "Dating a charm",
    "as": "the long read about evidence, which this object tests — straw rots, so almost everything known about it comes from what people said, not from what survived",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การระบุอายุเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -474,28 +496,36 @@
    "type": "amulet",
    "name": "Brigid's cross",
    "as": "the other straw weave of these islands: the same hands, the other end of the year, and the harvest knots of County Armagh use the same lozenge",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กางเขนนักบุญบริจิด",
+   "as_th": ""
   },
   {
    "from": "martenitsa",
    "type": "amulet",
    "name": "Martenitsa",
    "as": "the European neighbour: a figure made of a plant, worn or kept for a season, then given back to the field",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "มาร์เตนิตซา",
+   "as_th": ""
   },
   {
    "from": "teru-teru-bozu",
    "type": "amulet",
    "name": "Teru teru bōzu",
    "as": "the other figure twisted out of cheap material for the weather and the harvest, and then destroyed on purpose",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เทรุเทรุโบซุ (ตุ๊กตาไล่ฝน)",
+   "as_th": ""
   },
   {
    "from": "knot",
    "type": "motif",
    "name": "The knot",
    "as": "the other European straw-work, made from the last sheaf rather than for a saint's day",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ปม",
+   "as_th": ""
   }
  ]
 }

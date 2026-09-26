@@ -8,7 +8,8 @@
    "lucky rabbit's foot",
    "graveyard rabbit's foot",
    "left hind foot"
-  ]
+  ],
+  "th": "ตีนกระต่ายนำโชค"
  },
  "region": [
   "north-america",
@@ -34,6 +35,9 @@
   "story": "This charm is usually filed under European luck, beside the clover and the horseshoe, and its American history says otherwise. The conditions attached to it in North America are conditions about a graveyard. The foot must be the left hind foot of a rabbit shot or otherwise taken in a cemetery. Some accounts require a full moon, others a new moon; some a Friday, a rainy Friday, or Friday the thirteenth; some a silver bullet; some that the foot be cut off while the rabbit is still alive. Folklorists read the use of graveyard dust as a symbolic appropriation of the parts of a corpse as a relic, and as sympathetic magic.\n\nThe folklorist Newbell Niles Puckett recorded the reasoning about whose grave: \"the more wicked the person who is dead, the more effective the charm associated with his remains.\" Puckett noted that during Grover Cleveland's 1884 election campaign the candidate was said to have been sent the foot of a rabbit killed on the grave of the outlaw Jesse James. Puckett also documented an African American cook in the Mississippi Delta whose mojo bag held \"a lizard's tail, rabbit's foot, a fish eye, snake skins, a beetle, and a dime with a hole in it\", worn for good luck — the rabbit's foot as one ingredient in a Hoodoo working rather than as a standalone token.\n\nThe folk song record says the same thing plainly. \"There'll Be a Hot Time in the Old Town Tonight\", once popular in minstrel shows, runs: \"And you've got a rabbit's foot To keep away de hoo-doo\". The foot turns up in blues lyrics as well. A 1905 anecdote has Booker T. Washington and Baron Ladislaus Hengelmuller, the Austrian ambassador, confusing their overcoats at the White House while both waiting to speak to Roosevelt; the ambassador realised the coat was not his when he reached for his gloves and found instead \"the left hind foot of a graveyard rabbit, killed in the dark of the moon.\"\n\nOther accounts pull in other directions. Benjamin Radford has suggested the charm may be connected to the Hand of Glory, a European charm made from the hand of a hanged man and pickled. The belief in a lucky rabbit's foot is reported from Europe, Africa, Australia and both American continents, with the same pattern everywhere: the rabbit must have been killed in a particular place, or by a particular method, or by a person with a particular attribute — in one version, by a cross-eyed man. A related British and American ritual is to say \"rabbit rabbit rabbit\" on waking on the first day of a month, for luck through the rest of it.",
   "how": "Taken from the animal under the conditions the tradition names — place, day, moon, method — then dried and carried in a pocket, or mounted in metal and hung. The strictures are described by the source as now mostly observed in the breach. Nothing is said over it and nothing retires it.",
   "today": "Sold dyed in bright colours on keychains, and carried by people who have never heard of a graveyard rabbit. *Inference —* what the mass-market version keeps is the object and what it drops is every condition that made it one, which is the same story this atlas tells about the horseshoe bought new. The Hoodoo lineage is the part most often left out, and it is the part the nineteenth- and early twentieth-century record documents best."
+ },
+ "text_th": {
+  "what": "ตีนหลังของกระต่าย ตากแห้ง พกไว้ในกระเป๋า แบบหรูหุ้มปลายด้วยโลหะและห้อยกับสร้อย ธีโอดอร์ โรสเวลต์ (Theodore Roosevelt) เขียนไว้ในอัตชีวประวัติว่า นักมวยจอห์น แอล. ซัลลิแวน (John L. Sullivan) ให้ตีนกระต่ายเลี่ยมทองแก่เขาหนึ่งอัน แบบที่เคร่งที่สุดกำหนดชัดว่าต้องเป็นตีนไหน คือตีนหลังข้างซ้าย"
  },
  "dating": {
   "period": "Nineteenth century to the present",
@@ -214,70 +218,90 @@
    "type": "amulet",
    "name": "Gris-gris",
    "as": "the African American charm tradition this object's American history runs through, and the frame the graveyard conditions make sense in",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "กรีกรี (ถุงเครื่องรางแอฟริกาตะวันตก)",
+   "as_th": ""
   },
   {
    "to": "mojo-word",
    "type": "term",
    "name": "mojo",
    "as": "the word for the bag Puckett found it inside, worn by a cook in the Mississippi Delta",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "โมโจ",
+   "as_th": ""
   },
   {
    "to": "tooth-and-claw",
    "type": "motif",
    "name": "The tooth and the claw",
    "as": "the sign family it belongs to: a piece of an animal, carried for what the animal was",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เขี้ยวเล็บ",
+   "as_th": ""
   },
   {
    "to": "bone-ivory",
    "type": "material",
    "name": "Bone and ivory",
    "as": "what is left after drying, and the reason these survive in collections at all",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "กระดูกและงา",
+   "as_th": ""
   },
   {
    "to": "four-leaf-clover",
    "type": "amulet",
    "name": "Four-leaf clover",
    "as": "the charm it is usually sold beside, and the other one whose original condition the market has quietly dropped",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ใบโคลเวอร์สี่แฉก",
+   "as_th": ""
   },
   {
    "to": "horseshoe",
    "type": "amulet",
    "name": "Horseshoe",
    "as": "the two objects Theodore Roosevelt was given — this from John L. Sullivan, and a penholder Bob Fitzsimmons made out of a shoe",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เกือกม้า",
+   "as_th": ""
   },
   {
    "to": "luck-word",
    "type": "term",
    "name": "luck",
    "as": "the single word that now covers everything this charm was once specific about",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ลัก (luck, โชค)",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read it belongs in: a Black folk-magic object sold as generic American luck, with the lineage left off the packet",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "game-day-charm",
    "type": "amulet",
    "name": "Game-day charm",
    "as": "where a great many of them ended up, in a pocket on the day of a match",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ของนำโชควันแข่ง",
+   "as_th": ""
   },
   {
    "to": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "the tradition it gets shelved under, which this record's sources do not support for its American form",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -443,49 +467,63 @@
    "type": "amulet",
    "name": "Four-leaf clover",
    "as": "the other charm that must be taken under conditions nobody observes any more, and the other one a factory now supplies",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ใบโคลเวอร์สี่แฉก",
+   "as_th": ""
   },
   {
    "from": "game-day-charm",
    "type": "amulet",
    "name": "Game-day charm",
    "as": "the charm on Stouffer's list of what American soldiers carried in the Second World War, which Gmelch cites as the same behaviour under worse stakes",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ของนำโชควันแข่ง",
+   "as_th": ""
   },
   {
    "from": "horseshoe",
    "type": "amulet",
    "name": "Horseshoe",
    "as": "the two objects Theodore Roosevelt was given: a gold-mounted rabbit's foot from John L. Sullivan, and a penholder Bob Fitzsimmons made out of a horseshoe",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เกือกม้า",
+   "as_th": ""
   },
   {
    "from": "tooth-and-claw",
    "type": "motif",
    "name": "The tooth and the claw",
    "as": "the same logic reduced to a keyring, and the one everybody in the anglophone world has seen",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เขี้ยวเล็บ",
+   "as_th": ""
   },
   {
    "from": "bone-ivory",
    "type": "material",
    "name": "Bone and ivory",
    "as": "the same logic at the cheap end: a part of an animal, kept because it was part of an animal",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กระดูกและงา",
+   "as_th": "ตรรกะเดียวกันในระดับราคาถูก คือชิ้นส่วนของสัตว์ ที่เก็บไว้เพราะมันเป็นชิ้นส่วนของสัตว์"
   },
   {
    "from": "wellcome-lovett",
    "type": "place",
    "name": "The Lovett charms at Wellcome Collection",
    "as": "the pocket animal part of the same English habit as the mole's foot Wellcome bought in 1930",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางของโลเวตต์ที่เวลคัมคอลเลกชัน",
+   "as_th": ""
   },
   {
    "from": "luck-word",
    "type": "term",
    "name": "luck",
    "as": "the other one, and the one that shows how little the word cares where an object came from",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ลัก (luck, โชค)",
+   "as_th": ""
   }
  ]
 }

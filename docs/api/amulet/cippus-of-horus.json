@@ -11,7 +11,8 @@
    "Horus on the Crocodiles",
    "Horus stela",
    "Horus cippus"
-  ]
+  ],
+  "th": "ซิปปัสแห่งฮอรัส (ศิลาฮอรัส)"
  },
  "etymology": {
   "root": "Latin cippus, a small pillar or boundary stone — an archaeologist's borrowing, not an Egyptian word for the object.",
@@ -40,6 +41,9 @@
   "story": "This is an amulet you drink. The instruction is on the object: water is poured over the carved spells and the carved figures, collected at the base, and given to the person who has been bitten or stung, to swallow or to wash the wound with. The words come off the stone into the water. Priests recited alongside.\n\nThe Metternich Stela is the fullest of them. It dates to about 380–342 BCE, the Thirtieth Dynasty, under Nectanebo II, and it carries thirteen spells against venomous bites and wounds and against the illnesses they cause — including the story of Isis and the Seven Scorpions, which is among the most complete versions found on any monument. The logic is precedent: Horus as a child was stung in the marshes at Khemmis and was cured, and the spell puts the patient in the child's place.\n\nIt disappeared for two thousand years and turned up in a wall excavated in a Franciscan monastery. Muhammad Ali Pasha gave it to Prince Metternich in 1828; it sat at Kynžvart Castle in Bohemia until 1950, when the Metropolitan Museum of Art acquired it.\n\nThe class runs from the Third Intermediate Period to the end of Ptolemaic rule in Egypt. Not all of them are museum monuments — some are amulet-sized, and the same image of Horus on the crocodiles is carried. The Egyptian Museum in Cairo holds the healing statue of Djedhor, the Louvre a Priest of Bastet statue, and the Brooklyn Museum another cippus; Keith Seele, Robert Ritner and Jane Draycott have written on them.\n\n*Inference —* an amulet that is used up by being washed is a different kind of object from one that is worn, and it puts this stone closer to an Ethiopian scroll read aloud, or to a Qur'anic bowl rinsed and drunk, than to the faience beetle in the next tray.",
   "how": "Carved in stone with the Horus figure on the front and the spells around it. Water is poured over it, caught, and drunk or applied to the body by the person suffering the poisoning, with rites recited by priests. The large ones stay where they stand; the small ones are carried.",
   "today": "Not in use. Cippi are museum objects — the Metropolitan Museum shows them at The Met Fifth Avenue, and the Brooklyn Museum, the Louvre and the Egyptian Museum in Cairo hold others. As of 2026 this project has read no account of water being poured over one for a patient."
+ },
+ "text_th": {
+  "what": "แผ่นหินสลักรูปฮอรัสในวัยเด็ก ยืนอยู่บนจระเข้สองตัว กำงูและแมงป่องไว้ในกำปั้น และบ่อยครั้งจับละมั่งไว้ที่เขาและจับสิงโตไว้ที่หาง ส่วนที่เหลือเต็มไปด้วยแถวอักษรไฮโรกลิฟิก ขนาดมีตั้งแต่ศิลาจารึกขนาดเท่าบ้านลงไปจนถึงเครื่องรางที่เล็กพอจะพกติดตัว ศิลาเมทเทอร์นิช (Metternich Stela) ทำจากหินเกรย์แวกเกก้อนเดียว สูงราว 35.8 นิ้ว กว้าง 13.25 นิ้ว และพิพิธภัณฑ์เมโทรโพลิแทนก็มีชิ้นขนาดจิ๋วอยู่ด้วย"
  },
  "dating": {
   "period": "Third Intermediate Period to the end of Ptolemaic Egypt",
@@ -224,63 +228,81 @@
    "type": "practice",
    "name": "Washing off the ink",
    "as": "the practice this object is built for — the spell leaves the stone in the water and is swallowed",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การล้างหมึก",
+   "as_th": ""
   },
   {
    "to": "ethiopian-magic-scroll",
    "type": "amulet",
    "name": "Ethiopian talismanic scroll",
    "as": "a later charm on the same principle, further up the Nile: words that have to be got off the page and into the patient",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คัมภีร์ม้วนเครื่องรางเอธิโอเปีย (คิตาบ)",
+   "as_th": ""
   },
   {
    "to": "incantation-bowl",
    "type": "amulet",
    "name": "Incantation bowl",
    "as": "Mesopotamia's written-spell vessel — the same trick of putting the words on the container",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ชามคาถา",
+   "as_th": ""
   },
   {
    "to": "wedjat-eye",
    "type": "amulet",
    "name": "Wedjat eye",
    "as": "the eye of the same god, worn small; this is the god himself as a child, carved large and rinsed",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ตาเวดจัต (ดวงตาแห่งฮอรัส)",
+   "as_th": ""
   },
   {
    "to": "egyptian-amulet-craft",
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "the tradition that cut it, at the end of its long life and at its most textual",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   },
   {
    "to": "serpent",
    "type": "motif",
    "name": "The serpent",
    "as": "the sign in his fists, and the harm the stone is aimed at",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "งู",
+   "as_th": ""
   },
   {
    "to": "inscribing",
    "type": "practice",
    "name": "Inscribing",
    "as": "the step that does the work — without the cut spells the water is water",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การลงอักขระ",
+   "as_th": ""
   },
   {
    "to": "met-egyptian-galleries",
    "type": "place",
    "name": "The Egyptian galleries, the Metropolitan Museum of Art",
    "as": "where the Metternich Stela stands, two thousand years after somebody walled it up",
-   "rel": "held-at"
+   "rel": "held-at",
+   "name_th": "ห้องจัดแสดงอียิปต์ พิพิธภัณฑ์ศิลปะเมโทรโพลิแทน",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read it lands in: a pasha's gift to a prince, a castle in Bohemia, and a New York accession in 1950",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -467,21 +489,27 @@
    "type": "amulet",
    "name": "Ethiopian talismanic scroll",
    "as": "the older Nile answer to the same problem — words that must be got off a surface and into a patient",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คัมภีร์ม้วนเครื่องรางเอธิโอเปีย (คิตาบ)",
+   "as_th": ""
   },
   {
    "from": "egyptian-amulet-craft",
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "its most textual object: a spell you wash off a stone and drink",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   },
   {
    "from": "met-egyptian-galleries",
    "type": "place",
    "name": "The Egyptian galleries, the Metropolitan Museum of Art",
    "as": "Gallery 128 has the big one — the Metternich Stela — and Gallery 134 the pocket-sized versions of the same design",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ห้องจัดแสดงอียิปต์ พิพิธภัณฑ์ศิลปะเมโทรโพลิแทน",
+   "as_th": ""
   }
  ]
 }

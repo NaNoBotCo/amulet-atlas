@@ -4,7 +4,8 @@
  "type": "org",
  "names": {
   "name": "Wellcome Collection",
-  "sort": "Wellcome Collection"
+  "sort": "Wellcome Collection",
+  "th": "เวลคัมคอลเลกชัน"
  },
  "region": [
   "britain-ireland",
@@ -21,6 +22,9 @@
   "what": "London museum and library at 183 Euston Road, opened to the public in June 2007 and part of the Wellcome Trust. It rests on what Sir Henry Wellcome, 1853–1936, bought: books, paintings and objects on the history of medicine worldwide, gathered on a scale no individual has matched since. Its holdings are described as including 17,500 magic-medical amulets, talismans and charms that Wellcome picked up in Islamic North Africa and elsewhere.",
   "story": "Wellcome's museum came first — the Wellcome Historical Medical Museum at 54a Wigmore Street. Edward Lovett curated an exhibition there in 1916, 'Folklore of London'; the two men corresponded for years. Wellcome bought at auction on an industrial scale, and Walter Leo Hildburgh's amulets were bequeathed into the same collection.\n\nThe institution has published its own account of how that buying worked. In 2021 the Collection acknowledged that Wellcome's collecting was shaped by colonialism: many objects bought at auction in the late nineteenth and early twentieth century carried no documentation of how they had been acquired, and may have been \"unjustly taken\" from communities across Europe, Asia, Africa and the Middle East. It has committed to working with communities on provenance, and in 2025 returned a group of Jain manuscripts to India after researchers found they had been acquired without the consent of the communities they belonged to.\n\nThe display has moved too. Medicine Man, the permanent show of part of Wellcome's own collection, closed permanently on 27 November 2022 after fifteen years; the closure was perceived to follow concerns over racist, sexist and ableist theories and language.\n\nThe amulets themselves have been on the move for longer. Hildburgh's amulet material was transferred out of Wellcome to the Pitt Rivers Museum in 1985. The figure of 17,500 magic-medical amulets is published as a description of the Wellcome holdings; this record prints the two statements side by side and does not reconcile them, because it has not read a catalogue that says what stayed and what left.",
   "today": "Wellcome is digitising and openly licensing its collection: as of January 2020 over 40 million images from 325,000 items were available on wellcomecollection.org and through third-party services. The licensing is mixed, per item — in the Collection's own words, digitised materials \"can be accessed and downloaded for use under a variety of Creative Commons non-commercial, attribution and Public Domain licences, depending on the material\". *Inference —* attribution and public-domain items clear Wikimedia Commons; non-commercial ones do not, so the licence has to be read on the item and never assumed from the institution. Its exhibition 'Charmed Life: The solace of objects', 6 October 2011 to 26 February 2012, showed Lovett's amulets beside new work by Felicity Powell."
+ },
+ "text_th": {
+  "what": "พิพิธภัณฑ์และห้องสมุดในลอนดอน ตั้งอยู่ที่ 183 ถนนยูสตัน (Euston Road) เปิดให้สาธารณชนเข้าชมในเดือนมิถุนายน ค.ศ. 2007 และเป็นส่วนหนึ่งของเวลคัมทรัสต์ (Wellcome Trust) รากฐานของที่นี่คือสิ่งที่เซอร์เฮนรี เวลคัม (Sir Henry Wellcome, ค.ศ. 1853–1936) ซื้อไว้ ได้แก่ หนังสือ ภาพวาด และวัตถุเกี่ยวกับประวัติศาสตร์การแพทย์ทั่วโลก ซึ่งรวบรวมในขนาดที่ยังไม่มีบุคคลใดทำได้เท่านับแต่นั้น มีการระบุว่าของในครอบครองรวมถึงเครื่องราง ยันต์ และของขลังด้านเวทมนตร์และการแพทย์ 17,500 ชิ้น ที่เวลคัมได้มาจากแอฟริกาเหนือในโลกอิสลามและที่อื่น ๆ"
  },
  "dating": {
   "period": "2007 to now; the collection from the 1890s",
@@ -175,49 +179,63 @@
    "type": "place",
    "name": "The Lovett charms at Wellcome Collection",
    "as": "the Lovett material inside it, which is the part of this collection this atlas sends a reader to",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "เครื่องรางของโลเวตต์ที่เวลคัมคอลเลกชัน",
+   "as_th": ""
   },
   {
    "to": "edward-lovett",
    "type": "person",
    "name": "Edward Lovett",
    "as": "the folklorist who curated here in 1916 and whose charms it showed again in 2011",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "เอ็ดเวิร์ด เลิฟเวตต์",
+   "as_th": ""
   },
   {
    "to": "walter-hildburgh",
    "type": "person",
    "name": "Walter Leo Hildburgh",
    "as": "the collector who bequeathed his amulets here before they went on to Oxford",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "วอลเตอร์ ลีโอ ฮิลด์เบิร์ก",
+   "as_th": ""
   },
   {
    "to": "pitt-rivers-museum",
    "type": "org",
    "name": "The Pitt Rivers Museum",
    "as": "where the Hildburgh amulet material was transferred in 1985",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์พิตต์ ริเวอร์ส",
+   "as_th": ""
   },
   {
    "to": "hirz-pouch",
    "type": "amulet",
    "name": "Hirz",
    "as": "the North African written charm class Henry Wellcome bought in bulk",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ฮิรซ์ (ตลับใส่โองการอัลกุรอาน)",
+   "as_th": ""
   },
   {
    "to": "wikimedia-commons",
    "type": "org",
    "name": "Wikimedia Commons",
    "as": "where its attribution and public-domain items can be hosted; its non-commercial ones cannot",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "วิกิมีเดียคอมมอนส์",
+   "as_th": ""
   },
   {
    "to": "free-to-use",
    "type": "story",
    "name": "Free to use",
    "as": "the long read on licensing, where a per-item licence like this one is the awkward middle case",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใช้ได้อย่างเสรี",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -326,49 +344,63 @@
    "type": "place",
    "name": "The Lovett charms at Wellcome Collection",
    "as": "the institution this address is, and the one that showed Lovett's charms in 1916 and again in 2011",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "เครื่องรางของโลเวตต์ที่เวลคัมคอลเลกชัน",
+   "as_th": ""
   },
   {
    "from": "edward-lovett",
    "type": "person",
    "name": "Edward Lovett",
    "as": "the museum that exhibited his amulets in 1916 and again in 2011, and that publishes on them now",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "เอ็ดเวิร์ด เลิฟเวตต์",
+   "as_th": ""
   },
   {
    "from": "walter-hildburgh",
    "type": "person",
    "name": "Walter Leo Hildburgh",
    "as": "the collection he left the amulets to first, and which passed them on",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "วอลเตอร์ ลีโอ ฮิลด์เบิร์ก",
+   "as_th": ""
   },
   {
    "from": "pitt-rivers-museum",
    "type": "org",
    "name": "The Pitt Rivers Museum",
    "as": "the collection that passed its amulet material to Oxford in 1985",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์พิตต์ ริเวอร์ส",
+   "as_th": ""
   },
   {
    "from": "wikimedia-commons",
    "type": "org",
    "name": "Wikimedia Commons",
    "as": "the mixed case: some of its items clear the bar and some do not, so each file is checked singly",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "วิกิมีเดียคอมมอนส์",
+   "as_th": ""
   },
   {
    "from": "what-this-atlas-does-not-print",
    "type": "story",
    "name": "What this atlas does not print",
    "as": "a collection that said in 2021 how its holdings were formed, and returned manuscripts in 2025",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "สิ่งที่แอตลาสนี้ไม่ตีพิมพ์",
+   "as_th": ""
   },
   {
    "from": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "17,500 amulets, an acknowledgement in 2021, and a return to India in 2025",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ]
 }

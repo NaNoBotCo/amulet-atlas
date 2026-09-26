@@ -7,16 +7,38 @@
   "native": "𓋹𓊽𓎬",
   "script": "Egyptian hieroglyphic",
   "lang": "egy",
-  "aliases": ["ancient Egyptian amulets", "pharaonic amulet practice"]
+  "aliases": [
+   "ancient Egyptian amulets",
+   "pharaonic amulet practice"
+  ],
+  "th": "งานเครื่องรางอียิปต์โบราณ"
  },
- "region": ["ancient-egypt", "nubia-sudan"],
- "countries": ["EG", "SD"],
- "facets": {"era": "ancient", "status": "archaeological", "restricted": "open", "language": "Egyptian", "hemisphere": ["N", "E"]},
+ "region": [
+  "ancient-egypt",
+  "nubia-sudan"
+ ],
+ "countries": [
+  "EG",
+  "SD"
+ ],
+ "facets": {
+  "era": "ancient",
+  "status": "archaeological",
+  "restricted": "open",
+  "language": "Egyptian",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "The practice of making, wearing and burying small protective objects in ancient Egypt: shapes cut from stone or moulded in faience — quartz paste glazed blue or green in a kiln — pierced and strung, worn in life and packed into the wrappings at death. It ran for roughly three thousand years, produced amulets by the million, and is the single largest body of amulet evidence anywhere on earth.",
   "story": "Egypt's amulets come in two economies and the same workshops served both.\n\nThe living wore them strung at the neck. The dead were wrapped in them, by rule. What went where was not a matter of taste: the funerary texts say which amulet goes on which part of the body, which stone it should be cut from, and what is to be recited over it. Chapter 156 of the Book of the Dead asks for a tyet of red jasper at the mummy's neck. Chapter 30B goes on a heart scarab laid over the heart. A gold djed at the neck comes with a spell that promises the mummy the use of its spine back. That is an unusual thing for an amulet tradition to have: a manual.\n\nThe material made the scale possible. Faience is cheap, mouldable and does not rot, so a single mould turns out eyes and beetles and ankhs by the tray, and three thousand years later they are all still there. *Inference —* that is also the tradition's largest distortion. The reed, cloth, dough and wax charms that stood beside the faience ones are gone; what survives is what survives, and a museum drawer is a record of durability, not a census of what Egypt wore.\n\nThe shapes are hieroglyphs. An amulet cut in the form of a sign was meant to hand its wearer the quality the sign wrote: life for the ankh, stability for the djed, soundness for the wedjat, protection for the sa that Taweret holds. Composites run several signs together — ankh and was and djed, 'life, dominion and stability' — and were worn more often than the ankh on its own.\n\nNot all of it was writing. Bes and Taweret are household gods with faces and bodies, moulded onto baby bottles, chairs, headrests and jars, and worn on the thigh as tattoos. The cippi are slabs you rinse and drink from. The scarab was an office seal as well as a charm.\n\nThe practice ended with the religion that needed it. Nothing in Egypt is now made to do what Chapter 156 describes. The shapes went on: the ankh survived into Coptic Christianity as the crux ansata, the wedjat into a worldwide jewellery trade, and Bes and Taweret into museum cases and fiction.",
   "how": "Moulded in faience or cut from stone — carnelian, lapis, green jasper, steatite fired hard — then pierced and strung, or set in gold. For the dead, placed by the embalmers at the position the funerary text specifies, with the spell recited over it. For the living, worn at the neck or the wrist, or set on a swivel ring.",
   "today": "Archaeological. The tradition is studied rather than practised, and the objects are concentrated in a handful of museums: the British Museum, the Metropolitan Museum's Egyptian galleries, the Petrie Museum of Egyptian Archaeology in London, the Egyptian Museum in Cairo. Flinders Petrie's excavation and sorting of amulets into classes is still the framework museums label by. The modern trade in Egyptian-shaped jewellery, sold in Cairo, Luxor and the airports and worn worldwide, is a separate thing and is described on the object records rather than here."
+ },
+ "text_th": {
+  "what": "วิธีปฏิบัติในการทำ สวม และฝังวัตถุป้องกันภัยขนาดเล็กในอียิปต์โบราณ: รูปทรงที่ตัดจากหินหรือหล่อพิมพ์จากเฟยองซ์ — เนื้อผงควอตซ์เคลือบสีน้ำเงินหรือสีเขียวในเตาเผา — เจาะรูและร้อยสาย สวมในยามมีชีวิต และบรรจุไว้ในผ้าห่อศพเมื่อตาย วิธีปฏิบัตินี้ดำเนินมาราวสามพันปี ผลิตเครื่องรางนับล้านชิ้น และเป็นหลักฐานด้านเครื่องรางกลุ่มใหญ่ที่สุดกลุ่มเดียวบนโลก"
  },
  "dating": {
   "period": "Predynastic to the Arab conquest",
@@ -32,50 +54,185 @@
  },
  "object": {
   "form": "pendant",
-  "materials": ["faience", "carnelian", "lapis", "gold", "glass", "terracotta", "bone"],
-  "worn": ["neck", "chest", "wrist", "finger", "grave", "cradle", "door"],
+  "materials": [
+   "faience",
+   "carnelian",
+   "lapis",
+   "gold",
+   "glass",
+   "terracotta",
+   "bone"
+  ],
+  "worn": [
+   "neck",
+   "chest",
+   "wrist",
+   "finger",
+   "grave",
+   "cradle",
+   "door"
+  ],
   "made_by": "workshops attached to temples and to the embalming trade; no restriction is recorded on who could wear one",
   "script": "Egyptian hieroglyphic",
-  "colour": ["blue-green", "red", "gold"],
+  "colour": [
+   "blue-green",
+   "red",
+   "gold"
+  ],
   "source": "s:wp-egyptian-faience"
  },
  "against": [
-  {"harm": "the-dead", "who": "Egyptian funerary texts, which set out which amulet goes where on a body and what is said over it", "source": "s:wp-ancient-egyptian-funerary-practices", "tier": "cited"},
-  {"harm": "child-harm", "who": "Egyptian households, which kept Bes and Taweret for mothers and infants", "source": "s:wp-taweret", "tier": "cited"},
-  {"harm": "snakebite", "who": "the cippi, whose spells are against venomous bites and stings", "source": "s:wp-horus-on-the-crocodiles", "tier": "cited"},
-  {"harm": "illness", "who": "Egyptian religious texts, as summarised by Egyptologists — the wedjat stands for well-being and healing before it stands for anything else", "source": "s:wp-eye-of-horus", "tier": "cited"}
+  {
+   "harm": "the-dead",
+   "who": "Egyptian funerary texts, which set out which amulet goes where on a body and what is said over it",
+   "source": "s:wp-ancient-egyptian-funerary-practices",
+   "tier": "cited"
+  },
+  {
+   "harm": "child-harm",
+   "who": "Egyptian households, which kept Bes and Taweret for mothers and infants",
+   "source": "s:wp-taweret",
+   "tier": "cited"
+  },
+  {
+   "harm": "snakebite",
+   "who": "the cippi, whose spells are against venomous bites and stings",
+   "source": "s:wp-horus-on-the-crocodiles",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "Egyptian religious texts, as summarised by Egyptologists — the wedjat stands for well-being and healing before it stands for anything else",
+   "source": "s:wp-eye-of-horus",
+   "tier": "cited"
+  }
  ],
  "holdings": [
-  {"museum": "petrie", "what": "the excavated amulet series Petrie sorted into classes", "source": "s:wp-petrie-museum-of-egyptian-archaeology"},
-  {"museum": "british-museum", "what": "the Egyptian amulet collection", "source": "s:wp-british-museum"},
-  {"museum": "met", "what": "the Egyptian galleries", "source": "s:wp-metropolitan-museum-of-art", "open_access": true},
-  {"museum": "egyptian-museum-cairo", "what": "Egyptian amulets and the Djedhor healing statue", "source": "s:wp-horus-on-the-crocodiles"}
+  {
+   "museum": "petrie",
+   "what": "the excavated amulet series Petrie sorted into classes",
+   "source": "s:wp-petrie-museum-of-egyptian-archaeology"
+  },
+  {
+   "museum": "british-museum",
+   "what": "the Egyptian amulet collection",
+   "source": "s:wp-british-museum"
+  },
+  {
+   "museum": "met",
+   "what": "the Egyptian galleries",
+   "source": "s:wp-metropolitan-museum-of-art",
+   "open_access": true
+  },
+  {
+   "museum": "egyptian-museum-cairo",
+   "what": "Egyptian amulets and the Djedhor healing statue",
+   "source": "s:wp-horus-on-the-crocodiles"
+  }
  ],
  "kin": [
-  {"to": "wedjat-eye", "as": "the shape this tradition made more of than any other, for the living and for the dead", "rel": "carries"},
-  {"to": "scarab", "as": "its other mass product, and the one that doubled as an office seal", "rel": "carries"},
-  {"to": "heart-scarab", "as": "the piece it made to argue on a dead person's behalf at a trial", "rel": "carries"},
-  {"to": "ankh-amulet", "as": "the sign everybody knows and the amulet it rarely actually cut", "rel": "carries"},
-  {"to": "tyet-knot", "as": "the one whose placement its own text specifies, down to the stone", "rel": "carries"},
-  {"to": "djed-pillar", "as": "the spine it hung at a mummy's neck, and raised as a column at the Sed festival", "rel": "carries"},
-  {"to": "bes-amulet", "as": "the household half of the tradition — a god who guarded a door and a cradle rather than a tomb", "rel": "carries"},
-  {"to": "taweret-amulet", "as": "its oldest shape, and the one whose sales peaked at the very end", "rel": "carries"},
-  {"to": "cippus-of-horus", "as": "its most textual object: a spell you wash off a stone and drink", "rel": "carries"},
-  {"to": "faience", "as": "the material that made the whole scale of it possible", "rel": "material"},
-  {"to": "flinders-petrie", "as": "the excavator whose classes museums still label by", "rel": "person"},
-  {"to": "wallis-budge", "as": "the British Museum keeper through whose translations most English readers met the spells", "rel": "person"}
+  {
+   "to": "wedjat-eye",
+   "as": "the shape this tradition made more of than any other, for the living and for the dead",
+   "rel": "carries"
+  },
+  {
+   "to": "scarab",
+   "as": "its other mass product, and the one that doubled as an office seal",
+   "rel": "carries"
+  },
+  {
+   "to": "heart-scarab",
+   "as": "the piece it made to argue on a dead person's behalf at a trial",
+   "rel": "carries"
+  },
+  {
+   "to": "ankh-amulet",
+   "as": "the sign everybody knows and the amulet it rarely actually cut",
+   "rel": "carries"
+  },
+  {
+   "to": "tyet-knot",
+   "as": "the one whose placement its own text specifies, down to the stone",
+   "rel": "carries"
+  },
+  {
+   "to": "djed-pillar",
+   "as": "the spine it hung at a mummy's neck, and raised as a column at the Sed festival",
+   "rel": "carries"
+  },
+  {
+   "to": "bes-amulet",
+   "as": "the household half of the tradition — a god who guarded a door and a cradle rather than a tomb",
+   "rel": "carries"
+  },
+  {
+   "to": "taweret-amulet",
+   "as": "its oldest shape, and the one whose sales peaked at the very end",
+   "rel": "carries"
+  },
+  {
+   "to": "cippus-of-horus",
+   "as": "its most textual object: a spell you wash off a stone and drink",
+   "rel": "carries"
+  },
+  {
+   "to": "faience",
+   "as": "the material that made the whole scale of it possible",
+   "rel": "material"
+  },
+  {
+   "to": "flinders-petrie",
+   "as": "the excavator whose classes museums still label by",
+   "rel": "person"
+  },
+  {
+   "to": "wallis-budge",
+   "as": "the British Museum keeper through whose translations most English readers met the spells",
+   "rel": "person"
+  }
  ],
- "links": [{"label": "Amulet — Wikipedia", "url": "https://en.wikipedia.org/wiki/Amulet"}],
- "sources": ["s:wp-amulet", "s:wp-egyptian-faience", "s:wp-ancient-egyptian-funerary-practices", "s:wp-ancient-egyptian-religion", "s:wp-eye-of-horus", "s:wp-taweret", "s:wp-horus-on-the-crocodiles", "s:wp-flinders-petrie", "s:wp-e-a-wallis-budge", "s:wp-petrie-museum-of-egyptian-archaeology", "s:wp-british-museum", "s:wp-metropolitan-museum-of-art"],
+ "links": [
+  {
+   "label": "Amulet — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet"
+  }
+ ],
+ "sources": [
+  "s:wp-amulet",
+  "s:wp-egyptian-faience",
+  "s:wp-ancient-egyptian-funerary-practices",
+  "s:wp-ancient-egyptian-religion",
+  "s:wp-eye-of-horus",
+  "s:wp-taweret",
+  "s:wp-horus-on-the-crocodiles",
+  "s:wp-flinders-petrie",
+  "s:wp-e-a-wallis-budge",
+  "s:wp-petrie-museum-of-egyptian-archaeology",
+  "s:wp-british-museum",
+  "s:wp-metropolitan-museum-of-art"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-amulet"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-amulet"
+  },
   "fields": {
-   "dating": {"tier": "cited", "source": "s:wp-taweret", "note": "both ends are conventions on period names, named in the dating note"},
-   "text.today": {"tier": "inference", "note": "the concentration of the material in a few museums is reasoned from the holdings read, not from a count"}
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-taweret",
+    "note": "both ends are conventions on period names, named in the dating note"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "the concentration of the material in a few museums is reasoned from the holdings read, not from a count"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Egyptian amulets MET.jpg"],
+ "x_commons_files": [
+  "File:Egyptian amulets MET.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-16"
 }

@@ -14,7 +14,8 @@
    "srung ba",
    "protection wheel",
    "protective amulet"
-  ]
+  ],
+  "th": "ซุงคอร์ (วงล้อคุ้มครองทิเบต)"
  },
  "region": [
   "himalaya-tibet",
@@ -42,6 +43,9 @@
   "story": "The sungkhor is what the window of an amulet box usually shows. In the gau Gentry catalogues — made in Kathmandu in the first decade of the 2000s, its contents handselected and consecrated by Chokling Rinpoche — the item behind the window is an amulet diagram wrapped in five-coloured cords, with three dark brown pills, while the other contents sit concealed behind it. Gentry adds that amulets of this kind can be included among the contents of amulet boxes or worn separately.\n\nWhat they are carried against is listed plainly: Tibetans have used them to protect against misfortune during travel, injury during battle, illness, harmful spirits, and any other potential calamity.\n\n*Inference —* the folding is the design, not the packaging. A diagram meant to be read would not be bound shut in thread; a diagram meant to be carried and not read would be. That is as far as this record goes, because the drawing inside and the rite said over it belong to a body of practice that is not published for outsiders.",
   "how": "Drawn, consecrated, folded, wrapped, given. This atlas does not print the drawing, the mantras written into it, or the consecration, and does not assemble a version of them from scattered sources. What is published is that the consecration is a contemplative ritual proceeding and that a named lama performed it for the catalogued example; Tibetan Buddhism holds that without having gone through initiation one is generally not allowed to practise the higher Tantras, and the making of these amulets sits inside that body of practice.",
   "today": "Worn at the neck, kept in a wallet or a pocket, and carried inside a gau across the Tibetan Buddhist world as of 2026, with the diaspora market since 1959 putting them in shops from Kathmandu to Europe and North America. A wrapped amulet sold over a counter carries no record of who consecrated it, which is the same problem the dzi market has, in paper and thread instead of stone."
+ },
+ "text_th": {
+  "what": "แผนภาพบนกระดาษ พับจนเป็นห่อเล็ก ๆ และพันด้วยด้ายสี คำบรรยายของเจมส์ เจนทรี (James Gentry) สำหรับโครงการศิลปะหิมาลัย (Project Himalayan Art) นั้นแม่นยำ: เครื่องรางคุ้มครอง — ซุงวา ซุงคอร์ — \"คือแผนภาพเรขาคณิตที่วาดบนกระดาษ ผสานสูตรมนตร์เข้ากับรูปภาพ และปลุกเสกผ่านพิธีกรรมเชิงภาวนา ก่อนจะพับ พันด้วยด้ายห้าสีพร้อมวัตถุศักดิ์สิทธิ์ แล้วแจกจ่ายไปใช้\" เมื่อพับแล้ว ภาพวาดก็หายไป สิ่งที่ผู้สวมเห็นคือตาข่ายด้ายห้าสีทับบนรูปสี่เหลี่ยมจัตุรัสหรือรูปขนมเปียกปูน"
  },
  "restricted": {
   "note": "The design drawn inside a sungkhor and the rite that consecrates it are a lama's work and are not published for outsiders. This atlas prints what a named scholar's published description of a catalogued example shows — that the amulet is a geometric diagram with mantra formulas and images, consecrated, folded and wrapped in five-coloured cords — and prints no diagram, no mantra and no consecration formula.",
@@ -244,63 +248,81 @@
    "type": "amulet",
    "name": "Gau",
    "as": "the case it usually travels in, and the window it usually sits behind",
-   "rel": "whole"
+   "rel": "whole",
+   "name_th": "กาอู (ตลับเครื่องรางทิเบต)",
+   "as_th": ""
   },
   {
    "to": "tibetan-protection",
    "type": "tradition",
    "name": "Tibetan protection craft",
    "as": "the tradition that draws it, consecrates it and gives it out",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางป้องกันภัยทิเบต (ซุงวา)",
+   "as_th": ""
   },
   {
    "to": "folding",
    "type": "practice",
    "name": "Folding",
    "as": "the step that turns a readable diagram into a carried object",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การม้วนและพับ",
+   "as_th": ""
   },
   {
    "to": "knotting",
    "type": "practice",
    "name": "Knotting",
    "as": "the five-coloured cords that bind it shut, which are part of the amulet and not its wrapping",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การผูกปม",
+   "as_th": ""
   },
   {
    "to": "yantra-plate",
    "type": "amulet",
    "name": "Yantra plate",
    "as": "the South Asian relative it descends from in form — a deity diagram with mantras written in, except that this one is closed up instead of hung open",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "แผ่นยันต์ (ยันตระ)",
+   "as_th": ""
   },
   {
    "to": "takrut",
    "type": "amulet",
    "name": "Takrut",
    "as": "Southeast Asia's version of the same move: an inscribed sheet rolled tight and bound, worn without being read",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตะกรุด",
+   "as_th": ""
   },
   {
    "to": "lungta-flag",
    "type": "amulet",
    "name": "Lung ta prayer flag",
    "as": "the printed sibling that is left open to the wind rather than folded onto a body",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ธงลุงตา (ธงมนต์ม้าลม)",
+   "as_th": ""
   },
   {
    "to": "paper",
    "type": "material",
    "name": "Paper",
    "as": "what carries the drawing, and why the object has to be renewed rather than cleaned",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "กระดาษ",
+   "as_th": ""
   },
   {
    "to": "wearing-hidden",
    "type": "practice",
    "name": "Wearing hidden",
    "as": "the practice it belongs to — carried where nobody sees it, including the wearer",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การสวมเครื่องรางแบบซ่อน",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -490,35 +512,45 @@
    "type": "amulet",
    "name": "Gau",
    "as": "the thing most often found inside — the folded, thread-wrapped protection diagram that the window of a gau usually shows",
-   "rel": "part"
+   "rel": "part",
+   "name_th": "กาอู (ตลับเครื่องรางทิเบต)",
+   "as_th": ""
   },
   {
    "from": "lungta-flag",
    "type": "amulet",
    "name": "Lung ta prayer flag",
    "as": "the same printed mantras folded onto a body instead of left open to the wind",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ธงลุงตา (ธงมนต์ม้าลม)",
+   "as_th": ""
   },
   {
    "from": "yantra-plate",
    "type": "amulet",
    "name": "Yantra plate",
    "as": "the Himalayan neighbour — a printed deity diagram folded and wrapped in thread rather than hung flat",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "แผ่นยันต์ (ยันตระ)",
+   "as_th": "เพื่อนบ้านในหิมาลัย — แผนภาพเทพที่พิมพ์ขึ้น พับและพันด้วยด้าย แทนที่จะแขวนแบน ๆ"
   },
   {
    "from": "tibetan-protection",
    "type": "tradition",
    "name": "Tibetan protection craft",
    "as": "what a lama actually makes: the drawn, consecrated, folded amulet the box exists to hold",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "งานเครื่องรางป้องกันภัยทิเบต (ซุงวา)",
+   "as_th": ""
   },
   {
    "from": "barkhor-lhasa",
    "type": "place",
    "name": "The Barkhor",
    "as": "the folded protection-wheel a monastery issues, which is what a pilgrim on this ring is likeliest to be carrying",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "บาร์คอร์",
+   "as_th": ""
   }
  ]
 }

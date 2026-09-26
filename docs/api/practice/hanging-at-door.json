@@ -9,7 +9,8 @@
    "over the lintel",
    "on the barn"
   ],
-  "said": "put where everyone entering passes it"
+  "said": "put where everyone entering passes it",
+  "th": "การแขวนไว้ที่ประตู"
  },
  "region": [
   "levant",
@@ -46,6 +47,9 @@
   "story": "Jewish law makes the door a legal obligation with a measured position. A mezuzah's parchment goes in a case on the right side of the doorway, in the upper third of the post, at roughly shoulder height and within about three inches — eight centimetres — of the opening. Many Ashkenazi Jews tilt it so that the top slants into the room, a compromise proposed by Rabbi Jacob ben Asher, c. 1269–1343, between Rashi's vertical and Rabbeinu Tam's horizontal; most Sephardi, Mizrahi and other non-Ashkenazi Jews fix it vertically. In the diaspora it goes up within thirty days of moving into a rented home; in a purchased home, or anywhere in Israel, immediately. The person holds it to the spot and recites a blessing, and one blessing covers all the doors done in a session. Samaritans set select verses above the house door or on a prominent wall, and stone plaques of the Ten Commandments from the Byzantine and Early Muslim periods, the fourth to the eleventh centuries, are now in the Israel Museum in Jerusalem.\n\nThe door is also where the practice gets litigated. A Chicago condominium association at Shoreline Towers banned objects outside unit doors and in 2004 read the ban as absolute, and management removed residents' mezuzot; complaints went to the Chicago Commission on Human Relations, the Illinois Attorney General and the federal housing department. Alderman Burton Natarus drafted an amendment making it illegal to prohibit a religious sign, symbol or relic on a door, doorpost or entrance, and it became Chicago law that December with a maximum $500 fine, the first such legislation in North America.\n\nJapan assigns doors by deity. Protective gofu such as Tsuno Daishi, the Horned Great Master — the Tendai monk Ryōgen drawn as a yaksha or an oni — go on doorways and entrances; hearth deities go in the kitchen; a talisman of Ucchuṣma, the wrathful figure who purifies the unclean, may go in the toilet. Europe nails iron. Worn horseshoes were placed above or beside doorways to guard houses, barns and stables across Italy, Germany, Britain and Scandinavia, traditionally held with seven nails; whether the ends point up or down is a live disagreement, with much of Europe, the Middle East and Latin America hanging them downward so that blessing pours out, and parts of Ireland and Britain hanging them upward so that luck is caught and cannot run out. The two habits travelled to the United States with their carriers. A legend attached to the tenth-century blacksmith-saint Dunstan has the Devil promising never to enter a household with a horseshoe nailed to the door.\n\nIreland hangs a woven cross. Saint Brigid's crosses are typically woven on 1 February, and hanging one from the rafters, or over an entryway, was held to bring the saint's blessing and protection for the rest of the year; on the feast day crosses went up in the main dwelling, the outhouses and the stables. Pennsylvania painted the wall instead of the door: barn stars in circular borders appear on Pennsylvania Dutch barns in Berks, Lancaster and Lehigh counties, beginning in the early nineteenth century and spreading once ready-mixed paint became affordable. Two readings of the barn signs run side by side in the same communities — one holds them protective, the other decorative — and both sides agree that particular designs carry folk beliefs. The Amish do not use them.\n\n*Inference —* the door is the most crowded position in this atlas. It is also the only one where the charm is aimed at people who are not its owner: a doorpost charm is read by every visitor, which makes it a statement of who lives here as much as a guard.",
   "how": "Fix, nail, paste or hang, at the position the tradition specifies, often with words said at the moment of fixing. Height, side and orientation carry rules; so does the date, in the Irish case.",
   "today": "Live and legally protected in at least one American city. Mezuzot are fixed in Israel and across the diaspora, with cases made in silver, wood, stone, ceramic, pewter and polymer clay; a case sold with a photocopied paper text is a case, since a valid mezuzah is handwritten on parchment by a qualified scribe. Japanese households renew door talismans at the New Year. Hex signs are sold as mountable boards for barns and houses, a trade Jacob Zook of Paradise, Pennsylvania claimed to have started in 1942 for shops along the Lincoln Highway."
+ },
+ "text_th": {
+  "what": "การติดเครื่องรางไว้ที่ทางเข้า ตลับหนังฟอกที่ขันสกรูติดวงกบประตู เกือกม้าที่ตอกตะปูไว้เหนือประตู ไม้กางเขนสานบนขื่อหลังคา ดาวที่วาดบนโรงนา ยันต์กระดาษที่แปะไว้ที่ทางเข้า ตำแหน่งคือเหตุผลในตัว ภัยถูกมองว่าเป็นสิ่งที่มาถึง และประตูคือที่ที่มันมาถึง"
  },
  "dating": {
   "period": "Byzantine Levant to the present",
@@ -290,77 +294,99 @@
    "type": "amulet",
    "name": "Mezuzah",
    "as": "the door charm with a measured position, a blessing at fixing and a deadline for putting it up",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เมซูซา",
+   "as_th": ""
   },
   {
    "to": "horseshoe",
    "type": "amulet",
    "name": "Horseshoe",
    "as": "iron nailed over the opening, with an argument about which way up that crossed the Atlantic intact",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เกือกม้า",
+   "as_th": ""
   },
   {
    "to": "brigids-cross",
    "type": "amulet",
    "name": "Brigid's cross",
    "as": "rushes in the rafters from 1 February, and again the following February",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กางเขนนักบุญบริจิด",
+   "as_th": ""
   },
   {
    "to": "hex-sign",
    "type": "amulet",
    "name": "Hex sign",
    "as": "the same idea painted at barn scale, and argued over as protective or decorative in the same county",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เฮ็กซ์ไซน์ (ป้ายดาวบนโรงนา)",
+   "as_th": ""
   },
   {
    "to": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "paper assigned by room — entrance, kitchen, toilet — with a different figure on each",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "nimbu-mirchi",
    "type": "amulet",
    "name": "Nimbu mirchi",
    "as": "South Asia's hanging version, strung in a doorway rather than fixed to it",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "นิมบู มีร์ชี (มะนาวกับพริก)",
+   "as_th": ""
   },
   {
    "to": "bagua-mirror",
    "type": "amulet",
    "name": "Bagua mirror",
    "as": "the Chinese door fitting that answers the same question about what arrives at an entrance",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กระจกปากั้ว (กระจกแปดทิศ)",
+   "as_th": ""
   },
   {
    "to": "iron",
    "type": "material",
    "name": "Iron",
    "as": "the material doing the work in the European case, before any shape is given to it",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เหล็ก",
+   "as_th": ""
   },
   {
    "to": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "the tradition that put iron over the doors of houses, barns and stables",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "to": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "the clock several door charms run on, in Ireland and Japan alike",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   },
   {
    "to": "foundation-deposit",
    "type": "practice",
    "name": "Foundation deposit",
    "as": "the same threshold, treated from underneath",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ของฝังใต้ฐานรากอาคาร",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -605,210 +631,270 @@
    "type": "amulet",
    "name": "Bagua mirror",
    "as": "the practice: a charm fixed to a building, aimed outward, guarding a threshold and not a body",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "กระจกปากั้ว (กระจกแปดทิศ)",
+   "as_th": ""
   },
   {
    "from": "bes-amulet",
    "type": "amulet",
    "name": "Bes amulet",
    "as": "where his statue stood — the source says he was put up as a protector because he drove harm off",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เครื่องรางเทพเบส",
+   "as_th": ""
   },
   {
    "from": "brigids-cross",
    "type": "amulet",
    "name": "Brigid's cross",
    "as": "where it goes: the rafters, the entryway, the outhouse and the stable",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "กางเขนนักบุญบริจิด",
+   "as_th": ""
   },
   {
    "from": "bujeok",
    "type": "amulet",
    "name": "Bujeok",
    "as": "the half of its use that never leaves the house, pasted to an interior wall after a gut",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "from": "dolhareubang",
    "type": "amulet",
    "name": "Dol hareubang",
    "as": "the practice at its heaviest: a doorway guard weighing more than the door",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ทลฮารึบัง (รูปปู่หิน)",
+   "as_th": ""
   },
   {
    "from": "gorgoneion",
    "type": "amulet",
    "name": "Gorgoneion",
    "as": "the practice the temple antefix is the monumental form of — put the guard where the thing gets in",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "กอร์โกเนออน (ศีรษะกอร์กอน)",
+   "as_th": ""
   },
   {
    "from": "hex-sign",
    "type": "amulet",
    "name": "Hex sign",
    "as": "the practice it is the biggest version of: a sign fixed to a building, facing outward, in public",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เฮ็กซ์ไซน์ (ป้ายดาวบนโรงนา)",
+   "as_th": ""
   },
   {
    "from": "horseshoe",
    "type": "amulet",
    "name": "Horseshoe",
    "as": "the practice in its plainest form, and the one this atlas has the longest argument about direction in",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เกือกม้า",
+   "as_th": ""
   },
   {
    "from": "jimat",
    "type": "amulet",
    "name": "Jimat",
    "as": "the practice the Indonesian definition leads with: hung on a body, a vehicle or a building",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "จิมัต (เครื่องรางมลายู)",
+   "as_th": ""
   },
   {
    "from": "lamashtu-plaque",
    "type": "amulet",
    "name": "Lamashtu plaque",
    "as": "where these went — beds, doorways, and the places a household counted as open",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "แผ่นเครื่องรางลามัชตู",
+   "as_th": ""
   },
   {
    "from": "mezuzah",
    "type": "amulet",
    "name": "Mezuzah",
    "as": "the practice, in the atlas's most legally defined form — right post, upper third, eight centimetres from the opening",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เมซูซา",
+   "as_th": ""
   },
   {
    "from": "nimbu-mirchi",
    "type": "amulet",
    "name": "Nimbu mirchi",
    "as": "the practice this object is: a charm that guards a threshold instead of a person",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "นิมบู มีร์ชี (มะนาวกับพริก)",
+   "as_th": ""
   },
   {
    "from": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "where half of them end up — gate, doorway, kitchen, ceiling, one per job",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "omikuji",
    "type": "amulet",
    "name": "Omikuji",
    "as": "the nearest practice in this atlas to knotting a fortune onto a pine: a paper fixed in place to do its work where it hangs",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โอมิกุจิ (ใบเซียมซีญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "pazuzu-head",
    "type": "amulet",
    "name": "Pazuzu head",
    "as": "the practice the Dur-Katlimmu find caught in the act — hung on the wall facing the entryway",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เศียรปาซูซู",
+   "as_th": ""
   },
   {
    "from": "rowan-cross",
    "type": "amulet",
    "name": "Rowan cross",
    "as": "where it mostly went: over a door, over a byre lintel, above a hearth",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "กางเขนไม้โรวัน",
+   "as_th": ""
   },
   {
    "from": "teru-teru-bozu",
    "type": "amulet",
    "name": "Teru teru bōzu",
    "as": "where it works from — an eave, a window frame, outside, where the weather can see it",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เทรุเทรุโบซุ (ตุ๊กตาไล่ฝน)",
+   "as_th": ""
   },
   {
    "from": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "where most of this output ends up: a slip, a mirror or a red square on a doorway",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "korean-bujeok-craft",
    "type": "tradition",
    "name": "Bujeok craft",
    "as": "the practice, done indoors: the talisman goes on the inside wall of the house it is for",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "บูจ็อก (ศาสตร์ยันต์เกาหลี)",
+   "as_th": ""
   },
   {
    "from": "mesopotamian-apotropaic",
    "type": "tradition",
    "name": "Mesopotamian household protection",
    "as": "the practice this tradition is built on: put the guard where the thing gets in",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การคุ้มครองบ้านเรือนแบบเมโสโปเตเมีย",
+   "as_th": ""
   },
   {
    "from": "bell",
    "type": "motif",
    "name": "The bell",
    "as": "the practice the Roman half of this record belongs to entirely",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "กระดิ่ง",
+   "as_th": ""
   },
   {
    "from": "key",
    "type": "motif",
    "name": "The key",
    "as": "the practice this sign points at, even where no key is actually hung",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "กุญแจ",
+   "as_th": ""
   },
   {
    "from": "mirror-sign",
    "type": "motif",
    "name": "The mirror",
    "as": "the practice the bagua mirror belongs to, and the one that makes it a neighbour's problem",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "กระจก",
+   "as_th": ""
   },
   {
    "from": "serpent",
    "type": "motif",
    "name": "The serpent",
    "as": "the practice the guardian snake belongs to, in stone rather than in metal",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "งู",
+   "as_th": "การปฏิบัติที่งูผู้พิทักษ์สังกัดอยู่ ในรูปหินแทนที่จะเป็นโลหะ"
   },
   {
    "from": "tree",
    "type": "motif",
    "name": "The tree",
    "as": "the practice the rowan belongs to: the sign is placed at the threshold, not worn",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ต้นไม้",
+   "as_th": ""
   },
   {
    "from": "iron",
    "type": "material",
    "name": "Iron",
    "as": "the practice iron is most often put to — over the lintel, under the threshold, around the graveyard",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เหล็ก",
+   "as_th": ""
   },
   {
    "from": "salt",
    "type": "material",
    "name": "Salt",
    "as": "where salt is most often put: a threshold, a gate, a shop entrance",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เกลือ",
+   "as_th": ""
   },
   {
    "from": "fu-word",
    "type": "term",
    "name": "fu",
    "as": "the practice the fortune character exists for: paper, paste, doorpost, once a year",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ฝู (福)",
+   "as_th": ""
   },
   {
    "from": "ward-word",
    "type": "term",
    "name": "ward",
    "as": "the practice the verb is nearly always attached to in English writing",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "วอร์ด (ปัดเป่า)",
+   "as_th": ""
   },
   {
    "from": "the-charm-in-the-wall",
    "type": "story",
    "name": "The charm in the wall",
    "as": "the visible answer to the same fear: the horseshoe over the door, where the bottle goes under it",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เครื่องรางในกำแพง",
+   "as_th": ""
   }
  ]
 }

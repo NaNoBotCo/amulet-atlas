@@ -12,7 +12,8 @@
    "Akodessewa market",
    "Marché d'Akodessewa",
    "Lomé fetish market"
-  ]
+  ],
+  "th": "ตลาดเครื่องรางอาโกเดสซาวา"
  },
  "region": [
   "west-africa"
@@ -31,6 +32,9 @@
   "what": "A supply market in the Akodessawa district of Lomé, Togo, for the materials used in Vodun practice. The stock is animal: monkey heads, skulls, dried birds, crocodiles, skins. Sellers work from tables, buyers come with a need, and a practitioner puts the material together for them. The encyclopedia calls it \"the world's largest voodoo market\", using a spelling this atlas otherwise keeps out of its own sentences.",
   "story": "Vodun is long established in Togo, and the route it took is a loop rather than a line. Enslaved people carried Yoruba gods to the Caribbean and South America; there the gods were joined to Catholic saints and church symbols and changed meaning; when freed people and their families came back to West Africa, they built a Vodun practice in the country their families had left.\n\nThe word in the market's French name is the difficult one. A fetish here is comparable to an orisha: it may be a god, or a person, a plant, an animal or a material, depending on the rite and the situation, and in the rite it is activated and strengthened. Some are held to have been particular people.\n\nThis atlas does not print rite detail. What a practitioner does with a material bought at these tables is the practitioner's to publish, and the sources read for this record do not publish it. What is on the record is the trade: a district, a named market, sellers, stock, and customers who come for a specific thing.\n\n*Inference —* the market is photographed more than it is documented. This project found no published price list, no seller interview and no survey it could cite; the record therefore stays with what the encyclopedia states and says plainly that the rest is missing rather than filling it from a travel column.",
   "today": "In trade, on the published account this project has read. No day is marked open or closed below, and no prices are recorded, because none were read."
+ },
+ "text_th": {
+  "what": "ตลาดวัตถุดิบในย่านอาโกเดสซาวาของกรุงโลเม ประเทศโตโก สำหรับวัสดุที่ใช้ในการปฏิบัติแบบโวดุน สินค้าเป็นของจากสัตว์: หัวลิง กะโหลก นกตากแห้ง จระเข้ หนังสัตว์ ผู้ขายทำงานจากโต๊ะ ผู้ซื้อมาพร้อมความต้องการ และผู้ประกอบพิธีจะประกอบวัสดุให้ สารานุกรมเรียกที่นี่ว่า \"ตลาดวูดูที่ใหญ่ที่สุดในโลก\" โดยใช้การสะกดที่แอตลาสนี้ไม่ใช้ในประโยคของตนเอง"
  },
  "geo": {
   "lat": 6.157639,
@@ -151,49 +155,63 @@
    "type": "tradition",
    "name": "West African charm craft",
    "as": "the tradition this market supplies materials to",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางแอฟริกาตะวันตก",
+   "as_th": ""
   },
   {
    "to": "gris-gris",
    "type": "amulet",
    "name": "Gris-gris",
    "as": "the West African charm whose name travelled to New Orleans while the practice stayed here",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "กรีกรี (ถุงเครื่องรางแอฟริกาตะวันตก)",
+   "as_th": ""
   },
   {
    "to": "nkisi",
    "type": "amulet",
    "name": "Nkisi",
    "as": "the Kongo container-object built from assembled materials — the nearest kin in this atlas to what a practitioner makes from these tables",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เอ็นกีซี",
+   "as_th": ""
   },
   {
    "to": "fetish-word",
    "type": "term",
    "name": "fetish",
    "as": "the word in this market's own French name, and an argument older than the market",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "เฟติช",
+   "as_th": ""
   },
   {
    "to": "vodou-not-voodoo",
    "type": "term",
    "name": "Vodou and Vodún — and the spelling this atlas does not use",
    "as": "the spelling argument this record runs into in its first sentence, and the reason the two-o form appears here only in quotation marks",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "โวดูและโวดุน — กับตัวสะกดที่แอตลาสนี้ไม่ใช้",
+   "as_th": ""
   },
   {
    "to": "tooth-and-claw",
    "type": "motif",
    "name": "The tooth and the claw",
    "as": "the sign family most of the stock belongs to, taken from the animal it came from",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เขี้ยวเล็บ",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read this market sits inside: who gets to describe a practice, and in whose words",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -281,42 +299,54 @@
    "type": "amulet",
    "name": "Cowrie strand",
    "as": "a West African market where shells and charm materials are traded by the sack",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "สายเปลือกหอยเบี้ย",
+   "as_th": ""
   },
   {
    "from": "gris-gris",
    "type": "amulet",
    "name": "Gris-gris",
    "as": "the Lomé market where West African charm materials are traded in the open",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "กรีกรี (ถุงเครื่องรางแอฟริกาตะวันตก)",
+   "as_th": ""
   },
   {
    "from": "west-african-charm-craft",
    "type": "tradition",
    "name": "West African charm craft",
    "as": "the Lomé market that sells this tradition's raw materials in the open",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "งานเครื่องรางแอฟริกาตะวันตก",
+   "as_th": ""
   },
   {
    "from": "cowrie",
    "type": "material",
    "name": "Cowrie",
    "as": "a West African market where shells and animal parts are sold for exactly these uses",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "หอยเบี้ย",
+   "as_th": ""
   },
   {
    "from": "quai-branly",
    "type": "org",
    "name": "Musée du quai Branly — Jacques Chirac",
    "as": "the West African market where objects of the classes shown here as art are still traded and still made",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "พิพิธภัณฑ์เก บรันลี – ฌัก ชีรัก",
+   "as_th": ""
   },
   {
    "from": "fetish-word",
    "type": "term",
    "name": "fetish",
    "as": "the market in Lomé that carries the word in its own French name, which is the complication this record cannot tidy away",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "เฟติช",
+   "as_th": ""
   }
  ]
 }

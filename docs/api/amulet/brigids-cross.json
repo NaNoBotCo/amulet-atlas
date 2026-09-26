@@ -14,7 +14,8 @@
    "Bogha Bhríde",
    "St Brigid's Bow",
    "wheel cross"
-  ]
+  ],
+  "th": "กางเขนนักบุญบริจิด"
  },
  "etymology": {
   "root": "Irish Cros Bhríde, 'Brigid's cross', for Brigid of Kildare; the variants Crosóg Bhríde, 'Brigid's little cross', and Bogha Bhríde, 'Brigid's bow'.",
@@ -44,6 +45,9 @@
   "story": "The cross is woven on 1 February, the feast day of Brigid of Kildare and the date of Imbolc in pre-Christian Ireland, and hung from the rafters to bring the saint's blessing and protection for the rest of the year. The practice of making them is first attested in the seventeenth century.\n\nBrigid herself left no historical record; she was born around 450 in Leinster, and almost everything about her comes from a hagiography written by the monk Cogitosus some two hundred years later. The story attached to the cross is a deathbed conversion: telling a pagan chieftain — in some versions her father — about the Crucifixion, Brigid gathered rushes from the floor and wove them into a cross, and the chieftain asked to be baptised. In another story she was handed a poisoned drink by a woman who meant her harm, and wove the cross to neutralise it.\n\nThe household version has a timetable. Families gathered rushes on 31 January. After the evening meal the head of the household supervised the rest of the family weaving, the finished crosses were left out overnight to receive Brigid's blessing, and on 1 February they went up in the main dwelling, the outhouses and the stables. Some households took the old ones down and replaced them each year; others let them accumulate between feasts. Discarded crosses were burned or buried, burial preferred, because of Brigid's associations with agriculture. The weaving was not confined to the feast: friends gave each other crosses to strengthen a bond, and newly married couples were given womb crosses to hang over the door, Brigid being a patron of fertility too. Outside Ireland, the crosses are hung in Glastonbury, on a local legend that Brigid visited the town in 488, and Irish families send them to relatives abroad or carry one when they leave.\n\nThe shape carries arguments. Some historians compare the central lozenge to the Mexican god's eye and to the Eurasian magic square. The swastika type, with its arms set at right angles off a central diamond, reads as a wheel in motion and may have originally stood for the sun; in parts of Ulster the same motion is made with three arms, which has been compared to the triskelion.\n\nIts second life is national. After the Irish Free State gained independence in 1922 the cross became one of the motifs artists used to build a cultural identity separate from Britain's, alongside the shamrock and the harp. It went into the logo of the Irish Department of Health in the 1950s and, as of 2024, was still part of the logo of the Nursing and Midwifery Board of Ireland. It was chosen as the first station identification marker for Raidió Teilifís Éireann in 1962 — Alice Curtayne wrote that it was picked to evoke \"the image of quiet, serene places in the springtime of our history, of rush-bordered rivers in a serene arcadian landscape\" — survived nine redesigns, and was dropped in 1995 in favour of what the broadcaster called \"a clean striking piece of modern design\". Carol Coulter wrote in The Irish Times that Saint Brigid's cross had lost its place as a symbol of national identity, at least as far as the national broadcaster was concerned.",
   "how": "Gather rushes or straw on the eve of the feast, 31 January. Weave after the evening meal, the household together. Leave the crosses out overnight for the saint's blessing. Hang them on 1 February in the house, the outhouses and the stables. Take them down and replace them at the next feast, or leave them to accumulate. Retire by burning or, preferably, burying. The direction they were hung in is not recorded — but the centre is described as a lozenge rather than a square, which suggests the cross was displayed as a saltire rather than upright.",
   "today": "Still woven. The weaving declined through the twentieth century, partly because house renovations made the crosses hard to hang in the old way, and 1 February has since been declared a national holiday in Ireland. In 1942 the Irish Folklore Commission ran a questionnaire on the Feast of Saint Brigid and collected several hundred crosses; in 2022 twenty-one of them went on display at the National Museum of Ireland – Country Life in Castlebar."
+ },
+ "text_th": {
+  "what": "กางเขนเล็ก ๆ ที่สานจากฟางหรือต้นกก ซึ่งนิยามด้วยวัสดุมากกว่ารูปทรง พิพิธภัณฑ์แห่งชาติไอร์แลนด์ (National Museum of Ireland) แบ่งออกเป็นเจ็ดประเภท ได้แก่ แบบข้าวหลามตัด ทั้งแบบวงเดียวและหลายวง; แบบสวัสดิกะ มีสี่แขนหรือสามแขน; แบบวงล้อ; แบบสานไขว้; กางเขนละตินธรรมดาที่ทำจากฟางหรือกก; กางเขนไม้เปล่าแบบละตินหรือแบบกรีกที่มัดด้วยฟาง; และประเภทเบ็ดเตล็ด แบบที่พบบ่อยที่สุดคือแบบข้าวหลามตัดหรือรูปขนมเปียกปูน: ไม้สองอันไขว้กันเป็นโครง มีฟางสานเป็นรูปข้าวหลามตัดอยู่ตรงกลาง และบางครั้งมีรูปข้าวหลามตัดเพิ่มที่แขนแต่ละข้างทั้งสี่"
  },
  "dating": {
   "period": "Early modern to the present",
@@ -228,77 +232,99 @@
    "type": "amulet",
    "name": "Corn dolly",
    "as": "the other straw weave of these islands: the same hands, the other end of the year, and the harvest knots of County Armagh use the same lozenge",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ตุ๊กตาฟางข้าว (คอร์นดอลลี)",
+   "as_th": ""
   },
   {
    "to": "cross",
    "type": "motif",
    "name": "The cross",
    "as": "the sign it is named for, made in the one material a cross is almost never made in",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "กางเขน",
+   "as_th": ""
   },
   {
    "to": "swastika-sign",
    "type": "motif",
    "name": "The swastika",
    "as": "the National Museum of Ireland's own name for one of its seven classes, and a reason this object needs the long read",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "สวัสดิกะ",
+   "as_th": ""
   },
   {
    "to": "knotting",
    "type": "practice",
    "name": "Knotting",
    "as": "the making: rushes gathered on the eve, woven by the household after the meal, left out overnight",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การผูกปม",
+   "as_th": ""
   },
   {
    "to": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "the rhythm — one a year on 1 February, or a rafter's worth accumulating over decades",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   },
   {
    "to": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "where it goes: the rafters, the entryway, the outhouse and the stable",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "to": "burning-retirement",
    "type": "practice",
    "name": "Burning at retirement",
    "as": "one of the two disposals the custom allows; burial is the preferred one, for a saint associated with agriculture",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเผาเครื่องรางเมื่อหมดวาระ",
+   "as_th": ""
   },
   {
    "to": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "the tradition it sits inside, and the clearest case of a Christian saint's day carrying an older calendar date",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "to": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "what it is not, formally: no priest blesses it, no indulgence attaches, and the blessing is asked of the saint overnight",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   },
   {
    "to": "rowan-cross",
    "type": "amulet",
    "name": "Rowan cross",
    "as": "the other cross of two crossed things bound at the centre, made for the same rafters against a differently named harm",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กางเขนไม้โรวัน",
+   "as_th": ""
   },
   {
    "to": "the-swastika-problem",
    "type": "story",
    "name": "The swastika problem",
    "as": "the long read the museum's own class name requires",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ปัญหาเรื่องสวัสติกะ",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -484,63 +510,81 @@
    "type": "amulet",
    "name": "Corn dolly",
    "as": "the other straw weave of these islands, and the one made on a fixed feast day rather than at the end of a harvest — the National Museum of Ireland files harvest crosses with it",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ตุ๊กตาฟางข้าว (คอร์นดอลลี)",
+   "as_th": ""
   },
   {
    "from": "rowan-cross",
    "type": "amulet",
    "name": "Rowan cross",
    "as": "the other woven cross of these islands, made on one named day, hung in the rafters, and replaced at the next feast",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กางเขนไม้โรวัน",
+   "as_th": ""
   },
   {
    "from": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "the calendar half of it: rushes gathered on 31 January, woven that night, hung on 1 February, taken down and burnt or buried a year later",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "from": "cross",
    "type": "motif",
    "name": "The cross",
    "as": "the cross woven from rushes on 1 February and hung in the rafters",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กางเขน",
+   "as_th": ""
   },
   {
    "from": "knot",
    "type": "motif",
    "name": "The knot",
    "as": "rushes woven on 1 February and pinned in the rafters for the year",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ปม",
+   "as_th": ""
   },
   {
    "from": "swastika-sign",
    "type": "motif",
    "name": "The swastika",
    "as": "the National Museum of Ireland sorts one whole class of these woven crosses as the bent-armed type",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "สวัสดิกะ",
+   "as_th": "พิพิธภัณฑ์แห่งชาติไอร์แลนด์จัดไม้กางเขนสานแบบนี้กลุ่มหนึ่งทั้งกลุ่มไว้เป็นแบบแขนหัก"
   },
   {
    "from": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "rushes in the rafters from 1 February, and again the following February",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "from": "knotting",
    "type": "practice",
    "name": "Knotting",
    "as": "the woven version: rushes gathered on 31 January, tied the same night, hung the next morning",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การผูกปม",
+   "as_th": ""
   },
   {
    "from": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "woven fresh each 1 February from rushes gathered the night before",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   }
  ]
 }

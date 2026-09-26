@@ -12,7 +12,8 @@
    "ṭilsam",
    "ṭalāsim",
    "telesma"
-  ]
+  ],
+  "th": "ทาลิสแมน"
  },
  "etymology": {
   "root": "Greek teleō 'I complete, perform a rite' (from telos 'end, fulfilment') > Byzantine Greek telesma 'completion, religious rite, payment' > Arabic ṭilsam (طِلَسْم, plural ṭalāsim) > French talisman > English talisman",
@@ -46,6 +47,9 @@
  "text": {
   "what": "The word for a made object whose power the maker claims to have put in it. Where amulet turns harm away, talisman brings fortune in — that is the split most English writers use, and Wikipedia's talisman article states it as the key difference. Its amulet article, one click away, says the two have interchangeable meanings. Both are in print. The Arabic ṭilsam behind the English word carries something the English lost: a sense of manufacture under conditions, made at a particular hour for a particular end.",
   "story": "The root is a verb about finishing a rite. Greek teleō, 'I complete, perform a rite'; telesma, the completion or the payment. Arabic took it as ṭilsam, French took it from Arabic, English took it from French in the 1630s.\n\nWhat the Arabic word names is a craft with a timetable. The tenth-century Abbasid mathematician Thabit ibn Qurra was held to be the expert; in one of his texts on talismans he wrote, 'The noblest part of astronomy is the science of talismans.' In John of Seville and Limia's twelfth-century version of ibn Qurra's De imaginibus, talismans and astronomy matter more to wisdom than geometry or philosophy do. Adelard of Bath's translation of the same text insists on knowledge of both astronomy and astrology, because a talisman has to be made at the moment of an auspicious celestial event — and because, in that text, a maker who is distracted or in doubt produces a powerless one.\n\nThe instructions are specific about material. Adelard's translation specifies lead, iron, bronze, gold or silver for a talisman meant to earn love from a king, a family member or a peer; pitch and tar, bitumen and aloes for one meant to set people against each other, take money, defend or destroy a place, or win a legal case.\n\n*Inference —* the English word kept the object and dropped the clock. A modern English speaker who calls a lucky coin a talisman is using a word that once meant a thing timed to a sky."
+ },
+ "text_th": {
+  "what": "คำเรียกวัตถุที่ทำขึ้น ซึ่งผู้ทำอ้างว่าได้ใส่พลังไว้ในนั้น ในขณะที่อะมูเล็ตหันภัยออกไป ทาลิสแมนนำโชคเข้ามา นี่คือการแบ่งที่นักเขียนภาษาอังกฤษส่วนใหญ่ใช้ และบทความเรื่องทาลิสแมนในวิกิพีเดียระบุว่านี่คือความต่างสำคัญ บทความเรื่องอะมูเล็ต ซึ่งห่างไปเพียงคลิกเดียว บอกว่าสองคำนี้ใช้แทนกันได้ ทั้งสองอย่างมีอยู่ในสิ่งพิมพ์ คำอาหรับติลซัม (ṭilsam) ที่อยู่เบื้องหลังคำอังกฤษมีสิ่งหนึ่งที่ภาษาอังกฤษทำหายไป คือความหมายของการสร้างภายใต้เงื่อนไข ทำขึ้นในยามที่กำหนดเพื่อจุดหมายที่กำหนด"
  },
  "dating": {
   "from_year": 1630,

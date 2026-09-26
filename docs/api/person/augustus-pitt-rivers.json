@@ -9,7 +9,8 @@
    "Augustus Henry Lane-Fox",
    "Lieutenant-General Pitt Rivers"
   ],
-  "sort": "Pitt Rivers, Augustus"
+  "sort": "Pitt Rivers, Augustus",
+  "th": "ออกัสตัส พิตต์ ริเวอร์ส"
  },
  "region": [
   "britain-ireland",
@@ -29,6 +30,9 @@
   "what": "English soldier and archaeologist, 1827–1900, who arranged objects by what they are for rather than by where they came from. He gave more than 20,000 of them to the University of Oxford in 1884 on conditions that still bind the display. Every amulet case in this atlas that groups a Japanese charm beside a Neapolitan one is standing inside his idea.",
   "story": "He was commissioned into the Grenadier Guards on 16 May 1845 and served until 1882, ending as a Lieutenant-General. His combat was limited — the Battle of the Alma in 1854 — and most of his service went on musketry instruction; he founded the Hythe School of Musketry and published \"On the improvement of the rifle as a weapon for general use\" in 1858. Testing rifle after rifle is where the method comes from: he was already comparing small variations in a made object for a living.\n\nReading Darwin and Herbert Spencer, he arranged his collection typologically and, within types, chronologically, meaning to show progression in design and evolution in human culture from the simple to the complex. He treated archaeology as an extension of anthropology and built matching archaeological and ethnographic collections so the two could be read together.\n\nIn 1880 he inherited estates in Cranborne Chase carrying Roman and Saxon material and excavated them over seventeen seasons, from the mid-1880s until his death, insisting that everything be collected and catalogued rather than only what looked worth keeping. Under the Ancient Monuments Protection Act 1882 he became the first Inspector of Ancient Monuments, and put railings round sites including Kit's Coty House in Kent.\n\nThe 1884 gift to Oxford came with conditions: a permanent lecturer in anthropology, which made Edward Burnett Tylor the first lecturer in anthropology in the United Kingdom in 1885, and a building for the collection used for no other purpose. A further clause says changes to the displays \"shall not affect the general principle originated by Augustus Henry Lane Fox Pitt Rivers\".\n\nThat clause is why the argument about his method is still live rather than historical. The museum's own account states that this evolutionary approach to material culture is no longer appropriate in the modern display paradigm for archaeological and anthropological objects, and that it has broadly retained the typological organisation because the Deed of Gift requires it.",
   "today": "The museum he founded holds more than 600,000 items, nearly all acquired by donation from colonial officials, travellers, scholars and missionaries. In September 2020 it removed human remains from display, including the shrunken heads shown since the 1940s; the director said exhibiting them \"reinforced racist and stereotypical thinking that goes against the museum's core values\". *Inference —* a bequest that fixes a nineteenth-century argument into the furniture is a different kind of object from the things inside the cases, and it is the one the museum cannot deaccession."
+ },
+ "text_th": {
+  "what": "ทหารและนักโบราณคดีชาวอังกฤษ (ค.ศ. 1827–1900) ผู้จัดเรียงวัตถุตามหน้าที่ของมัน ไม่ใช่ตามแหล่งที่มา เขามอบวัตถุกว่า 20,000 ชิ้นให้มหาวิทยาลัยออกซฟอร์ดในปี ค.ศ. 1884 พร้อมเงื่อนไขที่ยังผูกมัดการจัดแสดงมาจนทุกวันนี้ ตู้เครื่องรางทุกตู้ในแอตลาสนี้ที่จัดเครื่องรางญี่ปุ่นไว้ข้างเครื่องรางจากเนเปิลส์ ล้วนตั้งอยู่ภายในความคิดของเขา"
  },
  "dating": {
   "period": "Victorian",
@@ -149,49 +153,63 @@
    "type": "org",
    "name": "The Pitt Rivers Museum",
    "as": "the museum his 1884 gift created, and whose layout his Deed of Gift still governs",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์พิตต์ ริเวอร์ส",
+   "as_th": ""
   },
   {
    "to": "pitt-rivers-charms",
    "type": "place",
    "name": "The amulet and charm cases, Pitt Rivers Museum",
    "as": "the charm cases, which are his typological principle applied to amulets",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตู้เครื่องรางและของขลัง พิพิธภัณฑ์พิตต์ริเวอร์ส",
+   "as_th": ""
   },
   {
    "to": "edward-lovett",
    "type": "person",
    "name": "Edward Lovett",
    "as": "one of the donors who fed the collection, giving between 1896 and 1911",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "เอ็ดเวิร์ด เลิฟเวตต์",
+   "as_th": ""
   },
   {
    "to": "walter-hildburgh",
    "type": "person",
    "name": "Walter Leo Hildburgh",
    "as": "the collector whose amulets reached the museum in 1985, long after the founder's scheme was set",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "วอลเตอร์ ลีโอ ฮิลด์เบิร์ก",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read; his museum is where the question of who a charm in a case belongs to is asked most directly",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "flinders-petrie",
    "type": "person",
    "name": "Flinders Petrie",
    "as": "his contemporary in method — both sorted by small differences, one in trenches, one in cases",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ฟลินเดอร์ส พีทรี",
+   "as_th": ""
   },
   {
    "to": "horseshoe",
    "type": "amulet",
    "name": "Horseshoe",
    "as": "the kind of ordinary English object his scheme put in a case beside its equivalents from everywhere else",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เกือกม้า",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -255,14 +273,18 @@
    "type": "place",
    "name": "The amulet and charm cases, Pitt Rivers Museum",
    "as": "the founder whose sorting rule — by purpose, not by place — is the reason a cimaruta and a Naga packet share a case",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "ตู้เครื่องรางและของขลัง พิพิธภัณฑ์พิตต์ริเวอร์ส",
+   "as_th": ""
   },
   {
    "from": "pitt-rivers-museum",
    "type": "org",
    "name": "The Pitt Rivers Museum",
    "as": "the founder whose 1884 Deed of Gift still fixes how the cases are laid out",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "พิพิธภัณฑ์พิตต์ ริเวอร์ส",
+   "as_th": ""
   }
  ]
 }

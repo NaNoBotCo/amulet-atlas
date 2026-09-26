@@ -11,7 +11,8 @@
   "aliases": [
    "Asakusa Kannon",
    "Kinryū-zan Sensō-ji"
-  ]
+  ],
+  "th": "วัดเซนโซจิ"
  },
  "region": [
   "japan"
@@ -30,6 +31,9 @@
   "what": "Tokyo's oldest-established Buddhist temple, in Asakusa, dedicated to Kannon, the bodhisattva of compassion. You reach the main hall through two gates and a shopping street: the Kaminarimon with its 700-kilogram red lantern, then Nakamise-dōri, 250 metres and about 72 shops, then the Hōzōmon. Omikuji stalls stand inside the precinct and along the approach — shake a numbered stick from a metal canister, read the answer out of one of a hundred drawers.",
   "story": "The temple's origin story is a statue in a net: in 628 two brothers fishing the Sumida pulled up an image of Kannon, and the village headman turned his house into a temple for it. The first documented mention is later, in the Kamakura-period Azuma Kagami, which has Asakusa carpenters called to Kamakura in 1181. Tokugawa Ieyasu made it an official place of prayer for the shogunate in 1590.\n\nThe shops came with permission. In 1685 the temple licensed businesses on the main approach in exchange for their cleaning the grounds, and Nakamise has been a selling street ever since — cleared by government order in May 1885, rebuilt in brick that December, flattened by the 1923 earthquake, rebuilt in concrete in 1925, burnt out in the firebombing of 10 March 1945. The main hall went in that raid too and was rebuilt between 1951 and 1958, now under a titanium roof.\n\nThe temple is the 13th stop on the Bandō Sanjūsankasho pilgrimage route and the most visited religious site in the world, at over 30 million people a year. For a suggested donation of 100 yen a visitor may consult the omikuji oracle.\n\n*Tradition holds —* the shops on a temple approach are not a later commercial layer but a continuous trade in selling to pilgrims who walked here, which is the encyclopedia's own framing of Nakamise.",
   "today": "Open, with the Nakamise shops on the approach and the omikuji stalls in use. This project has not read the temple's published timetable, so no day is marked open or closed below."
+ },
+ "text_th": {
+  "what": "วัดพุทธที่เก่าแก่ที่สุดของโตเกียว ในย่านอาซากุซะ อุทิศแด่พระโพธิสัตว์กวนอิม (คันนง) พระโพธิสัตว์แห่งความกรุณา เข้าถึงวิหารหลักผ่านประตูสองชั้นและถนนร้านค้าหนึ่งสาย: ประตูคามินาริมงพร้อมโคมแดงหนัก 700 กิโลกรัม จากนั้นถนนนากามิเซะ ยาว 250 เมตร มีร้านค้าราว 72 ร้าน แล้วจึงประตูโฮโซมง แผงเซียมซีโอมิกุจิตั้งอยู่ภายในเขตวัดและตามทางเข้า — เขย่ากระบอกโลหะให้ไม้เลขหล่นออกมา แล้วอ่านคำตอบจากลิ้นชักหนึ่งในร้อยลิ้นชัก"
  },
  "dating": {
   "period": "Asuka to the present",
@@ -174,56 +178,72 @@
    "type": "amulet",
    "name": "Omikuji",
    "as": "the drawn fortune, at 100 yen suggested and a hundred possible drawers, taken at stalls inside this precinct",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "โอมิกุจิ (ใบเซียมซีญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "omamori",
    "type": "amulet",
    "name": "Omamori",
    "as": "the packet a temple or shrine issues; Nakamise is the selling street that grew on this approach in 1685",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "the tablet carried home from a temple like this one to the household shelf",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "daruma",
    "type": "amulet",
    "name": "Daruma",
    "as": "the round vow-doll of Japan's market fairs, kin of what the approach's shops have always sold",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ดารุมะ",
+   "as_th": ""
   },
   {
    "to": "japanese-engimono",
    "type": "tradition",
    "name": "Engimono",
    "as": "the tradition of luck objects this approach trades in",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the practice, licensed by the temple in 1685 in exchange for sweeping the grounds",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": ""
   },
   {
    "to": "fushimi-inari",
    "type": "place",
    "name": "Fushimi Inari-taisha",
    "as": "the Kyoto shrine at the other scale — a mountain of donated gates instead of a street of shops",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ศาลเจ้าฟูชิมิอินาริไทฉะ",
+   "as_th": ""
   },
   {
    "to": "market-stall-sign",
    "type": "art",
    "name": "The market stall sign",
    "as": "the drawn signage of a selling street, which Nakamise has carried through four rebuildings",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "ป้ายแผงตลาด",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -334,56 +354,72 @@
    "type": "amulet",
    "name": "Maneki-neko",
    "as": "where Hiroshige drew it being sold in 1852 — the earliest picture of the thing in trade",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "แมวกวัก (มาเนกิเนโกะ)",
+   "as_th": ""
   },
   {
    "from": "omamori",
    "type": "amulet",
    "name": "Omamori",
    "as": "a Buddhist counter issuing the same class of charm, in Tokyo's oldest temple",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "omikuji",
    "type": "amulet",
    "name": "Omikuji",
    "as": "a temple where the drawing goes on beside the charm stalls in Tokyo's oldest temple grounds",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "โอมิกุจิ (ใบเซียมซีญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "phone-charm",
    "type": "amulet",
    "name": "Phone charm",
    "as": "one temple where the strap format sits on the counter beside every other format of the same prayer",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "สายห้อยมือถือ",
+   "as_th": ""
   },
   {
    "from": "japanese-engimono",
    "type": "tradition",
    "name": "Engimono",
    "as": "the approach road the tradition is sold on, licensed by the temple in 1685 in exchange for sweeping the grounds",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "burning-retirement",
    "type": "practice",
    "name": "Burning at retirement",
    "as": "a temple where the year's talismans are obtained and the old ones handed back",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "การเผาเครื่องรางเมื่อหมดวาระ",
+   "as_th": ""
   },
   {
    "from": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the approach road licensed by the temple in 1685, with sweeping the grounds as the rent",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": "ทางเดินสู่วัดที่วัดอนุญาตให้ค้าขายใน ค.ศ. 1685 โดยค่าเช่าคือการกวาดลานวัด"
   },
   {
    "from": "fushimi-inari",
    "type": "place",
    "name": "Fushimi Inari-taisha",
    "as": "the other end of Japan's charm trade in this atlas: a temple approach lined with 72 shops rather than a mountain of gates",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ศาลเจ้าฟูชิมิอินาริไทฉะ",
+   "as_th": ""
   }
  ]
 }

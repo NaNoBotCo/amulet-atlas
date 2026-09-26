@@ -13,7 +13,8 @@
    "protective scroll",
    "kitab",
    "ketab"
-  ]
+  ],
+  "th": "คัมภีร์ม้วนเครื่องรางเอธิโอเปีย (คิตาบ)"
  },
  "region": [
   "east-africa"
@@ -36,6 +37,9 @@
   "story": "The scroll is the size of its owner. That is the first fact anybody who handles one notices, and it is the fact that explains the rest: this is not a text about a person, it is a stand-in for one.\n\nIt is made by a dabtara — an unordained cleric of the Ethiopian Orthodox Church who has gone past memorising the Psalms into poetry, liturgy and writing. In Ethiopia the power to write includes the power to write prayers and spells, so the word carries a second sense as well. The making involves the sacrifice of an animal, usually a goat or a sheep, standing for the person the scroll is for; the patron is rubbed by and bathed in the contents of the animal, and the hide becomes the parchment.\n\nThe writing is Ge'ez, the Ethiopian Orthodox Church's liturgical language. Because few speak it now, a scroll does not work by being owned: a third party literate in Ge'ez has to read it aloud to the afflicted person. *Inference —* that makes the scroll one of the few amulets in this atlas that needs another human being present to function at all.\n\nWhat it is against runs from the small to the fatal. The range the source gives is bed bugs, home intruders, smallpox. It treats the spiritual cause; homeopathic medicines are used alongside it for the physical symptoms. Historical manuscripts show the majority were made for conditions of women's reproductive health.\n\nThe oldest surviving examples are sixteenth-century, though the practice is held to go back to the tenth. The Metropolitan Museum of Art holds several, including an eighteenth- or nineteenth-century scroll of parchment, pigments and cotton.",
   "how": "An animal is sacrificed for the person the scroll is for. The hide is soaked for several days, dried, stretched, then scraped, washed and dried again into parchment. The dabtara writes the prayers and the mystical names and paints the talismanic figures in the six standard colours. A personal scroll is cut to the owner's height, though it may be made longer. It is rolled, often kept in a leather case, and carried; a larger one hangs. To work, it is read aloud in Ge'ez by somebody who can read Ge'ez.",
   "today": "Still made and still commissioned, and still being collected. The Museum of Witchcraft and Magic in Boscastle publishes one, and the Metropolitan Museum publishes several. As of 2026 the split between scrolls made for a patron and scrolls made for the trade in old Ethiopian manuscripts is not something this project has read a figure for."
+ },
+ "text_th": {
+  "what": "แผ่นหนังฟอกยาว ทำจากหนังแพะหรือหนังแกะ แช่น้ำ ตากแห้ง ขึง ขูด และล้างจนรับหมึกได้ เขียนบทสวดภาษากีเอซ (Ge'ez) และวาดภาพเครื่องราง แล้วม้วนเก็บ ม้วนสำหรับบุคคลตัดให้ยาวเท่าความสูงของผู้เป็นเจ้าของ ม้วนที่ใหญ่กว่าแขวนไว้บนผนัง สีที่ใช้คือ ดำ ขาว แดง น้ำเงิน เขียว และเหลือง กางเขนและดาวแปดแฉกปรากฏซ้ำ ๆ รวมทั้งกัตซา ซับเอ (gätsä säb'e) คือใบหน้าที่อยู่ในดาวแปดแฉก และดวงตาที่วาดเป็นคู่แบบเรขาคณิต ขอบตาสีแดง"
  },
  "restricted": {
   "note": "The prayers, the mystical names of God and the invocations written on a scroll are the dabtara's craft and are not reproduced here. This record prints what the scroll is, what it is for, and how it is made — not its text, and no formula.",
@@ -237,70 +241,90 @@
    "type": "tradition",
    "name": "Ethiopian scroll craft",
    "as": "the tradition that makes it — the dabtara's writing, and the church it sits beside without being ordained into",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานคัมภีร์ม้วนเอธิโอเปีย",
+   "as_th": ""
   },
   {
    "to": "coptic-cross-tattoo",
    "type": "amulet",
    "name": "Coptic cross tattoo",
    "as": "the other African Christian mark in this atlas, worn by neighbours up the same river and carried on skin rather than on hide",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "รอยสักกางเขนคอปติก",
+   "as_th": ""
   },
   {
    "to": "cippus-of-horus",
    "type": "amulet",
    "name": "Cippus of Horus",
    "as": "the older Nile answer to the same problem — words that must be got off a surface and into a patient",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ซิปปัสแห่งฮอรัส (ศิลาฮอรัส)",
+   "as_th": ""
   },
   {
    "to": "parchment",
    "type": "material",
    "name": "Parchment",
    "as": "the material, and the animal that stood in for the patron before it became one",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "แผ่นหนัง (พาร์ชเมนต์)",
+   "as_th": ""
   },
   {
    "to": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "the sign painted on it in geometric pairs, rimmed in red, against the harm that arrives by looking",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "cross",
    "type": "motif",
    "name": "The cross",
    "as": "the other sign it carries, and the church whose language it is written in",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "กางเขน",
+   "as_th": ""
   },
   {
    "to": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "what is written on it: prayers, saints, the Trinity, and the mystical names",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "พระนาม",
+   "as_th": ""
   },
   {
    "to": "talismanic-shirt",
    "type": "amulet",
    "name": "Talismanic shirt",
    "as": "another garment-shaped text amulet, cut to a body and covered in writing",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เสื้อยันต์",
+   "as_th": ""
   },
   {
    "to": "merkato-addis",
    "type": "place",
    "name": "Merkato",
    "as": "the market in Addis Ababa where scrolls and church goods are traded",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "เมอร์กาโต",
+   "as_th": ""
   },
   {
    "to": "what-this-atlas-does-not-print",
    "type": "story",
    "name": "What this atlas does not print",
    "as": "the long read behind the restriction on this page — the scroll's text is not printed here",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สิ่งที่แอตลาสนี้ไม่ตีพิมพ์",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -501,49 +525,63 @@
    "type": "amulet",
    "name": "Cippus of Horus",
    "as": "a later charm on the same principle, further up the Nile: words that have to be got off the page and into the patient",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ซิปปัสแห่งฮอรัส (ศิลาฮอรัส)",
+   "as_th": ""
   },
   {
    "from": "coptic-cross-tattoo",
    "type": "amulet",
    "name": "Coptic cross tattoo",
    "as": "the other African Christian protective object in this atlas, made by a cleric rather than a tattooist and read aloud rather than shown",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "รอยสักกางเขนคอปติก",
+   "as_th": ""
   },
   {
    "from": "takrut",
    "type": "amulet",
    "name": "Takrut",
    "as": "the other great rolled text in this atlas: written protection kept in a tube and carried on the body",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตะกรุด",
+   "as_th": "ม้วนข้อความสำคัญอีกชิ้นในแอตลาสนี้ คือการคุ้มครองที่เขียนไว้ เก็บในหลอด และพกติดตัว"
   },
   {
    "from": "ethiopian-scroll-craft",
    "type": "tradition",
    "name": "Ethiopian scroll craft",
    "as": "the object this craft makes, cut to the height of the person it is for",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "งานคัมภีร์ม้วนเอธิโอเปีย",
+   "as_th": ""
   },
   {
    "from": "ink",
    "type": "material",
    "name": "Ink",
    "as": "the neighbouring written tradition that is read aloud and draped, not washed off — named here to mark the difference",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "หมึก",
+   "as_th": "ประเพณีเขียนของเพื่อนบ้านที่อ่านออกเสียงและคลุมไว้ ไม่ได้ล้างออก — ระบุไว้ที่นี่เพื่อชี้ความแตกต่าง"
   },
   {
    "from": "parchment",
    "type": "material",
    "name": "Parchment",
    "as": "the other great parchment charm, cut to the owner's height and rolled",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "แผ่นหนัง (พาร์ชเมนต์)",
+   "as_th": ""
   },
   {
    "from": "merkato-addis",
    "type": "place",
    "name": "Merkato",
    "as": "the Ethiopian protective object this atlas expects near a market this size and cannot source at this address — it is commissioned, not sold",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เมอร์กาโต",
+   "as_th": ""
   }
  ]
 }

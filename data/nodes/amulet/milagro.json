@@ -13,7 +13,8 @@
    "dije",
    "promesa",
    "milagrito"
-  ]
+  ],
+  "th": "มิลาโกร (แผ่นโลหะแก้บน)"
  },
  "etymology": {
   "root": "Spanish milagro, 'miracle' — the word for the answered prayer, used for the token that asks for it or thanks for it",
@@ -45,6 +46,9 @@
   "story": "Milagros are religious folk charms used for healing and as votive offerings in Mexico, the southern United States, other parts of Latin America, and parts of the Iberian Peninsula. They are pinned to altars, shrines and sacred objects, and bought in churches and cathedrals or from vendors outside them.\n\nThe custom is traced to the ancient Iberians of the Spanish coast and travelled with the Spanish into Central and South America. It has thinned since, but it holds in rural Spain — Andalusia, Catalonia and Majorca — alongside its American forms.\n\nA milagro is offered to a saint's image either as a reminder of what the petitioner needs or in thanks for a prayer already answered. The shape does the pointing. But the code is local, not universal: a leg can mean a leg that hurts or a journey to be made; a heart can mean a heart condition, a romance, or something else again. *Inference —* that ambiguity is the interesting part. The object is precise enough to aim a prayer and loose enough that only the petitioner and the saint need know what it is about, which is a useful property for a token left in public on a church wall.\n\nMilagros also get carried rather than pinned, for protection and luck, and the same stampings end up as earrings and necklace charms. They correspond almost exactly to the tamata of the Eastern Orthodox churches — the same body parts, in the same thin metal, on the same kind of icon.",
   "how": "Stamped, cast or cut, then pinned, wired, glued or nailed to the image. A vendor's tray outside a shrine is sorted by body part. Nothing is consecrated before it is offered; the offering is the act. Old milagros accumulate on a much-visited image until the metal is a second garment, and are periodically taken down and stored or sold by the church.",
   "today": "Still sold at church doors and in markets across Mexico, the southwestern United States and rural Spain as of the most recent accounts this project has read. They also sell as craft jewellery to buyers with no shrine in mind, which is the same argument this atlas reports about every charm that reached a gift shop, and does not settle."
+ },
+ "text_th": {
+  "what": "แผ่นโลหะแบนเล็ก ๆ เป็นรูปของสิ่งที่คุณกำลังอธิษฐานขอ — ขา ตา หัวใจ ปอด ชายคุกเข่า วัว บ้าน รถ ส่วนใหญ่เป็นแผ่นดีบุกหรือเงินปั๊ม ยาวไม่กี่เซนติเมตร เจาะรูหรือติดเข็มไว้เพื่อกลัดกับเสื้อคลุมของรูปนักบุญ ราวของแท่นบูชา หรือเรตาโบล (retablo) บางชิ้นปั้นเป็นรูปสามมิติ พบทั้งทองคำ เงิน ดีบุก ตะกั่ว ไม้ กระดูก และขี้ผึ้ง แล้วแต่ว่าช่างในท้องถิ่นทำงานกับวัสดุอะไร"
  },
  "dating": {
   "period": "ancient Iberia to the present",

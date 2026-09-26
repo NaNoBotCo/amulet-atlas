@@ -11,7 +11,8 @@
   "aliases": [
    "apotropaion",
    "apotropaia"
-  ]
+  ],
+  "th": "อะโพโทรเพอิก (กันภัย)"
  },
  "etymology": {
   "root": "Greek apo 'away' + tropos 'turn' > apotrepō (ἀποτρέπω) 'to turn away, to ward off' > apotropaios (ἀποτρόπαιος) 'averting' > English apotropaic",
@@ -39,6 +40,9 @@
  "text": {
   "what": "The scholar's adjective, and nobody's own. No wearer calls a bead apotropaic. It is the word a museum label, an excavation report and a doctoral thesis use for anything meant to turn harm aside — and its one virtue is that it names a purpose without taking a view on whether the purpose is met. This atlas uses it for that reason and no other.",
   "story": "Greek did not need one word, because it had a crowd of them. The ancient sources carry apotropaia, probaskania, periammata, periapta, profylaktika, phylaktiria, antipharmaca, alexicaca, alexipharmaca and alexima pharmaca, all for protective objects, with no one of them dominant.\n\nThe gods came in matching sets. Offerings went to the apotropaioi theoi, the averting gods, and to the Apopompaioi theoi, who send evil away, and the Apōsikakoi theoi, the evil-averting gods. Zeus, Apollo, Heracles and Leucothea all carried the epithet Alexicacus, averter of evil; Heracles was also Keramyntes, another averter.\n\nEnglish boiled the crowd down to one adjective and handed it to the academy. *Inference —* that reduction is why an Egyptian birth tusk, a Roman fascinum, an Irish Brigid's cross and a Japanese ofuda can hang on one wall under one heading. The category is a translation choice, made once, in Greek, and then carried by people writing in English about everybody else.\n\n*Tradition holds —* the practices the word covers rarely describe themselves as a category at all. A household rite in Egypt, spitting into the folds of a garment in Greece, a grasshopper hung before the Acropolis by Peisistratus: these were separate acts to the people doing them, and the adjective that gathers them is ours."
+ },
+ "text_th": {
+  "what": "คำคุณศัพท์ของนักวิชาการ และไม่ใช่คำของใครเอง ไม่มีผู้สวมคนใดเรียกลูกปัดว่า \"อะโพโทรเพอิก\" นี่คือคำที่ป้ายพิพิธภัณฑ์ รายงานการขุดค้น และวิทยานิพนธ์ปริญญาเอก ใช้เรียกสิ่งใดก็ตามที่มุ่งจะปัดเป่าภัย — และข้อดีข้อเดียวของมันคือ มันระบุจุดประสงค์ได้โดยไม่แสดงความเห็นว่าจุดประสงค์นั้นสำเร็จหรือไม่ แอตลาสนี้ใช้คำนี้ด้วยเหตุผลนั้น และไม่ใช่เหตุผลอื่น"
  },
  "dating": {
   "period": "Greek antiquity to the present",
@@ -159,42 +163,54 @@
    "type": "term",
    "name": "ward",
    "as": "the Old English verb that translates this Greek one — the same act, arriving in English from the other direction",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "วอร์ด (ปัดเป่า)",
+   "as_th": ""
   },
   {
    "to": "periapt",
    "type": "term",
    "name": "periapt",
    "as": "one of the Greek protective words this adjective outlived, and the only other to reach English",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "เพริแอปต์ (เครื่องรางแขวนคอ)",
+   "as_th": ""
   },
   {
    "to": "greco-roman-apotropaic",
    "type": "tradition",
    "name": "Greek and Roman protective magic",
    "as": "the tradition the word was quarried out of, and the one it now labels",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน",
+   "as_th": ""
   },
   {
    "to": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "the practices that never used the word and get filed under it anyway",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "to": "fascinum",
    "type": "amulet",
    "name": "Fascinum",
    "as": "the Roman object this adjective is applied to more often than any other",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ฟัสซินุม (เครื่องรางรูปองคชาตโรมัน)",
+   "as_th": ""
   },
   {
    "to": "amulet-word",
    "type": "term",
    "name": "amulet",
    "as": "the noun beside this adjective; one names the thing, the other names what it is for",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "อะมูเล็ต",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -274,35 +290,45 @@
    "type": "amulet",
    "name": "Hex sign",
    "as": "the word the talismanic school uses and the decorative school will not",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "เฮ็กซ์ไซน์ (ป้ายดาวบนโรงนา)",
+   "as_th": ""
   },
   {
    "from": "amulet-word",
    "type": "term",
    "name": "amulet",
    "as": "the scholar's adjective for the same objects, describing the function and claiming nothing for it",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "อะมูเล็ต",
+   "as_th": ""
   },
   {
    "from": "periapt",
    "type": "term",
    "name": "periapt",
    "as": "the other Greek survivor in English, and the one the academy kept instead of this",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "เพริแอปต์ (เครื่องรางแขวนคอ)",
+   "as_th": ""
   },
   {
    "from": "ward-word",
    "type": "term",
    "name": "ward",
    "as": "the Greek adjective whose verb means precisely this, and the one the academy uses instead",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "วอร์ด (ปัดเป่า)",
+   "as_th": ""
   },
   {
    "from": "amulet-or-talisman",
    "type": "story",
    "name": "Amulet or talisman?",
    "as": "the scholar's adjective that was invented to sidestep this whole argument, and belongs to nobody who carries anything",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "อะมูเล็ตหรือทาลิสแมน?",
+   "as_th": ""
   }
  ]
 }

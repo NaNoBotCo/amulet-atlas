@@ -9,7 +9,8 @@
    "apotropaic hand",
    "khamsa hand",
    "afus"
-  ]
+  ],
+  "th": "มือ"
  },
  "region": [
   "maghreb",
@@ -48,6 +49,9 @@
  "text": {
   "what": "A human hand, cast or cut flat and hung where it can be seen. It comes in three postures this atlas keeps apart: the palm open with five fingers spread, the fist with the thumb pushed between two fingers, and two fingers extended with the thumb folded over. Each is a gesture first and an object second — the metal copies something a living hand does.",
   "story": "Open-hand motifs run through the ancient Near East. Von Kemnitz records amulets of the hand of Ishtar used in Mesopotamia and Babylon to keep evil or disease from entering a building. At Khirbet el-Qom in Judah an Iron Age tomb carries an engraved hand beside an inscription; what it meant is argued over, and the usual reading is a protective sign in a funerary setting. One of the first appearances of the hand as the amulet now called the hamsa is in Israelite tombs of around 800 BCE.\n\nThe name it travels under is not one name. Khamsa is Arabic for five. Hand of Fatima is a label Europeans popularised in French colonial North Africa, not an Arabic term. Sephardi and Mizrahi Jews call it the hand of Miriam; Levantine Christians call it kef Miryam, the hand of Mary; in Berber languages afus is simply hand. One shape, five communities, five names, and the argument over which name to print is live.\n\nIn al-Andalus the hand is well documented from the thirteenth century onward. Among Moriscos in Granada, khamsa pendants were described as large engraved medals with a hand inscribed with letters, likely Qur'anic. A reform council banned them in 1526 as Islamic symbols and ordered crosses in their place; the Synod of Guadix renewed the ban in 1554. Christians wore them anyway — a Nasrid-period gold pendant is inscribed Ave Maria gratia plena.\n\n*Inference —* filing the open palm, the fist and the horned hand as one family is this project's decision, not a claim any of their carriers make. What they share is a gesture arrested in metal and aimed outward. Each has its own record here."
+ },
+ "text_th": {
+  "what": "มือมนุษย์ หล่อหรือตัดเป็นแผ่นแบน แขวนไว้ในที่ที่มองเห็นได้ มีสามท่าที่แอตลาสนี้แยกออกจากกัน คือฝ่ามือแบห้านิ้วกางออก กำปั้นที่สอดนิ้วโป้งไว้ระหว่างสองนิ้ว และสองนิ้วชูขึ้นโดยพับนิ้วโป้งทับไว้ แต่ละท่าเป็นท่ามือก่อน แล้วจึงเป็นวัตถุ โลหะลอกแบบสิ่งที่มือของคนที่มีชีวิตทำ"
  },
  "kin": [
   {
@@ -273,63 +277,81 @@
    "type": "motif",
    "name": "The open palm",
    "as": "the flat five-fingered posture, and the one most of the world now buys",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ฝ่ามือเปิด (ฮัมซา)",
+   "as_th": ""
   },
   {
    "to": "fist",
    "type": "motif",
    "name": "The fig fist",
    "as": "the closed posture — a rude gesture cast in silver and hung on a baby",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กำปั้นฟิก (มาโนฟิกา)",
+   "as_th": ""
   },
   {
    "to": "hamsa",
    "type": "amulet",
    "name": "Hamsa",
    "as": "the amulet this sign is named for across North Africa and the Middle East",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ฮัมซา (มือกันภัย)",
+   "as_th": ""
   },
   {
    "to": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "the sign usually set in this one's palm; two answers to the same harm stacked on one object",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "figa",
    "type": "amulet",
    "name": "Figa",
    "as": "the Iberian and Brazilian hand, carved in jet and given to children",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ฟีกา (กำปั้นกันภัย)",
+   "as_th": ""
   },
   {
    "to": "cornicello",
    "type": "amulet",
    "name": "Cornicello",
    "as": "Naples pairs the horn with the mano cornuta, a hand held with two fingers out",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คอร์นิเชลโล (เขานำโชคอิตาลี)",
+   "as_th": ""
   },
   {
    "to": "milagro",
    "type": "amulet",
    "name": "Milagro",
    "as": "a tin hand nailed to a votive wall asks for a hand to be healed — the same shape doing the opposite job",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "มิลาโกร (แผ่นโลหะแก้บน)",
+   "as_th": ""
   },
   {
    "to": "nazar",
    "type": "amulet",
    "name": "Nazar",
    "as": "the glass bead this hand is sold beside, and is often set into",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "to": "the-eye-everywhere",
    "type": "story",
    "name": "The eye everywhere",
    "as": "the long read that puts hand, horn and eye in one family and asks whether they belong there",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ดวงตาทุกหนแห่ง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -577,70 +599,90 @@
    "type": "amulet",
    "name": "Cimaruta",
    "as": "one of the charms on its branches — a hand holding a wand or a sword — and a sign that stands alone elsewhere in this atlas",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ชีมารูตา (กิ่งต้นรูเครื่องรางอิตาลี)",
+   "as_th": ""
   },
   {
    "from": "figa",
    "type": "amulet",
    "name": "Figa",
    "as": "the wider family — the open palm answers the same look with the opposite gesture",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ฟีกา (กำปั้นกันภัย)",
+   "as_th": ""
   },
   {
    "from": "hamsa",
    "type": "amulet",
    "name": "Hamsa",
    "as": "the sign this object is, and the reason it works in traditions that share nothing else",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ฮัมซา (มือกันภัย)",
+   "as_th": ""
   },
   {
    "from": "tama-votive",
    "type": "amulet",
    "name": "Tama",
    "as": "the shape with the oldest story attached to it — John of Damascus had a silver one made for the hand he said was restored",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ทามา (แผ่นโลหะถวายของกรีก)",
+   "as_th": ""
   },
   {
    "from": "fist",
    "type": "motif",
    "name": "The fig fist",
    "as": "the wider family of hand signs; this is the closed one",
-   "rel": "whole"
+   "rel": "whole",
+   "name_th": "กำปั้นฟิก (มาโนฟิกา)",
+   "as_th": ""
   },
   {
    "from": "horn",
    "type": "motif",
    "name": "The horn",
    "as": "the mano cornuta makes the same horn out of two fingers",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เขา (คอร์นิเชลโล)",
+   "as_th": ""
   },
   {
    "from": "open-palm",
    "type": "motif",
    "name": "The open palm",
    "as": "the wider family of hand signs, of which this is the open posture",
-   "rel": "whole"
+   "rel": "whole",
+   "name_th": "ฝ่ามือเปิด (ฮัมซา)",
+   "as_th": ""
   },
   {
    "from": "walter-hildburgh",
    "type": "person",
    "name": "Walter Leo Hildburgh",
    "as": "the Spanish hand-shaped charm he wrote a paper on",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "วอลเตอร์ ลีโอ ฮิลด์เบิร์ก",
+   "as_th": ""
   },
   {
    "from": "hamsa-word",
    "type": "term",
    "name": "hamsa",
    "as": "the sign the number is counting, and the reason the word means what it does",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ฮัมซา",
+   "as_th": ""
   },
   {
    "from": "the-drawn-signs",
    "type": "art",
    "name": "The drawn signs",
    "as": "drawn twice here — as a hamsa-style hand and as an open palm, because the two are used differently",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ภาพสัญลักษณ์ลายเส้น",
+   "as_th": ""
   }
  ]
 }

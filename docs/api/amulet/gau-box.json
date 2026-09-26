@@ -14,7 +14,8 @@
    "gao",
    "amulet box",
    "portable shrine"
-  ]
+  ],
+  "th": "กาอู (ตลับเครื่องรางทิเบต)"
  },
  "region": [
   "himalaya-tibet",
@@ -43,6 +44,9 @@
   "story": "James Gentry, writing for Project Himalayan Art at the Rubin Museum in 2023, catalogues one box closely enough to see into it. It was made in Kathmandu in the first decade of the twenty-first century, measures 9 × 8 × 4 cm, and is a golden nimbus-shaped box built to imitate a Buddhist reliquary, with the Wish-Fulfilling Jewel above its window and offerings below. Behind the window sits an amulet diagram wrapped in five-coloured cords with three dark brown pills; also inside are two reddish brown pills composed of relics said to be from the eighth-century Indian tantric master Padmasambhava, and two small golden pills of unknown composition. The box shows the diagram through the window and keeps the rest concealed behind it.\n\nThe contents were handselected by Chokling Rinpoche, who prepared them and consecrated the box, and the box was a personal gift from the Tsike Chokling, Fourth Karma Mingyur Dewe Dorje (1953–2020), to two of his students. That chain — a named lama fills it, a named lama gives it, a named student wears it — is what the object is. A gau bought empty is a case.\n\nMore broadly the boxes hold miniature statues, photographs of lamas, votive plaques, amulets, Sanskrit mantras written on small pieces of paper, relic pills, and materials taken from sacred sites; Himalayan Art Resources adds small texts, blessing cords and consecrated medicine, and notes they are typically carried on pilgrimage or on long business trips, with larger ones serving as makeshift shrines while travelling.",
   "how": "Assembled and consecrated by a lama, then closed. Smaller boxes hang from a cord or strap at the neck; larger ones are worn over the chest or under the arm on a leather strap or a cloth band. This atlas does not print how a gau is filled or what is said over it: the filling is a lama's work, done for a particular wearer, and the rite belongs to a body of practice Tibetan Buddhism restricts to those who have received empowerment.",
   "today": "Made and worn across the Tibetan-Buddhist world as of 2026 — Tibet, Bhutan, Nepal, Ladakh, Sikkim, Mongolia — and made for sale in Kathmandu, where Gentry's example was made. Empty gaus are also a standard item in the Himalayan visitor trade, sold as jewellery, and whether an empty one is the same object is a question the tradition answers by asking who filled it."
+ },
+ "text_th": {
+  "what": "กล่องโลหะที่สวมโดยปิดไว้ตลอด ฮิมาลายันอาร์ตรีซอร์สเซส (Himalayan Art Resources) เรียกวัตถุประเภทนี้ว่าศาลบูชาพกพา โดยทั่วไปทำจากโลหะดุนลาย (repoussé) คือตีจากด้านหลังให้ลวดลายนูนขึ้นทางด้านหน้า กล่องขนาดเล็กเป็นทรงกลมหรือทรงรี ห้อยคอด้วยเชือก ขนาดกลางมีสามส่วน คือภาชนะโลหะ ผ้าคลุมด้านนอก และสิ่งที่บรรจุอยู่ภายใน และมักมีช่องหน้าต่างที่มีรูปภาพอยู่ด้านหลัง ขนาดใหญ่ที่สุดมีรูปทรงเหมือนศาลบูชา ใหญ่เกินกว่าจะพกพา ตั้งไว้บนหิ้งบูชาในบ้านหรือในวัด กล่องของผู้ชายสูงตั้งแต่ราว 1 นิ้วไปจนถึงกว่า 14 นิ้ว สิ่งที่อยู่ข้างในคือหัวใจของมัน และไม่ได้เปิดให้ใครเห็น"
  },
  "restricted": {
   "note": "What goes inside a gau is selected, prepared and consecrated by a lama for a particular wearer, and the box is kept closed — the published example shows one item through its window and conceals the rest. This atlas prints what a named lama's published catalogue entry shows and stops. It does not reconstruct a filling or a consecration, because those belong to tantric practice, and Tibetan Buddhism holds that without having gone through initiation one is generally not allowed to practise the higher Tantras.",
@@ -231,70 +235,90 @@
    "type": "amulet",
    "name": "Sungkhor",
    "as": "the thing most often found inside — the folded, thread-wrapped protection diagram that the window of a gau usually shows",
-   "rel": "part"
+   "rel": "part",
+   "name_th": "ซุงคอร์ (วงล้อคุ้มครองทิเบต)",
+   "as_th": ""
   },
   {
    "to": "tibetan-protection",
    "type": "tradition",
    "name": "Tibetan protection craft",
    "as": "the tradition that fills it, and that decides who is entitled to",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางป้องกันภัยทิเบต (ซุงวา)",
+   "as_th": ""
   },
   {
    "to": "dzi-bead",
    "type": "amulet",
    "name": "Dzi bead",
    "as": "what hangs on the same necklace, and the other Himalayan object whose value depends on a history nobody can read off its surface",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "หินดีซี (ลูกปัดทิเบต)",
+   "as_th": ""
   },
   {
    "to": "tabiz",
    "type": "amulet",
    "name": "Tabiz",
    "as": "the same idea two mountain ranges west: a written text sealed in metal that the wearer is not meant to open",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตาบีซ (เครื่องรางคำอธิษฐาน)",
+   "as_th": ""
   },
   {
    "to": "hirz-pouch",
    "type": "amulet",
    "name": "Hirz",
    "as": "the leather-cased cousin from North Africa, carried the same way at the neck",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ฮิรซ์ (ตลับใส่โองการอัลกุรอาน)",
+   "as_th": ""
   },
   {
    "to": "barkhor-lhasa",
    "type": "place",
    "name": "The Barkhor",
    "as": "the circuit boxes are worn on, and bought beside",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "บาร์คอร์",
+   "as_th": ""
   },
   {
    "to": "kathmandu-thamel",
    "type": "place",
    "name": "Thamel",
    "as": "where the catalogued example was made, and where empty cases are sold as jewellery",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ทาเมล",
+   "as_th": ""
   },
   {
    "to": "wearing-hidden",
    "type": "practice",
    "name": "Wearing hidden",
    "as": "the practice the object exists for: the contents are covered, and stay covered",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การสวมเครื่องรางแบบซ่อน",
+   "as_th": ""
   },
   {
    "to": "consecration",
    "type": "practice",
    "name": "Consecration",
    "as": "the step no buyer can perform for themselves — a lama's, and the reason a bought case is not yet a gau",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การปลุกเสก",
+   "as_th": ""
   },
   {
    "to": "omamori",
    "type": "amulet",
    "name": "Omamori",
    "as": "Japan's sealed pouch, bought at a shrine and likewise not to be opened — the same rule reached by a different route",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -483,77 +507,99 @@
    "type": "amulet",
    "name": "Dzi bead",
    "as": "what hangs on the same cord: the box holds the written amulet, the bead hangs beside it",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "หินดีซี (ลูกปัดทิเบต)",
+   "as_th": ""
   },
   {
    "from": "ladanka",
    "type": "amulet",
    "name": "Ladanka",
    "as": "the Tibetan version — a metal case at the neck with a consecrated thing inside, and a hinged lid",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ลาดันกา (ถุงกำยานออร์โธด็อกซ์)",
+   "as_th": ""
   },
   {
    "from": "lungta-flag",
    "type": "amulet",
    "name": "Lung ta prayer flag",
    "as": "the household's other printed protection, kept shut in metal while this one is left out to fade",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ธงลุงตา (ธงมนต์ม้าลม)",
+   "as_th": ""
   },
   {
    "from": "ongon",
    "type": "amulet",
    "name": "Ongon",
    "as": "the Buddhist container that shares Mongolia with it, filled by a lama rather than by a shaman",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "องกอน",
+   "as_th": ""
   },
   {
    "from": "sungkhor",
    "type": "amulet",
    "name": "Sungkhor",
    "as": "the case it usually travels in, and the window it usually sits behind",
-   "rel": "whole"
+   "rel": "whole",
+   "name_th": "ซุงคอร์ (วงล้อคุ้มครองทิเบต)",
+   "as_th": ""
   },
   {
    "from": "tabiz",
    "type": "amulet",
    "name": "Tabiz",
    "as": "the Himalayan neighbour: another sealed metal container whose contents the wearer is not expected to open",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตาบีซ (เครื่องรางคำอธิษฐาน)",
+   "as_th": ""
   },
   {
    "from": "tibetan-protection",
    "type": "tradition",
    "name": "Tibetan protection craft",
    "as": "the container this tradition is best known by, and the one that keeps its contents out of sight",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "งานเครื่องรางป้องกันภัยทิเบต (ซุงวา)",
+   "as_th": ""
   },
   {
    "from": "turquoise",
    "type": "material",
    "name": "Turquoise",
    "as": "the Himalayan amulet box this stone is set into, with coral, on silver",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เทอร์ควอยซ์",
+   "as_th": ""
   },
   {
    "from": "barkhor-lhasa",
    "type": "place",
    "name": "The Barkhor",
    "as": "the amulet case worn at the throat on this plateau, holding what a lama has given",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "บาร์คอร์",
+   "as_th": ""
   },
   {
    "from": "kathmandu-thamel",
    "type": "place",
    "name": "Thamel",
    "as": "the amulet case the Himalaya wears at the throat, made in metal by the valley's own smiths",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ทาเมล",
+   "as_th": ""
   },
   {
    "from": "dating-a-charm",
    "type": "story",
    "name": "Dating a charm",
    "as": "the dated-object case — a twenty-first-century example standing in for a form nobody here could date",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "การระบุอายุเครื่องราง",
+   "as_th": ""
   }
  ]
 }

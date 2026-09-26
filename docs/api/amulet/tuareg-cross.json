@@ -16,7 +16,8 @@
    "talhakim",
    "zakkat",
    "kaulé"
-  ]
+  ],
+  "th": "กางเขนอากาเดซ"
  },
  "etymology": {
   "root": "Tamashek tanaghilt / tasagalt, 'cast in a mould' — the name is a description of the method, not of a shape. Talhakim covers jewellery resembling a plate or a plate shield. Zakkat is the general Tamashek word for pendants; kaulé is widespread across the Sahel.",
@@ -46,6 +47,9 @@
   "story": "This is the best-known category of Saharan Berber jewellery, made especially by the Tuareg of Niger — and its use is narrower than its fame. Current use of tanaghilt and talhakim is restricted to a few Tuareg groups, the Kel Aïr and the Kel Geress, and to non-Berber peoples across Niger who have taken it up: Songhai, Zarma, Fulani, Hausa. Other Tuareg barely use them. Worn as ornaments, the pieces hang at the neck; a tanaghilt is also fixed to a woman's veil or to her forehead, and fixed upside down.\n\nAsk the people wearing them what the shape means and the answers go vague. The source says so flatly: any question about their symbolism put to the users generally elicits only vague answers. Some name it a grigri; some call it a reserve of wealth.\n\nThe ethnologists Germaine Dieterlen and Ziedonis Ligers recorded one occasion that does give the object a sentence of its own. A father handed the jewel to his son at the age of virility, marriage and nomadism, and said: \"My son, I give you the four directions of the world, because we do not know where you will go to die.\"\n\nA Tuareg elder's narration gives another origin. A young nomad wanted to declare his love to a girl shut up at home and out of reach. The village blacksmith had an important place in Tuareg society and the right to enter the houses of all the families he traded with, so the young man had a jewel forged that combined the two syllables of the Tamashek word tara, love, written ⵜⵔ in Tifinagh, and sent the blacksmith in with it.\n\n*Tradition holds —* the image may go back to ancient stylised images of the Carthaginian goddess Tanit. The source offers that as a possibility and this atlas leaves it there.",
   "how": "Cast by a blacksmith in silver by the lost-wax process — a wax model, a mould, the wax melted out, the metal poured in — and never hammered. The stone and platelet kinds are cut. Worn at the neck, or fixed to a woman's veil or forehead, upside down.",
   "today": "Made and worn, and also the standard thing a visitor to Niger brings home. As of 2026 this project has read no figure for the split between the two, and no source that says Tuareg smiths object to either."
+ },
+ "text_th": {
+  "what": "จี้หล่อ มักเป็นเงิน มีห่วงหรือวงแหวนที่ด้านบน และตัวจี้ด้านล่างบานกว้างออก — บางครั้งเป็นกางเขน บ่อยกว่านั้นเป็นรูปทรงระหว่างกางเขนกับโล่ ช่างตีเหล็กหล่อด้วยวิธีขี้ผึ้งหาย และไม่เคยตีขึ้นรูปโลหะเลย แบบรูปแผ่นที่เรียกว่า ตัลฮากิม (talhakim) ตัดจากหินเนื้ออ่อน หรือจากแผ่นทองแดง อะลูมิเนียม หรือโลหะอื่น ส่วนตานาฆิลต์ (tanaghilt) ทำจากหินหรือทองแดง"
  },
  "dating": {
   "period": "living Tuareg practice; the image is sometimes traced further back",
@@ -205,49 +209,63 @@
    "type": "amulet",
    "name": "Gris-gris",
    "as": "the word some wearers reach for when asked what this is — a Mande word travelling north across the Sahel with the object it names",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "กรีกรี (ถุงเครื่องรางแอฟริกาตะวันตก)",
+   "as_th": ""
   },
   {
    "to": "silver",
    "type": "material",
    "name": "Silver",
    "as": "the metal the smiths cast it in, and never hammer",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เงิน (โลหะเงิน)",
+   "as_th": ""
   },
   {
    "to": "cross",
    "type": "motif",
    "name": "The cross",
    "as": "the sign in the European name, which most of these pieces do not actually make",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "กางเขน",
+   "as_th": ""
   },
   {
    "to": "islamic-talismanic",
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "the tradition of the region it is worn in, though nothing in the sources read here puts writing inside this object",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "to": "marrakesh-souk",
    "type": "place",
    "name": "The Marrakesh souk",
    "as": "the northern market where Saharan silver of this kind reaches buyers",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตลาดซูกมาร์ราเกช",
+   "as_th": ""
   },
   {
    "to": "hirz-pouch",
    "type": "amulet",
    "name": "Hirz",
    "as": "the other silver charm in this batch, and the contrast: that one is a container for a text, this one is solid",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ฮิรซ์ (ตลับใส่โองการอัลกุรอาน)",
+   "as_th": ""
   },
   {
    "to": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the long read on what a visitor buys and what a wearer wears",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดของปลอม",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -386,28 +404,36 @@
    "type": "amulet",
    "name": "Hirz",
    "as": "the other silver charm in this batch, and the contrast: that one holds nothing",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ฮิรซ์ (ตลับใส่โองการอัลกุรอาน)",
+   "as_th": ""
   },
   {
    "from": "west-african-charm-craft",
    "type": "tradition",
    "name": "West African charm craft",
    "as": "the Saharan silver worn at the northern edge of the same trade routes, and called a grigri by some of its wearers",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "งานเครื่องรางแอฟริกาตะวันตก",
+   "as_th": ""
   },
   {
    "from": "cross",
    "type": "motif",
    "name": "The cross",
    "as": "the Saharan pendant called a cross in French and something else in Tamashek",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กางเขน",
+   "as_th": ""
   },
   {
    "from": "copper",
    "type": "material",
    "name": "Copper and bronze",
    "as": "the Saharan pendant whose plainer forms are cut from copper where the silver ones are cast by lost wax",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ทองแดงและสำริด",
+   "as_th": ""
   }
  ]
 }

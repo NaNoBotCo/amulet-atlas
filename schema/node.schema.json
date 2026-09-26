@@ -22,7 +22,8 @@
     "lang": {"type": "string", "description": "BCP-47-ish language tag for `native`, e.g. ar, th, he, ja, am"},
     "said": {"type": "string", "description": "how it is said out loud where it is used"},
     "aliases": {"type": "array", "items": {"type": "string"}},
-    "sort": {"type": "string"}
+    "sort": {"type": "string"},
+    "th": {"type": "string", "description": "the name in Thai, for the Thai edition; for a Thai practice the same as `native`"}
    }
   },
   "etymology": {
@@ -56,6 +57,23 @@
     "notes": {"type": "string"}
    }
   },
+  "text_th": {
+   "type": "object",
+   "additionalProperties": false,
+   "description": "the Thai edition's text, written in Thai, same sections as `text`; a section left out shows the English with a note",
+   "properties": {
+    "what": {"type": "string"},
+    "story": {"type": "string"},
+    "how": {"type": "string"},
+    "today": {"type": "string"},
+    "notes": {"type": "string"}
+   }
+  },
+  "th_fields": {
+   "type": "object",
+   "description": "Thai for the short structured fields, keyed by path: etymology.root, dating.note, object.made_by, against.0.who, confusable_with.1.tell, sections.0.h …; a path left out shows the English",
+   "additionalProperties": {"type": "string"}
+  },
   "kin": {
    "type": "array",
    "description": "what other nodes ARE to this one, said from here. Directional: the other record says its own sentence back.",
@@ -66,6 +84,7 @@
     "properties": {
      "to": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"},
      "as": {"type": "string", "minLength": 1},
+     "as_th": {"type": "string", "description": "the `as` sentence in Thai"},
      "rel": {"type": "string", "enum": ["part", "whole", "origin", "descendant", "contrast", "parallel", "place", "person", "event", "term", "motif", "material", "practice", "tradition", "carries", "carried-by", "made-at", "held-at", "same-word", "kin", "org", "art", "story", "source"]}
     }
    }

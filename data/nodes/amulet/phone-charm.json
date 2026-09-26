@@ -8,7 +8,14 @@
   "script": "Han",
   "lang": "ja",
   "said": "keitai sutorappu, 'mobile strap'",
-  "aliases": ["keitai strap", "phone strap", "phone dangler", "phone lanyard", "phone chain"]
+  "aliases": [
+   "keitai strap",
+   "phone strap",
+   "phone dangler",
+   "phone lanyard",
+   "phone chain"
+  ],
+  "th": "สายห้อยมือถือ"
  },
  "etymology": {
   "root": "Japanese 携帯 keitai, 'portable', used on its own for a mobile phone, plus English strap borrowed as ストラップ sutorappu",
@@ -16,14 +23,39 @@
   "tier": "cited",
   "source": "s:wp-ja-strap"
  },
- "region": ["japan", "north-america", "britain-ireland", "korea", "world"],
- "countries": ["JP", "US", "GB", "IE", "KR"],
- "facets": {"era": "modern", "status": "living", "portable": "carried", "restricted": "open", "hemisphere": ["N", "E", "W"]},
+ "region": [
+  "japan",
+  "north-america",
+  "britain-ireland",
+  "korea",
+  "world"
+ ],
+ "countries": [
+  "JP",
+  "US",
+  "GB",
+  "IE",
+  "KR"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "living",
+  "portable": "carried",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E",
+   "W"
+  ]
+ },
  "text": {
   "what": "A small figure, bead, tassel or brocade pouch on a thin cord, knotted with a lark's head through a hole in a phone or a case. Where a handset has no hole, it goes on a silicone plug pushed into a jack port, a lobster clasp, a circle cotter or a lanyard. The cord is the object; what hangs on the end of it is negotiable.",
   "story": "This started as a safety feature and turned into a charm rack, and the sequence is documented.\n\nThe Japanese account gives the mechanism first: handsets carried a ストラップホール, a strap hole, and a thin loop was passed through it. One explanation it records for why straps spread in Japan is the Product Liability Law of 1995: carriers told users to put a hand through the strap so the phone would not be dropped. 落下防止 — fall prevention. That is a claim about gravity, and it is the only claim in this record that nobody argues with.\n\nThen the hole filled up. By the late 1990s and early 2000s, hanging ten or more straps at once was a fashion among young people in Japan, to the point where the straps could outweigh the phone. The English account says phone charms \"first originated in Japan and later in the United States\", and spread from there to the United Kingdom and Ireland. When the iPhone 3GS arrived in 2008 without an attachment slot, a Korean company answered with hanging charms fixed by screws. The British designer Anya Hindmarch put charms into a collection called Pimp Your Phones in 2018.\n\nWhat gets hung there is the reason this object is in an amulet atlas rather than an accessories one. Omamori — the brocade pouches Japanese shrines and temples issue, with a prayer or an invocation sealed inside and a rule against opening them — are, in the cited account's words, \"often spotted on bags, hung on cellphone straps, in cars, etc.\" The shrine's range is specific about what each is for: kōtsū-anzen for traffic safety, gakugyō-jōju for passing examinations, en-musubi for finding a partner, anzan for a safe delivery, shōbai-hanjō for business. Dazaifu Tenmangū sells a keychain amulet for safe travel and a bracelet amulet, which is the same shift in fastening. *Inference —* a charm designed to be tied to something found a phone waiting with a hole already drilled in it, and the reason there was a hole had nothing to do with the charm.\n\nThe argument attached to this object is the usual one and the shrines are on record in it. The cited account notes that when demand outruns what a shrine can make, popular shrines and temples turn to factories, and that \"priests have been known to complain about the quality and authenticity of the products made by factories\". It also records the other end: generic omamori sold in ordinary Japanese shops with Mickey Mouse, Hello Kitty, Snoopy or Kewpie on them, issued by no shrine and typically not spiritual in nature. That is two named positions, and this atlas reports both and settles neither.\n\n*Inference —* the strap is also the clearest case in this atlas of a charm losing its mounting. The flip phone had a hole; the slab phone mostly does not, and the workarounds — the jack plug, the screw, the case with a loop moulded in — are all later inventions answering the same problem. What happens to a carried charm when the thing it was tied to changes shape is a question this collection will keep meeting.",
   "how": "Bought at a phone shop, a shrine office, a souvenir counter, a convenience store, or given away with a drink or as promotional merchandise. Attached with a cow-hitch or lark's-head knot through the strap hole, or by whatever adapter the handset forces. An omamori on a strap follows the omamori rules: not opened, replaced about once a year, returned to the shrine it came from to be burnt. A character strap follows no rules at all.",
   "today": "Still sold in 2026, and still standard on Japanese shrine counters, where the strap format is one of several the same prayer is sold in. No dated price was read for this record, and neither the Japanese nor the English account this project read publishes a market figure."
+ },
+ "text_th": {
+  "what": "ตุ๊กตาตัวเล็ก ลูกปัด พู่ หรือถุงผ้าไหมยกดอก ห้อยกับเชือกเส้นเล็ก ผูกด้วยเงื่อนผูกวัว (lark's head) ผ่านรูบนโทรศัพท์หรือเคส ถ้าเครื่องไม่มีรู ก็ใช้จุกซิลิโคนเสียบช่องเสียบ ตะขอก้ามปู ห่วงสลัก หรือสายคล้อง เชือกคือตัววัตถุ สิ่งที่ห้อยอยู่ปลายเชือกเปลี่ยนได้"
  },
  "dating": {
   "period": "the mobile phone era",
@@ -39,11 +71,23 @@
  },
  "object": {
   "form": "pendant",
-  "materials": ["plastic", "cloth", "thread", "wood"],
-  "worn": ["phone", "pocket"],
+  "materials": [
+   "plastic",
+   "cloth",
+   "thread",
+   "wood"
+  ],
+  "worn": [
+   "phone",
+   "pocket"
+  ],
   "made_by": "phone accessory makers, souvenir manufacturers, drinks and food promotions, and shrines and temples — which use factories themselves when demand outruns them",
   "inscription": "on a shrine strap, the shrine's name woven into the brocade; on everything else, a character or a logo",
-  "colour": ["red", "white", "gold"],
+  "colour": [
+   "red",
+   "white",
+   "gold"
+  ],
   "single_use": false,
   "source": "s:wp-ja-strap",
   "note": "Form is entered as pendant for the thing that dangles; the cord itself would be 'cord' and this project's list has no key for a strap. No published measurement was read, so no length_mm is entered."
@@ -71,24 +115,76 @@
   }
  ],
  "kin": [
-  {"to": "omamori", "as": "the thing most often on the end of the cord in Japan, carrying its own rules about not being opened", "rel": "carries"},
-  {"to": "exam-charm", "as": "the variety a student hangs there in January, and the one with a chocolate bar attached to it", "rel": "kin"},
-  {"to": "maneki-neko", "as": "one of the figures the strap trade shrank to thumb size, and the shop-counter original it came from", "rel": "kin"},
-  {"to": "daruma", "as": "another, and the other Japanese object that is bought small as a souvenir and large as a vow", "rel": "kin"},
-  {"to": "evil-eye-bracelet", "as": "the other charm in this atlas whose cited worn-list already includes a phone", "rel": "parallel"},
-  {"to": "worry-stone", "as": "the other thing in a modern pocket that gets touched all day without being looked at", "rel": "parallel"},
-  {"to": "car-saint", "as": "what hangs from the mirror where this hangs from the handset, doing the same job from the next surface over", "rel": "parallel"},
-  {"to": "knotting", "as": "the practice that attaches it — a lark's head through a drilled hole, which is the oldest technique in this record", "rel": "practice"},
-  {"to": "the-charm-goes-digital", "as": "the long read this is the hinge of: the charm did not go into the phone, it was tied to the outside of it", "rel": "story"},
-  {"to": "senso-ji", "as": "one temple where the strap format sits on the counter beside every other format of the same prayer", "rel": "place"}
+  {
+   "to": "omamori",
+   "as": "the thing most often on the end of the cord in Japan, carrying its own rules about not being opened",
+   "rel": "carries"
+  },
+  {
+   "to": "exam-charm",
+   "as": "the variety a student hangs there in January, and the one with a chocolate bar attached to it",
+   "rel": "kin"
+  },
+  {
+   "to": "maneki-neko",
+   "as": "one of the figures the strap trade shrank to thumb size, and the shop-counter original it came from",
+   "rel": "kin"
+  },
+  {
+   "to": "daruma",
+   "as": "another, and the other Japanese object that is bought small as a souvenir and large as a vow",
+   "rel": "kin"
+  },
+  {
+   "to": "evil-eye-bracelet",
+   "as": "the other charm in this atlas whose cited worn-list already includes a phone",
+   "rel": "parallel"
+  },
+  {
+   "to": "worry-stone",
+   "as": "the other thing in a modern pocket that gets touched all day without being looked at",
+   "rel": "parallel"
+  },
+  {
+   "to": "car-saint",
+   "as": "what hangs from the mirror where this hangs from the handset, doing the same job from the next surface over",
+   "rel": "parallel"
+  },
+  {
+   "to": "knotting",
+   "as": "the practice that attaches it — a lark's head through a drilled hole, which is the oldest technique in this record",
+   "rel": "practice"
+  },
+  {
+   "to": "the-charm-goes-digital",
+   "as": "the long read this is the hinge of: the charm did not go into the phone, it was tied to the outside of it",
+   "rel": "story"
+  },
+  {
+   "to": "senso-ji",
+   "as": "one temple where the strap format sits on the counter beside every other format of the same prayer",
+   "rel": "place"
+  }
  ],
  "confusable_with": [
-  {"id": "omamori", "tell": "the omamori is the pouch; this record is the cord it is tied to, and the same cord takes a cartoon character with no shrine behind it"}
+  {
+   "id": "omamori",
+   "tell": "the omamori is the pouch; this record is the cord it is tied to, and the same cord takes a cartoon character with no shrine behind it"
+  }
  ],
  "links": [
-  {"label": "Mobile phone charm — Wikipedia", "url": "https://en.wikipedia.org/wiki/Mobile_phone_charm"},
-  {"label": "ストラップ — Japanese Wikipedia", "url": "https://ja.wikipedia.org/wiki/ストラップ"},
-  {"label": "Omamori — Wikipedia", "url": "https://en.wikipedia.org/wiki/Omamori"}
+  {
+   "label": "Mobile phone charm — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mobile_phone_charm"
+  },
+  {
+   "label": "ストラップ — Japanese Wikipedia",
+   "url": "https://ja.wikipedia.org/wiki/ストラップ"
+  },
+  {
+   "label": "Omamori — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Omamori"
+  }
  ],
  "sources": [
   "s:wp-ja-strap",
@@ -97,15 +193,32 @@
   "s:web-dazaifu-tenmangu-amulets"
  ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-ja-strap"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-ja-strap"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:wp-ja-strap", "note": "the Japanese article was read in translation; the 1995 Product Liability Law is given there as one explanation among others and is hedged here as such. The 2008 and 2018 dates are from the English article, the omamori material from the omamori article. The stretches marked *Inference —* are this project's."},
-   "text.today": {"tier": "inference", "note": "current sale reasoned from the cited accounts; no market figure and no dated price read"},
-   "dating": {"tier": "cited", "source": "s:wp-ja-strap", "note": "1995 is a theory the source records, not a documented first strap, and the note says so"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-ja-strap",
+    "note": "the Japanese article was read in translation; the 1995 Product Liability Law is given there as one explanation among others and is hedged here as such. The 2008 and 2018 dates are from the English article, the omamori material from the omamori article. The stretches marked *Inference —* are this project's."
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "current sale reasoned from the cited accounts; no market figure and no dated price read"
+   },
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-ja-strap",
+    "note": "1995 is a theory the source records, not a documented first strap, and the note says so"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Keitai straps.jpg", "File:Mobile phone charms Japan.jpg"],
+ "x_commons_files": [
+  "File:Keitai straps.jpg",
+  "File:Mobile phone charms Japan.jpg"
+ ],
  "confidence": "medium",
  "needs_verification": true,
  "updated": "2026-09-17"

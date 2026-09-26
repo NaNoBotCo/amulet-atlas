@@ -8,7 +8,15 @@
   "script": "Han",
   "lang": "ja",
   "said": "gōkaku kigan, 'prayer for passing'; in Korean, the gift is yeot (엿) or chapssaltteok (찹쌀떡)",
-  "aliases": ["gōkaku kigan", "gakugyō-jōju omamori", "kitto katsu Kit Kat", "yeot", "chapssaltteok", "exam omamori"]
+  "aliases": [
+   "gōkaku kigan",
+   "gakugyō-jōju omamori",
+   "kitto katsu Kit Kat",
+   "yeot",
+   "chapssaltteok",
+   "exam omamori"
+  ],
+  "th": "เครื่องรางสอบผ่าน (โกกากุ คิกัง)"
  },
  "etymology": {
   "root": "Japanese 合格祈願 gōkaku kigan, from 合格 gōkaku 'passing an examination' and 祈願 kigan 'prayer, petition'",
@@ -16,14 +24,32 @@
   "tier": "cited",
   "source": "s:web-japanhouse-kitkat"
  },
- "region": ["japan", "korea"],
- "countries": ["JP", "KR"],
- "facets": {"era": "modern", "status": "living", "portable": "carried", "restricted": "open", "hemisphere": ["N", "E"]},
+ "region": [
+  "japan",
+  "korea"
+ ],
+ "countries": [
+  "JP",
+  "KR"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "living",
+  "portable": "carried",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "Four different objects doing one job. A brocade pouch a few centimetres long, the shrine's name woven into it, a paper or wooden prayer sealed inside and not to be opened. A wooden plaque about 15 by 9 centimetres, written on and hung at the shrine. A two-finger chocolate bar in a printed wrapper. A stick of boiled-down grain taffy. The first two come from a shrine; the last two come from a supermarket, and a student carries any of them into the same room.",
   "story": "Japan's examination charm has a god, and he was a real man. Sugawara no Michizane was a Heian-period scholar and poet who was exiled to Kyushu and died there; he is enshrined as Tenjin, god of scholarship and learning — and of natural disasters, which is a detail worth keeping. Dazaifu Tenmangū, the shrine built where he was exiled, states it plainly on its own English page: \"As Tenjin is the deity of learning, amulets for academic success are one of the most popular items to take home from Dazaifu Tenmangu.\" Many of the amulets carry the plum flower, which the shrine says Michizane loved and which is its symbol. The shrine's own framing of the exchange is careful and worth quoting as printed: \"At Shinto shrines you can receive an omamori, or amulet, to bring good luck, for a small donation.\" Received, for a donation. Not bought.\n\nThe omamori for this is gakugyō-jōju, education and passing examinations, one of a standard list that also runs to traffic safety, safe childbirth, a good marriage, business prosperity and family peace. The rule is the same as for every omamori: do not open it, and return the old one to the shrine it came from — traditionally to be burnt rather than binned, out of respect to the deity that carried you through the year.\n\nThe second Japanese object is the Kit Kat, and the wordplay has to be got right. キットカット, Kitto Katto, is what the brand is called in Japanese. Kitto means surely. Katsu means to win. The Kyushu phrase is きっと勝つとぉ, kitto katsutoo, 'you shall surely win', and that is the thing the brand name sounds like. Peter Davis, writing for Japan House at the University of Illinois, gives the figure: \"In fact, one in three students in Japan will buy a Kit-Kat in anticipation of entrance examinations.\" The English Wikipedia article is more guarded and says the marketing \"is believed to have benefited from the coincidental false cognate\", and that market research shows the brand strongly correlated with good-luck charms among students ahead of exams. *Inference —* the two accounts differ on how much of this Nestlé made and how much of it Nestlé found, and this project does not have the internal documents to settle that. What is dated is the marketing: the 'Lucky Charm' campaign won the Asian Brand Marketing Effectiveness Award in 2005, and in 2009 Nestlé and Japan Post ran a campaign letting people write on the bars and post them from 20,000 post offices — which won the Media Grand Prix at Cannes Lions in 2010.\n\nKorea works the same joke on a different verb. Families and friends give a student 엿, yeot — a taffy boiled down from steamed rice, glutinous rice, sorghum, corn or sweet potato — and 찹쌀떡, chapssaltteok, glutinous rice cake, before the Suneung university entrance examination. Both are sticky. The Korean verb for sticking to something is also the verb for passing an exam, so the gift says what it means without saying it. The English Wikipedia entry on yeot confirms students receive it before examinations and otherwise concentrates on the same word's career as an obscenity, which is the other thing a Korean reader knows about it.\n\nThe shrine end of the trade has been argued about in public, with a date attached. In 1979 two shrines dedicated to education sold ema — the wooden prayer plaques — for examination success; after public outcry, the funds were turned into a scholarship in 1980. *Inference —* that is the cleanest instance this atlas has of a charm trade answering a complaint by converting the takings into the thing the charm was asking for.",
   "how": "An omamori is received at the shrine office for a donation, carried on the person or tied to a bag, not opened, and returned to the same shrine at the New Year to be burnt. An ema is bought at the shrine, written on, and hung on the rack until it is ritually burnt at a ceremony — the burning treated as freeing the wish. A Kit Kat is bought at a convenience store, sometimes posted, and eaten. Yeot and chapssaltteok are given by family and friends and eaten. Nothing consecrates the last two, and nobody claims anything does.",
   "today": "Running every winter. Japanese entrance-examination season and the Korean Suneung both fall in the cold months, and the shelves change accordingly. As of 2026 the shrine goods, the exam-season chocolate packaging and the taffy all coexist, with the shrine goods carrying a deity's name and the other two carrying a pun. No dated price was read for any of them, and neither Dazaifu Tenmangū's page nor the sources on the Korean gifts print one."
+ },
+ "text_th": {
+  "what": "ของสี่อย่างที่ต่างกัน แต่ทำหน้าที่เดียวกัน อย่างแรกคือถุงผ้าแพรยกดิ้นยาวไม่กี่เซนติเมตร มีชื่อศาลเจ้าทอไว้บนถุง ข้างในมีคำอธิษฐานเขียนบนกระดาษหรือไม้ผนึกไว้ และห้ามเปิด อย่างที่สองคือแผ่นไม้ขนาดประมาณ 15 x 9 เซนติเมตร เขียนข้อความแล้วแขวนไว้ที่ศาลเจ้า อย่างที่สามคือช็อกโกแลตแท่งคู่ในห่อพิมพ์ลาย อย่างที่สี่คือแท่งลูกอมที่เคี่ยวจากธัญพืช สองอย่างแรกมาจากศาลเจ้า สองอย่างหลังมาจากซูเปอร์มาร์เก็ต และนักเรียนพกอย่างใดอย่างหนึ่งเข้าไปในห้องเดียวกัน"
  },
  "dating": {
   "period": "the modern examination system; the Tenjin cult behind it is Heian",
@@ -38,12 +64,25 @@
  },
  "object": {
   "form": "packet",
-  "materials": ["cloth", "paper", "wood", "thread"],
-  "worn": ["pocket", "phone", "wall"],
+  "materials": [
+   "cloth",
+   "paper",
+   "wood",
+   "thread"
+  ],
+  "worn": [
+   "pocket",
+   "phone",
+   "wall"
+  ],
   "made_by": "shrines and temples, which make the omamori and the ema and may have factories make them when demand outruns the shrine; and, for the chocolate and the taffy, food manufacturers with no religious claim at all",
   "inscription": "the shrine's name woven into the omamori; a wish written by hand on the ema; a printed message on exam-season chocolate wrappers",
   "script": "Han",
-  "colour": ["red", "white", "gold"],
+  "colour": [
+   "red",
+   "white",
+   "gold"
+  ],
   "single_use": true,
   "source": "s:wp-omamori",
   "note": "Form is entered as packet for the omamori, which is the object a reader is likeliest to be holding. The genre also covers a wooden plaque, a chocolate bar and a stick of taffy, and no single form key carries all four. single_use is true in the sense that an omamori is customarily replaced once a year and an ema is burnt; the food is eaten. The ema measurement, about 15 cm by 9 cm, is published in the cited ema article. No measurement was read for the omamori, so no length_mm is entered for the record as a whole."
@@ -79,25 +118,81 @@
   }
  ],
  "kin": [
-  {"to": "omamori", "as": "the object itself — this record is the one variety of it that has grown a supermarket aisle of its own", "rel": "whole"},
-  {"to": "ofuda", "as": "the shrine's paper talisman, sold from the same counter and kept at home rather than carried", "rel": "kin"},
-  {"to": "omikuji", "as": "the other thing bought at the same window on the same visit, and the one that answers back", "rel": "kin"},
-  {"to": "daruma", "as": "the other Japanese object bought against a goal — one eye filled in when the vow is made, the other when it comes off", "rel": "parallel"},
-  {"to": "bujeok", "as": "the Korean written talisman, made by a specialist where the exam gift is made by a confectioner", "rel": "kin"},
-  {"to": "phone-charm", "as": "where a student's omamori actually hangs — the cited account says they are often spotted on cellphone straps", "rel": "kin"},
-  {"to": "game-day-charm", "as": "the same object with a scoreboard instead of an answer sheet, and the same argument about what carrying it does", "rel": "parallel"},
-  {"to": "burning-retirement", "as": "what happens to the omamori and the ema afterwards — returned and burnt, not binned", "rel": "practice"},
-  {"to": "fushimi-inari", "as": "one shrine where the charm counter is a shop floor and the scale of the trade is visible from the queue", "rel": "place"},
-  {"to": "insadong", "as": "the Seoul quarter where the Korean end of this shelf is sold", "rel": "place"},
-  {"to": "the-charm-goes-digital", "as": "the long read this belongs in: the charm that is also a chocolate bar, a postcard and a marketing award", "rel": "story"}
+  {
+   "to": "omamori",
+   "as": "the object itself — this record is the one variety of it that has grown a supermarket aisle of its own",
+   "rel": "whole"
+  },
+  {
+   "to": "ofuda",
+   "as": "the shrine's paper talisman, sold from the same counter and kept at home rather than carried",
+   "rel": "kin"
+  },
+  {
+   "to": "omikuji",
+   "as": "the other thing bought at the same window on the same visit, and the one that answers back",
+   "rel": "kin"
+  },
+  {
+   "to": "daruma",
+   "as": "the other Japanese object bought against a goal — one eye filled in when the vow is made, the other when it comes off",
+   "rel": "parallel"
+  },
+  {
+   "to": "bujeok",
+   "as": "the Korean written talisman, made by a specialist where the exam gift is made by a confectioner",
+   "rel": "kin"
+  },
+  {
+   "to": "phone-charm",
+   "as": "where a student's omamori actually hangs — the cited account says they are often spotted on cellphone straps",
+   "rel": "kin"
+  },
+  {
+   "to": "game-day-charm",
+   "as": "the same object with a scoreboard instead of an answer sheet, and the same argument about what carrying it does",
+   "rel": "parallel"
+  },
+  {
+   "to": "burning-retirement",
+   "as": "what happens to the omamori and the ema afterwards — returned and burnt, not binned",
+   "rel": "practice"
+  },
+  {
+   "to": "fushimi-inari",
+   "as": "one shrine where the charm counter is a shop floor and the scale of the trade is visible from the queue",
+   "rel": "place"
+  },
+  {
+   "to": "insadong",
+   "as": "the Seoul quarter where the Korean end of this shelf is sold",
+   "rel": "place"
+  },
+  {
+   "to": "the-charm-goes-digital",
+   "as": "the long read this belongs in: the charm that is also a chocolate bar, a postcard and a marketing award",
+   "rel": "story"
+  }
  ],
  "confusable_with": [
-  {"id": "omamori", "tell": "this record is the examination variety and its commercial hangers-on; a plain omamori from the same counter may be for the road, a birth or a marriage, and the Japanese written on it says which"}
+  {
+   "id": "omamori",
+   "tell": "this record is the examination variety and its commercial hangers-on; a plain omamori from the same counter may be for the road, a birth or a marriage, and the Japanese written on it says which"
+  }
  ],
  "links": [
-  {"label": "An Introduction to Amulets — Dazaifu Tenmangū", "url": "https://www.dazaifutenmangu.or.jp/en/discover-dazaifu-tenmangu/amulets/"},
-  {"label": "Kit Kat — Japan House, University of Illinois", "url": "https://japanhouse.illinois.edu/education/insights/kitkat"},
-  {"label": "Kit Kats in Japan — Wikipedia", "url": "https://en.wikipedia.org/wiki/Kit_Kats_in_Japan"}
+  {
+   "label": "An Introduction to Amulets — Dazaifu Tenmangū",
+   "url": "https://www.dazaifutenmangu.or.jp/en/discover-dazaifu-tenmangu/amulets/"
+  },
+  {
+   "label": "Kit Kat — Japan House, University of Illinois",
+   "url": "https://japanhouse.illinois.edu/education/insights/kitkat"
+  },
+  {
+   "label": "Kit Kats in Japan — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kit_Kats_in_Japan"
+  }
  ],
  "sources": [
   "s:wp-omamori",
@@ -108,16 +203,38 @@
   "s:wp-ema-shinto"
  ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-omamori"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-omamori"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:web-japanhouse-kitkat", "note": "the Kyushu phrase and the one-in-three figure are Japan House's; the marketing dates are from the Kit Kats in Japan article; the 1979 ema controversy is from the ema article. The stretches marked *Inference —* are this project's."},
-   "text.what": {"tier": "cited", "source": "s:wp-ema-shinto", "note": "the ema measurement is published in the cited ema article; the omamori size is the ordinary range and is not a published measurement"},
-   "text.today": {"tier": "inference", "note": "the seasonal pattern is reasoned from the cited accounts; no market survey and no dated price read"},
-   "dating": {"tier": "cited", "source": "s:wp-ema-shinto", "note": "1979 is the earliest dated event in these sources, not the start of the practice, and the note says so"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-japanhouse-kitkat",
+    "note": "the Kyushu phrase and the one-in-three figure are Japan House's; the marketing dates are from the Kit Kats in Japan article; the 1979 ema controversy is from the ema article. The stretches marked *Inference —* are this project's."
+   },
+   "text.what": {
+    "tier": "cited",
+    "source": "s:wp-ema-shinto",
+    "note": "the ema measurement is published in the cited ema article; the omamori size is the ordinary range and is not a published measurement"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "the seasonal pattern is reasoned from the cited accounts; no market survey and no dated price read"
+   },
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-ema-shinto",
+    "note": "1979 is the earliest dated event in these sources, not the start of the practice, and the note says so"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Omamori gakugyo joju.jpg", "File:Ema at Yushima Tenmangu.jpg", "File:Kit Kat Japan exam.jpg"],
+ "x_commons_files": [
+  "File:Omamori gakugyo joju.jpg",
+  "File:Ema at Yushima Tenmangu.jpg",
+  "File:Kit Kat Japan exam.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-17"
 }

@@ -12,7 +12,8 @@
    "pujŏk",
    "Korean talismans",
    "Musok amulet practice"
-  ]
+  ],
+  "th": "บูจ็อก (ศาสตร์ยันต์เกาหลี)"
  },
  "etymology": {
   "root": "Korean bujeok, from Sino-Korean 符籍 — the same fu character as Chinese fulu, 'talisman', plus a register or record",
@@ -41,6 +42,9 @@
   "story": "Two facts about who makes them frame everything else. First, the makers are ritual specialists and the majority of them are women: approximately a fifth of mudang are male, with more male simbang on Jeju than on the mainland. Second, they hand the talismans out at the end of a gut — the large ritual that is the core of the practice — at the point where wandering spirits are expelled and the food is distributed. A bujeok is the take-home part of a rite, not a transaction on its own. Korean vernacular religion also runs ritual specialists who divine and make amulets without performing gut at all.\n\nThe script is inherited and the inheritance is documented. Fulu, the Taoist talismanic script, was carried into Korean practice as it was into Japanese; the scholarship on the Chinese side says the illegibility is deliberate, designed so that only qualified clergy can produce them. A bujeok takes that logic into Hanja.\n\nWhat distinguishes this tradition from its neighbours is six centuries of state pressure, which it survived. Under the Joseon dynasty Confucian elites deemed the mudang's rites improper and suppressed them with taxation and legal restriction. From the late 19th century modernisers, many of them Christian, characterised Musok as misin — a Korean word the sources gloss as \"superstition\" — and backed its suppression. Under the Japanese occupation, nationalist folklorists began promoting Musok as Korea's ancient religion and a form of its national culture, an idea mudang themselves later took up strongly. Persecution continued in the mid-20th century, in North Korea and through the New Community Movement in the South.\n\nThen it turned. From the late 1970s South Korean appraisal of the mudang improved, particularly as practitioners were associated with the minjung pro-democracy movement and came to be treated as a source of Korean cultural identity. There are now over 200,000 mudang in South Korea, with practitioners abroad as well.\n\nThe reversal is not complete and this record says so. Disapproval of mudang, often regarded as charlatans, remains widespread in South Korea, especially among Christians. Chongho Kim's 1990s fieldwork found most mudang he met were poor and with little formal education, and mudang have conventionally belonged to the lowest social class. Clients are mostly women — in Kim's fieldwork, in their late fifties and early sixties; in Laurel Kendall's, small entrepreneurs around Seoul; by the early 21st century, in Sarfati's account, many young people, as part of a spiritual search or for counselling. Clients do not generally regard themselves as exclusively committed to Musok and may consider themselves Buddhist or Christian.\n\n*Inference —* that client profile is the most interesting thing about this tradition for an atlas of charms. A bujeok is not the property of a believer; it is something a Buddhist small-business owner in Seoul comes away from a rite holding. The tradition has no doctrine, no hierarchy and no central authority, and is transmitted orally, so what holds it together is the specialists and their training rather than a text.",
   "how": "Drawn by a mudang, generally on paper, in Hanja-based forms. Distributed at the close of a gut to the people who attended, sometimes alongside food charged with auspiciousness by its use in the rite. Clients affix them to the internal walls of the home. Training is by apprenticeship rather than by manual: an initiate who has accepted the call finds an established mudang willing to teach, becomes that person's chagŭn mudang, and the teacher is their sineomeoni, spirit mother, the apprentice a sinttal or sinadul. Each mudang keeps a personal pantheon, the chusin, which may differ from the pantheon of the mudang who trained them.",
   "today": "Live, with over 200,000 mudang in South Korea and a state that now protects what it once prosecuted: regional gut styles are on the national intangible heritage register, and the Yŏngdŭng gut of Ch'ilmŏri Shrine on Jeju went onto UNESCO's Representative List in 2009. Insadong in Seoul, which holds 40 per cent of the country's antique shops and art galleries, is where a visitor is likeliest to encounter the printed retail version. Korea also has a separate and much larger charm economy that runs on food rather than paper: sticky-rice cakes and toffee given to students before the national university entrance exam, on the wordplay that the sitter will stick to the school."
+ },
+ "text_th": {
+  "what": "ยันต์ที่วาดโดยมูดัง ผู้ชำนาญพิธีกรรมซึ่งเป็นศูนย์กลางของมูซก ศาสนาพื้นบ้านของเกาหลี บูจ็อกมักสร้างบนฮันจา — อักษรจีนในแบบเกาหลี — เขียนในลักษณะที่จงใจให้อ่านไม่ออกแบบเดียวกับต้นแบบจีน และมอบให้ผู้ที่มาร่วมพิธี แทนที่จะขายข้ามเคาน์เตอร์ ผู้รับนำกลับบ้านไปติดไว้ที่ผนังด้านในของบ้าน"
  },
  "restricted": {
   "note": "The forms a bujeok takes are a specialist's craft learned by apprenticeship, in a tradition that has no manual, no central authority and no doctrine, and that transmits orally. This record names the practitioners, the script's ancestry and where the object ends up, and prints no bujeok form, no accompanying invocation and no reconstruction of one. The Chinese parent craft states the reason plainly — the illegibility exists so that only qualified clergy can produce them — and Korean practice inherits it.",
@@ -227,56 +231,72 @@
    "type": "amulet",
    "name": "Bujeok",
    "as": "the object itself — handed out at the end of a rite and pinned to an inside wall, not bought at a gate",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "to": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "where the script comes from, and where the reason for its unreadability is stated out loud",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "japanese-engimono",
    "type": "tradition",
    "name": "Engimono",
    "as": "the other descendant of the same Taoist stock, which went the opposite way: administered, seal-stamped, sold at a counter and replaced on a calendar",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "dolhareubang",
    "type": "amulet",
    "name": "Dol hareubang",
    "as": "the monumental end of Korean threshold-guarding — stone at a gate rather than paper on a wall",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ทลฮารึบัง (รูปปู่หิน)",
+   "as_th": ""
   },
   {
    "to": "insadong",
    "type": "place",
    "name": "Insa-dong",
    "as": "the Seoul quarter where the printed retail version concentrates",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "อินซาดง",
+   "as_th": ""
   },
   {
    "to": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "the practice, done indoors: the talisman goes on the inside wall of the house it is for",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "to": "exam-charm",
    "type": "amulet",
    "name": "Exam charm",
    "as": "Korea's other charm economy, which runs on rice cake and toffee rather than on paper, and which far more people handle",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางสอบผ่าน (โกกากุ คิกัง)",
+   "as_th": ""
   },
   {
    "to": "paper",
    "type": "material",
    "name": "Paper",
    "as": "the material, and the only one this tradition needs",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "กระดาษ",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -486,28 +506,36 @@
    "type": "amulet",
    "name": "Bujeok",
    "as": "the tradition that makes it, and the six centuries of state pressure it survived",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "from": "dolhareubang",
    "type": "amulet",
    "name": "Dol hareubang",
    "as": "the Korean tradition of guarding a threshold that this stands at the monumental end of",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ทลฮารึบัง (รูปปู่หิน)",
+   "as_th": ""
   },
   {
    "from": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "the other descendant, where the unreadable script arrived in Hanja and the specialists who draw it are mostly women",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "insadong",
    "type": "place",
    "name": "Insa-dong",
    "as": "the tradition behind that charm, concentrated in Seoul more than anywhere else in the country",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "อินซาดง",
+   "as_th": ""
   }
  ]
 }

@@ -13,7 +13,8 @@
    "travellers' medal",
    "San Cristóbal medal",
    "Christophorus medal"
-  ]
+  ],
+  "th": "เหรียญนักบุญคริสโตเฟอร์"
  },
  "etymology": {
   "root": "Greek Χριστόφορος, from Χριστός 'Christ' and φέρειν 'to bear' — Christ-bearer",
@@ -54,6 +55,9 @@
   "story": "Read the medal and you have the story. In the thirteenth-century Golden Legend, Christopher — a giant of twelve cubits, by that account — goes looking for the greatest master in the world, ends up serving Christ, and is set to carrying travellers across a dangerous river. A child asks to be carried. The water rises, the child grows heavier with every step, and on the far bank he says: \"You had on your shoulders not only the whole world but Him who made it.\" From that, various Christian denominations made him patron of travellers, and the Roman Catholic Church counts him among the Fourteen Holy Helpers. The patronage list ran wide before cars existed: mariners, ferrymen, archers, bachelors, bookbinders, fruit dealers, fullers, gardeners, surfers, toothache, floods, storms, lightning, pestilence, a holy death.\n\nWhat the medals promise depends on the language they are struck in. The French rim reads \"Regarde St Christophe et va-t-en rassuré\" — look at Saint Christopher and go on reassured. The Spanish medals and holy cards go further: \"Si en San Cristóbal confías, de accidente no morirás\" — if you trust in Saint Christopher, you will not die in an accident. This atlas prints both sentences as what the object says of itself, names the languages they are struck in, and stops.\n\nThen there is the thing everybody thinks they know. In 1969 the Roman Catholic Church revised the General Roman Calendar; Christopher's celebration was left, in the revision's own phrasing, to particular calendars, because his feast had entered the Roman calendar relatively late and because the written Acts of him are, in the same document's words, \"merely legendary\" while the ancient veneration of the martyr is not in doubt. The English-language telling of that decision, from 1969 onward, was that the Church had abolished him — decanonised, demoted, declared never to have existed, patron saint of nothing. Catholic Answers answers it flatly: \"St. Christopher was never 'de-canonized,' nor did the Church declare him a myth.\" Patrick Mott, writing in Orange County Catholic in 2015, calls it \"not so much a demotion as a reassignment\" and adds that \"He has never ceased to be recognized as a saint by the Church.\" The Roman Martyrology still remembers him on 25 July; the Eastern Orthodox Church keeps him on 9 May and calls him Great Martyr. *Inference —* the medal outsold the correction by a wide margin, and the correction has now been in print for more than fifty years.\n\nThe official line runs through the object too, not around it. A medal blessed by a priest is a sacramental, which the Catholic Church defines as a sacred sign that works by the Church's prayer rather than by itself, and which \"does not confer the grace of the Holy Spirit in the way that the sacraments do\". An unblessed medal is a piece of jewellery. The 2001 Directory on Popular Piety and the Liturgy sets the boundary the other way round, holding that popular piety \"may never incorporate rites permeated by magic, superstition, animism, vendettas or sexual connotations\". *Inference —* the Church draws that line in writing precisely because the line gets crossed, and the Spanish rim sentence is a good example of a claim the object makes that the doctrine does not.",
   "how": "Struck by religious-goods manufacturers, sold at church shops, shrine stalls, jewellers, service stations and online. A priest may bless it, at which point the Church calls it a sacramental; nothing requires that, and nothing stops an unblessed one being worn. It is given more often than bought for oneself — to a traveller, a new driver, a child leaving home — and it is commonly passed on.",
   "today": "Still struck, still sold, still worn across Catholic Europe and the Americas in 2026, and still stocked beside the Miraculous Medal and the Brown Scapular in the same shops. Most buyers meet the 1969 story in one of its garbled forms first. No dated retail price was read for this record."
+ },
+ "text_th": {
+  "what": "แผ่นโลหะกลมแบบปั๊ม กว้าง 15 ถึง 30 มม. เป็นรูปยักษ์มีเคราลุยข้ามแม่น้ำ มือหนึ่งถือไม้เท้า มีเด็กอยู่บนบ่า ตีเป็นเหรียญได้ทั้งอะลูมิเนียม ดีบุก ทองเหลือง เงิน และทอง แขวนที่คอด้วยสร้อย ติดกับกำไล ใส่กระเป๋า หรือไว้ในรถ ส่วนใหญ่มีประโยคหนึ่งอยู่รอบขอบ และประโยคในแบบฝรั่งเศสกับแบบสเปนไม่ใช่ประโยคเดียวกัน"
  },
  "dating": {
   "period": "the cult from late antiquity; the struck medal from the early modern period",
@@ -319,77 +323,99 @@
    "type": "amulet",
    "name": "Car saint",
    "as": "the same medal once the traveller got an engine — clipped to a visor instead of worn at the throat",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "นักบุญประจำรถ (เหรียญนักบุญคริสโตเฟอร์)",
+   "as_th": ""
   },
   {
    "to": "miraculous-medal",
    "type": "amulet",
    "name": "Miraculous Medal",
    "as": "the other stamped medal on the same shop counter, and the one whose origin story has a date, a witness and a goldsmith",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เหรียญอัศจรรย์",
+   "as_th": ""
   },
   {
    "to": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "the category the Church puts a blessed medal in, and the doctrine the Spanish rim sentence outruns",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   },
   {
    "to": "brown-scapular",
    "type": "amulet",
    "name": "Brown Scapular",
    "as": "the cloth version of the same argument — a devotional object with a promise attached that its own order spends its time qualifying",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สกาปูลาร์สีน้ำตาล",
+   "as_th": ""
   },
   {
    "to": "agnus-dei",
    "type": "amulet",
    "name": "Agnus Dei",
    "as": "the older Roman sacramental worn at the neck, in wax rather than struck metal",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "อักนุส เดอี (ลูกแกะของพระเจ้า)",
+   "as_th": ""
   },
   {
    "to": "ladanka",
    "type": "amulet",
    "name": "Ladanka",
    "as": "what an Orthodox neck carries instead, and the Orthodox version of the same line between devotion and charm",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ลาดันกา (ถุงกำยานออร์โธด็อกซ์)",
+   "as_th": ""
   },
   {
    "to": "holy-rider-pendant",
    "type": "amulet",
    "name": "Holy rider pendant",
    "as": "the late-antique ancestor of a saint on a disc worn against danger",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "จี้นักบุญขี่ม้า",
+   "as_th": ""
   },
   {
    "to": "omamori",
    "type": "amulet",
    "name": "Omamori",
    "as": "the Japanese object sold for the same road, with kōtsū-anzen written on it instead of a Latin rim",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "blessing-at-a-shrine",
    "type": "practice",
    "name": "Blessing at a shrine",
    "as": "the act that turns this medal from jewellery into what the Church calls a sacramental — optional, and often skipped",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การนำไปรับพรที่ศาสนสถาน",
+   "as_th": ""
   },
   {
    "to": "cross",
    "type": "motif",
    "name": "The cross",
    "as": "the sign stamped on the reverse of most of them",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "กางเขน",
+   "as_th": ""
   },
   {
    "to": "amulet-or-talisman",
    "type": "story",
    "name": "Amulet or talisman?",
    "as": "the long read this record is the hardest case for: the Church calls it a sacramental, the rim calls it insurance",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "อะมูเล็ตหรือทาลิสแมน?",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -629,105 +655,135 @@
    "type": "amulet",
    "name": "Agnus Dei",
    "as": "the other neck-worn Roman sacramental, in metal and in quantity",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "อักนุส เดอี (ลูกแกะของพระเจ้า)",
+   "as_th": ""
   },
   {
    "from": "anting-anting",
    "type": "amulet",
    "name": "Anting-anting",
    "as": "the Catholic medal this most resembles on a tray, and does not behave like: an anting-anting takes its charge from an orasyon read on Good Friday",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "อันติง-อันติง (เครื่องรางฟิลิปปินส์)",
+   "as_th": ""
   },
   {
    "from": "brown-scapular",
    "type": "amulet",
    "name": "Brown Scapular",
    "as": "the metal version of the same argument — a promise struck into an object that its own church spends its time qualifying",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สกาปูลาร์สีน้ำตาล",
+   "as_th": ""
   },
   {
    "from": "car-saint",
    "type": "amulet",
    "name": "Car saint",
    "as": "the same saint worn at the neck rather than fixed to a car — this record is what happens when the medal gets a dashboard",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "นักบุญประจำรถ (เหรียญนักบุญคริสโตเฟอร์)",
+   "as_th": ""
   },
   {
    "from": "caul",
    "type": "amulet",
    "name": "Caul",
    "as": "the other charm a European traveller carried against drowning, and the one you could buy rather than be born with",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คอล (เยื่อคลุมหน้าทารกแรกเกิด)",
+   "as_th": ""
   },
   {
    "from": "challenge-coin",
    "type": "amulet",
    "name": "Challenge coin",
    "as": "the struck disc carried in the same pocket by the same soldier, for a different reason entirely",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เหรียญชาเลนจ์คอยน์ (เหรียญประจำหน่วย)",
+   "as_th": ""
   },
   {
    "from": "coptic-cross-tattoo",
    "type": "amulet",
    "name": "Coptic cross tattoo",
    "as": "the Christian charm you can take off, which is the whole difference",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "รอยสักกางเขนคอปติก",
+   "as_th": ""
   },
   {
    "from": "hei-matau",
    "type": "amulet",
    "name": "Hei matau",
    "as": "the other object in this atlas most often worn against danger on a crossing",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เฮย์ มาเตา (จี้ตะขอเบ็ดเมารี)",
+   "as_th": ""
   },
   {
    "from": "holy-rider-pendant",
    "type": "amulet",
    "name": "Holy rider pendant",
    "as": "what this becomes in Latin Christendom — a saint on a small metal disc, worn against a named danger",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "จี้นักบุญขี่ม้า",
+   "as_th": ""
   },
   {
    "from": "ladanka",
    "type": "amulet",
    "name": "Ladanka",
    "as": "what a Catholic neck carries where this hangs beside an Orthodox cross",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ลาดันกา (ถุงกำยานออร์โธด็อกซ์)",
+   "as_th": ""
   },
   {
    "from": "milagro",
    "type": "amulet",
    "name": "Milagro",
    "as": "the other metal token bought at the same counter, worn instead of pinned",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "มิลาโกร (แผ่นโลหะแก้บน)",
+   "as_th": ""
   },
   {
    "from": "miraculous-medal",
    "type": "amulet",
    "name": "Miraculous Medal",
    "as": "the other stamped medal on the same counter — that one promises a safe road, this one promises graces",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เหรียญอัศจรรย์",
+   "as_th": ""
   },
   {
    "from": "mjolnir-pendant",
    "type": "amulet",
    "name": "Mjölnir pendant",
    "as": "what a Christian traveller in the same waters wore instead, once the north had changed religion",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "จี้มโยลเนียร์ (ค้อนธอร์)",
+   "as_th": ""
   },
   {
    "from": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "the sacramental that travels, with its promise stamped on it in French and Spanish",
-   "rel": "part"
+   "rel": "part",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   },
   {
    "from": "cross",
    "type": "motif",
    "name": "The cross",
    "as": "the mass-produced Catholic metal the cross now shares a neck with",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กางเขน",
+   "as_th": ""
   }
  ]
 }

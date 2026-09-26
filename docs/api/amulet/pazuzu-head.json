@@ -11,7 +11,8 @@
   "aliases": [
    "Pazuzu amulet",
    "Pazuzu pendant"
-  ]
+  ],
+  "th": "เศียรปาซูซู"
  },
  "region": [
   "mesopotamia"
@@ -33,6 +34,9 @@
  "text": {
   "what": "A head, cast or carved, with a hole or a loop through the top for a cord. The face is the point: gazelle horns, human ears, a dog's muzzle, bulging eyes, wrinkled cheeks. Terracotta is the common material; bronze, iron, gold, glass and bone examples survive too. Some heads were fixed to cylinder seals or worn as brooches; larger stone versions hung on a wall. The full figure, where it appears, has a scaled canine body, two pairs of wings, a scorpion's tail, bird talons, right hand up and left hand down.",
   "story": "Pazuzu is a demon employed as a doorman. He is the south-western wind, he carries plague, and the texts that address him call him \"Agony of Mankind\" and tell him to stay out of the house — and the same culture hung his face over the bed. In the bilingual Compendia he introduces himself: \"I am Pazuzu, son of Ḫanbu, king of the evil lilû-demons. I was enraged (in violent motion) against the strong mountains and ascended them.\"\n\nWhat he is for is Lamashtu. She snatches babies; he forces her back to the underworld. Ritual texts from Uruk direct that a woman be given a bronze Pazuzu necklace so that Lamashtu cannot make her miscarry; a Late Babylonian incantation against Lamashtu tells the reader to make a Pazuzu necklace and hang it round the afflicted person's neck; an Assyrian ritual text prescribes a Pazuzu head to banish sickness. Franz Wiggermann dates the figure's sudden appearance to the Early Iron Age, with the first images in the eighth century BCE from the tombs at Nimrud, the first texts in the seventh, the bulk of the finds in the seventh and sixth, and the latest under the Seleucids.\n\nOne of the large wall amulets was found where it fell. At Dur-Katlimmu, a Neo-Assyrian town, it lay on the floor of the main reception room, facing the entryway it had been hung to watch.\n\n*Inference —* the heads are uniform and there are a great many of them. Eckart Frahm's study finds the appearance barely changes across his history. An object that looks the same everywhere and turns up everywhere was made in quantity by people who were not improvising, which is what the cited scholarship means when it calls the representations mass-produced."
+ },
+ "text_th": {
+  "what": "ศีรษะที่หล่อหรือแกะสลัก มีรูหรือห่วงที่ด้านบนไว้ร้อยเชือก ใบหน้าคือหัวใจของมัน: เขาของละมั่งกาเซลล์ หูมนุษย์ ปากและจมูกแบบสุนัข ตาโปน แก้มย่น วัสดุที่พบบ่อยคือดินเผา แต่ชิ้นที่ทำจากสำริด เหล็ก ทองคำ แก้ว และกระดูกก็หลงเหลืออยู่ด้วย บางหัวติดกับตราประทับทรงกระบอกหรือใช้เป็นเข็มกลัด แบบหินที่ใหญ่กว่าแขวนไว้บนผนัง รูปเต็มตัวในที่ที่ปรากฏ มีลำตัวแบบสุนัขที่มีเกล็ด ปีกสองคู่ หางแมงป่อง กรงเล็บนก มือขวายกขึ้นและมือซ้ายลดลง"
  },
  "dating": {
   "period": "Neo-Assyrian to Seleucid",
@@ -220,63 +224,81 @@
    "type": "amulet",
    "name": "Lamashtu plaque",
    "as": "the demon he is bought for; the necklace in the Uruk texts exists because she is in the room",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "แผ่นเครื่องรางลามัชตู",
+   "as_th": ""
   },
   {
    "to": "mesopotamian-apotropaic",
    "type": "tradition",
    "name": "Mesopotamian household protection",
    "as": "the tradition that made a household guard out of a wind that brings plague",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "การคุ้มครองบ้านเรือนแบบเมโสโปเตเมีย",
+   "as_th": ""
   },
   {
    "to": "bes-amulet",
    "type": "amulet",
    "name": "Bes amulet",
    "as": "the Egyptian counterpart scholars keep comparing him to — both lion-parted, winged, long-phallused, and both standing over mothers and infants; five Pazuzu heads turned up near a Bes amulet in a 7th-century fort at Nimrud",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางเทพเบส",
+   "as_th": ""
   },
   {
    "to": "gorgoneion",
    "type": "amulet",
    "name": "Gorgoneion",
    "as": "the same device in Greek: a face too frightening to walk past, mounted where the danger comes in",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กอร์โกเนออน (ศีรษะกอร์กอน)",
+   "as_th": ""
   },
   {
    "to": "horn",
    "type": "motif",
    "name": "The horn",
    "as": "the gazelle horns that identify the face at a glance",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เขา (คอร์นิเชลโล)",
+   "as_th": ""
   },
   {
    "to": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "the practice the Dur-Katlimmu find caught in the act — hung on the wall facing the entryway",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "to": "terracotta",
    "type": "material",
    "name": "Fired clay",
    "as": "the material most of the surviving heads are made of, and the reason there are so many",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ดินเผา",
+   "as_th": ""
   },
   {
    "to": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "why some of these are still here: they were buried with the people who wore them",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "to": "incantation-bowl",
    "type": "amulet",
    "name": "Incantation bowl",
    "as": "the later Mesopotamian object doing the same job with writing instead of a face",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "ชามคาถา",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -490,56 +512,72 @@
    "type": "amulet",
    "name": "Bes amulet",
    "as": "Mesopotamia's grimacing household figure, hung for the same reason and looking just as unpleasant on purpose",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางเทพเบส",
+   "as_th": ""
   },
   {
    "from": "gorgoneion",
    "type": "amulet",
    "name": "Gorgoneion",
    "as": "Mesopotamia's version of the argument: a frightening head, mounted facing the way in",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กอร์โกเนออน (ศีรษะกอร์กอน)",
+   "as_th": ""
   },
   {
    "from": "lamashtu-plaque",
    "type": "amulet",
    "name": "Lamashtu plaque",
    "as": "the counter-figure cut on the same plaques, shown chasing her down the river; a household could own both and they were not opposites in the tray",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "แผ่นเครื่องรางลามัชตู",
+   "as_th": ""
   },
   {
    "from": "mesopotamian-apotropaic",
    "type": "tradition",
    "name": "Mesopotamian household protection",
    "as": "the counter-power, cast by the thousand and worn at the neck",
-   "rel": "part"
+   "rel": "part",
+   "name_th": "การคุ้มครองบ้านเรือนแบบเมโสโปเตเมีย",
+   "as_th": ""
   },
   {
    "from": "lion",
    "type": "motif",
    "name": "The lion",
    "as": "the Mesopotamian half of the documented contact: five of these were found beside a Bes amulet at Nimrud",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "สิงโต",
+   "as_th": ""
   },
   {
    "from": "copper",
    "type": "material",
    "name": "Copper and bronze",
    "as": "cast in bronze for the cases that mattered most, and prescribed by name in the Uruk texts",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ทองแดงและสำริด",
+   "as_th": ""
   },
   {
    "from": "glass",
    "type": "material",
    "name": "Glass",
    "as": "made chiefly in terracotta, but glass is one of the six materials the heads turn up in",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "แก้ว",
+   "as_th": ""
   },
   {
    "from": "terracotta",
    "type": "material",
    "name": "Fired clay",
    "as": "chiefly terracotta, drilled to hang, and found in numbers because a mould made it cheap",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ดินเผา",
+   "as_th": "ส่วนใหญ่เป็นดินเผา เจาะรูไว้ห้อย และพบเป็นจำนวนมากเพราะแม่พิมพ์ทำให้ราคาถูก"
   }
  ]
 }

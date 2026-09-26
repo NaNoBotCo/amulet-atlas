@@ -7,7 +7,8 @@
   "aliases": [
    "is the eye universal",
    "one eye or many"
-  ]
+  ],
+  "th": "ดวงตาทุกหนแห่ง"
  },
  "region": [
   "world",
@@ -38,6 +39,9 @@
  },
  "text": {
   "what": "An eye is drawn, moulded, beaded or painted on protective objects from the Tigris to Tijuana, and the temptation is to call that a single human idea. It is not one thing. Some of it is documented transmission with a route and a direction. Some of it is one tradition swapping one startling shape for another inside its own borders. Some of it is two things that look alike and are not related. And in at least one important case the best scholarship says the question cannot be settled. This record goes case by case and says which is which."
+ },
+ "text_th": {
+  "what": "ดวงตาถูกวาด ปั้น ร้อยลูกปัด หรือระบายสีไว้บนวัตถุป้องกันภัยตั้งแต่แม่น้ำไทกริสจนถึงเมืองติฮัวนา และชวนให้เรียกสิ่งนี้ว่าความคิดเดียวของมนุษย์ แต่มันไม่ใช่สิ่งเดียว บางส่วนคือการถ่ายทอดที่มีหลักฐาน มีเส้นทางและทิศทาง บางส่วนคือธรรมเนียมหนึ่งที่สลับรูปร่างสะดุดตาแบบหนึ่งเป็นอีกแบบหนึ่งภายในเขตแดนของตนเอง บางส่วนคือสองสิ่งที่ดูคล้ายกันแต่ไม่เกี่ยวข้องกัน และอย่างน้อยในกรณีสำคัญกรณีหนึ่ง งานวิชาการที่ดีที่สุดบอกว่าคำถามนี้ตัดสินไม่ได้ บันทึกนี้ไล่ดูทีละกรณีและบอกว่ากรณีไหนเป็นแบบไหน"
  },
  "sections": [
   {
@@ -253,77 +257,99 @@
    "type": "motif",
    "name": "The eye",
    "as": "the sign this read follows, and the record that holds its physical forms",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "nazar",
    "type": "amulet",
    "name": "Nazar",
    "as": "the glass bead the documented Mediterranean line ends in, and the form most of the world now buys",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "to": "wedjat-eye",
    "type": "amulet",
    "name": "Wedjat eye",
    "as": "a different eye with its own religion behind it, kept separate here on purpose",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ตาเวดจัต (ดวงตาแห่งฮอรัส)",
+   "as_th": ""
   },
   {
    "to": "horn",
    "type": "motif",
    "name": "The horn",
    "as": "southern Italy's substitute — proof that the shape is free and the reason is fixed",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เขา (คอร์นิเชลโล)",
+   "as_th": ""
   },
   {
    "to": "fascinum",
    "type": "amulet",
    "name": "Fascinum",
    "as": "Rome's substitute, and the object Pliny's word fascination is built on",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ฟัสซินุม (เครื่องรางรูปองคชาตโรมัน)",
+   "as_th": ""
   },
   {
    "to": "nimbu-mirchi",
    "type": "amulet",
    "name": "Nimbu mirchi",
    "as": "the South Asian answer, hung in a doorway rather than worn, and burnt afterwards",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "นิมบู มีร์ชี (มะนาวกับพริก)",
+   "as_th": ""
   },
   {
    "to": "bagua-mirror",
    "type": "amulet",
    "name": "Bagua mirror",
    "as": "the case this read declines to claim: a parallel with no documented line back to Sumeria",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "กระจกปากั้ว (กระจกแปดทิศ)",
+   "as_th": ""
   },
   {
    "to": "ojo-de-venado",
    "type": "amulet",
    "name": "Ojo de venado",
    "as": "the Mexican infant's charm, from the region where the origin question is unsettled",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โอโฮ เด เวนาโด (ตากวาง)",
+   "as_th": ""
   },
   {
    "to": "figa",
    "type": "amulet",
    "name": "Figa",
    "as": "the fist with the protruding knuckle, worn on Puerto Rican azabache bracelets",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ฟีกา (กำปั้นกันภัย)",
+   "as_th": ""
   },
   {
    "to": "most-of-them-are-for-children",
    "type": "story",
    "name": "Most of them are for children",
    "as": "the long read testing why so many of these end up on infants",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ส่วนใหญ่ทำเพื่อเด็ก",
+   "as_th": ""
   },
   {
    "to": "frederick-elworthy",
    "type": "person",
    "name": "Frederick Thomas Elworthy",
    "as": "the Victorian who put this family together in one book in 1895, and whose grouping we still use",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "เฟรเดอริก โทมัส เอลเวิร์ที",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -463,119 +489,153 @@
    "type": "amulet",
    "name": "Cornicello",
    "as": "the long read that runs the horn and the eye together and asks which one came first",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "คอร์นิเชลโล (เขานำโชคอิตาลี)",
+   "as_th": ""
   },
   {
    "from": "evil-eye-bracelet",
    "type": "amulet",
    "name": "Evil eye bracelet",
    "as": "the long read that follows this sign across four continents",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สร้อยข้อมือนาซาร์ (ลูกปัดตากันตาร้าย)",
+   "as_th": ""
   },
   {
    "from": "figa",
    "type": "amulet",
    "name": "Figa",
    "as": "the long read that asks why the eye travels with its meaning and this hand does not",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ฟีกา (กำปั้นกันภัย)",
+   "as_th": ""
   },
   {
    "from": "gorgoneion",
    "type": "amulet",
    "name": "Gorgoneion",
    "as": "the long read; this is the family's most-copied member in the classical world",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "กอร์โกเนออน (ศีรษะกอร์กอน)",
+   "as_th": ""
   },
   {
    "from": "hamsa",
    "type": "amulet",
    "name": "Hamsa",
    "as": "the long read; the hand and the eye travel together across this whole map",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ฮัมซา (มือกันภัย)",
+   "as_th": ""
   },
   {
    "from": "nazar",
    "type": "amulet",
    "name": "Nazar",
    "as": "the long read this bead is the cover of",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "from": "nimbu-mirchi",
    "type": "amulet",
    "name": "Nimbu mirchi",
    "as": "the long read that asks whether a lime in Delhi and a bead in Istanbul are answering the same thing",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "นิมบู มีร์ชี (มะนาวกับพริก)",
+   "as_th": ""
   },
   {
    "from": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "the long read that follows this sign across four continents and asks what travelled and what was invented twice",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "from": "hand",
    "type": "motif",
    "name": "The hand",
    "as": "the long read that puts hand, horn and eye in one family and asks whether they belong there",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "มือ",
+   "as_th": ""
   },
   {
    "from": "spiral",
    "type": "motif",
    "name": "The spiral",
    "as": "the long read on signs that recur without a route, which this one is a clean example of",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เกลียวก้นหอย",
+   "as_th": ""
   },
   {
    "from": "tree",
    "type": "motif",
    "name": "The tree",
    "as": "the long read on signs that recur across unrelated traditions, which this record answers with three different verdicts",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ต้นไม้",
+   "as_th": ""
   },
   {
    "from": "monastiraki",
    "type": "place",
    "name": "Monastiraki",
    "as": "the long read that follows this sign across four continents",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "โมนาสติรากิ",
+   "as_th": ""
   },
   {
    "from": "alan-dundes",
    "type": "person",
    "name": "Alan Dundes",
    "as": "the long read; his casebook is the single best map of who disagrees with whom about this sign",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "อลัน ดันดีส",
+   "as_th": ""
   },
   {
    "from": "frederick-elworthy",
    "type": "person",
    "name": "Frederick Thomas Elworthy",
    "as": "the long read his 1895 survey is the first English attempt at",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เฟรเดอริก โทมัส เอลเวิร์ที",
+   "as_th": ""
   },
   {
    "from": "siegfried-seligmann",
    "type": "person",
    "name": "Siegfried Seligmann",
    "as": "the long read; his 1910 volumes are its largest single source in any language",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ซีกฟรีด เซลิกมันน์",
+   "as_th": ""
   },
   {
    "from": "nazar-word",
    "type": "term",
    "name": "nazar",
    "as": "the long read this word is the modern end of",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "นาซาร์",
+   "as_th": ""
   },
   {
    "from": "most-of-them-are-for-children",
    "type": "story",
    "name": "Most of them are for children",
    "as": "the companion read, which follows the sign rather than the person it is put on",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ส่วนใหญ่ทำเพื่อเด็ก",
+   "as_th": ""
   }
  ]
 }

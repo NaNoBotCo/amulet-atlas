@@ -7,16 +7,34 @@
   "native": "Mana Whenua",
   "lang": "mi",
   "said": "MA-na FE-nu-a",
-  "aliases": ["Taonga Māori at Te Papa", "Level 4, Te Papa"],
-  "sort": "Te Papa Mana Whenua"
+  "aliases": [
+   "Taonga Māori at Te Papa",
+   "Level 4, Te Papa"
+  ],
+  "sort": "Te Papa Mana Whenua",
+  "th": "มานาเฟนูอา ที่พิพิธภัณฑ์เตปาปา"
  },
- "region": ["aotearoa", "pacific"],
- "countries": ["NZ"],
- "facets": {"kind": "gallery", "hemisphere": ["S", "E"]},
+ "region": [
+  "aotearoa",
+  "pacific"
+ ],
+ "countries": [
+  "NZ"
+ ],
+ "facets": {
+  "kind": "gallery",
+  "hemisphere": [
+   "S",
+   "E"
+  ]
+ },
  "text": {
   "what": "Te Papa's permanent Māori exhibition, on Level 4 of the Wellington waterfront building. The museum's own description: taonga tuku iho — treasures handed down — \"ranging from weaving, carving, and pounamu pendants, to waka and whare\". A whare is a house; the whare here is Te Hau ki Tūranga, a carved meeting house standing inside the gallery. A waka is a canoe; Teremoe, a waka taua or war canoe from the Whanganui region used in the wars of the mid-1800s, is in the same room. Photography is not allowed. The lighting is deliberately low.",
   "story": "These are not curios, and the museum does not frame them as any. Its collections page states the principle it works under: \"Mana Taonga is a recognition of the power of taonga to communicate deep truths about our people.\" It counts more than 30,000 taonga registered in the Taonga Māori collection, from ancestral carvings, personal ornaments, garments and weaponry through to flaked stone, bird bone and shell from excavations, and it says the Mana Taonga principle guides its approach to access and research, aiming at \"the reconnection of people to their tribal taonga\".\n\nThe hei-tiki make the point about how objects travel. Te Papa holds over 200 of them, the largest single group anywhere; the British Museum has about fifty. Some were exchanged or given to European travellers and sailors at the earliest point of contact, and, in the encyclopedia's flat phrasing, \"the majority were stolen or improperly obtained through colonial processes\". The stone itself is now legally Māori: in 1997 the Crown handed ownership of all naturally occurring pounamu back to the South Island iwi Ngāi Tahu as part of their Claims Settlement. Pounamu is nephrite jade and bowenite, found only in the South Island, and Māori classify it by colour — kahurangi, īnanga, kawakawa, tangiwai.\n\nThe whare at the centre of the gallery is the clearest case in the building. Te Hau ki Tūranga is a nineteenth-century Rongowhakaata carved meeting house, confiscated by the Crown in 1867 and later held by Te Papa; ownership was returned to Rongowhakaata through the iwi's Treaty settlement, and the house stayed in the museum while the iwi-in-residence exhibition Ko Rongowhakaata: Ruku i te Pō, Ruku i te Ao ran from September 2017 to February 2022. The museum kept the object and gave back the title.\n\nTe Papa also does the asking. Karanga Aotearoa is, in the museum's own words, \"the government mandated authority that negotiates the repatriation of Māori and Moriori ancestral remains on behalf of Māori and Moriori\"; Cabinet agreed in May 2003 that Te Papa should act for the government in returning kōiwi and kōimi tangata — ancestral skeletal remains — and toi moko, preserved tattooed heads held in institutions abroad. Between 1 July 2003 and 1 May 2024 it repatriated 850 Māori and Moriori ancestral remains from overseas institutions, from Australia, Austria, Canada, France, Germany, Sweden, the United Kingdom, the United States and elsewhere, and returned 76 to iwi within New Zealand. A Repatriation Advisory Panel oversees it, and iwi representatives set the place, the time and the details of each return.\n\nFrom 29 August 2026 the carving argument is on show at scale. He Toi Whakairo: The Art of Māori Carving, running to August 2031 inside Mana Whenua on Level 4, puts more than 140 whakairo — carvings — from seven centuries in one place, many never exhibited before, under the whakataukī he toi whakairo, he mana tangata: the art of carving is the dignity of people.",
   "today": "Open every day, 10am to 6pm, except Christmas Day. Entry is free for New Zealanders and people living in New Zealand and NZ$35 for international visitors aged 16 and over, as published on 17 September 2026; some exhibitions and experiences are ticketed on top. Mana Whenua is free with museum entry, is listed as wheelchair accessible, has variable lighting, and carries a no-photography rule. This project has not stood on Level 4."
+ },
+ "text_th": {
+  "what": "นิทรรศการถาวรเรื่องชาวเมารีของเตปาปา (Te Papa) อยู่ที่ชั้น 4 ของอาคารริมท่าเรือเวลลิงตัน คำอธิบายของพิพิธภัณฑ์เอง: ตองกา ตูกู อิโฮ (taonga tuku iho) — สมบัติที่ส่งต่อกันมา — \"ตั้งแต่งานทอ งานแกะสลัก และจี้โปวนามู ไปจนถึงวากาและฟาเร\" ฟาเร (whare) คือบ้าน ฟาเรในที่นี้คือเตเฮาคีตูรังกา (Te Hau ki Tūranga) หอประชุมแกะสลักที่ตั้งอยู่ภายในห้องจัดแสดง วากา (waka) คือเรือแคนู เตเรโมเอ (Teremoe) เรือวากาเตาอาหรือเรือแคนูรบจากภูมิภาคฟางกานุย (Whanganui) ที่ใช้ในสงครามช่วงกลางคริสต์ศตวรรษที่ 19 อยู่ในห้องเดียวกัน ห้ามถ่ายภาพ แสงไฟจงใจให้สลัว"
  },
  "dating": {
   "period": "museum from 1992; taonga from seven centuries",
@@ -35,10 +53,27 @@
   "source": "s:web-tepapa-mana-whenua",
   "url": "https://www.tepapa.govt.nz/visit/exhibitions/mana-whenua"
  },
- "geo": {"lat": -41.2905, "lon": 174.7821, "precision": "street", "source": "hand-placed on the Wellington waterfront at Cable Street, from the museum's stated location; no published coordinate was read. Southern and eastern hemisphere: latitude negative, longitude positive."},
- "address": {"street": "Cable Street", "city": "Wellington", "country": "NZ"},
+ "geo": {
+  "lat": -41.2905,
+  "lon": 174.7821,
+  "precision": "street",
+  "source": "hand-placed on the Wellington waterfront at Cable Street, from the museum's stated location; no published coordinate was read. Southern and eastern hemisphere: latitude negative, longitude positive."
+ },
+ "address": {
+  "street": "Cable Street",
+  "city": "Wellington",
+  "country": "NZ"
+ },
  "hours": {
-  "open": ["Mo", "Tu", "We", "Th", "Fr", "Sa", "Su"],
+  "open": [
+   "Mo",
+   "Tu",
+   "We",
+   "Th",
+   "Fr",
+   "Sa",
+   "Su"
+  ],
   "text": "Open every day 10am–6pm.",
   "seasonal": "Closed Christmas Day.",
   "source": "s:web-tepapa-visit",
@@ -65,27 +100,97 @@
   }
  ],
  "tags": [
-  {"tag": "photography-limits", "source": "s:web-tepapa-mana-whenua", "tier": "cited", "note": "\"no photography\" is listed on the museum's own page for this exhibition, alongside wheelchair access and variable lighting", "url": "https://www.tepapa.govt.nz/visit/exhibitions/mana-whenua"},
-  {"tag": "repatriation", "source": "s:web-tepapa-karanga-aotearoa", "tier": "cited", "note": "Karanga Aotearoa, mandated by Cabinet in May 2003: 850 Māori and Moriori ancestral remains repatriated from overseas institutions between 1 July 2003 and 1 May 2024, and 76 returned to iwi within New Zealand", "url": "https://www.tepapa.govt.nz/about/repatriation/karanga-aotearoa-repatriation-programme"},
-  {"tag": "open-images", "source": "s:web-tepapa-copyright", "tier": "cited", "note": "two statements applied per image: openly available with no restrictions on reuse, or Creative Commons Attribution – Non-Commercial – No Derivatives; taonga images carry the museum's further request on top", "url": "https://www.tepapa.govt.nz/about/collections/all-te-papa-websites/copyright-and-terms-use"}
+  {
+   "tag": "photography-limits",
+   "source": "s:web-tepapa-mana-whenua",
+   "tier": "cited",
+   "note": "\"no photography\" is listed on the museum's own page for this exhibition, alongside wheelchair access and variable lighting",
+   "url": "https://www.tepapa.govt.nz/visit/exhibitions/mana-whenua"
+  },
+  {
+   "tag": "repatriation",
+   "source": "s:web-tepapa-karanga-aotearoa",
+   "tier": "cited",
+   "note": "Karanga Aotearoa, mandated by Cabinet in May 2003: 850 Māori and Moriori ancestral remains repatriated from overseas institutions between 1 July 2003 and 1 May 2024, and 76 returned to iwi within New Zealand",
+   "url": "https://www.tepapa.govt.nz/about/repatriation/karanga-aotearoa-repatriation-programme"
+  },
+  {
+   "tag": "open-images",
+   "source": "s:web-tepapa-copyright",
+   "tier": "cited",
+   "note": "two statements applied per image: openly available with no restrictions on reuse, or Creative Commons Attribution – Non-Commercial – No Derivatives; taonga images carry the museum's further request on top",
+   "url": "https://www.tepapa.govt.nz/about/collections/all-te-papa-websites/copyright-and-terms-use"
+  }
  ],
  "kin": [
-  {"to": "te-papa", "as": "the museum this gallery is the heart of, and the one that asks other institutions worldwide for ancestral remains back", "rel": "org"},
-  {"to": "hei-tiki", "as": "the pounamu neck pendant held here in the largest number anywhere, over 200 of them", "rel": "carries"},
-  {"to": "hei-matau", "as": "the hook pendant of the same stone and the same collection", "rel": "carries"},
-  {"to": "maori-taonga", "as": "the tradition whose own terms — taonga tuku iho, mana taonga, kaitiaki — this gallery is written in", "rel": "tradition"},
-  {"to": "jade", "as": "the stone, called pounamu here, whose naturally occurring supply the Crown returned to Ngāi Tahu in 1997", "rel": "material"},
-  {"to": "inheriting", "as": "the practice the word taonga tuku iho names: a treasure handed down, not a thing acquired", "rel": "practice"},
-  {"to": "quai-branly", "as": "the Paris museum this one asked for Māori remains and got them back from in January 2012", "rel": "contrast"},
-  {"to": "british-museum-room-1", "as": "the other side of the same argument: a London room that keeps what it holds, where this one gave a meeting house's title back", "rel": "contrast"},
-  {"to": "what-this-atlas-does-not-print", "as": "the long read on restriction; the no-photography rule on Level 4 is one of its worked examples", "rel": "story"},
-  {"to": "who-owns-a-charm", "as": "the long read on ownership, argued from the claimant's side — 850 ancestors returned since 2003", "rel": "story"}
+  {
+   "to": "te-papa",
+   "as": "the museum this gallery is the heart of, and the one that asks other institutions worldwide for ancestral remains back",
+   "rel": "org"
+  },
+  {
+   "to": "hei-tiki",
+   "as": "the pounamu neck pendant held here in the largest number anywhere, over 200 of them",
+   "rel": "carries"
+  },
+  {
+   "to": "hei-matau",
+   "as": "the hook pendant of the same stone and the same collection",
+   "rel": "carries"
+  },
+  {
+   "to": "maori-taonga",
+   "as": "the tradition whose own terms — taonga tuku iho, mana taonga, kaitiaki — this gallery is written in",
+   "rel": "tradition"
+  },
+  {
+   "to": "jade",
+   "as": "the stone, called pounamu here, whose naturally occurring supply the Crown returned to Ngāi Tahu in 1997",
+   "rel": "material"
+  },
+  {
+   "to": "inheriting",
+   "as": "the practice the word taonga tuku iho names: a treasure handed down, not a thing acquired",
+   "rel": "practice"
+  },
+  {
+   "to": "quai-branly",
+   "as": "the Paris museum this one asked for Māori remains and got them back from in January 2012",
+   "rel": "contrast"
+  },
+  {
+   "to": "british-museum-room-1",
+   "as": "the other side of the same argument: a London room that keeps what it holds, where this one gave a meeting house's title back",
+   "rel": "contrast"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the long read on restriction; the no-photography rule on Level 4 is one of its worked examples",
+   "rel": "story"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read on ownership, argued from the claimant's side — 850 ancestors returned since 2003",
+   "rel": "story"
+  }
  ],
  "links": [
-  {"label": "Mana Whenua — Te Papa", "url": "https://www.tepapa.govt.nz/visit/exhibitions/mana-whenua"},
-  {"label": "He Toi Whakairo: The Art of Māori Carving — Te Papa", "url": "https://www.tepapa.govt.nz/visit/exhibitions/he-toi-whakairo"},
-  {"label": "Taonga Māori at Te Papa", "url": "https://collections.tepapa.govt.nz/topic/1702"},
-  {"label": "Karanga Aotearoa Repatriation Programme — Te Papa", "url": "https://www.tepapa.govt.nz/about/repatriation/karanga-aotearoa-repatriation-programme"}
+  {
+   "label": "Mana Whenua — Te Papa",
+   "url": "https://www.tepapa.govt.nz/visit/exhibitions/mana-whenua"
+  },
+  {
+   "label": "He Toi Whakairo: The Art of Māori Carving — Te Papa",
+   "url": "https://www.tepapa.govt.nz/visit/exhibitions/he-toi-whakairo"
+  },
+  {
+   "label": "Taonga Māori at Te Papa",
+   "url": "https://collections.tepapa.govt.nz/topic/1702"
+  },
+  {
+   "label": "Karanga Aotearoa Repatriation Programme — Te Papa",
+   "url": "https://www.tepapa.govt.nz/about/repatriation/karanga-aotearoa-repatriation-programme"
+  }
  ],
  "sources": [
   "s:web-tepapa-mana-whenua",
@@ -101,11 +206,25 @@
   "s:web-rongowhakaata-wikipedia"
  ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:web-tepapa-mana-whenua"},
+  "default": {
+   "tier": "cited",
+   "source": "s:web-tepapa-mana-whenua"
+  },
   "fields": {
-   "geo": {"tier": "inference", "note": "geocoded by hand to the Cable Street waterfront; no published coordinate was read, so precision is street, not exact. Sign checked: Wellington is southern and eastern."},
-   "text.story": {"tier": "cited", "source": "s:web-tepapa-taonga-maori", "note": "the Mana Taonga statement and the 30,000 figure are the museum's own; the hei-tiki counts and the colonial-acquisition line come from the encyclopedia entry on hei-tiki; the 1997 pounamu vesting from the entry on pounamu; the Te Hau ki Tūranga history from the entry on Rongowhakaata, which does not give the settlement year and this record does not supply one"},
-   "text.today": {"tier": "cited", "source": "s:web-tepapa-visit", "note": "hours, prices and the gallery's access notes read on the museum's own pages, 2026-09-17; nobody from this project has been on Level 4"}
+   "geo": {
+    "tier": "inference",
+    "note": "geocoded by hand to the Cable Street waterfront; no published coordinate was read, so precision is street, not exact. Sign checked: Wellington is southern and eastern."
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-tepapa-taonga-maori",
+    "note": "the Mana Taonga statement and the 30,000 figure are the museum's own; the hei-tiki counts and the colonial-acquisition line come from the encyclopedia entry on hei-tiki; the 1997 pounamu vesting from the entry on pounamu; the Te Hau ki Tūranga history from the entry on Rongowhakaata, which does not give the settlement year and this record does not supply one"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:web-tepapa-visit",
+    "note": "hours, prices and the gallery's access notes read on the museum's own pages, 2026-09-17; nobody from this project has been on Level 4"
+   }
   }
  },
  "images": [],

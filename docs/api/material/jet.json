@@ -9,7 +9,8 @@
    "Whitby jet",
    "lignite"
   ],
-  "said": "jet"
+  "said": "jet",
+  "th": "เจ็ต (หินเจ็ต)"
  },
  "etymology": {
   "root": "French jaiet, modern jais, ultimately from the ancient town of Gagae",
@@ -39,6 +40,9 @@
   "what": "Fossil wood. Jet is lignite, the lowest rank of coal, formed from wood under pressure — commonly from trees of the family Araucariaceae — and it is a mineraloid, not a mineral. It is soft, 2.5 to 4 on the Mohs scale, cuts easily but chips at fine detail, takes a high polish, and burns like coal with a coal smell. Rubbed, it can pick up a charge the way amber does. Held, it is not cold: black glass is, and that is the oldest test for telling them apart.",
   "story": "The earliest worked jet anybody has is a model of a botfly larva from about 10,000 BCE, found in Baden-Wurttemberg among the Venuses of Petersfels. Britain has used it since the Neolithic, through the Bronze Age for necklace beads, then not at all through the Iron Age, until it came back in Roman Britain in the early third century CE. Whitby jet was collected by beachcombing and worked at Eboracum, modern York, into rings, hair pins, beads, bracelets, bangles, necklaces and pendants. Jet pendants were cut cameo-style, and the Medusa head was a favourite subject — a gorgon face carved from fossil wood, aimed at whoever looked at the wearer.\n\nThe Roman period is where jet is named as a magical material outright, used in amulets and pendants for its supposed protective qualities and its ability to deflect the gaze of the evil eye. Pliny the Elder gives the claims: \"the kindling of jet drives off snakes and relieves suffocation of the uterus. Its fumes detect attempts to simulate a disabling illness or a state of virginity.\" Solinus and Galen refer to it too.\n\nThen it becomes a pilgrim's stone. At the end of the Middle Ages the trade in religious objects and jet amulets reached great development at Santiago de Compostela, sold to pilgrims walking the Camino; the workshops were at Santiago, the deposits up the coast in Asturias, where beads and rosary beads were also cut. Near Erzurum in Turkey the same material is oltu stone and is made into prayer beads. In New Mexico, Navajo and Pueblo people were using regionally mined jet for jewellery and to ornament weapons when Spanish explorers reached the area in the 1500s.\n\nVictorian Britain turned it into mourning. Queen Victoria wore a jet necklace as part of mourning dress in the 1850s and again for Prince Albert, and the trade followed her. Use peaked in the early 1870s; Whitby went from more than a thousand workers in the trade to three hundred by 1884, as Art Nouveau turned away from black jewellery; by the end of the Second World War three jewellers were left, and the industry ended with them.",
   "today": "Jet jewellery came back into fashion in the 1980s and new jewellers took up production. The Puerto Rican azabache bracelet is the material's busiest survival as a charm: it carries a black or red coral amulet in the shape of a fist with the index-finger knuckle protruding, and it is the commonest protection put on an infant there. Imitations are old and numerous — glass sold as French jet or Vauxhall glass, ebonite that fades, anthracite, offcuts bound with glue and moulded, and museum reproductions in epoxy resin."
+ },
+ "text_th": {
+  "what": "ไม้ฟอสซิล เจ็ตคือลิกไนต์ ถ่านหินชั้นต่ำที่สุด เกิดจากไม้ภายใต้แรงกดทับ — ส่วนใหญ่มาจากต้นไม้วงศ์อะราอูคาเรีย (Araucariaceae) — และเป็นมิเนอราลอยด์ (mineraloid) ไม่ใช่แร่ เนื้ออ่อน ความแข็ง 2.5 ถึง 4 ตามมาตราโมส์ ตัดง่ายแต่บิ่นเมื่อแกะรายละเอียดเล็ก ขัดได้เงามาก และติดไฟได้เหมือนถ่านหินพร้อมกลิ่นถ่านหิน เมื่อถู มันเก็บประจุไฟฟ้าได้เหมือนอำพัน เมื่อจับ มันไม่เย็น แต่แก้วสีดำเย็น และนั่นคือวิธีทดสอบที่เก่าที่สุดสำหรับแยกทั้งสองออกจากกัน"
  },
  "dating": {
   "period": "Upper Palaeolithic to the present",
@@ -201,63 +205,81 @@
    "type": "amulet",
    "name": "Azabache",
    "as": "the bracelet named after this material in Spanish, and the commonest thing put on an infant in Puerto Rico",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "อาซาบาเช (เครื่องรางหินเจ็ต)",
+   "as_th": ""
   },
   {
    "to": "figa",
    "type": "amulet",
    "name": "Figa",
    "as": "the fist with the knuckle out, cut in jet where the bracelet is black rather than red",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ฟีกา (กำปั้นกันภัย)",
+   "as_th": ""
   },
   {
    "to": "gorgoneion",
    "type": "amulet",
    "name": "Gorgoneion",
    "as": "the Medusa head Roman Britain liked to cut into jet cameos, aimed at whoever looked",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "กอร์โกเนออน (ศีรษะกอร์กอน)",
+   "as_th": ""
   },
   {
    "to": "hamsa",
    "type": "amulet",
    "name": "Hamsa",
    "as": "most commonly carved in jet or formed in silver, per the same sources",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ฮัมซา (มือกันภัย)",
+   "as_th": ""
   },
   {
    "to": "amber",
    "type": "material",
    "name": "Amber",
    "as": "the other fossil that takes a charge when rubbed; what dealers call black amber is this",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "อำพัน",
+   "as_th": ""
   },
   {
    "to": "coral",
    "type": "material",
    "name": "Red coral",
    "as": "the red half of the azabache bracelet, where jet is the black half",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ปะการังแดง",
+   "as_th": ""
   },
   {
    "to": "glass",
    "type": "material",
    "name": "Glass",
    "as": "sold as French jet in imitation of it, and told apart because glass is cold to the touch and jet is not",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "แก้ว",
+   "as_th": ""
   },
   {
    "to": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the long read on imitation, which this material has supported since the nineteenth century",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดของปลอม",
+   "as_th": ""
   },
   {
    "to": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "the tradition that bought jet by the shipload at Santiago de Compostela",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -392,49 +414,63 @@
    "type": "amulet",
    "name": "Azabache",
    "as": "the material the amulet is named after — azabache is simply the Spanish for it",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "อาซาบาเช (เครื่องรางหินเจ็ต)",
+   "as_th": ""
   },
   {
    "from": "figa",
    "type": "amulet",
    "name": "Figa",
    "as": "the Asturian material, and the one that carries the child's version",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ฟีกา (กำปั้นกันภัย)",
+   "as_th": ""
   },
   {
    "from": "hamsa",
    "type": "amulet",
    "name": "Hamsa",
    "as": "the black stone it was historically carved from, and the same stone Spain cuts a fist out of",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ฮัมซา (มือกันภัย)",
+   "as_th": ""
   },
   {
    "from": "fist",
    "type": "motif",
    "name": "The fig fist",
    "as": "the black stone Asturias cuts it from, and the reason so many survive",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "กำปั้นฟิก (มาโนฟิกา)",
+   "as_th": ""
   },
   {
    "from": "amber",
    "type": "material",
    "name": "Amber",
    "as": "the other fossil that holds a charge when rubbed; what the trade sells as black amber is jet",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "อำพัน",
+   "as_th": ""
   },
   {
    "from": "coral",
    "type": "material",
    "name": "Red coral",
    "as": "coral's black opposite in the same bracelet: one red, one black, both on the same infant",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ปะการังแดง",
+   "as_th": ""
   },
   {
    "from": "turquoise",
    "type": "material",
    "name": "Turquoise",
    "as": "one of the materials inlaid beside it in Aztec mosaic masks",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เทอร์ควอยซ์",
+   "as_th": ""
   }
  ]
 }

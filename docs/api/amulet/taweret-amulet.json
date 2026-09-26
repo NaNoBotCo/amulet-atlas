@@ -11,7 +11,8 @@
    "Tawaret",
    "Thoeris",
    "hippopotamus goddess amulet"
-  ]
+  ],
+  "th": "เครื่องรางเทพีทาเวเรต"
  },
  "etymology": {
   "root": "Egyptian tꜣ-wrt, 'she who is great' or simply 'great one' — a pacificatory address, the form of words used to calm a dangerous deity rather than to describe a kind one.",
@@ -47,6 +48,9 @@
   "story": "Egypt made two decisions about hippopotami and kept both. The male was chaos, hunted down by kings to show divine power. The female was the opposite, because she guards her young with everything she has — so the protective goddesses of the household are female hippopotami, and amulets in their likeness are among the oldest in the country. They start before 3000 BCE, in the Predynastic period, and the making and wearing of them runs the whole length of Egyptian history into the Ptolemaic and Roman periods, to about 390 CE.\n\nHer amulet peaks in popularity at the very end. In the Ptolemaic and Roman centuries, when the temples were changing hands and the old state religion was thinning out, household amulets of Taweret and her fellow hippopotamus goddesses sold better than ever.\n\nShe worked at both ends of a life. In the Middle Kingdom her image is carved onto a class of curved implement made from hippopotamus ivory that Egyptologists call a wand or a knife; tomb paintings show these in the hands of nurses, and wear on the tips indicates they were used to draw protective patterns in the sand. Taweret is on almost all known wands. The other figures on them are the gods who escort the sun through the underworld at night. At the same time hippopotami decorated with marsh flora were being put in tombs, which Egyptologists read as the same goddess helping a dead person be reborn the way she helped a living one be delivered.\n\nShe survived Akhenaten. Objects bearing Taweret were found at Amarna, from a reign, about 1352–1336 BCE, when the worship of the traditional gods was proscribed in favour of the sun disc. *Inference —* what people keep when the state tells them to stop is a good measure of what an object is for, and a birth charm is not easy to give up.\n\nShe travelled by trade. Middle Kingdom contact with the Levant carried her into the religions there in the same maternal role. From the Levantine coast she reached Crete, where Minoan artists redrew her in their own style as the figure Aegean archaeologists call the Minoan Genius, and from Crete the image reached the mainland and appears in palace art at Mycenae. Nubia took her into its pantheon in the late Middle Kingdom, and she features in royal rituals at Kerma.\n\nDo not confuse her with Ammit. Ammit is also a composite hippopotamus and she is there to eat the unjust at the weighing; Taweret and her kin nourish and help.",
   "how": "Moulded or carved as a pendant, cut into furniture, moulded onto feeding cups, and poured from: New Kingdom vessels in her shape are taken to have purified the liquid poured out of them, since one of her epithets is 'She of the Pure Water', and some have their openings through the nipples. The hippopotamus-ivory wands were drawn with, in sand, by the nurse.",
   "today": "Not made as a birth charm. She is a museum object, a name in Egyptology, and a character in a television series. As of 2026 this project has read no account of anybody in Egypt using a Taweret at a birth."
+ },
+ "text_th": {
+  "what": "ฮิปโปโปเตมัสยืนตรงบนสองขา มีแขนขาและอุ้งเท้าแบบสิงโต มีจระเข้แม่น้ำไนล์พาดตามหลังและหาง มีหน้าอกแบบมนุษย์และท้องตั้งครรภ์ นางมักถือสัญลักษณ์ซา (sa) อักษรภาพที่แปลว่า ‘การปกป้อง’ พบในรูปจี้ เป็นใบหน้าบนเครื่องเรือน เก้าอี้ ม้านั่ง และที่หนุนศีรษะ บนถ้วยป้อนอาหารเด็ก และเป็นภาชนะที่มีพวยเป็นหัวนม"
  },
  "dating": {
   "period": "Predynastic to Roman Egypt",
@@ -262,63 +266,81 @@
    "type": "amulet",
    "name": "Bes amulet",
    "as": "the god who works the same birth with her; the sources put the two of them in the room together",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เครื่องรางเทพเบส",
+   "as_th": ""
   },
   {
    "to": "egyptian-amulet-craft",
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "the tradition that made her, and the oldest amulet shape in it",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   },
   {
    "to": "lamashtu-plaque",
    "type": "amulet",
    "name": "Lamashtu plaque",
    "as": "Mesopotamia's answer to the same fear — but there the danger to mother and baby is the figure on the plaque, and here she is the guard",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "แผ่นเครื่องรางลามัชตู",
+   "as_th": ""
   },
   {
    "to": "most-of-them-are-for-children",
    "type": "story",
    "name": "Most of them are for children",
    "as": "the long read she heads: the largest class of amulet in the world is the one hung on somebody who cannot ask for it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ส่วนใหญ่ทำเพื่อเด็ก",
+   "as_th": ""
   },
   {
    "to": "bone-ivory",
    "type": "material",
    "name": "Bone and ivory",
    "as": "the material of the Middle Kingdom wands her face is cut into",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "กระดูกและงา",
+   "as_th": ""
   },
   {
    "to": "faience",
    "type": "material",
    "name": "Faience",
    "as": "the material that made her cheap enough to hang over a cradle",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เฟยองซ์ (ควอตซ์เคลือบอียิปต์)",
+   "as_th": ""
   },
   {
    "to": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "the other end of her work — hippopotami with marsh flora put in tombs for a second birth",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "to": "met-egyptian-galleries",
    "type": "place",
    "name": "The Egyptian galleries, the Metropolitan Museum of Art",
    "as": "a room where her amulets and the wands sit within sight of each other",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ห้องจัดแสดงอียิปต์ พิพิธภัณฑ์ศิลปะเมโทรโพลิแทน",
+   "as_th": ""
   },
   {
    "to": "tabiz",
    "type": "amulet",
    "name": "Tabiz",
    "as": "a later charm for the same fear, made of a written verse in a case rather than a goddess in faience",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตาบีซ (เครื่องรางคำอธิษฐาน)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -582,42 +604,54 @@
    "type": "amulet",
    "name": "Akua'ba",
    "as": "the Nile's charm for the same wish, four thousand years earlier and made as a hippopotamus",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "อาคัวบา (ตุ๊กตาไม้ของชาวอาคาน)",
+   "as_th": ""
   },
   {
    "from": "bes-amulet",
    "type": "amulet",
    "name": "Bes amulet",
    "as": "the goddess he stands beside at a birth; the two are the working pair of Egyptian domestic protection",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เครื่องรางเทพเบส",
+   "as_th": ""
   },
   {
    "from": "lamashtu-plaque",
    "type": "amulet",
    "name": "Lamashtu plaque",
    "as": "Egypt's answer to the same danger, and a guardian rather than a demon held off",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "แผ่นเครื่องรางลามัชตู",
+   "as_th": ""
   },
   {
    "from": "egyptian-amulet-craft",
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "its oldest shape, and the one whose sales peaked at the very end",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   },
   {
    "from": "lion",
    "type": "motif",
    "name": "The lion",
    "as": "a hippopotamus with a crocodile's tail and a lioness's paws — the sign borrowed onto another animal",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "สิงโต",
+   "as_th": ""
   },
   {
    "from": "most-of-them-are-for-children",
    "type": "story",
    "name": "Most of them are for children",
    "as": "the other half of the Egyptian birth pair, for the mother as much as for the infant",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ส่วนใหญ่ทำเพื่อเด็ก",
+   "as_th": ""
   }
  ]
 }

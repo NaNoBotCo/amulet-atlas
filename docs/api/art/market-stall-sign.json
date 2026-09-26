@@ -8,7 +8,8 @@
    "amulet stall signage",
    "stall board",
    "trade street name"
-  ]
+  ],
+  "th": "ป้ายแผงตลาด"
  },
  "region": [
   "anatolia",
@@ -31,36 +32,47 @@
   "story": "The Grand Bazaar in Istanbul solved the problem by not signing at all. Until the restoration that followed the 1894 earthquake it had no shops in the western sense: merchants sat on wooden divans in front of their shelves, each occupying a space six to eight feet wide and three to four feet deep, a space called a dolap, Turkish for stall. The best stock was kept in cabinets and not displayed. \"Another peculiarity was the complete lack of advertising,\" the published account reads. Instead, traders of the same goods were concentrated along one road, and the road took its name from their trade — at one point 67 roads, each named for what it sold. The street was the sign.\n\nMexico City's Mercado de Sonora signs the other way round, on the goods. Names are the pitch, and they are printed on the bottles: atrapahombres, \"trap men\"; ven a mi, \"come to me\"; miel de amor, \"honey of love\"; Amansa guapos, \"tame handsome men\". Around 2,000 people come each weekend for the section of the market given to amulets, candles, powders, Santería and Santa Muerte.\n\nAt Tha Phrachan in Bangkok the graphic that matters is not a sign but a document. A clay tablet's worth turns on which temple pressed it and which monk consecrated it, so the case carries a certificate and the buyer carries a loupe, and forgeries are common enough that expert authentication is routine.\n\n*Inference —* the pattern across all three is that amulet markets do not advertise what a charm does. They label origin, or they label desire, or they label nothing and let the street do it. This project has not read a published study of amulet-stall signage anywhere, so the generalisation is drawn from three descriptions and is marked as this project's own.",
   "today": "Khan el-Khalili's souvenir shops and the goldsmiths' souq beside them still run on the old zoning, trade by trade, in a district whose fixed stone shopfronts replaced mobile market stalls partly so the authorities could count and tax them. The signage gap is a gap in the record, not in the markets — set confidence low here and treat the picture as unfinished."
  },
+ "text_th": {
+  "what": "สิ่งใดก็ตามที่บอกผู้ซื้อก่อนเดินไปถึงถาดว่าบนถาดมีอะไร อาจเป็นป้ายที่ทาสี ชื่อสินค้าที่เขียนด้วยมือบนขวดโหล ใบรับรองที่ตั้งพิงตู้ หรือในรูปแบบที่เก่าแก่ที่สุด คือชื่อของถนนเอง ตลาดเครื่องรางติดป้ายด้วยทั้งสี่วิธีนี้ และหลายครั้งก็ไม่ติดเลย บันทึกนี้ว่าด้วยภาพที่เกิดขึ้นจากสิ่งนั้น",
+  "story": "แกรนด์บาซาร์ (Grand Bazaar) ในอิสตันบูลแก้ปัญหานี้ด้วยการไม่ติดป้ายเลย จนกระทั่งมีการบูรณะหลังแผ่นดินไหวปี ค.ศ. 1894 ที่นี่ไม่มีร้านค้าแบบตะวันตก พ่อค้านั่งบนตั่งไม้หน้าชั้นวางของตน แต่ละคนครองพื้นที่กว้าง 6 ถึง 8 ฟุต ลึก 3 ถึง 4 ฟุต พื้นที่นี้เรียกว่า โดลาป (dolap) ซึ่งเป็นภาษาตุรกีแปลว่าแผงค้า สินค้าชั้นดีที่สุดเก็บไว้ในตู้และไม่ได้วางโชว์ บันทึกที่ตีพิมพ์ไว้เขียนว่า \"ลักษณะเฉพาะอีกอย่างหนึ่งคือการไม่มีการโฆษณาเลย\" แทนที่จะโฆษณา พ่อค้าสินค้าชนิดเดียวกันจะรวมกันอยู่บนถนนสายเดียว และถนนก็ได้ชื่อตามสินค้านั้น ครั้งหนึ่งมีถนนถึง 67 สาย แต่ละสายตั้งชื่อตามสิ่งที่ขาย ถนนคือป้าย\n\nตลาดโซโนรา (Mercado de Sonora) ในเม็กซิโกซิตีติดป้ายไปอีกทาง คือติดที่ตัวสินค้า ชื่อคือคำเชิญชวน และพิมพ์ไว้บนขวด เช่น อาตราปาอมเบรส (atrapahombres) \"ดักผู้ชาย\" เบน อา มี (ven a mi) \"มาหาฉัน\" มิเอล เด อามอร์ (miel de amor) \"น้ำผึ้งแห่งความรัก\" อามันซา กัวโปส (Amansa guapos) \"ปราบหนุ่มหล่อ\" ทุกสุดสัปดาห์มีคนราว 2,000 คนมาที่ส่วนของตลาดที่ขายเครื่องราง เทียน ผง ของใช้ในลัทธิซานเตรีอา (Santería) และซานตามูเอร์เต (Santa Muerte)\n\nที่ท่าพระจันทร์ในกรุงเทพฯ สิ่งที่สำคัญไม่ใช่ป้าย แต่เป็นเอกสาร มูลค่าของพระพิมพ์ดินองค์หนึ่งขึ้นอยู่กับว่าวัดใดกดพิมพ์ และพระสงฆ์รูปใดปลุกเสก ตู้จึงมีใบรับรองวางอยู่ ผู้เช่าบูชาพกกล้องส่องพระ และพระปลอมก็มีมากพอที่การให้ผู้เชี่ยวชาญตรวจสอบกลายเป็นเรื่องปกติ\n\n*ข้อสันนิษฐาน —* แบบแผนที่เห็นในทั้งสามแห่งคือ ตลาดเครื่องรางไม่ได้โฆษณาว่าเครื่องรางทำอะไรได้ แต่ติดป้ายบอกที่มา หรือติดป้ายบอกความปรารถนา หรือไม่ติดอะไรเลยแล้วปล่อยให้ถนนทำหน้าที่แทน โครงการนี้ยังไม่ได้อ่านงานศึกษาที่ตีพิมพ์เรื่องป้ายแผงเครื่องรางจากที่ใดเลย ข้อสรุปนี้จึงมาจากคำบรรยายสามชิ้น และระบุไว้ว่าเป็นของโครงการนี้เอง",
+  "today": "ร้านของที่ระลึกในข่านเอลคาลิลี (Khan el-Khalili) และตลาดช่างทองที่อยู่ติดกันยังคงจัดโซนตามแบบเก่า แยกตามประเภทการค้า ในย่านที่หน้าร้านหินแบบถาวรเข้ามาแทนแผงตลาดเคลื่อนที่ ส่วนหนึ่งก็เพื่อให้ทางการนับและเก็บภาษีได้ ช่องว่างเรื่องป้ายเป็นช่องว่างในบันทึก ไม่ใช่ในตลาด ให้ตั้งความเชื่อมั่นของบันทึกนี้ไว้ต่ำ และถือว่าภาพนี้ยังไม่สมบูรณ์"
+ },
  "kin": [
   {
    "to": "grand-bazaar",
    "as": "the market that ran for four centuries with the street name as its only sign",
-   "rel": "place"
+   "rel": "place",
+   "as_th": "ตลาดที่ดำเนินมาสี่ศตวรรษโดยมีชื่อถนนเป็นป้ายเพียงอย่างเดียว"
   },
   {
    "to": "mercado-de-sonora",
    "as": "the opposite case — the label is on the bottle and it names the wish, not the object",
-   "rel": "place"
+   "rel": "place",
+   "as_th": "กรณีตรงกันข้าม ป้ายอยู่บนขวด และบอกชื่อความปรารถนา ไม่ใช่ชื่อวัตถุ"
   },
   {
    "to": "tha-phrachan",
    "as": "where the certificate does the work a sign would, because provenance is the price",
-   "rel": "place"
+   "rel": "place",
+   "as_th": "ที่ซึ่งใบรับรองทำหน้าที่แทนป้าย เพราะประวัติที่มาคือราคา"
   },
   {
    "to": "khan-el-khalili",
    "as": "a bazaar zoned by trade, where the district's layout still tells a buyer where to walk",
-   "rel": "place"
+   "rel": "place",
+   "as_th": "ตลาดที่จัดโซนตามประเภทการค้า ซึ่งผังของย่านยังบอกผู้ซื้อได้ว่าควรเดินไปทางไหน"
   },
   {
    "to": "buying-in-a-market",
    "as": "the practice this picture frames — the moment before money changes hands",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "การปฏิบัติที่ภาพนี้จับไว้ คือช่วงเวลาก่อนเงินจะเปลี่ยนมือ"
   },
   {
    "to": "the-fake-market",
    "as": "the long read about what the certificate is for",
-   "rel": "story"
+   "rel": "story",
+   "as_th": "บทความยาวว่าด้วยใบรับรองมีไว้เพื่ออะไร"
   }
  ],
  "links": [
@@ -146,42 +158,54 @@
    "type": "place",
    "name": "The Grand Bazaar",
    "as": "the market that ran for four centuries with the street name as its only sign",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "แกรนด์บาซาร์ (คาปาลึชาร์ชึ)",
+   "as_th": "ตลาดที่ดำเนินมาสี่ศตวรรษโดยมีชื่อถนนเป็นป้ายเพียงอย่างเดียว"
   },
   {
    "to": "mercado-de-sonora",
    "type": "place",
    "name": "Mercado de Sonora",
    "as": "the opposite case — the label is on the bottle and it names the wish, not the object",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตลาดโซโนรา (เมร์กาโด เด โซโนรา)",
+   "as_th": "กรณีตรงกันข้าม ป้ายอยู่บนขวด และบอกชื่อความปรารถนา ไม่ใช่ชื่อวัตถุ"
   },
   {
    "to": "tha-phrachan",
    "type": "place",
    "name": "Tha Phrachan amulet market",
    "as": "where the certificate does the work a sign would, because provenance is the price",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตลาดพระเครื่องท่าพระจันทร์",
+   "as_th": "ที่ซึ่งใบรับรองทำหน้าที่แทนป้าย เพราะประวัติที่มาคือราคา"
   },
   {
    "to": "khan-el-khalili",
    "type": "place",
    "name": "Khan el-Khalili",
    "as": "a bazaar zoned by trade, where the district's layout still tells a buyer where to walk",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ข่านเอลคาลีลี",
+   "as_th": "ตลาดที่จัดโซนตามประเภทการค้า ซึ่งผังของย่านยังบอกผู้ซื้อได้ว่าควรเดินไปทางไหน"
   },
   {
    "to": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the practice this picture frames — the moment before money changes hands",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": "การปฏิบัติที่ภาพนี้จับไว้ คือช่วงเวลาก่อนเงินจะเปลี่ยนมือ"
   },
   {
    "to": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the long read about what the certificate is for",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดของปลอม",
+   "as_th": "บทความยาวว่าด้วยใบรับรองมีไว้เพื่ออะไร"
   }
  ],
  "source_list": [
@@ -270,14 +294,18 @@
    "type": "place",
    "name": "Sensō-ji",
    "as": "the drawn signage of a selling street, which Nakamise has carried through four rebuildings",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "วัดเซนโซจิ",
+   "as_th": ""
   },
   {
    "from": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the picture record: at Tha Phrachan the certificate does the work a sign would",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "ตลาดของปลอม",
+   "as_th": "บันทึกภาพ ที่ท่าพระจันทร์ ใบรับรองทำหน้าที่แทนป้าย"
   }
  ]
 }

@@ -7,7 +7,8 @@
   "aliases": [
    "W. L. Hildburgh"
   ],
-  "sort": "Hildburgh, Walter Leo"
+  "sort": "Hildburgh, Walter Leo",
+  "th": "วอลเตอร์ ลีโอ ฮิลด์เบิร์ก"
  },
  "region": [
   "britain-ireland",
@@ -32,6 +33,9 @@
   "what": "American collector and art historian, 1876–1955, who bought amulets in vast numbers across Europe, Asia and the Middle East and then wrote about them. His amulet collection was left to the Wellcome Historical Medical Museum and transferred to the Pitt Rivers Museum in 1985; his English medieval alabasters went to the Victoria and Albert Museum, 300 of them in 1946 for his seventieth birthday.",
   "story": "Hildburgh took a doctorate at Columbia on alternating current, then spent his life on objects. The University of London gave him a D.Litt. in the History of Art in 1937. He gave or bequeathed over 5,000 objects to the Victoria and Albert Museum alone, and further material reached the British Museum, the Metropolitan Museum of Art, Cooper Hewitt and the UCL Institute of Archaeology.\n\nThe amulets are the part that concerns this atlas, and they are also the part that moved. They went first to Henry Wellcome's museum, and in 1985 the whole Wellcome amulet material was transferred to Oxford. *Inference —* that means a tray of Spanish hands or Japanese charms catalogued as Pitt Rivers material may have been bought by an American in a Madrid street in 1906, passed through a pharmaceutical fortune's private museum in London, and only reached Oxford eighty years later. The label says Pitt Rivers. The object's history says four other things first.\n\nHe published on what he bought rather than only accumulating it: articles on cowrie shells as amulets, on hand images as amulets in Spain, and on the psychology he thought underlay amulet use in Europe.",
   "today": "Hildburgh's amulets are the bulk of what a visitor to the Pitt Rivers charm cases is looking at, and the Wellcome connection is why the same names recur in both institutions' catalogues. This project has read no published account of how individual pieces were acquired, and does not assert that any particular object was bought fairly or unfairly."
+ },
+ "text_th": {
+  "what": "นักสะสมและนักประวัติศาสตร์ศิลปะชาวอเมริกัน (ค.ศ. 1876–1955) ผู้ซื้อเครื่องรางจำนวนมหาศาลทั่วยุโรป เอเชีย และตะวันออกกลาง แล้วเขียนถึงสิ่งเหล่านั้น คอลเลกชันเครื่องรางของเขาถูกยกให้พิพิธภัณฑ์การแพทย์ประวัติศาสตร์เวลคัม (Wellcome Historical Medical Museum) และโอนไปยังพิพิธภัณฑ์พิตต์ริเวอร์ส (Pitt Rivers Museum) ใน ค.ศ. 1985 ส่วนงานแกะหินอะลาบาสเตอร์ยุคกลางของอังกฤษของเขาไปอยู่ที่พิพิธภัณฑ์วิกตอเรียและอัลเบิร์ต (Victoria and Albert Museum) โดย 300 ชิ้นในจำนวนนั้นมอบให้ใน ค.ศ. 1946 เนื่องในวันเกิดอายุเจ็ดสิบปีของเขา"
  },
  "dating": {
   "period": "Twentieth century",
@@ -174,56 +178,72 @@
    "type": "org",
    "name": "The Pitt Rivers Museum",
    "as": "where his amulets landed in 1985, and where most of them are catalogued today",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์พิตต์ ริเวอร์ส",
+   "as_th": ""
   },
   {
    "to": "wellcome-collection",
    "type": "org",
    "name": "Wellcome Collection",
    "as": "the collection he left the amulets to first, and which passed them on",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "เวลคัมคอลเลกชัน",
+   "as_th": ""
   },
   {
    "to": "pitt-rivers-charms",
    "type": "place",
    "name": "The amulet and charm cases, Pitt Rivers Museum",
    "as": "the cases his material largely fills",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตู้เครื่องรางและของขลัง พิพิธภัณฑ์พิตต์ริเวอร์ส",
+   "as_th": ""
   },
   {
    "to": "cowrie",
    "type": "material",
    "name": "Cowrie",
    "as": "one of the classes he published on, treating the shell as an amulet rather than as currency",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "หอยเบี้ย",
+   "as_th": ""
   },
   {
    "to": "hand",
    "type": "motif",
    "name": "The hand",
    "as": "the Spanish hand-shaped charm he wrote a paper on",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "มือ",
+   "as_th": ""
   },
   {
    "to": "figa",
    "type": "amulet",
    "name": "Figa",
    "as": "the closed hand with the thumb between the fingers, the Iberian form of what he was collecting",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ฟีกา (กำปั้นกันภัย)",
+   "as_th": ""
   },
   {
    "to": "edward-lovett",
    "type": "person",
    "name": "Edward Lovett",
    "as": "his London contemporary; both collections passed through Wellcome and both ended up scattered",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เอ็ดเวิร์ด เลิฟเวตต์",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read on how a charm changes hands; a Hildburgh object has usually changed them four times",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -312,42 +332,54 @@
    "type": "place",
    "name": "The amulet and charm cases, Pitt Rivers Museum",
    "as": "the other collector whose amulets came here from Wellcome in the 1985 transfer",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "ตู้เครื่องรางและของขลัง พิพิธภัณฑ์พิตต์ริเวอร์ส",
+   "as_th": ""
   },
   {
    "from": "wellcome-lovett",
    "type": "place",
    "name": "The Lovett charms at Wellcome Collection",
    "as": "the other amulet collector whose material passed through this building and out of it in 1985",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "เครื่องรางของโลเวตต์ที่เวลคัมคอลเลกชัน",
+   "as_th": ""
   },
   {
    "from": "augustus-pitt-rivers",
    "type": "person",
    "name": "Augustus Pitt Rivers",
    "as": "the collector whose amulets reached the museum in 1985, long after the founder's scheme was set",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "ออกัสตัส พิตต์ ริเวอร์ส",
+   "as_th": ""
   },
   {
    "from": "siegfried-seligmann",
    "type": "person",
    "name": "Siegfried Seligmann",
    "as": "another private amulet collector of the same decades whose collection also ended up in a public museum",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ซีกฟรีด เซลิกมันน์",
+   "as_th": ""
   },
   {
    "from": "pitt-rivers-museum",
    "type": "org",
    "name": "The Pitt Rivers Museum",
    "as": "the collector whose amulets came here from Wellcome in 1985",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "พิพิธภัณฑ์พิตต์ ริเวอร์ส",
+   "as_th": ""
   },
   {
    "from": "wellcome-collection",
    "type": "org",
    "name": "Wellcome Collection",
    "as": "the collector who bequeathed his amulets here before they went on to Oxford",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "เวลคัมคอลเลกชัน",
+   "as_th": ""
   }
  ]
 }

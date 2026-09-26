@@ -10,7 +10,8 @@
    "heirloom charm",
    "taonga tuku iho"
   ],
-  "said": "the charm outlives its owner"
+  "said": "the charm outlives its owner",
+  "th": "การสืบทอดเครื่องราง"
  },
  "region": [
   "island-sea",
@@ -42,6 +43,9 @@
   "story": "Java files the inherited blade under a word of its own. A kris is revered as tosan aji, sacred heirloom weapon, and counted a pusaka. Heirloom blades were handed down through successive generations and worn at weddings and other ceremonies; a fighter might carry three — his own, one from his father-in-law and one that was the family's. A pusaka kris given by a Javanese king to a noble or a subject stood for the king's confidence in the receiver and counted as a great honour. When Prince Diponegoro was defeated and detained at the end of the Java War and had to hand his kris to the Dutch in 1830, the event marked the disarming of the kris among the Javanese populace; its ceremonial life as heirloom and personal amulet continued.\n\nFiji keeps its whale teeth out of the market on purpose. Tabua are not sold, but traded as gifts at weddings, birthdays and funerals, and were traditionally given for atonement or esteem in sevusevu and in negotiations between rival chiefs. Age shows on them: contact with the oils in human hands darkens the tooth. The law now constrains the handing on — removal from Fiji is capped at 225 exports a year, requires permits from the Ministry of iTaukei Affairs and CITES papers, and in 2007 New Zealand returned 146 tabua seized for lacking valid export permits.\n\nMāori hei-tiki pass through the ground. Hei-tiki are taonga, treasures, usually of pounamu, and Horatio Gordon Robley recorded two main readings of them: memorials to ancestors, or representations of Hineteiwaiwa, goddess of childbirth. Under the first, they were often buried when their kaitiaki — their guardian — died, and retrieved later to be kept somewhere special and brought out at tangihanga. Under the second, a hei-tiki was often given to a woman by her husband's family when she was having trouble conceiving.\n\nRome is the counter-case. A freeborn Roman boy wore his bulla until he came of age, and before putting on the toga virilis he placed it in the care of the household gods, the Lares. It went sideways into the house's keeping, not down to a son.\n\n*Inference —* inheritance and the market pull against each other in every one of these cases, and the pull is visible in prices. Ancient dzi beads reach hundreds of thousands of US dollars, with beads carrying more eyes and the iron-inclusion marks called bloodspots worth more; new dzi run from about ten to two thousand US dollars depending on quality and lustre. An object that can be inherited can be sold, and the rules that make inheriting possible — who may receive, from whom — are exactly the rules a sale breaks.",
   "how": "By the tradition's own rule: down a male line, from a father-in-law at a marriage, from a king to a subject, out of the ground after a guardian's death, or as a gift at a funeral. Several traditions attach maintenance to receipt — a kris inherited is a kris that has to be cleaned yearly.",
   "today": "Live, and regulated. Tabua move within Fiji as gifts and across borders only with permits. Kris are worn as part of Javanese ceremonial dress and kept as family pusaka. Dzi beads are traded at high prices alongside machine-made copies sold by the strand for less than two US dollars, which the trade distinguishes by whether the decoration penetrates the bead's core."
+ },
+ "text_th": {
+  "what": "เครื่องรางที่ส่งต่อจากคนหนึ่งไปสู่อีกคน และมีน้ำหนักมากขึ้นเมื่อผ่านไป วัตถุยังคงเป็นชิ้นเดิม สิ่งที่เปลี่ยนคือตอนนี้มันแบกสายของผู้คนไว้ด้วย ธรรมเนียมที่สืบทอดเครื่องรางมักมีกฎว่าใครรับได้ ซึ่งเป็นสิ่งที่แยกของมรดกออกจากของมือสองที่ซื้อมา"
  },
  "dating": {
   "period": "nineteenth century to the present in the dated cases; older in each tradition's own account",

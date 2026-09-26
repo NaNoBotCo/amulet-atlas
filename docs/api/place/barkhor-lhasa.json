@@ -12,7 +12,8 @@
    "Barkhor Street",
    "Bakuo",
    "Pargor"
-  ]
+  ],
+  "th": "บาร์คอร์"
  },
  "region": [
   "himalaya-tibet"
@@ -31,6 +32,9 @@
   "what": "A ring of street about a kilometre round, circling the Jokhang temple in the old city of Lhasa. It is at once the city's commercial centre and a circuit walked as devotion. Traffic goes one way, clockwise, and some of the people on it are not walking but measuring the ring out in full-body prostrations.",
   "story": "The circuit came from the temple. Songtsen Gampo and Princess Wencheng led the move to Lhasa and built the Jokhang; people began to turn around the temple, and the path their feet wore became a road. That road is one of the three circumambulation routes of Lhasa — the others are the Lingkhor and the Woesor — and it is the oldest street in the city, dated in origin to the 7th century CE and still carrying the plan of the old town.\n\nTibetans call it the holy road. The direction is not decorative: you walk with the turning of the prayer cylinder, which is to say clockwise, right shoulder to the temple.\n\nThe street is also the busiest commercial one in the old city. *Inference —* the objects this atlas is about are made and worn across this region — the agate dzi bead, the amulet box at the throat, the printed cloth flag — but no source read for this record itemises a Barkhor stall, and this record does not furnish one. On the street's present policing and regulation this atlas has read nothing it can cite, and it does not speculate.",
   "today": "In use as both a market street and a kora, on the published accounts this project has read. No day is marked open or closed below."
+ },
+ "text_th": {
+  "what": "ถนนวงแหวนยาวรอบราวหนึ่งกิโลเมตร ล้อมรอบวัดโจคังในเมืองเก่าของลาซา เป็นทั้งย่านการค้าใจกลางเมืองและเส้นทางเดินเพื่อการบูชา การสัญจรไปทางเดียวตามเข็มนาฬิกา และบางคนบนเส้นทางนี้ไม่ได้เดิน แต่วัดระยะวงแหวนทั้งรอบด้วยการกราบทอดตัวลงเต็มร่าง"
  },
  "dating": {
   "period": "Tibetan imperial to the present",
@@ -165,49 +169,63 @@
    "type": "tradition",
    "name": "Tibetan protection craft",
    "as": "the tradition whose objects this circuit's walkers carry",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางป้องกันภัยทิเบต (ซุงวา)",
+   "as_th": ""
   },
   {
    "to": "gau-box",
    "type": "amulet",
    "name": "Gau",
    "as": "the amulet case worn at the throat on this plateau, holding what a lama has given",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "กาอู (ตลับเครื่องรางทิเบต)",
+   "as_th": ""
   },
   {
    "to": "dzi-bead",
    "type": "amulet",
    "name": "Dzi bead",
    "as": "the agate Tibetans hold as a hereditary gem, not a purchase; Lhasa is the city it is priced in",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "หินดีซี (ลูกปัดทิเบต)",
+   "as_th": ""
   },
   {
    "to": "sungkhor",
    "type": "amulet",
    "name": "Sungkhor",
    "as": "the folded protection-wheel a monastery issues, which is what a pilgrim on this ring is likeliest to be carrying",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ซุงคอร์ (วงล้อคุ้มครองทิเบต)",
+   "as_th": ""
   },
   {
    "to": "lungta-flag",
    "type": "amulet",
    "name": "Lung ta prayer flag",
    "as": "the wind horse printed on cloth, replaced across Tibet at the new year",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ธงลุงตา (ธงมนต์ม้าลม)",
+   "as_th": ""
   },
   {
    "to": "counting-beads",
    "type": "practice",
    "name": "Counting beads",
    "as": "the practice the circuit is walked with, one round of the ring to one round of the string",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การนับลูกประคำ",
+   "as_th": ""
   },
   {
    "to": "kathmandu-thamel",
    "type": "place",
    "name": "Thamel",
    "as": "the market on the other side of the Himalaya, where the same objects are sold mostly to outsiders",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ทาเมล",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -318,42 +336,54 @@
    "type": "amulet",
    "name": "Dzi bead",
    "as": "the Lhasa circuit where beads change hands",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "หินดีซี (ลูกปัดทิเบต)",
+   "as_th": ""
   },
   {
    "from": "gau-box",
    "type": "amulet",
    "name": "Gau",
    "as": "the circuit boxes are worn on, and bought beside",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "กาอู (ตลับเครื่องรางทิเบต)",
+   "as_th": ""
   },
   {
    "from": "lungta-flag",
    "type": "amulet",
    "name": "Lung ta prayer flag",
    "as": "one of the circuits they are strung over and sold beside",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ธงลุงตา (ธงมนต์ม้าลม)",
+   "as_th": ""
   },
   {
    "from": "tibetan-protection",
    "type": "tradition",
    "name": "Tibetan protection craft",
    "as": "the circuit its objects are worn on and sold beside",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "งานเครื่องรางป้องกันภัยทิเบต (ซุงวา)",
+   "as_th": ""
   },
   {
    "from": "counting-beads",
    "type": "practice",
    "name": "Counting beads",
    "as": "the circuit walked with one of these, one round of the ring to one round of the string",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "การนับลูกประคำ",
+   "as_th": "เส้นทางที่เดินรอบพร้อมกับสายเหล่านี้ เดินหนึ่งรอบวงต่อหนึ่งรอบสาย"
   },
   {
    "from": "kathmandu-thamel",
    "type": "place",
    "name": "Thamel",
    "as": "the pilgrim circuit on the other side of the range, where the same objects are bought by the people who use them",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ทาเมล",
+   "as_th": ""
   }
  ]
 }

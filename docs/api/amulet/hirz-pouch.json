@@ -13,7 +13,8 @@
    "Qur'an case",
    "amulet box",
    "Qur'an necklace"
-  ]
+  ],
+  "th": "ฮิรซ์ (ตลับใส่โองการอัลกุรอาน)"
  },
  "etymology": {
   "root": "Arabic حرز ḥirz, from a root meaning to guard or fortify — the word means fortification, and implies a search for protection.",
@@ -43,6 +44,9 @@
   "story": "The case is the amulet's body and the verse is its content, and Islamic talismanic practice is clear about which of those is doing the work. Talismans in this tradition usually carry Qur'anic verses, pious phrases or invocations, and one description quoted in the literature calls the result \"a supercharged prayer\". Virtually all Muslim scholars permit a talisman that invokes God or one of His intercessors; addressing jinn or demons is prohibited. That is the line this object sits on the safe side of, and it is why the hirz differs from European charms, which often address minor deities or demons rather than God.\n\nThe verse most often named for protection is Ayat al-Kursi, the Throne Verse, al-Baqara 2:255, the 255th verse of the Qur'an's second chapter, widely memorised and widely displayed. A hadith says reciting it wards off devils, shayatin, and fiends, afarit. Al-Suyuti narrates that a man and a jinn met and wrestled, and the jinn, as a reward for being beaten, taught the man a verse which, recited, keeps no devil able to enter his house with him — the Throne Verse.\n\n*Inference —* the case, then, is a solution to a practical problem: paper in a hot, dusty, sweaty place does not last, and a verse that must stay legible has to be shut into metal. The jewellery around it is a second solution, to a different problem: what is worn every day has to be worth wearing.\n\nThe form is widespread on the Arabian Peninsula. Old Yemeni silver amulets called hirz were made to keep Qur'anic verses inside, and this sort of pendant is found across Oman, Yemen and the peninsula.",
   "how": "A case is cast or worked in silver and given a hinge or a sliding end. Verses are written on paper and folded into it. It is hung at the neck, or worked into a larger necklace, or scaled down for the hair or a headdress.",
   "today": "Made and worn, and also collected. The National Museum in Muscat publishes one through the Discover Islamic Art database of Museum With No Frontiers, and the form is sold new by silver dealers across the Gulf. As of 2026 this project has read no figure for the split between pieces made for wearers and pieces made for buyers."
+ },
+ "text_th": {
+  "what": "ตลับเล็ก ๆ ห้อยสร้อย ทรงสี่เหลี่ยมผืนผ้าหรือทรงกระบอก ภายในมีโองการอัลกุรอานที่เขียนบนกระดาษ ส่วนใหญ่ทำจากเงิน ตลับอาจห้อยจากสร้อยเงินเรียบ ๆ หรืออยู่ตรงกลางสร้อยคอที่ประณีต ร้อยด้วยลูกปัด เหรียญ และจี้อื่น ๆ แบบที่เล็กกว่าใช้เป็นเครื่องประดับผมหรือประกอบเข้ากับเครื่องประดับศีรษะ ชิ้นตัวอย่างที่พิพิธภัณฑ์แห่งชาติในมัสกัต (National Museum, Muscat) เผยแพร่ทำจากเงิน มีลวดลายเรขาคณิตและงานแผ่นเงิน ยาว 30.6 cm หนัก 152.9 g และกำหนดอายุไว้ที่ศตวรรษที่ 14 แห่งฮิจเราะห์ศักราช (AH) — คือช่วงต้นคริสต์ศตวรรษที่ 20 — ในสมัยราชวงศ์อัลบูซาอีด (Al Bu Said)"
  },
  "dating": {
   "period": "Al Bu Said dynasty for the published example; the practice is older",
@@ -234,70 +238,90 @@
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "the tradition that fills it, and the rule it obeys: invoke God, never jinn",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "to": "quran-pendant",
    "type": "amulet",
    "name": "Qur'an pendant",
    "as": "the same verses worn as a solid inscribed piece rather than as paper in a box",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "จี้อัลกุรอาน",
+   "as_th": ""
   },
   {
    "to": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the same object under its South Asian name",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "to": "gris-gris",
    "type": "amulet",
    "name": "Gris-gris",
    "as": "the West African cousin — the same Qur'anic writing, carried in cloth instead of silver, by way of Mande scholars",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กรีกรี (ถุงเครื่องรางแอฟริกาตะวันตก)",
+   "as_th": ""
   },
   {
    "to": "mezuzah",
    "type": "amulet",
    "name": "Mezuzah",
    "as": "the other Abrahamic case with a written text sealed inside it, fixed to a doorpost rather than hung at a neck",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เมซูซา",
+   "as_th": ""
   },
   {
    "to": "silver",
    "type": "material",
    "name": "Silver",
    "as": "the metal it is nearly always made in",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เงิน (โลหะเงิน)",
+   "as_th": ""
   },
   {
    "to": "folding",
    "type": "practice",
    "name": "Folding",
    "as": "the practice that gets a verse into a case that size",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การม้วนและพับ",
+   "as_th": ""
   },
   {
    "to": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "what is written inside — God's names, the names of angels or of prophets, or a verse",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "พระนาม",
+   "as_th": ""
   },
   {
    "to": "tuareg-cross",
    "type": "amulet",
    "name": "Agadez cross",
    "as": "the other silver charm in this batch, and the contrast: that one holds nothing",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "กางเขนอากาเดซ",
+   "as_th": ""
   },
   {
    "to": "grand-bazaar",
    "type": "place",
    "name": "The Grand Bazaar",
    "as": "a market where the same case is sold under the Turkish name muska",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "แกรนด์บาซาร์ (คาปาลึชาร์ชึ)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -487,91 +511,117 @@
    "type": "amulet",
    "name": "Gau",
    "as": "the leather-cased cousin from North Africa, carried the same way at the neck",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กาอู (ตลับเครื่องรางทิเบต)",
+   "as_th": ""
   },
   {
    "from": "gris-gris",
    "type": "amulet",
    "name": "Gris-gris",
    "as": "the Arabian version — the same Qur'anic verses, but in a silver case rather than a cloth sack",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กรีกรี (ถุงเครื่องรางแอฟริกาตะวันตก)",
+   "as_th": ""
   },
   {
    "from": "ladanka",
    "type": "amulet",
    "name": "Ladanka",
    "as": "the Islamic sewn pouch doing the same work — a written prayer, carried on the body, not to be opened",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ลาดันกา (ถุงกำยานออร์โธด็อกซ์)",
+   "as_th": ""
   },
   {
    "from": "patua",
    "type": "amulet",
    "name": "Patuá",
    "as": "the same object in Islamic West Africa — a written charm sewn shut and worn",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ปาตูอา (ถุงเครื่องรางบราซิล)",
+   "as_th": ""
   },
   {
    "from": "quran-pendant",
    "type": "amulet",
    "name": "Qur'an pendant",
    "as": "the silver box of Qur'anic verses the Egyptian tradition names alongside the eye and the hamsa",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "จี้อัลกุรอาน",
+   "as_th": ""
   },
   {
    "from": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the North African and Nile version of the same container",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "from": "tuareg-cross",
    "type": "amulet",
    "name": "Agadez cross",
    "as": "the other silver charm in this batch, and the contrast: that one is a container for a text, this one is solid",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "กางเขนอากาเดซ",
+   "as_th": ""
   },
   {
    "from": "islamic-talismanic",
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "the same writing in a North African and Nile container, and the clearest statement of the rule: invoke God, never jinn",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "from": "silver",
    "type": "material",
    "name": "Silver",
    "as": "a silver box with Qur'anic verses inside it",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เงิน (โลหะเงิน)",
+   "as_th": ""
   },
   {
    "from": "sewing-in",
    "type": "practice",
    "name": "Sewing in",
    "as": "the sewn leather or cloth case of Islamic West and North Africa, holding written verses",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การเย็บเครื่องรางไว้ในผ้า",
+   "as_th": ""
   },
   {
    "from": "wellcome-collection",
    "type": "org",
    "name": "Wellcome Collection",
    "as": "the North African written charm class Henry Wellcome bought in bulk",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เวลคัมคอลเลกชัน",
+   "as_th": ""
   },
   {
    "from": "gris-gris-word",
    "type": "term",
    "name": "gris-gris",
    "as": "the same object under another name further east — a pouch holding written scripture",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กรีกรี (gris-gris)",
+   "as_th": ""
   },
   {
    "from": "taweez-word",
    "type": "term",
    "name": "taweez",
    "as": "the pouch form of the same practice, sewn rather than cased",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ตะวีซ",
+   "as_th": ""
   }
  ]
 }

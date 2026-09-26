@@ -12,7 +12,8 @@
    "né coiffé",
    "nato con la camicia",
    "w czepku urodzony"
-  ]
+  ],
+  "th": "คอล (เยื่อคลุมหน้าทารกแรกเกิด)"
  },
  "region": [
   "britain-ireland",
@@ -48,6 +49,9 @@
   "story": "In medieval Europe a caul on a newborn was read as good luck and as an omen that the child was destined for greatness, and gathering the caul onto paper was an important part of the birth: the midwife rubbed a sheet across the baby's head and face and presented the result to the mother, to be kept as an heirloom. Some early modern European traditions connected caul birth to the power to defend fertility and the harvest against witches and sorcerers — the benandanti of Friuli are the named example.\n\nThe caul's main career was at sea. Folklore held that possessing a baby's caul brought its bearer luck and protected them from death by drowning, and cauls were therefore prized by sailors. Medieval women sold them to sailors for large sums; a caul counted as a valuable talisman. Charles Dickens opened David Copperfield in 1850 with the narrator's own: \"I was born with a caul, which was advertised for sale, in the newspapers, at the low price of fifteen guineas.\" Copperfield then follows the thing through a decade of resale and raffle. Fifteen guineas is a price in a novel, printed in 1850, and this record quotes it as that and not as a market rate.\n\nThe idioms carried the belief further than the objects did. Polish w czepku urodzony, 'born in a bonnet'; Italian nato con la camicia, 'born with a shirt'; French né coiffé, 'born with a hat on'; Russian родился в рубашке, 'born in a shirt' — all of them mean someone who is very lucky, and the Russian phrase is still applied to people who walk away from disasters, as if the caul persisted as armour.\n\nNot every tradition reads it as good. In Romanian folklore babies born with a caul are said to become strigoi on death. In England the same birth was also read as the mark of someone destined to hang, on the proverb that he who is born to be hanged will never drown. In Jamaican folklore duppies are powerless against a person born with a caul. The 16th-century Dutch physician Levinus Lemnius, who wrote The Secret Miracles of Nature, was unconvinced by the claims made for preserved cauls; the 19th-century comic writer Thomas Hood ended his poem \"The Sea-Spell\" with a drowning sailor's charm failing him.",
   "how": "Not made and not chosen. The midwife, physician or parent removes the membrane at birth and presses it onto paper; a thicker chorionic caul has to be cut across the nostrils so the child can breathe and then eased off, and taken too fast it leaves scars. The dried sheet is kept in the family, given to the child, sold, or inherited. There is no rite over it.",
   "today": "Not a living trade. Cauls are still removed at birth, as a medical routine, and research in the 2020s has found that delivering severely premature infants with the caul intact can improve their chances, which is a use of the membrane with nothing folkloric in it. *Inference —* what remains of the amulet is the language: the Russian, Polish, Italian and French idioms for a lucky person are still in everyday use by speakers who have never seen one."
+ },
+ "text_th": {
+  "what": "เยื่อชิ้นหนึ่งจากการคลอดที่หลุดออกมาพร้อมทารกแรกเกิด และติดอยู่ที่ศีรษะและใบหน้า ส่วนใหญ่เป็นเยื่อชั้นในบางใส คือเยื่อแอมเนียน (amnion) หมอตำแยลอกเยื่อนั้นออก กดลงบนกระดาษแผ่นหนึ่ง แล้วปล่อยให้แห้งติดอยู่บนนั้น กระดาษแผ่นนั้นคือเครื่องราง การคลอดที่มีเยื่อคลุมพบได้น้อยกว่า 1 ใน 80,000 ครั้ง ตัวเลขนี้นับรวมการคลอดแบบอ็องคอล (en-caul) ซึ่งทารกทั้งตัวคลอดออกมาในถุงที่ยังไม่แตก"
  },
  "dating": {
   "period": "Medieval to the twentieth century",
@@ -249,63 +253,81 @@
    "type": "amulet",
    "name": "St Christopher medal",
    "as": "the other charm a European traveller carried against drowning, and the one you could buy rather than be born with",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เหรียญนักบุญคริสโตเฟอร์",
+   "as_th": ""
   },
   {
    "to": "hei-matau",
    "type": "amulet",
    "name": "Hei matau",
    "as": "the charm carried for safe passage over water at the other end of the world",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เฮย์ มาเตา (จี้ตะขอเบ็ดเมารี)",
+   "as_th": ""
   },
   {
    "to": "inheriting",
    "type": "practice",
    "name": "Inheriting",
    "as": "the practice that kept these — a caul is handed down, or sold, never made",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การสืบทอดเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "skin",
    "type": "material",
    "name": "Skin",
    "as": "what it is, and the reason so few survive",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ผิวหนัง",
+   "as_th": ""
   },
   {
    "to": "paper",
    "type": "material",
    "name": "Paper",
    "as": "what it is pressed onto and what a museum actually holds",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "กระดาษ",
+   "as_th": ""
   },
   {
    "to": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the trade this object had: advertised in newspapers, raffled, sold to sailors for large sums",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": ""
   },
   {
    "to": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "the tradition it belongs to, and its one charm nobody can choose to acquire",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "to": "most-of-them-are-for-children",
    "type": "story",
    "name": "Most of them are for children",
    "as": "the long read it complicates: this charm comes off a child and is then carried by adults",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ส่วนใหญ่ทำเพื่อเด็ก",
+   "as_th": ""
   },
   {
    "to": "amulet-word",
    "type": "term",
    "name": "amulet",
    "as": "the word the sources reach for here, alongside talisman, for an object that is a body part and an omen at once",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "อะมูเล็ต",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -477,28 +499,36 @@
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "its one charm nobody can choose to acquire, and the one with a documented resale market",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "from": "wellcome-lovett",
    "type": "place",
    "name": "The Lovett charms at Wellcome Collection",
    "as": "the birth membrane Lovett recorded in the hands of London sailors' families, bought against drowning",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เครื่องรางของโลเวตต์ที่เวลคัมคอลเลกชัน",
+   "as_th": ""
   },
   {
    "from": "edward-lovett",
    "type": "person",
    "name": "Edward Lovett",
    "as": "one of the objects he recorded in the hands of London sailors' families rather than in a book",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เอ็ดเวิร์ด เลิฟเวตต์",
+   "as_th": ""
   },
   {
    "from": "lovett-collection",
    "type": "art",
    "name": "The Lovett collection",
    "as": "one of the classes he collected in quantity from London sailors and their families",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "คอลเลกชันของโลเวตต์",
+   "as_th": ""
   }
  ]
 }

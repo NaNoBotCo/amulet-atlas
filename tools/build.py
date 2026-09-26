@@ -110,7 +110,8 @@ def enrich(r: dict, by_id: dict, sources: dict) -> dict:
         t = by_id.get(k["to"])
         if t:
             out["kin_out"].append({"to": k["to"], "type": t["type"], "name": t["names"]["name"],
-                                   "as": k["as"], "rel": k.get("rel", "kin")})
+                                   "as": k["as"], "rel": k.get("rel", "kin"),
+                                   "name_th": t["names"].get("th", ""), "as_th": k.get("as_th", "")})
     out["source_list"] = [dict(sources[s], id=s) for s in out.get("sources", []) if s in sources]
     out["tiers"] = {p: tier_for(out, p) for p in
                     ("text.what", "text.story", "text.how", "text.today", "etymology", "dating", "object", "geo", "address")
@@ -150,7 +151,8 @@ def backlinks(recs: list[dict]):
         for k in r["kin_out"]:
             t = by_id.get(k["to"])
             if t:
-                t["kin_in"].append({"from": r["id"], "type": r["type"], "name": r["names"]["name"], "as": k["as"], "rel": k["rel"]})
+                t["kin_in"].append({"from": r["id"], "type": r["type"], "name": r["names"]["name"], "as": k["as"], "rel": k["rel"],
+                                    "name_th": r["names"].get("th", ""), "as_th": k.get("as_th", "")})
 
 
 def search_doc(r: dict) -> dict:

@@ -9,7 +9,8 @@
    "Mesopotamian apotropaic magic",
    "Babylonian white magic",
    "Assyrian household magic"
-  ]
+  ],
+  "th": "การคุ้มครองบ้านเรือนแบบเมโสโปเตเมีย"
  },
  "region": [
   "mesopotamia",
@@ -35,6 +36,9 @@
  "text": {
   "what": "A craft with four moving parts: a demon with a name, a counter-power with a name, an incantation that addresses the demon directly, and a physical object — a plaque, a cast head, a figurine — placed where the danger comes in. Apotropaic ritual of this kind was practised throughout the ancient Near East, in houses rather than in state temples.",
   "story": "The method is verbal before it is material. The incantations open by naming the demon and then work through her epithets — 'Dimme, daughter of Anu', 'Who was named by the gods' — because the names are the hold. The object carries the words. An amulet with Lamashtu's image on it is not a portrait; it is her, held and instructed.\n\nThe counter-power does not have to be good. Pazuzu is a wind that brings plague and a text addresses him as 'Agony of Mankind', and his head hangs over the bed anyway, because he is the one thing that sends Lamashtu back underground. That is the tradition's most distinctive move: it hires demons.\n\nPlacement is documented rather than guessed. Amulets bearing Lamashtu's image could be worn, attached to the body or to clothing, or set near beds, doorways and other vulnerable spaces. A large Pazuzu wall amulet was found on the floor of the main reception room of a house at Dur-Katlimmu, where it had hung facing the entryway. Ritual texts from Uruk prescribe a bronze Pazuzu necklace for a woman at risk of miscarriage.\n\nThe objects were made at scale. The uniformity of the Pazuzu heads and their number across sites is read as mass production, which makes this the earliest industrialised amulet trade in the atlas.\n\n*Inference —* the tradition does not end where the language does. Six hundred years after the last Pazuzu heads, the same ground is producing incantation bowls: a named demon, an incantation addressed to it directly, an object buried at the threshold. The scripts are Aramaic and Mandaic and the demons have new names, and the method is the one described above."
+ },
+ "text_th": {
+  "what": "ศาสตร์ที่มีส่วนเคลื่อนไหวสี่ส่วน: ปีศาจที่มีชื่อ อำนาจฝ่ายตรงข้ามที่มีชื่อ คาถาที่พูดกับปีศาจโดยตรง และวัตถุทางกายภาพ — แผ่นเครื่องราง หัวหล่อ รูปปั้นเล็ก — ที่วางไว้ตรงที่ภัยเข้ามา พิธีกรรมปัดเป่าภัยแบบนี้ปฏิบัติกันทั่วตะวันออกใกล้โบราณ ในบ้านเรือน ไม่ใช่ในวิหารของรัฐ"
  },
  "dating": {
   "period": "Old Babylonian to Seleucid",
@@ -199,70 +203,90 @@
    "type": "amulet",
    "name": "Lamashtu plaque",
    "as": "the object at the centre of it — the demon, named and held, on a thing you can hang",
-   "rel": "part"
+   "rel": "part",
+   "name_th": "แผ่นเครื่องรางลามัชตู",
+   "as_th": ""
   },
   {
    "to": "pazuzu-head",
    "type": "amulet",
    "name": "Pazuzu head",
    "as": "the counter-power, cast by the thousand and worn at the neck",
-   "rel": "part"
+   "rel": "part",
+   "name_th": "เศียรปาซูซู",
+   "as_th": ""
   },
   {
    "to": "incantation-bowl",
    "type": "amulet",
    "name": "Incantation bowl",
    "as": "what this tradition becomes after the cuneiform stops: the same method in Aramaic ink, buried under the floor",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "ชามคาถา",
+   "as_th": ""
   },
   {
    "to": "egyptian-amulet-craft",
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "the neighbouring workshop tradition, which made more objects and named fewer demons",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   },
   {
    "to": "bes-amulet",
    "type": "amulet",
    "name": "Bes amulet",
    "as": "Egypt's household guardian, compared to Pazuzu by scholars on iconography and on function alike",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางเทพเบส",
+   "as_th": ""
   },
   {
    "to": "greco-roman-apotropaic",
    "type": "tradition",
    "name": "Greek and Roman protective magic",
    "as": "the Mediterranean tradition that inherits the threshold logic and drops the demon's name",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน",
+   "as_th": ""
   },
   {
    "to": "hamsa",
    "type": "amulet",
    "name": "Hamsa",
    "as": "the hand of Ishtar, used in Mesopotamia and Babylon against evil or disease entering a building, is one of the antecedents claimed for it",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "ฮัมซา (มือกันภัย)",
+   "as_th": ""
   },
   {
    "to": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "the practice this tradition is built on: put the guard where the thing gets in",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "to": "foundation-deposit",
    "type": "practice",
    "name": "Foundation deposit",
    "as": "the other placement — under the floor rather than on the wall",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ของฝังใต้ฐานรากอาคาร",
+   "as_th": ""
   },
   {
    "to": "british-museum",
    "type": "org",
    "name": "The British Museum",
    "as": "one of the collections where these objects can be seen",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์บริติช (บริติชมิวเซียม)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -407,35 +431,45 @@
    "type": "amulet",
    "name": "Incantation bowl",
    "as": "the older practice in the same ground: name the demon, bind it, put the object where it enters",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "ชามคาถา",
+   "as_th": ""
   },
   {
    "from": "lamashtu-plaque",
    "type": "amulet",
    "name": "Lamashtu plaque",
    "as": "the tradition this object is the centre of — a named demon, a named opponent, an incantation, and a thing to hang",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "แผ่นเครื่องรางลามัชตู",
+   "as_th": ""
   },
   {
    "from": "pazuzu-head",
    "type": "amulet",
    "name": "Pazuzu head",
    "as": "the tradition that made a household guard out of a wind that brings plague",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เศียรปาซูซู",
+   "as_th": ""
   },
   {
    "from": "lion",
    "type": "motif",
    "name": "The lion",
    "as": "the tradition that fixed the lion-headed demon and the lion-parted guard against her",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "สิงโต",
+   "as_th": ""
   },
   {
    "from": "foundation-deposit",
    "type": "practice",
    "name": "Foundation deposit",
    "as": "the tradition whose kings signed their foundation pegs",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ของฝังใต้ฐานรากอาคาร",
+   "as_th": ""
   }
  ]
 }

@@ -12,7 +12,8 @@
    "Minor Basilica and National Shrine of Jesus Nazareno",
    "Simbahan ng Quiapo",
    "Parish of Saint John the Baptist"
-  ]
+  ],
+  "th": "โบสถ์กีอาโป"
  },
  "region": [
   "island-sea"
@@ -31,6 +32,9 @@
   "what": "A Catholic basilica in the Quiapo district of Manila, housing the Jesús Nazareno, a dark statue of Christ carrying the cross. Outside it, on Plaza Miranda and in the streets around the building, stalls sell herbs, oils, candles and amulets. Two systems trade at one address, and both have said so in public.",
   "story": "The church has burnt, fallen and been rebuilt since 1588: destroyed by Limahong's men in 1574, burnt in 1603, damaged by the British in 1762, burnt in 1791 with the image spared, thrown down by the earthquake of 1863, burnt again in 1929. The present reinforced-concrete building, by the architect Juan Nakpil, was finished in 1935 and expanded in 1984-86. Pope John Paul II raised it to a minor basilica in 1987; it was declared a national shrine in December 2023.\n\nThe devotion is enormous. The feast of the Traslación on 9 January re-enacts the image's transfer from Intramuros, and 6.5 million devotees took part in 2024. Every Friday is Quiapo Day, with a novena and thousands in attendance; devotees climb a narrow stair to kiss the statue's foot or wipe it with a handkerchief they bring each visit. Men who carry the image walk under a panata, a vow. In October 2024 the Archbishop of Manila decreed the church's name changed to the Minor Basilica and National Shrine of Jesus Nazareno, dropping the usual English name to shift attention from the image's colour to the name of Christ.\n\nThe plaza trade is the other half. Agimat — anting-anting in its folklorised form — is the Filipino word for an amulet, and the practice that goes with it: most bear Latin inscriptions, most come with a small book of incantations to be read on Good Friday. Agimat merchants set up near churches, in the courtyard or the marketplace alongside, and Quiapo is the district the encyclopedia names when it names one. Filipino fighters wore anting-anting against the Spanish and the Americans; Macario Sakay wore a vest of religious images and Latin phrases.\n\nThe church has not been quiet about what else the stalls sell. Published accounts record peddlers of unsafe abortifacients and untested herbal remedies working the vicinity, and the Archdiocese of Manila condemning practices connected with them; Cardinal Gaudencio Rosales issued canonical excommunications in relation to abortion near the shrine. Abortion is illegal in the Philippines, and the accounts tie the trade to people who cannot afford a surgical procedure.",
   "today": "In use as a basilica and a national shrine, with the plaza trade running alongside it. This project has not read the basilica's own published timetable, so no day is marked open or closed below — the Friday novena is a cited fact about the week, not a statement that other days are shut."
+ },
+ "text_th": {
+  "what": "มหาวิหารคาทอลิกในเขตกีอาโป กรุงมะนิลา เป็นที่ประดิษฐานรูปพระเยซูนาซารีน (Jesús Nazareno) รูปปั้นสีเข้มของพระคริสต์ขณะแบกกางเขน ด้านนอกโบสถ์ ที่ลานมิรันดา (Plaza Miranda) และบนถนนรอบอาคาร มีแผงขายสมุนไพร น้ำมัน เทียน และเครื่องราง สองระบบค้าขายอยู่ที่อยู่เดียวกัน และทั้งสองฝ่ายต่างก็เคยพูดเช่นนั้นต่อสาธารณะ"
  },
  "dating": {
   "period": "Spanish colonial to the present",
@@ -171,56 +175,72 @@
    "type": "amulet",
    "name": "Anting-anting",
    "as": "the amulet sold at this address — the encyclopedia names Quiapo when it names where agimat merchants set up",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "อันติง-อันติง (เครื่องรางฟิลิปปินส์)",
+   "as_th": ""
   },
   {
    "to": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "the church's own class of blessed object, sold and worn a few metres from the other trade",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   },
   {
    "to": "latin-american-folk-catholic",
    "type": "tradition",
    "name": "Latin American folk Catholic charm practice",
    "as": "the parallel from across the Pacific: the same galleon route, the same doubling of saint and charm",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ธรรมเนียมเครื่องรางคาทอลิกพื้นบ้านละตินอเมริกา",
+   "as_th": ""
   },
   {
    "to": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "the sign most agimat carry, in Latin, cut or printed on metal",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "พระนาม",
+   "as_th": ""
   },
   {
    "to": "blessing-at-a-shrine",
    "type": "practice",
    "name": "Blessing at a shrine",
    "as": "the practice that draws millions here on 9 January and thousands every Friday",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การนำไปรับพรที่ศาสนสถาน",
+   "as_th": ""
   },
   {
    "to": "herb",
    "type": "material",
    "name": "Herb and root",
    "as": "the other stock of the plaza stalls, and the part the Archdiocese has condemned",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "สมุนไพรและรากไม้",
+   "as_th": ""
   },
   {
    "to": "milagro",
    "type": "amulet",
    "name": "Milagro",
    "as": "the Catholic votive kin — metal offered for a body part, where the panata offers a walk",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "มิลาโกร (แผ่นโลหะแก้บน)",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read this address argues in public: two systems, one plaza, both naming the other",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -312,35 +332,45 @@
    "type": "amulet",
    "name": "Anting-anting",
    "as": "the Manila church whose courtyard and surrounding market are where these are bought",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "อันติง-อันติง (เครื่องรางฟิลิปปินส์)",
+   "as_th": ""
   },
   {
    "from": "key",
    "type": "motif",
    "name": "The key",
    "as": "where the crossed keys sit on the pediment, over a plaza full of charm sellers",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "กุญแจ",
+   "as_th": ""
   },
   {
    "from": "herb",
    "type": "material",
    "name": "Herb and root",
    "as": "the other place where herb selling runs against the law, and the reason this record's last paragraph exists",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "สมุนไพรและรากไม้",
+   "as_th": ""
   },
   {
    "from": "blessing-at-a-shrine",
    "type": "practice",
    "name": "Blessing at a shrine",
    "as": "the inward direction at its largest — 6.5 million people in the Traslación of 9 January 2024, and thousands every Friday",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "การนำไปรับพรที่ศาสนสถาน",
+   "as_th": "ทิศทางขาเข้าในขนาดใหญ่ที่สุด — 6.5 ล้านคนในขบวนแห่ตราสลาซิออนวันที่ 9 มกราคม ค.ศ. 2024 และอีกหลายพันคนทุกวันศุกร์"
   },
   {
    "from": "votive-wall",
    "type": "art",
    "name": "The votive wall",
    "as": "a shrine where the same accumulation happens around the doors rather than on a rack",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "กำแพงของถวาย",
+   "as_th": ""
   }
  ]
 }

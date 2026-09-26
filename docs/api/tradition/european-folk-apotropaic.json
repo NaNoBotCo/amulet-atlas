@@ -9,7 +9,8 @@
    "European protective folk practice",
    "household charms of Europe",
    "cold-iron and threshold craft"
-  ]
+  ],
+  "th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป"
  },
  "etymology": {
   "root": "The label is Greek — apotrepo, 'to turn away' — and it is a scholar's word, not a carrier's. English speakers inside the practice said ward, charm, luck.",
@@ -53,6 +54,9 @@
   "story": "Start at the threshold, because the tradition does. Doorways and windows were held to be where harm gets in, and the answer went on them: grotesque faces cut over oven and kiln doors, gargoyles and sheela na gigs and hunky punks on churches and castles, a horseshoe nailed above a door, an iron knife buried under the entrance, a lantern cut from a turnip or a swede at Samhain. Everything else in this record is a variation on a guarded opening.\n\nIron carries most of the load. Cold iron is recorded across Britain, Ireland and Scandinavia as repelling, containing or harming ghosts, fairies and witches — hence the horseshoe on the door, hence the iron fence round a graveyard, said to hold the dead in rather than keep anything out. The horseshoe is where the tradition's internal disagreements become visible. Points up so the luck does not fall out; points down so it pours onto whoever stands beneath; in some tellings either is fine so long as the shoe was used, was found rather than bought, and can be touched. Where luck attaches to the owner and not the hanger, a stolen or borrowed shoe carries it back to the owner. One reputed origin is the story of St Dunstan, a blacksmith who became Archbishop of Canterbury in 959, nailing a shoe to the Devil's hoof and removing it only on a promise never to enter a house with one over the door.\n\nThe calendar does the rest. On 31 January Irish families gathered rushes; that night the head of the household supervised the weaving of Brigid's crosses; on 1 February they went up in the dwelling, the outhouses and the stables, and a year later they were taken down and burnt or buried, burial preferred because of Brigid's link to agriculture. The practice is first attested in the 17th century and was in decline by the 20th, partly because house renovations left nowhere to hang them. That is an unusually complete account of a folk object: a start date, a decline, and a building-trade reason for it.\n\n*Inference —* the thing that makes this a tradition rather than a pile of customs is the absence of a gate. Every other tradition in this atlas restricts something — a script, a lineage, an initiation, a clan. This one's objects are made by the person who needs them, from rushes, rowan, a worn shoe, a bottle from the kitchen, a stone with a hole in it. That is why its evidence is so lopsided: what survives is what got walled in or thrown down a well, and what was said over it was almost never written.\n\nIt was assembled as a subject late, and by three men buying. Frederick Elworthy published The Evil Eye in 1895 and Horns of Honour in 1900, buying in Spain and Italy as he wrote. Siegfried Seligmann, a German ophthalmologist, put out the two volumes of Der böse Blick und Verwandtes in 1910 and gathered more than 1,500 amulets doing it. Edward Lovett, a bank cashier in the City of London, collected what Londoners were carrying in their pockets — a mole's foot, a dried frog, a blue bead, a caul — and published Magic in Modern London in 1925. *Inference —* the shape of every museum case of European charms follows the shape of those three men's buying, and so, to a degree this atlas cannot measure, does the shape of this record.",
   "how": "Made at home, from the house's own materials, usually at a fixed point in the year or at a moment of threat. Rushes woven on the eve of a feast; rowan cut and bound with red thread; a bottle filled and put under the hearth when the house was built or when somebody suspected a neighbour; a worn shoe pushed into a chimney breast during building work; a horseshoe found in a lane and nailed up. Renewal is annual where the object is vegetable and never where it is iron. Retirement is by fire or by burial, and the choice between them is itself traditional — Irish practice preferred burying a year-old Brigid's cross to burning it.",
   "today": "Alive and mostly unremarked. Horseshoes still go over doors, four-leaf clovers are still looked for, amber necklaces are still sold for teething in Europe and warned against by the American Academy of Pediatrics and the FDA, and Bulgarian martenitsi still go up on 1 March. The objects have largely left the farm for the souvenir shelf, and workshops like those on Via San Gregorio Armeno in Naples supply both at once. Whether a cornicello bought in a Naples lane by a visitor is the same object as one worn by the seller is a live argument with named people on both sides, and this atlas reports it on the object records rather than settling it here."
+ },
+ "text_th": {
+  "what": "วัตถุคุ้มครองที่ครัวเรือนในยุโรปทำและเก็บไว้ นอกรายการของศาสนจักร: เหล็กเหนือประตู ขวดในเตาไฟ รองเท้าในกำแพง กิ่งโรวันมัดด้วยด้ายแดง กางเขนกกบนขื่อหลังคา ลูกปัดกันสายตา ไม่มีนักบวช ไม่มีคู่มือ ไม่มีพิธีรับเข้า ผู้ทำคือใครก็ตามที่ต้องการสิ่งนั้น — ชาวนา แม่ ช่างตีเหล็ก เด็กที่เก็บต้นกกในวันที่ 31 มกราคม — และส่วนใหญ่ทำที่บ้านจากสิ่งที่มีอยู่ในบ้านแล้ว"
  },
  "dating": {
   "period": "Late medieval to the present",
@@ -368,84 +372,108 @@
    "type": "material",
    "name": "Iron",
    "as": "the tradition's one near-universal rule: cold iron turns the thing away, and a horseshoe is the cheapest piece of it a house could get",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เหล็ก",
+   "as_th": ""
   },
   {
    "to": "horseshoe",
    "type": "amulet",
    "name": "Horseshoe",
    "as": "its most-copied object, and the one whose own carriers argue about which way up it goes",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เกือกม้า",
+   "as_th": ""
   },
   {
    "to": "witch-bottle",
    "type": "amulet",
    "name": "Witch bottle",
    "as": "its best-documented recipe, and the only one it writes down",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ขวดแม่มด",
+   "as_th": ""
   },
   {
    "to": "concealed-shoe",
    "type": "amulet",
    "name": "Concealed shoe",
    "as": "its most thoroughly counted object — a worn shoe walled into a chimney or a roof, by the thousand, and never explained in writing by anyone who did it",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "รองเท้าซ่อนในบ้าน",
+   "as_th": ""
   },
   {
    "to": "brigids-cross",
    "type": "amulet",
    "name": "Brigid's cross",
    "as": "the calendar half of it: rushes gathered on 31 January, woven that night, hung on 1 February, taken down and burnt or buried a year later",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "กางเขนนักบุญบริจิด",
+   "as_th": ""
   },
   {
    "to": "hagstone",
    "type": "amulet",
    "name": "Hagstone",
    "as": "the object that shows what the tradition costs — a stone with a hole, found not bought, made by nobody",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "หินรู (แฮกสโตน)",
+   "as_th": ""
   },
   {
    "to": "rowan-cross",
    "type": "amulet",
    "name": "Rowan cross",
    "as": "its clearest case of a plant used the way iron is used, bound with red thread and kept at a door",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "กางเขนไม้โรวัน",
+   "as_th": ""
   },
   {
    "to": "caul",
    "type": "amulet",
    "name": "Caul",
    "as": "its one charm nobody can choose to acquire, and the one with a documented resale market",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "คอล (เยื่อคลุมหน้าทารกแรกเกิด)",
+   "as_th": ""
   },
   {
    "to": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "the neighbouring tradition, which this one has spent a thousand years borrowing from and being disowned by; a Brigid's cross sits on the line",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   },
   {
    "to": "greco-roman-apotropaic",
    "type": "tradition",
    "name": "Greek and Roman protective magic",
    "as": "the ancient layer underneath, which supplied the word and some of the shapes and none of the households",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน",
+   "as_th": ""
   },
   {
    "to": "frederick-elworthy",
    "type": "person",
    "name": "Frederick Thomas Elworthy",
    "as": "the man who made this a single subject in English, in 1895, by buying the objects while he wrote about them",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "เฟรเดอริก โทมัส เอลเวิร์ที",
+   "as_th": ""
   },
   {
    "to": "edward-lovett",
    "type": "person",
    "name": "Edward Lovett",
    "as": "the collector who proved it was still alive, by taking a mole's foot and a blue bead off London streets in the 1900s rather than reading about the countryside",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "เอ็ดเวิร์ด เลิฟเวตต์",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -940,217 +968,279 @@
    "type": "amulet",
    "name": "Brigid's cross",
    "as": "the tradition it sits inside, and the clearest case of a Christian saint's day carrying an older calendar date",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "กางเขนนักบุญบริจิด",
+   "as_th": ""
   },
   {
    "from": "caul",
    "type": "amulet",
    "name": "Caul",
    "as": "the tradition it belongs to, and its one charm nobody can choose to acquire",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "คอล (เยื่อคลุมหน้าทารกแรกเกิด)",
+   "as_th": ""
   },
   {
    "from": "concealed-shoe",
    "type": "amulet",
    "name": "Concealed shoe",
    "as": "the tradition it belongs to, and its most thoroughly counted object",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "รองเท้าซ่อนในบ้าน",
+   "as_th": ""
   },
   {
    "from": "corn-dolly",
    "type": "amulet",
    "name": "Corn dolly",
    "as": "the tradition it belongs to, and its clearest case of an object made from the thing it is meant to protect",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ตุ๊กตาฟางข้าว (คอร์นดอลลี)",
+   "as_th": ""
   },
   {
    "from": "four-leaf-clover",
    "type": "amulet",
    "name": "Four-leaf clover",
    "as": "the tradition it came out of, and its least protective object",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ใบโคลเวอร์สี่แฉก",
+   "as_th": ""
   },
   {
    "from": "hagstone",
    "type": "amulet",
    "name": "Hagstone",
    "as": "the tradition this belongs to, and one of its few objects that costs nothing and is made by nobody",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "หินรู (แฮกสโตน)",
+   "as_th": ""
   },
   {
    "from": "hex-sign",
    "type": "amulet",
    "name": "Hex sign",
    "as": "the tradition the emigrants brought, and the one this object may or may not still belong to — that is the argument",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เฮ็กซ์ไซน์ (ป้ายดาวบนโรงนา)",
+   "as_th": ""
   },
   {
    "from": "horseshoe",
    "type": "amulet",
    "name": "Horseshoe",
    "as": "the tradition it belongs to, and its most-copied object",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เกือกม้า",
+   "as_th": ""
   },
   {
    "from": "martenitsa",
    "type": "amulet",
    "name": "Martenitsa",
    "as": "the tradition it sits in, at its most calendar-bound",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "มาร์เตนิตซา",
+   "as_th": ""
   },
   {
    "from": "mjolnir-pendant",
    "type": "amulet",
    "name": "Mjölnir pendant",
    "as": "the wider northern European habit of wearing metal against harm that this pendant is the oldest dated member of in Scandinavia",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "จี้มโยลเนียร์ (ค้อนธอร์)",
+   "as_th": ""
   },
   {
    "from": "rabbits-foot",
    "type": "amulet",
    "name": "Rabbit's foot",
    "as": "the tradition it gets shelved under, which this record's sources do not support for its American form",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ตีนกระต่ายนำโชค",
+   "as_th": ""
   },
   {
    "from": "rowan-cross",
    "type": "amulet",
    "name": "Rowan cross",
    "as": "the tradition it belongs to, and its clearest case of a plant used as a metal would be",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "กางเขนไม้โรวัน",
+   "as_th": ""
   },
   {
    "from": "witch-bottle",
    "type": "amulet",
    "name": "Witch bottle",
    "as": "the tradition it belongs to, and the object of that tradition with the best-documented recipe",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ขวดแม่มด",
+   "as_th": ""
   },
   {
    "from": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "the neighbouring tradition, which this one has spent a thousand years defining itself against and borrowing from",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   },
   {
    "from": "palindrome-word",
    "type": "motif",
    "name": "The word that reads both ways",
    "as": "the tradition that carried the Sator square from a Pompeian gymnasium wall to a Pennsylvania farmhouse",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "คำที่อ่านได้สองทาง",
+   "as_th": ""
   },
   {
    "from": "serpent",
    "type": "motif",
    "name": "The serpent",
    "as": "the tradition the German house snake and the Neapolitan silver snake both belong to",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งู",
+   "as_th": "ธรรมเนียมที่ทั้งงูประจำบ้านของเยอรมันและงูเงินของเนเปิลส์สังกัดอยู่"
   },
   {
    "from": "amber",
    "type": "material",
    "name": "Amber",
    "as": "the tradition the teething necklace belongs to, and still sells into",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "อำพัน",
+   "as_th": ""
   },
   {
    "from": "iron",
    "type": "material",
    "name": "Iron",
    "as": "the tradition where cold iron is a rule rather than an object",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เหล็ก",
+   "as_th": ""
   },
   {
    "from": "burying",
    "type": "practice",
    "name": "Burying",
    "as": "the tradition that filled English hearths and thresholds with this material",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "การฝัง",
+   "as_th": ""
   },
   {
    "from": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "the tradition that put iron over the doors of houses, barns and stables",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "from": "pitt-rivers-charms",
    "type": "place",
    "name": "The amulet and charm cases, Pitt Rivers Museum",
    "as": "the tradition these cases document most densely, because Lovett walked London",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ตู้เครื่องรางและของขลัง พิพิธภัณฑ์พิตต์ริเวอร์ส",
+   "as_th": ""
   },
   {
    "from": "san-gregorio-armeno",
    "type": "place",
    "name": "Via San Gregorio Armeno",
    "as": "the tradition these workshops supply",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ถนนซานเกรโกริโออาร์เมโน",
+   "as_th": ""
   },
   {
    "from": "wellcome-lovett",
    "type": "place",
    "name": "The Lovett charms at Wellcome Collection",
    "as": "the living tradition he recorded on the street while other collectors read about its past",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เครื่องรางของโลเวตต์ที่เวลคัมคอลเลกชัน",
+   "as_th": ""
   },
   {
    "from": "edward-lovett",
    "type": "person",
    "name": "Edward Lovett",
    "as": "the living tradition he recorded on the street while other collectors were reading about its past",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เอ็ดเวิร์ด เลิฟเวตต์",
+   "as_th": ""
   },
   {
    "from": "frederick-elworthy",
    "type": "person",
    "name": "Frederick Thomas Elworthy",
    "as": "the tradition his two books first assembled as a single subject in English",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เฟรเดอริก โทมัส เอลเวิร์ที",
+   "as_th": ""
   },
   {
    "from": "siegfried-seligmann",
    "type": "person",
    "name": "Siegfried Seligmann",
    "as": "the tradition his survey covers most densely, though he reached well past Europe",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ซีกฟรีด เซลิกมันน์",
+   "as_th": ""
   },
   {
    "from": "pitt-rivers-museum",
    "type": "org",
    "name": "The Pitt Rivers Museum",
    "as": "the tradition its English cases document most densely, thanks to Lovett",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "พิพิธภัณฑ์พิตต์ ริเวอร์ส",
+   "as_th": ""
   },
   {
    "from": "apotropaic-word",
    "type": "term",
    "name": "apotropaic",
    "as": "the practices that never used the word and get filed under it anyway",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "อะโพโทรเพอิก (กันภัย)",
+   "as_th": ""
   },
   {
    "from": "ward-word",
    "type": "term",
    "name": "ward",
    "as": "the tradition that thinks in this word rather than in the Greek one",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "วอร์ด (ปัดเป่า)",
+   "as_th": ""
   },
   {
    "from": "lovett-collection",
    "type": "art",
    "name": "The Lovett collection",
    "as": "the tradition he was documenting, at the point where it was moving from countryside to city",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "คอลเลกชันของโลเวตต์",
+   "as_th": ""
   },
   {
    "from": "the-charm-in-the-wall",
    "type": "story",
    "name": "The charm in the wall",
    "as": "the tradition both British classes belong to",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เครื่องรางในกำแพง",
+   "as_th": ""
   }
  ]
 }

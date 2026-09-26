@@ -9,7 +9,8 @@
    "Convention for the Safeguarding of the Intangible Cultural Heritage",
    "ICH"
   ],
-  "sort": "UNESCO Intangible Cultural Heritage"
+  "sort": "UNESCO Intangible Cultural Heritage",
+  "th": "มรดกทางวัฒนธรรมที่จับต้องไม่ได้ของยูเนสโก"
  },
  "region": [
   "world"
@@ -21,6 +22,14 @@
   "what": "The UNESCO programme run under the 2003 Convention for the Safeguarding of the Intangible Cultural Heritage. It lists practices, not objects. A charm cannot be inscribed; the craft of making it, the festival it is sold at or the rite it belongs to can be. States Parties nominate, and an intergovernmental committee meets annually and decides.",
   "story": "Article 2 of the Convention defines intangible cultural heritage as traditions or living expressions inherited from our ancestors and passed on to our descendants — oral traditions, performing arts, social practices, rituals, festive events, knowledge and practices concerning nature and the universe, and the knowledge and skills to produce traditional crafts. Those are the five domains.\n\nTwo statements in the Convention's own summary matter more than the lists. The first is that intangible cultural heritage is \"traditional, contemporary and living at the same time\" — it is not a survival, and an element does not have to be old. The second is that it is \"community-based: intangible cultural heritage can only be heritage when it is recognized as such by the communities, groups or individuals that create, maintain and transmit it\". A state cannot inscribe a practice over the heads of the people doing it.\n\nThere are three registers: the Representative List of the Intangible Cultural Heritage of Humanity, the List of Intangible Cultural Heritage in Need of Urgent Safeguarding, and the Register of Good Safeguarding Practices. The committee meets annually to evaluate nominations proposed by States Parties and decide whether or not to inscribe them.",
   "today": "What inscription is not: a ranking, a mark of quality, a property title, a trademark, or a bar on anyone making or selling anything. UNESCO's own wording is that intangible cultural heritage \"is not merely valued as a cultural good, on a comparative basis, for its exclusivity or its exceptional value\". *Inference —* this atlas therefore counts an inscription as attention paid and never as a verdict, and it never reads an absence from the lists as evidence that a practice is less real. Most of the practices in these records have never been nominated by anybody."
+ },
+ "text_th": {
+  "what": "โครงการของยูเนสโกที่ดำเนินการภายใต้อนุสัญญาว่าด้วยการสงวนรักษามรดกทางวัฒนธรรมที่จับต้องไม่ได้ ค.ศ. 2003 โครงการนี้ขึ้นทะเบียนการปฏิบัติ ไม่ใช่วัตถุ เครื่องรางขึ้นทะเบียนไม่ได้ แต่งานช่างที่สร้างมัน เทศกาลที่ขายมัน หรือพิธีที่มันสังกัด ขึ้นทะเบียนได้ รัฐภาคีเป็นผู้เสนอ และคณะกรรมการระหว่างรัฐบาลประชุมทุกปีเพื่อตัดสิน",
+  "story": "มาตรา 2 ของอนุสัญญานิยามมรดกทางวัฒนธรรมที่จับต้องไม่ได้ว่าคือประเพณีหรือการแสดงออกที่ยังมีชีวิต ซึ่งสืบทอดมาจากบรรพบุรุษและส่งต่อไปยังลูกหลาน — ประเพณีมุขปาฐะ ศิลปะการแสดง แนวปฏิบัติทางสังคม พิธีกรรม งานเทศกาล ความรู้และการปฏิบัติเกี่ยวกับธรรมชาติและจักรวาล และความรู้และทักษะในการผลิตงานช่างฝีมือดั้งเดิม นั่นคือห้าขอบเขต\n\nข้อความสองข้อในบทสรุปของอนุสัญญาเองสำคัญกว่าบัญชีรายชื่อ ข้อแรกคือมรดกทางวัฒนธรรมที่จับต้องไม่ได้ \"เป็นทั้งประเพณี ร่วมสมัย และยังมีชีวิตอยู่ในเวลาเดียวกัน\" — มันไม่ใช่สิ่งหลงเหลือจากอดีต และองค์ประกอบหนึ่งไม่จำเป็นต้องเก่า ข้อที่สองคือมัน \"ตั้งอยู่บนชุมชน: มรดกทางวัฒนธรรมที่จับต้องไม่ได้จะเป็นมรดกได้ก็ต่อเมื่อชุมชน กลุ่มคน หรือบุคคลที่สร้าง รักษา และถ่ายทอดมัน ยอมรับว่าเป็นเช่นนั้น\" รัฐไม่อาจขึ้นทะเบียนการปฏิบัติหนึ่งข้ามหัวคนที่ปฏิบัติมันอยู่\n\nมีสามบัญชี: บัญชีรายชื่อตัวแทนมรดกทางวัฒนธรรมที่จับต้องไม่ได้ของมนุษยชาติ บัญชีรายชื่อมรดกทางวัฒนธรรมที่จับต้องไม่ได้ที่ต้องได้รับการสงวนรักษาอย่างเร่งด่วน และทะเบียนแนวปฏิบัติที่ดีในการสงวนรักษา คณะกรรมการประชุมทุกปีเพื่อประเมินข้อเสนอที่รัฐภาคีเสนอมา และตัดสินว่าจะขึ้นทะเบียนหรือไม่",
+  "today": "สิ่งที่การขึ้นทะเบียนไม่ใช่: การจัดอันดับ เครื่องหมายคุณภาพ เอกสารสิทธิ์ เครื่องหมายการค้า หรือข้อห้ามไม่ให้ใครทำหรือขายสิ่งใด ถ้อยคำของยูเนสโกเองคือ มรดกทางวัฒนธรรมที่จับต้องไม่ได้ \"ไม่ได้มีคุณค่าเพียงในฐานะสินค้าทางวัฒนธรรม บนพื้นฐานของการเปรียบเทียบ เพราะความเป็นของเฉพาะหรือคุณค่าอันโดดเด่นของมัน\" *ข้อสันนิษฐาน —* แอตลาสนี้จึงนับการขึ้นทะเบียนเป็นความสนใจที่ได้รับ ไม่เคยนับเป็นคำตัดสิน และไม่เคยอ่านการที่ไม่มีชื่ออยู่ในบัญชีว่าเป็นหลักฐานว่าการปฏิบัตินั้นจริงน้อยกว่า การปฏิบัติส่วนใหญ่ในระเบียนเหล่านี้ไม่เคยถูกใครเสนอชื่อเลย"
+ },
+ "th_fields": {
+  "dating.period": "ค.ศ. 2003 ถึงปัจจุบัน"
  },
  "dating": {
   "period": "2003 to now",
@@ -36,37 +45,44 @@
   {
    "to": "thai-wicha",
    "as": "the kind of living craft tradition the Convention's traditional-craftsmanship domain is written for",
-   "rel": "tradition"
+   "rel": "tradition",
+   "as_th": "ประเพณีงานช่างที่ยังมีชีวิต ในแบบที่ขอบเขตงานช่างฝีมือดั้งเดิมของอนุสัญญาเขียนขึ้นมาเพื่อมัน"
   },
   {
    "to": "japanese-engimono",
    "as": "a shrine-linked making and selling practice of the sort the lists take in",
-   "rel": "tradition"
+   "rel": "tradition",
+   "as_th": "การสร้างและขายที่ผูกกับศาลเจ้า ในแบบที่บัญชีเหล่านี้รับไว้"
   },
   {
    "to": "maori-taonga",
    "as": "a tradition where the community-recognition clause does the work, not the list",
-   "rel": "tradition"
+   "rel": "tradition",
+   "as_th": "ประเพณีที่ข้อว่าด้วยการยอมรับของชุมชนเป็นตัวทำงาน ไม่ใช่บัญชีรายชื่อ"
   },
   {
    "to": "aiatsis",
    "as": "the Australian institute often confused with this programme; its language collection sits on UNESCO's Memory of the World register instead",
-   "rel": "contrast"
+   "rel": "contrast",
+   "as_th": "สถาบันของออสเตรเลียที่มักถูกสับสนกับโครงการนี้ คอลเลกชันภาษาของสถาบันอยู่ในทะเบียนความทรงจำแห่งโลก (Memory of the World) ของยูเนสโกแทน"
   },
   {
    "to": "nagpra",
    "as": "the contrast in kind: a binding national statute about objects, against an international list about practices",
-   "rel": "contrast"
+   "rel": "contrast",
+   "as_th": "ความต่างในเชิงประเภท: กฎหมายระดับชาติที่มีผลบังคับเกี่ยวกับวัตถุ เทียบกับบัญชีระหว่างประเทศเกี่ยวกับการปฏิบัติ"
   },
   {
    "to": "who-owns-a-charm",
    "as": "the long read on ownership, where inscription is the thing most often mistaken for a property claim",
-   "rel": "story"
+   "rel": "story",
+   "as_th": "บทความยาวเรื่องความเป็นเจ้าของ ซึ่งการขึ้นทะเบียนคือสิ่งที่ถูกเข้าใจผิดว่าเป็นการอ้างกรรมสิทธิ์บ่อยที่สุด"
   },
   {
    "to": "the-fake-market",
    "as": "the long read on authentication; an inscription settles nothing about whether a given object is what a seller says it is",
-   "rel": "story"
+   "rel": "story",
+   "as_th": "บทความยาวเรื่องการตรวจพิสูจน์ การขึ้นทะเบียนไม่ได้ชี้ขาดอะไรเลยว่าวัตถุชิ้นหนึ่งเป็นอย่างที่ผู้ขายบอกหรือไม่"
   }
  ],
  "links": [
@@ -125,49 +141,63 @@
    "type": "tradition",
    "name": "Thai wicha",
    "as": "the kind of living craft tradition the Convention's traditional-craftsmanship domain is written for",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "วิชา",
+   "as_th": "ประเพณีงานช่างที่ยังมีชีวิต ในแบบที่ขอบเขตงานช่างฝีมือดั้งเดิมของอนุสัญญาเขียนขึ้นมาเพื่อมัน"
   },
   {
    "to": "japanese-engimono",
    "type": "tradition",
    "name": "Engimono",
    "as": "a shrine-linked making and selling practice of the sort the lists take in",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": "การสร้างและขายที่ผูกกับศาลเจ้า ในแบบที่บัญชีเหล่านี้รับไว้"
   },
   {
    "to": "maori-taonga",
    "type": "tradition",
    "name": "Taonga Māori",
    "as": "a tradition where the community-recognition clause does the work, not the list",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ตาองกาเมารี",
+   "as_th": "ประเพณีที่ข้อว่าด้วยการยอมรับของชุมชนเป็นตัวทำงาน ไม่ใช่บัญชีรายชื่อ"
   },
   {
    "to": "aiatsis",
    "type": "org",
    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
    "as": "the Australian institute often confused with this programme; its language collection sits on UNESCO's Memory of the World register instead",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "สถาบันการศึกษาชาวอะบอริจินและชาวเกาะช่องแคบทอร์เรสแห่งออสเตรเลีย (AIATSIS)",
+   "as_th": "สถาบันของออสเตรเลียที่มักถูกสับสนกับโครงการนี้ คอลเลกชันภาษาของสถาบันอยู่ในทะเบียนความทรงจำแห่งโลก (Memory of the World) ของยูเนสโกแทน"
   },
   {
    "to": "nagpra",
    "type": "org",
    "name": "The Native American Graves Protection and Repatriation Act",
    "as": "the contrast in kind: a binding national statute about objects, against an international list about practices",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "รัฐบัญญัติคุ้มครองและส่งคืนหลุมฝังศพชนพื้นเมืองอเมริกัน (NAGPRA)",
+   "as_th": "ความต่างในเชิงประเภท: กฎหมายระดับชาติที่มีผลบังคับเกี่ยวกับวัตถุ เทียบกับบัญชีระหว่างประเทศเกี่ยวกับการปฏิบัติ"
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read on ownership, where inscription is the thing most often mistaken for a property claim",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": "บทความยาวเรื่องความเป็นเจ้าของ ซึ่งการขึ้นทะเบียนคือสิ่งที่ถูกเข้าใจผิดว่าเป็นการอ้างกรรมสิทธิ์บ่อยที่สุด"
   },
   {
    "to": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the long read on authentication; an inscription settles nothing about whether a given object is what a seller says it is",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดของปลอม",
+   "as_th": "บทความยาวเรื่องการตรวจพิสูจน์ การขึ้นทะเบียนไม่ได้ชี้ขาดอะไรเลยว่าวัตถุชิ้นหนึ่งเป็นอย่างที่ผู้ขายบอกหรือไม่"
   }
  ],
  "source_list": [
@@ -224,63 +254,81 @@
    "type": "amulet",
    "name": "Bujeok",
    "as": "the body that listed the Jeju Yŏngdŭng gut in 2009, one of the rites these talismans are handed out at the end of",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "from": "ekeko",
    "type": "amulet",
    "name": "Ekeko",
    "as": "the body Bolivia nominated Alasitas to in March 2011",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "เอเคโก (ตุ๊กตาชาวแอนดีส)",
+   "as_th": ""
   },
   {
    "from": "keris-pusaka",
    "type": "amulet",
    "name": "Keris pusaka",
    "as": "the body that inscribed the Indonesian kris in 2005",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "กริชปูซากา (กริชมรดก)",
+   "as_th": ""
   },
   {
    "from": "martenitsa",
    "type": "amulet",
    "name": "Martenitsa",
    "as": "the body that inscribed it in 2017, on a file four countries submitted together",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "มาร์เตนิตซา",
+   "as_th": ""
   },
   {
    "from": "andean-illa-practice",
    "type": "tradition",
    "name": "Illa practice",
    "as": "the body Bolivia's Minister of Cultures nominated Alasitas to in March 2011; Peru declared the feast and its miniatures national heritage in 2016",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "คติอิยา (เครื่องรางจำลองแห่งแอนดีส)",
+   "as_th": ""
   },
   {
    "from": "maori-taonga",
    "type": "tradition",
    "name": "Taonga Māori",
    "as": "the international framework where the community-recognition clause, rather than a list, is the part that does the work here",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "ตาองกาเมารี",
+   "as_th": ""
   },
   {
    "from": "red-thread",
    "type": "motif",
    "name": "The red thread",
    "as": "the body whose Representative List carries the martenitsa and the mărțișor",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "from": "aiatsis",
    "type": "org",
    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
    "as": "the UNESCO instrument this institute is often assumed to work under; its language collection is on a different UNESCO register",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "สถาบันการศึกษาชาวอะบอริจินและชาวเกาะช่องแคบทอร์เรสแห่งออสเตรเลีย (AIATSIS)",
+   "as_th": ""
   },
   {
    "from": "free-to-use",
    "type": "story",
    "name": "Free to use",
    "as": "the register that raises the same question at state scale — who may list, and who may reuse, somebody else's practice",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "ใช้ได้อย่างเสรี",
+   "as_th": ""
   }
  ]
 }

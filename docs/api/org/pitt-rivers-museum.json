@@ -7,7 +7,8 @@
   "aliases": [
    "PRM"
   ],
-  "sort": "Pitt Rivers Museum"
+  "sort": "Pitt Rivers Museum",
+  "th": "พิพิธภัณฑ์พิตต์ ริเวอร์ส"
  },
  "region": [
   "britain-ireland",
@@ -23,6 +24,9 @@
   "what": "Oxford museum of archaeology and anthropology, founded in 1884 on Augustus Pitt Rivers' gift of about 22,000 objects and now holding more than 600,000. It is arranged by what things are for rather than by where they are from, so charms from a dozen continents share a case. Nearly the whole collection came in by donation from colonial officials, travellers, scholars and missionaries.",
   "story": "The Deed of Gift set the terms. Oxford had to appoint a permanent lecturer in anthropology — Edward Burnett Tylor, in 1885, the first in the United Kingdom — and had to put up a building used for nothing else. Construction ran 1885 to 1886. A further clause says changes to the displays \"shall not affect the general principle originated by Augustus Henry Lane Fox Pitt Rivers\".\n\nThat is why the typological layout survived its own justification. The museum's account states that this evolutionary approach to material culture is no longer appropriate in the modern display paradigm for archaeological and anthropological objects, and that the original organisation has broadly been kept because the Deed requires it.\n\nThe amulet material arrived by two routes and they matter. Edward Lovett donated London street charms between 1896 and 1911. Walter Leo Hildburgh's amulets, bought across Europe, Asia and the Middle East, were bequeathed to the Wellcome Historical Medical Museum and transferred here in 1985.\n\nSince 2020 the museum has changed what it shows. During the COVID closure it removed human remains from display, including the tsantsas shown since the 1940s; the director said that exhibiting them \"reinforced racist and stereotypical thinking that goes against the museum's core values\". It is meeting originating communities to correct its records and discuss returns — the Living Cultures work with the Maasai group Oltoilo Le Maa and InsightShare among them. With the Museum of Natural History it returned the remains of 17 Aboriginal Australians to the Australian government in 2022, and in 2026 agreed to repatriate Naga skeletal remains, some of which had been displayed in a case titled Treatment of Dead Enemies.",
   "today": "Collections Online is browsable and its images are not openly licensed. The museum's terms allow images to be used for non-commercial educational and community purposes and state that they \"cannot be used freely or without permission for commercial purposes\"; publication needs a licence application to photographic services, and credit must read \"© Pitt Rivers Museum, University of Oxford\" with the object's accession number. No Creative Commons licence is named. *Inference —* this atlas can therefore cite a Pitt Rivers accession and link to it, and cannot host the picture."
+ },
+ "text_th": {
+  "what": "พิพิธภัณฑ์โบราณคดีและมานุษยวิทยาในออกซฟอร์ด ก่อตั้งในปี ค.ศ. 1884 จากวัตถุราว 22,000 ชิ้นที่ออกัสตัส พิตต์ ริเวอร์ส (Augustus Pitt Rivers) มอบให้ และปัจจุบันมีวัตถุกว่า 600,000 ชิ้น การจัดแสดงเรียงตามหน้าที่ของวัตถุ ไม่ใช่ตามแหล่งที่มา เครื่องรางจากหลายทวีปจึงอยู่ในตู้เดียวกัน วัตถุเกือบทั้งหมดในคอลเลกชันได้มาจากการบริจาคของเจ้าหน้าที่อาณานิคม นักเดินทาง นักวิชาการ และมิชชันนารี"
  },
  "dating": {
   "period": "1884 to now",
@@ -174,56 +178,72 @@
    "type": "place",
    "name": "The amulet and charm cases, Pitt Rivers Museum",
    "as": "the charm cases themselves, which is where a reader actually meets this collection",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตู้เครื่องรางและของขลัง พิพิธภัณฑ์พิตต์ริเวอร์ส",
+   "as_th": ""
   },
   {
    "to": "augustus-pitt-rivers",
    "type": "person",
    "name": "Augustus Pitt Rivers",
    "as": "the founder whose 1884 Deed of Gift still fixes how the cases are laid out",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "ออกัสตัส พิตต์ ริเวอร์ส",
+   "as_th": ""
   },
   {
    "to": "edward-lovett",
    "type": "person",
    "name": "Edward Lovett",
    "as": "the donor of the London street charms, given between 1896 and 1911",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "เอ็ดเวิร์ด เลิฟเวตต์",
+   "as_th": ""
   },
   {
    "to": "walter-hildburgh",
    "type": "person",
    "name": "Walter Leo Hildburgh",
    "as": "the collector whose amulets came here from Wellcome in 1985",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "วอลเตอร์ ลีโอ ฮิลด์เบิร์ก",
+   "as_th": ""
   },
   {
    "to": "wellcome-collection",
    "type": "org",
    "name": "Wellcome Collection",
    "as": "the collection that passed its amulet material to Oxford in 1985",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "เวลคัมคอลเลกชัน",
+   "as_th": ""
   },
   {
    "to": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "the tradition its English cases document most densely, thanks to Lovett",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read on ownership; this museum's own labels since 2020 are part of the argument",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "what-this-atlas-does-not-print",
    "type": "story",
    "name": "What this atlas does not print",
    "as": "the long read on restricted material, which this museum's 2020 removals bear on directly",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สิ่งที่แอตลาสนี้ไม่ตีพิมพ์",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -332,77 +352,99 @@
    "type": "amulet",
    "name": "Nkisi",
    "as": "one of the museums holding examples, and one running a repatriation and redress programme over them",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "เอ็นกีซี",
+   "as_th": ""
   },
   {
    "from": "bakongo-nkisi-craft",
    "type": "tradition",
    "name": "Bakongo nkisi craft",
    "as": "a holder running a provenance, transparency, repatriation and redress programme over material like this",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "งานสร้างนคิซีของชาวบาคองโก",
+   "as_th": ""
   },
   {
    "from": "pitt-rivers-charms",
    "type": "place",
    "name": "The amulet and charm cases, Pitt Rivers Museum",
    "as": "the museum these cases sit in, and the Deed of Gift that keeps them laid out this way",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "ตู้เครื่องรางและของขลัง พิพิธภัณฑ์พิตต์ริเวอร์ส",
+   "as_th": ""
   },
   {
    "from": "augustus-pitt-rivers",
    "type": "person",
    "name": "Augustus Pitt Rivers",
    "as": "the museum his 1884 gift created, and whose layout his Deed of Gift still governs",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "ออกัสตัส พิตต์ ริเวอร์ส",
+   "as_th": ""
   },
   {
    "from": "edward-lovett",
    "type": "person",
    "name": "Edward Lovett",
    "as": "where his donations went between 1896 and 1911, and where a large part of the material still sits",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "เอ็ดเวิร์ด เลิฟเวตต์",
+   "as_th": ""
   },
   {
    "from": "walter-hildburgh",
    "type": "person",
    "name": "Walter Leo Hildburgh",
    "as": "where his amulets landed in 1985, and where most of them are catalogued today",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "วอลเตอร์ ลีโอ ฮิลด์เบิร์ก",
+   "as_th": ""
   },
   {
    "from": "aiatsis",
    "type": "org",
    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
    "as": "the Oxford museum that returned the remains of 17 Aboriginal Australians to the Australian government in 2022",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "สถาบันการศึกษาชาวอะบอริจินและชาวเกาะช่องแคบทอร์เรสแห่งออสเตรเลีย (AIATSIS)",
+   "as_th": ""
   },
   {
    "from": "wellcome-collection",
    "type": "org",
    "name": "Wellcome Collection",
    "as": "where the Hildburgh amulet material was transferred in 1985",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "เวลคัมคอลเลกชัน",
+   "as_th": ""
   },
   {
    "from": "free-to-use",
    "type": "story",
    "name": "Free to use",
    "as": "one of the collections whose own published terms govern what this atlas may show of its objects",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "ใช้ได้อย่างเสรี",
+   "as_th": ""
   },
   {
    "from": "what-this-atlas-does-not-print",
    "type": "story",
    "name": "What this atlas does not print",
    "as": "a museum that applied the same test to its own cases in 2020, and published its reasons",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "สิ่งที่แอตลาสนี้ไม่ตีพิมพ์",
+   "as_th": ""
   },
   {
    "from": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the museum that removed its human remains in 2020 and published the reasoning",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ]
 }

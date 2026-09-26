@@ -12,7 +12,8 @@
    "periapta",
    "periapte",
    "períapton"
-  ]
+  ],
+  "th": "เพริแอปต์ (เครื่องรางแขวนคอ)"
  },
  "etymology": {
   "root": "Greek peri- 'around' + haptos (ἅπτος) 'fastened' > períaptos 'hung round' > períapton (περίαπτον) 'amulet' > Middle French periapte > English periapt",
@@ -39,6 +40,9 @@
  "text": {
   "what": "An English word for an amulet worn hung round the neck, defined by the hanging rather than by the shape or the material. It is close to dead. It survives in antiquarian writing, in medical history, and in translations out of Greek, where the plural periapta sits in the ancient list of protective objects.",
   "story": "The Greek says what it is: períaptos, hung round. Not carved, not blessed, not written — fastened on. Ancient Greek sources list periapta among apotropaia, probaskania, periammata, phylaktiria and the rest, none of them the single dominant term.\n\nThe English quotations Wiktionary carries are all of a type. Walter Scott, in The Talisman in 1825, writes that the Persians were perhaps most remarkable for their unshaken credulity in amulets, spells, periapts and similar charms. Thomas Oswald Cockayne, in Leechdoms, Wortcunning, and Starcraft in 1864, records that the occipital bone of an ass's head in a skin is also a good periapt. Charles William King's The Natural History of Precious Stones of 1867 distinguishes a decoration from a periapt, for it was suspended round his neck by golden chains. Fielding H. Garrison's An Introduction to the History of Medicine of 1921 has a formula that became a charm for intractable haemorrhage, written on the part affected or worn as a periapt.\n\n*Inference —* the word survived exactly where the Greek did — in the Victorian antiquarian's English, and in the vocabulary of men writing about other people's practices at a distance. It never made it onto a shop sign.\n\n*Tradition holds —* the distinction the word preserves is worth keeping even if the word is not: an object that hangs is a different object from one sewn in, buried under a threshold or nailed to a door, and every one of those is in this atlas."
+ },
+ "text_th": {
+  "what": "คำภาษาอังกฤษสำหรับเครื่องรางที่ห้อยคอ นิยามด้วยการห้อย ไม่ใช่ด้วยรูปทรงหรือวัสดุ คำนี้แทบตายแล้ว ยังคงอยู่ในงานเขียนของนักศึกษาโบราณวัตถุ ในประวัติศาสตร์การแพทย์ และในงานแปลจากภาษากรีก ซึ่งรูปพหูพจน์ เพริแอปตา (periapta) ปรากฏอยู่ในรายชื่อวัตถุคุ้มครองสมัยโบราณ"
  },
  "dating": {
   "from_year": 1500,
@@ -143,42 +147,54 @@
    "type": "term",
    "name": "amulet",
    "as": "the word that beat it — both mean a worn protective object, and only one is still sold in bookshops",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "อะมูเล็ต",
+   "as_th": ""
   },
   {
    "to": "apotropaic-word",
    "type": "term",
    "name": "apotropaic",
    "as": "the other Greek survivor in English, and the one the academy kept instead of this",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "อะโพโทรเพอิก (กันภัย)",
+   "as_th": ""
   },
   {
    "to": "phylactery-word",
    "type": "term",
    "name": "phylactery",
    "as": "its neighbour in the ancient Greek list, phylaktiria beside periapta, and the one the New Testament made permanent",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ฟิแล็กเทอรี (phylactery)",
+   "as_th": ""
   },
   {
    "to": "magical-gem",
    "type": "amulet",
    "name": "Magical gem",
    "as": "the class of object Victorian writers were usually describing when they reached for this word",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "อัญมณีเวทมนตร์ (หินสลักกรีก-อียิปต์)",
+   "as_th": ""
   },
   {
    "to": "frederick-elworthy",
    "type": "person",
    "name": "Frederick Thomas Elworthy",
    "as": "the Victorian cataloguer whose generation kept the word in print",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "เฟรเดอริก โทมัส เอลเวิร์ที",
+   "as_th": ""
   },
   {
    "to": "wearing-hidden",
    "type": "practice",
    "name": "Wearing hidden",
    "as": "the practice this word rules out — a periapt hangs where it can be seen",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "การสวมเครื่องรางแบบซ่อน",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -253,21 +269,27 @@
    "type": "term",
    "name": "amulet",
    "as": "the near-dead English synonym, kept alive by antiquarians and by translators out of Greek",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "อะมูเล็ต",
+   "as_th": ""
   },
   {
    "from": "apotropaic-word",
    "type": "term",
    "name": "apotropaic",
    "as": "one of the Greek protective words this adjective outlived, and the only other to reach English",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "อะโพโทรเพอิก (กันภัย)",
+   "as_th": ""
   },
   {
    "from": "amulet-or-talisman",
    "type": "story",
    "name": "Amulet or talisman?",
    "as": "the fourth cut — an object defined by hanging, with no theory in it at all",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "อะมูเล็ตหรือทาลิสแมน?",
+   "as_th": ""
   }
  ]
 }

@@ -8,7 +8,14 @@
   "script": "Japanese",
   "lang": "ja",
   "said": "ma-NE-ki NE-ko",
-  "aliases": ["beckoning cat", "lucky cat", "calling cat", "marushime-neko", "zhāocáimāo 招財貓"]
+  "aliases": [
+   "beckoning cat",
+   "lucky cat",
+   "calling cat",
+   "marushime-neko",
+   "zhāocáimāo 招財貓"
+  ],
+  "th": "แมวกวัก (มาเนกิเนโกะ)"
  },
  "etymology": {
   "root": "Japanese maneki 招き 'beckoning' + neko 猫 'cat' — the beckoning cat",
@@ -16,14 +23,33 @@
   "tier": "cited",
   "source": "s:wp-maneki-neko"
  },
- "region": ["japan", "china", "diaspora"],
- "countries": ["JP", "CN"],
- "facets": {"era": "modern", "status": "living", "portable": "placed", "restricted": "open", "hemisphere": ["N", "E"]},
+ "region": [
+  "japan",
+  "china",
+  "diaspora"
+ ],
+ "countries": [
+  "JP",
+  "CN"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "living",
+  "portable": "placed",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "A seated cat, one forepaw raised palm-down in a beckoning fold, usually holding an oval koban coin in the other. The classic figure is a calico Japanese Bobtail. Ceramic or plastic now; antique ones are carved wood, stone, cast metal or handmade porcelain. It sits near the entrance of a shop, a restaurant, a pachinko parlour, a laundromat, a bar, a hotel, and in houses. Some have a mechanical paw that swings, driven by a battery or a solar cell through a coil and a magnet.",
   "story": "The dated record starts in 1852. The Bukō nenpyō, a chronology of Edo, carries an entry for that year; Utagawa Hiroshige's print Joruri-machi Hanka no zu, also 1852, shows the marushime-neko — a variant of the beckoning cat — being sold at Sensō-ji in Asakusa. A Meiji newspaper picked it up in 1876, kimono-clad ones were handed out at an Osaka shrine around then, and by a 1902 advertisement the thing was established.\n\nBehind that lies clay. Potting clay was found at Imado in Asakusa during the Tenshō era of the Azuchi-Momoyama period, local people started making Imado ware, potters from Mikawa Province moved in and developed it, and in the Genroku era (1688–1704) Imado dolls appear — which is the lineage most accounts give the beckoning cat.\n\n*Tradition holds —* four different origin stories, each with a temple attached. Ii Naotaka's hawking party shelters at Gōtoku-ji in the Kan'ei era after a cat beckons them in at the gate, a thunderstorm breaks, and the Ii clan makes the temple its own. Ōta Dōkan, lost and outnumbered at Ekodahara, is beckoned into Jishōin and wins. A poor old woman near Imado Shrine dreams of the cat she had to give up, makes an Imado-ware figure of it, sells it at Asakusa Shrine and prospers. The courtesan Usugumo of Miuraya in Yoshiwara loses her cat to a rumour and a sword; the severed head kills the snake in the privy that would have killed her, and a customer gives her a wooden cat in its place. Each temple claims the birthplace.\n\nIt is routinely taken for Chinese. It is made and sold in China too, as zhāocáimāo, and in Chinatowns abroad it is often labelled a Chinese lucky cat or a golden cat. That is a fact about where the object circulates, not an error to be corrected off the page.",
   "how": "Bought, not consecrated: this is a shop-counter object with no shrine rite behind it, though shrines and temples sell them. Which paw is up carries a reading, and the reading varies with time and place — a raised left paw for more customers, a raised right for more money; hence also the saying that the left is for a business and the right is for a house. Colour was added later, in combination with feng shui: the original white is for good fortune generally, black to turn away evil, red for health, yellow or gold for wealth, pink for romance. It is not retired, renewed or burnt. It sits by the till until it breaks.",
   "today": "Mass-produced worldwide as of 2026, in ceramic, plastic, keychains, piggy banks, air fresheners and pots. Hikone City's mascot Hikonyan is drawn from the Gōtoku-ji story and the Ii clan; the cat has been worked into Pokémon's Meowth and into the card game Balatro; a Trinidad and Tobago party ran one in an election advertisement in 2015, waving goodbye to the incumbent prime minister."
+ },
+ "text_th": {
+  "what": "แมวนั่ง ยกขาหน้าข้างหนึ่งขึ้นโดยคว่ำฝ่าเท้าลงในท่ากวักเรียก ขาอีกข้างมักถือเหรียญโคบังทรงรี แบบคลาสสิกเป็นแมวหางกุดญี่ปุ่น (Japanese Bobtail) ลายสามสี ปัจจุบันทำจากเซรามิกหรือพลาสติก ชิ้นโบราณแกะจากไม้ หิน หล่อจากโลหะ หรือทำจากกระเบื้องพอร์ซเลนด้วยมือ ตั้งไว้ใกล้ทางเข้าร้านค้า ร้านอาหาร ร้านปาจิงโกะ ร้านซักรีดหยอดเหรียญ บาร์ โรงแรม และในบ้าน บางตัวมีขากลไกที่แกว่งได้ ขับเคลื่อนด้วยแบตเตอรี่หรือเซลล์แสงอาทิตย์ผ่านขดลวดกับแม่เหล็ก"
  },
  "dating": {
   "period": "late Edo to the present",
@@ -39,42 +65,138 @@
  },
  "object": {
   "form": "figurine",
-  "materials": ["terracotta", "plastic", "wood", "iron", "copper"],
-  "worn": ["shop", "door"],
+  "materials": [
+   "terracotta",
+   "plastic",
+   "wood",
+   "iron",
+   "copper"
+  ],
+  "worn": [
+   "shop",
+   "door"
+  ],
   "made_by": "potters and, since the twentieth century, factories; no consecration is described in this project's sources",
-  "colour": ["white", "black", "red", "gold", "pink"],
+  "colour": [
+   "white",
+   "black",
+   "red",
+   "gold",
+   "pink"
+  ],
   "single_use": false,
   "source": "s:wp-maneki-neko",
   "note": "Antique examples are carved wood, stone, metal, handmade porcelain or cast iron. No published measurement was read, so no length is given."
  },
  "against": [
-  {"harm": "attraction", "who": "shopkeepers, in the paw rule: left paw raised to bring in customers, right paw raised to bring in money", "source": "s:wp-maneki-neko", "tier": "cited"},
-  {"harm": "bad-luck", "who": "the colour scheme as it developed alongside feng shui — black is the one kept to turn evil away", "source": "s:wp-maneki-neko", "tier": "cited"},
-  {"harm": "illness", "who": "the colour scheme: red is the health cat", "source": "s:wp-maneki-neko", "tier": "cited"},
-  {"harm": "poverty", "who": "the colour scheme: yellow or gold is for wealth", "source": "s:wp-maneki-neko", "tier": "cited"},
-  {"harm": "loneliness", "who": "the colour scheme: pink is for romance", "source": "s:wp-maneki-neko", "tier": "cited"}
+  {
+   "harm": "attraction",
+   "who": "shopkeepers, in the paw rule: left paw raised to bring in customers, right paw raised to bring in money",
+   "source": "s:wp-maneki-neko",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "the colour scheme as it developed alongside feng shui — black is the one kept to turn evil away",
+   "source": "s:wp-maneki-neko",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the colour scheme: red is the health cat",
+   "source": "s:wp-maneki-neko",
+   "tier": "cited"
+  },
+  {
+   "harm": "poverty",
+   "who": "the colour scheme: yellow or gold is for wealth",
+   "source": "s:wp-maneki-neko",
+   "tier": "cited"
+  },
+  {
+   "harm": "loneliness",
+   "who": "the colour scheme: pink is for romance",
+   "source": "s:wp-maneki-neko",
+   "tier": "cited"
+  }
  ],
  "kin": [
-  {"to": "japanese-engimono", "as": "the class it belongs to — a shop-luck object sold at shrine markets beside the daruma and the rake", "rel": "tradition"},
-  {"to": "daruma", "as": "the other figure on the same shelf, and the opposite contract: the daruma is bought blank and burnt in a year, this one just sits there", "rel": "contrast"},
-  {"to": "senso-ji", "as": "where Hiroshige drew it being sold in 1852 — the earliest picture of the thing in trade", "rel": "place"},
-  {"to": "charm-coin", "as": "the coin in its paw: a koban, which makes this a coin charm with a cat wrapped round it", "rel": "motif"},
-  {"to": "ekeko", "as": "the Andean household figure loaded with goods and asked for more of them — the same job, a hemisphere away", "rel": "parallel"},
-  {"to": "mascot-word", "as": "what it became: a corporate and civic mascot, Hikonyan included, which is where the charm and the brand meet", "rel": "term"},
-  {"to": "ofuda", "as": "what sits behind the same till in Japan, consecrated where this is not", "rel": "contrast"},
-  {"to": "omamori", "as": "the portable charm from the same shrine counter; this one never leaves the shop", "rel": "kin"}
+  {
+   "to": "japanese-engimono",
+   "as": "the class it belongs to — a shop-luck object sold at shrine markets beside the daruma and the rake",
+   "rel": "tradition"
+  },
+  {
+   "to": "daruma",
+   "as": "the other figure on the same shelf, and the opposite contract: the daruma is bought blank and burnt in a year, this one just sits there",
+   "rel": "contrast"
+  },
+  {
+   "to": "senso-ji",
+   "as": "where Hiroshige drew it being sold in 1852 — the earliest picture of the thing in trade",
+   "rel": "place"
+  },
+  {
+   "to": "charm-coin",
+   "as": "the coin in its paw: a koban, which makes this a coin charm with a cat wrapped round it",
+   "rel": "motif"
+  },
+  {
+   "to": "ekeko",
+   "as": "the Andean household figure loaded with goods and asked for more of them — the same job, a hemisphere away",
+   "rel": "parallel"
+  },
+  {
+   "to": "mascot-word",
+   "as": "what it became: a corporate and civic mascot, Hikonyan included, which is where the charm and the brand meet",
+   "rel": "term"
+  },
+  {
+   "to": "ofuda",
+   "as": "what sits behind the same till in Japan, consecrated where this is not",
+   "rel": "contrast"
+  },
+  {
+   "to": "omamori",
+   "as": "the portable charm from the same shrine counter; this one never leaves the shop",
+   "rel": "kin"
+  }
  ],
- "links": [{"label": "Maneki-neko — Wikipedia", "url": "https://en.wikipedia.org/wiki/Maneki-neko"}],
- "sources": ["s:wp-maneki-neko", "s:wp-sens-ji", "s:web-ja-wikipedia-engimono", "s:wp-list-of-lucky-symbols"],
+ "links": [
+  {
+   "label": "Maneki-neko — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Maneki-neko"
+  }
+ ],
+ "sources": [
+  "s:wp-maneki-neko",
+  "s:wp-sens-ji",
+  "s:web-ja-wikipedia-engimono",
+  "s:wp-list-of-lucky-symbols"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-maneki-neko"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-maneki-neko"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:wp-maneki-neko", "note": "the four origin tales are marked inline as tradition; the 1852, 1876 and 1902 records are cited"},
-   "text.how": {"tier": "cited", "source": "s:wp-maneki-neko", "note": "the statement that no consecration attaches is the absence of any in this project's sources, not a claim that none exists anywhere"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-maneki-neko",
+    "note": "the four origin tales are marked inline as tradition; the 1852, 1876 and 1902 records are cited"
+   },
+   "text.how": {
+    "tier": "cited",
+    "source": "s:wp-maneki-neko",
+    "note": "the statement that no consecration attaches is the absence of any in this project's sources, not a claim that none exists anywhere"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Maneki neko.jpg", "File:Maneki-neko in a shop window.jpg"],
+ "x_commons_files": [
+  "File:Maneki neko.jpg",
+  "File:Maneki-neko in a shop window.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-16"
 }

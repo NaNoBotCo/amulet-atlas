@@ -11,7 +11,8 @@
   "aliases": [
    "fish hook pendant",
    "matau"
-  ]
+  ],
+  "th": "เฮย์ มาเตา (จี้ตะขอเบ็ดเมารี)"
  },
  "etymology": {
   "root": "Māori hei, 'to wear around the neck', + matau, 'fish hook'",
@@ -40,6 +41,9 @@
   "story": "The shape carries a story about the country it is worn in. Māui caught the North Island out of the sea using a woven line and a hook made from his grandmother's jawbone; the Māori name for the North Island, Te Ika a Māui, the fish of Māui, holds the account, and the shape of Hawke's Bay is where the hook caught in the fish's side.\n\nFor Māori the hei matau is taonga, a cultural treasure. Wikipedia's summary of what it stands for is not a list of wishes: it represents the land, and prosperity, fertility and safe passage over water; it marks the importance of fishing to Māori and their relationship to Tangaroa, god of the sea. Matau were worn as pendants for safekeeping and were often treasured family heirlooms.\n\nMaterial is where the modern record gets complicated. Traditionally matau were carved from bone, ivory, shell, wood or pounamu. Today most are cattle bone. Some Māori carvers still work whale bone, valued for its beauty, its cultural and historical weight and its scarcity; under current law against whaling they must use ancient stock, pre-existing supplies, or bone from whales that strand. New Zealand tradition and law give Māori first claim on part of the skeleton of any whale that strands and cannot be refloated, which is a very limited supply.\n\nAnd then there is the other production line. Manufacturers in China mass-produce items resembling hei matau for the New Zealand visitor market, usually in a paste of bone and resin, and, in the words of the cited account, \"have attracted criticism for their appropriation of Māori designs\". That criticism is reported here with its subject named and is not adjudicated.",
   "how": "Carved from bone, whale bone, shell, wood or pounamu, worked down and polished, drilled and strung. Pounamu work is slow: the stone is smoothed by abrasion and bored with sticks and water. A hei matau is worn, given and inherited, not retired.",
   "today": "Carved by Māori artists and by collectives established by iwi that export their work, and worn by Māori and by other New Zealanders who take the hook as a New Zealand sign. Viggo Mortensen wore one after filming The Lord of the Rings, which the cited account names as part of a wider international interest in Māori art. The Chinese-made bone-and-resin versions sell on the same tourist market."
+ },
+ "text_th": {
+  "what": "ตะขอเบ็ดที่ทำเป็นรูปทรงเฉพาะอย่างมาก แกะสลักจากกระดูกหรือโปวนามู (pounamu) — คำภาษาเมารีที่เรียกหินสีเขียวเนื้อแข็ง ส่วนใหญ่เป็นหยกเนไฟรต์ ซึ่งพบเฉพาะบนเกาะใต้ — และห้อยคอด้วยเชือก ชิ้นสมัยใหม่ส่วนใหญ่ไม่ใช่ตะขอที่ใช้งานได้จริง มาเตารุ่นเก่าใช้งานได้จริง และมีหลายรูปแบบ บางแบบเรียบง่ายเน้นใช้งาน บางแบบประดับประดามาก บางแบบประกอบจากหลายชิ้น และบางแบบไม่มีใครรู้แล้วว่าใช้ทำอะไร"
  },
  "dating": {
   "period": "Māori, pre-European to the present",
@@ -219,63 +223,81 @@
    "type": "tradition",
    "name": "Taonga Māori",
    "as": "the tradition this belongs to, which is why this record does not call it a lucky charm",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ตาองกาเมารี",
+   "as_th": ""
   },
   {
    "to": "hei-tiki",
    "type": "amulet",
    "name": "Hei-tiki",
    "as": "the other pendant from the same stone and the same cord, for ancestors rather than for water",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เฮย์ติกิ (จี้หยกเมารี)",
+   "as_th": ""
   },
   {
    "to": "fish",
    "type": "motif",
    "name": "The fish",
    "as": "the sign behind the shape, and behind the name of the North Island",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ปลา",
+   "as_th": ""
   },
   {
    "to": "jade",
    "type": "material",
    "name": "Jade",
    "as": "the material class pounamu falls into; Māori classify the stone by colour instead",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "หยก",
+   "as_th": ""
   },
   {
    "to": "bone-ivory",
    "type": "material",
    "name": "Bone and ivory",
    "as": "what most of them are carved from now — cattle bone, and whale bone under strict limits",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "กระดูกและงา",
+   "as_th": ""
   },
   {
    "to": "te-papa",
    "type": "org",
    "name": "Museum of New Zealand Te Papa Tongarewa",
    "as": "the museum that holds them and publishes about them in Māori terms",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์นิวซีแลนด์ เตปาปาตองกาเรวา",
+   "as_th": ""
   },
   {
    "to": "dreamcatcher",
    "type": "amulet",
    "name": "Dreamcatcher",
    "as": "the North American parallel — a form mass-produced abroad and objected to by name on the same grounds",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องดักฝัน",
+   "as_th": ""
   },
   {
    "to": "st-christopher-medal",
    "type": "amulet",
    "name": "St Christopher medal",
    "as": "the other object in this atlas most often worn against danger on a crossing",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เหรียญนักบุญคริสโตเฟอร์",
+   "as_th": ""
   },
   {
    "to": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the long read about copies, which this record is one of the clearest cases in",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดของปลอม",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -463,84 +485,108 @@
    "type": "amulet",
    "name": "Car saint",
    "as": "the Pacific object most often worn against danger on a crossing",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "นักบุญประจำรถ (เหรียญนักบุญคริสโตเฟอร์)",
+   "as_th": ""
   },
   {
    "from": "caul",
    "type": "amulet",
    "name": "Caul",
    "as": "the charm carried for safe passage over water at the other end of the world",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คอล (เยื่อคลุมหน้าทารกแรกเกิด)",
+   "as_th": ""
   },
   {
    "from": "cowrie-strand",
    "type": "amulet",
    "name": "Cowrie strand",
    "as": "another shell-and-sea charm worn at the neck, on the far side of the Pacific",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สายเปลือกหอยเบี้ย",
+   "as_th": ""
   },
   {
    "from": "dreamcatcher",
    "type": "amulet",
    "name": "Dreamcatcher",
    "as": "the Pacific parallel: an Indigenous form mass-produced abroad, and objected to by name on the same grounds",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องดักฝัน",
+   "as_th": ""
   },
   {
    "from": "hei-tiki",
    "type": "amulet",
    "name": "Hei-tiki",
    "as": "the other pendant worn at the same neck, carved from the same stone, for water rather than for ancestors",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เฮย์ติกิ (จี้หยกเมารี)",
+   "as_th": ""
   },
   {
    "from": "maori-taonga",
    "type": "tradition",
    "name": "Taonga Māori",
    "as": "the other one the world meets, and the one whose overseas copies the tradition has publicly objected to",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ตาองกาเมารี",
+   "as_th": ""
   },
   {
    "from": "fish",
    "type": "motif",
    "name": "The fish",
    "as": "the Māori fish hook, which is a different object with its own account and no line to either of these",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ปลา",
+   "as_th": ""
   },
   {
    "from": "bone-ivory",
    "type": "material",
    "name": "Bone and ivory",
    "as": "the hook cut from bone as readily as from pounamu",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กระดูกและงา",
+   "as_th": "ตะขอที่แกะจากกระดูกได้ง่ายพอ ๆ กับแกะจากหยกปาวนามู (pounamu)"
   },
   {
    "from": "jade",
    "type": "material",
    "name": "Jade",
    "as": "the hook, carved from pounamu or from bone, worn at the neck",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "หยก",
+   "as_th": ""
   },
   {
    "from": "tooth",
    "type": "material",
    "name": "Tooth, tusk and claw",
    "as": "the hook that reads as a tooth and is worn in the same place, at the throat",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ฟัน งา และกรงเล็บ",
+   "as_th": ""
   },
   {
    "from": "te-papa-taonga",
    "type": "place",
    "name": "Mana Whenua, Te Papa",
    "as": "the hook pendant of the same stone and the same collection",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "มานาเฟนูอา ที่พิพิธภัณฑ์เตปาปา",
+   "as_th": ""
   },
   {
    "from": "te-papa",
    "type": "org",
    "name": "Museum of New Zealand Te Papa Tongarewa",
    "as": "the hook pendant held here in the same collections",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "พิพิธภัณฑ์นิวซีแลนด์ เตปาปาตองกาเรวา",
+   "as_th": ""
   }
  ]
 }

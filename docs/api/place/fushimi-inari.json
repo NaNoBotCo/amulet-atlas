@@ -11,7 +11,8 @@
   "aliases": [
    "Fushimi Inari Shrine",
    "Oinari-san"
-  ]
+  ],
+  "th": "ศาลเจ้าฟูชิมิอินาริไทฉะ"
  },
  "region": [
   "japan"
@@ -30,6 +31,9 @@
   "what": "The head shrine of Inari, at the foot of a 233-metre mountain in Fushimi-ku, Kyoto. Paths climb four kilometres to smaller shrines, roofed most of the way by torii gates — roughly 10,000 of them, each one paid for by a Japanese business, about 800 set close enough together to make a tunnel. Tens of thousands of rock altars, otsuka, stand along the way, set up by private people and cut with their own names for Inari.",
   "story": "The shrine was formally founded in 711 CE by the Hata clan, immigrants from the Korean peninsula who brought irrigation, sericulture and sake brewing into Yamashiro. The Yamashiro fudoki tells it as an arrow, a rice cake that turned into a white bird, and rice growing where the bird came down. Inari began as the kami of rice and agriculture and stays that; merchants took Inari up as the patron of business, which is why the gates are donated by companies.\n\nDonating a torii to have a wish granted, or in thanks for one granted, spread from the Edo period onward and has not stopped. Unlike most Shinto shrines, this one leaves the main object of worship — a mirror — in open view. Foxes stand at the gates as Inari's messengers, often with a granary key in the mouth.\n\nThe shrine was in the first rank of state-supported shrines from 1871 to 1946. Police counted 2.69 million worshippers over three days of the new year in 2006, the largest count in western Japan. Around 32,000 branch shrines carry Inari elsewhere in the country.\n\nOn the approach, sweet shops sell tsujiura senbei, a folded fortune cracker documented at least to the 19th century and argued to be the ancestor of the American fortune cookie.\n\n*Inference —* an omamori bought at a shrine gate is the shrine's own object, and a head shrine of this size is one of the places the practice runs at scale. This atlas has read no published stock list for this shrine's own counter, so the charm records below are linked as kin rather than as inventory.",
   "today": "Open, with no entrance fee. The approach and the main hall are lit all night."
+ },
+ "text_th": {
+  "what": "ศาลเจ้าหลักของเทพอินาริ ตั้งอยู่เชิงภูเขาสูง 233 เมตร ในเขตฟูชิมิ นครเกียวโต ทางเดินไต่ขึ้นไปสี่กิโลเมตรสู่ศาลเจ้าที่เล็กกว่า มีประตูโทริอิเป็นหลังคาเกือบตลอดทาง — ราว 10,000 ประตู แต่ละประตูออกเงินโดยธุรกิจญี่ปุ่น ราว 800 ประตูตั้งชิดกันจนเป็นอุโมงค์ ตลอดทางมีแท่นบูชาหินหลายหมื่นแท่นเรียกว่า โอสึกะ (otsuka) ตั้งโดยบุคคลทั่วไป และสลักชื่อที่แต่ละคนใช้เรียกอินาริ"
  },
  "dating": {
   "period": "Nara to the present",
@@ -182,56 +186,72 @@
    "type": "amulet",
    "name": "Omamori",
    "as": "the brocade packet a shrine issues and renews each year; this is the head shrine of the kami most of Japan asks for business luck",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "the paper or wood tablet taken home to the house shelf from a shrine like this one",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "omikuji",
    "type": "amulet",
    "name": "Omikuji",
    "as": "the drawn fortune, cousin of the folded senbei cracker sold on this approach since the 19th century",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "โอมิกุจิ (ใบเซียมซีญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "japanese-engimono",
    "type": "tradition",
    "name": "Engimono",
    "as": "the tradition of luck-bringing objects this shrine's counter belongs to",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "maneki-neko",
    "type": "amulet",
    "name": "Maneki-neko",
    "as": "the beckoning cat a shop keeps for the same reason a company pays for a torii here",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "แมวกวัก (มาเนกิเนโกะ)",
+   "as_th": ""
   },
   {
    "to": "mirror-sign",
    "type": "motif",
    "name": "The mirror",
    "as": "the sign in the sanctuary — Inari shrines leave the mirror in open view",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "กระจก",
+   "as_th": ""
   },
   {
    "to": "blessing-at-a-shrine",
    "type": "practice",
    "name": "Blessing at a shrine",
    "as": "the practice, at the scale of 32,000 branch shrines",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การนำไปรับพรที่ศาสนสถาน",
+   "as_th": ""
   },
   {
    "to": "senso-ji",
    "type": "place",
    "name": "Sensō-ji",
    "as": "the other end of Japan's charm trade in this atlas: a temple approach lined with 72 shops rather than a mountain of gates",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "วัดเซนโซจิ",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -333,56 +353,72 @@
    "type": "amulet",
    "name": "Exam charm",
    "as": "one shrine where the charm counter is a shop floor and the scale of the trade is visible from the queue",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "เครื่องรางสอบผ่าน (โกกากุ คิกัง)",
+   "as_th": ""
   },
   {
    "from": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "one of the shrines that issues its own alongside the Ise talisman",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "omamori",
    "type": "amulet",
    "name": "Omamori",
    "as": "the shrine whose New Year crowds are the clearest published measure of what this trade moves — 2.69 million over three days in 2006",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "omikuji",
    "type": "amulet",
    "name": "Omikuji",
    "as": "one of the shrines the racks of folded slips stand in, thickest at New Year",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "โอมิกุจิ (ใบเซียมซีญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "japanese-engimono",
    "type": "tradition",
    "name": "Engimono",
    "as": "the counter at the scale of 32,000 branch shrines",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "blessing-at-a-shrine",
    "type": "practice",
    "name": "Blessing at a shrine",
    "as": "the practice at the scale of 32,000 branch shrines",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "การนำไปรับพรที่ศาสนสถาน",
+   "as_th": "การปฏิบัตินี้ในระดับศาลเจ้าสาขา 32,000 แห่ง"
   },
   {
    "from": "senso-ji",
    "type": "place",
    "name": "Sensō-ji",
    "as": "the Kyoto shrine at the other scale — a mountain of donated gates instead of a street of shops",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "วัดเซนโซจิ",
+   "as_th": ""
   },
   {
    "from": "omamori-word",
    "type": "term",
    "name": "omamori",
    "as": "one of the shrines the word is bought at, at the scale that makes factories an issue",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "โอมาโมริ",
+   "as_th": ""
   }
  ]
 }

@@ -4,16 +4,47 @@
  "type": "amulet",
  "names": {
   "name": "Concealed shoe",
-  "aliases": ["hidden shoe", "chimney shoe", "immured shoe", "spiritual midden shoe"]
+  "aliases": [
+   "hidden shoe",
+   "chimney shoe",
+   "immured shoe",
+   "spiritual midden shoe"
+  ],
+  "th": "รองเท้าซ่อนในบ้าน"
  },
- "region": ["britain-ireland", "western-europe", "north-america", "australia"],
- "countries": ["GB", "DE", "US", "CA", "AU"],
- "facets": {"era": "early-modern", "status": "archaeological", "portable": "placed", "restricted": "open", "hemisphere": ["N", "S", "E", "W"]},
+ "region": [
+  "britain-ireland",
+  "western-europe",
+  "north-america",
+  "australia"
+ ],
+ "countries": [
+  "GB",
+  "DE",
+  "US",
+  "CA",
+  "AU"
+ ],
+ "facets": {
+  "era": "early-modern",
+  "status": "archaeological",
+  "portable": "placed",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "S",
+   "E",
+   "W"
+  ]
+ },
  "text": {
   "what": "An ordinary worn shoe, walled into a building where nobody will see it: up a chimney, under a floor, above a ceiling, in the roof, beside a door or window frame, occasionally in the foundations. Almost all of them have been worn — 98 per cent — and many have been repaired. Most finds are single shoes rather than pairs, and about half of them belonged to children. Archaeologists call a cache of this kind a spiritual midden.",
   "story": "Northampton Museum keeps the count. Its Concealed Shoe Index held more than 1,100 reports by 1998 and 1,900 by 2012, mostly from Britain but some from as far as Canada, with almost half dating from the nineteenth century. June Swann's analysis of the index, published in 1996, gives the hiding places by share: chimney, fireplace or hearth 26.2 per cent; under the floor or above the ceiling 22.9 per cent; almost as many again in the roof. The rest come from around doors and windows, under stairs and among foundations. Of the thousands reported, thirteen in Swann's analysis were in foundations, and she raised — carefully — a possible connection with the Carthaginian practice of putting infants into the foundations of buildings, with the shoe standing in for the person.\n\nThe earliest reported example was found behind the choir stalls in Winchester Cathedral, which were installed in 1308. The buildings are otherwise unremarkable: country cottages, town houses, manor houses, hospitals, workhouses, factories, public houses, two Oxford colleges — St John's and Queen's — a Benedictine monastery in Germany and a Baptist church in Cheshire. In the United States the deposits cluster in New England and the north-east, the regions first colonised from East Anglia.\n\nWhat they were for is argued, and the arguers are named. The independent researcher Brian Hoggard observes that the places the shoes turn up — chimneys, floors, ceilings, doors, windows, roofs — suggest that at least some were hidden as charms protecting the occupants against evil influences such as demons, ghosts and witches. The explanation most scholars favour runs on scent: a witch is drawn by the human smell of a shoe, enters it, and is trapped, being unable to reverse. The archaeologist Ralph Merrifield suggested the belief may descend from John Schorne, an unofficial fourteenth-century English saint said to have trapped the Devil in a boot — a legend Merrifield thought might itself sit on an older folk belief the Church was trying to convert into an approved rite.\n\nA second reading is about birth rather than defence. Shoes and fertility are linked in English custom, from the old woman who lived in a shoe to the shoe thrown after a bride and the shoes tied to a departing couple's car; Merrifield recorded that in Lancashire a woman who wished to conceive might try on the shoes of a woman who had just given birth, a custom called smickling. A third belongs to the archaeologist and architectural historian M. Chris Manning, who proposes that immuring shoes and garments may be connected to the belief in a household spirit found across northern Europe from Ireland to western Russia — the brownie and the hob of England and Scotland, who could be driven off by a gift of clothing, and the Russian domovoi, who could be drawn to a house with an old boot or bast shoe put under the stove or hung in the yard.\n\nThe custom faded through the twentieth century without quite stopping. Only fifty post-1900 instances have been recorded. In 1964 the shoe manufacturer Norvic put a pair of their women's high-leg boots into the foundations of a new factory; in 1991, at Knebworth House, an estate worker's shoe replaced an old court shoe that had been found behind some panelling.",
   "how": "Take a shoe somebody has actually worn — not a new one — and build it into the fabric of the house at a threshold: the chimney is the commonest choice, then the void under a floor or above a ceiling, then the roof. It is not charged, not inscribed, not renewed, and not meant to come out. The Knebworth case is the one recorded instance in this record of a replacement: the old shoe found, a new one put back.",
   "today": "Not a living custom in Britain, on this record's sources: it died out during the twentieth century, and the fifty recorded instances after 1900 are the exceptions that say so. The shoes themselves keep arriving, one demolition at a time, and Northampton Museum keeps adding them to the index. Apart from their folklore, they are the largest surviving body of evidence for what ordinary people actually put on their feet."
+ },
+ "text_th": {
+  "what": "รองเท้าธรรมดาที่ผ่านการใส่มาแล้ว ถูกก่อปิดไว้ในตัวอาคารในจุดที่ไม่มีใครเห็น เช่น ในปล่องไฟ ใต้พื้น เหนือเพดาน ในหลังคา ข้างกรอบประตูหรือหน้าต่าง และบางครั้งในฐานราก เกือบทั้งหมดผ่านการใส่มาแล้ว — ร้อยละ 98 — และหลายชิ้นเคยซ่อมมาแล้ว ของที่พบส่วนใหญ่เป็นรองเท้าข้างเดียว ไม่ใช่เป็นคู่ และราวครึ่งหนึ่งเป็นของเด็ก นักโบราณคดีเรียกแหล่งซ่อนของลักษณะนี้ว่ากองสะสมทางจิตวิญญาณ (spiritual midden)"
  },
  "dating": {
   "period": "Late medieval to the mid-twentieth century",
@@ -29,8 +60,17 @@
  },
  "object": {
   "form": "garment",
-  "materials": ["leather", "wood"],
-  "worn": ["hearth", "foundation", "wall", "roof", "door"],
+  "materials": [
+   "leather",
+   "wood"
+  ],
+  "worn": [
+   "hearth",
+   "foundation",
+   "wall",
+   "roof",
+   "door"
+  ],
   "made_by": "a shoemaker, for wearing; whoever hides it makes it the other thing",
   "inscription": "",
   "single_use": true,
@@ -38,28 +78,106 @@
   "note": "Most are leather; wooden clogs and rubber galoshes are also reported. No measurement is given because the index reports shoe sizes across the whole range from babies to adults rather than a typical dimension."
  },
  "against": [
-  {"harm": "witchcraft", "who": "the explanation favoured by most scholars, in which a witch drawn by the human scent of a shoe enters it and cannot reverse out", "source": "s:wp-concealed-shoes", "tier": "cited"},
-  {"harm": "demons", "who": "Brian Hoggard, on what the hiding places suggest: charms against evil influences such as demons, ghosts and witches", "source": "s:wp-concealed-shoes", "tier": "cited"},
-  {"harm": "spirits", "who": "M. Chris Manning, who reads the deposits against the northern European household spirit — the brownie, the hob, the domovoi", "source": "s:wp-concealed-shoes", "tier": "cited", "note": "Manning's reading is about attracting or laying a spirit as much as repelling one, which is why it sits apart from the witch-trap explanation"},
-  {"harm": "infertility", "who": "the fertility reading, which Ralph Merrifield connects to the Lancashire custom of smickling — a woman hoping to conceive trying on the shoes of a woman who has just given birth", "source": "s:wp-concealed-shoes", "tier": "cited"},
-  {"harm": "house", "who": "early modern building custom, which put written charms, dried cats, horse skulls, witch bottles and shoes into the structure of a house", "source": "s:wp-concealed-shoes", "tier": "cited"}
+  {
+   "harm": "witchcraft",
+   "who": "the explanation favoured by most scholars, in which a witch drawn by the human scent of a shoe enters it and cannot reverse out",
+   "source": "s:wp-concealed-shoes",
+   "tier": "cited"
+  },
+  {
+   "harm": "demons",
+   "who": "Brian Hoggard, on what the hiding places suggest: charms against evil influences such as demons, ghosts and witches",
+   "source": "s:wp-concealed-shoes",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "M. Chris Manning, who reads the deposits against the northern European household spirit — the brownie, the hob, the domovoi",
+   "source": "s:wp-concealed-shoes",
+   "tier": "cited",
+   "note": "Manning's reading is about attracting or laying a spirit as much as repelling one, which is why it sits apart from the witch-trap explanation"
+  },
+  {
+   "harm": "infertility",
+   "who": "the fertility reading, which Ralph Merrifield connects to the Lancashire custom of smickling — a woman hoping to conceive trying on the shoes of a woman who has just given birth",
+   "source": "s:wp-concealed-shoes",
+   "tier": "cited"
+  },
+  {
+   "harm": "house",
+   "who": "early modern building custom, which put written charms, dried cats, horse skulls, witch bottles and shoes into the structure of a house",
+   "source": "s:wp-concealed-shoes",
+   "tier": "cited"
+  }
  ],
  "kin": [
-  {"to": "witch-bottle", "as": "the other object out of the same chimney, and the one with a written recipe where this one has none", "rel": "kin"},
-  {"to": "the-charm-in-the-wall", "as": "the long read this record is the backbone of: 1,900 indexed finds and nobody's word for why", "rel": "story"},
-  {"to": "foundation-deposit", "as": "the practice thirteen of Swann's shoes belong to, and the one that raised the question of a substitute body", "rel": "practice"},
-  {"to": "burying", "as": "the act itself — the charm's whole method is putting it somewhere it will not be found", "rel": "practice"},
-  {"to": "wearing-hidden", "as": "the same instinct at the scale of a person; here the building wears the charm under its own floor", "rel": "practice"},
-  {"to": "most-of-them-are-for-children", "as": "the count that supports the long read: about half the indexed shoes belonged to children", "rel": "story"},
-  {"to": "european-folk-apotropaic", "as": "the tradition it belongs to, and its most thoroughly counted object", "rel": "tradition"},
-  {"to": "hagstone", "as": "the charm hung where visitors could see it, against the one built in where nobody could", "rel": "contrast"},
-  {"to": "rowan-cross", "as": "the same household's charm on the outside of the door, renewed yearly, while this one stayed in the chimney for six centuries", "rel": "contrast"},
-  {"to": "dating-a-charm", "as": "the long read about how any of these objects get a date; the shoes get theirs from the building's carpentry", "rel": "story"}
+  {
+   "to": "witch-bottle",
+   "as": "the other object out of the same chimney, and the one with a written recipe where this one has none",
+   "rel": "kin"
+  },
+  {
+   "to": "the-charm-in-the-wall",
+   "as": "the long read this record is the backbone of: 1,900 indexed finds and nobody's word for why",
+   "rel": "story"
+  },
+  {
+   "to": "foundation-deposit",
+   "as": "the practice thirteen of Swann's shoes belong to, and the one that raised the question of a substitute body",
+   "rel": "practice"
+  },
+  {
+   "to": "burying",
+   "as": "the act itself — the charm's whole method is putting it somewhere it will not be found",
+   "rel": "practice"
+  },
+  {
+   "to": "wearing-hidden",
+   "as": "the same instinct at the scale of a person; here the building wears the charm under its own floor",
+   "rel": "practice"
+  },
+  {
+   "to": "most-of-them-are-for-children",
+   "as": "the count that supports the long read: about half the indexed shoes belonged to children",
+   "rel": "story"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the tradition it belongs to, and its most thoroughly counted object",
+   "rel": "tradition"
+  },
+  {
+   "to": "hagstone",
+   "as": "the charm hung where visitors could see it, against the one built in where nobody could",
+   "rel": "contrast"
+  },
+  {
+   "to": "rowan-cross",
+   "as": "the same household's charm on the outside of the door, renewed yearly, while this one stayed in the chimney for six centuries",
+   "rel": "contrast"
+  },
+  {
+   "to": "dating-a-charm",
+   "as": "the long read about how any of these objects get a date; the shoes get theirs from the building's carpentry",
+   "rel": "story"
+  }
  ],
- "links": [{"label": "Concealed shoes — Wikipedia", "url": "https://en.wikipedia.org/wiki/Concealed_shoes"}],
- "sources": ["s:wp-concealed-shoes", "s:wp-witch-bottle", "s:wp-apotropaic-magic"],
+ "links": [
+  {
+   "label": "Concealed shoes — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Concealed_shoes"
+  }
+ ],
+ "sources": [
+  "s:wp-concealed-shoes",
+  "s:wp-witch-bottle",
+  "s:wp-apotropaic-magic"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-concealed-shoes"}
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-concealed-shoes"
+  }
  },
  "images": [],
  "confidence": "high",

@@ -11,7 +11,8 @@
   "aliases": [
    "pátua",
    "bolsa de mandinga"
-  ]
+  ],
+  "th": "ปาตูอา (ถุงเครื่องรางบราซิล)"
  },
  "region": [
   "brazil",
@@ -35,6 +36,9 @@
   "story": "Duke's catalogue entry is blunt about what the object is for: \"This amulet, called a pátua, used the power of the Brazilian goddess Iemanjá to protect the owner.\"\n\nThe construction is a set of claims stitched into cloth. Iemanjá's name is embroidered in white thread on blue vinyl — her colour — in twenty-one stitches, a number the catalogue says is sacred to her. Wood pieces reference Catholic relics. A Star of David sits on the back. A cowrie is set in, the shell that is both an instrument of divination and, in Candomblé, a body the gods are present in. The entry reads the combination as sacred colour, sacred number, and references that follow the trade routes between West Africa and Brazil.\n\n*Inference —* the Catholic relic and the Star of David on an Iemanjá packet are the record of a religion that spent centuries being illegal and learned to be legible in more than one language at once. This atlas states that as its own reading and not as the catalogue's.\n\nWhat this record cannot do is tell a reader how a patuá is filled, closed or charged. That happens inside a terreiro, a Candomblé house, under people entitled to do it; this project has read no published account of the procedure that it can cite, and does not fill the gap from a neighbouring tradition. The entry stops here.",
   "how": "Sewn shut. The Duke example is closed with a counted number of stitches carrying the name of the orixá it belongs to. Beyond that, the making is not described here — see the note above. A patuá is worn under clothing at the neck, or carried in a bag, wallet or car.",
   "today": "Patuás are made and sold in Brazil, in terreiros and in shops selling to Umbanda and Candomblé practitioners, and are a regular subject of Brazilian religious-goods retail online as of 2026. This project has no dated price and no maker's name for the current trade."
+ },
+ "text_th": {
+  "what": "ห่อเล็ก ๆ ที่เย็บปิด สวมที่คอหรือพกติดตัว ปิดทับสิ่งที่ใส่ไว้ข้างใน ชิ้นที่โครงการศิลปะศักดิ์สิทธิ์แห่งแอตแลนติกผิวดำ (Sacred Arts of the Black Atlantic) ของมหาวิทยาลัยดิวก์จัดทำรายการไว้มีขนาด 43 x 35 x 11 mm: ผ้าและไวนิลสีน้ำเงิน เศษไม้ ด้ายขาว และเปลือกหอยเบี้ย มันไม่ได้มีไว้ให้เปิด"
  },
  "dating": {
   "period": "Afro-Brazilian religious practice",
@@ -191,56 +195,72 @@
    "type": "amulet",
    "name": "Gris-gris",
    "as": "the West African-descended sewn packet this is kin to across the Atlantic, in New Orleans rather than Bahia",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กรีกรี (ถุงเครื่องรางแอฟริกาตะวันตก)",
+   "as_th": ""
   },
   {
    "to": "hirz-pouch",
    "type": "amulet",
    "name": "Hirz",
    "as": "the same object in Islamic West Africa — a written charm sewn shut and worn",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ฮิรซ์ (ตลับใส่โองการอัลกุรอาน)",
+   "as_th": ""
   },
   {
    "to": "cowrie",
    "type": "material",
    "name": "Cowrie",
    "as": "the shell set into it, which is a divination instrument before it is an ornament",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "หอยเบี้ย",
+   "as_th": ""
   },
   {
    "to": "sewing-in",
    "type": "practice",
    "name": "Sewing in",
    "as": "the practice that makes it — the closing is the charging",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเย็บเครื่องรางไว้ในผ้า",
+   "as_th": ""
   },
   {
    "to": "west-african-charm-craft",
    "type": "tradition",
    "name": "West African charm craft",
    "as": "where the form comes from, before the Atlantic crossing",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "งานเครื่องรางแอฟริกาตะวันตก",
+   "as_th": ""
   },
   {
    "to": "cowrie-strand",
    "type": "amulet",
    "name": "Cowrie strand",
    "as": "the other object built from the same shell, strung instead of sewn in",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สายเปลือกหอยเบี้ย",
+   "as_th": ""
   },
   {
    "to": "what-this-atlas-does-not-print",
    "type": "story",
    "name": "What this atlas does not print",
    "as": "the long read explaining why this record stops where it stops",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สิ่งที่แอตลาสนี้ไม่ตีพิมพ์",
+   "as_th": ""
   },
   {
    "to": "wearing-hidden",
    "type": "practice",
    "name": "Wearing hidden",
    "as": "how it is worn: under the shirt, unopened",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การสวมเครื่องรางแบบซ่อน",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -372,7 +392,9 @@
    "type": "motif",
    "name": "The key",
    "as": "the other Atlantic charm made where Catholic imagery and an African pantheon meet",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กุญแจ",
+   "as_th": ""
   }
  ]
 }

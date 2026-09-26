@@ -10,7 +10,8 @@
    "kroke",
    "khutt hashani"
   ],
-  "said": "tying the thing shut, or tying it on"
+  "said": "tying the thing shut, or tying it on",
+  "th": "การผูกปม"
  },
  "region": [
   "world",
@@ -46,6 +47,9 @@
   "story": "Egypt made the knot a sign. The tyet, the knot of Isis, resembles a knot of cloth and may have begun as a bandage; an early example comes from a First Dynasty tomb at Helwan, excavated by Zaki Saad in the 1940s. Tyet amulets started going into burials in the early New Kingdom, from the reign of Amenhotep III, and from then to the end of dynastic Egypt few people were buried without one in the wrappings, usually on the upper torso. Chapter 156 of the Book of the Dead calls for a tyet of red jasper at the mummy's neck, saying the power of Isis will be the protection of the body and that the amulet will drive away whoever would commit a crime against it.\n\nIn the Balkans the knot is worn for a month and then untied by the calendar. A martenitsa is twisted from white and red yarn, usually as two small wool dolls, Pizho and Penda, and is put on at Baba Marta Day on 1 March. It comes off when the wearer first sees a stork, a swallow or a tree in blossom — then it is tied to the branch of a fruit tree, or put under a stone so that whichever creature is nearest it the next day reads the coming year: a worm or larva for health and success, an ant for success won by hard work, a spider for trouble. Photios' Lexicon records an older Greek version in which priests wrapped a red thread, kroke, around the right hand and foot; ethnographers who trace the custom back that far do so tentatively, and the tradition itself names Thracian, Hellenic or Roman origins without settling on one. The practice is inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity.\n\nJewish practice knots leather into letters. The head-tefillin strap's knot forms the letter dalet or a double dalet, the arm strap's knot forms a yud, and with the shin on the head box those three letters spell Shaddai, one of the names of God. A separate folk custom ties a thin scarlet wool thread round the wrist against the evil eye; there is no requirement for it in the Torah, in halakha or in kabbalistic texts, and the only public exhortation to wear one that the sources name is from the 1490s, when Rabbi Abraham Saba recommended it to Jews forbidden to wear tefillin, as a reminder of the commandment.\n\nJapan counted knots. A senninbari, a thousand-person-stitch belt, was decorated with a thousand knots or stitches, each normally made by a different woman; the custom began in the First Sino-Japanese War of 1894–95, when the earliest versions were handkerchief-sized squares knotted to strengthen the cloth, the implication being that the strength passed to the man carrying it.\n\n*Inference —* knots are the cheapest charm in this atlas and the most evenly distributed. That is worth saying plainly rather than reading as a single ancient custom travelling: thread is everywhere, tying is learned by every child, and a knot is the one amulet a person with nothing can make.",
   "how": "Twist, tie, or stitch. Martenitsi are twisted from red and white wool and pinned to clothing or tied at the wrist or neck. Brigid's crosses are woven from rushes or straw gathered the evening before. Senninbari stitches were solicited one at a time from women passing a temple, a train station or a department store, with a woman born in a Tiger year entitled by custom to sew twelve stitches or as many as her years; some belts were lined with women's hair, a practice the sources trace to folk belief on Okinawa, and coins were sewn in as well.",
   "today": "Martenitsi are worn every March in Bulgaria and North Macedonia and given, never bought for oneself, with modern versions adding coloured beads. Red wrist threads are sold by elderly women to pilgrims and tourists in the Old City of Jerusalem and were taken up in the late 1990s by celebrities with no connection to the custom, a spread often traced to Philip Berg's Kabbalah Centre. Tefillin knots are tied the same way every weekday morning."
+ },
+ "text_th": {
+  "what": "การผูก ในฐานะที่เป็นเครื่องรางทั้งหมด ปมไม่ต้องใช้ถ้อยคำ ไม่ต้องใช้โลหะ และไม่ต้องใช้เตาเผา — ไหมพรมสองสีฟั่นเข้าด้วยกัน สายหนังผูกเป็นรูปตัวอักษร ฝีเข็มหนึ่งพันฝีที่ดึงแน่นด้วยมือหนึ่งพันคนที่ต่างกัน ในกรณีที่ปมคือตัววัตถุ การผูกก็คือการทำ การบรรจุพลัง และบ่อยครั้งก็คือการมอบให้ ไปพร้อมกันในคราวเดียว"
  },
  "dating": {
   "period": "Early Dynastic Egypt to the present",
@@ -298,77 +302,99 @@
    "type": "motif",
    "name": "The knot",
    "as": "the sign this practice makes — and the rare case where making the sign and making the object are the same act",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ปม",
+   "as_th": ""
   },
   {
    "to": "tyet-knot",
    "type": "amulet",
    "name": "Tyet",
    "as": "the knot cut in stone: Egypt's version, tied by a carver rather than by hand",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ทิเยต (เครื่องรางปมอียิปต์)",
+   "as_th": ""
   },
   {
    "to": "martenitsa",
    "type": "amulet",
    "name": "Martenitsa",
    "as": "the knot with an expiry date — 1 March to the first stork, then tied to a fruit tree",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "มาร์เตนิตซา",
+   "as_th": ""
   },
   {
    "to": "red-string",
    "type": "amulet",
    "name": "Red string",
    "as": "the plainest form: scarlet wool at the wrist, and an argument about where it came from",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "to": "senninbari",
    "type": "amulet",
    "name": "Senninbari",
    "as": "a thousand knots from a thousand hands, solicited one at a time outside train stations",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เซ็นนินบาริ (ผ้าพันฝีเข็ม)",
+   "as_th": ""
   },
   {
    "to": "tefillin",
    "type": "amulet",
    "name": "Tefillin",
    "as": "leather knotted into letters — dalet and yud, spelling a name of God with the shin on the box",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เทฟิลลิน",
+   "as_th": ""
   },
   {
    "to": "brigids-cross",
    "type": "amulet",
    "name": "Brigid's cross",
    "as": "the woven version: rushes gathered on 31 January, tied the same night, hung the next morning",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กางเขนนักบุญบริจิด",
+   "as_th": ""
   },
   {
    "to": "thread",
    "type": "material",
    "name": "Thread and cord",
    "as": "the material that makes this the cheapest charm in the atlas",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ด้ายและเชือก",
+   "as_th": ""
   },
   {
    "to": "red-thread",
    "type": "motif",
    "name": "The red thread",
    "as": "the colour that runs with the knot from the Mediterranean to Mongolia",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "to": "counting-beads",
    "type": "practice",
    "name": "Counting beads",
    "as": "the same cord, knotted to count with instead of to bind — an Orthodox prayer rope carries 33, 50 or 100 knots",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "การนับลูกประคำ",
+   "as_th": ""
   },
   {
    "to": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "the practice a martenitsa belongs to: worn for a season, then taken off on a sign from a bird",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -635,91 +661,117 @@
    "type": "amulet",
    "name": "Brigid's cross",
    "as": "the making: rushes gathered on the eve, woven by the household after the meal, left out overnight",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "กางเขนนักบุญบริจิด",
+   "as_th": ""
   },
   {
    "from": "corn-dolly",
    "type": "amulet",
    "name": "Corn dolly",
    "as": "the making itself: the countryman's favour is three straws plaited and tied into a loose knot shaped like a heart",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ตุ๊กตาฟางข้าว (คอร์นดอลลี)",
+   "as_th": ""
   },
   {
    "from": "martenitsa",
    "type": "amulet",
    "name": "Martenitsa",
    "as": "the practice — twisting and tying is the whole making",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "มาร์เตนิตซา",
+   "as_th": ""
   },
   {
    "from": "phone-charm",
    "type": "amulet",
    "name": "Phone charm",
    "as": "the practice that attaches it — a lark's head through a drilled hole, which is the oldest technique in this record",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "สายห้อยมือถือ",
+   "as_th": ""
   },
   {
    "from": "red-string",
    "type": "amulet",
    "name": "Red string",
    "as": "the practice — the tying is what there is to do",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "from": "rowan-cross",
    "type": "amulet",
    "name": "Rowan cross",
    "as": "the practice that makes it — the red thread at the crossing is the whole operation",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "กางเขนไม้โรวัน",
+   "as_th": ""
   },
   {
    "from": "senninbari",
    "type": "amulet",
    "name": "Senninbari",
    "as": "the act that makes it: one knot, one woman, a thousand times",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เซ็นนินบาริ (ผ้าพันฝีเข็ม)",
+   "as_th": ""
   },
   {
    "from": "sungkhor",
    "type": "amulet",
    "name": "Sungkhor",
    "as": "the five-coloured cords that bind it shut, which are part of the amulet and not its wrapping",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ซุงคอร์ (วงล้อคุ้มครองทิเบต)",
+   "as_th": ""
   },
   {
    "from": "tyet-knot",
    "type": "amulet",
    "name": "Tyet",
    "as": "the practice the sign is a picture of, frozen in stone",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ทิเยต (เครื่องรางปมอียิปต์)",
+   "as_th": ""
   },
   {
    "from": "bakongo-nkisi-craft",
    "type": "tradition",
    "name": "Bakongo nkisi craft",
    "as": "the practice worked into the nganga's own clothing, knots being tied to closing up and sealing spiritual forces",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "งานสร้างนคิซีของชาวบาคองโก",
+   "as_th": ""
   },
   {
    "from": "knot",
    "type": "motif",
    "name": "The knot",
    "as": "the practice — the hands, the count, the moment it is tied",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ปม",
+   "as_th": ""
   },
   {
    "from": "thread",
    "type": "material",
    "name": "Thread and cord",
    "as": "the practice that makes it, and the reason the count is recorded",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ด้ายและเชือก",
+   "as_th": ""
   },
   {
    "from": "counting-beads",
    "type": "practice",
    "name": "Counting beads",
    "as": "the same cord with knots instead of beads: an Orthodox prayer rope carries 33, 50 or 100 of them",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "การนับลูกประคำ",
+   "as_th": "เชือกเส้นเดียวกันที่ใช้ปมแทนลูกปัด: เชือกสวดภาวนาของออร์โธดอกซ์มี 33, 50 หรือ 100 ปม"
   }
  ]
 }

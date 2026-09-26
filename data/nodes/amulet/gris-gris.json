@@ -5,7 +5,13 @@
  "names": {
   "name": "Gris-gris",
   "said": "GREE-gree",
-  "aliases": ["grigri", "gregory", "gerregery", "saffi"]
+  "aliases": [
+   "grigri",
+   "gregory",
+   "gerregery",
+   "saffi"
+  ],
+  "th": "กรีกรี (ถุงเครื่องรางแอฟริกาตะวันตก)"
  },
  "etymology": {
   "root": "From the Mande languages spoken by the Mandinka and Bambara peoples of West Africa, where it is taken to mean 'magic'.",
@@ -13,14 +19,38 @@
   "tier": "cited",
   "source": "s:wp-gris-gris-talisman"
  },
- "region": ["west-africa", "caribbean", "north-america", "diaspora"],
- "countries": ["ML", "SN", "GH", "HT", "US"],
- "facets": {"era": "living", "status": "living", "portable": "worn", "restricted": "limited", "hemisphere": ["N", "W", "E"]},
+ "region": [
+  "west-africa",
+  "caribbean",
+  "north-america",
+  "diaspora"
+ ],
+ "countries": [
+  "ML",
+  "SN",
+  "GH",
+  "HT",
+  "US"
+ ],
+ "facets": {
+  "era": "living",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "limited",
+  "hemisphere": [
+   "N",
+   "W",
+   "E"
+  ]
+ },
  "text": {
   "what": "A small cloth pouch, worn on the body, usually at the neck. Inside: verses of the Qur'an written on pieces of paper, herbs, and a set number of small objects. In West Africa the writing is the point — some charms were the written sheets themselves, carried by scholars without any bag at all.",
   "story": "Two lines run out of this object and they need keeping apart, because the sources that cover one do not cover the other.\n\nThe first line is West African and Muslim. The gris-gris originates in the Muslim Mande communities of far West Africa. Travellers through the Volta Basin, in what is now Ghana, reported Mande speakers such as the Dyula distributing Islamic charms they called gris-gris, and the practice spread to other Muslim peoples, among them the Dagomba, who wrote extensive Arabic manuscripts with magic formulae and prescriptions for preparing amulets. Among Mande Muslims the craft has a name and a course of study: Karamokobara, which divides into seli, prayer, and siri, path. Those who take seli become scholars of Qur'anic law, karamokos; those who take siri become scholars of the written talismans, marabouts. Some cross over. The tools of the siri side are spoken prayers, numerical squares called katemi, and written inscriptions from the Qur'an.\n\nThe second line is American, and the word changes on the way. Atlantic slavery carried the gris-gris to the Americas with enslaved Muslims, and it was kept up by practitioners of the traditions Wikipedia names \"Louisiana Voodoo\" and Haitian Vodou. In Haiti it held its original sense: an amulet with good intentions. In the United States it went the other way. It came to be thought of as something brought down on a victim; enslaved people used gris-gris against their owners, and gris-gris were found in burials. New Orleans court cases of 1773 convicted enslaved people of using gris-gris to kill those who held them, and those are among the earliest legal mentions of the tradition in Louisiana. Enslaved conjure women made gris-gris to start rebellions, and the bags were held to have guided people to freedom on the Underground Railroad and shielded them on the way. In October 1849 authorities arrested an enslaved man for carrying a human finger wrapped in flannel that he believed brought good luck; people in New Orleans sought human remains from tombs for this work, and gravesites were disturbed for it. In Cajun communities the term means black magic and ill fortune. Against that, Gris-Gris doctors have worked in the Louisiana Creole community for centuries and are looked on favourably by the Black community at large. Both of those are reported here and neither is settled here.\n\nIt is also, in West Africa now, an everyday object with a measured place in public health data. A 1982 survey found gris-gris among the top three methods of contraception known to women in Senegal — the three named were abstinence, roots and herbs, and charms. Over 60% of women reported knowing such traditional methods; the pill, the best known modern method, was known to a little over 40%. Gris-gris are worn across the whole of society, the source says, \"from wrestlers to soldiers to housewives, and can feature anything from monkey to snake to mouse\".",
   "how": "Written, then bagged. A marabout or another literate specialist writes Qur'anic verses, or a numerical square, on paper; the paper goes into a small cloth sack with herbs and a set number of small objects; the sack is worn, usually at the neck. In the American line the contents shift with what the conjurer has and what the job is, and the bag is kept on the body.",
   "today": "Living on both sides of the Atlantic, and not the same object on each. As of 2026 this project has read no figure for how many are made by marabouts and how many are sold over a counter."
+ },
+ "text_th": {
+  "what": "ถุงผ้าใบเล็กที่สวมติดตัว มักห้อยที่คอ ข้างในมีโองการจากอัลกุรอานที่เขียนบนกระดาษเป็นชิ้น ๆ สมุนไพร และวัตถุเล็ก ๆ ตามจำนวนที่กำหนดไว้ ในแอฟริกาตะวันตก การเขียนคือหัวใจของมัน — เครื่องรางบางชิ้นคือแผ่นกระดาษที่เขียนนั้นเอง ซึ่งนักปราชญ์พกติดตัวโดยไม่มีถุงเลย"
  },
  "restricted": {
   "note": "This record does not print a formula. The marabout's craft is a course of study in the siri division of Karamokobara, and the contents of a given charm are the specialist's; what is printed here is what the pouch is, who makes it and what carriers say it is for.",
@@ -41,8 +71,17 @@
  },
  "object": {
   "form": "bag",
-  "materials": ["cloth", "paper", "ink", "herb"],
-  "worn": ["neck", "pocket", "skin"],
+  "materials": [
+   "cloth",
+   "paper",
+   "ink",
+   "herb"
+  ],
+  "worn": [
+   "neck",
+   "pocket",
+   "skin"
+  ],
   "made_by": "a marabout in the West African line; a Gris-Gris doctor or a conjure woman in the Louisiana line",
   "inscription": "verses of the Qur'an, and the numerical squares called katemi",
   "script": "Arabic",
@@ -52,40 +91,142 @@
   "note": "The source says the pouch holds 'a ritual number of small objects' without saying what the number is, so count stays null."
  },
  "against": [
-  {"harm": "bad-luck", "who": "the source's summary of what wearers hold: the gris-gris protects the wearer from evil or brings luck", "source": "s:wp-gris-gris-talisman", "tier": "cited"},
-  {"harm": "infertility", "who": "women in Senegal, in a 1982 survey that found gris-gris among the top three contraception methods known — the source's phrase is 'a purported method of birth control'", "source": "s:wp-gris-gris-talisman", "tier": "cited", "note": "reported as a claim made by the surveyed women; this project tests nothing"},
-  {"harm": "illness", "who": "Mande Muslims, among whom the source says Islamic scholars' powers are held to be 'employed to prevent misfortune, cure illness, heal wounds, and forecast the future'", "source": "s:wp-gris-gris-talisman", "tier": "cited"},
-  {"harm": "curse", "who": "nineteenth-century Louisiana, where the word meant both the amulet and the act of bewitching, and where gris-gris were used against enslavers", "source": "s:wp-gris-gris-talisman", "tier": "cited", "note": "this is the one line in which the object is named as a source of harm as well as a guard against it"},
-  {"harm": "war", "who": "the source's account of contemporary wear in West Africa: 'from wrestlers to soldiers to housewives'", "source": "s:wp-gris-gris-talisman", "tier": "cited"}
+  {
+   "harm": "bad-luck",
+   "who": "the source's summary of what wearers hold: the gris-gris protects the wearer from evil or brings luck",
+   "source": "s:wp-gris-gris-talisman",
+   "tier": "cited"
+  },
+  {
+   "harm": "infertility",
+   "who": "women in Senegal, in a 1982 survey that found gris-gris among the top three contraception methods known — the source's phrase is 'a purported method of birth control'",
+   "source": "s:wp-gris-gris-talisman",
+   "tier": "cited",
+   "note": "reported as a claim made by the surveyed women; this project tests nothing"
+  },
+  {
+   "harm": "illness",
+   "who": "Mande Muslims, among whom the source says Islamic scholars' powers are held to be 'employed to prevent misfortune, cure illness, heal wounds, and forecast the future'",
+   "source": "s:wp-gris-gris-talisman",
+   "tier": "cited"
+  },
+  {
+   "harm": "curse",
+   "who": "nineteenth-century Louisiana, where the word meant both the amulet and the act of bewitching, and where gris-gris were used against enslavers",
+   "source": "s:wp-gris-gris-talisman",
+   "tier": "cited",
+   "note": "this is the one line in which the object is named as a source of harm as well as a guard against it"
+  },
+  {
+   "harm": "war",
+   "who": "the source's account of contemporary wear in West Africa: 'from wrestlers to soldiers to housewives'",
+   "source": "s:wp-gris-gris-talisman",
+   "tier": "cited"
+  }
  ],
  "kin": [
-  {"to": "gris-gris-word", "as": "the word itself, and the argument about what it means on which side of the Atlantic", "rel": "same-word"},
-  {"to": "west-african-charm-craft", "as": "the tradition the West African line belongs to, alongside the Fon bǒ that Francophone Beninese also call by this name", "rel": "tradition"},
-  {"to": "islamic-talismanic", "as": "the other tradition it belongs to — the writing inside it is Qur'anic, and the maker is a marabout", "rel": "tradition"},
-  {"to": "taweez", "as": "the same object in South Asia: a written verse folded into a case and worn", "rel": "parallel"},
-  {"to": "hirz-pouch", "as": "the Arabian version — the same Qur'anic verses, but in a silver case rather than a cloth sack", "rel": "parallel"},
-  {"to": "nkisi", "as": "the Central African container it is repeatedly compared with, and the one the American mojo bag descends from instead", "rel": "contrast"},
-  {"to": "mojo-word", "as": "the American word for the neighbouring bag, from Kikongo mooyo — a different ancestry in the same city", "rel": "term"},
-  {"to": "vodou-not-voodoo", "as": "the spelling argument this object sits inside, because the word for the tradition changed with the Atlantic crossing too", "rel": "term"},
-  {"to": "paper", "as": "the material that carries the verse, and the part that does the work", "rel": "material"},
-  {"to": "sewing-in", "as": "the practice of closing a charm into cloth so nobody can read it", "rel": "practice"},
-  {"to": "akodessewa-market", "as": "the Lomé market where West African charm materials are traded in the open", "rel": "place"}
+  {
+   "to": "gris-gris-word",
+   "as": "the word itself, and the argument about what it means on which side of the Atlantic",
+   "rel": "same-word"
+  },
+  {
+   "to": "west-african-charm-craft",
+   "as": "the tradition the West African line belongs to, alongside the Fon bǒ that Francophone Beninese also call by this name",
+   "rel": "tradition"
+  },
+  {
+   "to": "islamic-talismanic",
+   "as": "the other tradition it belongs to — the writing inside it is Qur'anic, and the maker is a marabout",
+   "rel": "tradition"
+  },
+  {
+   "to": "taweez",
+   "as": "the same object in South Asia: a written verse folded into a case and worn",
+   "rel": "parallel"
+  },
+  {
+   "to": "hirz-pouch",
+   "as": "the Arabian version — the same Qur'anic verses, but in a silver case rather than a cloth sack",
+   "rel": "parallel"
+  },
+  {
+   "to": "nkisi",
+   "as": "the Central African container it is repeatedly compared with, and the one the American mojo bag descends from instead",
+   "rel": "contrast"
+  },
+  {
+   "to": "mojo-word",
+   "as": "the American word for the neighbouring bag, from Kikongo mooyo — a different ancestry in the same city",
+   "rel": "term"
+  },
+  {
+   "to": "vodou-not-voodoo",
+   "as": "the spelling argument this object sits inside, because the word for the tradition changed with the Atlantic crossing too",
+   "rel": "term"
+  },
+  {
+   "to": "paper",
+   "as": "the material that carries the verse, and the part that does the work",
+   "rel": "material"
+  },
+  {
+   "to": "sewing-in",
+   "as": "the practice of closing a charm into cloth so nobody can read it",
+   "rel": "practice"
+  },
+  {
+   "to": "akodessewa-market",
+   "as": "the Lomé market where West African charm materials are traded in the open",
+   "rel": "place"
+  }
  ],
  "confusable_with": [
-  {"id": "taweez", "tell": "both are a written Qur'anic verse in a carrier; the taweez is usually a metal or leather case in South Asia, the gris-gris a cloth sack in West Africa and Louisiana"},
-  {"id": "nkisi", "tell": "the ancestry is different: a gris-gris comes from Mande Muslim practice and holds writing, an nkisi comes from Kongo practice and holds bilongo"}
+  {
+   "id": "taweez",
+   "tell": "both are a written Qur'anic verse in a carrier; the taweez is usually a metal or leather case in South Asia, the gris-gris a cloth sack in West Africa and Louisiana"
+  },
+  {
+   "id": "nkisi",
+   "tell": "the ancestry is different: a gris-gris comes from Mande Muslim practice and holds writing, an nkisi comes from Kongo practice and holds bilongo"
+  }
  ],
- "links": [{"label": "Gris-gris (talisman) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Gris-gris_(talisman)"}],
- "sources": ["s:wp-gris-gris-talisman", "s:wp-mojo-bag", "s:wp-haitian-vodou", "s:wp-west-african-vod-n", "s:wp-islam-and-magic", "s:wp-juju", "s:wp-talisman"],
+ "links": [
+  {
+   "label": "Gris-gris (talisman) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gris-gris_(talisman)"
+  }
+ ],
+ "sources": [
+  "s:wp-gris-gris-talisman",
+  "s:wp-mojo-bag",
+  "s:wp-haitian-vodou",
+  "s:wp-west-african-vod-n",
+  "s:wp-islam-and-magic",
+  "s:wp-juju",
+  "s:wp-talisman"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-gris-gris-talisman"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-gris-gris-talisman"
+  },
   "fields": {
-   "dating": {"tier": "inference", "source": "s:wp-gris-gris-talisman", "note": "the source dates no origin; the years record documentation, and the note says so"},
-   "text.today": {"tier": "inference", "note": "the living state is reasoned from the 1982 Senegal survey and the source's present-tense account of contemporary wear"}
+   "dating": {
+    "tier": "inference",
+    "source": "s:wp-gris-gris-talisman",
+    "note": "the source dates no origin; the years record documentation, and the note says so"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "the living state is reasoned from the 1982 Senegal survey and the source's present-tense account of contemporary wear"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Gris-gris bag.jpg"],
+ "x_commons_files": [
+  "File:Gris-gris bag.jpg"
+ ],
  "confidence": "medium",
  "needs_verification": true,
  "updated": "2026-09-16"

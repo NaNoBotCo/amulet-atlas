@@ -4,15 +4,29 @@
  "type": "person",
  "names": {
   "name": "Alan Dundes",
-  "sort": "Dundes, Alan"
+  "sort": "Dundes, Alan",
+  "th": "อลัน ดันดีส"
  },
- "region": ["north-america", "world"],
- "countries": ["US"],
- "facets": {"role": ["scholar", "writer"]},
+ "region": [
+  "north-america",
+  "world"
+ ],
+ "countries": [
+  "US"
+ ],
+ "facets": {
+  "role": [
+   "scholar",
+   "writer"
+  ]
+ },
  "text": {
   "what": "American folklorist, 1934–2005, who taught at the University of California, Berkeley for forty-two years. For this atlas he matters for one book: \"The Evil Eye: A Casebook\", University of Wisconsin Press, 1992, which he edited — a gathering of the arguments about the eye rather than a single account of it. He also gave the field the working definition of 'folk' that lets a charm carried by an office or a football team count as folklore at all.",
   "story": "Dundes studied English at Yale, spent two years maintaining artillery on a ship in the Mediterranean, then took a folklore doctorate at Indiana under Richard Dorson. Berkeley hired him into anthropology in 1963 and he stayed until he collapsed while teaching a graduate seminar on 30 March 2005.\n\nHis definition is the part that reaches into these records. Dundes wrote in 1969 that any group of people sharing a common linking factor, an urban group such as a labor union for instance, can and does have folklore, and that 'folk' is a flexible concept which can refer to a nation or to a single family. The critical issue, he said, is which groups in fact have traditions. *Inference —* that is the sentence that lets a challenge coin, a phone charm and an exam charm sit in the same atlas as a Middle Kingdom scarab without special pleading.\n\nHe insisted that collecting without theory is wasted work, and said so to his own field at the American Folklore Society in 2004. His students in the introductory course each had to collect, identify and analyse forty items; about 500,000 items are housed in the Berkeley Folklore Archives as a result.\n\nHe was also the most publicly argued-with folklorist of his generation. His 1980 presidential address on German culture, published as \"Life is Like a Chicken Coop Ladder\", drew a reaction strong enough that he stayed away from the society's annual conference for years, and the linguist Anatol Stefanowitsch in 2012 called it \"unstructured, poorly argued and flimsily sourced\" and \"methodologically flawed because he only looked for evidence supporting his theory, and not — as even a folklorist should — for evidence against his theory\". His psychoanalytic essay on American football earned him death threats. This atlas reports the quarrel and does not take a side in it.",
   "today": "The casebooks he edited are still the fastest way into a contested subject — the evil eye in 1992, the walled-up wife in 1996, the blood libel legend in 1991 — because each prints the opposing readings side by side instead of choosing. A donation from an anonymous former student endowed a Distinguished Professorship of Folkloristics at Berkeley, which is why the subject survived his retirement."
+ },
+ "text_th": {
+  "what": "นักคติชนวิทยาชาวอเมริกัน (ค.ศ. 1934–2005) สอนที่มหาวิทยาลัยแคลิฟอร์เนีย เบิร์กลีย์ เป็นเวลาสี่สิบสองปี สำหรับแอตลาสนี้ เขาสำคัญเพราะหนังสือเล่มเดียว: \"ตาร้าย: รวมกรณีศึกษา\" (The Evil Eye: A Casebook) สำนักพิมพ์มหาวิทยาลัยวิสคอนซิน ค.ศ. 1992 ซึ่งเขาเป็นบรรณาธิการ — เป็นการรวบรวมข้อถกเถียงเรื่องตาร้าย มากกว่าจะเป็นคำอธิบายแบบเดียว เขายังให้นิยามใช้งานของคำว่า \"ชาวบ้าน\" (folk) แก่สาขาวิชา ซึ่งทำให้เครื่องรางที่สำนักงานหรือทีมฟุตบอลพกไว้นับเป็นคติชนได้ด้วย"
  },
  "dating": {
   "period": "Twentieth century",
@@ -25,21 +39,57 @@
   "source": "s:wp-alan-dundes"
  },
  "kin": [
-  {"to": "eye", "as": "the sign his 1992 casebook assembled the arguments about, from a dozen scholars at once", "rel": "motif"},
-  {"to": "nazar", "as": "one subject of that casebook — the Mediterranean bead, argued over by the writers he collected", "rel": "kin"},
-  {"to": "challenge-coin", "as": "an object his definition of 'folk' makes legible: a group with a tradition, not a survival from anywhere", "rel": "kin"},
-  {"to": "luck-word", "as": "the word whose folk use he treated as data rather than as error", "rel": "term"},
-  {"to": "the-eye-everywhere", "as": "the long read; his casebook is the single best map of who disagrees with whom about this sign", "rel": "story"},
-  {"to": "frederick-elworthy", "as": "the Victorian whose eye material his casebook inherited, read through a century of argument", "rel": "contrast"}
+  {
+   "to": "eye",
+   "as": "the sign his 1992 casebook assembled the arguments about, from a dozen scholars at once",
+   "rel": "motif"
+  },
+  {
+   "to": "nazar",
+   "as": "one subject of that casebook — the Mediterranean bead, argued over by the writers he collected",
+   "rel": "kin"
+  },
+  {
+   "to": "challenge-coin",
+   "as": "an object his definition of 'folk' makes legible: a group with a tradition, not a survival from anywhere",
+   "rel": "kin"
+  },
+  {
+   "to": "luck-word",
+   "as": "the word whose folk use he treated as data rather than as error",
+   "rel": "term"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "as": "the long read; his casebook is the single best map of who disagrees with whom about this sign",
+   "rel": "story"
+  },
+  {
+   "to": "frederick-elworthy",
+   "as": "the Victorian whose eye material his casebook inherited, read through a century of argument",
+   "rel": "contrast"
+  }
  ],
  "links": [
-  {"label": "Alan Dundes — Wikipedia", "url": "https://en.wikipedia.org/wiki/Alan_Dundes"}
+  {
+   "label": "Alan Dundes — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alan_Dundes"
+  }
  ],
- "sources": ["s:wp-alan-dundes", "s:wp-evil-eye"],
+ "sources": [
+  "s:wp-alan-dundes",
+  "s:wp-evil-eye"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-alan-dundes"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-alan-dundes"
+  },
   "fields": {
-   "text.today": {"tier": "inference", "note": "the usefulness of the casebook format is this project's reading of it"}
+   "text.today": {
+    "tier": "inference",
+    "note": "the usefulness of the casebook format is this project's reading of it"
+   }
   }
  },
  "images": [],

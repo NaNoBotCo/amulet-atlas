@@ -4,25 +4,104 @@
  "type": "motif",
  "names": {
   "name": "The word that reads both ways",
-  "aliases": ["ABRACADABRA", "abracadabra triangle", "Sator Square", "Rotas-Sator Square", "Templar Magic Square"]
+  "aliases": [
+   "ABRACADABRA",
+   "abracadabra triangle",
+   "Sator Square",
+   "Rotas-Sator Square",
+   "Templar Magic Square"
+  ],
+  "th": "คำที่อ่านได้สองทาง"
  },
- "region": ["rome-italy", "levant", "maghreb", "britain-ireland", "western-europe", "nordic", "north-america", "brazil"],
- "countries": ["IT", "SY", "EG", "GB", "FR", "DE", "PT", "HU", "SE", "IS", "US", "BR", "BA", "RS"],
- "facets": {"era": "classical", "family": "script", "hemisphere": ["N", "S", "E", "W"]},
+ "region": [
+  "rome-italy",
+  "levant",
+  "maghreb",
+  "britain-ireland",
+  "western-europe",
+  "nordic",
+  "north-america",
+  "brazil"
+ ],
+ "countries": [
+  "IT",
+  "SY",
+  "EG",
+  "GB",
+  "FR",
+  "DE",
+  "PT",
+  "HU",
+  "SE",
+  "IS",
+  "US",
+  "BR",
+  "BA",
+  "RS"
+ ],
+ "facets": {
+  "era": "classical",
+  "family": "script",
+  "hemisphere": [
+   "N",
+   "S",
+   "E",
+   "W"
+  ]
+ },
  "text": {
   "what": "Writing arranged so its shape is part of the instruction. Two forms carry most of it. ABRACADABRA is written as a triangle, a letter dropped from each line, worn on parchment at the neck. The Sator square is a 5×5 grid of five five-letter Latin words — SATOR AREPO TENET OPERA ROTAS — using eight letters, that reads the same across, down, backwards and upwards.",
   "story": "ABRACADABRA is first attested in the second century CE, in the Liber Medicinalis of Serenus Sammonicus, physician to the emperor Caracalla. In chapter 52 he prescribes that sufferers from malaria wear an amulet with the word written in the form of a triangle; he claimed the amulet makes lethal diseases go away. The origin of the word is unknown. Conjectures point to an Aramaic phrase meaning 'I create like the word', to abraxas, or to the first four letters of the Greek alphabet, and the Oxford English Dictionary says no documentation has been found to support any of them. The historian Don Skemer suggests the Hebrew ha brachah dabarah. The Aramaic linguist Steve Caruso argues it cannot be Aramaic at all, and traces the popular Aramaic etymology to a long thread on an early internet message board.\n\nThe Gnostics of the sect of Basilides used it as a formula to call beneficent spirits against disease and misfortune, and it is found on Abraxas stones worn as amulets. Its use spread past them. A sick person wore the triangle on parchment at the neck, and the explanation recorded is that written that way it worked like a funnel, driving the sickness out of the body. A sixteenth-century Jewish codex from Italy, Ets ha-Da'at, gives it as an amulet and describes it as a cure from heavens for all sorts of fevers, for consumption and for fire. Not everyone agreed: the Puritan minister Increase Mather dismissed the word as having no power in it, and Daniel Defoe wrote dismissively about Londoners who posted it on their doorways during the Great Plague. Today it is mostly a stage-magic word.\n\nThe Sator square has harder dates and no agreed meaning. The oldest known one was found in November 1936, in ROTAS form, etched on column LXI of the Palestra Grande near the amphitheatre at Pompeii; graffiti on those columns predates the earthquake of AD 62. A second at the house of Publius Paquius Proculus, found in October 1925, dates between AD 50 and AD 79. Four were found at Dura-Europos in Syria in 1931–32, on the walls of military buildings, dated about AD 200. One was scratched on plaster at Cirencester in Roman Britain, found 1868; one on a roof tile at Aquincum near Budapest, found 1954; one on Roman pottery at Manchester, about AD 185; one on an unfired brick at Conímbriga in Portugal, second century. The earliest square with explicit Christian imagery is a sixth-century bronze amulet from Asia Minor with two fish facing one another on one side and the square in Greek characters on the other, the word ICHTHUS written above it, now in the Berlin State Museums. After more than a century of research there is no consensus on where the square came from or what it means.\n\nWhat it was used for is much better documented than what it says. In medieval Germany the square was inscribed on disks thrown into fires to put them out; an edict of 1743 by Duke Ernest Auguste of Saxe-Weimar-Eisenach required every settlement to make them. By the fifteenth century it was a touchstone against fire at the Château de Chinon and the Château de Jarnac. It appears as a remedy during labour in the twelfth-century Trotula, where the instruction is to write the names on cheese and butter and give them to the woman to eat, and a thirteenth-century parchment from Aurillac gives a Sator chant for women in childbirth. It was widely cited against dog bites and rabies, the cure administered by eating bread inscribed with the words. Jean du Choul in 1555 describes a man from Lyon who recovered from insanity after eating three crusts of bread inscribed with the square, then reciting five paternosters for the five wounds of Christ. In Bosnia it was used against fear of water; in Iceland it was etched into the fingernails against jaundice. In nineteenth-century Brazil it was used against dog and snake bites; among German settlers in the Allegheny Mountains it was used to prevent fire, stop fits and prevent miscarriages. It appears in eighteenth-century Pennsylvania Dutch Pow-wow books such as The Long Lost Friend.\n\n*Inference —* both forms share a property their users describe out loud: the writing is doing something by its shape, not by its sense. The triangle funnels; the square holds whichever way you read it. Neither needs to be understood by the person wearing it, and in the Sator's case nobody understands it yet."
  },
+ "text_th": {
+  "what": "ตัวอักษรที่จัดเรียงให้รูปร่างของมันเป็นส่วนหนึ่งของคำสั่ง มีสองรูปแบบที่เป็นหลัก อาบราคาดาบรา (ABRACADABRA) เขียนเป็นรูปสามเหลี่ยม โดยตัดตัวอักษรออกหนึ่งตัวในแต่ละบรรทัด เขียนบนแผ่นหนังแล้วห้อยคอ ตารางซาทอร์ (Sator square) เป็นตาราง 5×5 ของคำละตินห้าคำ คำละห้าตัวอักษร — SATOR AREPO TENET OPERA ROTAS — ใช้ตัวอักษรแปดตัว และอ่านได้เหมือนกันทั้งแนวนอน แนวตั้ง ย้อนกลับ และจากล่างขึ้นบน"
+ },
  "kin": [
-  {"to": "abracadabra", "as": "the word itself, with its own etymology file and its own arguments", "rel": "term"},
-  {"to": "magic-square", "as": "the other square on a charm — numbers instead of letters, and a different history entirely", "rel": "parallel"},
-  {"to": "magical-gem", "as": "Abraxas stones carry the word, and are the earliest objects it is found on", "rel": "carried-by"},
-  {"to": "fish", "as": "the sixth-century Sator amulet has two fish on its other face and ICHTHUS written above the square", "rel": "kin"},
-  {"to": "divine-name", "as": "the neighbouring practice: writing that works because of whose name it is, rather than because of its shape", "rel": "contrast"},
-  {"to": "parchment", "as": "what the triangle was written on and worn at the neck", "rel": "material"},
-  {"to": "inscribing", "as": "the practice — in several of these cures the writing is eaten, which is as far as inscribing goes", "rel": "practice"},
-  {"to": "washing-off-ink", "as": "the related practice of taking the writing into the body, here by eating bread and cheese instead of drinking ink", "rel": "parallel"},
-  {"to": "european-folk-apotropaic", "as": "the tradition that carried the Sator square from a Pompeian gymnasium wall to a Pennsylvania farmhouse", "rel": "tradition"}
+  {
+   "to": "abracadabra",
+   "as": "the word itself, with its own etymology file and its own arguments",
+   "rel": "term"
+  },
+  {
+   "to": "magic-square",
+   "as": "the other square on a charm — numbers instead of letters, and a different history entirely",
+   "rel": "parallel"
+  },
+  {
+   "to": "magical-gem",
+   "as": "Abraxas stones carry the word, and are the earliest objects it is found on",
+   "rel": "carried-by"
+  },
+  {
+   "to": "fish",
+   "as": "the sixth-century Sator amulet has two fish on its other face and ICHTHUS written above the square",
+   "rel": "kin"
+  },
+  {
+   "to": "divine-name",
+   "as": "the neighbouring practice: writing that works because of whose name it is, rather than because of its shape",
+   "rel": "contrast"
+  },
+  {
+   "to": "parchment",
+   "as": "what the triangle was written on and worn at the neck",
+   "rel": "material"
+  },
+  {
+   "to": "inscribing",
+   "as": "the practice — in several of these cures the writing is eaten, which is as far as inscribing goes",
+   "rel": "practice"
+  },
+  {
+   "to": "washing-off-ink",
+   "as": "the related practice of taking the writing into the body, here by eating bread and cheese instead of drinking ink",
+   "rel": "parallel"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the tradition that carried the Sator square from a Pompeian gymnasium wall to a Pennsylvania farmhouse",
+   "rel": "tradition"
+  }
  ],
  "dating": {
   "period": "Roman to the 19th century, and surviving as a stage word",
@@ -38,8 +117,19 @@
  },
  "object": {
   "form": "scroll",
-  "materials": ["parchment", "paper", "copper", "wood", "stone"],
-  "worn": ["neck", "wall", "door", "swallowed"],
+  "materials": [
+   "parchment",
+   "paper",
+   "copper",
+   "wood",
+   "stone"
+  ],
+  "worn": [
+   "neck",
+   "wall",
+   "door",
+   "swallowed"
+  ],
   "inscription": "SATOR AREPO TENET OPERA ROTAS, or ABRACADABRA written as a triangle losing a letter per line",
   "script": "Latin, and Greek characters on the sixth-century Asia Minor amulet",
   "count": 25,
@@ -47,30 +137,89 @@
   "note": "count is the 25 characters of the Sator square's 5×5 grid, which uses eight different letters."
  },
  "against": [
-  {"harm": "fever", "who": "Serenus Sammonicus, who prescribed the triangle amulet to malaria sufferers and claimed it makes lethal diseases go away", "source": "s:wp-abracadabra", "tier": "cited"},
-  {"harm": "illness", "who": "the 16th-century Italian Jewish codex Ets ha-Da'at, which calls it a cure from heavens for all sorts of fevers, consumption and fire", "source": "s:wp-abracadabra", "tier": "cited"},
-  {"harm": "fire", "who": "medieval German practice: disks bearing the square thrown into fires, required of every settlement by a 1743 edict of Duke Ernest Auguste of Saxe-Weimar-Eisenach", "source": "s:wp-sator-square", "tier": "cited"},
-  {"harm": "childbirth", "who": "the 12th-century Trotula, which has the words written on cheese and butter and eaten, and a 13th-century Aurillac parchment giving a chant for women in labour", "source": "s:wp-sator-square", "tier": "cited"},
-  {"harm": "animal-attack", "who": "medieval European practice against dog bites and rabies, the cure eaten on inscribed bread; and 19th-century Brazil, against dog and snake bites", "source": "s:wp-sator-square", "tier": "cited"},
-  {"harm": "witchcraft", "who": "medieval charms built on the square, used to ward off evil spells and to test whether somebody was a witch", "source": "s:wp-sator-square", "tier": "cited"}
+  {
+   "harm": "fever",
+   "who": "Serenus Sammonicus, who prescribed the triangle amulet to malaria sufferers and claimed it makes lethal diseases go away",
+   "source": "s:wp-abracadabra",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the 16th-century Italian Jewish codex Ets ha-Da'at, which calls it a cure from heavens for all sorts of fevers, consumption and fire",
+   "source": "s:wp-abracadabra",
+   "tier": "cited"
+  },
+  {
+   "harm": "fire",
+   "who": "medieval German practice: disks bearing the square thrown into fires, required of every settlement by a 1743 edict of Duke Ernest Auguste of Saxe-Weimar-Eisenach",
+   "source": "s:wp-sator-square",
+   "tier": "cited"
+  },
+  {
+   "harm": "childbirth",
+   "who": "the 12th-century Trotula, which has the words written on cheese and butter and eaten, and a 13th-century Aurillac parchment giving a chant for women in labour",
+   "source": "s:wp-sator-square",
+   "tier": "cited"
+  },
+  {
+   "harm": "animal-attack",
+   "who": "medieval European practice against dog bites and rabies, the cure eaten on inscribed bread; and 19th-century Brazil, against dog and snake bites",
+   "source": "s:wp-sator-square",
+   "tier": "cited"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "medieval charms built on the square, used to ward off evil spells and to test whether somebody was a witch",
+   "source": "s:wp-sator-square",
+   "tier": "cited"
+  }
  ],
  "holdings": [
-  {"museum": "other", "what": "Berlin State Museums: a 6th-century bronze amulet from Asia Minor with the Sator square in Greek characters and two fish on the reverse, and a 4th–5th-century Coptic papyrus with the square in ROTAS form", "source": "s:wp-sator-square"}
+  {
+   "museum": "other",
+   "what": "Berlin State Museums: a 6th-century bronze amulet from Asia Minor with the Sator square in Greek characters and two fish on the reverse, and a 4th–5th-century Coptic papyrus with the square in ROTAS form",
+   "source": "s:wp-sator-square"
+  }
  ],
  "links": [
-  {"label": "Sator Square — Wikipedia", "url": "https://en.wikipedia.org/wiki/Sator_Square"},
-  {"label": "Abracadabra — Wikipedia", "url": "https://en.wikipedia.org/wiki/Abracadabra"}
+  {
+   "label": "Sator Square — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sator_Square"
+  },
+  {
+   "label": "Abracadabra — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Abracadabra"
+  }
  ],
- "sources": ["s:wp-sator-square", "s:wp-abracadabra", "s:wp-abraxas", "s:wp-amulet"],
+ "sources": [
+  "s:wp-sator-square",
+  "s:wp-abracadabra",
+  "s:wp-abraxas",
+  "s:wp-amulet"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-sator-square"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-sator-square"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:wp-sator-square", "note": "attestations and findspots are cited to the article; the closing paragraph is this project's reading and is marked inference"},
-   "holdings": {"tier": "cited", "source": "s:wp-sator-square", "note": "no accession numbers are given because none were read off a catalogue page"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-sator-square",
+    "note": "attestations and findspots are cited to the article; the closing paragraph is this project's reading and is marked inference"
+   },
+   "holdings": {
+    "tier": "cited",
+    "source": "s:wp-sator-square",
+    "note": "no accession numbers are given because none were read off a catalogue page"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Sator Square at Oppède.jpg", "File:Abracadabra triangle.svg"],
+ "x_commons_files": [
+  "File:Sator Square at Oppède.jpg",
+  "File:Abracadabra triangle.svg"
+ ],
  "confidence": "high",
  "updated": "2026-09-16"
 }

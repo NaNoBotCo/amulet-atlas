@@ -16,7 +16,8 @@
    "gayuma",
    "mutya",
    "orasyon"
-  ]
+  ],
+  "th": "อันติง-อันติง (เครื่องรางฟิลิปปินส์)"
  },
  "etymology": {
   "root": "Tagalog anting-anting, from Javanese anting-anting, 'ear-hanging ornament'; the wider family includes Indonesian and Malay gantung, 'hanging'. Agimat is the other Filipino word for the same thing, with virtud (virtue) and galing (prowess) as general terms",
@@ -45,6 +46,9 @@
   "story": "The Philippine occult tradition matches an agimat to a department of life. The commonest kinds remove hexes and drive out spirits. A gayuma is the love charm, which makes its owner more attractive. Most of the amulets carry Latin inscriptions, and most of the dealers set up near a church — in the courtyard or in the market beside it — of which the Quiapo district in Manila is the example everyone names.\n\nThe written record starts with the colonisers. The earliest reports of anting-anting come from Spanish priests in the early colonial period, which in the Philippines begins with Miguel López de Legazpi's settlement of 1565. Trinidad Pardo de Tavera defined the thing in Spanish: amuleto que salva la vida, da poder sobre natural — an amulet of supernatural power that saves lives. As Christianity took hold, the anting-anting took on the new religion's forms, and later took in the esoteric symbols of Freemasonry as well. An Islamic version exists in the southern Muslim islands.\n\nThe charm has a political history, which is unusual in this atlas. Filipino fighters wore anting-anting against the Spanish and then against the Americans. Macario Sakay wore a vest carrying religious images and Latin phrases, to stop bullets. Ferdinand Marcos claimed that Gregorio Aglipay had given him an anting-anting — a sliver of wood inserted into his back before the Bataan campaign in 1942 — that could make him invisible. Whose claim that was, and what it was for, is left standing here as his.\n\nThe subtypes are named by what they do. Kabal, also kunat, makes the skin proof against cuts and sword slashes. Pamako nails an entity in place so it cannot move. Tagabulag turns the wearer invisible to an enemy, or blinds them. Tagaliwas turns a bullet aside.\n\nFilipino cinema took all of it and went further: on screen the wearer gains strength, invisibility, healing, flight, telekinesis, the power to stop a bullet in the air. Ramon Revilla Sr., playing Nardong Putik, carried one that made him invulnerable. The 1939 film The Real Glory shows Moro characters saying theirs will stop bullets and knives. Screen and street are not the same object and this record keeps them apart.",
   "how": "Cast or cut, then charged by reading: the orasyon that comes with the amulet has to be recited on Good Friday, or on another appointed date, for the piece to reach full power. Other routes to getting one are described and are not gentle — taking the liquid drained from an exhumed body, or setting out food and drink for the spirits in a cemetery at midnight on Holy Wednesday or Holy Thursday. A mutya is swallowed. Bought at a stall by a church, most often.",
   "today": "Still sold from stalls around Quiapo Church in Manila and at markets beside other churches, as of the accounts this project has read. Quiapo is a major Catholic shrine, which is the point: the trade stands in the churchyard rather than away from it."
+ },
+ "text_th": {
+  "what": "ส่วนใหญ่เป็นจี้แบนห้อยสร้อยคอ ทรงกลม สามเหลี่ยม หรือรูปกางเขน ทำจากโลหะสีทอง หน้าจี้อัดแน่นด้วยรูปบุคคลและคำภาษาละติน แต่ของประเภทนี้กว้างกว่าจี้ อันติง-อันติงอาจเป็นหินที่ว่ากันว่าตกลงมาจากฟ้า หรือเขี้ยวฟุลกูไรต์ (fulgurite) ที่ฟ้าผ่าทิ้งไว้ เรียกว่า ปางิล นัง กิดลัต (pangil ng kidlat) หรือเป็นมุตยา (mutya) คือหยดน้ำที่เก็บจากใจกลางต้นกล้วยตอนเที่ยงคืน ซึ่งกลืนลงไปแทนการสวม อาจเป็นเสื้อผ้าที่มีคำเขียนไว้ก็ได้ มักมาพร้อมหนังสือคาถาเล่มเล็ก เรียกว่า โอราซยอน (orasyon) ซึ่งต้องอ่านในวันศุกร์ประเสริฐหรือวันอื่นที่กำหนดไว้ ของนั้นจึงจะมีกำลังเต็มที่"
  },
  "dating": {
   "period": "Spanish colonial period to the present",
@@ -222,63 +226,81 @@
    "type": "place",
    "name": "Quiapo Church",
    "as": "the Manila church whose courtyard and surrounding market are where these are bought",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "โบสถ์กีอาโป",
+   "as_th": ""
   },
   {
    "to": "jimat",
    "type": "amulet",
    "name": "Jimat",
    "as": "the Malay and Indonesian class the word comes from — Javanese anting-anting, the ear-hung ornament",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "จิมัต (เครื่องรางมลายู)",
+   "as_th": ""
   },
   {
    "to": "keris-pusaka",
    "type": "amulet",
    "name": "Keris pusaka",
    "as": "the other charm of the islands carried into a fight, and still forged in the Muslim-inhabited south of the Philippines",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กริชปูซากา (กริชมรดก)",
+   "as_th": ""
   },
   {
    "to": "st-christopher-medal",
    "type": "amulet",
    "name": "St Christopher medal",
    "as": "the Catholic medal this most resembles on a tray, and does not behave like: an anting-anting takes its charge from an orasyon read on Good Friday",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เหรียญนักบุญคริสโตเฟอร์",
+   "as_th": ""
   },
   {
    "to": "talismanic-shirt",
    "type": "amulet",
    "name": "Talismanic shirt",
    "as": "Sakay's vest belongs with these — a written garment worn against shot",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เสื้อยันต์",
+   "as_th": ""
   },
   {
    "to": "latin-american-folk-catholic",
    "type": "tradition",
    "name": "Latin American folk Catholic charm practice",
    "as": "the nearest tradition in this atlas: church forms taken up and worked by people outside the clergy, in another Spanish colony",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ธรรมเนียมเครื่องรางคาทอลิกพื้นบ้านละตินอเมริกา",
+   "as_th": ""
   },
   {
    "to": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "the sign on most of them — Latin words and holy names carried as the working part",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "พระนาม",
+   "as_th": ""
   },
   {
    "to": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "how one is got: from a stall in a churchyard, with the book of incantations thrown in",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": ""
   },
   {
    "to": "washing-off-ink",
    "type": "practice",
    "name": "Washing off the ink",
    "as": "the nearest practice in this atlas to swallowing a mutya — a charm taken into the body rather than hung on it",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "การล้างหมึก",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -478,35 +500,45 @@
    "type": "amulet",
    "name": "Jimat",
    "as": "the Philippine cousin: the Javanese anting-anting, an ear-hung ornament, is where the Tagalog word comes from",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "จิมัต (เครื่องรางมลายู)",
+   "as_th": ""
   },
   {
    "from": "keris-pusaka",
    "type": "amulet",
    "name": "Keris pusaka",
    "as": "the Philippine charm carried in the same fights; kris forging continued in the Spanish East Indies while Java's was being banned",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กริชปูซากา (กริชมรดก)",
+   "as_th": ""
   },
   {
    "from": "latin-american-folk-catholic",
    "type": "tradition",
    "name": "Latin American folk Catholic charm practice",
    "as": "the same move in another Spanish colony — church forms taken up and worked by people outside the clergy, across the Pacific by the galleon route",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ธรรมเนียมเครื่องรางคาทอลิกพื้นบ้านละตินอเมริกา",
+   "as_th": ""
   },
   {
    "from": "washing-off-ink",
    "type": "practice",
    "name": "Washing off the ink",
    "as": "the Filipino charm that can be eaten, described as consumable mud or an ingested mutya",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การล้างหมึก",
+   "as_th": ""
   },
   {
    "from": "quiapo-church",
    "type": "place",
    "name": "Quiapo Church",
    "as": "the amulet sold at this address — the encyclopedia names Quiapo when it names where agimat merchants set up",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "โบสถ์กีอาโป",
+   "as_th": ""
   }
  ]
 }

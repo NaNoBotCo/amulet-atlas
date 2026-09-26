@@ -11,7 +11,8 @@
    "rose quartz pendant",
    "amethyst pendant",
    "tumbled stone pendant"
-  ]
+  ],
+  "th": "จี้คริสตัล"
  },
  "etymology": {
   "root": "Greek κρύσταλλος krýstallos, 'ice' — the ancient Greek reading of clear quartz was water frozen so hard it stayed solid",
@@ -45,6 +46,9 @@
   "story": "Two arguments run through this object, and they are not the same argument. This record reports the first and stays out of it, and reports the second at length because there are names and dates in it.\n\nThe first argument is whether the stones do anything. The cited account calls crystal healing \"a pseudoscientific, alternative medicine practice\" and says adherents \"claim that these have healing powers, but there is no scientific basis for this claim\". Practitioners, in the same account's words, hold that they can \"boost low energy, prevent bad energy, release blocked energy, and transform a body's aura\"; that physical properties — shape, colour, markings — decide what a stone can treat, with published lists of the correspondences; and, at the same time, \"that crystals have no intrinsic qualities but that, instead, their quality changes according to both\" the participants, which the account itself flags as a paradox. Stuart McLean calls the practice \"the middle-class New Age healing activity par excellence\". Against all that, Christopher French of the anomalistic psychology research unit at the University of London and colleagues from Goldsmiths College ran eighty volunteers meditating with either a quartz crystal or an indistinguishable placebo stone, reported typical crystal effects either way, and concluded at the British Psychological Society Centenary Annual Conference in 2001: \"There is no evidence that crystal healing works over and above a placebo effect.\" Every sentence in this paragraph belongs to somebody named. This atlas does not add one.\n\nThe second argument has coordinates. Worldwide retail sales of crystals were estimated at more than US$1 billion a year in 2019. India, China, Brazil and Madagascar are the main producers. In Madagascar most crystals come out of unsafe, non-industrial mines — \"homemade\", in the cited account's word — dug with shovels by parents and children working together in pits and tunnels. Miners are paid between 17 and 23 US cents per kilogram for rose quartz, which is roughly 8 to 11 cents a pound; a miner's income may be 0.1 per cent of the final retail price. The reporting behind those figures is Tess McClure's, published in The Guardian on 17 September 2019 under the title \"Dark crystals: the brutal reality behind a booming wellness craze\"; this project could not fetch the original and read it instead through Aaron Gilbreath's Longreads piece of 25 September 2019, which gives the rose quartz village as Anjoma Ramartina, puts the going rate at 800 ariary — about 23 US cents — per kilo, enough to buy a cup of rice at the village market, and quotes one mine worker, Rakotondrasolo: \"I was afraid, and was afraid for my children because of this soil. It can collapse on them.\"\n\nOn why the pay is that low, the cited account gives both industry answers and endorses neither: \"Some people in the industry say that the low pay for miners is because customers in developed countries want low retail prices; others say that it is due to shops in developed countries wanting to be more profitable.\" Those are the two sides, in the trade's own mouths, and this atlas prints them and stops.\n\nOne further hazard is documented and belongs to whoever handles the stone rather than to whoever mined it: some crystals sold in the trade, shungite among them, frequently contain heavy metals and carry a toxicity risk for people handling them over long periods or ingesting anything that has been in contact with them.\n\n*Inference —* the useful thing about this object for the rest of the atlas is that its supply chain is documented and a Bronze Age bead's is not. What a reader can see here — a wage, a village, a named miner, a retail figure, a 0.1 per cent — is the thing every other record in this collection would want and cannot have.",
   "how": "Mined, tumbled or faceted, wire-wrapped or set, and sold in mineral shops, gift shops, wellness retailers and online. Practitioners select stones by colour or by the qualities they attribute to them and place them on parts of the body; the pendant version keeps one stone at the sternum permanently. There is no consecration and no restriction on who may make or wear one. Nothing is said in the sources read here about retiring one.",
   "today": "Sold everywhere in 2026, in every price band, alongside reiki, flower essences and homeopathy in the same shops. The sourcing argument has been in print since 2019 and this project has read nothing showing it changed the supply chain. The worry stone record points here for exactly this reason: it is the same stones, the same trade, the same question."
+ },
+ "text_th": {
+  "what": "หินเจียหรือหินขัดมนที่ห้อยไว้ที่คอ มักอยู่ในกรงลวดหรือกรอบเงิน: แท่งควอตซ์ปลายแหลมหกเหลี่ยม โรสควอตซ์รูปขนมเปียกปูน ก้อนอเมทิสต์ ลูกปัดอาเกตหรือเทอร์ควอยซ์ขัดเงา ใช้สวม ถือไว้ในมือ วางบนร่างกาย หรือใช้ประกอบการทำสมาธิ หินชนิดเดียวกันนี้ขายเป็นก้อนแบบชั่งกิโล และจี้ก็คือปลายทางที่สวมใส่ได้ของการค้าเดียวกับที่นำหินไปใส่ชามเต็มตู้โชว์หน้าร้าน"
  },
  "dating": {
   "period": "the modern New Age trade; lapidary medicine is much older",
@@ -234,63 +238,81 @@
    "type": "amulet",
    "name": "Worry stone",
    "as": "the same stones and the same trade, cut for the thumb instead of the throat — that record sends its sourcing question here",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "หินคลายกังวล",
+   "as_th": ""
   },
   {
    "to": "turquoise",
    "type": "material",
    "name": "Turquoise",
    "as": "one of the stones cut for it, and one with a much older amulet history of its own",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เทอร์ควอยซ์",
+   "as_th": ""
   },
   {
    "to": "amber",
    "type": "material",
    "name": "Amber",
    "as": "another, and the one whose protective claims predate the crystal trade by millennia",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "อำพัน",
+   "as_th": ""
   },
   {
    "to": "jade",
    "type": "material",
    "name": "Jade",
    "as": "the stone this trade's logic was already applied to in China and Mesoamerica, long before anybody said aura",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "หยก",
+   "as_th": ""
   },
   {
    "to": "navaratna-ring",
    "type": "amulet",
    "name": "Navaratna ring",
    "as": "the older system that also assigns stones to conditions, with nine of them and a planetary scheme behind it",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "แหวนนพเก้า",
+   "as_th": ""
   },
   {
    "to": "evil-eye-bracelet",
    "type": "amulet",
    "name": "Evil eye bracelet",
    "as": "the other mass-produced charm in this atlas whose hand-made and factory versions are argued over",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สร้อยข้อมือนาซาร์ (ลูกปัดตากันตาร้าย)",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read where a supply chain and a spiritual claim end up in the same paragraph",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the act that makes it yours, and the point at which the 0.1 per cent gets decided",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": ""
   },
   {
    "to": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the long read about what a charm costs and who gets the money",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดของปลอม",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -437,35 +459,45 @@
    "type": "amulet",
    "name": "Navaratna ring",
    "as": "what the logic becomes in a 21st-century wellness shop, with the horoscope and the flawlessness rule dropped",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "แหวนนพเก้า",
+   "as_th": "สิ่งที่ตรรกะนี้กลายเป็นในร้านสุขภาพองค์รวมของคริสต์ศตวรรษที่ 21 เมื่อทิ้งดวงชะตาและกฎเรื่องไร้ตำหนิไป"
   },
   {
    "from": "rudraksha",
    "type": "amulet",
    "name": "Rudraksha",
    "as": "what the bead becomes in a wellness shop outside the tradition — a stone sold by its properties, with no mantra to count",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "รุทรากษ์",
+   "as_th": ""
   },
   {
    "from": "worry-stone",
    "type": "amulet",
    "name": "Worry stone",
    "as": "the same stones, sold through the same trade, with the same sourcing argument attached",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "หินคลายกังวล",
+   "as_th": ""
   },
   {
    "from": "amber",
    "type": "material",
    "name": "Amber",
    "as": "its shelf-mate in the present-day stone trade, sold on a claim about the substance itself",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "อำพัน",
+   "as_th": ""
   },
   {
    "from": "turquoise",
    "type": "material",
    "name": "Turquoise",
    "as": "the present-day trade in treated and synthetic stone, sold on a claim about the substance",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เทอร์ควอยซ์",
+   "as_th": ""
   }
  ]
 }

@@ -14,7 +14,8 @@
    "fulu",
    "fú",
    "fú zì"
-  ]
+  ],
+  "th": "ฝู (福)"
  },
  "etymology": {
   "root": "Chinese 福 (fú) 'fortune, good luck'. A different character, 符 (fú), means a tally or talismanic graph and gives fulu (符籙), 'talismanic script'; 籙 (lù) is a registry of priests' memberships and of the skills they are trained in.",
@@ -44,6 +45,9 @@
  "text": {
   "what": "One character, printed on a square of red paper and pasted at the entrance, usually turned upside down. Fú means fortune or good luck; it is also the name of a god, one of the trio of star gods Fú, Lù and Shòu, who is often shown as a figure carrying the character. Mounted fu appear at the doors of Chinese homes worldwide at New Year, and the practice runs across every level of income.",
   "story": "The custom is old enough to date: mounting the character goes back at least to the Song dynasty, 960 to 1279 CE.\n\nThe upside-down part is a pun, and the pun is the mechanism. In nearly all varieties of Chinese the word for upside-down and the word for to arrive are homophones — dào, written 倒 and 到. 'Upside-down fu' therefore sounds all but identical to 'good luck arrives', so pasting the character inverted on a door or doorpost states a wish that prosperity descends on the house.\n\nA second story explains the same thing differently. It puts the origin with the family of a nineteenth-century Qing prince: on a New Year's Eve the prince's servants pasted fu characters through the house as a joke, one illiterate servant put his on upside down, and when the prince was furious another servant saved him by pointing out that the mistake announced prosperity arriving. Two accounts, one practice; the encyclopedia carries both without choosing.\n\nThe sound does further work. Bats — 蝠 — are among the most common of Chinese symbols and carry the same sound as fu, which is why textiles and ceramics show bats in flight, sometimes more than a hundred at once. Bran, 麩子, fūzi, is a rarer match.\n\nThe other fu is a different trade. In Taoist practice, 符 are instructions to deities and spirits, symbols for exorcism, and recipes for potions and cures, written by priests of the fulu pai. Their illegibility is not a failure: Ge Hong noted in the Baopuzi, by the Eastern Jin dynasty of 317 to 420, that successful use did not depend on the user's being able to read the script, and scholars including James Robson and Gil Raz argue the incomprehensibility is central to the talisman's authority.\n\nThe fortune character now has a code point: Unicode 10, in 2017, added a rounded version at U+1F260 🉠 ROUNDED SYMBOL FOR FU."
+ },
+ "text_th": {
+  "what": "อักษรตัวเดียว พิมพ์บนกระดาษสีแดงสี่เหลี่ยมจัตุรัสแล้วแปะไว้ที่ทางเข้า มักติดกลับหัว ฝูแปลว่าโชคลาภหรือความโชคดี และยังเป็นชื่อของเทพองค์หนึ่ง คือหนึ่งในสามเทพดาว ฝู ลู่ โซ่ว (ฮก ลก ซิ่ว) ซึ่งมักปรากฏเป็นรูปที่ถืออักษรนี้ไว้ อักษรฝูที่ติดตั้งไว้ปรากฏที่ประตูบ้านชาวจีนทั่วโลกในช่วงตรุษจีน และธรรมเนียมนี้มีอยู่ในทุกระดับรายได้"
  },
  "dating": {
   "period": "Song dynasty to the present",
@@ -178,49 +182,63 @@
    "type": "amulet",
    "name": "Fu talisman",
    "as": "the object the second character names: the drawn Taoist talisman, written by a priest",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "ping-an-fu",
    "type": "amulet",
    "name": "Ping'an fu",
    "as": "the peace-and-safety charm that carries the word in its name",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ผิงอันฝู (ยันต์ขอความสงบสุข)",
+   "as_th": ""
   },
   {
    "to": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "the tradition both characters belong to",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "the Japanese descendant of fulu — the same word, crossed over and re-cut",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "bujeok",
    "type": "amulet",
    "name": "Bujeok",
    "as": "the Korean descendant of the same script, kept in a small brocade bag",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "to": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "the practice the fortune character exists for: paper, paste, doorpost, once a year",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "to": "luck-word",
    "type": "term",
    "name": "luck",
    "as": "the English word that translates 福 and carries none of the pun",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ลัก (luck, โชค)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -310,28 +328,36 @@
    "type": "amulet",
    "name": "Fu talisman",
    "as": "the word, and the two different fu it keeps getting confused between — the tally and the fortune",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "the two characters this record has to keep apart — 符 the talisman and 福 the fortune pasted upside down at New Year",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "luck-word",
    "type": "term",
    "name": "luck",
    "as": "the Chinese character English renders as luck, losing the pun the whole practice runs on",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ลัก (luck, โชค)",
+   "as_th": ""
   },
   {
    "from": "omamori-word",
    "type": "term",
    "name": "omamori",
    "as": "the mainland word behind the paper charm this one wraps — fulu into ofuda into the bag",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "โอมาโมริ",
+   "as_th": ""
   }
  ]
 }

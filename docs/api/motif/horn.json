@@ -15,7 +15,8 @@
    "curniciello",
    "Italian horn",
    "mano cornuta"
-  ]
+  ],
+  "th": "เขา (คอร์นิเชลโล)"
  },
  "region": [
   "rome-italy",
@@ -41,6 +42,9 @@
   "what": "A single twisted horn, tapering to a point, hung at a neck or a rear-view mirror. Gold, silver, plastic, bone, terracotta, or the red coral that is the version Naples is known for. A few centimetres long. The hand version — the mano cornuta, two fingers extended and held pointing downward with a swivelling motion — is the same sign made of fingers.",
   "story": "The horn is worn against the malocchio, the evil eye, and against bad luck generally, and historically for fertility and virility. It is a regional amulet before it is an Italian one: most often worn by men in southern Italy, above all in Campania, then Lazio, Apulia and Basilicata, and less in Sicily and Calabria.\n\nWhat the horn is a horn of is an open question. Cornicelli are thought to be modelled on an eland horn. The red ones look like a chili pepper, and dried chilies are hung in some southern Italian houses against the malocchio — but chilies reached Europe only after the Columbian exchange, so the resemblance is younger than the shape. The classical lines pull in several directions at once: the cornucopia broken from a goat by Zeus; coral sacred to Venus; silver sacred to Luna; the phallic outline and the red pointing to Priapus; the horn itself to Pan.\n\nWhat the harm is said to reach is specific. The malocchio is described as harming nursing mothers and their babies, fruiting trees, milking animals and the sperm of men — the forces of generation, in that order.\n\nThe horn moved from the animal to the machine without changing shape. Cornicelli hang from rear-view mirrors now, which the sources trace to the older custom of hanging them on draft horses.\n\n*Inference —* this atlas files the horn beside the eye rather than as an unrelated sign, because the logic its carriers describe is the same interception: a thing conspicuous enough to take the look meant for somebody else.",
   "today": "Made in gold and silver for jewellers, and in plastic by the tray for the tourist trade. San Gregorio Armeno in Naples sells both, on the same street, a few metres apart."
+ },
+ "text_th": {
+  "what": "เขาบิดเกลียวอันเดียว เรียวแหลมที่ปลาย ห้อยไว้ที่คอหรือกระจกมองหลัง ทำจากทองคำ เงิน พลาสติก กระดูก ดินเผา หรือปะการังแดงซึ่งเป็นแบบที่เนเปิลส์มีชื่อเสียง ยาวไม่กี่เซนติเมตร แบบที่ทำด้วยมือ — มาโนกอร์นูตา (mano cornuta) ยื่นนิ้วสองนิ้วออกแล้วชี้ลงพร้อมหมุนข้อมือ — คือเครื่องหมายเดียวกันที่ทำด้วยนิ้ว"
  },
  "kin": [
   {
@@ -214,56 +218,72 @@
    "type": "amulet",
    "name": "Cornicello",
    "as": "the amulet itself — the twisted coral horn in a Neapolitan window",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "คอร์นิเชลโล (เขานำโชคอิตาลี)",
+   "as_th": ""
   },
   {
    "to": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "the harm it is aimed at, and the sign it stands in for in southern Italy",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "coral",
    "type": "material",
    "name": "Red coral",
    "as": "the red material that gives the Neapolitan horn its colour and half its story",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ปะการังแดง",
+   "as_th": ""
   },
   {
    "to": "crescent",
    "type": "motif",
    "name": "The crescent",
    "as": "the other two-pointed sign in the Mediterranean, and one it is regularly confused with",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "พระจันทร์เสี้ยว",
+   "as_th": ""
   },
   {
    "to": "hand",
    "type": "motif",
    "name": "The hand",
    "as": "the mano cornuta makes the same horn out of two fingers",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "มือ",
+   "as_th": ""
   },
   {
    "to": "phallic-sign",
    "type": "motif",
    "name": "The phallus",
    "as": "the Roman answer to the same harm; the horn's phallic outline is one reading of why it works",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "สัญลักษณ์รูปลึงค์",
+   "as_th": ""
   },
   {
    "to": "san-gregorio-armeno",
    "type": "place",
    "name": "Via San Gregorio Armeno",
    "as": "the Naples street where it is sold by the hundred, beside the crib figures",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ถนนซานเกรโกริโออาร์เมโน",
+   "as_th": ""
   },
   {
    "to": "cimaruta",
    "type": "amulet",
    "name": "Cimaruta",
    "as": "the Neapolitan silver sprig that hangs a crescent and a snake and a key on one stalk",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ชีมารูตา (กิ่งต้นรูเครื่องรางอิตาลี)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -468,84 +488,108 @@
    "type": "amulet",
    "name": "Cornicello",
    "as": "the sign itself, and the reason this atlas files a phallic charm, a gesture and a goat's horn in one family",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "คอร์นิเชลโล (เขานำโชคอิตาลี)",
+   "as_th": ""
   },
   {
    "from": "pazuzu-head",
    "type": "amulet",
    "name": "Pazuzu head",
    "as": "the gazelle horns that identify the face at a glance",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เศียรปาซูซู",
+   "as_th": ""
   },
   {
    "from": "crescent",
    "type": "motif",
    "name": "The crescent",
    "as": "the other two-pointed sign of the Mediterranean, and the one this is most often mistaken for",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "พระจันทร์เสี้ยว",
+   "as_th": ""
   },
   {
    "from": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "the substitute sign in southern Italy, doing the same interception with a different shape",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "from": "phallic-sign",
    "type": "motif",
    "name": "The phallus",
    "as": "southern Italy's later substitute — a shape that catches a glance without the obscenity",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "สัญลักษณ์รูปลึงค์",
+   "as_th": "สิ่งที่อิตาลีตอนใต้ใช้แทนในภายหลัง คือรูปทรงที่ดึงสายตาได้โดยไม่หยาบโลน"
   },
   {
    "from": "tooth-and-claw",
    "type": "motif",
    "name": "The tooth and the claw",
    "as": "the other piece of an animal worn for what the animal could do",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เขี้ยวเล็บ",
+   "as_th": ""
   },
   {
    "from": "coral",
    "type": "material",
    "name": "Red coral",
    "as": "the sign this material is most often cut into around the Mediterranean",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ปะการังแดง",
+   "as_th": ""
   },
   {
    "from": "san-gregorio-armeno",
    "type": "place",
    "name": "Via San Gregorio Armeno",
    "as": "the sign itself — southern Italy's substitute for the eye, aimed at the same look",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ถนนซานเกรโกริโออาร์เมโน",
+   "as_th": ""
   },
   {
    "from": "frederick-elworthy",
    "type": "person",
    "name": "Frederick Thomas Elworthy",
    "as": "the sign he argued was doing the eye's work by another shape",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เฟรเดอริก โทมัส เอลเวิร์ที",
+   "as_th": ""
   },
   {
    "from": "the-drawn-signs",
    "type": "art",
    "name": "The drawn signs",
    "as": "drawn as the twisted cornicello and not as a curled sheep's horn, on the published description",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ภาพสัญลักษณ์ลายเส้น",
+   "as_th": ""
   },
   {
    "from": "dating-a-charm",
    "type": "story",
    "name": "Dating a charm",
    "as": "the undated case worth arguing with: dated in Rome, living in Naples, and no published span for the sign as a class",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "การระบุอายุเครื่องราง",
+   "as_th": ""
   },
   {
    "from": "the-eye-everywhere",
    "type": "story",
    "name": "The eye everywhere",
    "as": "southern Italy's substitute — proof that the shape is free and the reason is fixed",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ดวงตาทุกหนแห่ง",
+   "as_th": ""
   }
  ]
 }

@@ -7,15 +7,32 @@
   "native": "שאול שקד",
   "script": "Hebrew",
   "lang": "he",
-  "sort": "Shaked, Shaul"
+  "sort": "Shaked, Shaul",
+  "th": "ชาอูล ชาเกด"
  },
- "region": ["levant", "mesopotamia", "iran-persia"],
- "countries": ["IL", "IQ", "IR"],
- "facets": {"role": ["scholar", "writer"]},
+ "region": [
+  "levant",
+  "mesopotamia",
+  "iran-persia"
+ ],
+ "countries": [
+  "IL",
+  "IQ",
+  "IR"
+ ],
+ "facets": {
+  "role": [
+   "scholar",
+   "writer"
+  ]
+ },
  "text": {
   "what": "Israeli Iranist and philologist, 1933–2021, of the Hebrew University of Jerusalem. He read the Aramaic incantation bowls and metal amulets of late antique Babylonia alongside Zoroastrian and Middle Persian material, which is why his editions catch what the Jewish, Christian, Mandaean and Iranian texts borrowed from one another.",
   "story": "Shaked was born in Debrecen, Hungary, on 5 March 1933. He took his doctorate in Iranian languages at SOAS in 1964 and taught at the Hebrew University in Indian, Iranian and Armenian Studies and in Comparative Religion, holding the Schwarzman chair. He was elected to the Israel Academy of Sciences and Humanities in 1985 and chaired its humanities division from 1995 to 2001. He won the Israel Prize for Linguistics in 2000 and the Sándor Scheiber Prize in 2012.\n\nHis listed research interests are Zoroastrianism, Middle Persian lexicography, early Judaeo-Persian, Aramaic magical texts, and Aramaic and Arabic loan words in Iranian. The bowls sit at the join of all of those. A Babylonian bowl written in Jewish Babylonian Aramaic and buried under a floor names demons with Iranian names and formulas with Jewish ones; a reader who knows only one side of that misses half the text.\n\nWith Joseph Naveh he published \"Amulets and Magic Bowls: Aramaic Incantations of Late Antiquity\" and \"Magic Spells and Formulae\" in 1993. He continued the corpus with others — \"Aramaic Bowl Spells: Jewish Babylonian Aramaic Bowls\", with James N. Ford and Siam Bhayro, volume one from Brill in 2013 and volume two in 2022. He died on 27 October 2021.",
   "today": "The bowl corpus is still being edited volume by volume, and the later volumes are appearing after his death. *Inference —* an amulet class whose standard edition is unfinished is a class whose dating and readings will move, so this atlas's Aramaic bowl records are marked as provisional wherever they lean on a text rather than on an object."
+ },
+ "text_th": {
+  "what": "นักอิหร่านศึกษาและนักภาษาศาสตร์เชิงประวัติชาวอิสราเอล (ค.ศ. 1933–2021) แห่งมหาวิทยาลัยฮีบรูแห่งเยรูซาเลม เขาอ่านชามคาถาภาษาอราเมอิกและเครื่องรางโลหะของบาบิโลเนียในสมัยปลายยุคโบราณควบคู่กับเอกสารโซโรอัสเตอร์และเปอร์เซียกลาง ด้วยเหตุนี้ฉบับชำระของเขาจึงจับได้ว่าตัวบทของยิว คริสต์ มันดาเอียน และอิหร่านหยิบยืมอะไรจากกันและกัน"
  },
  "dating": {
   "period": "Twentieth to twenty-first century",
@@ -29,22 +46,64 @@
   "note": "Dates read from the Hebrew Wikipedia entry; the English Wikipedia has no article on him."
  },
  "kin": [
-  {"to": "incantation-bowl", "as": "the object his editions made readable, spiral line by spiral line", "rel": "kin"},
-  {"to": "joseph-naveh", "as": "his co-author: Naveh brought the letter-forms, Shaked the Iranian side of the vocabulary", "rel": "person"},
-  {"to": "jewish-practical-kabbalah", "as": "the tradition whose late antique ancestor these bowls and strips are", "rel": "tradition"},
-  {"to": "islamic-talismanic", "as": "the neighbouring tradition in the same region, which inherited some of the same formulas", "rel": "parallel"},
-  {"to": "divine-name", "as": "the sign the bowls turn on — whose names get written, and in which language", "rel": "motif"},
-  {"to": "taweez", "as": "the later pouched written charm of the same region, in Arabic rather than Aramaic", "rel": "descendant"}
+  {
+   "to": "incantation-bowl",
+   "as": "the object his editions made readable, spiral line by spiral line",
+   "rel": "kin"
+  },
+  {
+   "to": "joseph-naveh",
+   "as": "his co-author: Naveh brought the letter-forms, Shaked the Iranian side of the vocabulary",
+   "rel": "person"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "as": "the tradition whose late antique ancestor these bowls and strips are",
+   "rel": "tradition"
+  },
+  {
+   "to": "islamic-talismanic",
+   "as": "the neighbouring tradition in the same region, which inherited some of the same formulas",
+   "rel": "parallel"
+  },
+  {
+   "to": "divine-name",
+   "as": "the sign the bowls turn on — whose names get written, and in which language",
+   "rel": "motif"
+  },
+  {
+   "to": "taweez",
+   "as": "the later pouched written charm of the same region, in Arabic rather than Aramaic",
+   "rel": "descendant"
+  }
  ],
  "links": [
-  {"label": "Shaul Shaked — Israel Institute for Advanced Studies", "url": "https://iias.huji.ac.il/people/shaul-shaked"}
+  {
+   "label": "Shaul Shaked — Israel Institute for Advanced Studies",
+   "url": "https://iias.huji.ac.il/people/shaul-shaked"
+  }
  ],
- "sources": ["s:web-shaul-shaked-hewiki", "s:web-shaul-shaked-iias", "s:wp-incantation-bowl", "s:wp-practical-kabbalah"],
+ "sources": [
+  "s:web-shaul-shaked-hewiki",
+  "s:web-shaul-shaked-iias",
+  "s:wp-incantation-bowl",
+  "s:wp-practical-kabbalah"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:web-shaul-shaked-hewiki"},
+  "default": {
+   "tier": "cited",
+   "source": "s:web-shaul-shaked-hewiki"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:web-shaul-shaked-hewiki", "note": "the year of the Amulets and Magic Bowls volume is left out: the Hebrew entry gives 1985 and the English entry on Naveh gives 1987, and neither was checked against the book"},
-   "text.today": {"tier": "inference", "note": "this project's own reading of what an unfinished standard edition means for its records"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-shaul-shaked-hewiki",
+    "note": "the year of the Amulets and Magic Bowls volume is left out: the Hebrew entry gives 1985 and the English entry on Naveh gives 1987, and neither was checked against the book"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "this project's own reading of what an unfinished standard edition means for its records"
+   }
   }
  },
  "images": [],

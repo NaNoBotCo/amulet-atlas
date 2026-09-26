@@ -14,7 +14,8 @@
    "inqaychu",
    "enqa",
    "camelid effigy"
-  ]
+  ],
+  "th": "อิยา (รูปสัตว์หินแอนดีส)"
  },
  "region": [
   "andes"
@@ -38,6 +39,9 @@
   "story": "Dana Olesch, writing for the Dallas Museum of Art in 2017 about a camelid-form vessel made between 1400 and 1540, describes what the hole was for: \"Inca religious leaders likely inserted a mixture of llama fat, blood, and other ceremonial objects into the hole located at the top of this vessel during various fertility rituals.\" The point was agricultural and pastoral fertility. Several Inca-related groups ended the rite by placing the illa in a pasture.\n\nThat is the whole logic of the object, and it is not the logic of a pendant. An illa is not worn where somebody can see it; it is fed and then put into the ground the herd walks over. The charm is a deposit.\n\n*Inference —* an object that is buried is an object that is found, which is why museums hold so many of them and why nearly every one has left the corral it belonged to. This atlas notes that as a fact about collections rather than about the Andes.\n\nOlesch writes that highland communities in the Andes still use illa in fertility rituals for their camelid herds. The word travels with variants — conopa, canopa in colonial Spanish sources, inqaychu and enqa in Quechua-speaking herding communities — and the objects under those names are not all the same object.",
   "how": "Carved from hard stone with hand tools, the cavity drilled. Charged by filling: llama fat, blood, and other offerings placed in the hole. Then set in a pasture or field, or kept in the house and brought out for the rite. The illa is not retired; it is refilled.",
   "today": "Still in use in Andean highland herding communities as of the account cited here, and held in numbers by museums in Europe and North America. This project has read no dated field report of a present-day rite and does not describe one."
+ },
+ "text_th": {
+  "what": "รูปสัตว์แกะสลักขนาดเล็ก ส่วนใหญ่เป็นลามะหรืออัลปากา ทำจากหินแข็ง — ชิ้นของชาวอินคาที่พิพิธภัณฑ์ศิลปะดัลลัส (Dallas Museum of Art) เป็นหินสีเขียวและดำ — มีรูทรงกระบอกเจาะลงไปที่หลังระหว่างไหล่ทั้งสองข้าง ขนาดพอดีมือ รูนี้คือส่วนที่ทำหน้าที่ มันเป็นภาชนะ ไม่ใช่ลวดลายประดับ"
  },
  "dating": {
   "period": "Inca to the present",

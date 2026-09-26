@@ -15,7 +15,8 @@
    "hime daruma",
    "onna daruma",
    "Goshiki Daruma"
-  ]
+  ],
+  "th": "ดารุมะ"
  },
  "etymology": {
   "root": "Japanese 達磨, the transcription of Dharma in Bodhidharma — the fifth- or sixth-century monk credited with carrying Chan, later Zen, to China",
@@ -44,6 +45,9 @@
   "story": "The doll has a home town. Shorinzan Daruma Temple in Takasaki, Gunma, north of Tokyo, is where its present sense as a luck charm starts. Josef Kyburz records that the founder of that Daruma-dera drew New Year charms of Bodhidharma, which parishioners kept to \"bring happiness and prosperity and ward off accidents and misfortune\". The charms expired after a year, so the demand came round again every twelve months, and the ninth priest, Togaku, solved the problem near the start of the Meiwa period (1764–72) by cutting wooden block moulds and handing them to the parishioners to make their own papier-mâché charms. Kyburz notes it is not known when the Bodhidharma charm and the tumbler toy merged; by the mid-nineteenth century the two were treated as the same thing. Takasaki's families were mostly silk farmers, a crop that turns on luck, and the doll became the region's mascot.\n\nThe red has a second history. *Tradition holds —* red is the colour of a high-ranking priest's robe, and the art historian James T. Ulak has traced depictions of Bodhidharma in red robes before any doll existed. In the late Edo period red was tied to smallpox: during measles and smallpox outbreaks in Edo and nearby cities, households strung red paper strips on ropes around the house, dressed the sick child in red, and set up a small altar with daruma figures on it for the God of Smallpox. The red was to please the deity; the self-righting body was to tell the patient to get up as fast as they went down.\n\nThe eye-painting reached national television through politics. Time reported in 1967 that in the Tokyo headquarters of the Liberal Democratic Party, Premier Eisaku Satō inked the right eye of his daruma and said: \"The eyes, are as big as my own.\" Party headquarters at election time are still photographed with a large one.\n\nA feminine line runs alongside. Hime daruma and onna daruma — Princess and Lady Daruma — began in the Edo merchant culture that made fun of what its betters held sacred, including a version of Bodhidharma drawn as a prostitute, on the grounds that prostitutes showed the same okiagari resilience. The satire faded; the dolls stayed, wholesome.",
   "how": "Bought blank-eyed, often at a New Year market. The owner picks one goal, inks the left eye with a brush, and keeps the figure in view; the right eye is filled in when the goal is met. Traditionally only the head of the household did the painting. Matsukawa daruma are sold with both eyes already painted, because their job is to watch over the house rather than to track a goal. At the end of the year every daruma goes back to the temple it came from for the daruma kuyō, a burning held just after New Year's Day — the best known at Nishi-Arai Daishi in Tokyo and Dairyū-ji in Gifu — where tens of thousands are burnt together after the monks' procession, sutras and horns. Then you buy next year's.",
   "today": "Takasaki still holds its Daruma Doll Festival, the daruma-ichi, at the Shorinzan. The city's own website says over 400,000 people come from across the Kanto Plain to buy new dolls for the year, and that Takasaki makes 80% of Japan's daruma. The festival also carries a 24-hour reading of sutras by the Shorinzan monks for world peace. The shape is common property now: snowmen in Japanese are yukidaruma, the children's game Darumasan ga Koronda is the local Red Light Green Light, and Pokémon put out Darumaka and Darmanitan in 2010."
+ },
+ "text_th": {
+  "what": "ตุ๊กตากระดาษปาเปเยมาเชกลวง ทรงกลม ถ่วงน้ำหนักที่ฐานให้ตั้งตัวกลับได้เมื่อถูกผลักล้ม ส่วนใหญ่เป็นสีแดง หน้ามีหนวดเคราและขมวดคิ้ว ตาขาวโตสองข้างเว้นว่างไว้ ขายโดยไม่มีตาดำ เจ้าของจะระบายตาดำข้างหนึ่งเมื่อตั้งเป้าหมาย และอีกข้างเมื่อทำสำเร็จ มีสีอื่นด้วย ชุดห้าสี คือ น้ำเงิน เหลือง แดง ขาว ดำ ขายในชื่อโกชิกิ ดารุมะ (Goshiki Daruma) และแบบสีทองขายสำหรับเรื่องเงินทอง"
  },
  "dating": {
   "period": "Meiwa to the present",
@@ -218,63 +222,81 @@
    "type": "amulet",
    "name": "Maneki-neko",
    "as": "the other figure sold off the same tray, and the opposite deal: this one has a year and a fire waiting at the end of it",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "แมวกวัก (มาเนกิเนโกะ)",
+   "as_th": ""
   },
   {
    "to": "japanese-engimono",
    "type": "tradition",
    "name": "Engimono",
    "as": "the tradition it sits at the centre of, with its own annual market at Takasaki",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "omamori",
    "type": "amulet",
    "name": "Omamori",
    "as": "the pocket charm from the same economy, working on the same twelve-month clock",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "the rule that gave the doll its shape: the founder's charms expired in a year, so the parishioners came back",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   },
   {
    "to": "burning-retirement",
    "type": "practice",
    "name": "Burning at retirement",
    "as": "the ending: daruma kuyō, tens of thousands burnt together after New Year",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเผาเครื่องรางเมื่อหมดวาระ",
+   "as_th": ""
   },
   {
    "to": "teru-teru-bozu",
    "type": "amulet",
    "name": "Teru teru bōzu",
    "as": "the other Japanese figure made to be discharged — one is burnt at the temple, the other floated down a river",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เทรุเทรุโบซุ (ตุ๊กตาไล่ฝน)",
+   "as_th": ""
   },
   {
    "to": "ekeko",
    "type": "amulet",
    "name": "Ekeko",
    "as": "another figure a household buys and asks a year's worth of gain from",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เอเคโก (ตุ๊กตาชาวแอนดีส)",
+   "as_th": ""
   },
   {
    "to": "exam-charm",
    "type": "amulet",
    "name": "Exam charm",
    "as": "the genre the blank eye feeds: a goal, a deadline, and a physical thing that watches you",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เครื่องรางสอบผ่าน (โกกากุ คิกัง)",
+   "as_th": ""
   },
   {
    "to": "mascot-word",
    "type": "term",
    "name": "mascot",
    "as": "what Takasaki turned it into, and the route from a temple charm to a civic emblem",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "มาสคอต",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -440,56 +462,72 @@
    "type": "amulet",
    "name": "Exam charm",
    "as": "the other Japanese object bought against a goal — one eye filled in when the vow is made, the other when it comes off",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางสอบผ่าน (โกกากุ คิกัง)",
+   "as_th": ""
   },
   {
    "from": "maneki-neko",
    "type": "amulet",
    "name": "Maneki-neko",
    "as": "the other figure on the same shelf, and the opposite contract: the daruma is bought blank and burnt in a year, this one just sits there",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "แมวกวัก (มาเนกิเนโกะ)",
+   "as_th": ""
   },
   {
    "from": "phone-charm",
    "type": "amulet",
    "name": "Phone charm",
    "as": "another, and the other Japanese object that is bought small as a souvenir and large as a vow",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สายห้อยมือถือ",
+   "as_th": ""
   },
   {
    "from": "teru-teru-bozu",
    "type": "amulet",
    "name": "Teru teru bōzu",
    "as": "the other Japanese figure bought or made against a deadline and then discharged — that one burnt, this one floated away",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เทรุเทรุโบซุ (ตุ๊กตาไล่ฝน)",
+   "as_th": ""
   },
   {
    "from": "japanese-engimono",
    "type": "tradition",
    "name": "Engimono",
    "as": "the object with its own annual market, its own city, and a documented production reason for existing",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "burning-retirement",
    "type": "practice",
    "name": "Burning at retirement",
    "as": "the doll with its own fire — tens of thousands at a time, after sutras and horns",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การเผาเครื่องรางเมื่อหมดวาระ",
+   "as_th": ""
   },
   {
    "from": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "the doll sold with an effectiveness of one year — and the reason a temple started handing out moulds",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   },
   {
    "from": "senso-ji",
    "type": "place",
    "name": "Sensō-ji",
    "as": "the round vow-doll of Japan's market fairs, kin of what the approach's shops have always sold",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "วัดเซนโซจิ",
+   "as_th": ""
   }
  ]
 }

@@ -8,16 +8,38 @@
   "script": "Ge'ez",
   "lang": "am",
   "said": "kitab, ketab",
-  "aliases": ["healing scroll", "protective scroll", "kitab", "ketab"]
+  "aliases": [
+   "healing scroll",
+   "protective scroll",
+   "kitab",
+   "ketab"
+  ],
+  "th": "คัมภีร์ม้วนเครื่องรางเอธิโอเปีย (คิตาบ)"
  },
- "region": ["east-africa"],
- "countries": ["ET"],
- "facets": {"era": "medieval", "status": "living", "portable": "carried", "restricted": "limited", "hemisphere": ["N", "E"]},
+ "region": [
+  "east-africa"
+ ],
+ "countries": [
+  "ET"
+ ],
+ "facets": {
+  "era": "medieval",
+  "status": "living",
+  "portable": "carried",
+  "restricted": "limited",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "A long strip of parchment — goat or sheep hide, soaked, dried, stretched, scraped and washed until it takes ink — painted with prayers in Ge'ez and with talismanic drawings, then rolled. A personal one is cut to the height of the person it is for. Larger ones hang on a wall. The colours are black, white, red, blue, green and yellow. Crosses and eight-pointed stars recur; so does the gätsä säb'e, a face inside an eight-pointed star; so do eyes, painted in geometric pairs and rimmed in red.",
   "story": "The scroll is the size of its owner. That is the first fact anybody who handles one notices, and it is the fact that explains the rest: this is not a text about a person, it is a stand-in for one.\n\nIt is made by a dabtara — an unordained cleric of the Ethiopian Orthodox Church who has gone past memorising the Psalms into poetry, liturgy and writing. In Ethiopia the power to write includes the power to write prayers and spells, so the word carries a second sense as well. The making involves the sacrifice of an animal, usually a goat or a sheep, standing for the person the scroll is for; the patron is rubbed by and bathed in the contents of the animal, and the hide becomes the parchment.\n\nThe writing is Ge'ez, the Ethiopian Orthodox Church's liturgical language. Because few speak it now, a scroll does not work by being owned: a third party literate in Ge'ez has to read it aloud to the afflicted person. *Inference —* that makes the scroll one of the few amulets in this atlas that needs another human being present to function at all.\n\nWhat it is against runs from the small to the fatal. The range the source gives is bed bugs, home intruders, smallpox. It treats the spiritual cause; homeopathic medicines are used alongside it for the physical symptoms. Historical manuscripts show the majority were made for conditions of women's reproductive health.\n\nThe oldest surviving examples are sixteenth-century, though the practice is held to go back to the tenth. The Metropolitan Museum of Art holds several, including an eighteenth- or nineteenth-century scroll of parchment, pigments and cotton.",
   "how": "An animal is sacrificed for the person the scroll is for. The hide is soaked for several days, dried, stretched, then scraped, washed and dried again into parchment. The dabtara writes the prayers and the mystical names and paints the talismanic figures in the six standard colours. A personal scroll is cut to the owner's height, though it may be made longer. It is rolled, often kept in a leather case, and carried; a larger one hangs. To work, it is read aloud in Ge'ez by somebody who can read Ge'ez.",
   "today": "Still made and still commissioned, and still being collected. The Museum of Witchcraft and Magic in Boscastle publishes one, and the Metropolitan Museum publishes several. As of 2026 the split between scrolls made for a patron and scrolls made for the trade in old Ethiopian manuscripts is not something this project has read a figure for."
+ },
+ "text_th": {
+  "what": "แผ่นหนังฟอกยาว ทำจากหนังแพะหรือหนังแกะ แช่น้ำ ตากแห้ง ขึง ขูด และล้างจนรับหมึกได้ เขียนบทสวดภาษากีเอซ (Ge'ez) และวาดภาพเครื่องราง แล้วม้วนเก็บ ม้วนสำหรับบุคคลตัดให้ยาวเท่าความสูงของผู้เป็นเจ้าของ ม้วนที่ใหญ่กว่าแขวนไว้บนผนัง สีที่ใช้คือ ดำ ขาว แดง น้ำเงิน เขียว และเหลือง กางเขนและดาวแปดแฉกปรากฏซ้ำ ๆ รวมทั้งกัตซา ซับเอ (gätsä säb'e) คือใบหน้าที่อยู่ในดาวแปดแฉก และดวงตาที่วาดเป็นคู่แบบเรขาคณิต ขอบตาสีแดง"
  },
  "restricted": {
   "note": "The prayers, the mystical names of God and the invocations written on a scroll are the dabtara's craft and are not reproduced here. This record prints what the scroll is, what it is for, and how it is made — not its text, and no formula.",
@@ -38,50 +60,161 @@
  },
  "object": {
   "form": "scroll",
-  "materials": ["parchment", "ink", "cloth", "leather"],
-  "worn": ["neck", "wall", "pocket"],
+  "materials": [
+   "parchment",
+   "ink",
+   "cloth",
+   "leather"
+  ],
+  "worn": [
+   "neck",
+   "wall",
+   "pocket"
+  ],
   "made_by": "a dabtara — an unordained cleric trained past the Psalms in poetry, liturgy and writing",
   "inscription": "prayers in Ge'ez, Christian invocations and mystical names, with painted talismanic figures — crosses, eight-pointed stars, the gätsä säb'e face in a star, and paired eyes rimmed in red",
   "script": "Ge'ez",
-  "colour": ["black", "white", "red", "blue", "green", "yellow"],
+  "colour": [
+   "black",
+   "white",
+   "red",
+   "blue",
+   "green",
+   "yellow"
+  ],
   "single_use": false,
   "source": "s:wp-ethiopian-talismanic-scrolls",
   "note": "The Metropolitan Museum's eighteenth- or nineteenth-century example is catalogued as parchment, pigments and cotton. Length is not entered as a number because the source's rule is relative: the scroll is cut to the height of the person it is for."
  },
  "against": [
-  {"harm": "evil-eye", "who": "the scrolls themselves — the spells, prayers and formulas they carry offer protection or cure against the Evil Eye", "source": "s:wp-ethiopian-talismanic-scrolls", "tier": "cited"},
-  {"harm": "spirits", "who": "the same texts, against malevolent spirits", "source": "s:wp-ethiopian-talismanic-scrolls", "tier": "cited"},
-  {"harm": "illness", "who": "the source, which gives the range as 'bed bugs, to home intruders, to smallpox', and says the scroll treats the spiritual cause while homeopathic medicines address the physical symptoms", "source": "s:wp-ethiopian-talismanic-scrolls", "tier": "cited"},
-  {"harm": "childbirth", "who": "the historical manuscript record, which the source says shows the majority made for women's reproductive health conditions", "source": "s:wp-ethiopian-talismanic-scrolls", "tier": "cited"},
-  {"harm": "theft", "who": "the source's own list, which names home intruders", "source": "s:wp-ethiopian-talismanic-scrolls", "tier": "cited"}
+  {
+   "harm": "evil-eye",
+   "who": "the scrolls themselves — the spells, prayers and formulas they carry offer protection or cure against the Evil Eye",
+   "source": "s:wp-ethiopian-talismanic-scrolls",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "the same texts, against malevolent spirits",
+   "source": "s:wp-ethiopian-talismanic-scrolls",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the source, which gives the range as 'bed bugs, to home intruders, to smallpox', and says the scroll treats the spiritual cause while homeopathic medicines address the physical symptoms",
+   "source": "s:wp-ethiopian-talismanic-scrolls",
+   "tier": "cited"
+  },
+  {
+   "harm": "childbirth",
+   "who": "the historical manuscript record, which the source says shows the majority made for women's reproductive health conditions",
+   "source": "s:wp-ethiopian-talismanic-scrolls",
+   "tier": "cited"
+  },
+  {
+   "harm": "theft",
+   "who": "the source's own list, which names home intruders",
+   "source": "s:wp-ethiopian-talismanic-scrolls",
+   "tier": "cited"
+  }
  ],
  "holdings": [
-  {"museum": "met", "what": "Ethiopian healing scrolls, including an eighteenth- or nineteenth-century example of parchment, pigments and cotton", "source": "s:wp-ethiopian-talismanic-scrolls", "note": "no accession is entered because this project read none off a catalogue page"},
-  {"museum": "wellcome", "what": "Ethiopian and other amulet material in the collection Henry Wellcome assembled", "source": "s:wp-wellcome-collection"}
+  {
+   "museum": "met",
+   "what": "Ethiopian healing scrolls, including an eighteenth- or nineteenth-century example of parchment, pigments and cotton",
+   "source": "s:wp-ethiopian-talismanic-scrolls",
+   "note": "no accession is entered because this project read none off a catalogue page"
+  },
+  {
+   "museum": "wellcome",
+   "what": "Ethiopian and other amulet material in the collection Henry Wellcome assembled",
+   "source": "s:wp-wellcome-collection"
+  }
  ],
  "kin": [
-  {"to": "ethiopian-scroll-craft", "as": "the tradition that makes it — the dabtara's writing, and the church it sits beside without being ordained into", "rel": "tradition"},
-  {"to": "coptic-cross-tattoo", "as": "the other African Christian mark in this atlas, worn by neighbours up the same river and carried on skin rather than on hide", "rel": "kin"},
-  {"to": "cippus-of-horus", "as": "the older Nile answer to the same problem — words that must be got off a surface and into a patient", "rel": "parallel"},
-  {"to": "parchment", "as": "the material, and the animal that stood in for the patron before it became one", "rel": "material"},
-  {"to": "eye", "as": "the sign painted on it in geometric pairs, rimmed in red, against the harm that arrives by looking", "rel": "motif"},
-  {"to": "cross", "as": "the other sign it carries, and the church whose language it is written in", "rel": "motif"},
-  {"to": "divine-name", "as": "what is written on it: prayers, saints, the Trinity, and the mystical names", "rel": "motif"},
-  {"to": "talismanic-shirt", "as": "another garment-shaped text amulet, cut to a body and covered in writing", "rel": "parallel"},
-  {"to": "merkato-addis", "as": "the market in Addis Ababa where scrolls and church goods are traded", "rel": "place"},
-  {"to": "what-this-atlas-does-not-print", "as": "the long read behind the restriction on this page — the scroll's text is not printed here", "rel": "story"}
+  {
+   "to": "ethiopian-scroll-craft",
+   "as": "the tradition that makes it — the dabtara's writing, and the church it sits beside without being ordained into",
+   "rel": "tradition"
+  },
+  {
+   "to": "coptic-cross-tattoo",
+   "as": "the other African Christian mark in this atlas, worn by neighbours up the same river and carried on skin rather than on hide",
+   "rel": "kin"
+  },
+  {
+   "to": "cippus-of-horus",
+   "as": "the older Nile answer to the same problem — words that must be got off a surface and into a patient",
+   "rel": "parallel"
+  },
+  {
+   "to": "parchment",
+   "as": "the material, and the animal that stood in for the patron before it became one",
+   "rel": "material"
+  },
+  {
+   "to": "eye",
+   "as": "the sign painted on it in geometric pairs, rimmed in red, against the harm that arrives by looking",
+   "rel": "motif"
+  },
+  {
+   "to": "cross",
+   "as": "the other sign it carries, and the church whose language it is written in",
+   "rel": "motif"
+  },
+  {
+   "to": "divine-name",
+   "as": "what is written on it: prayers, saints, the Trinity, and the mystical names",
+   "rel": "motif"
+  },
+  {
+   "to": "talismanic-shirt",
+   "as": "another garment-shaped text amulet, cut to a body and covered in writing",
+   "rel": "parallel"
+  },
+  {
+   "to": "merkato-addis",
+   "as": "the market in Addis Ababa where scrolls and church goods are traded",
+   "rel": "place"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the long read behind the restriction on this page — the scroll's text is not printed here",
+   "rel": "story"
+  }
  ],
- "links": [{"label": "Ethiopian talismanic scrolls — Wikipedia", "url": "https://en.wikipedia.org/wiki/Ethiopian_talismanic_scrolls"}],
- "sources": ["s:wp-ethiopian-talismanic-scrolls", "s:wp-amulet", "s:wp-talisman", "s:wp-wellcome-collection"],
+ "links": [
+  {
+   "label": "Ethiopian talismanic scrolls — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ethiopian_talismanic_scrolls"
+  }
+ ],
+ "sources": [
+  "s:wp-ethiopian-talismanic-scrolls",
+  "s:wp-amulet",
+  "s:wp-talisman",
+  "s:wp-wellcome-collection"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-ethiopian-talismanic-scrolls"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-ethiopian-talismanic-scrolls"
+  },
   "fields": {
-   "text.today": {"tier": "inference", "note": "the living state is reasoned from the practice being described in the present tense and from scrolls being collected and published; no fieldwork behind it"},
-   "holdings": {"tier": "cited", "source": "s:wp-ethiopian-talismanic-scrolls"}
+   "text.today": {
+    "tier": "inference",
+    "note": "the living state is reasoned from the practice being described in the present tense and from scrolls being collected and published; no fieldwork behind it"
+   },
+   "holdings": {
+    "tier": "cited",
+    "source": "s:wp-ethiopian-talismanic-scrolls"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Ethiopian healing scroll.jpg"],
+ "x_commons_files": [
+  "File:Ethiopian healing scroll.jpg"
+ ],
  "confidence": "medium",
  "needs_verification": true,
  "updated": "2026-09-16"

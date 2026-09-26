@@ -8,7 +8,8 @@
    "quadrifoglio",
    "lucky clover",
    "four-leaved shamrock"
-  ]
+  ],
+  "th": "ใบโคลเวอร์สี่แฉก"
  },
  "etymology": {
   "root": "English four-leaf clover; Italian quadrifoglio, 'four-leaf'.",
@@ -41,6 +42,9 @@
   "story": "The arithmetic is the whole appeal, and it has been measured. A 2017 survey of about 5.7 million clovers across six European countries put the frequency at roughly one four-leaf clover in every 5,076 — around 5,000 to one, which is almost twice as common as the 10,000-to-one figure people usually quote. The same survey gives 24,390 to one for five leaflets and 312,500 to one for six.\n\nThe luck attached to it goes back to at least the seventeenth century. A description from 1869 splits the practice by who is doing it: the clovers were \"gathered at night-time during the full moon by sorceresses, who mixed it with vervain and other ingredients, while young girls in search of a token of perfect happiness made quest of the plant by day.\" Eight years later an eleven-year-old girl put the folk version in a letter to St. Nicholas Magazine: \"Did the fairies ever whisper in your ear, that a 4-leaf clover brought good luck to the finder?\" Some traditions assign a meaning to each leaflet — Christians have used them for hope, faith, love and luck — and others say the clover grants the power to see fairies.\n\nThe charm's condition is that you find it, and industry has been steadily dissolving that condition. There are reports of farms in the United States producing as many as 10,000 a day, sealed in plastic and sold as lucky charms, by introducing a genetically engineered ingredient that encourages the aberration. Cultivars that reliably throw extra leaflets have existed for a long time — Trifolium repens \"Purpurascens Quadrifolium\", \"Quadrifolium\", and a cultivar actually called \"Good Luck\". A 2009 study exposed white clover flowers to gamma radiation during pollination and produced a cultivar yielding up to 60 per cent four-leaf clovers. Phosphate fertiliser and the plant hormone auxin both raise the rate.\n\nFinding them is also a sport. Guinness World Records lists the clover with the most leaflets ever found at 63, discovered by Yoshiharu Watanabe of Nasushiobara, Tochigi prefecture, Japan, on 2 August 2023, beating a 56-leaf clover found by Shigeo Obara of Hanamaki, Iwate prefecture, on 10 May 2009. Both men bred for it. An expert finder interviewed by the New York Times described the technique as scanning a patch for ruptures in the pattern: three leaflets make a triangle, four make a square.",
   "how": "Found, in spring, before the first mowing. Picked, pressed flat between the pages of a book or laminated, and carried in a wallet or a pocket. Nothing is said or done over it. There is no retirement rite; it fades.",
   "today": "Carried as a personal charm, farmed by the thousand and sold sealed in plastic, and used as a corporate emblem by organisations that have nothing to do with either. Alfa Romeo has used the quadrifoglio on its racing and performance cars since the driver Ugo Sivocci painted a green clover on a white ground for the 1923 Targa Florio. SpaceX has embroidered a four-leaf clover on every mission patch since the first successful Falcon 1 launch in 2008, which the company describes as being for luck. *Inference —* a charm whose whole claim rests on being rare is the charm most exposed to being manufactured, and the farm and the meadow versions are sold in the same packet."
+ },
+ "text_th": {
+  "what": "ใบโคลเวอร์ที่มีใบย่อยสี่ใบแทนที่จะเป็นสามใบ มักเป็นโคลเวอร์ขาว (Trifolium repens) เป็นการกลายพันธุ์ ไม่ใช่พืชอีกชนิดหนึ่ง ใบที่เก็บได้มักถูกทับให้แบนในหนังสือหรือเคลือบไว้ในพลาสติก ใบที่ปลูกขึ้นก็ขายในแบบเดียวกัน นักสะสมในไอร์แลนด์ให้ค่ากับแบบที่มีใบย่อยห้าใบ ซึ่งพวกเขาเรียกว่าโคลเวอร์กุหลาบ (rose clover)"
  },
  "dating": {
   "period": "Early modern to the present",
@@ -211,63 +215,81 @@
    "type": "amulet",
    "name": "Rabbit's foot",
    "as": "the other charm that must be taken under conditions nobody observes any more, and the other one a factory now supplies",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตีนกระต่ายนำโชค",
+   "as_th": ""
   },
   {
    "to": "horseshoe",
    "type": "amulet",
    "name": "Horseshoe",
    "as": "the other object whose oldest rule is that it must be found and not bought",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เกือกม้า",
+   "as_th": ""
   },
   {
    "to": "herb",
    "type": "material",
    "name": "Herb and root",
    "as": "what it actually is: a plant, carried dead and flattened, and the only charm in this atlas measured by a botanical survey",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "สมุนไพรและรากไม้",
+   "as_th": ""
   },
   {
    "to": "luck-word",
    "type": "term",
    "name": "luck",
    "as": "the word that has entirely replaced protection here — nothing in this record names a harm it turns away",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ลัก (luck, โชค)",
+   "as_th": ""
   },
   {
    "to": "mascot-word",
    "type": "term",
    "name": "mascot",
    "as": "where it ends up: an emblem on a racing car and a rocket patch rather than an object in a pocket",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "มาสคอต",
+   "as_th": ""
   },
   {
    "to": "exam-charm",
    "type": "amulet",
    "name": "Exam charm",
    "as": "what a student carries now, and often this, flattened in a wallet",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางสอบผ่าน (โกกากุ คิกัง)",
+   "as_th": ""
   },
   {
    "to": "game-day-charm",
    "type": "amulet",
    "name": "Game-day charm",
    "as": "the sporting end of the same habit, from Ugo Sivocci's 1923 Targa Florio clover onward",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ของนำโชควันแข่ง",
+   "as_th": ""
   },
   {
    "to": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the long read this belongs in: 10,000 a day, grown to order, sold as the thing you were supposed to find",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดของปลอม",
+   "as_th": ""
   },
   {
    "to": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "the tradition it came out of, and its least protective object",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -424,28 +446,36 @@
    "type": "amulet",
    "name": "Horseshoe",
    "as": "the other charm that must be found rather than bought, and the other one a factory now supplies anyway",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เกือกม้า",
+   "as_th": ""
   },
   {
    "from": "rabbits-foot",
    "type": "amulet",
    "name": "Rabbit's foot",
    "as": "the charm it is usually sold beside, and the other one whose original condition the market has quietly dropped",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตีนกระต่ายนำโชค",
+   "as_th": ""
   },
   {
    "from": "charm-word",
    "type": "term",
    "name": "charm",
    "as": "the object a British or American reader is likeliest to name when the word is said",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ชาร์ม (charm)",
+   "as_th": ""
   },
   {
    "from": "luck-word",
    "type": "term",
    "name": "luck",
    "as": "the object an English speaker names first when the word is said",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ลัก (luck, โชค)",
+   "as_th": ""
   }
  ]
 }

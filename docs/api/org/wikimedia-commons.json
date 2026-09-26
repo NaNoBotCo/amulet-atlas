@@ -7,7 +7,8 @@
   "aliases": [
    "Commons"
   ],
-  "sort": "Wikimedia Commons"
+  "sort": "Wikimedia Commons",
+  "th": "วิกิมีเดียคอมมอนส์"
  },
  "region": [
   "world"
@@ -19,6 +20,9 @@
   "what": "Media repository run by the Wikimedia Foundation, launched on 7 September 2004, holding over 147 million free-to-use files as of September 2026. Every picture in this atlas comes from here or from a source under the same terms. That is a constraint on what this atlas can show, and it shapes which museums are visible in it.",
   "story": "Commons takes only files that are out of copyright or published under a free licence, and its definition of free is strict: a licence must specifically and irrevocably allow anyone to use the material for any purpose. Republication and distribution must be allowed. Commercial use must be allowed. The licence must be perpetual and non-revocable. A file must also be free of copyright restrictions in both the United States and the source country of the work.\n\nWhat that admits: CC0, public domain, Creative Commons Attribution (CC BY), Creative Commons Attribution-ShareAlike (CC BY-SA), the Free Art License, and free software licences. What it refuses: CC BY-NC, CC BY-ND, CC BY-NC-SA, CC BY-NC-ND, and fair use — in Commons' own words, it \"does not accept fair use justifications\", and material licensed exclusively under non-commercial-only licences is not accepted either.\n\n*Inference —* run that rule across the museums in this atlas and the map goes uneven. The Metropolitan Museum of Art put its public-domain images under CC0 in 2017, so a Met amulet can be shown here. The British Museum released 1.9 million images in 2020 under CC BY-NC-SA 4.0, which bars commercial use, so a British Museum amulet cannot. The Pitt Rivers Museum names no Creative Commons licence at all. Wellcome Collection licenses per item, so each picture has to be checked on its own page.\n\nThe consequence is worth stating plainly rather than hiding in a caption: a reader looking at this atlas is looking at the collections that chose an open licence, not at the collections that hold the most material.",
   "today": "This atlas accepts CC0, public domain, CC BY, CC BY-SA and the Free Art License, and nothing else. Every image record carries its file name, its licence, its licence URL and its author, and a picture whose licence cannot be read is not published. Candidate files are listed on each record before they are fetched, so the licence is checked at the point of collection rather than at the point of publication."
+ },
+ "text_th": {
+  "what": "คลังสื่อที่มูลนิธิวิกิมีเดียดูแล เปิดตัวเมื่อวันที่ 7 กันยายน ค.ศ. 2004 มีไฟล์ที่ใช้ได้อย่างเสรีกว่า 147 ล้านไฟล์ ณ เดือนกันยายน ค.ศ. 2026 ภาพทุกภาพในแอตลาสนี้มาจากที่นี่ หรือจากแหล่งที่ใช้เงื่อนไขเดียวกัน นี่คือข้อจำกัดของสิ่งที่แอตลาสนี้แสดงได้ และเป็นตัวกำหนดว่าพิพิธภัณฑ์ใดจะปรากฏให้เห็นในแอตลาสนี้"
  },
  "dating": {
   "period": "2004 to now",
@@ -140,49 +144,63 @@
    "type": "story",
    "name": "Free to use",
    "as": "the long read this record is the machinery behind — what this atlas may show, and why the gaps are where they are",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใช้ได้อย่างเสรี",
+   "as_th": ""
   },
   {
    "to": "metropolitan-museum",
    "type": "org",
    "name": "The Metropolitan Museum of Art",
    "as": "the collection whose CC0 release clears this bar, which is why Met photographs run through these records",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์ศิลปะเมโทรโพลิทัน (เดอะเมต)",
+   "as_th": ""
   },
   {
    "to": "british-museum",
    "type": "org",
    "name": "The British Museum",
    "as": "the collection whose non-commercial licence does not clear it, however large the collection is",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "พิพิธภัณฑ์บริติช (บริติชมิวเซียม)",
+   "as_th": ""
   },
   {
    "to": "wellcome-collection",
    "type": "org",
    "name": "Wellcome Collection",
    "as": "the mixed case: some of its items clear the bar and some do not, so each file is checked singly",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "เวลคัมคอลเลกชัน",
+   "as_th": ""
   },
   {
    "to": "te-papa",
    "type": "org",
    "name": "Museum of New Zealand Te Papa Tongarewa",
    "as": "a collection with openly available images and, separately, a request about taonga this atlas honours regardless of licence",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์นิวซีแลนด์ เตปาปาตองกาเรวา",
+   "as_th": ""
   },
   {
    "to": "aiatsis",
    "type": "org",
    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
    "as": "the opposite premise: a collection where access conditions travel with the item and open reuse is not the default",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "สถาบันการศึกษาชาวอะบอริจินและชาวเกาะช่องแคบทอร์เรสแห่งออสเตรเลีย (AIATSIS)",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read on ownership; a free licence on a photograph settles nothing about the object in it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -283,42 +301,54 @@
    "type": "place",
    "name": "Room 1: Enlightenment, the British Museum",
    "as": "the repository that cannot take this room's photographs, because the museum's licence bars commercial use",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ห้อง 1: ยุคเรืองปัญญา พิพิธภัณฑ์บริติช",
+   "as_th": ""
   },
   {
    "from": "aiatsis",
    "type": "org",
    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
    "as": "the opposite arrangement: a repository whose whole premise is that anyone may reuse anything in it",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "สถาบันการศึกษาชาวอะบอริจินและชาวเกาะช่องแคบทอร์เรสแห่งออสเตรเลีย (AIATSIS)",
+   "as_th": ""
   },
   {
    "from": "british-museum",
    "type": "org",
    "name": "The British Museum",
    "as": "the repository this museum's images cannot go to, because the licence forbids commercial use",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "พิพิธภัณฑ์บริติช (บริติชมิวเซียม)",
+   "as_th": ""
   },
   {
    "from": "metropolitan-museum",
    "type": "org",
    "name": "The Metropolitan Museum of Art",
    "as": "where its CC0 images can legally live, which is why Met pictures turn up across this atlas",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์ศิลปะเมโทรโพลิทัน (เดอะเมต)",
+   "as_th": "ที่ซึ่งภาพ CC0 ของพิพิธภัณฑ์อยู่ได้อย่างถูกกฎหมาย ซึ่งเป็นเหตุที่ภาพจากเดอะเมตปรากฏทั่วแอตลาสนี้"
   },
   {
    "from": "wellcome-collection",
    "type": "org",
    "name": "Wellcome Collection",
    "as": "where its attribution and public-domain items can be hosted; its non-commercial ones cannot",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "เวลคัมคอลเลกชัน",
+   "as_th": ""
   },
   {
    "from": "free-to-use",
    "type": "story",
    "name": "Free to use",
    "as": "where every picture in this atlas is to come from, and whose free-content test the pipeline copies",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "ใช้ได้อย่างเสรี",
+   "as_th": ""
   }
  ]
 }

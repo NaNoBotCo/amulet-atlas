@@ -4,13 +4,40 @@
  "type": "story",
  "names": {
   "name": "Who owns a charm",
-  "aliases": ["repatriation", "returning amulets", "whose object is it"]
+  "aliases": [
+   "repatriation",
+   "returning amulets",
+   "whose object is it"
+  ],
+  "th": "ใครเป็นเจ้าของเครื่องราง"
  },
- "region": ["world", "north-america", "west-africa", "australia", "aotearoa", "britain-ireland"],
- "countries": ["US", "GB", "NG", "AU", "NZ", "IE", "CH", "IN"],
- "facets": {"kind": "essay", "era": "modern"},
+ "region": [
+  "world",
+  "north-america",
+  "west-africa",
+  "australia",
+  "aotearoa",
+  "britain-ireland"
+ ],
+ "countries": [
+  "US",
+  "GB",
+  "NG",
+  "AU",
+  "NZ",
+  "IE",
+  "CH",
+  "IN"
+ ],
+ "facets": {
+  "kind": "essay",
+  "era": "modern"
+ },
  "text": {
   "what": "A museum drawer of amulets is the hardest kind of collection to hand back and the easiest kind to have taken. The objects are small, they were bought by the handful, most were never accessioned with a name attached, and a proportion of them were never anybody's to sell. This record sets out the law where there is law, the returns and the refusals where they are on the record with dates and institutions attached, and the specific reason amulets sit at the difficult end of the problem."
+ },
+ "text_th": {
+  "what": "ลิ้นชักเครื่องรางในพิพิธภัณฑ์คือคอลเลกชันประเภทที่ส่งคืนยากที่สุด และถูกนำไปได้ง่ายที่สุด วัตถุมีขนาดเล็ก ถูกซื้อมาทีละกำมือ ส่วนใหญ่ไม่เคยลงทะเบียนพร้อมชื่อกำกับ และส่วนหนึ่งไม่เคยเป็นของที่ใครมีสิทธิ์ขายเลย รายการนี้วางกฎหมายไว้ในที่ที่มีกฎหมาย วางการส่งคืนและการปฏิเสธไว้ในที่ที่มีบันทึกพร้อมวันที่และชื่อสถาบัน และวางเหตุผลเฉพาะที่ทำให้เครื่องรางอยู่ปลายด้านที่ยากของปัญหานี้"
  },
  "sections": [
   {
@@ -46,31 +73,99 @@
   "note": "Dated from the first US statute specifically protecting Native American remains, not from the first claim; claims are older than any of this legislation."
  },
  "kin": [
-  {"to": "nagpra", "as": "the statute this read opens with, and the only one in the set that makes return a legal duty", "rel": "org"},
-  {"to": "aiatsis", "as": "the body running Australia's Return of Cultural Heritage programme since 2019", "rel": "org"},
-  {"to": "british-museum", "as": "the institution that refuses most often, and publishes the Act it refuses under", "rel": "org"},
-  {"to": "pitt-rivers-museum", "as": "the museum that removed its human remains in 2020 and published the reasoning", "rel": "org"},
-  {"to": "te-papa", "as": "where the toi moko went back to in 2008, and where the terms are set by the originating people", "rel": "org"},
-  {"to": "wellcome-collection", "as": "17,500 amulets, an acknowledgement in 2021, and a return to India in 2025", "rel": "org"},
-  {"to": "quai-branly", "as": "the French collection at the centre of the restitution argument Sarr and Savoy opened in 2018", "rel": "org"},
-  {"to": "nkisi", "as": "a class collected in quantity out of Central Africa, and one where the object's own community defines what it is", "rel": "parallel"},
-  {"to": "hei-tiki", "as": "a taonga whose return is governed by the tradition's own terms, not by a museum's", "rel": "parallel"},
-  {"to": "lovett-collection", "as": "the counter-example — a collector who wrote down who was carrying each charm", "rel": "art"},
-  {"to": "what-this-atlas-does-not-print", "as": "the companion read: what may be said, once you have settled what may be kept", "rel": "story"}
+  {
+   "to": "nagpra",
+   "as": "the statute this read opens with, and the only one in the set that makes return a legal duty",
+   "rel": "org"
+  },
+  {
+   "to": "aiatsis",
+   "as": "the body running Australia's Return of Cultural Heritage programme since 2019",
+   "rel": "org"
+  },
+  {
+   "to": "british-museum",
+   "as": "the institution that refuses most often, and publishes the Act it refuses under",
+   "rel": "org"
+  },
+  {
+   "to": "pitt-rivers-museum",
+   "as": "the museum that removed its human remains in 2020 and published the reasoning",
+   "rel": "org"
+  },
+  {
+   "to": "te-papa",
+   "as": "where the toi moko went back to in 2008, and where the terms are set by the originating people",
+   "rel": "org"
+  },
+  {
+   "to": "wellcome-collection",
+   "as": "17,500 amulets, an acknowledgement in 2021, and a return to India in 2025",
+   "rel": "org"
+  },
+  {
+   "to": "quai-branly",
+   "as": "the French collection at the centre of the restitution argument Sarr and Savoy opened in 2018",
+   "rel": "org"
+  },
+  {
+   "to": "nkisi",
+   "as": "a class collected in quantity out of Central Africa, and one where the object's own community defines what it is",
+   "rel": "parallel"
+  },
+  {
+   "to": "hei-tiki",
+   "as": "a taonga whose return is governed by the tradition's own terms, not by a museum's",
+   "rel": "parallel"
+  },
+  {
+   "to": "lovett-collection",
+   "as": "the counter-example — a collector who wrote down who was carrying each charm",
+   "rel": "art"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the companion read: what may be said, once you have settled what may be kept",
+   "rel": "story"
+  }
  ],
  "links": [
-  {"label": "NAGPRA — Wikipedia", "url": "https://en.wikipedia.org/wiki/Native_American_Graves_Protection_and_Repatriation_Act"},
-  {"label": "Repatriation (cultural property) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Repatriation_(cultural_property)"}
+  {
+   "label": "NAGPRA — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Native_American_Graves_Protection_and_Repatriation_Act"
+  },
+  {
+   "label": "Repatriation (cultural property) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Repatriation_(cultural_property)"
+  }
  ],
- "sources": ["s:wp-native-american-graves-protection-and-repatriation-act", "s:wp-repatriation-cultural-property", "s:wp-pitt-rivers-museum", "s:wp-wellcome-collection", "s:wp-british-museum", "s:wp-te-papa", "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies"],
+ "sources": [
+  "s:wp-native-american-graves-protection-and-repatriation-act",
+  "s:wp-repatriation-cultural-property",
+  "s:wp-pitt-rivers-museum",
+  "s:wp-wellcome-collection",
+  "s:wp-british-museum",
+  "s:wp-te-papa",
+  "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-repatriation-cultural-property"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-repatriation-cultural-property"
+  },
   "fields": {
-   "sections": {"tier": "cited", "source": "s:wp-repatriation-cultural-property", "note": "the two stretches of this project's own reasoning are labelled inline"}
+   "sections": {
+    "tier": "cited",
+    "source": "s:wp-repatriation-cultural-property",
+    "note": "the two stretches of this project's own reasoning are labelled inline"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Benin Bronzes British Museum.jpg", "File:Pitt Rivers Museum Interior.jpg"],
+ "x_commons_files": [
+  "File:Benin Bronzes British Museum.jpg",
+  "File:Pitt Rivers Museum Interior.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-16"
 }

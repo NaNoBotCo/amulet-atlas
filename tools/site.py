@@ -240,18 +240,19 @@ def share_row(url: str, title: str) -> str:
              ("Reddit", f"https://www.reddit.com/submit?url={u}&title={t}"),
              ("WhatsApp", f"https://api.whatsapp.com/send?text={t}%20{u}"),
              ("Email", f"mailto:?subject={t}&body={u}")]
-    btns = "".join(f'<a href="{E(href)}" target="_blank" rel="noopener">{E(name)}</a>' for name, href in links)
+    btns = "".join(f'<a href="{E(href)}" target="_blank" rel="noopener">{E(L(name, "อีเมล") if name == "Email" else name)}</a>'
+                   for name, href in links)
     return (f'<section class="shareme" data-url="{E(url)}" data-title="{E(title)}">'
-            f'<b>Pass it on</b><div class="row">'
-            f'<button type="button" class="copy" data-sh="copy">Copy link</button>'
-            f'<button type="button" data-sh="native" hidden>Share…</button>{btns}'
+            f'<b>{L("Pass it on", "ส่งต่อ")}</b><div class="row">'
+            f'<button type="button" class="copy" data-sh="copy">{L("Copy link", "คัดลอกลิงก์")}</button>'
+            f'<button type="button" data-sh="native" hidden>{L("Share…", "แชร์…")}</button>{btns}'
             f'<span class="said" aria-live="polite"></span></div></section>'
             '<script>(function(){var s=document.currentScript.previousElementSibling;'
             'var n=s.querySelector(\'[data-sh="native"]\');if(navigator.share)n.hidden=false;'
             's.addEventListener("click",function(e){var b=e.target.closest("[data-sh]");if(!b)return;'
             'var url=s.dataset.url,title=s.dataset.title,said=s.querySelector(".said");'
             'if(b.dataset.sh==="copy"){(navigator.clipboard?navigator.clipboard.writeText(url):Promise.reject())'
-            '.then(function(){said.textContent="copied"},function(){said.textContent=url});}'
+            f'.then(function(){{said.textContent="{L("copied", "คัดลอกแล้ว")}"}},function(){{said.textContent=url}});}}'
             'else if(b.dataset.sh==="native"){navigator.share({title:title,url:url}).catch(function(){})}});})();</script>')
 
 
@@ -263,16 +264,137 @@ NAV = [("index.html", "Everything"), ("map/index.html", "The map"), ("time/index
        ("search/index.html", "Search"), ("words/index.html", "Words"),
        ("sources/index.html", "Where we got it"), ("coverage/index.html", "Where we stop"),
        ("api/index.json", "API"), ("llms.txt", "llms.txt")]
+NAV_TH = {"Everything": "ทั้งหมด", "The map": "แผนที่", "The timeline": "เส้นเวลา", "What it stops": "กันอะไร",
+          "Where it goes": "อยู่ตรงไหน", "The signs": "สัญลักษณ์", "Materials": "วัสดุ", "Places": "สถานที่",
+          "Long reads": "เรื่องยาว", "Numbers": "ตัวเลข", "Pick me one": "เลือกให้หน่อย", "Search": "ค้นหา",
+          "Words": "ถ้อยคำ", "Where we got it": "แหล่งที่มา", "Where we stop": "ขอบเขต"}
+
+# ------------------------------------------------------------------ the Thai edition
+# The same pages under /th/, from the same records. A record's Thai lives beside its English
+# (names.th, text_th, kin[].as_th); vocabulary labels in data/vocab/th.json. Where a section
+# has no Thai yet, the English prints under a one-line Thai note, marked lang="en".
+LANG = "en"
+TH = jload(DATA / "vocab" / "th.json")
+SITE_NAME_TH = "แอตลาสเครื่องราง"
+TAGLINE_TH = "สวมใส่ ฝังดิน ตอกไว้เหนือประตู และแต่ละชิ้นมีไว้กันอะไร"
+# pages that exist in English only for now; a Thai page links across to them
+EN_ONLY = ("map/", "time/", "against/", "wear/", "signs/", "materials/", "numbers/", "quiz/",
+           "search/", "sources/", "coverage/")
+ROOT_FILES = ("images/", "api/", "vendor/", "cards/", "schema/", "icon.svg", "manifest.webmanifest",
+              "opensearch.xml", "feed.xml", "llms.txt", "llms-full.txt", "sitemap.xml", "nodes.")
+NO_TH = "ส่วนนี้ยังไม่ได้เขียนเป็นภาษาไทย ด้านล่างเป็นภาษาอังกฤษ"
+TIER_TH = {"cited": "อ้างอิง", "harvested": "รวบรวม", "tradition": "ตามคติ", "inference": "ข้อสันนิษฐาน", "field": "ภาคสนาม"}
+
+
+def L(en: str, th: str) -> str:
+    return th if LANG == "th" else en
+
+
+def th_label(table: str, key, en: str) -> str:
+    """A vocabulary label in the page's language."""
+    if LANG != "th":
+        return en
+    v = TH.get(table, {}).get(key)
+    return (v.get("name") if isinstance(v, dict) else v) or en
+
+
+def rname(r: dict) -> str:
+    return (r["names"].get("th") if LANG == "th" else "") or r["names"]["name"]
+
+
+def tblurb(r: dict, n=220) -> str:
+    """The blurb in the page's language: the Thai `what`, cut at a space."""
+    w = (r.get("text_th") or {}).get("what", "").strip() if LANG == "th" else ""
+    if not w:
+        return r["blurb"]
+    if len(w) <= n:
+        return w
+    return w[:n].rsplit(" ", 1)[0] + "…"
+
+
+def ttext(r: dict, key: str) -> str:
+    """A text section as HTML in the page's language, with the English fallback marked."""
+    if LANG == "th":
+        th = (r.get("text_th") or {}).get(key)
+        if th:
+            return prose(th)
+        en = r["text"].get(key)
+        return f'<p class="mute no-th">{NO_TH}</p><div lang="en">{prose(en)}</div>' if en else ""
+    return prose(r["text"].get(key))
+
+
+def tf(r: dict, path: str, en) -> str:
+    """A short structured field as HTML: its Thai from th_fields on a Thai page, else the English."""
+    th = (r.get("th_fields") or {}).get(path) if LANG == "th" else None
+    return E(th) if th else en_span(E(en))
+
+
+def en_span(x: str) -> str:
+    """English content on a Thai page, tagged so a screen reader switches voice."""
+    return f'<span lang="en">{x}</span>' if LANG == "th" and x else x
+
+
+def year_th(y) -> str:
+    if y is None:
+        return "ปัจจุบัน"
+    y = int(y)
+    return f"ก่อน ค.ศ. {1 - y}" if y <= 0 else f"ค.ศ. {y}"
+
+
+def span_th(r: dict) -> str:
+    dt = r.get("dating") or {}
+    if dt.get("from_year") is None and dt.get("to_year") is None:
+        return r.get("span") or ""
+    a = year_th(dt.get("from_year")) if dt.get("from_year") is not None else ""
+    b = "ปัจจุบัน" if dt.get("living") or dt.get("to_year") is None else year_th(dt["to_year"])
+    return ("ราว " if dt.get("circa") else "") + (f"{a} – {b}" if a else b)
+
+
+def tspan(r: dict) -> str:
+    return span_th(r) if LANG == "th" else r.get("span") or ""
+
+
+def localize(html_text: str, path: str) -> str:
+    """A page rendered for /th/<path>: links to the site's shared files and to the pages that
+    exist in English only climb one level more, out of /th/."""
+    def fix(m):
+        attr, q, url = m.group(1), m.group(2), m.group(3)
+        if re.match(r"^(?:[a-z]+:|#|/|data:)", url):
+            return m.group(0)
+        bare = re.sub(r"^(?:\.\./)*", "", url)
+        if bare.startswith(ROOT_FILES) or bare.startswith(EN_ONLY):
+            return f'{attr}={q}../{url}{q}'
+        return m.group(0)
+    return re.sub(r'\b(href|src)=(["\'])([^"\']*)\2', fix, html_text)
+
+
+def has_th(path: str) -> bool:
+    return not path.startswith(EN_ONLY) and not path.startswith(("api/", "llms"))
 
 
 def page(title: str, body: str, depth: int, desc: str = "", jsonld: list | None = None,
          canonical: str = "", extra_head: str = "", og_image: str = "", alt_json: str = "",
          og_alt: str = "", og_type: str = "website", card: str = "", share_title: str = "") -> str:
     r = rel(depth)
+    th = LANG == "th"
     if card and (CARDS_DIR / f"{card}.jpg").exists():
         og_image = f"{SITE_URL}/cards/{card}.jpg"
+    path = canonical[len(SITE_URL) + 1:] if canonical.startswith(SITE_URL + "/") else ""
+    if th and canonical:
+        canonical = f"{SITE_URL}/th/{path}"
     ld = "".join(f'<script type="application/ld+json">{json.dumps(o, ensure_ascii=False)}</script>' for o in (jsonld or []))
-    nav = " · ".join(f'<a href="{r}{h}">{E(lab)}</a>' for h, lab in NAV)
+    if th:
+        nav = " · ".join(f'<a href="{r}{h}"{"" if has_th(h) else " lang=en"}>{E(NAV_TH.get(lab, lab))}'
+                         f'{"" if has_th(h) or h.startswith(("api/", "llms")) else "<sup> EN</sup>"}</a>' for h, lab in NAV)
+    else:
+        nav = " · ".join(f'<a href="{r}{h}">{E(lab)}</a>' for h, lab in NAV)
+    both = canonical and has_th(path)
+    if both:
+        other = (f'<a href="{r}../{path}index.html" lang="en" hreflang="en">English</a>' if th
+                 else f'<a href="{r}th/{path}index.html" lang="th" hreflang="th">ไทย</a>')
+        nav += " · " + other
+    alts = (f'<link rel="alternate" hreflang="en" href="{SITE_URL}/{path}"><link rel="alternate" hreflang="th" href="{SITE_URL}/th/{path}">'
+            f'<link rel="alternate" hreflang="x-default" href="{SITE_URL}/{path}">') if both else ""
     og = ""
     if og_image:
         og = (f'<meta property="og:image" content="{E(og_image)}"><meta property="og:image:width" content="1200">'
@@ -280,8 +402,21 @@ def page(title: str, body: str, depth: int, desc: str = "", jsonld: list | None 
               f'<meta property="og:image:alt" content="{E(og_alt or title)}"><meta name="twitter:card" content="summary_large_image">'
               f'<meta name="twitter:image" content="{E(og_image)}"><meta name="twitter:title" content="{E(title)}">'
               f'<meta name="twitter:description" content="{E(desc[:200])}">')
-    return f"""<!doctype html>
-<html lang="en" translate="no" class="notranslate">
+    if th:
+        foot = (f'<p>บันทึกเผยแพร่ภายใต้ <a href="{DATA_LICENSE}">CC BY 4.0</a> เส้นเขตแดนประเทศจาก '
+                f'<a href="https://www.naturalearthdata.com/">Natural Earth</a> เป็นสมบัติสาธารณะ ภาพแต่ละภาพมีสัญญาอนุญาตของตัวเองกำกับไว้ข้างภาพ '
+                f'ช่องข้อมูลบอกที่มาของตัวเอง และที่ใดที่สายความเชื่อขอไม่ให้เผยแพร่ แอตลาสนี้พิมพ์คำขอนั้นแทน</p>\n'
+                f'{fleet.row_html("amulet-atlas", label="เว็บอื่นของผู้จัดทำ")}\n'
+                f'{fleet.support_html(self_id="amulet-atlas")}\n'
+                f'{fleet.maker_html(lang="th")}')
+    else:
+        foot = (f'<p>Records licensed <a href="{DATA_LICENSE}">CC BY 4.0</a>. Country outlines from <a href="https://www.naturalearthdata.com/">Natural Earth</a>, public domain. Pictures carry their own licences, stated beside each one. Every field says where it came from — and where a tradition asks that something not be published, this atlas prints the ask instead.</p>\n'
+                f'{fleet.row_html("amulet-atlas")}\n'
+                f'{fleet.support_html(self_id="amulet-atlas")}\n'
+                f'{fleet.maker_html()}')
+    brand = "แอตลาส<b>เครื่องราง</b>" if th else "Amulet <b>Atlas</b>"
+    out = f"""<!doctype html>
+<html lang="{LANG}" translate="no" class="notranslate">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -289,10 +424,10 @@ def page(title: str, body: str, depth: int, desc: str = "", jsonld: list | None 
 <meta name="description" content="{E(desc[:300])}">
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
 <meta name="color-scheme" content="light dark">
-<meta property="og:site_name" content="{E(SITE_NAME)}"><meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="{E(SITE_NAME_TH if th else SITE_NAME)}"><meta property="og:locale" content="{"th_TH" if th else "en_US"}">
 <meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc[:200])}"><meta property="og:type" content="{E(og_type)}">
 {og}
-{f'<link rel="canonical" href="{E(canonical)}">' if canonical else ''}
+{f'<link rel="canonical" href="{E(canonical)}">' if canonical else ''}{alts}
 {f'<link rel="alternate" type="application/json" href="{E(alt_json)}">' if alt_json else ''}
 <link rel="manifest" href="{r}manifest.webmanifest">
 <meta name="theme-color" content="#b23a2b">
@@ -300,29 +435,40 @@ def page(title: str, body: str, depth: int, desc: str = "", jsonld: list | None 
 <link rel="search" type="application/opensearchdescription+xml" title="{E(SITE_NAME)}" href="{r}opensearch.xml">
 <link rel="alternate" type="application/atom+xml" title="{E(SITE_NAME)} updates" href="{r}feed.xml">
 {extra_head}
-<style>{CSS}{SHARE_CSS}</style>
+<style>{CSS}{SHARE_CSS}{TH_CSS}</style>
 {ld}
 <meta name="google" content="notranslate">
 <meta name="robots" content="notranslate">
 <script>if(/[.]translate[.]goog$/.test(location.hostname))location.replace("https://"+location.hostname.slice(0,-15).replace(/--/g,"~").replace(/-/g,".").replace(/~/g,"-")+location.pathname+location.search.replace(/([?&])_x_tr_[^&]*/g,"$1").replace(/[?&]+$/,"").replace(/[?]&+/,"?")+location.hash)</script>
 </head>
 <body>
-<header class="top"><a class="brand" href="{r}index.html">Amulet <b>Atlas</b></a>
-<nav class="crumbs">{nav} · <a class="wander" href="{r}wander.html" title="a record at random">🎲 Wander</a></nav></header>
-<main>
+<a class="skip" href="#main">{L("Skip to the record", "ข้ามไปที่เนื้อหา")}</a>
+<header class="top"><a class="brand" href="{r}index.html">{brand}</a>
+<nav class="crumbs">{nav} · <a class="wander" href="{r}wander.html" title="{L("a record at random", "สุ่มหนึ่งบันทึก")}">🎲 {L("Wander", "สุ่มอ่าน")}</a></nav></header>
+<main id="main">
 {body}
 {share_row(canonical, share_title or title) if canonical else ""}
 </main>
 <script>document.addEventListener("keydown",function(e){{if(e.key==="r"&&!e.metaKey&&!e.ctrlKey&&!e.altKey&&!/input|textarea/i.test(e.target.tagName))location.href="{r}wander.html"}});</script>
 <footer>
-<div class="bots">For the machines: <a href="{r}api/nodes.json">nodes.json</a> <a href="{r}api/atlas.json">atlas.json</a> <a href="{r}api/timeline.json">timeline.json</a> <a href="{r}api/against.json">against.json</a> <a href="{r}api/kin.json">kin.json</a> <a href="{r}nodes.jsonl">nodes.jsonl</a> <a href="{r}nodes.csv">nodes.csv</a> <a href="{r}llms-full.txt">llms-full.txt</a> <a href="{r}sitemap.xml">sitemap.xml</a> <a href="{r}feed.xml">feed.xml</a> <a href="{r}api/coverage.json">coverage</a> <a href="{r}api/sources.json">sources</a></div>
-<p>Records licensed <a href="{DATA_LICENSE}">CC BY 4.0</a>. Country outlines from <a href="https://www.naturalearthdata.com/">Natural Earth</a>, public domain. Pictures carry their own licences, stated beside each one. Every field says where it came from — and where a tradition asks that something not be published, this atlas prints the ask instead.</p>
-{fleet.row_html("amulet-atlas")}
-{fleet.support_html(self_id="amulet-atlas")}
-{fleet.maker_html()}
+<div class="bots">{L("For the machines", "สำหรับเครื่อง")}: <a href="{r}api/nodes.json">nodes.json</a> <a href="{r}api/atlas.json">atlas.json</a> <a href="{r}api/timeline.json">timeline.json</a> <a href="{r}api/against.json">against.json</a> <a href="{r}api/kin.json">kin.json</a> <a href="{r}nodes.jsonl">nodes.jsonl</a> <a href="{r}nodes.csv">nodes.csv</a> <a href="{r}llms-full.txt">llms-full.txt</a> <a href="{r}sitemap.xml">sitemap.xml</a> <a href="{r}feed.xml">feed.xml</a> <a href="{r}api/coverage.json">coverage</a> <a href="{r}api/sources.json">sources</a></div>
+{foot}
 </footer>
 </body>
 </html>
+"""
+    return localize(out, path) if th else out
+
+
+TH_CSS = """
+.skip{position:absolute;left:-9999px;top:0;z-index:9;background:var(--ink);color:var(--bg);padding:.5rem .9rem}
+.skip:focus{left:8px;top:8px}
+:lang(th){letter-spacing:0!important;text-transform:none!important}
+html:lang(th) body{line-height:1.8;font-family:"Sukhumvit Set","Thonburi","Noto Sans Thai","Leelawadee UI",var(--body)}
+html:lang(th) :is(h1,h2,h3,.brand,.kin a.card b,.card a.t,.glyphgrid .nm){font-family:"Sukhumvit Set","Thonburi","Noto Sans Thai",var(--display);line-height:1.35}
+html:lang(th) h1{text-wrap:balance}
+.no-th{font-size:.85rem;border-left:3px solid var(--gold);padding-left:.6rem}
+nav.crumbs sup{font-size:.62em;color:var(--mute)}
 """
 
 
@@ -332,12 +478,12 @@ def tier_chip(t: dict) -> str:
     tier = (t or {}).get("tier")
     if not tier:
         return ""
-    return f'<span class="chip tier-{E(tier)}" title="{E(TIER_LABEL.get(tier, tier))}">{E(tier)}</span>'
+    return f'<span class="chip tier-{E(tier)}" title="{E(TIER_LABEL.get(tier, tier))}">{E(L(tier, TIER_TH.get(tier, tier)))}</span>'
 
 
 def marks(text: str) -> str:
-    """The inline provenance marks an author writes: *Tradition holds —* and *Inference —*."""
-    return re.sub(r"\*(Tradition holds —|Tradition —|Inference —|Field —)\*",
+    """The inline provenance marks an author writes: *Tradition holds —* and *Inference —*, and their Thai."""
+    return re.sub(r"\*(Tradition holds —|Tradition —|Inference —|Field —|ตามคติที่เล่าสืบกันมา —|ตามคติ —|ข้อสันนิษฐาน —|จากภาคสนาม —)\*",
                   lambda m: f'<mark class="tier">{E(m.group(1))}</mark>', text or "")
 
 
@@ -353,7 +499,7 @@ def prose(text: str) -> str:
 
 
 def name_link(r: dict, depth: int) -> str:
-    return f'<a href="{rel(depth)}{url_of(r)}index.html">{E(r["names"]["name"])}</a>'
+    return f'<a href="{rel(depth)}{url_of(r)}index.html">{E(rname(r))}</a>'
 
 
 def group_key(r: dict, key: str):
@@ -370,6 +516,10 @@ def group_key(r: dict, key: str):
     return node
 
 
+def group_head(g) -> str:
+    return th_label("groups", g, str(g).replace("-", " ").title())
+
+
 def directory_sections(recs: list[dict], types: dict, depth: int, limit: int | None = None) -> str:
     """The 1997 move, and still the right one: show the hierarchy on the page, with a count
     beside every term, so a reader can see the shape of the thing before clicking anything."""
@@ -384,9 +534,9 @@ def directory_sections(recs: list[dict], types: dict, depth: int, limit: int | N
         items = []
         shown = 0
         for g in sorted(groups, key=lambda g: (g == "", str(g))):
-            rows = sorted(groups[g], key=lambda r: r["names"]["name"].lower())
+            rows = sorted(groups[g], key=lambda r: rname(r).lower())
             if g:
-                items.append(f'<li><b>{E(str(g).replace("-", " ").title())}</b> <span class="count">({len(rows)})</span></li>')
+                items.append(f'<li><b>{E(group_head(g))}</b> <span class="count">({len(rows)})</span></li>')
             for r in rows:
                 if limit and shown >= limit:
                     break
@@ -394,9 +544,10 @@ def directory_sections(recs: list[dict], types: dict, depth: int, limit: int | N
                 shown += 1
         more = ""
         if limit and len(rs) > shown:
-            more = f'<li class="sub"><a href="{rel(depth)}{DIR_OF[t["key"]]}/index.html">all {len(rs)} →</a></li>'
-        out.append(f'<section><h2><a href="{rel(depth)}{DIR_OF[t["key"]]}/index.html">{E(t["name"])}</a> '
-                   f'<span class="count">({len(rs)})</span></h2><p class="mute" style="font-size:.88rem;margin:.1rem 0 .4rem">{E(t["blurb"])}</p>'
+            more = f'<li class="sub"><a href="{rel(depth)}{DIR_OF[t["key"]]}/index.html">{L(f"all {len(rs)}", f"ทั้งหมด {len(rs)}")} →</a></li>'
+        tv = TH["types"].get(t["key"], {}) if LANG == "th" else {}
+        out.append(f'<section><h2><a href="{rel(depth)}{DIR_OF[t["key"]]}/index.html">{E(tv.get("name") or t["name"])}</a> '
+                   f'<span class="count">({len(rs)})</span></h2><p class="mute" style="font-size:.88rem;margin:.1rem 0 .4rem">{E(tv.get("blurb") or t["blurb"])}</p>'
                    f'<ul>{"".join(items)}{more}</ul></section>')
     return f'<div class="dir">{"".join(out)}</div>'
 
@@ -413,6 +564,8 @@ def node_jsonld(r: dict) -> list:
         "identifier": r["id"],
         "isPartOf": {"@type": "WebSite", "name": SITE_NAME, "url": SITE_URL},
     }
+    if LANG == "th":
+        base.update({"url": f"{SITE_URL}/th/{url_of(r)}", "inLanguage": "th", "name": rname(r), "description": tblurb(r)})
     if r["names"].get("aliases"):
         base["alternateName"] = r["names"]["aliases"]
     if r["type"] not in ("place", "person", "org", "story", "art"):
@@ -438,21 +591,23 @@ def node_jsonld(r: dict) -> list:
     return out
 
 
+def kin_card(k: dict, key: str, depth: int) -> str:
+    name = (k.get("name_th") if LANG == "th" else "") or k["name"]
+    said = E(k.get("as_th")) if LANG == "th" and k.get("as_th") else en_span(E(k["as"]))
+    return (f'<a class="card" href="{rel(depth)}{PATH_OF[k["type"]]}/{E(k[key])}/index.html">'
+            f'<small>{E(th_label("rels", k["rel"], k["rel"]))}</small><b>{E(name)}</b><span>{said}</span></a>')
+
+
 def kin_block(r: dict, by_id: dict, depth: int) -> str:
     out = []
     if r.get("kin_out"):
-        cards = "".join(
-            f'<a class="card" href="{rel(depth)}{PATH_OF[k["type"]]}/{E(k["to"])}/index.html">'
-            f'<small>{E(k["rel"])}</small><b>{E(k["name"])}</b><span>{E(k["as"])}</span></a>'
-            for k in r["kin_out"])
-        out.append(f'<h2>What this is near</h2><div class="kin">{cards}</div>')
+        cards = "".join(kin_card(k, "to", depth) for k in r["kin_out"])
+        out.append(f'<h2>{L("What this is near", "สิ่งที่อยู่ใกล้กัน")}</h2><div class="kin">{cards}</div>')
     if r.get("kin_in"):
-        cards = "".join(
-            f'<a class="card" href="{rel(depth)}{PATH_OF[k["type"]]}/{E(k["from"])}/index.html">'
-            f'<small>{E(k["rel"])}</small><b>{E(k["name"])}</b><span>{E(k["as"])}</span></a>'
-            for k in r["kin_in"])
-        out.append(f'<h2>What names this one</h2><p class="mute" style="font-size:.9rem">Each in its own words, '
-                   f'from its own page.</p><div class="kin">{cards}</div>')
+        cards = "".join(kin_card(k, "from", depth) for k in r["kin_in"])
+        out.append(f'<h2>{L("What names this one", "สิ่งที่กล่าวถึงเรื่องนี้")}</h2><p class="mute" style="font-size:.9rem">'
+                   f'{L("Each in its own words, ", "แต่ละรายการใช้ถ้อยคำของตัวเอง ")}'
+                   f'{L("from its own page.", "จากหน้าของตัวเอง")}</p><div class="kin">{cards}</div>')
     return "".join(out)
 
 
@@ -460,17 +615,18 @@ def against_block(r: dict) -> str:
     if not r.get("against_facts"):
         return ""
     items = []
-    for a in r["against_facts"]:
-        q = f'<blockquote>{E(a["quote"])}</blockquote>' if a.get("quote") else ""
-        who = f'<span class="who">said by {E(a["who"])}</span>' if a.get("who") else \
-              '<span class="who">no claimant named in the source</span>'
-        gloss = f' <span class="mute">— {E(a["gloss"])}</span>' if a.get("gloss") else ""
-        note = f'<span class="who">{E(a["note"])}</span>' if a.get("note") else ""
-        items.append(f'<li><b>{E(a["label"])}</b>{gloss} {tier_chip({"tier": a.get("tier")})}{who}{note}{q}</li>')
-    return (f'<h2>What its carriers say it stops</h2>'
-            f'<p class="mute" style="font-size:.9rem">Reported, attributed, not tested here. '
-            f'Each row below is somebody\'s claim, with their name on it.</p>'
-            f'<ul class="against">{"".join(items)}</ul>')
+    for i, a in enumerate(r["against_facts"]):
+        q = f'<blockquote>{tf(r, f"against.{i}.quote", a["quote"])}</blockquote>' if a.get("quote") else ""
+        who = f'<span class="who">{L("said by", "กล่าวโดย")} {tf(r, f"against.{i}.who", a["who"])}</span>' if a.get("who") else \
+              f'<span class="who">{L("no claimant named in the source", "แหล่งที่มาไม่ได้ระบุผู้กล่าว")}</span>'
+        gloss = f' <span class="mute">— {E(a["gloss"])}</span>' if a.get("gloss") and LANG == "en" else ""
+        note = f'<span class="who">{tf(r, f"against.{i}.note", a["note"])}</span>' if a.get("note") else ""
+        items.append(f'<li><b>{E(th_label("against", a["key"], a["label"]))}</b>{gloss} {tier_chip({"tier": a.get("tier")})}{who}{note}{q}</li>')
+    return (f'<h2>{L("What its carriers say it stops", "ผู้พกบอกว่ามันกันอะไร")}</h2>'
+            f'<p class="mute" style="font-size:.9rem">'
+            + L('Reported, attributed, not tested here. Each row below is somebody\'s claim, with their name on it.',
+                'รายงานตามที่มีผู้กล่าว ระบุชื่อผู้กล่าว และไม่ได้ทดสอบที่นี่ แถวด้านล่างคือคำกล่าวของแต่ละคน พร้อมชื่อของเขา')
+            + f'</p><ul class="against">{"".join(items)}</ul>')
 
 
 def object_block(r: dict) -> str:
@@ -479,73 +635,80 @@ def object_block(r: dict) -> str:
         return ""
     rows = []
     if r.get("form_fact"):
-        rows.append(("Form", E(r["form_fact"]["label"])))
+        rows.append((L("Form", "รูปแบบ"), E(th_label("forms", r["form_fact"]["key"], r["form_fact"]["label"]))))
     if r.get("material_facts"):
-        rows.append(("Made of", " · ".join(
-            f'<a href="{E(material_href(m["key"]))}">{E(m["label"])}</a>' for m in r["material_facts"])))
+        rows.append((L("Made of", "ทำจาก"), " · ".join(
+            f'<a href="{E(material_href(m["key"]))}">{E(th_label("materials", m["key"], m["label"]))}</a>' for m in r["material_facts"])))
     if r.get("worn_facts"):
-        rows.append(("Goes", " · ".join(f'<a href="../../wear/index.html#w-{E(w["key"])}">{E(w["label"])}</a>'
-                                        for w in r["worn_facts"])))
+        rows.append((L("Goes", "อยู่ที่"), " · ".join(f'<a href="../../wear/index.html#w-{E(w["key"])}">{E(th_label("worn", w["key"], w["label"]))}</a>'
+                                                     for w in r["worn_facts"])))
     if ob.get("made_by"):
-        rows.append(("Made by", E(ob["made_by"])))
+        rows.append((L("Made by", "ผู้ทำ"), tf(r, "object.made_by", ob["made_by"])))
     if ob.get("inscription"):
-        rows.append(("It says", E(ob["inscription"]) + (f' <span class="mute">({E(ob["script"])})</span>' if ob.get("script") else "")))
+        rows.append((L("It says", "จารึกว่า"), tf(r, "object.inscription", ob["inscription"]) + (f' <span class="mute">({E(ob["script"])})</span>' if ob.get("script") else "")))
     if ob.get("count"):
-        rows.append(("Counted", E(ob["count"])))
+        rows.append((L("Counted", "จำนวน"), E(ob["count"])))
     if ob.get("length_mm"):
-        rows.append(("Length", f'{E(ob["length_mm"])} mm'))
+        rows.append((L("Length", "ความยาว"), f'{E(ob["length_mm"])} {L("mm", "มม.")}'))
     if ob.get("colour"):
-        rows.append(("Colour", E(" · ".join(ob["colour"]))))
+        rows.append((L("Colour", "สี"), tf(r, "object.colour", " · ".join(ob["colour"]))))
     if ob.get("single_use") is not None:
-        rows.append(("Retired", "yes — it is replaced rather than kept" if ob["single_use"] else "no — it is kept"))
+        rows.append((L("Retired", "ปลดระวาง"), (L("yes — it is replaced rather than kept", "ใช่ — เปลี่ยนใหม่แทนการเก็บไว้") if ob["single_use"]
+                                              else L("no — it is kept", "ไม่ — เก็บไว้"))))
     if ob.get("note"):
-        rows.append(("Note", E(ob["note"])))
+        rows.append((L("Note", "หมายเหตุ"), tf(r, "object.note", ob["note"])))
     if not rows:
         return ""
     body = "".join(f"<tr><th>{k}</th><td>{v}</td></tr>" for k, v in rows)
-    return f'<h2>The thing itself</h2><table>{body}</table>'
+    return f'<h2>{L("The thing itself", "ตัววัตถุ")}</h2><table>{body}</table>'
+
+
+METHOD = {"excavated": ("excavated — dug up in a dated context", "ขุดค้น — พบในชั้นดินที่ระบุอายุได้"),
+          "inscribed": ("inscribed — the object carries its own date", "จารึก — ตัววัตถุมีวันที่ของตัวเอง"),
+          "textual": ("textual — a dated text describes it", "เอกสาร — มีตำราที่ระบุปีบรรยายถึง"),
+          "ethnographic": ("ethnographic — somebody recorded it being used, on a date", "ชาติพันธุ์วรรณนา — มีผู้บันทึกการใช้ไว้พร้อมวันที่"),
+          "art-historical": ("art-historical — dated by style", "ประวัติศาสตร์ศิลป์ — กำหนดอายุจากรูปแบบ"),
+          "dated-object": ("a dated example survives", "มีชิ้นที่ระบุปีหลงเหลืออยู่"),
+          "undated": ("nobody here could date it", "ที่นี่ยังไม่มีใครระบุอายุได้")}
 
 
 def dating_block(r: dict) -> str:
     dt = r.get("dating") or {}
     if not dt:
         return ""
-    span = dt.get("label") or r.get("span") or ""
-    liv = ' <span class="liv">still carried</span>' if dt.get("living") else ""
+    span = (span_th(r) if LANG == "th" else "") or dt.get("label") or r.get("span") or ""
+    liv = f' <span class="liv">{L("still carried", "ยังใช้อยู่")}</span>' if dt.get("living") else ""
     rows = []
     if dt.get("period"):
-        rows.append(("Period", E(dt["period"])))
+        rows.append((L("Period", "ยุค"), tf(r, "dating.period", dt["period"])))
     if dt.get("method"):
-        rows.append(("How the date is known", E({
-            "excavated": "excavated — dug up in a dated context",
-            "inscribed": "inscribed — the object carries its own date",
-            "textual": "textual — a dated text describes it",
-            "ethnographic": "ethnographic — somebody recorded it being used, on a date",
-            "art-historical": "art-historical — dated by style",
-            "dated-object": "a dated example survives",
-            "undated": "nobody here could date it",
-        }.get(dt["method"], dt["method"]))))
+        m = METHOD.get(dt["method"])
+        rows.append((L("How the date is known", "รู้อายุได้อย่างไร"), E(L(m[0], m[1]) if m else dt["method"])))
     if dt.get("note"):
-        rows.append(("Note", E(dt["note"])))
+        rows.append((L("Note", "หมายเหตุ"), tf(r, "dating.note", dt["note"])))
     tbl = f'<table>{"".join(f"<tr><th>{k}</th><td>{v}</td></tr>" for k, v in rows)}</table>' if rows else ""
-    return (f'<h2>When</h2><p class="spanline">{E(span)}{liv} {tier_chip({"tier": dt.get("tier")})}</p>{tbl}'
-            f'<p class="mute" style="font-size:.88rem">Years are stored astronomically — 1 CE is 1, 1 BCE is 0, '
-            f'500 BCE is −499 — and printed the way a reader says them. '
-            f'<a href="../../story/dating-a-charm/index.html">How these dates are made.</a></p>')
+    foot = L('Years are stored astronomically — 1 CE is 1, 1 BCE is 0, 500 BCE is −499 — and printed the way a reader says them. '
+             '<a href="../../story/dating-a-charm/index.html">How these dates are made.</a>',
+             'ปีเก็บไว้แบบดาราศาสตร์ — ค.ศ. 1 คือ 1, ก่อน ค.ศ. 1 คือ 0, ก่อน ค.ศ. 500 คือ −499 — และพิมพ์ออกมาแบบที่ผู้อ่านพูดกัน '
+             '<a href="../../story/dating-a-charm/index.html">วันที่เหล่านี้ได้มาอย่างไร</a>')
+    return (f'<h2>{L("When", "เมื่อไร")}</h2><p class="spanline">{E(span)}{liv} {tier_chip({"tier": dt.get("tier")})}</p>{tbl}'
+            f'<p class="mute" style="font-size:.88rem">{foot}</p>')
 
 
 def holdings_block(r: dict) -> str:
     if not r.get("holding_facts"):
         return ""
     rows = []
-    for h in r["holding_facts"]:
+    for i, h in enumerate(r["holding_facts"]):
         acc = f' <span class="mute">acc. {E(h["accession"])}</span>' if h.get("accession") else ""
-        what = f' — {E(h["what"])}' if h.get("what") else ""
+        what = f' — {tf(r, f"holdings.{i}.what", h["what"])}' if h.get("what") else ""
         lab = f'<a href="{E(h["url"])}">{E(h["label"])}</a>' if h.get("url") else E(h["label"])
         rows.append(f"<li>{lab}{what}{acc}</li>")
-    return (f'<h2>Where you can see one</h2><ul>{"".join(rows)}</ul>'
-            f'<p class="mute" style="font-size:.88rem">An accession number appears here only where it was read off a '
-            f'catalogue page that is linked. No link, no number.</p>')
+    return (f'<h2>{L("Where you can see one", "ชมได้ที่ไหน")}</h2><ul>{"".join(rows)}</ul>'
+            f'<p class="mute" style="font-size:.88rem">'
+            + L('An accession number appears here only where it was read off a catalogue page that is linked. No link, no number.',
+                'เลขทะเบียนวัตถุปรากฏที่นี่เฉพาะเมื่ออ่านมาจากหน้าแค็ตตาล็อกที่มีลิงก์ ไม่มีลิงก์ ไม่มีเลข')
+            + '</p>')
 
 
 def restricted_block(r: dict) -> str:
@@ -553,11 +716,11 @@ def restricted_block(r: dict) -> str:
     if not rs:
         return ""
     who = f' <span class="mute">— {E(rs["who_says"])}</span>' if rs.get("who_says") else ""
-    src = f' <a href="{E(rs["url"])}">source</a>' if rs.get("url") else ""
-    return (f'<div class="restricted"><b>This one is not fully ours to publish</b>'
-            f'<p>{E(rs["note"])}{who}{src}</p>'
-            f'<p class="mute" style="font-size:.9rem">The atlas prints the restriction and stops. '
-            f'<a href="../../story/what-this-atlas-does-not-print/index.html">Why.</a></p></div>')
+    src = f' <a href="{E(rs["url"])}">{L("source", "ที่มา")}</a>' if rs.get("url") else ""
+    return (f'<div class="restricted"><b>{L("This one is not fully ours to publish", "เรื่องนี้ไม่ใช่ของเราที่จะเผยแพร่ได้ทั้งหมด")}</b>'
+            f'<p>{tf(r, "restricted.note", rs["note"])}{who}{src}</p>'
+            f'<p class="mute" style="font-size:.9rem">{L("The atlas prints the restriction and stops. ", "แอตลาสพิมพ์ข้อจำกัดนี้ไว้แล้วหยุดเพียงเท่านี้ ")}'
+            f'<a href="../../story/what-this-atlas-does-not-print/index.html">{L("Why.", "ทำไม")}</a></p></div>')
 
 
 def sources_block(r: dict) -> str:
@@ -567,68 +730,97 @@ def sources_block(r: dict) -> str:
     for s in r["source_list"]:
         title = E(s.get("title") or s["id"])
         pub = f' <span class="mute">— {E(s["publisher"])}</span>' if s.get("publisher") else ""
-        acc = f' <span class="mute">read {E(s["accessed"])}</span>' if s.get("accessed") else ""
+        acc = f' <span class="mute">{L("read", "อ่านเมื่อ")} {E(s["accessed"])}</span>' if s.get("accessed") else ""
         link = f'<a href="{E(s["url"])}">{title}</a>' if s.get("url") else title
         items.append(f"<li>{link}{pub}{acc}</li>")
-    return f'<h2>Where this came from</h2><ul>{"".join(items)}</ul>'
+    return f'<h2>{L("Where this came from", "ที่มา")}</h2><ul lang="en">{"".join(items)}</ul>' if LANG == "th" else \
+        f'<h2>Where this came from</h2><ul>{"".join(items)}</ul>'
 
 
 DAYS = ("Mo", "Tu", "We", "Th", "Fr", "Sa", "Su")
 DAY_NAME = {"Mo": "Monday", "Tu": "Tuesday", "We": "Wednesday", "Th": "Thursday",
             "Fr": "Friday", "Sa": "Saturday", "Su": "Sunday"}
+DAY_TH = {"Mo": ("จ", "วันจันทร์"), "Tu": ("อ", "วันอังคาร"), "We": ("พ", "วันพุธ"), "Th": ("พฤ", "วันพฤหัสบดี"),
+          "Fr": ("ศ", "วันศุกร์"), "Sa": ("ส", "วันเสาร์"), "Su": ("อา", "วันอาทิตย์")}
+STATE_TH = {"open": "เปิด", "closed": "ปิด", "unknown": "ไม่ทราบ"}
 
 
 def hours_block(r: dict) -> str:
     h = r.get("hours") or {}
+    th = LANG == "th"
     if not h:
-        return ('<div class="whenbox"><b>Opening days</b><p class="mute">Nobody has published days this project '
-                'could read. That is not the same as closed.</p></div>')
+        return (f'<div class="whenbox"><b>{L("Opening days", "วันเปิด")}</b><p class="mute">'
+                + L('Nobody has published days this project could read. That is not the same as closed.',
+                    'ยังไม่มีใครเผยแพร่วันเปิดที่โครงการนี้อ่านได้ ซึ่งไม่ได้แปลว่าปิด')
+                + '</p></div>')
     op, cl = set(h.get("open", [])), set(h.get("closed", []))
     cells = []
     for d in DAYS:
         state = "open" if d in op else ("closed" if d in cl else "unknown")
         col = {"open": "var(--faience)", "closed": "var(--line)", "unknown": "transparent"}[state]
-        cells.append(f'<span class="chip" style="background:{col}" title="{DAY_NAME[d]} — {state}">{d}</span>')
-    txt = f'<p class="hrs">{E(h["text"])}</p>' if h.get("text") else ""
-    chk = f' <span class="mute">checked {E(h["checked"])}</span>' if h.get("checked") else ""
-    return (f'<div class="whenbox"><b>Opening days</b><p>{"".join(cells)}</p>{txt}'
-            f'<p class="mute" style="font-size:.86rem">Filled = open, outlined = closed, blank = nobody published it. '
-            f'A blank stays a blank.{chk}</p></div>')
+        if th:
+            cells.append(f'<span class="chip" style="background:{col}" title="{DAY_TH[d][1]} — {STATE_TH[state]}">{DAY_TH[d][0]}</span>')
+        else:
+            cells.append(f'<span class="chip" style="background:{col}" title="{DAY_NAME[d]} — {state}">{d}</span>')
+    txt = f'<p class="hrs">{tf(r, "hours.text", h["text"])}</p>' if h.get("text") else ""
+    chk = f' <span class="mute">{L("checked", "ตรวจเมื่อ")} {E(h["checked"])}</span>' if h.get("checked") else ""
+    return (f'<div class="whenbox"><b>{L("Opening days", "วันเปิด")}</b><p>{"".join(cells)}</p>{txt}'
+            f'<p class="mute" style="font-size:.86rem">'
+            + L('Filled = open, outlined = closed, blank = nobody published it. A blank stays a blank.',
+                'ทึบ = เปิด ขอบ = ปิด ว่าง = ไม่มีใครเผยแพร่ ช่องว่างคงเป็นช่องว่าง')
+            + f'{chk}</p></div>')
+
+
+CONF_TH = {"high": "สูง", "medium": "กลาง", "low": "ต่ำ"}
 
 
 def node_page(r: dict, by_id: dict, places: list) -> str:
     n = r["names"]
-    native = f'<span class="native">{E(n["native"])}</span>' if n.get("native") else ""
-    said = f'<p class="said">said {E(n["said"])}</p>' if n.get("said") else ""
-    ali = (f'<p class="mute">also: {E(" · ".join(n["aliases"]))}</p>') if n.get("aliases") else ""
-    chips = [f'<a class="chip" href="../../{DIR_OF[r["type"]]}/index.html">{E(DIR_OF[r["type"]][:-1] if DIR_OF[r["type"]].endswith("s") else DIR_OF[r["type"]])}</a>']
+    th = LANG == "th"
+    title_name = rname(r)
+    if th:
+        second = [x for x in (n["name"] if n["name"] != title_name else "", n.get("native") if n.get("native") not in (title_name, None) else "") if x]
+        native = "".join(f'<span class="native"{" lang=en" if x == n["name"] else ""}>{E(x)}</span>' for x in second)
+    else:
+        native = f'<span class="native">{E(n["native"])}</span>' if n.get("native") else ""
+    said = f'<p class="said">{L("said", "ออกเสียง")} {E(n["said"])}</p>' if n.get("said") else ""
+    ali = (f'<p class="mute">{L("also", "ชื่ออื่น")}: {E(" · ".join(n["aliases"]))}</p>') if n.get("aliases") else ""
+    one = DIR_OF[r["type"]][:-1] if DIR_OF[r["type"]].endswith("s") else DIR_OF[r["type"]]
+    chips = [f'<a class="chip" href="../../{DIR_OF[r["type"]]}/index.html">{E(TH["types"][r["type"]]["one"] if th else one)}</a>']
     for t in r.get("region_terms", []):
-        chips.append(f'<span class="chip">{E(t.get("name") or t.get("key"))}</span>')
+        chips.append(f'<span class="chip">{E(th_label("regions", t.get("key"), t.get("name") or t.get("key")))}</span>')
     for c in r.get("country_names", [])[:12]:
-        chips.append(f'<a class="chip" href="../../map/index.html#c-{E(c["iso"])}">{E(c["name"])}</a>')
+        chips.append(f'<a class="chip" href="../../map/index.html#c-{E(c["iso"])}">{E(th_label("countries", c["iso"], c["name"]))}</a>')
     if r.get("confidence") != "high":
-        chips.append(f'<span class="chip tier-inference">confidence {E(r["confidence"])}</span>')
+        chips.append(f'<span class="chip tier-inference">{L("confidence " + str(r["confidence"]), "ความมั่นใจ " + CONF_TH.get(r["confidence"], str(r["confidence"])))}</span>'
+                     if th else f'<span class="chip tier-inference">confidence {E(r["confidence"])}</span>')
     if r.get("needs_verification"):
-        chips.append('<span class="chip tier-inference">needs checking</span>')
+        chips.append(f'<span class="chip tier-inference">{L("needs checking", "รอตรวจสอบ")}</span>')
 
-    body = [f'<h1><span class="kind">{E(DIR_OF[r["type"]])}</span>{E(n["name"])}{native}</h1>{said}{ali}',
+    kind = TH["types"][r["type"]]["name"] if th else DIR_OF[r["type"]]
+    body = [f'<h1><span class="kind">{E(kind)}</span>{E(title_name)}{native}</h1>{said}{ali}',
             f'<p>{"".join(chips)}</p>']
     if r["type"] == "motif" and viz.GLYPHS.get(r["id"]):
         body.append(f'<p style="color:var(--carn)">{viz.glyph(r["id"], 96)}</p>')
     body.append(restricted_block(r))
-    body.append(f'<p class="lede">{E(r["text"]["what"])}</p> {tier_chip(r.get("tiers", {}).get("text.what", {}))}')
+    what_th = (r.get("text_th") or {}).get("what") if th else None
+    if th and not what_th:
+        body.append(f'<p class="mute no-th">{NO_TH}</p><p class="lede" lang="en">{E(r["text"]["what"])}</p> '
+                    f'{tier_chip(r.get("tiers", {}).get("text.what", {}))}')
+    else:
+        body.append(f'<p class="lede">{E(what_th or r["text"]["what"])}</p> {tier_chip(r.get("tiers", {}).get("text.what", {}))}')
 
     et = r.get("etymology") or {}
     if et.get("root") or et.get("first_attested") or et.get("note"):
         bits = []
         if et.get("root"):
-            bits.append(f'<b>{E(et["root"])}</b>')
+            bits.append(f'<b>{tf(r, "etymology.root", et["root"])}</b>')
         if et.get("first_attested"):
-            bits.append(f'First written down: {E(et["first_attested"])}.')
+            bits.append(f'{L("First written down", "บันทึกครั้งแรก")}: {tf(r, "etymology.first_attested", et["first_attested"])}' + L(".", ""))
         if et.get("note"):
-            bits.append(E(et["note"]))
+            bits.append(tf(r, "etymology.note", et["note"]))
         if et.get("folk"):
-            bits.append(f'<span class="mute">Folk etymology, labelled as one: {E(et["folk"])}</span>')
+            bits.append(f'<span class="mute">{L("Folk etymology, labelled as one", "นิรุกติศาสตร์พื้นบ้าน ระบุไว้ว่าเป็นเช่นนั้น")}: {tf(r, "etymology.folk", et["folk"])}</span>')
         body.append(f'<div class="etym"><p>{"<br>".join(bits)} {tier_chip(et)}</p></div>')
 
     if r.get("primary_image"):
@@ -641,84 +833,96 @@ def node_page(r: dict, by_id: dict, places: list) -> str:
     body.append(against_block(r))
 
     if r["text"].get("story"):
-        body.append(f'<h2>The story</h2>{prose(r["text"]["story"])} {tier_chip(r.get("tiers", {}).get("text.story", {}))}')
+        body.append(f'<h2>{L("The story", "เรื่องราว")}</h2>{ttext(r, "story")} {tier_chip(r.get("tiers", {}).get("text.story", {}))}')
     if r["text"].get("how"):
-        body.append(f'<h2>How it is made and carried</h2>{prose(r["text"]["how"])} {tier_chip(r.get("tiers", {}).get("text.how", {}))}')
+        body.append(f'<h2>{L("How it is made and carried", "ทำและพกอย่างไร")}</h2>{ttext(r, "how")} {tier_chip(r.get("tiers", {}).get("text.how", {}))}')
     if r["text"].get("today"):
-        body.append(f'<h2>Now</h2>{prose(r["text"]["today"])} {tier_chip(r.get("tiers", {}).get("text.today", {}))}')
-    for sec in r.get("sections", []):
-        body.append(f'<div class="sect"><h2>{E(sec["h"])}</h2>{prose(sec["text"])}</div>')
+        body.append(f'<h2>{L("Now", "ปัจจุบัน")}</h2>{ttext(r, "today")} {tier_chip(r.get("tiers", {}).get("text.today", {}))}')
+    for i, sec in enumerate(r.get("sections", [])):
+        tft = (r.get("th_fields") or {}) if th else {}
+        if th and tft.get(f"sections.{i}.text"):
+            body.append(f'<div class="sect"><h2>{E(tft.get(f"sections.{i}.h") or sec["h"])}</h2>{prose(tft[f"sections.{i}.text"])}</div>')
+        elif th:
+            body.append(f'<div class="sect" lang="en"><h2>{E(sec["h"])}</h2>{prose(sec["text"])}</div>')
+        else:
+            body.append(f'<div class="sect"><h2>{E(sec["h"])}</h2>{prose(sec["text"])}</div>')
     if r["text"].get("notes"):
-        body.append(f'<h2>Notes</h2>{prose(r["text"]["notes"])}')
+        body.append(f'<h2>{L("Notes", "หมายเหตุ")}</h2>{ttext(r, "notes")}')
 
     if r["type"] == "place" and r.get("geo"):
         others = [p for p in places if p.get("lat") is not None and p["id"] != r["id"]]
-        body.append('<h2>Where</h2><div class="mapwrap">'
+        body.append(f'<h2>{L("Where", "ที่ตั้ง")}</h2><div class="mapwrap">'
                     + viz.locator(r["geo"]["lat"], r["geo"]["lon"], others, 760, 34, n["name"]) + "</div>")
         a = r.get("address") or {}
         line = ", ".join(x for x in (a.get("street"), a.get("city"), a.get("admin")) if x)
-        body.append(f'<p class="mute">{E(line)} · {r["geo"]["lat"]:.4f}, {r["geo"]["lon"]:.4f} '
-                    f'<span class="chip">precision: {E(r["geo"].get("precision") or "unstated")}</span> '
+        body.append(f'<p class="mute">{tf(r, "address", line)} · {r["geo"]["lat"]:.4f}, {r["geo"]["lon"]:.4f} '
+                    f'<span class="chip">{L("precision", "ความแม่นยำ")}: {E(r["geo"].get("precision") or L("unstated", "ไม่ระบุ"))}</span> '
                     f'{tier_chip(r.get("tiers", {}).get("geo", {}))}</p>')
         if r["geo"].get("source"):
-            body.append(f'<p class="mute" style="font-size:.88rem">{E(r["geo"]["source"])}</p>')
+            body.append(f'<p class="mute" style="font-size:.88rem">{tf(r, "geo.source", r["geo"]["source"])}</p>')
         body.append(hours_block(r))
 
     if r.get("tag_facts"):
-        body.append('<h2>What is on record about it</h2><ul>' + "".join(
-            f'<li><b>{E(t["label"])}</b> — {E(t.get("note") or t.get("evidence") or "")} '
-            f'{tier_chip({"tier": t.get("tier")})}</li>' for t in r["tag_facts"]) + "</ul>")
+        body.append(f'<h2>{L("What is on record about it", "สิ่งที่มีบันทึกไว้")}</h2><ul>' + "".join(
+            f'<li><b>{E(t["label"])}</b> — {tf(r, f"tags.{i}.note", t.get("note") or t.get("evidence") or "")} '
+            f'{tier_chip({"tier": t.get("tier")})}</li>' for i, t in enumerate(r["tag_facts"])) + "</ul>")
     if r.get("recognition_facts"):
-        body.append('<h2>Recognised by</h2><ul>' + "".join(
-            f'<li>{E(x["label"])} — {E(x["what"])}{" (" + E(x["year"]) + ")" if x.get("year") else ""}</li>'
+        body.append(f'<h2>{L("Recognised by", "ได้รับการรับรองโดย")}</h2><ul>' + "".join(
+            f'<li>{E(x["label"])} — {en_span(E(x["what"]))}{" (" + E(x["year"]) + ")" if x.get("year") else ""}</li>'
             for x in r["recognition_facts"]) + "</ul>")
     body.append(holdings_block(r))
 
     if r.get("confusable_with"):
-        body.append('<h2>Not to be confused with</h2><ul>' + "".join(
+        body.append(f'<h2>{L("Not to be confused with", "อย่าสับสนกับ")}</h2><ul>' + "".join(
             f'<li><a href="../../{PATH_OF[by_id[c["id"]]["type"]]}/{E(c["id"])}/index.html">'
-            f'{E(by_id[c["id"]]["names"]["name"])}</a> — {E(c["tell"])}</li>'
-            for c in r["confusable_with"] if c["id"] in by_id) + "</ul>")
+            f'{E(rname(by_id[c["id"]]))}</a> — {tf(r, f"confusable_with.{i}.tell", c["tell"])}</li>'
+            for i, c in enumerate(r["confusable_with"]) if c["id"] in by_id) + "</ul>")
 
     body.append(kin_block(r, by_id, 2))
     body.append(sources_block(r))
     if r.get("links"):
-        body.append('<h2>Elsewhere</h2><ul>' + "".join(
+        body.append(f'<h2>{L("Elsewhere", "ที่อื่น")}</h2><ul>' + "".join(
             f'<li><a href="{E(l["url"])}">{E(l["label"])}</a></li>' for l in r["links"]) + "</ul>")
-    body.append(f'<p class="legend">Record updated {E(r["updated"])}. '
-                f'<a href="../../api/{E(r["type"])}/{E(r["id"])}.json">This record as JSON</a>. '
-                f'Every field carries its own provenance; the tier chips above say which.</p>')
-    return page(f'{n["name"]} — {SITE_NAME}', "".join(body), 2, r["blurb"], node_jsonld(r),
+    body.append(f'<p class="legend">{L("Record updated", "ปรับปรุงบันทึก")} {E(r["updated"])}{L(".", "")} '
+                f'<a href="../../api/{E(r["type"])}/{E(r["id"])}.json">{L("This record as JSON", "บันทึกนี้ในรูปแบบ JSON")}</a>{L(".", "")} '
+                + L("Every field carries its own provenance; the tier chips above say which.",
+                    "ช่องข้อมูลบอกที่มาของตัวเอง ป้ายระดับด้านบนบอกว่าเป็นระดับใด") + '</p>')
+    return page(f'{title_name} — {SITE_NAME_TH if th else SITE_NAME}', "".join(body), 2, tblurb(r), node_jsonld(r),
                 f"{SITE_URL}/{url_of(r)}", alt_json=f"{SITE_URL}/api/{r['type']}/{r['id']}.json",
                 og_type="article" if r["type"] in ("story", "art") else "website", card=r["id"])
 
 
 def type_index(t: dict, recs: list[dict], by_id: dict) -> str:
-    rs = sorted([r for r in recs if r["type"] == t["key"]], key=lambda r: r["names"]["name"].lower())
+    th = LANG == "th"
+    tv = TH["types"].get(t["key"], {}) if th else {}
+    rs = sorted([r for r in recs if r["type"] == t["key"]], key=lambda r: rname(r).lower())
     groups: dict = {}
     for r in rs:
         groups.setdefault(group_key(r, t.get("group_by")) or "", []).append(r)
     blocks = []
     for g in sorted(groups, key=lambda g: (g == "", str(g))):
-        head = f'<h2>{E(str(g).replace("-", " ").title())} <span class="count">({len(groups[g])})</span></h2>' if g else \
-               (f'<h2>The rest <span class="count">({len(groups[g])})</span></h2>' if len(groups) > 1 else "")
+        head = f'<h2>{E(group_head(g))} <span class="count">({len(groups[g])})</span></h2>' if g else \
+               (f'<h2>{L("The rest", "อื่น ๆ")} <span class="count">({len(groups[g])})</span></h2>' if len(groups) > 1 else "")
         cards = "".join(
-            f'<div class="card"><a class="t" href="../{PATH_OF[r["type"]]}/{E(r["id"])}/index.html">{E(r["names"]["name"])}</a>'
-            + (f'<p class="mute" style="font-size:.8rem">{E(r["span"])}</p>' if r.get("span") else "")
-            + f'<p>{E(clip(r["blurb"], 170))}</p></div>' for r in groups[g])
+            f'<div class="card"><a class="t" href="../{PATH_OF[r["type"]]}/{E(r["id"])}/index.html">{E(rname(r))}</a>'
+            + (f'<p class="mute" style="font-size:.8rem">{E(tspan(r))}</p>' if r.get("span") else "")
+            + (f'<p>{E(clip(tblurb(r), 170))}</p></div>' if not th or (r.get("text_th") or {}).get("what")
+               else f'<p lang="en">{E(clip(r["blurb"], 170))}</p></div>') for r in groups[g])
         blocks.append(head + f'<div class="cards">{cards}</div>')
-    body = (f'<h1><span class="kind">{E(SITE_NAME)}</span>{E(t["name"])}</h1>'
-            f'<p class="lede">{E(t["blurb"])}</p>' + "".join(blocks))
+    body = (f'<h1><span class="kind">{E(SITE_NAME_TH if th else SITE_NAME)}</span>{E(tv.get("name") or t["name"])}</h1>'
+            f'<p class="lede">{E(tv.get("blurb") or t["blurb"])}</p>' + "".join(blocks))
     jl = [{"@context": "https://schema.org", "@type": "ItemList", "name": f"{t['name']} — {SITE_NAME}",
            "url": f"{SITE_URL}/{DIR_OF[t['key']]}/", "numberOfItems": len(rs),
            "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": r["names"]["name"],
                                 "url": f"{SITE_URL}/{url_of(r)}"} for i, r in enumerate(rs)]}]
-    return page(f'{t["name"]} — {SITE_NAME}', body, 1, t["blurb"], jl,
+    return page(f'{tv.get("name") or t["name"]} — {SITE_NAME_TH if th else SITE_NAME}', body, 1, tv.get("blurb") or t["blurb"], jl,
                 f"{SITE_URL}/{DIR_OF[t['key']]}/", card=DIR_OF[t["key"]])
 
 
 def front_page(recs: list[dict], by_id: dict, types: dict, atlas: dict, timeline: dict,
                against: dict, cov: dict) -> str:
+    if LANG == "th":
+        return front_page_th(recs, by_id, types, atlas, timeline, against, cov)
     counts = {row["iso"]: row["n"] for row in atlas["rows"]}
     links = {row["iso"]: f"#c-{row['iso']}" for row in atlas["rows"]}
     n_amulet = sum(1 for r in recs if r["type"] == "amulet")
@@ -797,14 +1001,90 @@ instead of the thing.</p>
     return page(f"{SITE_NAME} — {TAGLINE}", "".join(body), 0, cov["scope"], jl, SITE_URL + "/", card="index")
 
 
+def front_page_th(recs: list[dict], by_id: dict, types: dict, atlas: dict, timeline: dict,
+                  against: dict, cov: dict) -> str:
+    counts = {row["iso"]: row["n"] for row in atlas["rows"]}
+    links = {row["iso"]: f"map/index.html#c-{row['iso']}" for row in atlas["rows"]}
+    n_amulet = sum(1 for r in recs if r["type"] == "amulet")
+    edges = sum(len(r.get("kin_out", [])) for r in recs)
+    oldest = cov["time"].get("earliest_year")
+    top_harms = [h for h in against["harms"] if h["n"]][:8]
+    living = [r for r in timeline["rows"] if r["living"]]
+    home = sorted([r for r in recs if "TH" in (r.get("countries") or []) and (r.get("text_th") or {}).get("story")],
+                  key=lambda r: (r["type"] != "amulet", rname(r)))
+    home_cards = "".join(
+        f'<div class="card"><a class="t" href="{url_of(r)}index.html">{E(rname(r))}</a>'
+        f'<p class="mute" style="font-size:.8rem">{E(TH["types"][r["type"]]["one"])}</p>'
+        f'<p>{E(clip(tblurb(r), 150))}</p></div>' for r in home)
+    body = [f"""
+<div class="hero">
+  <h1>{SITE_NAME_TH}</h1>
+  <p class="sub">{E(TAGLINE_TH)}</p>
+  <p class="mute" lang="en">Amulet Atlas</p>
+</div>
+<div class="facts">
+  <div class="fact"><span class="n">{len(recs)}</span><span class="l">บันทึก</span></div>
+  <div class="fact"><span class="n">{n_amulet}</span><span class="l">ชนิดเครื่องราง</span></div>
+  <div class="fact"><span class="n">{atlas["countries"]}</span><span class="l">ประเทศที่ระบุ</span></div>
+  <div class="fact"><span class="n">{edges}</span><span class="l">ลิงก์เชื่อมโยง</span></div>
+  <div class="fact"><span class="n">{against["count"]}</span><span class="l">คำกล่าว พร้อมชื่อผู้กล่าว</span></div>
+  <div class="fact"><span class="n">{E(year_th(oldest)) if oldest is not None else "—"}</span><span class="l">เก่าที่สุดที่ระบุปีได้</span></div>
+  <div class="fact"><span class="n">{len(living)}</span><span class="l">ยังใช้อยู่</span></div>
+  <div class="fact"><span class="n">{cov["sources"]}</span><span class="l">แหล่งที่มา</span></div>
+</div>
+<p class="lede">ครอบคลุมทุกซีกโลก ตั้งแต่ลูกปัดที่มีคนเจาะเมื่อห้าพันปีก่อน ไปจนถึงสติกเกอร์บนโทรศัพท์
+แต่ละบันทึกบอกว่าสิ่งนั้น<b>คืออะไร</b> ผู้พกบอกว่ามัน<b>กันอะไร</b> — ระบุชื่อ อ้างคำพูด และไม่ได้ทดสอบที่นี่ —
+และมีบันทึกไว้<b>ที่ไหน</b>และ<b>เมื่อไร</b> ที่ใดที่สายความเชื่อขอไม่ให้เผยแพร่ แอตลาสนี้พิมพ์คำขอนั้นแทนตัวสิ่งนั้น</p>
+<div class="cta">
+  <a class="btn" href="#thai">จากเมืองไทย</a>
+  <a class="btn ghost" href="map/index.html">แผนที่ (EN)</a>
+  <a class="btn ghost" href="time/index.html">ห้าพันปี บนแกนเดียว (EN)</a>
+  <a class="btn ghost" href="against/index.html">กันอะไร (EN)</a>
+</div>
+<h2 id="thai">จากเมืองไทย</h2>
+<p class="mute">บันทึกที่เขียนเป็นภาษาไทยครบทั้งเรื่อง</p>
+<div class="cards">{home_cards}</div>
+<h2 id="map">บันทึกอยู่ที่ไหน</h2>
+<div class="mapwrap" lang="en">{viz.world_choropleth(counts, 1040, "records by country", unit="records", links=links)}</div>
+<p class="mute" style="font-size:.9rem">ประเทศที่ว่างบนแผนที่หมายความว่ายังไม่มีบันทึกใดระบุถึง ไม่ได้หมายความว่าไม่มีใครที่นั่นพกเครื่องราง
+<a href="map/index.html">แผนที่ฉบับเต็ม (EN) →</a></p>
+"""]
+    body.append('<h2>สัญลักษณ์</h2><p class="mute">วาดขึ้นสำหรับแอตลาสนี้จากคำบรรยายที่ตีพิมพ์ '
+                'ไม่ได้ลอกจากวัตถุชิ้นใดชิ้นหนึ่ง</p><div class="glyphgrid">')
+    for r in sorted([x for x in recs if x["type"] == "motif"], key=lambda x: rname(x)):
+        g = viz.glyph(r["id"], 52)
+        if not g:
+            continue
+        body.append(f'<a href="sign/{E(r["id"])}/index.html">{g}<span class="nm">{E(rname(r))}</span>'
+                    f'<span class="ct">{E(clip(span_th(r), 30))}</span></a>')
+    body.append('</div>')
+
+    if top_harms:
+        body.append('<h2>ผู้คนกังวลเรื่องอะไรกันจริง ๆ</h2>'
+                    + viz.bars([{"label": th_label("against", h["key"], h["label"]), "n": h["n"]} for h in top_harms], 1040, " คำกล่าว", 30, 260)
+                    + '<p class="mute" style="font-size:.9rem">หนึ่งแถวต่อหนึ่งคำกล่าว ไม่ใช่ต่อเครื่องรางหนึ่งชิ้น '
+                      '<a href="against/index.html">ตารางทั้งหมด (EN) →</a></p>')
+
+    body.append('<h2>ทั้งหมด แยกตามประเภท</h2>')
+    body.append(directory_sections(recs, types, 0, limit=14))
+    body.append('<p class="legend">บันทึกเขียนด้วยมือเป็น JSON หนึ่งไฟล์ต่อหนึ่งเรื่อง ช่องข้อมูลระบุระดับที่มา '
+                '<a href="coverage/index.html">สิ่งที่แอตลาสนี้ยังไม่ครอบคลุม (EN)</a> · '
+                '<a href="sources/index.html">แหล่งที่มาทั้งหมด (EN)</a> · <a href="api/nodes.json">ข้อมูล</a></p>')
+    jl = [{"@context": "https://schema.org", "@type": "WebSite", "name": SITE_NAME_TH, "alternateName": SITE_NAME,
+           "url": SITE_URL + "/th/", "description": TAGLINE_TH, "inLanguage": "th", "author": AUTHOR}]
+    return page(f"{SITE_NAME_TH} — {TAGLINE_TH}", "".join(body), 0, TAGLINE_TH, jl, SITE_URL + "/", card="index")
+
+
 def wander_page(recs: list[dict]) -> str:
     urls = json.dumps([url_of(r) + "index.html" for r in recs])
-    body = ('<h1>Wander</h1><p class="lede">One record at random. Press <b>r</b> anywhere on this site '
-            'for another.</p><noscript><p>Pick one: '
-            + " · ".join(f'<a href="{url_of(r)}index.html">{E(r["names"]["name"])}</a>' for r in recs[:60])
+    body = (L('<h1>Wander</h1><p class="lede">One record at random. Press <b>r</b> anywhere on this site '
+              'for another.</p><noscript><p>Pick one: ',
+              '<h1>สุ่มอ่าน</h1><p class="lede">สุ่มหนึ่งบันทึก กด <b>r</b> ที่ไหนก็ได้ในเว็บนี้เพื่อสุ่มใหม่</p>'
+              '<noscript><p>เลือกหนึ่งเรื่อง: ')
+            + " · ".join(f'<a href="{url_of(r)}index.html">{E(rname(r))}</a>' for r in recs[:60])
             + "</p></noscript>"
             f'<script>var U={urls};location.replace(U[Math.floor(Math.random()*U.length)]);</script>')
-    return page(f"Wander — {SITE_NAME}", body, 0, "A record at random.")
+    return page(L(f"Wander — {SITE_NAME}", f"สุ่มอ่าน — {SITE_NAME_TH}"), body, 0, L("A record at random.", "สุ่มหนึ่งบันทึก"))
 
 
 def sources_page(sources: dict) -> str:
@@ -983,7 +1263,9 @@ def llms_txt(recs: list[dict], cov: dict) -> str:
              f"- [Record schema]({SITE_URL}/schema/node.schema.json)",
              f"- [Vocabularies]({SITE_URL}/api/vocab/against.json)",
              f"- [Sources registry]({SITE_URL}/api/sources.json)",
-             f"- [Full text of every record]({SITE_URL}/llms-full.txt)", ""]
+             f"- [Full text of every record]({SITE_URL}/llms-full.txt)",
+             f"- [The Thai edition · ฉบับภาษาไทย]({SITE_URL}/th/): the same records under /th/; a record's Thai is in "
+             "`names.th`, `text_th` and `kin[].as_th`", ""]
     for t in TYPES:
         rs = sorted([r for r in recs if r["type"] == t], key=lambda r: r["names"]["name"].lower())
         if not rs:
@@ -1053,6 +1335,12 @@ def sitemap(recs: list[dict], extra: list) -> str:
             urls.append((f"{SITE_URL}/{DIR_OF[t]}/", today, "0.7"))
     for r in recs:
         urls.append((f"{SITE_URL}/{url_of(r)}", r["updated"], "0.6"))
+    urls.append((f"{SITE_URL}/th/", today, "0.9"))
+    for t in TYPES:
+        if t not in FOLDED and any(r["type"] == t for r in recs):
+            urls.append((f"{SITE_URL}/th/{DIR_OF[t]}/", today, "0.6"))
+    for r in recs:
+        urls.append((f"{SITE_URL}/th/{url_of(r)}", r["updated"], "0.5"))
     body = "".join(f"<url><loc>{E(u)}</loc><lastmod>{E(m)}</lastmod><priority>{p}</priority></url>"
                    for u, m, p in urls)
     return f'<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">{body}</urlset>'
@@ -1220,6 +1508,25 @@ def main() -> int:
         d = SITE / url_of(r)
         d.mkdir(parents=True, exist_ok=True)
         (d / "index.html").write_text(node_page(r, by_id, places["places"]), encoding="utf-8")
+
+    # the Thai edition: the same front page, directories and records under /th/
+    global LANG
+    LANG = "th"
+    tdir = SITE / "th"
+    tdir.mkdir()
+    (tdir / "index.html").write_text(front_page(recs, by_id, types, atlas, timeline, against, cov), encoding="utf-8")
+    (tdir / "wander.html").write_text(wander_page(recs), encoding="utf-8")
+    for t in types["entries"]:
+        if t["key"] in FOLDED:
+            continue
+        d = tdir / DIR_OF[t["key"]]
+        d.mkdir(exist_ok=True)
+        (d / "index.html").write_text(type_index(t, recs, by_id), encoding="utf-8")
+    for r in recs:
+        d = tdir / url_of(r)
+        d.mkdir(parents=True, exist_ok=True)
+        (d / "index.html").write_text(node_page(r, by_id, places["places"]), encoding="utf-8")
+    LANG = "en"
 
     (SITE / "sources").mkdir(exist_ok=True)
     (SITE / "sources" / "index.html").write_text(sources_page(sources), encoding="utf-8")

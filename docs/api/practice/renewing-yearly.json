@@ -10,7 +10,8 @@
    "jamasan",
    "the year's charm"
   ],
-  "said": "swapping last year's for this year's"
+  "said": "swapping last year's for this year's",
+  "th": "การเปลี่ยนใหม่ทุกปี"
  },
  "region": [
   "japan",
@@ -41,6 +42,9 @@
   "how": "Take it off or take it down; return it, burn it, bury it or leave it on a branch; obtain the replacement; put it where the old one was. In Java the equivalent is not replacement but cleaning: jamasan, the yearly cleaning of a kris, is required by the tradition and has left ancient blades worn thin.",
   "story": "Japan does this at scale and gives a reason. Japanese practice places great weight on purity and newness — tokowaka, eternal youth — and it is on that ground that annual replacement of ofuda and omamori is encouraged. New ofuda are obtained before the end of the year or during the New Year season; the old ones are returned to the shrine or temple where they came from as a form of thanks, though most Shinto shrines in practice accept talismans from other shrines. Omamori are customarily replaced once a year and returned on or shortly after the New Year, so that the coming year starts with a fresh one. Old ones are not thrown away: they are burnt at a ceremony called Sagichō or Dondoyaki held at the Little New Year, on 14 or 15 January.\n\nDaruma dolls date the system precisely. Charms drawn at Shorinzan Daruma Temple in Takasaki were given with an effectiveness of one year, so parishioners needed new ones every year; the ninth priest, Togaku, handled the demand by giving the people wooden block moulds and letting them make their own papier-mâché charms, near the beginning of the Meiwa period, 1764–72. Takasaki now produces eighty per cent of Japan's daruma, and the city's annual Daruma Doll Festival draws, by the city's own account, more than 400,000 people buying the year's dolls.\n\nBulgaria and North Macedonia run a spring version. Martenitsi go on at Baba Marta Day, 1 March, and come off when the wearer first sees a stork, a swallow or a blossoming tree — or at the end of March. The old one is tied to the branch of a fruit tree, giving the tree the health and luck the wearer had while wearing it, or put under a stone to be read the next day by whichever creature is nearest it. Ireland weaves a new Saint Brigid's cross on 1 February from rushes gathered the evening before; crosses were either taken down annually and replaced or left to accumulate between feasts, and discarded ones were burned or buried, with burial preferred because of Brigid's associations with agriculture.\n\nJewish practice keeps a different clock and it is worth naming as a contrast. A mezuzah is not replaced annually; many observant Jews have a qualified scribe check the parchments for tears and faded lettering at least twice every seven years. The object is meant to last, and the maintenance is inspection rather than replacement.\n\n*Inference —* the parallel between a Japanese year-end burning, a martenitsa on a March branch and a yearly kris cleaning is real at the level of structure: each treats potency as something that runs down and has to be topped up on a date the calendar sets, not on a date the owner picks. What is this project's own reading, and not any tradition's claim, is the further step of grouping them — the reasons given differ completely, purity in one case, the return of spring in another, upkeep of a blade in a third, and no source read here connects them.",
   "today": "Live, and commercially organised. Japanese shrines and temples stock the year's talismans in quantity and hold the January fires; Takasaki's daruma market runs annually. Martenitsi are sold across Bulgaria and North Macedonia every February and hang on fruit trees through April. Mezuzah checking is a paid scribal service."
+ },
+ "text_th": {
+  "what": "เครื่องรางที่มีวันหมดอายุ อันเก่าถูกปลดลง ส่งคืน เผา ฝัง หรือผูกไว้กับต้นไม้ และอันใหม่มาแทนที่ในวันที่กำหนด วันนั้นมักเป็นจุดเปลี่ยนของปฏิทิน เช่น ปีใหม่ วันฉลองนักบุญ วันแรกของฤดูใบไม้ผลิ และการสับเปลี่ยนนี้เองคือการปฏิบัติ ไม่ใช่ตัววัตถุ"
  },
  "dating": {
   "period": "Edo Japan to the present",
@@ -251,70 +255,90 @@
    "type": "amulet",
    "name": "Omamori",
    "as": "the charm with the clearest expiry: replaced yearly, returned to its shrine, burnt in January",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "the household talisman whose replacement is argued for on the ground of purity, not of wear",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "daruma",
    "type": "amulet",
    "name": "Daruma",
    "as": "the doll sold with an effectiveness of one year — and the reason a temple started handing out moulds",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ดารุมะ",
+   "as_th": ""
   },
   {
    "to": "martenitsa",
    "type": "amulet",
    "name": "Martenitsa",
    "as": "the spring version, whose end date is set by a bird rather than by a date",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "มาร์เตนิตซา",
+   "as_th": ""
   },
   {
    "to": "brigids-cross",
    "type": "amulet",
    "name": "Brigid's cross",
    "as": "woven fresh each 1 February from rushes gathered the night before",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กางเขนนักบุญบริจิด",
+   "as_th": ""
   },
   {
    "to": "keris-pusaka",
    "type": "amulet",
    "name": "Keris pusaka",
    "as": "the blade that is cleaned annually rather than replaced, and worn thin by the cleaning",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กริชปูซากา (กริชมรดก)",
+   "as_th": ""
   },
   {
    "to": "mezuzah",
    "type": "amulet",
    "name": "Mezuzah",
    "as": "the opposite clock: checked by a scribe twice in seven years, and meant to last",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เมซูซา",
+   "as_th": ""
   },
   {
    "to": "burning-retirement",
    "type": "practice",
    "name": "Burning at retirement",
    "as": "where last year's charm goes on 14 or 15 January",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเผาเครื่องรางเมื่อหมดวาระ",
+   "as_th": ""
   },
   {
    "to": "japanese-engimono",
    "type": "tradition",
    "name": "Engimono",
    "as": "the tradition that runs this cycle at national scale",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the other half of the cycle — an annual expiry is also an annual sale",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -539,133 +563,171 @@
    "type": "amulet",
    "name": "Brigid's cross",
    "as": "the rhythm — one a year on 1 February, or a rafter's worth accumulating over decades",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "กางเขนนักบุญบริจิด",
+   "as_th": ""
   },
   {
    "from": "corn-dolly",
    "type": "amulet",
    "name": "Corn dolly",
    "as": "the rhythm it runs on — one made each harvest, last year's gone into the furrow",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ตุ๊กตาฟางข้าว (คอร์นดอลลี)",
+   "as_th": ""
   },
   {
    "from": "daruma",
    "type": "amulet",
    "name": "Daruma",
    "as": "the rule that gave the doll its shape: the founder's charms expired in a year, so the parishioners came back",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ดารุมะ",
+   "as_th": ""
   },
   {
    "from": "lungta-flag",
    "type": "amulet",
    "name": "Lung ta prayer flag",
    "as": "the practice that keeps it going — replaced each Tibetan New Year, the old string left flying beside the new",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ธงลุงตา (ธงมนต์ม้าลม)",
+   "as_th": ""
   },
   {
    "from": "martenitsa",
    "type": "amulet",
    "name": "Martenitsa",
    "as": "the practice this object defines: one month, then it goes on a fruit tree or under a stone",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "มาร์เตนิตซา",
+   "as_th": ""
   },
   {
    "from": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "the twelve-month clock that governs it, and the reason Japan burns so much paper each January",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "omamori",
    "type": "amulet",
    "name": "Omamori",
    "as": "the rule that shapes the whole object — twelve months, then a new one",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "ping-an-fu",
    "type": "amulet",
    "name": "Ping'an fu",
    "as": "its clock — one year, then the furnace",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ผิงอันฝู (ยันต์ขอความสงบสุข)",
+   "as_th": ""
   },
   {
    "from": "japanese-engimono",
    "type": "tradition",
    "name": "Engimono",
    "as": "the practice this tradition runs at national scale, and the reason its output is an annual figure rather than a stock",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "red-thread",
    "type": "motif",
    "name": "The red thread",
    "as": "the practice the Balkan thread runs on: a start date, a sign, an end",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "from": "wood",
    "type": "material",
    "name": "Wood",
    "as": "the other reason wooden charms are young: they are replaced on a schedule",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ไม้",
+   "as_th": ""
   },
   {
    "from": "blessing-at-a-shrine",
    "type": "practice",
    "name": "Blessing at a shrine",
    "as": "what happens next: a charm issued at a counter comes back to it in a year",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การนำไปรับพรที่ศาสนสถาน",
+   "as_th": "สิ่งที่เกิดขึ้นต่อไป: เครื่องรางที่ออกจากเคาน์เตอร์จะกลับมาที่เดิมในอีกหนึ่งปี"
   },
   {
    "from": "burning-retirement",
    "type": "practice",
    "name": "Burning at retirement",
    "as": "the cycle this fire closes",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเผาเครื่องรางเมื่อหมดวาระ",
+   "as_th": ""
   },
   {
    "from": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the other half of the cycle: an annual expiry is also an annual sale",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": "อีกครึ่งหนึ่งของวงจร: การหมดอายุทุกปีก็คือการขายทุกปี"
   },
   {
    "from": "feeding-the-charm",
    "type": "practice",
    "name": "Feeding the charm",
    "as": "the calendar version of the same upkeep, done to the object instead of with food",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "การเลี้ยงเครื่องราง",
+   "as_th": ""
   },
   {
    "from": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "the clock several door charms run on, in Ireland and Japan alike",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "from": "inheriting",
    "type": "practice",
    "name": "Inheriting",
    "as": "the upkeep an inherited blade carries — jamasan, the yearly cleaning",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การสืบทอดเครื่องราง",
+   "as_th": ""
   },
   {
    "from": "knotting",
    "type": "practice",
    "name": "Knotting",
    "as": "the practice a martenitsa belongs to: worn for a season, then taken off on a sign from a bird",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การผูกปม",
+   "as_th": ""
   },
   {
    "from": "omamori-word",
    "type": "term",
    "name": "omamori",
    "as": "the practice the word implies — an omamori has a term, and the term is a year",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "โอมาโมริ",
+   "as_th": ""
   }
  ]
 }

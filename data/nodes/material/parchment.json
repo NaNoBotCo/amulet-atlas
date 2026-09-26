@@ -10,7 +10,8 @@
    "klaf",
    "vellum",
    "hide"
-  ]
+  ],
+  "th": "แผ่นหนัง (พาร์ชเมนต์)"
  },
  "region": [
   "levant",
@@ -31,6 +32,9 @@
   "story": "Jewish practice states the material rule in law. A mezuzah is a piece of parchment, klaf, inscribed with passages from Deuteronomy and fixed in a case to a doorpost. It must be written on parchment by a specially trained scribe, a sofer stam, in indelible black ink, with a quill made from a feather or — now quite rare — a reed. A photocopy of the text on paper, sold with a decorated case, is not a valid mezuzah. Observant households have the parchments checked by a scribe for tears and faded lettering at least twice every seven years.\n\nTefillin put the same material inside leather. The boxes are fashioned from a single piece of animal hide; inside are scrolls of parchment carrying four passages, the arm box holding all four on one strip and the head box holding one scroll in each of its four compartments. There are 3,188 letters to write, and a sofer can take as long as fifteen hours over a complete set. The letters must be written in sequence: a mistake found later cannot be corrected, because the replacement letter would have been written out of order. That is a material discipline as much as a legal one — parchment takes a correction visibly.\n\nEarly Egyptian Christians wrote textual amulets on strips of papyrus, parchment and other materials, using scriptural incipits — the opening words of the Gospels, the Lord's Prayer, Psalm 91 — in Greek and Coptic, to cure bodily illness and to keep demons off. Those survive from late antiquity, roughly 300 to 700 CE, and almost all of them come out of Egypt. Tibetan Buddhist practice encloses prayers on a parchment scroll inside a prayer wheel, where each rotation counts as one recitation of everything written inside.\n\n*Inference —* parchment is a skin, and the tradition that guards it most closely is also the one that will not make images. A charm that refuses a picture still puts the words on an animal.",
   "how": "Written by hand with a quill, in ink the tradition specifies; rolled, then cased in wood, metal, leather or clay. Checked, repaired and replaced on a schedule where the tradition sets one.",
   "today": "Still written by scribes, still checked, still sold with the case as a separate purchase — and the distinction between the parchment and its case is where most of the market confusion sits."
+ },
+ "text_th": {
+  "what": "หนังสัตว์ที่ขูด แช่ปูนขาว และตากให้แห้งจนรับหมึกและเก็บหมึกไว้ได้ เป็นวัสดุที่ทนทานที่สุดของเครื่องรางแบบเขียน: แข็งแรงกว่ากระดาษปาปิรัส แข็งแรงกว่ากระดาษมาก และในธรรมเนียมหนึ่ง เป็นพื้นผิวเดียวที่กฎทางศาสนาอนุญาตให้เขียนเครื่องรางได้"
  },
  "dating": {
   "period": "late antiquity to the present",

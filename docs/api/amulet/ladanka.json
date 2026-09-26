@@ -13,7 +13,8 @@
    "ковчежец",
    "incense pouch",
    "Orthodox reliquary pendant"
-  ]
+  ],
+  "th": "ลาดันกา (ถุงกำยานออร์โธด็อกซ์)"
  },
  "etymology": {
   "root": "Russian ладан, 'incense, frankincense', plus a diminutive — the little thing you keep incense in",
@@ -43,6 +44,9 @@
   "story": "The Orthodox reference portal Azbyka very defines it in one line: a ковчежец со священными реликвиями в виде иконы, носимый на шее — a small reliquary with sacred relics, in the form of an icon, worn at the neck. The Russian encyclopedic entry adds the older layer: a fabric pouch, worn on the body, holding ладан, incense, and sometimes a bone from a saint's remains. Ivan Shmelev, in Bogomolye, gives it in a child's voice: \"У бабушки ладанка из Иерусалима с косточкой... от мощей...\" — grandmother has a ladanka from Jerusalem with a little bone in it, from the relics.\n\nThe positional rule is the first thing every Orthodox source states, and it is the whole argument in miniature. Её принято носить вместе с ним, но не вместо него: it is worn together with the cross, never instead of it. The cross is the baptismal object and cannot be displaced by this one.\n\nThe second thing every Orthodox source states is what a ladanka is not. Azbyka very is categorical: никаких оберегов и амулетов православный христианин носить на себе не должен — an Orthodox Christian should wear no protective charms and no amulets at all. The same entry says that wearing a ladanka with a prayer inside carries no sacred meaning without knowledge of the prayer and a personal appeal to God, and that treating an object with Christian symbolism as an amulet does the soul no good. The Russian encyclopedic account, describing what people do rather than what the Church teaches, records the object as functioning as both талисман and амулет, and notes that the pouches have carried protective signs.\n\n*Inference —* set those two paragraphs side by side and this is the Orthodox twin of the Catholic argument on this shelf. In Rome the Church built a legal category — the sacramental — that lets a blessed object be devotional without being magical, and then spent centuries policing the edge of it. Here there is no such category to stand on; the instruction is simply not to. The object is still sold, still filled, still worn under the shirt, and the instruction is still printed.\n\nThe trade has moved with the money. Monastery and church shops sell ladanki in sterling silver and gold with enamelled icons on the lid; one Moscow Orthodox shop's catalogue page, read on 17 September 2026, listed twenty-five of them priced between 5,377 and 50,037 roubles. The cloth pouch with incense in it costs a fraction of that and is the older thing.",
   "how": "Bought at a church or monastery shop, or given. Filled with incense, a relic fragment, or a written prayer, and hung on the cross cord at the neck. The Orthodox sources this record cites do not describe a consecration rite for the pouch itself and this project has not gone looking for one; what they describe instead is where the relic or the incense came from, which is what carries the weight. Nothing is said about retiring one.",
   "today": "Sold in Russian church and monastery shops in 2026 in every price band, from a fabric pouch to a gold locket. The Orthodox reference portal that explains what it is spends most of the entry explaining what it must not be taken for, which is a fair description of the object's position now."
+ },
+ "text_th": {
+  "what": "ถุงเล็ก ๆ หรือตลับเล็กมีบานพับ แขวนคอด้วยเชือกหรือสร้อยเส้นเดียวกับกางเขนศีลล้างบาป แบบเก่าทำจากผ้า แบบที่ขายทุกวันนี้เป็นโลหะปั๊มหรือหล่อ ฝามักมีรูปไอคอน ข้างในใส่กำยาน หรือชิ้นส่วนพระธาตุ หรือบทภาวนาที่เขียนไว้ ส่วนใหญ่เป็นบทข้าแต่พระบิดา เพลงสดุดีบทที่ 90 หรือบทภาวนาพระเยซู สวมแนบผิว และไม่เปิดอวดใคร"
  },
  "dating": {
   "period": "not dated by the sources read here",
@@ -225,63 +229,81 @@
    "type": "amulet",
    "name": "Agnus Dei",
    "as": "the Roman object closest to it — a blessed thing worn at the neck, with the same question attached about what it is",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "อักนุส เดอี (ลูกแกะของพระเจ้า)",
+   "as_th": ""
   },
   {
    "to": "st-christopher-medal",
    "type": "amulet",
    "name": "St Christopher medal",
    "as": "what a Catholic neck carries where this hangs beside an Orthodox cross",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เหรียญนักบุญคริสโตเฟอร์",
+   "as_th": ""
   },
   {
    "to": "hirz-pouch",
    "type": "amulet",
    "name": "Hirz",
    "as": "the Islamic sewn pouch doing the same work — a written prayer, carried on the body, not to be opened",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ฮิรซ์ (ตลับใส่โองการอัลกุรอาน)",
+   "as_th": ""
   },
   {
    "to": "gau-box",
    "type": "amulet",
    "name": "Gau",
    "as": "the Tibetan version — a metal case at the neck with a consecrated thing inside, and a hinged lid",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กาอู (ตลับเครื่องรางทิเบต)",
+   "as_th": ""
   },
   {
    "to": "mezuzah",
    "type": "amulet",
    "name": "Mezuzah",
    "as": "the other container this atlas holds whose contents are a named text and whose rules are about placement",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เมซูซา",
+   "as_th": ""
   },
   {
    "to": "cross",
    "type": "motif",
    "name": "The cross",
    "as": "the sign it is worn with and never instead of",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "กางเขน",
+   "as_th": ""
   },
   {
    "to": "wearing-hidden",
    "type": "practice",
    "name": "Wearing hidden",
    "as": "the practice — under the shirt, on the cross cord, not opened",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การสวมเครื่องรางแบบซ่อน",
+   "as_th": ""
   },
   {
    "to": "tama-votive",
    "type": "amulet",
    "name": "Tama",
    "as": "the other Orthodox object in this atlas, and the one that goes on the icon rather than on the body",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ทามา (แผ่นโลหะถวายของกรีก)",
+   "as_th": ""
   },
   {
    "to": "amulet-or-talisman",
    "type": "story",
    "name": "Amulet or talisman?",
    "as": "the long read where a church's own word for an object collides with the reader's",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "อะมูเล็ตหรือทาลิสแมน?",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -420,35 +442,45 @@
    "type": "amulet",
    "name": "Agnus Dei",
    "as": "the Orthodox pouch that does the same job — a blessed thing worn at the neck, with the same argument attached about what it is",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "อักนุส เดอี (ลูกแกะของพระเจ้า)",
+   "as_th": ""
   },
   {
    "from": "miraculous-medal",
    "type": "amulet",
    "name": "Miraculous Medal",
    "as": "what hangs beside an Orthodox cross where this hangs beside a Catholic one",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เหรียญอัศจรรย์",
+   "as_th": ""
   },
   {
    "from": "st-christopher-medal",
    "type": "amulet",
    "name": "St Christopher medal",
    "as": "what an Orthodox neck carries instead, and the Orthodox version of the same line between devotion and charm",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เหรียญนักบุญคริสโตเฟอร์",
+   "as_th": ""
   },
   {
    "from": "tama-votive",
    "type": "amulet",
    "name": "Tama",
    "as": "the other Orthodox object in this atlas — that one is worn on the body, this one is given away",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ทามา (แผ่นโลหะถวายของกรีก)",
+   "as_th": ""
   },
   {
    "from": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "the Orthodox object worn at the neck beside the cross, blessed the same way and argued over in the same terms",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   }
  ]
 }

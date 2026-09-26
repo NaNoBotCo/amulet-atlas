@@ -10,7 +10,8 @@
    "St Christopher medal",
    "visor medal",
    "dashboard statue"
-  ]
+  ],
+  "th": "นักบุญประจำรถ (เหรียญนักบุญคริสโตเฟอร์)"
  },
  "region": [
   "western-europe",
@@ -39,6 +40,9 @@
   "story": "The image is legible before the text is. The Golden Legend, the thirteenth-century compendium of saints' lives, tells how Christopher, after his conversion, spent his life carrying travellers across a river; one day a boy asked to be carried, grew heavier with every step as the water rose, and on the far bank revealed himself as Christ. From that story various Christian denominations made him the patron saint of travellers, and small images of him are worn at the neck, on a bracelet, carried in a pocket or placed in a vehicle. Miniature statues are frequently displayed in automobiles. He is named patron of motorists and drivers alongside mariners, ferrymen, archers, bookbinders and gardeners.\n\nThe medals say out loud what they are for. The widespread French phrase is \"Regarde St Christophe et va-t-en rassuré\" — look at Saint Christopher and go on reassured. The Spanish medals and holy cards carry a harder promise: \"Si en San Cristóbal confías, de accidente no morirás\" — if you trust in Saint Christopher, you will not die in an accident. This atlas prints those two sentences as what the object says of itself, names who says it, and stops there.\n\nThe Church's own position moved under the object. Christopher's commemoration was of relatively late date, around 1550; by 1954 it had been extended to all Masses; in 1970 it was dropped from the general calendar of the Roman rite and restricted to particular calendars. *Inference —* the medal did not go with it. A devotional object with a working use outlived the liturgical decision that demoted it, which is the ordinary pattern for this whole class and not a Catholic peculiarity.\n\nHe is not alone on the dashboard. Japan's shrines sell a kōtsū-anzen omamori specifically for traffic safety, and it hangs from the same mirror in Nagoya that the medal is clipped under in Marseille.",
   "how": "Bought at a church shop, a shrine stall, a service station or online, and fixed where the driver can see it: clipped to the visor, adhered to the dash, hung from the mirror, slipped behind a licence plate. A medal may be blessed by a priest as a sacramental; nothing requires it to be. It stays with the car more often than with the driver, and is passed on with the vehicle.",
   "today": "Still sold and still fixed in cars across Catholic Europe and the Americas in 2026, and still stocked alongside the Miraculous Medal and the scapular in the same shops. No dated price was read for this record."
+ },
+ "text_th": {
+  "what": "เหรียญโลหะปั๊มที่หนีบไว้กับแผงบังแดดหรือติดกาวไว้บนคอนโซลหน้ารถ หรือรูปปั้นจิ๋วที่ตั้งอยู่บนคอนโซล เป็นภาพชายร่างยักษ์กำลังลุยข้ามแม่น้ำโดยมีเด็กคนหนึ่งอยู่บนบ่า ภาพเดียวกันนี้ยังใช้เป็นจี้ห้อยคอ ติดกับสร้อยข้อมือ หรือพกไว้ในกระเป๋า เหรียญทำจากอะลูมิเนียม ดีบุก ทองเหลือง หรือเงิน ส่วนใหญ่มีขนาด 15 ถึง 30 mm รูปปั้นบนคอนโซลเป็นเรซินทาสี"
  },
  "dating": {
   "period": "the motor age",
@@ -239,56 +243,72 @@
    "type": "amulet",
    "name": "St Christopher medal",
    "as": "the same saint worn at the neck rather than fixed to a car — this record is what happens when the medal gets a dashboard",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เหรียญนักบุญคริสโตเฟอร์",
+   "as_th": ""
   },
   {
    "to": "omamori",
    "type": "amulet",
    "name": "Omamori",
    "as": "the Japanese object doing the same job from the same mirror: kōtsū-anzen, sold for traffic safety",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "the Church's category a blessed medal falls into, and the framework the object outlived a calendar decision inside",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   },
   {
    "to": "miraculous-medal",
    "type": "amulet",
    "name": "Miraculous Medal",
    "as": "the other stamped medal on the same shop counter, for a different promise",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เหรียญอัศจรรย์",
+   "as_th": ""
   },
   {
    "to": "ojo-de-venado",
    "type": "amulet",
    "name": "Ojo de venado",
    "as": "what hangs from the other side of the same Mexican rear-view mirror",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โอโฮ เด เวนาโด (ตากวาง)",
+   "as_th": ""
   },
   {
    "to": "hei-matau",
    "type": "amulet",
    "name": "Hei matau",
    "as": "the Pacific object most often worn against danger on a crossing",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เฮย์ มาเตา (จี้ตะขอเบ็ดเมารี)",
+   "as_th": ""
   },
   {
    "to": "latin-american-folk-catholic",
    "type": "tradition",
    "name": "Latin American folk Catholic charm practice",
    "as": "the tradition that fills the most dashboards with this image",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ธรรมเนียมเครื่องรางคาทอลิกพื้นบ้านละตินอเมริกา",
+   "as_th": ""
   },
   {
    "to": "the-charm-goes-digital",
    "type": "story",
    "name": "The charm goes digital",
    "as": "the long read about where a travel charm went next, once the journey had a screen in it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เครื่องรางในโลกดิจิทัล",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -461,49 +481,63 @@
    "type": "amulet",
    "name": "Cornicello",
    "as": "where it hangs now: from the rear-view mirror, beside or instead of a saint",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คอร์นิเชลโล (เขานำโชคอิตาลี)",
+   "as_th": ""
   },
   {
    "from": "ojo-de-venado",
    "type": "amulet",
    "name": "Ojo de venado",
    "as": "what hangs on the other side of the same rear-view mirror",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โอโฮ เด เวนาโด (ตากวาง)",
+   "as_th": ""
   },
   {
    "from": "phone-charm",
    "type": "amulet",
    "name": "Phone charm",
    "as": "what hangs from the mirror where this hangs from the handset, doing the same job from the next surface over",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สายห้อยมือถือ",
+   "as_th": ""
   },
   {
    "from": "quran-pendant",
    "type": "amulet",
    "name": "Qur'an pendant",
    "as": "where this one most often ends up now — hung from a mirror rather than worn",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "จี้อัลกุรอาน",
+   "as_th": ""
   },
   {
    "from": "st-christopher-medal",
    "type": "amulet",
    "name": "St Christopher medal",
    "as": "the same medal once the traveller got an engine — clipped to a visor instead of worn at the throat",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เหรียญนักบุญคริสโตเฟอร์",
+   "as_th": ""
   },
   {
    "from": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "where the argument lives now: a medal on a dashboard, and two accounts of what it is doing there",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   },
   {
    "from": "latin-american-folk-catholic",
    "type": "tradition",
    "name": "Latin American folk Catholic charm practice",
    "as": "the dashboard end of it, where a devotional medal prints a promise the Catechism warns against",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ธรรมเนียมเครื่องรางคาทอลิกพื้นบ้านละตินอเมริกา",
+   "as_th": ""
   }
  ]
 }

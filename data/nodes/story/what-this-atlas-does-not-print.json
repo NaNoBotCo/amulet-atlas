@@ -4,13 +4,28 @@
  "type": "story",
  "names": {
   "name": "What this atlas does not print",
-  "aliases": ["the restriction rule", "why Australia is blank"]
+  "aliases": [
+   "the restriction rule",
+   "why Australia is blank"
+  ],
+  "th": "สิ่งที่แอตลาสนี้ไม่ตีพิมพ์"
  },
- "region": ["world", "australia"],
- "countries": ["AU"],
- "facets": {"kind": "essay", "era": "modern"},
+ "region": [
+  "world",
+  "australia"
+ ],
+ "countries": [
+  "AU"
+ ],
+ "facets": {
+  "kind": "essay",
+  "era": "modern"
+ },
  "text": {
   "what": "Open the map and one continent is close to empty. Australia has one of the longest continuous records of protective objects anywhere, and this atlas prints almost none of it. That is not an oversight, a research gap or a shortage of published material — it is a rule, applied on purpose, and this record is the rule explained by the project that wrote it, to the reader who has just noticed the hole."
+ },
+ "text_th": {
+  "what": "เปิดแผนที่ดู แล้วจะพบว่ามีทวีปหนึ่งเกือบว่างเปล่า ออสเตรเลียมีหลักฐานเรื่องวัตถุคุ้มครองที่ต่อเนื่องยาวนานที่สุดแห่งหนึ่งในโลก และแอตลาสนี้แทบไม่ตีพิมพ์เรื่องนั้นเลย นั่นไม่ใช่ความตกหล่น ช่องว่างของการค้นคว้า หรือการขาดแคลนเอกสารที่ตีพิมพ์ แต่เป็นกฎที่ตั้งใจใช้ และบันทึกนี้คือคำอธิบายกฎนั้นจากโครงการที่เขียนมันขึ้น ถึงผู้อ่านที่เพิ่งสังเกตเห็นช่องโหว่"
  },
  "sections": [
   {
@@ -46,24 +61,77 @@
   "note": "Dated from the publication of GERAIS in 1999, its 2012 revision and its replacement by the AIATSIS Code in 2020, not from the age of the restrictions themselves, which are older than any of those documents."
  },
  "kin": [
-  {"to": "aiatsis", "as": "the body whose Act and Code this rule is modelled on, and whose wording is quoted here rather than paraphrased", "rel": "org"},
-  {"to": "who-owns-a-charm", "as": "the companion read — this one is about what may be said, that one about what may be kept", "rel": "story"},
-  {"to": "pitt-rivers-museum", "as": "a museum that applied the same test to its own cases in 2020, and published its reasons", "rel": "org"},
-  {"to": "wellcome-collection", "as": "a collection that said in 2021 how its holdings were formed, and returned manuscripts in 2025", "rel": "org"},
-  {"to": "te-papa", "as": "a museum built around the proposition that the originating community sets the terms", "rel": "org"},
-  {"to": "maori-taonga", "as": "a tradition with published protocols of its own, which this atlas follows rather than summarises", "rel": "tradition"},
-  {"to": "dating-a-charm", "as": "the other methods note — why an undated record is not an undated object", "rel": "story"},
-  {"to": "free-to-use", "as": "what this project does publish, and on what terms", "rel": "story"},
-  {"to": "the-drawn-signs", "as": "the pictures the atlas makes itself, partly so it never has to publish one it should not", "rel": "art"}
+  {
+   "to": "aiatsis",
+   "as": "the body whose Act and Code this rule is modelled on, and whose wording is quoted here rather than paraphrased",
+   "rel": "org"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the companion read — this one is about what may be said, that one about what may be kept",
+   "rel": "story"
+  },
+  {
+   "to": "pitt-rivers-museum",
+   "as": "a museum that applied the same test to its own cases in 2020, and published its reasons",
+   "rel": "org"
+  },
+  {
+   "to": "wellcome-collection",
+   "as": "a collection that said in 2021 how its holdings were formed, and returned manuscripts in 2025",
+   "rel": "org"
+  },
+  {
+   "to": "te-papa",
+   "as": "a museum built around the proposition that the originating community sets the terms",
+   "rel": "org"
+  },
+  {
+   "to": "maori-taonga",
+   "as": "a tradition with published protocols of its own, which this atlas follows rather than summarises",
+   "rel": "tradition"
+  },
+  {
+   "to": "dating-a-charm",
+   "as": "the other methods note — why an undated record is not an undated object",
+   "rel": "story"
+  },
+  {
+   "to": "free-to-use",
+   "as": "what this project does publish, and on what terms",
+   "rel": "story"
+  },
+  {
+   "to": "the-drawn-signs",
+   "as": "the pictures the atlas makes itself, partly so it never has to publish one it should not",
+   "rel": "art"
+  }
  ],
  "links": [
-  {"label": "AIATSIS — Wikipedia", "url": "https://en.wikipedia.org/wiki/Australian_Institute_of_Aboriginal_and_Torres_Strait_Islander_Studies"}
+  {
+   "label": "AIATSIS — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Australian_Institute_of_Aboriginal_and_Torres_Strait_Islander_Studies"
+  }
  ],
- "sources": ["s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies", "s:wp-tjurunga", "s:wp-pitt-rivers-museum", "s:wp-wellcome-collection", "s:wp-repatriation-cultural-property", "s:repo-atlas-schema"],
+ "sources": [
+  "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies",
+  "s:wp-tjurunga",
+  "s:wp-pitt-rivers-museum",
+  "s:wp-wellcome-collection",
+  "s:wp-repatriation-cultural-property",
+  "s:repo-atlas-schema"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies"
+  },
   "fields": {
-   "sections": {"tier": "cited", "source": "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies", "note": "the two stretches of this project's own reasoning are labelled inline; the schema section is from the repository's own schema and validator"}
+   "sections": {
+    "tier": "cited",
+    "source": "s:wp-australian-institute-of-aboriginal-and-torres-strait-islander-studies",
+    "note": "the two stretches of this project's own reasoning are labelled inline; the schema section is from the repository's own schema and validator"
+   }
   }
  },
  "images": [],

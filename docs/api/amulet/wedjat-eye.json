@@ -13,7 +13,8 @@
    "udjat",
    "udjat eye",
    "Horus eye amulet"
-  ]
+  ],
+  "th": "ตาเวดจัต (ดวงตาแห่งฮอรัส)"
  },
  "etymology": {
   "root": "Egyptian wḏꜣt, feminine of wḏꜣ 'whole, sound, uninjured' — the eye after it was healed, not before",
@@ -49,6 +50,9 @@
   "story": "The eye comes out of a fight. Set tears out Horus's eye; Thoth, or another god, puts it back; Horus gives the restored eye to his dead father Osiris, and the offering keeps Osiris going in the afterlife. That is why the sign stands for an offering as much as for an eye, and why it turns up on temple walls beside the meat and bread.\n\nAs an amulet it runs from the Old Kingdom to the Roman period — roughly 2686 BCE to the seventh century CE, which is close to three thousand years of continuous use, and the longest run of any object in this atlas. Coffins of the First Intermediate Period and the Middle Kingdom carry a pair of eyes painted on the side, positioned so the mummy inside could look out through them. Boats carried them on the bows. *Tradition holds —* the eye also travelled: Syria, Canaan and especially Nubia took the sign up from Egypt, and Nubian versions are common enough that a museum tray of them is rarely all Egyptian.\n\n*Inference —* the arithmetic on the shelf is worth stating plainly. An object that was cheap to mould, buried by the thousand, and made of a material that does not rot is an object that survives; the reed, cloth and dough charms that stood beside it did not. What a museum drawer holds is a record of what lasts, not a census of what Egypt wore.",
   "how": "Moulded in faience or cut from carnelian, lapis, gold or glass, pierced at the top or through the back, and strung. Size was the variable, not the design — the same eye scaled from a bead to a pectoral. In mummification the eye went into the wrappings, and one class of it covered the embalmer's incision.",
   "today": "Nobody makes a wedjat as a wedjat any more in Egypt's ancient sense; the practice ended with the religion. It is made by the million as jewellery, sold in Cairo, Luxor and every airport shop that sells to Egypt's visitors, and worn worldwide by people with no connection to Osiris. As of 2026 the sign is also standard tattoo flash. Whether the mass-market version is the same object is an argument this atlas reports and does not settle."
+ },
+ "text_th": {
+  "what": "ดวงตามนุษย์แบบประดิษฐ์ มีลายแก้มของเหยี่ยวม้วนอยู่ใต้ตา แกะหรือหล่อให้เล็กพอจะร้อยห้อยคอ ชิ้นที่หลงเหลือมาส่วนใหญ่เป็นเฟยองซ์ — เนื้อควอตซ์ที่เคลือบสีฟ้าอมเขียวในเตาเผา — ขนาดกว้างไม่กี่เซนติเมตร อียิปต์ทำเครื่องรางรูปนี้มากกว่ารูปทรงอื่นใด ทั้งให้คนเป็นสวม และให้พันไว้กับผู้ตาย"
  },
  "dating": {
   "period": "Old Kingdom to Roman Egypt",
@@ -268,70 +272,90 @@
    "type": "motif",
    "name": "The eye",
    "as": "the sign this amulet carries, and the oldest dated member of the family that runs from here to a glass bead in Istanbul",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "scarab",
    "type": "amulet",
    "name": "Scarab",
    "as": "the other amulet Egypt made by the thousand; the scarab went under the wrappings at the heart, the eye over the incision",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "สคารับ (ด้วงศักดิ์สิทธิ์อียิปต์)",
+   "as_th": ""
   },
   {
    "to": "heart-scarab",
    "type": "amulet",
    "name": "Heart scarab",
    "as": "its partner in the wrappings — one guards the body's opening, the other speaks for the dead at the weighing",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สคารับหัวใจ",
+   "as_th": ""
   },
   {
    "to": "faience",
    "type": "material",
    "name": "Faience",
    "as": "the material that made it cheap enough to bury by the thousand, and durable enough to still be here",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เฟยองซ์ (ควอตซ์เคลือบอียิปต์)",
+   "as_th": ""
   },
   {
    "to": "carnelian",
    "type": "material",
    "name": "Carnelian",
    "as": "the red stone version, cut rather than moulded, and costlier",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "คาร์เนเลียน",
+   "as_th": ""
   },
   {
    "to": "egyptian-amulet-craft",
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "the tradition that produced it, on a scale no other ancient practice matches",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   },
   {
    "to": "ankh-amulet",
    "type": "amulet",
    "name": "Ankh amulet",
    "as": "made in the same workshops and strung on the same cords, for life rather than for soundness",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เครื่องรางอังค์",
+   "as_th": ""
   },
   {
    "to": "nazar",
    "type": "amulet",
    "name": "Nazar",
    "as": "the eye answering the eye, four thousand years later and in glass rather than faience",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "to": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "the practice that is the reason this amulet survives at all",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "to": "flinders-petrie",
    "type": "person",
    "name": "Flinders Petrie",
    "as": "the excavator who sorted Egypt's amulets into the classes museums still use",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "ฟลินเดอร์ส พีทรี",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -584,133 +608,171 @@
    "type": "amulet",
    "name": "Ankh amulet",
    "as": "made in the same workshops and strung on the same cords, and far more often — the eye is what Egypt actually wore",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เครื่องรางอังค์",
+   "as_th": ""
   },
   {
    "from": "cippus-of-horus",
    "type": "amulet",
    "name": "Cippus of Horus",
    "as": "the eye of the same god, worn small; this is the god himself as a child, carved large and rinsed",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ซิปปัสแห่งฮอรัส (ศิลาฮอรัส)",
+   "as_th": ""
   },
   {
    "from": "heart-scarab",
    "type": "amulet",
    "name": "Heart scarab",
    "as": "its partner in the wrappings: one speaks for the dead at the weighing, the other guards the cut the embalmer made",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สคารับหัวใจ",
+   "as_th": ""
   },
   {
    "from": "nazar",
    "type": "amulet",
    "name": "Nazar",
    "as": "the same argument four thousand years earlier, drawn in faience instead of blown in glass",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "from": "scarab",
    "type": "amulet",
    "name": "Scarab",
    "as": "the other amulet Egypt made by the thousand; the eye went over the embalmer's incision, the scarab over the heart",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "สคารับ (ด้วงศักดิ์สิทธิ์อียิปต์)",
+   "as_th": ""
   },
   {
    "from": "egyptian-amulet-craft",
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "the shape this tradition made more of than any other, for the living and for the dead",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   },
   {
    "from": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "the oldest dated amulet in this family, and the one that fixes the sign's shape for three thousand years",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "from": "spiral",
    "type": "motif",
    "name": "The spiral",
    "as": "carries the sign as a tail — the curl below the eye that Wilkinson traces to a cheetah's markings",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เกลียวก้นหอย",
+   "as_th": ""
   },
   {
    "from": "carnelian",
    "type": "material",
    "name": "Carnelian",
    "as": "the eye ground out of this stone rather than pressed from paste — the costlier half of the same tray",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "คาร์เนเลียน",
+   "as_th": ""
   },
   {
    "from": "faience",
    "type": "material",
    "name": "Faience",
    "as": "the amulet this material made cheap enough to bury by the thousand, and durable enough to still be here",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เฟยองซ์ (ควอตซ์เคลือบอียิปต์)",
+   "as_th": ""
   },
   {
    "from": "glass",
    "type": "material",
    "name": "Glass",
    "as": "the Egyptian amulet that shared a string with the first spotted glass beads, from the thirteenth century BCE",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "แก้ว",
+   "as_th": ""
   },
   {
    "from": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "the amulet Egypt buried in the greatest numbers, and the reason museum trays of it are so deep",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "from": "met-egyptian-galleries",
    "type": "place",
    "name": "The Egyptian galleries, the Metropolitan Museum of Art",
    "as": "the amulet this walk is really about — seven galleries of them, in faience, carnelian, obsidian and gold",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ห้องจัดแสดงอียิปต์ พิพิธภัณฑ์ศิลปะเมโทรโพลิแทน",
+   "as_th": ""
   },
   {
    "from": "flinders-petrie",
    "type": "person",
    "name": "Flinders Petrie",
    "as": "one of the classes his 1914 catalogue fixed, and the amulet his excavations turned up by the thousand",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ฟลินเดอร์ส พีทรี",
+   "as_th": ""
   },
   {
    "from": "british-museum",
    "type": "org",
    "name": "The British Museum",
    "as": "held here in quantity — the Egyptian amulet the collection has most of",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "พิพิธภัณฑ์บริติช (บริติชมิวเซียม)",
+   "as_th": ""
   },
   {
    "from": "metropolitan-museum",
    "type": "org",
    "name": "The Metropolitan Museum of Art",
    "as": "held here and photographed here, under a licence that lets this atlas reproduce the photograph",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "พิพิธภัณฑ์ศิลปะเมโทรโพลิทัน (เดอะเมต)",
+   "as_th": "เก็บรักษาและถ่ายภาพไว้ที่นี่ ภายใต้สัญญาอนุญาตที่ให้แอตลาสนี้นำภาพถ่ายมาเผยแพร่ซ้ำได้"
   },
   {
    "from": "petrie-amulet-plates",
    "type": "art",
    "name": "Petrie's amulet plates",
    "as": "the class that fills the most rows on these plates, because Egypt made more of it than of anything else",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "แผ่นภาพเครื่องรางของพีทรี",
+   "as_th": ""
   },
   {
    "from": "dating-a-charm",
    "type": "story",
    "name": "Dating a charm",
    "as": "the longest single excavated span in the atlas, and the record that says why a faience amulet survives when a dough one does not",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "การระบุอายุเครื่องราง",
+   "as_th": ""
   },
   {
    "from": "the-eye-everywhere",
    "type": "story",
    "name": "The eye everywhere",
    "as": "a different eye with its own religion behind it, kept separate here on purpose",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ดวงตาทุกหนแห่ง",
+   "as_th": ""
   }
  ]
 }

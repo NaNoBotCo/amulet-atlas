@@ -12,7 +12,8 @@
    "Gorgon head",
    "Medusa head",
    "Medusa mask"
-  ]
+  ],
+  "th": "กอร์โกเนออน (ศีรษะกอร์กอน)"
  },
  "region": [
   "greece-aegean",
@@ -37,6 +38,9 @@
  "text": {
   "what": "A face, not a body: wild eyes, tusks, tongue out, snakes for hair. It is moulded, cut or struck onto whatever needs guarding — a shield boss, a temple pediment, a terracotta roof antefix, a coin, the bottom of a drinking cup, a pendant. The archaic ones are hideous on purpose. From the fifth century BCE the face begins to be carved beautiful instead, and the Medusa Rondanini, a Roman copy of a Greek original, is the earliest such gorgoneion named in the literature.",
   "story": "Homer had already fixed what the thing was for. On Agamemnon's shield in the Iliad sits \"the Gorgon, grim of aspect, glaring terribly, and about her were Terror and Rout\"; on Athena's aegis the same head makes the aegis proof against Apollo's spear and Zeus's thunderbolt alike. Hector at his most frightening has \"the eyes of the Gorgon\". Odysseus, standing in the underworld and determined to stay, bolts at the thought of meeting \"the head of the Gorgon, that awful monster\".\n\nOver six hundred Gorgon representations are catalogued in the Lexicon Iconographicum Mythologiae Classicae, and of all the depictions of Greek demons, the gorgoneion is by far the most frequent. The consensus among classicists is that its function was apotropaic — a device for turning unwanted things away — and that it began as a mask worn by a dancer. Jane Ellen Harrison put that view in the form everyone still quotes: the gorgoneion is \"a ritual mask misunderstood\".\n\nHer argument runs backwards through the myth. What came first, she wrote, was \"a grinning mask with glaring eyes and protruding beast-like tusks and pendent tongue\", known in ritual. Then: \"How did this Gorgoneion come to be? A hero had slain a beast called the Gorgon, and this was its head.\" The object comes first; the monster is invented to explain it; the hero is supplied to kill the monster. Two seventh-century BCE groups of terracotta Gorgon-like masks support her — wearable helmet masks from Tiryns, and votive masks, not wearable, from the Sanctuary of Orthia at Sparta.\n\n*Inference —* the gorgoneion is the clearest case in the atlas of a charm that works by being looked at. Everything the sources say it does, it does to a viewer: terror, rout, flight. That is the same mechanism a Neapolitan coral horn or a blue glass bead is described as using, with the volume turned up."
+ },
+ "text_th": {
+  "what": "ใบหน้า ไม่มีร่างกาย ตาถลน มีเขี้ยว แลบลิ้น ผมเป็นงู ปั้น สลัก หรือตอกลงบนสิ่งที่ต้องการการปกป้อง เช่น ปุ่มกลางโล่ หน้าบันวิหาร กระเบื้องดินเผาปลายชายคา เหรียญ ก้นถ้วยดื่ม จี้ห้อยคอ แบบยุคอาร์เคอิกตั้งใจทำให้น่าเกลียด ตั้งแต่ศตวรรษที่ 5 ก่อน ค.ศ. ใบหน้าเริ่มถูกสลักให้งามแทน และเมดูซารอนดานินี (Medusa Rondanini) ซึ่งเป็นงานจำลองสมัยโรมันจากต้นฉบับกรีก คือกอร์โกเนออนแบบงามชิ้นแรกสุดที่งานเขียนทางวิชาการเอ่ยชื่อไว้"
  },
  "dating": {
   "period": "Archaic Greek through Roman",
@@ -221,63 +225,81 @@
    "type": "motif",
    "name": "The eye",
    "as": "the sign underneath this one; the gorgoneion's whole force sits in the glare, and Homer describes the eyes before anything else",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "greco-roman-apotropaic",
    "type": "tradition",
    "name": "Greek and Roman protective magic",
    "as": "the tradition whose loudest object this is",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน",
+   "as_th": ""
   },
   {
    "to": "fascinum",
    "type": "amulet",
    "name": "Fascinum",
    "as": "the Roman alternative for the same interception — a phallus instead of a face, and laughter instead of terror",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ฟัสซินุม (เครื่องรางรูปองคชาตโรมัน)",
+   "as_th": ""
   },
   {
    "to": "pazuzu-head",
    "type": "amulet",
    "name": "Pazuzu head",
    "as": "Mesopotamia's version of the argument: a frightening head, mounted facing the way in",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เศียรปาซูซู",
+   "as_th": ""
   },
   {
    "to": "holy-rider-pendant",
    "type": "amulet",
    "name": "Holy rider pendant",
    "as": "the medieval lead amulets whose main image resembles a gorgoneion and is read as a womb symbol — the face outliving the myth",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "จี้นักบุญขี่ม้า",
+   "as_th": ""
   },
   {
    "to": "nazar",
    "type": "amulet",
    "name": "Nazar",
    "as": "the same mechanism reduced to a bead, and the version still sold in Athens and Istanbul",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "to": "lion",
    "type": "motif",
    "name": "The lion",
    "as": "the beasts flanking the full Gorgon on the oldest standing Greek temple",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "สิงโต",
+   "as_th": ""
   },
   {
    "to": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "the practice the temple antefix is the monumental form of — put the guard where the thing gets in",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "to": "the-eye-everywhere",
    "type": "story",
    "name": "The eye everywhere",
    "as": "the long read; this is the family's most-copied member in the classical world",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ดวงตาทุกหนแห่ง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -458,84 +480,108 @@
    "type": "amulet",
    "name": "Bes amulet",
    "as": "the Greek face-on-the-object, staring out the same way for the same reason",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางเทพเบส",
+   "as_th": ""
   },
   {
    "from": "fascinum",
    "type": "amulet",
    "name": "Fascinum",
    "as": "the Greek answer to the same problem — terror where Rome used laughter",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ฟัสซินุม (เครื่องรางรูปองคชาตโรมัน)",
+   "as_th": ""
   },
   {
    "from": "holy-rider-pendant",
    "type": "amulet",
    "name": "Holy rider pendant",
    "as": "the face on the reverse; the medieval lead amulets carry a device that resembles one and is read as a womb symbol",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "จี้นักบุญขี่ม้า",
+   "as_th": ""
   },
   {
    "from": "nazar",
    "type": "amulet",
    "name": "Nazar",
    "as": "the Greek ancestor in the same soil: a frightening face doing by terror what the bead does by looking back",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "from": "pazuzu-head",
    "type": "amulet",
    "name": "Pazuzu head",
    "as": "the same device in Greek: a face too frightening to walk past, mounted where the danger comes in",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เศียรปาซูซู",
+   "as_th": ""
   },
   {
    "from": "toli-mirror",
    "type": "amulet",
    "name": "Toli",
    "as": "the far-off parallel — a disc worn on the chest as armour, meant for whatever is looking",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โตลี (กระจกของชามาน)",
+   "as_th": ""
   },
   {
    "from": "greco-roman-apotropaic",
    "type": "tradition",
    "name": "Greek and Roman protective magic",
    "as": "its loudest object, and the one whose function classicists agree on",
-   "rel": "part"
+   "rel": "part",
+   "name_th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน",
+   "as_th": ""
   },
   {
    "from": "spiral",
    "type": "motif",
    "name": "The spiral",
    "as": "the other thing a Greek put on a shield, which is how this record reads the triskeles blazon",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เกลียวก้นหอย",
+   "as_th": ""
   },
   {
    "from": "jet",
    "type": "material",
    "name": "Jet",
    "as": "the Medusa head Roman Britain liked to cut into jet cameos, aimed at whoever looked",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เจ็ต (หินเจ็ต)",
+   "as_th": ""
   },
   {
    "from": "terracotta",
    "type": "material",
    "name": "Fired clay",
    "as": "fired as masks at Tiryns and Sparta in the seventh century BCE, which is the earliest physical form of that face",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ดินเผา",
+   "as_th": "เผาเป็นหน้ากากที่ทีรินส์และสปาร์ตาในศตวรรษที่ 7 ก่อน ค.ศ. ซึ่งเป็นรูปแบบทางกายภาพที่เก่าที่สุดของใบหน้านั้น"
   },
   {
    "from": "monastiraki",
    "type": "place",
    "name": "Monastiraki",
    "as": "the older Greek answer to the same look, cut on shields and temple roofs instead of strung on a cord",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "โมนาสติรากิ",
+   "as_th": ""
   },
   {
    "from": "christopher-faraone",
    "type": "person",
    "name": "Christopher A. Faraone",
    "as": "the guardian face; his first book took the guardian statue, of which this is the portable end",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "คริสโตเฟอร์ เอ. ฟาราโอเน",
+   "as_th": ""
   }
  ]
 }

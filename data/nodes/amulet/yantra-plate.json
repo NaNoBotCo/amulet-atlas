@@ -8,7 +8,13 @@
   "script": "Devanagari",
   "lang": "sa",
   "said": "YAN-tra",
-  "aliases": ["yantra", "yantrá", "Sri Yantra", "Sri Chakra"]
+  "aliases": [
+   "yantra",
+   "yantrá",
+   "Sri Yantra",
+   "Sri Chakra"
+  ],
+  "th": "แผ่นยันต์ (ยันตระ)"
  },
  "etymology": {
   "root": "Sanskrit yantrá, from the root yam 'to sustain, support' with the instrument suffix -tra: literally a machine or contraption",
@@ -17,14 +23,54 @@
   "tier": "cited",
   "source": "s:wp-yantra"
  },
- "region": ["south-asia", "mainland-sea", "himalaya-tibet"],
- "countries": ["IN", "NP", "LK", "TH"],
- "facets": {"era": "medieval", "status": "living", "portable": "placed", "restricted": "open", "hemisphere": ["N", "E"]},
+ "region": [
+  "south-asia",
+  "mainland-sea",
+  "himalaya-tibet"
+ ],
+ "countries": [
+  "IN",
+  "NP",
+  "LK",
+  "TH"
+ ],
+ "facets": {
+  "era": "medieval",
+  "status": "living",
+  "portable": "placed",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "A geometric diagram, drawn on paper, painted, or engraved into a sheet of metal, and usually smaller and less coloured than a mandala. Shapes radiate from a centre point, the bindu: triangles, hexagrams, circles, lotus petals numbering anything from two to a thousand, and an outer square standing for the four directions, often with a doorway cut in each side. Sanskrit mantras are written into the design. A downward triangle is read as Shakti and an upward one as Shiva; white, red and black stand for the three gunas — sattva, rajas and tamas. Plates are hung on a wall, set under a lamp or a vessel, or carried.",
   "story": "Yantras belong mainly to the Tantric traditions of the Indian religions, and are used for worship in temples and at home, as an aid to meditation, and — the reason they are in this atlas — as charms. Gudrun Bühnemann sorts them into three by use: yantras laid under a ritual implement such as a lamp or a vessel; yantras used in regular worship, the Sri Yantra among them, energised with mantras and often carrying written mantras in the design; and yantras made for a specific desire-driven rite, which are often drawn on birch bark or paper and can carry flowers, rice paste or ashes.\n\nHow old the form is depends on who is asked, and the source read here does not settle it. Representations of the yantra in India have been claimed to go back 11,000 to 10,000 BCE. G. R. Sharma, who excavated it, considered the Baghor stone the earliest example — a triangular stone with triangular engravings on one side, found daubed in ochre at what was read as a worship site in the Son River Valley, in an Upper Paleolithic context dated to 25,000–20,000 BCE. Kenoyer, also on the excavation, associated it with Shakti, and the triangle resembles the Kali Yantra and the Muladhara Chakra. Against that, the word's occult sense is medieval. *Inference —* a triangle scratched on a Paleolithic stone and a Tantric diagram consecrated with a seed syllable are separated by a gap this record cannot bridge with the sources it has, so it reports both claims and dates neither.\n\nThe Sri Chakra, which represents the goddess Tripura Sundari and includes Shiva as well, is the best-known form. The largest ever drawn covered 67,400 square feet on the ground at Cranbury, New Jersey, under the guidance of Guru Karunamaya.",
   "how": "Drawn, then woken. Yantras are traditionally consecrated and energised by a priest, using the mantras tied to that deity and that diagram; practitioners hold that a yantra not energised with a mantra is lifeless. Colour is not decoration — each colour denotes an idea or an inner state, and texts disagree about which colours belong to which yantra. As a talisman a yantra is treated as standing in for a deity who can be called on at will. In Sri Lankan Buddhism, practitioners are required to keep the yantra of the deity with them once the deity has shown acceptance of their prayer.",
   "today": "Engraved copper plates and printed paper sheets sell across India and Nepal, in temple shops and online, and the Sivali yantra, used mainly in Southeast Asian Buddhism, is bought for wealth and good luck. Designers now depart from the patterns in the older texts, and designers in the West copy elements from Nepali and Tantric imitations rather than from the texts — which is an argument about what a yantra is, running inside the tradition and outside it at once."
+ },
+ "text_th": {
+  "what": "แผนภาพเรขาคณิตที่วาดบนกระดาษ ระบายสี หรือสลักลงบนแผ่นโลหะ มักเล็กกว่าและมีสีน้อยกว่ามณฑล (mandala) รูปทรงต่าง ๆ แผ่ออกจากจุดศูนย์กลางที่เรียกว่า พินทุ (bindu): สามเหลี่ยม รูปดาวหกแฉก วงกลม กลีบบัวตั้งแต่สองกลีบไปจนถึงพันกลีบ และกรอบสี่เหลี่ยมด้านนอกที่แทนสี่ทิศ มักมีช่องประตูเจาะไว้ทุกด้าน มีมนต์ภาษาสันสกฤตเขียนอยู่ในลวดลาย สามเหลี่ยมคว่ำอ่านความหมายว่าเป็นพระศักติ และสามเหลี่ยมหงายว่าเป็นพระศิวะ สีขาว แดง และดำ แทนคุณะทั้งสาม — สัตตวะ รชัส และตมัส แผ่นยันต์ใช้แขวนบนผนัง วางไว้ใต้ตะเกียงหรือภาชนะ หรือพกติดตัว",
+  "story": "ยันตระส่วนใหญ่เป็นของธรรมเนียมตันตระในศาสนาของอินเดีย ใช้บูชาในเทวาลัยและที่บ้าน ใช้เป็นเครื่องช่วยในการทำสมาธิ และ — ซึ่งเป็นเหตุที่อยู่ในแอตลาสนี้ — ใช้เป็นเครื่องราง กุดรุน บึห์เนอมันน์ (Gudrun Bühnemann) แบ่งยันตระออกเป็นสามประเภทตามการใช้: ยันตระที่วางไว้ใต้เครื่องใช้ในพิธี เช่นตะเกียงหรือภาชนะ ยันตระที่ใช้ในการบูชาเป็นประจำ ซึ่งรวมถึงศรียันตระ ที่ได้รับพลังจากมนต์และมักมีมนต์เขียนอยู่ในลวดลาย และยันตระที่ทำขึ้นสำหรับพิธีเฉพาะที่มุ่งให้สมความปรารถนา ซึ่งมักวาดบนเปลือกต้นเบิร์ชหรือกระดาษ และอาจมีดอกไม้ แป้งข้าว หรือเถ้าอยู่ด้วย\n\nรูปแบบนี้เก่าแก่เพียงใดขึ้นอยู่กับว่าถามใคร และแหล่งข้อมูลที่อ่านในที่นี้ไม่ได้ตัดสินเรื่องนี้ มีการอ้างว่าภาพแทนยันตระในอินเดียย้อนไปถึง 11,000 ถึง 10,000 ปีก่อน ค.ศ. จี. อาร์. ชาร์มา (G. R. Sharma) ผู้ขุดค้น ถือว่าศิลาบาโฆร์ (Baghor stone) เป็นตัวอย่างที่เก่าที่สุด — เป็นหินรูปสามเหลี่ยมที่มีรอยสลักรูปสามเหลี่ยมด้านหนึ่ง พบโดยมีดินเทศ (ochre) ป้ายอยู่ ณ จุดที่ตีความว่าเป็นที่บูชา ในหุบเขาแม่น้ำโสน (Son River) ในบริบทยุคหินเก่าตอนปลาย ที่กำหนดอายุไว้ 25,000–20,000 ปีก่อน ค.ศ. เคโนเยอร์ (Kenoyer) ซึ่งอยู่ในการขุดค้นด้วย เชื่อมโยงศิลานี้กับพระศักติ และสามเหลี่ยมนั้นคล้ายกาลียันตระและมูลาธารจักร ในอีกด้านหนึ่ง ความหมายทางเวทมนตร์ของคำนี้เป็นของยุคกลาง *ข้อสันนิษฐาน —* สามเหลี่ยมที่ขีดไว้บนหินยุคหินเก่า กับแผนภาพตันตระที่ปลุกเสกด้วยพีชาขระ (พยางค์เมล็ดพันธุ์) ห่างกันด้วยช่องว่างที่บันทึกนี้เชื่อมไม่ได้ด้วยแหล่งข้อมูลที่มีอยู่ จึงรายงานทั้งสองข้ออ้าง และไม่ระบุอายุให้ทั้งสองอย่าง\n\nศรีจักระ ซึ่งแทนพระแม่ตรีปุรสุนทรี และรวมพระศิวะไว้ด้วย เป็นรูปแบบที่รู้จักกันดีที่สุด ศรีจักระที่ใหญ่ที่สุดเท่าที่เคยวาดมีพื้นที่ 67,400 ตารางฟุต บนพื้นดินที่แครนเบอรี (Cranbury) รัฐนิวเจอร์ซีย์ ภายใต้การแนะนำของคุรุ การุณามยะ (Guru Karunamaya)",
+  "how": "วาดก่อน แล้วปลุกให้ตื่น ตามธรรมเนียม ยันตระได้รับการปลุกเสกและเสริมพลังโดยนักบวช ด้วยมนต์ที่ผูกกับเทพองค์นั้นและแผนภาพนั้น ผู้ปฏิบัติถือว่ายันตระที่ไม่ได้รับพลังจากมนต์นั้นไร้ชีวิต สีไม่ใช่การตกแต่ง — แต่ละสีบ่งบอกความคิดหรือสภาวะภายใน และตำราต่าง ๆ เห็นไม่ตรงกันว่าสีใดเป็นของยันตระใด ในฐานะเครื่องราง ยันตระถูกปฏิบัติเสมือนเป็นตัวแทนของเทพที่เรียกหาได้ตามต้องการ ในพุทธศาสนาแบบศรีลังกา ผู้ปฏิบัติต้องเก็บยันตระของเทพไว้กับตัว เมื่อเทพองค์นั้นแสดงว่ารับคำอธิษฐานของเขาแล้ว",
+  "today": "แผ่นทองแดงสลักและแผ่นกระดาษพิมพ์มีขายทั่วอินเดียและเนปาล ทั้งในร้านค้าของเทวาลัยและทางออนไลน์ และยันต์พระสีวลี ซึ่งใช้มากในพุทธศาสนาในเอเชียตะวันออกเฉียงใต้ มีผู้เช่าบูชาเพื่อความมั่งคั่งและโชคลาภ ผู้ออกแบบในปัจจุบันเบี่ยงออกจากแบบแผนในตำราเก่า และผู้ออกแบบในโลกตะวันตกลอกองค์ประกอบมาจากของเลียนแบบแบบเนปาลและแบบตันตระ แทนที่จะลอกจากตำรา — ซึ่งเป็นข้อถกเถียงว่ายันตระคืออะไร ที่เกิดขึ้นทั้งภายในและภายนอกธรรมเนียมไปพร้อมกัน"
+ },
+ "th_fields": {
+  "etymology.root": "สันสกฤต ยนฺตฺร (yantrá) จากรากศัพท์ ยมฺ (yam) 'ค้ำจุน รองรับ' กับปัจจัยบอกเครื่องมือ -ตฺร (-tra): ตามตัวอักษรคือเครื่องจักรหรือกลไก",
+  "etymology.first_attested": "ภาษาสันสกฤตสมัยฤคเวท ในความหมายเครื่องมือสำหรับยึดรั้งหรือผูกมัด — ไม้ค้ำ สิ่งรองรับ สิ่งกีดขวาง",
+  "etymology.note": "ความหมายตามตัวอักษรยังคงอยู่ในศัพท์การแพทย์ของสุศรุตะ (Sushruta) ซึ่งยันตระหมายถึงเครื่องมือผ่าตัดชนิดไม่มีคม เช่น แหนบหรือปากกาจับ ความหมายว่าแผนภาพลึกลับหรือทางไสยศาสตร์เกิดขึ้นในสมัยกลาง ในกถาสริตสาคร (Kathasaritsagara) และปัญจราตระ (Pancharatra)",
+  "dating.period": "ประเพณีตันตระสมัยกลางจนถึงปัจจุบัน ข้ออ้างว่าย้อนไปถึงยุคหินเก่ายังเป็นที่โต้แย้ง",
+  "dating.note": "ข้ออ้างสามข้ออยู่ในแหล่งข้อมูลเดียวกัน และประสานกันไม่ได้จากแหล่งนั้น: ความหมายทางไสยศาสตร์ของคำนี้เป็นของสมัยกลาง มีการอ้างว่าภาพแทนย้อนไปถึง 11,000–10,000 ปีก่อน ค.ศ. และ จี. อาร์. ชาร์มา (G. R. Sharma) กำหนดอายุหินบาฆอร์ (Baghor) ซึ่งเขาถือว่าเป็นตัวอย่างเก่าที่สุด ไว้ที่ 25,000–20,000 ปีก่อน ค.ศ. การใส่ข้อที่เก่าที่สุดลงในเส้นเวลาจะเป็นการบอกสิ่งที่หลักฐานไม่ได้บอก บันทึกนี้จึงไม่มีปี",
+  "object.made_by": "วาดโดยผู้ปฏิบัติหรือโรงงาน ปลุกเสกโดยนักบวชด้วยมนตร์ของเทพองค์นั้น",
+  "object.inscription": "มนตร์ของเทพองค์นั้น เป็นภาษาสันสกฤต วางอยู่ภายในรูปเรขาคณิต",
+  "object.note": "เปลือกต้นเบิร์ชเป็นวัสดุรองรับอีกอย่างที่แหล่งข้อมูลระบุ สำหรับพิธีที่มุ่งผลตามความปรารถนา และไม่มีหมวดในรายการวัสดุของแอตลาสนี้ ไม่ได้ให้ขนาดไว้ เพราะรูปแบบนี้ย่อขยายได้ตั้งแต่จี้ห้อยคอไปจนถึงผืนพื้น",
+  "object.colour": "ขาว · แดง · ดำ",
+  "against.0.who": "บทสรุปของแหล่งข้อมูลเรื่องยันตระทางไสยศาสตร์ ซึ่งระบุการขับไล่ผีไว้ในบรรดาการใช้งาน",
+  "against.1.who": "บทสรุปเดียวกัน ซึ่งระบุการแพทย์เชิงป้องกันไว้",
+  "against.2.who": "ผู้ใช้ยันตระทางไสยศาสตร์ ซึ่งใช้เป็นเครื่องรางนำโชคและป้องกันสิ่งชั่วร้าย",
+  "against.3.who": "ผู้เช่าบูชายันต์พระสีวลี ซึ่งใช้ในพระพุทธศาสนาในเอเชียตะวันออกเฉียงใต้เป็นหลัก เพื่อเรียกทรัพย์และโชคลาภ",
+  "confusable_with.0.tell": "ถ้าอยู่บนผิวหนังก็คือสักยันต์ ส่วนแผ่นยันต์คือลวดลายตระกูลเดียวกันบนโลหะ กระดาษ หรือเปลือกไม้"
  },
  "dating": {
   "period": "medieval Tantric traditions to the present; a Paleolithic claim is disputed",
@@ -39,48 +85,157 @@
  },
  "object": {
   "form": "plaque",
-  "materials": ["copper", "paper", "ink"],
-  "worn": ["wall", "neck", "shop", "door"],
+  "materials": [
+   "copper",
+   "paper",
+   "ink"
+  ],
+  "worn": [
+   "wall",
+   "neck",
+   "shop",
+   "door"
+  ],
   "made_by": "drawn by a practitioner or a workshop; consecrated by a priest with the mantra of the deity",
   "inscription": "the mantras of the deity, in Sanskrit, set inside the geometry",
   "script": "Devanagari",
-  "colour": ["white", "red", "black"],
+  "colour": [
+   "white",
+   "red",
+   "black"
+  ],
   "single_use": false,
   "source": "s:wp-yantra",
   "note": "Birch bark is the other support named in the source, for desire-driven rites, and has no key in this atlas's materials list. No measurement is given because the form scales from a pendant to a floor."
  },
  "against": [
-  {"harm": "spirits", "who": "the source's summary of occult yantras, which lists exorcism among their uses", "source": "s:wp-yantra", "tier": "cited"},
-  {"harm": "illness", "who": "the same summary, which lists preventative medicine", "source": "s:wp-yantra", "tier": "cited"},
-  {"harm": "bad-luck", "who": "users of occult yantras, for whom they serve as good luck charms and to ward off evil", "source": "s:wp-yantra", "tier": "cited"},
-  {"harm": "poverty", "who": "buyers of the Sivali yantra, used mainly in Southeast Asian Buddhism for the attraction of wealth and good luck", "source": "s:wp-yantra", "tier": "cited"}
+  {
+   "harm": "spirits",
+   "who": "the source's summary of occult yantras, which lists exorcism among their uses",
+   "source": "s:wp-yantra",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the same summary, which lists preventative medicine",
+   "source": "s:wp-yantra",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "users of occult yantras, for whom they serve as good luck charms and to ward off evil",
+   "source": "s:wp-yantra",
+   "tier": "cited"
+  },
+  {
+   "harm": "poverty",
+   "who": "buyers of the Sivali yantra, used mainly in Southeast Asian Buddhism for the attraction of wealth and good luck",
+   "source": "s:wp-yantra",
+   "tier": "cited"
+  }
  ],
  "kin": [
-  {"to": "sak-yant", "as": "the same geometry put under the skin instead of onto metal — that is the whole difference, and it changes everything: a plate can be sold, hung, given away or thrown out, a tattoo cannot, and the tattooed version carries rules of conduct the plate does not", "rel": "contrast"},
-  {"to": "yantra-word", "as": "the word, from a Sanskrit term for a machine, and the road it took to mean a drawn sign", "rel": "same-word"},
-  {"to": "hindu-kavacha", "as": "the tradition that consecrates it and decides who may", "rel": "tradition"},
-  {"to": "consecration", "as": "the step that makes it work at all, in the practitioners' own account: unenergised, they say, the diagram is lifeless", "rel": "practice"},
-  {"to": "inscribing", "as": "the making itself — the mantra written into the geometry rather than beside it", "rel": "practice"},
-  {"to": "magic-square", "as": "the other family of drawn signs that runs on arrangement rather than image", "rel": "motif"},
-  {"to": "kamea", "as": "the Jewish parallel: a written square worn or hung, made by a specialist who names what it is for", "rel": "parallel"},
-  {"to": "sungkhor", "as": "the Himalayan neighbour — a printed deity diagram folded and wrapped in thread rather than hung flat", "rel": "parallel"},
-  {"to": "yant-flash", "as": "the sheets of designs a tattooist works from, which are these diagrams drawn for skin", "rel": "art"},
-  {"to": "paper", "as": "the cheapest support it takes, and the one that lets a temple sell it by the sheet", "rel": "material"}
+  {
+   "to": "sak-yant",
+   "as": "the same geometry put under the skin instead of onto metal — that is the whole difference, and it changes everything: a plate can be sold, hung, given away or thrown out, a tattoo cannot, and the tattooed version carries rules of conduct the plate does not",
+   "rel": "contrast",
+   "as_th": "เรขาคณิตเดียวกันที่สักลงใต้ผิวหนังแทนที่จะอยู่บนโลหะ — นั่นคือความต่างทั้งหมด และมันเปลี่ยนทุกอย่าง: แผ่นยันต์ขาย แขวน ให้ต่อ หรือทิ้งได้ รอยสักทำไม่ได้ และแบบที่สักมีข้อปฏิบัติด้านความประพฤติที่แผ่นยันต์ไม่มี"
+  },
+  {
+   "to": "yantra-word",
+   "as": "the word, from a Sanskrit term for a machine, and the road it took to mean a drawn sign",
+   "rel": "same-word",
+   "as_th": "ตัวคำ ซึ่งมาจากคำสันสกฤตที่แปลว่าเครื่องจักร และเส้นทางที่คำนี้ผ่านมาจนหมายถึงเครื่องหมายที่วาดขึ้น"
+  },
+  {
+   "to": "hindu-kavacha",
+   "as": "the tradition that consecrates it and decides who may",
+   "rel": "tradition",
+   "as_th": "ธรรมเนียมที่ปลุกเสกแผ่นยันต์ และตัดสินว่าใครทำได้"
+  },
+  {
+   "to": "consecration",
+   "as": "the step that makes it work at all, in the practitioners' own account: unenergised, they say, the diagram is lifeless",
+   "rel": "practice",
+   "as_th": "ขั้นตอนที่ทำให้มันทำงานได้เลย ตามคำบอกเล่าของผู้ปฏิบัติเอง: หากไม่ได้รับพลัง พวกเขาว่าแผนภาพนั้นไร้ชีวิต"
+  },
+  {
+   "to": "inscribing",
+   "as": "the making itself — the mantra written into the geometry rather than beside it",
+   "rel": "practice",
+   "as_th": "การสร้างเอง — มนต์ที่เขียนลงไปในเรขาคณิต ไม่ใช่เขียนไว้ข้าง ๆ"
+  },
+  {
+   "to": "magic-square",
+   "as": "the other family of drawn signs that runs on arrangement rather than image",
+   "rel": "motif",
+   "as_th": "ตระกูลเครื่องหมายที่วาดขึ้นอีกตระกูลหนึ่ง ที่อาศัยการจัดเรียงมากกว่ารูปภาพ"
+  },
+  {
+   "to": "kamea",
+   "as": "the Jewish parallel: a written square worn or hung, made by a specialist who names what it is for",
+   "rel": "parallel",
+   "as_th": "คู่เทียบของชาวยิว: ตารางที่เขียนขึ้นแล้วสวมหรือแขวน ทำโดยผู้ชำนาญที่ระบุว่ามีไว้เพื่ออะไร"
+  },
+  {
+   "to": "sungkhor",
+   "as": "the Himalayan neighbour — a printed deity diagram folded and wrapped in thread rather than hung flat",
+   "rel": "parallel",
+   "as_th": "เพื่อนบ้านในหิมาลัย — แผนภาพเทพที่พิมพ์ขึ้น พับและพันด้วยด้าย แทนที่จะแขวนแบน ๆ"
+  },
+  {
+   "to": "yant-flash",
+   "as": "the sheets of designs a tattooist works from, which are these diagrams drawn for skin",
+   "rel": "art",
+   "as_th": "แผ่นรวมแบบที่ช่างสักใช้เป็นต้นแบบ ซึ่งคือแผนภาพเหล่านี้ที่วาดขึ้นสำหรับผิวหนัง"
+  },
+  {
+   "to": "paper",
+   "as": "the cheapest support it takes, and the one that lets a temple sell it by the sheet",
+   "rel": "material",
+   "as_th": "วัสดุรองรับที่ถูกที่สุดที่ใช้ได้ และเป็นวัสดุที่ทำให้เทวาลัยขายได้เป็นแผ่น ๆ"
+  }
  ],
  "confusable_with": [
-  {"id": "sak-yant", "tell": "if it is on skin it is a sak yant; the plate is the same family of design on metal, paper or bark"}
+  {
+   "id": "sak-yant",
+   "tell": "if it is on skin it is a sak yant; the plate is the same family of design on metal, paper or bark"
+  }
  ],
- "links": [{"label": "Yantra — Wikipedia", "url": "https://en.wikipedia.org/wiki/Yantra"}],
- "sources": ["s:wp-yantra", "s:wp-yantra-tattooing", "s:wp-magic-square"],
+ "links": [
+  {
+   "label": "Yantra — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yantra"
+  }
+ ],
+ "sources": [
+  "s:wp-yantra",
+  "s:wp-yantra-tattooing",
+  "s:wp-magic-square"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-yantra"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-yantra"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:wp-yantra", "note": "the gap between the Paleolithic claim and the medieval word is marked as this project's inference where it appears"},
-   "text.today": {"tier": "cited", "source": "s:wp-yantra", "note": "the market description beyond the source's own sentence on modern deviation is general knowledge of the trade"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-yantra",
+    "note": "the gap between the Paleolithic claim and the medieval word is marked as this project's inference where it appears"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-yantra",
+    "note": "the market description beyond the source's own sentence on modern deviation is general knowledge of the trade"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Sri Yantra 256.jpg", "File:Yantra.jpg"],
+ "x_commons_files": [
+  "File:Sri Yantra 256.jpg",
+  "File:Yantra.jpg"
+ ],
  "confidence": "medium",
  "needs_verification": true,
  "updated": "2026-09-16"

@@ -12,7 +12,8 @@
    "Medal of the Immaculate Conception",
    "Medal of Our Lady of Graces",
    "médaille de la rue du Bac"
-  ]
+  ],
+  "th": "เหรียญอัศจรรย์"
  },
  "etymology": {
   "root": "French médaille miraculeuse, 'miraculous medal' — a nickname the public gave it, not the name it was struck under",
@@ -48,6 +49,9 @@
   "story": "This one has a date, a witness and a goldsmith, which almost nothing else in this atlas does.\n\nCatherine Labouré, a novice with the Daughters of Charity in the rue du Bac in Paris, said that on 18 July 1830 a child's voice woke her and led her to the convent chapel, where the Virgin Mary told her: \"God wishes to charge you with a mission [...] You will be contradicted, but do not fear, you will have grace.\" On 27 November the same year, she said, Mary returned during her evening meditations, standing on a globe inside an oval frame, wearing rings that shed light — the rays, Mary told her, were \"the graces I shed upon those who ask for them\", and the gems that stayed dark \"are the graces for which souls forget to ask\". The frame turned, and the reverse design appeared. Then the instruction, which is the whole point of the object: have a medal struck after this model, and \"all who wear them will receive great graces\".\n\nHer priest watched her ordinary daily behaviour for two years before taking it to Archbishop Hyacinthe-Louis de Quélen of Paris. Approval came; the goldsmith Adrien Vachette made the die; the first 1,500 medals were minted on 30 June 1832. Then the arithmetic gets strange. The Daughters of Charity distributed them during a deadly cholera pandemic, cures were reported, and the public renamed the object. Over 500,000 had been distributed by 1834. By 1835, more than a million worldwide. By 1839, over ten million. By Labouré's death in 1876, more than a billion had been produced. *Inference —* a devotional object that reached a billion within a single lifetime is an industrial fact as much as a religious one, and the cholera years are where the curve bends.\n\nOn the Church's side the object sits inside a category. The Miraculous Medal is a sacramental — by the Catholic Church's definition a sacred sign that works \"through the intercession of the Church\", which prepares a person to receive grace and disposes them to cooperate with it, and which does not act by itself the way a sacrament does. The Enchiridion Indulgentiarum of 2004 grants a partial indulgence to the faithful who use a crucifix, a crown, a scapular or a medal blessed by a priest. The 2001 Directory on Popular Piety and the Liturgy lists Marian medals among approved practices while holding that popular piety \"may never incorporate rites permeated by magic, superstition, animism, vendettas or sexual connotations\". *Inference —* the medal's own promise, struck into it, is that wearing it brings graces; the doctrine is that the wearing disposes rather than delivers. Both sentences are on the record, they are not the same sentence, and this atlas does not decide between them.\n\nOne wearer's account is famous enough to be in the liturgy. In 1842 Marie-Alphonse Ratisbonne, a Jewish man, took a bet to wear the medal on a trip to Rome, entered the basilica of Sant'Andrea delle Fratte, and reported a vision of the Virgin exactly as the medal depicts her. He converted, became a Jesuit, and the event has its own canonical inquiry behind it and a place in the Feast of the Miraculous Medal. Maximilian Kolbe, founding the Militia of the Immaculate in 1917 under this Virgin's patronage, handed the medals out and called them his \"ammunition\".",
   "how": "Struck from the 1832 die design by religious-goods manufacturers worldwide. Bought or given; the giving is the commoner route, and the Daughters of Charity have handed them out free since the first batch. A priest may bless one, which is what attaches the indulgence; nothing requires it. Worn at the neck under clothing more often than over it. Never retired — a lost one is simply replaced.",
   "today": "Still struck to the 1830 design, still sold and given at the rue du Bac chapel, where Catherine Labouré's body lies, and in religious-goods shops everywhere the Catholic Church is. In 2026 it shares a counter with the St Christopher medal and the Brown Scapular. No dated retail price was read for this record."
+ },
+ "text_th": {
+  "what": "เหรียญรูปไข่แบบปั๊ม สวมที่คอด้วยสร้อย ด้านหน้าเป็นรูปสตรียืนบนลูกโลก เหยียบหัวงู มีรัศมีส่องออกจากแหวนบนมือ อยู่ในกรอบรูปไข่ที่มีข้อความว่า “โอ้ มารีย์ผู้ปฏิสนธินิรมล โปรดภาวนาเพื่อเราผู้พึ่งพาท่าน” ด้านล่างตอกเลข 1830 ด้านหลังมีคานกับไม้กางเขนอยู่เหนืออักษร M ตัวใหญ่ ดาวสิบสองดวงรอบขอบ และหัวใจสองดวงด้านล่าง ดวงหนึ่งมีมงกุฎหนาม อีกดวงถูกดาบแทง แบบราคาถูกเป็นอะลูมิเนียม แบบราคาสูงเป็นเงินและทอง"
  },
  "dating": {
   "period": "the nineteenth century to now",
@@ -262,70 +266,90 @@
    "type": "amulet",
    "name": "St Christopher medal",
    "as": "the other stamped medal on the same counter — that one promises a safe road, this one promises graces",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เหรียญนักบุญคริสโตเฟอร์",
+   "as_th": ""
   },
   {
    "to": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "the category the Church files it under, and the doctrine that says a medal disposes rather than delivers",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   },
   {
    "to": "brown-scapular",
    "type": "amulet",
    "name": "Brown Scapular",
    "as": "the cloth sacramental it is usually sold beside, and the one a 1911 ruling allowed a blessed medal to replace",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สกาปูลาร์สีน้ำตาล",
+   "as_th": ""
   },
   {
    "to": "agnus-dei",
    "type": "amulet",
    "name": "Agnus Dei",
    "as": "the sacramental that came first — wax before struck silver, and a papal blessing instead of a parish one",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "อักนุส เดอี (ลูกแกะของพระเจ้า)",
+   "as_th": ""
   },
   {
    "to": "ladanka",
    "type": "amulet",
    "name": "Ladanka",
    "as": "what hangs beside an Orthodox cross where this hangs beside a Catholic one",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ลาดันกา (ถุงกำยานออร์โธด็อกซ์)",
+   "as_th": ""
   },
   {
    "to": "milagro",
    "type": "amulet",
    "name": "Milagro",
    "as": "the other small metal offering of the Catholic world — that one is pinned to the saint, this one is worn by the petitioner",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "มิลาโกร (แผ่นโลหะแก้บน)",
+   "as_th": ""
   },
   {
    "to": "cross",
    "type": "motif",
    "name": "The cross",
    "as": "the sign over the M on its reverse",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "กางเขน",
+   "as_th": ""
   },
   {
    "to": "serpent",
    "type": "motif",
    "name": "The serpent",
    "as": "the creature under the woman's heel on its face, and the oldest thing on the medal",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "งู",
+   "as_th": ""
   },
   {
    "to": "silver",
    "type": "material",
    "name": "Silver",
    "as": "the metal of the costly version, and the one that makes an old medal worth keeping",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เงิน (โลหะเงิน)",
+   "as_th": ""
   },
   {
    "to": "amulet-or-talisman",
    "type": "story",
    "name": "Amulet or talisman?",
    "as": "the long read where a promise struck into an object meets a doctrine that qualifies it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "อะมูเล็ตหรือทาลิสแมน?",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -491,35 +515,45 @@
    "type": "amulet",
    "name": "Agnus Dei",
    "as": "the struck descendant — the practice of blessing a medal and attaching an indulgence to it is traced back to this wax",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "อักนุส เดอี (ลูกแกะของพระเจ้า)",
+   "as_th": ""
   },
   {
    "from": "brown-scapular",
    "type": "amulet",
    "name": "Brown Scapular",
    "as": "the medal a 1911 ruling by Pius X allowed to be worn in place of this, and the one on the next shelf",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สกาปูลาร์สีน้ำตาล",
+   "as_th": ""
   },
   {
    "from": "car-saint",
    "type": "amulet",
    "name": "Car saint",
    "as": "the other stamped medal on the same shop counter, for a different promise",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "นักบุญประจำรถ (เหรียญนักบุญคริสโตเฟอร์)",
+   "as_th": ""
   },
   {
    "from": "st-christopher-medal",
    "type": "amulet",
    "name": "St Christopher medal",
    "as": "the other stamped medal on the same shop counter, and the one whose origin story has a date, a witness and a goldsmith",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เหรียญนักบุญคริสโตเฟอร์",
+   "as_th": ""
   },
   {
    "from": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "the one with a documented origin, a named visionary, a goldsmith, a mint date and a billion copies",
-   "rel": "part"
+   "rel": "part",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   }
  ]
 }

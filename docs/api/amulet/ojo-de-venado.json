@@ -14,7 +14,8 @@
    "ojo de toro",
    "ojo de caballo",
    "semilla de mucuna"
-  ]
+  ],
+  "th": "โอโฮ เด เวนาโด (ตากวาง)"
  },
  "etymology": {
   "root": "Spanish ojo de venado, 'deer's eye' — a name for the look of the seed, not for its plant",
@@ -43,6 +44,9 @@
   "story": "Wikipedia's account of the Mercado de Sonora in Mexico City puts it in one line among the market's magical stock: crosses of ocote wood for good luck, chains of garlic to ward off evil, and a seed called \"deer's eye\" to protect against the \"evil eye\".\n\nMéxico Desconocido traces the seed's career as a good-luck amulet to Xichú, a municipality in the northeast of Guanajuato, and notes that Mucuna also grew in Chiapas, Oaxaca, Puebla, San Luis Potosí and Veracruz, so other regions may have reached the same use independently. Newborns get one against mal de ojo; adults take one up for a hard stretch; drivers hang one where they can see it.\n\nThe object has a public opponent. The priest Eduardo Hayen Cuarón condemned it as \"un amuleto y por tanto una práctica esotérica, maligna y 'obra de Satanás'\" — an amulet, and therefore an esoteric practice, malign, and the work of Satan. *Inference —* a charm that draws a priest's condemnation by name is a charm being carried by people who also go to Mass, which is where most of this atlas's Latin American material sits. Both statements are reported here; neither is settled here.\n\nThe seed reached national pop culture too: the band Caifanes put it on their 1988 debut album.",
   "how": "Gathered from the vine, dried, drilled or bound, and finished with red thread. No consecration is published in the sources this project read. Wearers say a seed that cracks or splits has taken a hit meant for the person carrying it — the same account Turkish sellers give of a broken nazar bead — and it is replaced rather than repaired.",
   "today": "Sold across central and southern Mexico in markets, at church doors and online as of 2026, and hung in cars as often as worn. No dated price was read for this record, so none is printed."
+ },
+ "text_th": {
+  "what": "เมล็ดกลมแข็งของเถามูคูนา (Mucuna) สีเข้ม มันวาว มีแถบดำกว้างพาดผ่าน จึงดูเหมือนดวงตาเมื่อมองในระยะแขน ผู้ขายแต่งเมล็ดด้วยเชือกหรือริบบิ้นสีแดง มักมีพู่ไหมพรมสี บางครั้งมีรูปเล็ก ๆ หรือลูกปัดติดกาวไว้ที่หน้าเมล็ด ขายเป็นเมล็ดเดี่ยวร้อยเชือก เป็นสร้อยข้อมือ หรือร้อยเชือกยาวพอจะแขวนกับกระจกมองหลังรถ"
  },
  "dating": {
   "period": "modern Mexico",
@@ -197,56 +201,72 @@
    "type": "motif",
    "name": "The eye",
    "as": "the sign this seed already is without anybody cutting it — a dark band on a pale ground, read as a pupil",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "nazar",
    "type": "amulet",
    "name": "Nazar",
    "as": "the same logic in glass, and the same story about a charm that breaks because it took the look",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "to": "azabache",
    "type": "amulet",
    "name": "Azabache",
    "as": "the other charm Hispanic families put on an infant against mal de ojo, in jet rather than seed",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "อาซาบาเช (เครื่องรางหินเจ็ต)",
+   "as_th": ""
   },
   {
    "to": "mercado-de-sonora",
    "type": "place",
    "name": "Mercado de Sonora",
    "as": "the Mexico City market where it is sold beside garlic chains and ocote crosses",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตลาดโซโนรา (เมร์กาโด เด โซโนรา)",
+   "as_th": ""
   },
   {
    "to": "latin-american-folk-catholic",
    "type": "tradition",
    "name": "Latin American folk Catholic charm practice",
    "as": "the tradition it is carried inside, and the one a priest was condemning when he condemned it",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ธรรมเนียมเครื่องรางคาทอลิกพื้นบ้านละตินอเมริกา",
+   "as_th": ""
   },
   {
    "to": "most-of-them-are-for-children",
    "type": "story",
    "name": "Most of them are for children",
    "as": "the long read this seed belongs in — it goes on the newborn first",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ส่วนใหญ่ทำเพื่อเด็ก",
+   "as_th": ""
   },
   {
    "to": "car-saint",
    "type": "amulet",
    "name": "Car saint",
    "as": "what hangs on the other side of the same rear-view mirror",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "นักบุญประจำรถ (เหรียญนักบุญคริสโตเฟอร์)",
+   "as_th": ""
   },
   {
    "to": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "how one is got: an aisle, a tray, a red cord tied on the spot",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -405,56 +425,72 @@
    "type": "amulet",
    "name": "Azabache",
    "as": "the other charm put on a Latin American newborn against mal de ojo, in seed rather than stone",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "อาซาบาเช (เครื่องรางหินเจ็ต)",
+   "as_th": ""
   },
   {
    "from": "car-saint",
    "type": "amulet",
    "name": "Car saint",
    "as": "what hangs from the other side of the same Mexican rear-view mirror",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "นักบุญประจำรถ (เหรียญนักบุญคริสโตเฟอร์)",
+   "as_th": ""
   },
   {
    "from": "evil-eye-bracelet",
    "type": "amulet",
    "name": "Evil eye bracelet",
    "as": "Mexico's answer to the same harm, and it breaks for the same stated reason",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สร้อยข้อมือนาซาร์ (ลูกปัดตากันตาร้าย)",
+   "as_th": ""
   },
   {
    "from": "latin-american-folk-catholic",
    "type": "tradition",
    "name": "Latin American folk Catholic charm practice",
    "as": "the local material entering the same kit — a Mexican seed on a red cord, and the object a priest condemned by name",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ธรรมเนียมเครื่องรางคาทอลิกพื้นบ้านละตินอเมริกา",
+   "as_th": ""
   },
   {
    "from": "seed",
    "type": "material",
    "name": "Seed and nut",
    "as": "the Mexican deer's-eye seed, sold in the same market aisle as the herbs",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เมล็ดพืชและลูกเปลือกแข็ง",
+   "as_th": ""
   },
   {
    "from": "mercado-de-sonora",
    "type": "place",
    "name": "Mercado de Sonora",
    "as": "the deer's-eye seed sold in these aisles against the evil eye",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ตลาดโซโนรา (เมร์กาโด เด โซโนรา)",
+   "as_th": ""
   },
   {
    "from": "most-of-them-are-for-children",
    "type": "story",
    "name": "Most of them are for children",
    "as": "the same job in Mexico, put on a newborn by parents who say what it is for",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ส่วนใหญ่ทำเพื่อเด็ก",
+   "as_th": ""
   },
   {
    "from": "the-eye-everywhere",
    "type": "story",
    "name": "The eye everywhere",
    "as": "the Mexican infant's charm, from the region where the origin question is unsettled",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ดวงตาทุกหนแห่ง",
+   "as_th": ""
   }
  ]
 }

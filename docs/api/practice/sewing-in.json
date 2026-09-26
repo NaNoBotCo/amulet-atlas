@@ -9,7 +9,8 @@
    "quilting a hand in",
    "lining a garment"
   ],
-  "said": "putting it inside the clothes, not on them"
+  "said": "putting it inside the clothes, not on them",
+  "th": "การเย็บเครื่องรางไว้ในผ้า"
  },
  "region": [
   "west-africa",
@@ -40,6 +41,9 @@
   "story": "The gris-gris came out of the Muslim Mande communities of far West Africa: a small cloth pouch, inscribed with verses from an ancestor and holding a ritual number of small objects, worn on the person. The Atlantic slave trade carried it to the Americas, where it became a significant practice in Haitian Vodou and in the Louisiana tradition the cited account calls \"Louisiana Voodoo\", and where the earliest legal mentions of that Louisiana tradition are New Orleans court cases of 1773, in which enslaved people were convicted of using gris-gris against those who held them. A 1982 survey in Senegal found gris-gris among the three methods of contraception best known to women there, alongside abstinence and roots and herbs.\n\nThe Kongo-derived mojo bag took the same shape in the United States and then went into bedding. African American quilt makers sewed mojo hands into quilts for protection — a practice the sources trace to Central African peoples such as the Bakongo, who adapted nkisi practice into the 'Pineapple quilt', and which spread from Mississippi and Alabama to Connecticut.\n\nJapan sewed the charm into a belt and then sewed things into the belt. A senninbari was stitched a thousand times, usually one stitch per woman; some were lined with a woman's hair, or several women's, a form of added protection the sources trace to folk belief on Okinawa, and coins were sewn in as well. Some senninbari were never worn at all: they were folded and placed inside helmet liners, pockets or packs.\n\nThe Islamic world put the writing on the garment itself. Talismanic shirts — tılsımlı gömlek in Turkish, pirâhan telesmat in Persian — are found across the Muslim world in Ottoman, Safavid, Mughal and West African types, the earliest surviving examples made in or near the fifteenth century, inscribed with Quranic verses, names of God and of prophets, and numbers. Most seem intended as a shield in battle. Hürrem Sultan gave one to Suleiman the Magnificent and told him its inscriptions would protect him from bullets.\n\n*Inference —* sewing solves a problem the cord cannot. A pendant announces itself and can be taken off you; a stitched charm passes a search, survives a change of owner's rules, and travels in a garment that has an innocent reason to exist. The practice is heaviest exactly where carrying a charm openly was dangerous.",
   "how": "A pouch is cut, filled and stitched shut; a belt is embroidered and its lining closed over coins or hair; a quilt takes the charm between its layers; a shirt is written on before it is made up. In hoodoo practice the filled bag is then fixed and fed — smoked over incense or candles, breathed on, prayed over, and dressed with a liquid — which is a separate step this atlas files under feeding the charm.",
   "today": "Gris-gris are worn across Senegalese society, by, in the words of the cited account, everyone from wrestlers to soldiers to housewives. Conjure shops sell made-up mojo bags and the materials to make them; Dr Jim Jordan, a conjure doctor in North Carolina, ran a Hoodoo store and a paid practice through the Jim Crow era and became a multi-millionaire doing it. Senninbari stopped being made at scale with the end of the Second World War and are now a collectors' category, catalogued and sold."
+ },
+ "text_th": {
+  "what": "การใส่เครื่องรางไว้ในเนื้อผ้า แทนที่จะร้อยเชือก ถุงถูกเย็บปิดทับสิ่งที่อยู่ข้างใน เหรียญและเส้นผมถูกเย็บเข้าไปในเข็มขัด เครื่องรางถูกเย็บซ้อนไว้ในผ้าคลุมเตียง เสื้อเองก็เป็นเครื่องราง สวมไว้ใต้ชุดเกราะ เมื่อเย็บแล้ว จะตรวจดูวัตถุไม่ได้เว้นแต่จะทำลายมัน ซึ่งคือทั้งจุดประสงค์และปัญหา"
  },
  "dating": {
   "period": "eighteenth century to the present",
@@ -263,70 +267,90 @@
    "type": "amulet",
    "name": "Gris-gris",
    "as": "the pouch this practice is named after, stitched shut in Mande communities and carried to Louisiana",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กรีกรี (ถุงเครื่องรางแอฟริกาตะวันตก)",
+   "as_th": ""
   },
   {
    "to": "senninbari",
    "type": "amulet",
    "name": "Senninbari",
    "as": "the belt where the stitching is the charm and a thousand strangers did it",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เซ็นนินบาริ (ผ้าพันฝีเข็ม)",
+   "as_th": ""
   },
   {
    "to": "talismanic-shirt",
    "type": "amulet",
    "name": "Talismanic shirt",
    "as": "the garment version — the writing goes on the cloth and the cloth goes under the armour",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เสื้อยันต์",
+   "as_th": ""
   },
   {
    "to": "hirz-pouch",
    "type": "amulet",
    "name": "Hirz",
    "as": "the sewn leather or cloth case of Islamic West and North Africa, holding written verses",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ฮิรซ์ (ตลับใส่โองการอัลกุรอาน)",
+   "as_th": ""
   },
   {
    "to": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the same folded verse, cased in metal instead of stitched into cloth",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "to": "west-african-charm-craft",
    "type": "tradition",
    "name": "West African charm craft",
    "as": "the tradition the gris-gris comes out of, and which the Atlantic trade moved west",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางแอฟริกาตะวันตก",
+   "as_th": ""
   },
   {
    "to": "thread",
    "type": "material",
    "name": "Thread and cord",
    "as": "the material that does the work here — the stitch is the closure and, in the senninbari, the charm itself",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ด้ายและเชือก",
+   "as_th": ""
   },
   {
    "to": "wearing-hidden",
    "type": "practice",
    "name": "Wearing hidden",
    "as": "the rule sewing exists to serve",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การสวมเครื่องรางแบบซ่อน",
+   "as_th": ""
   },
   {
    "to": "feeding-the-charm",
    "type": "practice",
    "name": "Feeding the charm",
    "as": "what happens after the bag is stitched — fixed, woken and dressed",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเลี้ยงเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "folding",
    "type": "practice",
    "name": "Folding",
    "as": "the paper-and-metal branch of the same move: close the charm over its contents",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "การม้วนและพับ",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -546,84 +570,108 @@
    "type": "amulet",
    "name": "Brown Scapular",
    "as": "the older habit of stitching protection into clothing, which the scapular formalised and shrank",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "สกาปูลาร์สีน้ำตาล",
+   "as_th": ""
   },
   {
    "from": "gris-gris",
    "type": "amulet",
    "name": "Gris-gris",
    "as": "the practice of closing a charm into cloth so nobody can read it",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "กรีกรี (ถุงเครื่องรางแอฟริกาตะวันตก)",
+   "as_th": ""
   },
   {
    "from": "inuit-amulet",
    "type": "amulet",
    "name": "Inuit amulet",
    "as": "how one is carried: stitched into a parka rather than hung where it can be seen",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เครื่องรางชาวอินูอิต",
+   "as_th": ""
   },
   {
    "from": "patua",
    "type": "amulet",
    "name": "Patuá",
    "as": "the practice that makes it — the closing is the charging",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ปาตูอา (ถุงเครื่องรางบราซิล)",
+   "as_th": ""
   },
   {
    "from": "rowan-cross",
    "type": "amulet",
    "name": "Rowan cross",
    "as": "how it was carried where it could not be seen, stitched into a coat lining from Scotland to Cornwall",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "กางเขนไม้โรวัน",
+   "as_th": ""
   },
   {
    "from": "senninbari",
    "type": "amulet",
    "name": "Senninbari",
    "as": "the other half of the act, and how the belt was fastened or folded into a pack and a helmet liner",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เซ็นนินบาริ (ผ้าพันฝีเข็ม)",
+   "as_th": ""
   },
   {
    "from": "tabiz",
    "type": "amulet",
    "name": "Tabiz",
    "as": "the practice the lugs on a lead case were for — the amulet stitched to clothing rather than hung",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ตาบีซ (เครื่องรางคำอธิษฐาน)",
+   "as_th": ""
   },
   {
    "from": "cloth",
    "type": "material",
    "name": "Cloth",
    "as": "the practice that hides a charm inside a garment, where the cloth is both container and concealment",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ผ้า",
+   "as_th": ""
   },
   {
    "from": "hair",
    "type": "material",
    "name": "Hair",
    "as": "the practice of enclosing, which is the only thing done to this material",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เส้นผม",
+   "as_th": ""
   },
   {
    "from": "thread",
    "type": "material",
    "name": "Thread and cord",
    "as": "the practice of stitching a charm into clothing, where the thread is both charm and fixing",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ด้ายและเชือก",
+   "as_th": ""
   },
   {
    "from": "folding",
    "type": "practice",
    "name": "Folding",
    "as": "the cloth branch of the same move: fold, then stitch shut instead of casing",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "การม้วนและพับ",
+   "as_th": "สายผ้าของการกระทำเดียวกัน: พับ แล้วเย็บปิดแทนการใส่ปลอก"
   },
   {
    "from": "wearing-hidden",
    "type": "practice",
    "name": "Wearing hidden",
    "as": "how a charm gets hidden when a pocket is not enough",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การสวมเครื่องรางแบบซ่อน",
+   "as_th": "วิธีซ่อนเครื่องรางเมื่อกระเป๋าไม่พอ"
   }
  ]
 }

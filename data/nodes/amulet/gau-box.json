@@ -8,16 +8,45 @@
   "script": "Tibetan",
   "lang": "bo",
   "said": "GAH-oo",
-  "aliases": ["ga'u", "ghau", "gao", "amulet box", "portable shrine"]
+  "aliases": [
+   "ga'u",
+   "ghau",
+   "gao",
+   "amulet box",
+   "portable shrine"
+  ],
+  "th": "กาอู (ตลับเครื่องรางทิเบต)"
  },
- "region": ["himalaya-tibet", "south-asia", "mongolia-steppe"],
- "countries": ["CN", "NP", "IN", "BT", "MN"],
- "facets": {"era": "modern", "status": "living", "portable": "worn", "restricted": "limited", "hemisphere": ["N", "E"]},
+ "region": [
+  "himalaya-tibet",
+  "south-asia",
+  "mongolia-steppe"
+ ],
+ "countries": [
+  "CN",
+  "NP",
+  "IN",
+  "BT",
+  "MN"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "limited",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "A metal box worn shut. Himalayan Art Resources calls the type a portable shrine, generally made from metal worked in repoussé — hammered from the back so the design stands out at the front. Small ones are round or oblong and hang at the neck on a cord; medium ones come in three parts, a metal container, a cloth outer cover and the contents, and usually carry a window with an image behind it; the largest are shrine-shaped, too big to carry, and stand on a household or temple altar. Men's boxes run from about an inch to over fourteen inches tall. What is inside is the point, and it is not on show.",
   "story": "James Gentry, writing for Project Himalayan Art at the Rubin Museum in 2023, catalogues one box closely enough to see into it. It was made in Kathmandu in the first decade of the twenty-first century, measures 9 × 8 × 4 cm, and is a golden nimbus-shaped box built to imitate a Buddhist reliquary, with the Wish-Fulfilling Jewel above its window and offerings below. Behind the window sits an amulet diagram wrapped in five-coloured cords with three dark brown pills; also inside are two reddish brown pills composed of relics said to be from the eighth-century Indian tantric master Padmasambhava, and two small golden pills of unknown composition. The box shows the diagram through the window and keeps the rest concealed behind it.\n\nThe contents were handselected by Chokling Rinpoche, who prepared them and consecrated the box, and the box was a personal gift from the Tsike Chokling, Fourth Karma Mingyur Dewe Dorje (1953–2020), to two of his students. That chain — a named lama fills it, a named lama gives it, a named student wears it — is what the object is. A gau bought empty is a case.\n\nMore broadly the boxes hold miniature statues, photographs of lamas, votive plaques, amulets, Sanskrit mantras written on small pieces of paper, relic pills, and materials taken from sacred sites; Himalayan Art Resources adds small texts, blessing cords and consecrated medicine, and notes they are typically carried on pilgrimage or on long business trips, with larger ones serving as makeshift shrines while travelling.",
   "how": "Assembled and consecrated by a lama, then closed. Smaller boxes hang from a cord or strap at the neck; larger ones are worn over the chest or under the arm on a leather strap or a cloth band. This atlas does not print how a gau is filled or what is said over it: the filling is a lama's work, done for a particular wearer, and the rite belongs to a body of practice Tibetan Buddhism restricts to those who have received empowerment.",
   "today": "Made and worn across the Tibetan-Buddhist world as of 2026 — Tibet, Bhutan, Nepal, Ladakh, Sikkim, Mongolia — and made for sale in Kathmandu, where Gentry's example was made. Empty gaus are also a standard item in the Himalayan visitor trade, sold as jewellery, and whether an empty one is the same object is a question the tradition answers by asking who filled it."
+ },
+ "text_th": {
+  "what": "กล่องโลหะที่สวมโดยปิดไว้ตลอด ฮิมาลายันอาร์ตรีซอร์สเซส (Himalayan Art Resources) เรียกวัตถุประเภทนี้ว่าศาลบูชาพกพา โดยทั่วไปทำจากโลหะดุนลาย (repoussé) คือตีจากด้านหลังให้ลวดลายนูนขึ้นทางด้านหน้า กล่องขนาดเล็กเป็นทรงกลมหรือทรงรี ห้อยคอด้วยเชือก ขนาดกลางมีสามส่วน คือภาชนะโลหะ ผ้าคลุมด้านนอก และสิ่งที่บรรจุอยู่ภายใน และมักมีช่องหน้าต่างที่มีรูปภาพอยู่ด้านหลัง ขนาดใหญ่ที่สุดมีรูปทรงเหมือนศาลบูชา ใหญ่เกินกว่าจะพกพา ตั้งไว้บนหิ้งบูชาในบ้านหรือในวัด กล่องของผู้ชายสูงตั้งแต่ราว 1 นิ้วไปจนถึงกว่า 14 นิ้ว สิ่งที่อยู่ข้างในคือหัวใจของมัน และไม่ได้เปิดให้ใครเห็น"
  },
  "restricted": {
   "note": "What goes inside a gau is selected, prepared and consecrated by a lama for a particular wearer, and the box is kept closed — the published example shows one item through its window and conceals the rest. This atlas prints what a named lama's published catalogue entry shows and stops. It does not reconstruct a filling or a consecration, because those belong to tantric practice, and Tibetan Buddhism holds that without having gone through initiation one is generally not allowed to practise the higher Tantras.",
@@ -38,44 +67,135 @@
  },
  "object": {
   "form": "box",
-  "materials": ["silver", "gold", "copper", "brass", "cloth", "paper"],
-  "worn": ["neck", "chest", "upper-arm", "wall"],
+  "materials": [
+   "silver",
+   "gold",
+   "copper",
+   "brass",
+   "cloth",
+   "paper"
+  ],
+  "worn": [
+   "neck",
+   "chest",
+   "upper-arm",
+   "wall"
+  ],
   "made_by": "a metalworker makes the case; a lama selects, prepares and consecrates what goes in it",
   "single_use": false,
   "source": "s:web-rubin-gau-gentry",
   "note": "One published measurement: Gentry's box is 3½ × 3⅛ × 1½ in. (9 × 8 × 4 cm). He gives the range for men's boxes as roughly one inch to over fourteen inches in height. No single typical dimension is claimed here."
  },
  "against": [
-  {"harm": "travel", "who": "Himalayan Art Resources, which gives the purpose as general protection and protection when travelling", "source": "s:web-har-amulet-box", "tier": "cited"},
-  {"harm": "illness", "who": "the practice of carrying consecrated medicine and relic pills inside the box", "source": "s:web-rubin-gau-gentry", "tier": "cited", "note": "Gentry lists relic pills and consecrated medicine among the contents; the essay does not put a claim in a wearer's mouth, and neither does this record"},
-  {"harm": "bad-luck", "who": "the general protective purpose both sources give, without naming a harm", "source": "s:web-har-amulet-box", "tier": "tradition"}
+  {
+   "harm": "travel",
+   "who": "Himalayan Art Resources, which gives the purpose as general protection and protection when travelling",
+   "source": "s:web-har-amulet-box",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the practice of carrying consecrated medicine and relic pills inside the box",
+   "source": "s:web-rubin-gau-gentry",
+   "tier": "cited",
+   "note": "Gentry lists relic pills and consecrated medicine among the contents; the essay does not put a claim in a wearer's mouth, and neither does this record"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "the general protective purpose both sources give, without naming a harm",
+   "source": "s:web-har-amulet-box",
+   "tier": "tradition"
+  }
  ],
  "kin": [
-  {"to": "sungkhor", "as": "the thing most often found inside — the folded, thread-wrapped protection diagram that the window of a gau usually shows", "rel": "part"},
-  {"to": "tibetan-protection", "as": "the tradition that fills it, and that decides who is entitled to", "rel": "tradition"},
-  {"to": "dzi-bead", "as": "what hangs on the same necklace, and the other Himalayan object whose value depends on a history nobody can read off its surface", "rel": "kin"},
-  {"to": "tabiz", "as": "the same idea two mountain ranges west: a written text sealed in metal that the wearer is not meant to open", "rel": "parallel"},
-  {"to": "hirz-pouch", "as": "the leather-cased cousin from North Africa, carried the same way at the neck", "rel": "parallel"},
-  {"to": "barkhor-lhasa", "as": "the circuit boxes are worn on, and bought beside", "rel": "place"},
-  {"to": "kathmandu-thamel", "as": "where the catalogued example was made, and where empty cases are sold as jewellery", "rel": "place"},
-  {"to": "wearing-hidden", "as": "the practice the object exists for: the contents are covered, and stay covered", "rel": "practice"},
-  {"to": "consecration", "as": "the step no buyer can perform for themselves — a lama's, and the reason a bought case is not yet a gau", "rel": "practice"},
-  {"to": "omamori", "as": "Japan's sealed pouch, bought at a shrine and likewise not to be opened — the same rule reached by a different route", "rel": "parallel"}
+  {
+   "to": "sungkhor",
+   "as": "the thing most often found inside — the folded, thread-wrapped protection diagram that the window of a gau usually shows",
+   "rel": "part"
+  },
+  {
+   "to": "tibetan-protection",
+   "as": "the tradition that fills it, and that decides who is entitled to",
+   "rel": "tradition"
+  },
+  {
+   "to": "dzi-bead",
+   "as": "what hangs on the same necklace, and the other Himalayan object whose value depends on a history nobody can read off its surface",
+   "rel": "kin"
+  },
+  {
+   "to": "tabiz",
+   "as": "the same idea two mountain ranges west: a written text sealed in metal that the wearer is not meant to open",
+   "rel": "parallel"
+  },
+  {
+   "to": "hirz-pouch",
+   "as": "the leather-cased cousin from North Africa, carried the same way at the neck",
+   "rel": "parallel"
+  },
+  {
+   "to": "barkhor-lhasa",
+   "as": "the circuit boxes are worn on, and bought beside",
+   "rel": "place"
+  },
+  {
+   "to": "kathmandu-thamel",
+   "as": "where the catalogued example was made, and where empty cases are sold as jewellery",
+   "rel": "place"
+  },
+  {
+   "to": "wearing-hidden",
+   "as": "the practice the object exists for: the contents are covered, and stay covered",
+   "rel": "practice"
+  },
+  {
+   "to": "consecration",
+   "as": "the step no buyer can perform for themselves — a lama's, and the reason a bought case is not yet a gau",
+   "rel": "practice"
+  },
+  {
+   "to": "omamori",
+   "as": "Japan's sealed pouch, bought at a shrine and likewise not to be opened — the same rule reached by a different route",
+   "rel": "parallel"
+  }
  ],
  "links": [
-  {"label": "Amulet Box (Gau) with Its Contents — Project Himalayan Art, Rubin Museum", "url": "https://rubinmuseum.org/projecthimalayanart/essays/amulet-box-gau-with-its-contents/"},
-  {"label": "Ritual Object: Amulet Box (Ga'u) — Himalayan Art Resources", "url": "https://www.himalayanart.org/search/set.cfm?setID=1090"}
+  {
+   "label": "Amulet Box (Gau) with Its Contents — Project Himalayan Art, Rubin Museum",
+   "url": "https://rubinmuseum.org/projecthimalayanart/essays/amulet-box-gau-with-its-contents/"
+  },
+  {
+   "label": "Ritual Object: Amulet Box (Ga'u) — Himalayan Art Resources",
+   "url": "https://www.himalayanart.org/search/set.cfm?setID=1090"
+  }
  ],
- "sources": ["s:web-rubin-gau-gentry", "s:web-har-amulet-box", "s:wp-tibetan-buddhism", "s:wp-amulet"],
+ "sources": [
+  "s:web-rubin-gau-gentry",
+  "s:web-har-amulet-box",
+  "s:wp-tibetan-buddhism",
+  "s:wp-amulet"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:web-rubin-gau-gentry"},
+  "default": {
+   "tier": "cited",
+   "source": "s:web-rubin-gau-gentry"
+  },
   "fields": {
-   "text.today": {"tier": "inference", "note": "the trade in empty cases is reasoned from the Kathmandu making of the catalogued example and from the general market; no survey backs it"},
-   "restricted": {"tier": "cited", "source": "s:web-rubin-gau-gentry"}
+   "text.today": {
+    "tier": "inference",
+    "note": "the trade in empty cases is reasoned from the Kathmandu making of the catalogued example and from the general market; no survey backs it"
+   },
+   "restricted": {
+    "tier": "cited",
+    "source": "s:web-rubin-gau-gentry"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Tibetan amulet box.jpg", "File:Gau amulet box.jpg"],
+ "x_commons_files": [
+  "File:Tibetan amulet box.jpg",
+  "File:Gau amulet box.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-16"
 }

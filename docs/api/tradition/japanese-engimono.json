@@ -12,7 +12,8 @@
    "Japanese luck goods",
    "shrine and temple charms",
    "engi-mono"
-  ]
+  ],
+  "th": "เองิโมโนะ (ของมงคลญี่ปุ่น)"
  },
  "etymology": {
   "root": "Japanese engi (縁起), an omen or an auspicious origin, plus mono (物), a thing — 'a thing of good omen'",
@@ -41,6 +42,9 @@
   "story": "The tradition is distinctive for being administered. Ofuda — the tablet for the household altar — descend from the Taoist lingfu by way of Onmyodo, and from woodblock-printed Buddhist texts and images made by temples since the Nara and Heian periods. In the medieval period the three Kumano shrines in Wakayama stamped their paper talismans with stylised crows and called them Kumano Goofu; those sheets were used for oath-taking and contract-drafting, with the terms written on the blank side.\n\nThe national distribution system is dated at every step. The shinsatsu most shrines now issue are modelled on the Ise talisman, the Jingu Taima, which began as purification wands handed out across the country by the oshi, the wandering preachers attached to Ise, as a sign that prayers had been performed on a household's behalf. Distribution of these began in the Muromachi period and peaked in the Edo: a document of 1777 indicates that eighty-nine to ninety per cent of all households in the country owned an Ise talisman. In 1871 an imperial decree abolished the oshi and moved production to the shrine's administrative offices; in 1900 a new Department of Priests took it over; in 1927 it passed to the National Association of Shinto Priests, and after the Second World War to the Association of Shinto Shrines, which distributes Jingu Taima to affiliated shrines to this day. Very few charm traditions anywhere can be traced through four changes of administrative owner.\n\nThe market is the other half. Sensō-ji granted the shops that became the Nakamise permission to trade on its main approach in 1685, in exchange for their charging local residents for sweeping the grounds — a temple licensing a shopping street and taking maintenance labour as rent. The daruma has its own annual fair: Takasaki's daruma-ichi at Shorinzan draws, on the city's own figure, over 400,000 people from across the Kanto Plain to buy the year's dolls, and Takasaki produces 80 per cent of Japan's daruma. The doll itself came out of a production problem. The charms the Daruma-dera's founder drew were good for one year, so parishioners needed new ones annually; the ninth priest, Togaku, solved the demand by cutting wooden block moulds around the beginning of the Meiwa period (1764–72) and letting the peasants make their own papier-mâché charms. Most of those households were silk farmers, a crop the account describes as needing a great deal of luck.\n\nThe beckoning cat is dated from the other end, by pictures. The earliest figurine record is the marushime-neko, an Imado ware variant of the late Edo period; the Bukō nenpyō chronicle of Edo has an entry dated 1852, and Utagawa Hiroshige's ukiyo-e Joruri-machi Hanka no zu, painted the same year, shows marushime-neko being sold at Sensō-ji. A newspaper mentioned them in 1876; a 1902 advertisement shows they were popular by then. Four temples and shrines claim to be the birthplace.\n\nThe argument inside the tradition is about manufacture, and the complainants are priests. Where a popular shrine cannot keep up with demand for a charm, it turns to factories, and priests have complained about the quality of what comes back. Separately, shops sell generic omamori carrying licensed characters — Mickey Mouse, Hello Kitty, Snoopy, Kewpie — that no shrine issued and no priest charged. *Inference —* the tradition has an unusually clean test for the argument, because its objects carry a shrine's name and seal. What a factory charm lacks is not craftsmanship but the stamp, and both sides of the argument know it.",
   "how": "Made or printed, then consecrated, then issued rather than sold. Omamori enclose paper or wood carrying a prayer inside a brocade bag; the practice describes them as made sacred through ritual and as holding busshin, spiritual offshoots, in a Shinto frame, or kesshin, manifestations, in a Buddhist one. They are not opened: shrines and their buyers alike hold that opening one loses the protection. Payment is treated as a donation: the objects are not bought but received, sazukaru or ukeru. Replacement is annual, customarily at or just after New Year, and the old one goes back to the shrine or temple that issued it to be burnt, as a mark of respect to the deity that helped through the year. If a visitor cannot find a charm for their need they can ask a priest to have one made, and if enough people ask for the same thing the shrine may start stocking it.",
   "today": "Live, and expanding into categories older shrines did not have. Kanda Myojin in Tokyo issues charms for IT equipment and electronics; Sega released free digital omamori in 2022 for success at school and work; omamori hang from phone straps, bags and car mirrors, and have been made as bumper decals, bicycle reflectors and card-shaped objects. The annual cycle holds: Japanese Wikipedia's own entry is organised as a month-by-month calendar of fairs — tori-no-ichi for the kumade rake, daruma-ichi for the dolls, hagoita-ichi for the decorated paddles. As of 2026 an engimono is still, in the tradition's own framing, something you receive at a counter, keep for a year, and bring back."
+ },
+ "text_th": {
+  "what": "วัตถุที่ซื้อจากศาลเจ้า วัด หรืองานเทศกาล เพื่อนำสิ่งดีที่ระบุชื่อไว้มาให้: ถุงผ้าแพรยกดิ้นสำหรับความปลอดภัยบนท้องถนน แผ่นกระดาษหรือแผ่นไม้สำหรับหิ้งบูชาในบ้าน ตุ๊กตากระดาษอัดสีแดงที่ตายังว่างเปล่า แมวเซรามิกยกขาหน้า คราดไม้ไผ่สำหรับคราดโชคลาภเข้ามา และใบทำนายกระดาษพับที่ผูกไว้กับราว รายการในวิกิพีเดียภาษาญี่ปุ่นครอบคลุมการเก็บเกี่ยว การค้า ความปลอดภัยในบ้าน สุขภาพ อายุยืน ความปรองดองของคู่ครอง และการปัดเป่าเคราะห์ร้าย ส่วนใหญ่ขายตามถนนทางเข้า ในเขตวัด หรือในเมืองนอกประตู และส่วนใหญ่เปลี่ยนใหม่ปีละครั้ง"
  },
  "dating": {
   "period": "Medieval to the present",
@@ -286,91 +290,117 @@
    "type": "amulet",
    "name": "Omamori",
    "as": "the tradition's signature object: a brocade bag nobody opens, replaced every year and burnt at the shrine that issued it",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "the tablet the whole administered system runs on, from the Ise oshi to the Association of Shinto Shrines",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "daruma",
    "type": "amulet",
    "name": "Daruma",
    "as": "the object with its own annual market, its own city, and a documented production reason for existing",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ดารุมะ",
+   "as_th": ""
   },
   {
    "to": "maneki-neko",
    "type": "amulet",
    "name": "Maneki-neko",
    "as": "the shop-luck end of the tradition, dated from 1852 by a chronicle entry and a Hiroshige print of it being sold at Sensō-ji",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "แมวกวัก (มาเนกิเนโกะ)",
+   "as_th": ""
   },
   {
    "to": "omikuji",
    "type": "amulet",
    "name": "Omikuji",
    "as": "the counter where the transaction is a draw rather than a purchase, and the paper is tied up rather than taken home",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "โอมิกุจิ (ใบเซียมซีญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "teru-teru-bozu",
    "type": "amulet",
    "name": "Teru teru bōzu",
    "as": "the edge case: made at home, by a child, from tissue, with no shrine's name on it and nothing to return",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เทรุเทรุโบซุ (ตุ๊กตาไล่ฝน)",
+   "as_th": ""
   },
   {
    "to": "senninbari",
    "type": "amulet",
    "name": "Senninbari",
    "as": "the Japanese luck object this tradition did not issue — a thousand stitches from a thousand women, with no priest and no counter anywhere in it",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เซ็นนินบาริ (ผ้าพันฝีเข็ม)",
+   "as_th": ""
   },
   {
    "to": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "the practice this tradition runs at national scale, and the reason its output is an annual figure rather than a stock",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   },
   {
    "to": "burning-retirement",
    "type": "practice",
    "name": "Burning at retirement",
    "as": "the other end of that year — an old charm goes back to its own shrine to be burnt, not thrown away",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเผาเครื่องรางเมื่อหมดวาระ",
+   "as_th": ""
   },
   {
    "to": "blessing-at-a-shrine",
    "type": "practice",
    "name": "Blessing at a shrine",
    "as": "the step that separates an issued charm from a souvenir, and the one priests invoke when they complain about factory stock",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การนำไปรับพรที่ศาสนสถาน",
+   "as_th": ""
   },
   {
    "to": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "where the paper tablet comes from: the Taoist lingfu, carried into Japan through Onmyodo",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "fushimi-inari",
    "type": "place",
    "name": "Fushimi Inari-taisha",
    "as": "the counter at the scale of 32,000 branch shrines",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ศาลเจ้าฟูชิมิอินาริไทฉะ",
+   "as_th": ""
   },
   {
    "to": "senso-ji",
    "type": "place",
    "name": "Sensō-ji",
    "as": "the approach road the tradition is sold on, licensed by the temple in 1685 in exchange for sweeping the grounds",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "วัดเซนโซจิ",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -711,133 +741,171 @@
    "type": "amulet",
    "name": "Daruma",
    "as": "the tradition it sits at the centre of, with its own annual market at Takasaki",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ดารุมะ",
+   "as_th": ""
   },
   {
    "from": "maneki-neko",
    "type": "amulet",
    "name": "Maneki-neko",
    "as": "the class it belongs to — a shop-luck object sold at shrine markets beside the daruma and the rake",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "แมวกวัก (มาเนกิเนโกะ)",
+   "as_th": ""
   },
   {
    "from": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "the tradition that sells it, alongside the daruma, the rake and the beckoning cat",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "omamori",
    "type": "amulet",
    "name": "Omamori",
    "as": "the class of shrine-and-temple goods this belongs to, sold on the same trays as the daruma and the beckoning cat",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "omikuji",
    "type": "amulet",
    "name": "Omikuji",
    "as": "the tradition that runs the counter this is drawn at",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "โอมิกุจิ (ใบเซียมซีญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "senninbari",
    "type": "amulet",
    "name": "Senninbari",
    "as": "the Japanese luck-object tradition this stands outside — no shrine issued it and no priest charged it",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เซ็นนินบาริ (ผ้าพันฝีเข็ม)",
+   "as_th": ""
   },
   {
    "from": "teru-teru-bozu",
    "type": "amulet",
    "name": "Teru teru bōzu",
    "as": "the tradition it sits at the edge of: made at home, by a child, with nobody's seal on it",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เทรุเทรุโบซุ (ตุ๊กตาไล่ฝน)",
+   "as_th": ""
   },
   {
    "from": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "downstream: the ofuda is this craft's paper slip, carried into Japan through Onmyodo and then put on an administered national footing",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "korean-bujeok-craft",
    "type": "tradition",
    "name": "Bujeok craft",
    "as": "the other descendant of the same Taoist stock, which went the opposite way: administered, seal-stamped, sold at a counter and replaced on a calendar",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "บูจ็อก (ศาสตร์ยันต์เกาหลี)",
+   "as_th": ""
   },
   {
    "from": "salt",
    "type": "material",
    "name": "Salt",
    "as": "the tradition that puts salt at an entrance rather than on a person",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เกลือ",
+   "as_th": ""
   },
   {
    "from": "blessing-at-a-shrine",
    "type": "practice",
    "name": "Blessing at a shrine",
    "as": "the tradition that turned the counter into a national distribution system with four changes of administrative owner",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "การนำไปรับพรที่ศาสนสถาน",
+   "as_th": "ธรรมเนียมที่เปลี่ยนเคาน์เตอร์ให้เป็นระบบแจกจ่ายระดับชาติ ซึ่งเปลี่ยนเจ้าของทางการบริหารมาแล้วสี่ครั้ง"
   },
   {
    "from": "burning-retirement",
    "type": "practice",
    "name": "Burning at retirement",
    "as": "the tradition that runs the calendar this fire sits on",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "การเผาเครื่องรางเมื่อหมดวาระ",
+   "as_th": ""
   },
   {
    "from": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "the tradition that runs this cycle at national scale",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   },
   {
    "from": "fushimi-inari",
    "type": "place",
    "name": "Fushimi Inari-taisha",
    "as": "the tradition of luck-bringing objects this shrine's counter belongs to",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาลเจ้าฟูชิมิอินาริไทฉะ",
+   "as_th": ""
   },
   {
    "from": "senso-ji",
    "type": "place",
    "name": "Sensō-ji",
    "as": "the tradition of luck objects this approach trades in",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "วัดเซนโซจิ",
+   "as_th": ""
   },
   {
    "from": "unesco-ich",
    "type": "org",
    "name": "UNESCO Intangible Cultural Heritage",
    "as": "a shrine-linked making and selling practice of the sort the lists take in",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "มรดกทางวัฒนธรรมที่จับต้องไม่ได้ของยูเนสโก",
+   "as_th": "การสร้างและขายที่ผูกกับศาลเจ้า ในแบบที่บัญชีเหล่านี้รับไว้"
   },
   {
    "from": "omamori-word",
    "type": "term",
    "name": "omamori",
    "as": "the tradition this word sits inside, alongside the lucky objects that are not shrine issue",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "โอมาโมริ",
+   "as_th": ""
   },
   {
    "from": "the-charm-goes-digital",
    "type": "story",
    "name": "The charm goes digital",
    "as": "the tradition both Japanese cases belong to, factory pouches and free downloads included",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เครื่องรางในโลกดิจิทัล",
+   "as_th": "ธรรมเนียมที่ทั้งสองกรณีของญี่ปุ่นสังกัดอยู่ รวมทั้งถุงเครื่องรางจากโรงงานและไฟล์ที่ดาวน์โหลดได้ฟรี"
   },
   {
    "from": "the-swastika-problem",
    "type": "story",
    "name": "The swastika problem",
    "as": "the East Asian inheritance, where the character reads as ten thousand and as longevity",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ปัญหาเรื่องสวัสติกะ",
+   "as_th": "มรดกฝั่งเอเชียตะวันออก ที่ตัวอักษรนี้อ่านว่าหนึ่งหมื่น และหมายถึงอายุยืน"
   }
  ]
 }

@@ -12,7 +12,8 @@
    "fei cui",
    "pounamu",
    "greenstone"
-  ]
+  ],
+  "th": "หยก"
  },
  "etymology": {
   "root": "Spanish piedra de ijada, 'flank stone', first recorded 1565, via French l'ejade and Latin ilia, the flanks and kidney area",
@@ -46,6 +47,9 @@
   "what": "Two different rocks under one word. Nephrite is a felted mass of calcium-magnesium amphibole, slightly softer but very tough; jadeite is a sodium-aluminium pyroxene, harder, rarer, documented from fewer than a dozen places on earth. The French mineralogist Alexis Damour separated them in 1863; before that they were one stone in every language that had a word for it. Neither can be flaked. Jade is abraded to shape with quartz or garnet sand and polished with bamboo, which is why a jade object represents time more than skill.",
   "story": "China worked jade before it worked bronze. The Neolithic nephrite sources were Ningshao in the Yangtze delta, worked by the Liangzhu culture between 3400 and 2250 BCE, and Liaoning and Inner Mongolia, worked by the Hongshan between 4700 and 2200 BCE; Dushan jade was being mined as early as 6000 BCE. White jade came as tribute from the Kingdom of Khotan down the southern Silk Road, and its status-value is described as exceeding that of gold or silver. Han royalty were buried in jade burial suits, plaques drilled at the corners and sewn together with wire, and the Book of Later Han sets out who got which thread: gold for emperors, silver for princes, princesses, dukes and marquises, copper for their children, silk for lesser aristocrats, and nobody else at all.\n\nIn Mesoamerica the Olmec, the Maya and their neighbours had a single source, the Motagua River valley in Guatemala, and jade stayed an elite good — carved into figurines, inscribed with glyphs, hung on a goddess as water. Burmese jadeite reached China in quantity only after about 1800, as fei cui, kingfisher jade, and became the Qing aristocracy's stone while scholars kept to white nephrite.\n\nIn Aotearoa New Zealand nephrite is pounamu, and its record is about ownership rather than trade. Pounamu is a taonga, a treasure, found only in the South Island — Te Wai Pounamu, the land of greenstone water. Taonga gain mana as they pass down the generations; pounamu is held to absorb the mana of its past owners, and the most prized pieces have known histories going back many generations and were given to seal agreements. In 1997 the Crown returned ownership of all naturally occurring pounamu to Ngai Tahu under the Ngai Tahu Claims Settlement. The same source notes the market reality beside it: \"much of the carved 'greenstone' sold in souvenir shops is jade sourced overseas\".\n\nIslamic amulet writing puts jade alongside jasper as a material credited with protective and medicinal properties — victory in battle, protection from lightning, treatment of diseases of the internal organs — and reads jade set with carnelian as fertility and embryogenesis.",
   "today": "Myanmar is estimated to produce upwards of 70% of the world's high-quality jadeite, most of it from the Jade Tract in Lonkin Township, Kachin State, and most of it cut elsewhere. Mining there was a state enterprise from 1964 to 1981, after which the gemstone laws were changed in 1981, 1985 and 1995 to admit private operators. New Zealand's pounamu is at the other pole: the resource belongs to an iwi by law, and the souvenir stone next to it on the shelf usually does not come from the country it is sold in."
+ },
+ "text_th": {
+  "what": "หินสองชนิดภายใต้คำเดียว เนฟไรต์เป็นมวลเส้นใยสานกันของแอมฟิโบลแคลเซียม-แมกนีเซียม อ่อนกว่าเล็กน้อยแต่เหนียวมาก เจไดต์เป็นไพรอกซีนโซเดียม-อะลูมิเนียม แข็งกว่า หายากกว่า มีบันทึกว่าพบในไม่ถึงสิบสองแห่งบนโลก อาเล็กซี ดามูร์ (Alexis Damour) นักแร่วิทยาชาวฝรั่งเศส แยกสองชนิดนี้ออกจากกันใน ค.ศ. 1863 ก่อนหน้านั้นมันเป็นหินชนิดเดียวในทุกภาษาที่มีคำเรียก ทั้งสองชนิดกะเทาะไม่ได้ หยกต้องขัดสีให้เป็นรูปด้วยทรายควอตซ์หรือทรายการ์เนต และขัดเงาด้วยไม้ไผ่ วัตถุหยกจึงแสดงถึงเวลามากกว่าฝีมือ"
  },
  "dating": {
   "period": "Neolithic China to the present",
@@ -223,63 +227,81 @@
    "type": "amulet",
    "name": "Hei-tiki",
    "as": "the pendant this stone is best known as outside Asia, and a taonga whose mana is held to accumulate with each owner",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เฮย์ติกิ (จี้หยกเมารี)",
+   "as_th": ""
   },
   {
    "to": "hei-matau",
    "type": "amulet",
    "name": "Hei matau",
    "as": "the hook, carved from pounamu or from bone, worn at the neck",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เฮย์ มาเตา (จี้ตะขอเบ็ดเมารี)",
+   "as_th": ""
   },
   {
    "to": "ping-an-fu",
    "type": "amulet",
    "name": "Ping'an fu",
    "as": "the Chinese safety charm cut from this stone and hung on a cord",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ผิงอันฝู (ยันต์ขอความสงบสุข)",
+   "as_th": ""
   },
   {
    "to": "maori-taonga",
    "type": "tradition",
    "name": "Taonga Māori",
    "as": "the tradition in which this stone is not a material but an inheritance",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ตาองกาเมารี",
+   "as_th": ""
   },
   {
    "to": "te-papa-taonga",
    "type": "place",
    "name": "Mana Whenua, Te Papa",
    "as": "where pounamu taonga are held and shown in the country they come from",
-   "rel": "held-at"
+   "rel": "held-at",
+   "name_th": "มานาเฟนูอา ที่พิพิธภัณฑ์เตปาปา",
+   "as_th": ""
   },
   {
    "to": "gold",
    "type": "material",
    "name": "Gold",
    "as": "the metal jade outranked at the Chinese court, and reduced to thread in a burial suit",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ทองคำ",
+   "as_th": ""
   },
   {
    "to": "carnelian",
    "type": "material",
    "name": "Carnelian",
    "as": "its partner in Islamic amulet practice, where the pair is read as fertility",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "คาร์เนเลียน",
+   "as_th": ""
   },
   {
    "to": "inheriting",
    "type": "practice",
    "name": "Inheriting",
    "as": "the practice that makes a jade object worth more than the stone in it",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การสืบทอดเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read this stone's 1997 settlement belongs to",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -436,49 +458,63 @@
    "type": "amulet",
    "name": "Chinese charm coin",
    "as": "one of the costlier materials the same charms were cut from",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เหรียญเครื่องรางจีน (เอี้ยนเซิ่งเฉียน)",
+   "as_th": ""
   },
   {
    "from": "crystal-pendant",
    "type": "amulet",
    "name": "Crystal pendant",
    "as": "the stone this trade's logic was already applied to in China and Mesoamerica, long before anybody said aura",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "จี้คริสตัล",
+   "as_th": ""
   },
   {
    "from": "hei-matau",
    "type": "amulet",
    "name": "Hei matau",
    "as": "the material class pounamu falls into; Māori classify the stone by colour instead",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เฮย์ มาเตา (จี้ตะขอเบ็ดเมารี)",
+   "as_th": ""
   },
   {
    "from": "hei-tiki",
    "type": "amulet",
    "name": "Hei-tiki",
    "as": "the material class pounamu falls into for a mineralogist, and does not fall into for Māori, who classify it by colour",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เฮย์ติกิ (จี้หยกเมารี)",
+   "as_th": ""
   },
   {
    "from": "maori-taonga",
    "type": "tradition",
    "name": "Taonga Māori",
    "as": "the material that is not a material here: pounamu is an inheritance, occurs only in New Zealand, and has belonged to Ngāi Tahu since 1997",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ตาองกาเมารี",
+   "as_th": ""
   },
   {
    "from": "gold",
    "type": "material",
    "name": "Gold",
    "as": "the material that outranked gold at the Chinese court, and demoted it to the thread holding a burial suit together",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ทองคำ",
+   "as_th": ""
   },
   {
    "from": "te-papa-taonga",
    "type": "place",
    "name": "Mana Whenua, Te Papa",
    "as": "the stone, called pounamu here, whose naturally occurring supply the Crown returned to Ngāi Tahu in 1997",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "มานาเฟนูอา ที่พิพิธภัณฑ์เตปาปา",
+   "as_th": ""
   }
  ]
 }

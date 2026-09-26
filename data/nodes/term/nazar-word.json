@@ -14,7 +14,8 @@
    "máti",
    "cheshm nazar",
    "nazar qurbāni"
-  ]
+  ],
+  "th": "นาซาร์"
  },
  "etymology": {
   "root": "Arabic naẓar (نَظَر) 'sight, surveillance, attention' > borrowed into Albanian, Azerbaijani, Bengali, Hebrew, Hindi-Urdu, Kurdish, Pashto, Persian, Punjabi, Sindhi and Turkish",
@@ -54,6 +55,9 @@
  "text": {
   "what": "A word for a glance that has ended up as the name of a glass disc. Naẓar in Arabic is sight, surveillance, attention. Across a dozen languages it names the harmful look — in India and Pakistan nazar lag gai says somebody has been struck by it — and by extension the bead sold against it. Persian and Afghan usage says cheshm nazar or nazar qurbāni; Turkish says nazar boncuğu, the nazar bead; Greek, which did not borrow the word, says máti.",
   "story": "The phrase that keeps it away is its own small piece of evidence. In India and Pakistan the Hindi-Urdu chashm-e-baddoor — 'may the evil eye keep away' — is said aloud, without any object involved at all. The bead is the same sentence in glass.\n\nWhat the bead is is described the same way by everyone selling it: handmade glass, concentric circles or teardrops in dark blue, white, light blue and black, sometimes edged yellow or gold. Wikipedia's article quotes the recipe as “a mixture of molten glass, iron, copper, water, and salt, ingredients that are thought to shield people from evil”, and reports the colour logic in a wearer's terms: 'According to Turkish belief, blue acts as a shield against evil and even absorbs negativity.' It also carries the argument from rarity — in the Middle East and the Mediterranean, blue eyes are uncommon, and light-eyed people were held able to curse with a look.\n\nThe bead is old and the word is not the oldest thing about it. The Turkish boncuk, the blue glass eye bead, is a design of great antiquity; written documentation and surviving beads date from as early as the sixteenth century BCE, and glass beads were made and used from Mesopotamia to Egypt, from Carthage to Greece, from Phoenicia to Persia and through the Roman imperial period.\n\nAnd it now has a code point. Unicode added U+1F9FF 🧿 NAZAR AMULET in 2018. *Inference —* that is the moment the word finished its journey: a name for a look, then a bead, then a character available on every phone on earth, sent by people who have never heard the Arabic.\n\n*Tradition holds —* wearers say a bead that breaks has taken a strong nazar and stored it, and broken in order to protect the person wearing it."
+ },
+ "text_th": {
+  "what": "คำที่หมายถึงการชำเลืองมอง แล้วกลายมาเป็นชื่อของแผ่นแก้ว นะซ็อร (naẓar) ในภาษาอาหรับแปลว่า การมองเห็น การเฝ้าดู ความสนใจ ในภาษาราวสิบกว่าภาษา คำนี้หมายถึงสายตาที่ก่อโทษ — ในอินเดียและปากีสถาน วลี นาซาร์ ลัก กัย (nazar lag gai) บอกว่ามีคนโดนสายตานั้นเข้าแล้ว — และโดยขยายความ หมายถึงลูกปัดที่ขายไว้กันมัน ภาษาเปอร์เซียและภาษาที่ใช้ในอัฟกานิสถานพูดว่า เชชม์นาซาร์ (cheshm nazar) หรือนาซาร์กุรบานี (nazar qurbāni) ภาษาตุรกีพูดว่า นาซาร์บอนจูอู (nazar boncuğu) คือลูกปัดนาซาร์ ภาษากรีกซึ่งไม่ได้ยืมคำนี้ไป พูดว่า มาตี (máti)"
  },
  "kin": [
   {

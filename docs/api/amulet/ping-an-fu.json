@@ -12,7 +12,8 @@
    "ping an fu",
    "peace talisman",
    "safety charm"
-  ]
+  ],
+  "th": "ผิงอันฝู (ยันต์ขอความสงบสุข)"
  },
  "etymology": {
   "root": "Chinese 平安 píng'ān 'peace, safety' + 符 fú 'talisman, tally'",
@@ -41,6 +42,9 @@
   "story": "The charm is obtained rather than bought outright, and the asking is specific. A worshipper offers incense, states their name, birthday and address and what they are asking for, and seeks the deity's permission with divination blocks. If it is granted, the talisman is raised above the main incense burner and circled clockwise three times — in the Taiwanese Gods account, to let it drink in the incense energy and switch on its power.\n\n*Inference —* that sequence is worth reading closely. A name, a birth date and an address are the same details a registry takes; the charm is issued to a person, not to a pocket, and the censer is where it is stamped.\n\nThe writing on it belongs to the Taoist talismanic tradition, where the script is deliberately hard to read. Scholars including James Robson and Gil Raz have argued that the incomprehensibility of the written forms is central to a talisman's perceived authority, and Ge Hong wrote in the Baopuzi, in the Eastern Jin period, that successful use did not depend on the user being able to decipher the script.",
   "how": "Requested at a temple, activated over the censer, carried on the person, then retired on a calendar. A peace talisman is usually replaced once a year: before Lunar New Year the old one goes to the temple's furnace to be burned, and a fresh one is requested for the coming year.",
   "today": "Handed out at temples across Taiwan and kept in nearly every household there, as of the account read in September 2026 — in wallets, on scooter keys, in car glove boxes and in bags. Whether the charm on a scooter key is a devotional object or a habit is not a question this atlas settles; the temple's own procedure treats it as the former, and the wallet treats it as the latter."
+ },
+ "text_th": {
+  "what": "กระดาษสีเหลืองที่เขียนสัญลักษณ์ศักดิ์สิทธิ์ พับเป็นรูปปากั้ว (แปดทิศ) หรือสี่เหลี่ยมผืนผ้า แล้วสอดเข้าซองผ้าสีแดง ในไต้หวันนี่คือเครื่องรางที่พบบ่อยที่สุด: ถุงแดงใบเล็กที่เหน็บไว้ในกระเป๋าสตางค์ ยันต์กระดาษเหลืองพับเป็นรูปปากั้วที่ห้อยจากกุญแจสกูตเตอร์"
  },
  "dating": {
   "period": "Taoist talismanic practice; the paper peace charm itself is undated in the sources read",
@@ -208,70 +212,90 @@
    "type": "amulet",
    "name": "Fu talisman",
    "as": "the class it belongs to — this is the ordinary, household end of Taoist talismanic writing",
-   "rel": "whole"
+   "rel": "whole",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "the tradition that writes it and the priesthood that keeps the script",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "blessing-at-a-shrine",
    "type": "practice",
    "name": "Blessing at a shrine",
    "as": "the step that issues it: incense, a name, a birth date, divination blocks, three clockwise circles over the censer",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การนำไปรับพรที่ศาสนสถาน",
+   "as_th": ""
   },
   {
    "to": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "its clock — one year, then the furnace",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   },
   {
    "to": "burning-retirement",
    "type": "practice",
    "name": "Burning at retirement",
    "as": "how it ends, at the temple, before Lunar New Year",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเผาเครื่องรางเมื่อหมดวาระ",
+   "as_th": ""
   },
   {
    "to": "omamori",
    "type": "amulet",
    "name": "Omamori",
    "as": "Japan's sealed brocade pouch, taken from a shrine and returned to be burned a year later: the same cycle, the same year",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "the Japanese paper talisman descended from the same Taoist writing",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "bujeok",
    "type": "amulet",
    "name": "Bujeok",
    "as": "the Korean paper charm from the same root, and the third of the three",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "to": "bagua-mirror",
    "type": "amulet",
    "name": "Bagua mirror",
    "as": "the fixed version at the same door: this one rides in a pocket, that one is screwed above the lintel",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "กระจกปากั้ว (กระจกแปดทิศ)",
+   "as_th": ""
   },
   {
    "to": "paper",
    "type": "material",
    "name": "Paper",
    "as": "the material that lets a temple issue thousands and burn them all a year later",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "กระดาษ",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -434,56 +458,72 @@
    "type": "amulet",
    "name": "Bagua mirror",
    "as": "the portable Taiwanese charm for the same household, renewed yearly while this stays up",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "กระจกปากั้ว (กระจกแปดทิศ)",
+   "as_th": ""
   },
   {
    "from": "charm-coin",
    "type": "amulet",
    "name": "Chinese charm coin",
    "as": "the paper peace charm that carries the same two characters, ping'an, at a fraction of the weight",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เหรียญเครื่องรางจีน (เอี้ยนเซิ่งเฉียน)",
+   "as_th": ""
   },
   {
    "from": "fu-talisman",
    "type": "amulet",
    "name": "Fu talisman",
    "as": "the everyday form: this script folded into yellow paper, sleeved in red and issued at a Taiwanese temple",
-   "rel": "part"
+   "rel": "part",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "the peace-and-safety slip, issued over a censer with a name and a birth date rather than written for a private client",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "coin-square",
    "type": "motif",
    "name": "The square hole",
    "as": "the other Chinese thing tied round a child's neck for safety",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "รูสี่เหลี่ยม",
+   "as_th": ""
   },
   {
    "from": "jade",
    "type": "material",
    "name": "Jade",
    "as": "the Chinese safety charm cut from this stone and hung on a cord",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "หยก",
+   "as_th": ""
   },
   {
    "from": "blessing-at-a-shrine",
    "type": "practice",
    "name": "Blessing at a shrine",
    "as": "the case where the sequence is published: a name, a birth date, incense, divination blocks, and passes over the censer",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การนำไปรับพรที่ศาสนสถาน",
+   "as_th": "กรณีที่ลำดับขั้นถูกเผยแพร่: ชื่อ วันเกิด ธูป ไม้ปวยเสี่ยงทาย และการเวียนเหนือกระถางธูป"
   },
   {
    "from": "fu-word",
    "type": "term",
    "name": "fu",
    "as": "the peace-and-safety charm that carries the word in its name",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ฝู (福)",
+   "as_th": ""
   }
  ]
 }

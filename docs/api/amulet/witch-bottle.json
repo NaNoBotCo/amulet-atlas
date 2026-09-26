@@ -9,7 +9,8 @@
    "Bellarmine bottle",
    "Greybeard jug",
    "Bartmann jug"
-  ]
+  ],
+  "th": "ขวดแม่มด"
  },
  "region": [
   "britain-ireland",
@@ -36,6 +37,9 @@
   "story": "The earliest surviving description is a story about a bird. In 1681 Joseph Glanvill printed it in Saducismus Triumphatus: a Suffolk man tells a travelling old man that his wife has been long in a languishing condition and is haunted by a thing in the shape of a bird that flurrs near her face. The old man tells him to take his wife's urine, cork it in a bottle with pins, needles and nails, and set it to the fire. The cork blows out with a report like a pistol and the wife is no better. The old man comes back and changes the instruction: bottle it the same way and bury it in the earth. She recovers. Then a woman arrives from a town some miles off crying that they have killed her husband, who told her on his deathbed that he was a wizard and had bewitched the man's wife.\n\nThat is the logic the whole class runs on. A witch bottle is countermagic: it draws in harm aimed at its owner and holds it. Folk magic contends that the bottle protects against evil spirits and magical attacks and counteracts spells cast by witches. It stays active as long as it stays hidden and unbroken, which is why people took so much trouble over the hiding — bottles buried under fireplaces have turned up only after the rest of the building was pulled down.\n\nThe bottles keep being found. In 2016 a glass bottle dug out of the threshold of a Cornish house appeared on Antiques Roadshow, filmed at Trelissick; the glass specialist Andy McConnell tasted a little of the contents and guessed port or wine, noting a rusty flavour and the nails. A 2019 episode gave the laboratory answer: Loughborough University found it contained \"urine, a tiny bit of alcohol, and one human hair\", along with brass pins dating from the late 1840s, and an ostracod. In 2020 a sixteenth-century jug used against witchcraft was found during the renovation of the De Zwarte Ruiter pub in Turnhout, Belgium — reported as the first witch bottle found in Europe outside England.\n\nIn the United States fewer than a dozen possible witch bottles have been identified. The archaeologist Marshall Becker was the first to identify one in an archaeological context: the Essington witch bottle, recovered during excavations on Great Tinicum Island in Delaware County, Pennsylvania. A mid-nineteenth to early twentieth-century slave or tenant site in Dorchester County, Maryland, yielded a buried bottle whose cork stopper bristled with straight pins. In 2016 a bottle filled with nails came out of the hearth of a Civil War site in Virginia.",
   "how": "A white witch or folk healer prepared it. The historical fill is the victim's urine, hair or nail clippings, or red thread from sprite traps; later bottles take rosemary, needles and pins, and red wine. Other recorded fills include sand, stones, knotted threads, feathers, shells, herbs, flowers, salt, vinegar, oil, coins and ashes; sea water or earth stand in for urine. Then it is corked and buried — at the farthest corner of the property, beneath the hearth, or somewhere inconspicuous indoors. Carriers describe the mechanism: evil is drawn in, impaled on the pins and needles, drowned by the wine, and sent away by the rosemary. One variant is destructive rather than protective: throw the bottle into a fire, and when it explodes the spell is broken.",
   "today": "Still made. Modern practitioners bottle and bury them, and the historical ones surface at a steady rate during building work in England and, now, Belgium. *Inference —* the finds are a function of demolition as much as of belief: a charm designed never to be found is only counted when a wall comes down."
+ },
+ "text_th": {
+  "what": "ภาชนะปิดจุก บรรจุปัสสาวะของผู้ที่ประสบเคราะห์และเหล็กแหลม — เข็มหมุด เข็มเย็บผ้า ตะปู — แล้วนำไปซ่อน ชิ้นที่มีบันทึกเก่าที่สุดเป็นเหยือกบาร์ทมันน์ (Bartmann) เนื้อสโตนแวร์เคลือบเกลือ หรือที่เรียกอีกชื่อว่าเบลลาร์มีน (Bellarmine) หรือเกรย์เบียร์ด (Greybeard) สีน้ำตาลหรือเทา มีรูปใบหน้าชายมีเคราดุนนูน ชิ้นรุ่นหลังเป็นขวดแก้วธรรมดาและขวดเล็ก ๆ มันไม่ได้มีไว้สวมและไม่ได้มีไว้ให้เห็น: มันถูกวางไว้ใต้เตาไฟ ในผนัง หรือที่มุมไกลที่สุดของที่ดิน และตั้งใจให้อยู่ที่นั่นต่อไป"
  },
  "dating": {
   "period": "Early modern to the present",
@@ -235,77 +239,99 @@
    "type": "amulet",
    "name": "Concealed shoe",
    "as": "the same custom's commonest object by a wide margin — shoe and bottle go into the same chimney, and archaeologists call the deposit a spiritual midden",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "รองเท้าซ่อนในบ้าน",
+   "as_th": ""
   },
   {
    "to": "the-charm-in-the-wall",
    "type": "story",
    "name": "The charm in the wall",
    "as": "the long read about objects built into houses, which begins with this bottle and the shoe beside it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เครื่องรางในกำแพง",
+   "as_th": ""
   },
   {
    "to": "burying",
    "type": "practice",
    "name": "Burying",
    "as": "the practice that completes it: Glanvill's first attempt, at the fire, fails; the bottle only works buried",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การฝัง",
+   "as_th": ""
   },
   {
    "to": "foundation-deposit",
    "type": "practice",
    "name": "Foundation deposit",
    "as": "the older, wider habit this belongs to — something put into a building to hold it",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ของฝังใต้ฐานรากอาคาร",
+   "as_th": ""
   },
   {
    "to": "iron",
    "type": "material",
    "name": "Iron",
    "as": "what does the work inside: pins, needles and nails, the same metal English folklore hangs over the door",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เหล็ก",
+   "as_th": ""
   },
   {
    "to": "glass",
    "type": "material",
    "name": "Glass",
    "as": "the later body of the object, once stoneware jugs went out of use",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "แก้ว",
+   "as_th": ""
   },
   {
    "to": "incantation-bowl",
    "type": "amulet",
    "name": "Incantation bowl",
    "as": "the same idea fifteen centuries earlier and three thousand miles east — a vessel buried in a house to catch what is coming for the household",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ชามคาถา",
+   "as_th": ""
   },
   {
    "to": "curse-tablet",
    "type": "amulet",
    "name": "Curse tablet",
    "as": "the other buried written object of European magic, and the one aimed outward rather than defensively",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "แผ่นคำสาป (คาตาเดสมอส)",
+   "as_th": ""
   },
   {
    "to": "hagstone",
    "type": "amulet",
    "name": "Hagstone",
    "as": "what hung visibly over the bed while this was hidden under the hearth",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "หินรู (แฮกสโตน)",
+   "as_th": ""
   },
   {
    "to": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "the tradition it belongs to, and the object of that tradition with the best-documented recipe",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "to": "hex-sign",
    "type": "amulet",
    "name": "Hex sign",
    "as": "the other charm in this atlas whose scholarship is an argument between archaeologists and decorators",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เฮ็กซ์ไซน์ (ป้ายดาวบนโรงนา)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -500,98 +526,126 @@
    "type": "amulet",
    "name": "Concealed shoe",
    "as": "the other object out of the same chimney, and the one with a written recipe where this one has none",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "รองเท้าซ่อนในบ้าน",
+   "as_th": ""
   },
   {
    "from": "curse-tablet",
    "type": "amulet",
    "name": "Curse tablet",
    "as": "the European object that answers one of these: a counter-charm buried against a named person's harm",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "แผ่นคำสาป (คาตาเดสมอส)",
+   "as_th": ""
   },
   {
    "from": "hagstone",
    "type": "amulet",
    "name": "Hagstone",
    "as": "the answer when the harm was already inside the house — this stone hangs, that bottle is buried",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "หินรู (แฮกสโตน)",
+   "as_th": ""
   },
   {
    "from": "rowan-cross",
    "type": "amulet",
    "name": "Rowan cross",
    "as": "the same fear answered indoors and out of sight, with urine and pins instead of wood and thread",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "กางเขนไม้โรวัน",
+   "as_th": ""
   },
   {
    "from": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "its best-documented recipe, and the only one it writes down",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "from": "glass",
    "type": "material",
    "name": "Glass",
    "as": "the English charm that changed material under the practice: stoneware jug first, glass bottle later, same buried job",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "แก้ว",
+   "as_th": ""
   },
   {
    "from": "hair",
    "type": "material",
    "name": "Hair",
    "as": "the container that preserved the only analysed strand in this atlas, corked under a Cornish threshold",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เส้นผม",
+   "as_th": ""
   },
   {
    "from": "herb",
    "type": "material",
    "name": "Herb and root",
    "as": "the only sealed container in this atlas whose herbal contents were ever named by a laboratory",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "สมุนไพรและรากไม้",
+   "as_th": ""
   },
   {
    "from": "iron",
    "type": "material",
    "name": "Iron",
    "as": "filled with iron: rusty nails, pins and needles, sealed and buried",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เหล็ก",
+   "as_th": ""
   },
   {
    "from": "salt",
    "type": "material",
    "name": "Salt",
    "as": "the salt-glazed jug, and the salt inside it — the container survives and the contents rarely do",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เกลือ",
+   "as_th": ""
   },
   {
    "from": "terracotta",
    "type": "material",
    "name": "Fired clay",
    "as": "begins as a salt-glazed stoneware Bartmann jug with a bearded face on it, before glass takes over",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ดินเผา",
+   "as_th": "เริ่มต้นจากเหยือกเครื่องปั้นดินเผาเนื้อแกร่งเคลือบเกลือแบบบาร์ทมันน์ (Bartmann) ที่มีรูปหน้าคนมีเครา ก่อนที่แก้วจะเข้ามาแทน"
   },
   {
    "from": "burying",
    "type": "practice",
    "name": "Burying",
    "as": "the charm whose working position is underground — active while hidden and unbroken",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การฝัง",
+   "as_th": ""
   },
   {
    "from": "foundation-deposit",
    "type": "practice",
    "name": "Foundation deposit",
    "as": "buried under the hearth of a standing house rather than under a new one, and working while it stays there",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ของฝังใต้ฐานรากอาคาร",
+   "as_th": ""
   },
   {
    "from": "the-charm-in-the-wall",
    "type": "story",
    "name": "The charm in the wall",
    "as": "the other common deposit, and the only one whose contents have been through a laboratory",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เครื่องรางในกำแพง",
+   "as_th": ""
   }
  ]
 }

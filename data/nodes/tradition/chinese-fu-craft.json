@@ -8,7 +8,13 @@
   "script": "Han",
   "lang": "zh",
   "said": "fú-lù",
-  "aliases": ["fulu", "talismanic script", "Taoist talismans", "fu"]
+  "aliases": [
+   "fulu",
+   "talismanic script",
+   "Taoist talismans",
+   "fu"
+  ],
+  "th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)"
  },
  "etymology": {
   "root": "Chinese fu (符), instructions for deities and spirits, symbols for exorcism, and recipes for potions or charms; lu (籙), a register of priestly membership listing the skills a priest is trained in",
@@ -16,14 +22,35 @@
   "tier": "cited",
   "source": "s:wp-fulu"
  },
- "region": ["china", "island-sea", "diaspora"],
- "countries": ["CN", "TW", "MY", "VN"],
- "facets": {"era": "living", "status": "living", "restricted": "closed", "language": "Chinese", "hemisphere": ["N", "E"]},
+ "region": [
+  "china",
+  "island-sea",
+  "diaspora"
+ ],
+ "countries": [
+  "CN",
+  "TW",
+  "MY",
+  "VN"
+ ],
+ "facets": {
+  "era": "living",
+  "status": "living",
+  "restricted": "closed",
+  "language": "Chinese",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "Writing that is not meant to be read. Fulu are Taoist talismanic characters — strokes that resemble Chinese characters, often an existing word elongated, with non-character symbols worked in, sometimes two characters stacked into one — painted or written on paper, cloth or metal by a Taoist priest. The same craft supplies the charm coins, the mirror that hangs over a doorway, and the New Year slips pasted on a door.",
   "story": "The unreadability is the point, and its own scholars say so. Yang Zhaohua notes that a number of the earliest Taoist talismans were simple and legible, and that later examples became deliberately cryptic in order to signal their divinity. James Robson and Gil Raz hold that the incomprehensibility of the written forms is central to a talisman's perceived authority and is one of talismanic script's defining features. Ge Zhaoguang of Fudan University calls it a linguistic archaism, a veil of unfathomable otherworldliness designed so that only a small number of qualified clergy can produce them.\n\nThat had already settled by the Eastern Jin (317–420). Ge Hong wrote in the Baopuzi that successful use of a talisman did not depend on whether the user could decipher the script, so long as the inscription itself was right. By then illegibility was a sign of divine authority rather than a defect.\n\nStyle varies by sect, and so does everything else: the characters differ from sect to sect, each sect has its own incantations and its own mudras for making them, and even the invocations used for a single deity vary between sects. The method of writing is passed in secret from a Taoist priest to their disciples and treated as a craft for communicating with local deities and spirits. The fulu pai — the informal grouping of priests across schools who work this way — take their name from it.\n\nThe medical strand has an institutional history. Talismanic technique has been used in China alongside medicine, meditation, acupuncture, astrology and massage, at least as far back as the Eastern Han, when the Way of the Taiping used it to heal. In medical writing it is called zhuyou, and it held official support between the Sui and the late Ming, declining after rival acupuncture practices were recognised by the imperial court as a medical discipline in the sixth century. Traditional Chinese medicine rejects zhuyou; Chinese folk healers still use it widely; and with the arrival of Western psychology in the 20th century it began to be read as a Chinese counterpart to hypnosis.\n\nThe craft also travelled, and two other traditions in this atlas are downstream of it. Fulu were incorporated into Chinese Buddhism; they inspired Japan's ofuda, by way of Onmyodo; and Korea's bujeok comes out of the same stock. Coin talismans carry fulu at the beginning and the end of the inscription, and many of them have not been deciphered — one specimen has talismanic script written beside Chinese characters suspected to be its gloss.\n\nThe household end of it is a different character and a different logic. Fu (福), good fortune, is mounted on doorways at Chinese New Year, printed on a square of red paper or stitched in fabric, and hung upside down: in nearly all varieties of Chinese the words for 'upside-down' and 'to arrive' are homophones, so an inverted fu reads as 'good luck arrives'. The practice dates to at least the Song dynasty and the account describes it as universal among Chinese people regardless of income.",
   "how": "Structure only, because the making is transmitted in secret. A priest of a particular sect writes the characters, using that sect's forms, incantations and mudras, on paper, cloth or metal. The result is displayed, carried, burnt, or — in the medical use — dissolved or otherwise administered. A lu, a register, records which priests hold which skills, so the entitlement to write one is a matter of record inside the tradition rather than of talent. Coin charms carry the script cast into metal instead of brushed, with fulu opening and closing the inscription.",
   "today": "Live in Taiwan, mainland China and the Chinese diaspora, in temples and in folk healing. Popular accounts of fulu are published for general readers, including by Taiwanese temple-culture sites, while the sect-specific forms stay inside the sects. The New Year fu on a red square is everywhere Chinese New Year is kept. Museum and numismatic collections hold large runs of charm coins whose inscriptions remain unread, which is the tradition's own design working on its own evidence."
+ },
+ "text_th": {
+  "what": "ข้อเขียนที่ไม่ได้มีไว้ให้อ่าน ฝูลู่คืออักขระยันต์ของลัทธิเต๋า — เส้นขีดที่คล้ายอักษรจีน บ่อยครั้งเป็นคำที่มีอยู่แล้วแต่ยืดให้ยาวออก มีสัญลักษณ์ที่ไม่ใช่อักษรผสมเข้าไป บางครั้งซ้อนอักษรสองตัวเป็นตัวเดียว — วาดหรือเขียนบนกระดาษ ผ้า หรือโลหะ โดยนักพรตเต๋า ศาสตร์เดียวกันนี้ยังทำเหรียญเครื่องราง กระจกที่แขวนเหนือประตู และกระดาษตรุษจีนที่แปะไว้ที่ประตูด้วย"
  },
  "restricted": {
   "note": "This craft restricts its own script and the atlas prints no example. The method of writing fulu is passed in secret from a Taoist priest to their disciples; forms, incantations and mudras differ from sect to sect; and, in the words of the scholarship, the illegibility exists so that only a small number of qualified clergy can produce them. So this record describes what fulu look like and what they are for, names the priesthood that writes them, and does not reproduce a character, an incantation or a mudra — nor reconstruct one from a museum photograph.",
@@ -44,52 +71,179 @@
  },
  "object": {
   "form": "folded-paper",
-  "materials": ["paper", "ink", "cloth", "copper", "brass", "coin", "wood"],
-  "worn": ["door", "wall", "pocket", "shop", "burnt", "swallowed"],
+  "materials": [
+   "paper",
+   "ink",
+   "cloth",
+   "copper",
+   "brass",
+   "coin",
+   "wood"
+  ],
+  "worn": [
+   "door",
+   "wall",
+   "pocket",
+   "shop",
+   "burnt",
+   "swallowed"
+  ],
   "made_by": "a Taoist priest of a particular sect, entered on a lu — a register listing the skills each priest is trained in. The method is transmitted in secret from priest to disciple.",
   "inscription": "talismanic script: strokes resembling Chinese characters, existing words elongated, non-character symbols, and characters stacked one atop another. No example is printed in this record.",
   "script": "Han and Taoist talismanic script",
-  "colour": ["red", "yellow", "black"],
+  "colour": [
+   "red",
+   "yellow",
+   "black"
+  ],
   "single_use": false,
   "source": "s:wp-fulu"
  },
  "against": [
-  {"harm": "illness", "who": "Taoist zhuyou practice, used in China alongside medicine, meditation, acupuncture, astrology and massage, and with official support from the Sui to the late Ming", "source": "s:wp-fulu", "tier": "cited"},
-  {"harm": "spirits", "who": "the coin talismans, most of which request Lei Gong to protect their carriers from evil spirits and misfortune", "source": "s:wp-fulu", "tier": "cited"},
-  {"harm": "demons", "who": "the fu itself, defined in the tradition as instructions for deities and spirits and symbols for exorcism", "source": "s:wp-fulu", "tier": "cited"},
-  {"harm": "bad-luck", "who": "Chinese households at New Year, who paste the character fu (福) upside down on a door so that it reads as good luck arriving", "source": "s:wp-fu-character", "tier": "cited"},
-  {"harm": "house", "who": "users of the bagua mirror, installed to turn away negative energy and guard the entryways of a residence", "source": "s:wp-apotropaic-magic", "tier": "cited"}
+  {
+   "harm": "illness",
+   "who": "Taoist zhuyou practice, used in China alongside medicine, meditation, acupuncture, astrology and massage, and with official support from the Sui to the late Ming",
+   "source": "s:wp-fulu",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "the coin talismans, most of which request Lei Gong to protect their carriers from evil spirits and misfortune",
+   "source": "s:wp-fulu",
+   "tier": "cited"
+  },
+  {
+   "harm": "demons",
+   "who": "the fu itself, defined in the tradition as instructions for deities and spirits and symbols for exorcism",
+   "source": "s:wp-fulu",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "Chinese households at New Year, who paste the character fu (福) upside down on a door so that it reads as good luck arriving",
+   "source": "s:wp-fu-character",
+   "tier": "cited"
+  },
+  {
+   "harm": "house",
+   "who": "users of the bagua mirror, installed to turn away negative energy and guard the entryways of a residence",
+   "source": "s:wp-apotropaic-magic",
+   "tier": "cited"
+  }
  ],
  "kin": [
-  {"to": "fu-talisman", "as": "the object itself: the priest's written slip, and the reason this record prints no script", "rel": "carries"},
-  {"to": "ping-an-fu", "as": "the peace-and-safety slip, issued over a censer with a name and a birth date rather than written for a private client", "rel": "carries"},
-  {"to": "charm-coin", "as": "the same script cast in metal — fulu opening and closing an inscription that in many cases nobody has yet read", "rel": "carries"},
-  {"to": "bagua-mirror", "as": "the door-piece whose techniques the tradition is credited with, and the one household object here that works by reflection rather than by writing", "rel": "carries"},
-  {"to": "fu-word", "as": "the two characters this record has to keep apart — 符 the talisman and 福 the fortune pasted upside down at New Year", "rel": "same-word"},
-  {"to": "coin-square", "as": "the sign the charm coins carry: a round coin with a square hole, cast, inscribed and read within this tradition", "rel": "motif"},
-  {"to": "mirror-sign", "as": "the other technique it holds — deflection, which needs no script at all", "rel": "motif"},
-  {"to": "japanese-engimono", "as": "downstream: the ofuda is this craft's paper slip, carried into Japan through Onmyodo and then put on an administered national footing", "rel": "descendant"},
-  {"to": "korean-bujeok-craft", "as": "the other descendant, where the unreadable script arrived in Hanja and the specialists who draw it are mostly women", "rel": "descendant"},
-  {"to": "paper", "as": "the material the craft is built on, and the one it burns to deliver a message", "rel": "material"},
-  {"to": "inscribing", "as": "the practice at its most restricted — the strokes are the secret, not the intention behind them", "rel": "practice"},
-  {"to": "hanging-at-door", "as": "where most of this output ends up: a slip, a mirror or a red square on a doorway", "rel": "practice"}
+  {
+   "to": "fu-talisman",
+   "as": "the object itself: the priest's written slip, and the reason this record prints no script",
+   "rel": "carries"
+  },
+  {
+   "to": "ping-an-fu",
+   "as": "the peace-and-safety slip, issued over a censer with a name and a birth date rather than written for a private client",
+   "rel": "carries"
+  },
+  {
+   "to": "charm-coin",
+   "as": "the same script cast in metal — fulu opening and closing an inscription that in many cases nobody has yet read",
+   "rel": "carries"
+  },
+  {
+   "to": "bagua-mirror",
+   "as": "the door-piece whose techniques the tradition is credited with, and the one household object here that works by reflection rather than by writing",
+   "rel": "carries"
+  },
+  {
+   "to": "fu-word",
+   "as": "the two characters this record has to keep apart — 符 the talisman and 福 the fortune pasted upside down at New Year",
+   "rel": "same-word"
+  },
+  {
+   "to": "coin-square",
+   "as": "the sign the charm coins carry: a round coin with a square hole, cast, inscribed and read within this tradition",
+   "rel": "motif"
+  },
+  {
+   "to": "mirror-sign",
+   "as": "the other technique it holds — deflection, which needs no script at all",
+   "rel": "motif"
+  },
+  {
+   "to": "japanese-engimono",
+   "as": "downstream: the ofuda is this craft's paper slip, carried into Japan through Onmyodo and then put on an administered national footing",
+   "rel": "descendant"
+  },
+  {
+   "to": "korean-bujeok-craft",
+   "as": "the other descendant, where the unreadable script arrived in Hanja and the specialists who draw it are mostly women",
+   "rel": "descendant"
+  },
+  {
+   "to": "paper",
+   "as": "the material the craft is built on, and the one it burns to deliver a message",
+   "rel": "material"
+  },
+  {
+   "to": "inscribing",
+   "as": "the practice at its most restricted — the strokes are the secret, not the intention behind them",
+   "rel": "practice"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "where most of this output ends up: a slip, a mirror or a red square on a doorway",
+   "rel": "practice"
+  }
  ],
  "links": [
-  {"label": "Fulu — Wikipedia", "url": "https://en.wikipedia.org/wiki/Fulu"},
-  {"label": "Fu (character) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Fu_(character)"}
+  {
+   "label": "Fulu — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fulu"
+  },
+  {
+   "label": "Fu (character) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fu_(character)"
+  }
  ],
- "sources": ["s:wp-fulu", "s:wp-fu-character", "s:wp-chinese-numismatic-charm", "s:wp-numismatic-charm", "s:wp-bagua", "s:wp-apotropaic-magic", "s:web-taiwanese-gods-fulu", "s:wp-ofuda", "s:wp-korean-shamanism"],
+ "sources": [
+  "s:wp-fulu",
+  "s:wp-fu-character",
+  "s:wp-chinese-numismatic-charm",
+  "s:wp-numismatic-charm",
+  "s:wp-bagua",
+  "s:wp-apotropaic-magic",
+  "s:web-taiwanese-gods-fulu",
+  "s:wp-ofuda",
+  "s:wp-korean-shamanism"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-fulu"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-fulu"
+  },
   "fields": {
-   "dating": {"tier": "cited", "source": "s:wp-fulu", "note": "the Eastern Han start is the earliest dated use in the cited account; the note keeps the household fu date separate rather than folding it in"},
-   "text.how": {"tier": "tradition", "note": "structure only. The sect forms, incantations and mudras are transmitted in secret and none is reconstructed here."},
-   "restricted": {"tier": "cited", "source": "s:wp-fulu"},
-   "countries": {"tier": "inference", "note": "China is cited throughout; Taiwan from the temple-culture source read here; Malaysia and Vietnam are the diaspora and regional range the sources imply rather than enumerate, and are the weakest entries in this record"}
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-fulu",
+    "note": "the Eastern Han start is the earliest dated use in the cited account; the note keeps the household fu date separate rather than folding it in"
+   },
+   "text.how": {
+    "tier": "tradition",
+    "note": "structure only. The sect forms, incantations and mudras are transmitted in secret and none is reconstructed here."
+   },
+   "restricted": {
+    "tier": "cited",
+    "source": "s:wp-fulu"
+   },
+   "countries": {
+    "tier": "inference",
+    "note": "China is cited throughout; Taiwan from the temple-culture source read here; Malaysia and Vietnam are the diaspora and regional range the sources imply rather than enumerate, and are the weakest entries in this record"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Taoist talisman.jpg", "File:Fu character upside down.jpg"],
+ "x_commons_files": [
+  "File:Taoist talisman.jpg",
+  "File:Fu character upside down.jpg"
+ ],
  "confidence": "medium",
  "needs_verification": true,
  "updated": "2026-09-17"

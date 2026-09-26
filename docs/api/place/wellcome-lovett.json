@@ -8,7 +8,8 @@
    "Lovett Collection, Wellcome",
    "Charmed Life"
   ],
-  "sort": "Wellcome Lovett"
+  "sort": "Wellcome Lovett",
+  "th": "เครื่องรางของโลเวตต์ที่เวลคัมคอลเลกชัน"
  },
  "region": [
   "britain-ireland"
@@ -27,6 +28,9 @@
   "what": "An address rather than a room. Walk into 183 Euston Road today and there is no case of Edward Lovett's London charms to look at: the permanent show of Henry Wellcome's own collecting, Medicine Man, closed for good on 27 November 2022 after fifteen years, and the permanent exhibition now is Being Human. What Wellcome still holds under Lovett's name is paper — a collection dossier in the archive of the Wellcome Historical Medical Museum, catalogued as 'Lovett Collection', reference WA/HMM/CM/Col/64, a summary sheet dated to about the 1980s — and two exhibitions' worth of history.",
   "story": "Lovett collected by swap. He was chief cashier at a bank in the City, lived in Croydon and later Caterham, and spent his free time asking dockers, costermongers and sailors' families what they carried and why, trading them alpine plants grown in seashells for it. He wrote it up in \"Magic in Modern London\" in 1925 and he did not theorise: he recorded who gave him the thing and what they said about it, and left the explaining alone. That restraint is why his labels still work a century later.\n\nHe and Henry Wellcome corresponded for years. In 1916 Lovett curated an exhibition, 'Folklore of London', at the Wellcome Historical Medical Museum at 54a Wigmore Street. In 1930, three years before Lovett died, Wellcome's museum bought from his collection of British amulets and charms: a mole's foot from Downham Market in Norfolk, carried loose in a pocket in the 1890s or 1900s, is still catalogued with that purchase note and is now in the Science Museum Group collection as A79966.\n\nWellcome's own writing on those objects reports the claims and names the claimants. In \"Moles' feet, dried frogs and other folk medicines\", published on its website by Kate Wilkinson on 21 May 2019, it gives the reasoning as its owners gave it: \"the digging-foot of a mole (with its cramped appearance) is thought to be a cure for cramp\". A dried frog in a silk bag was carried against fits; snake vertebrae were strung against pain in the lower back; a coil of eel skin was wound round the fingers, in Scotland, against cramp; a potato was the one people were still carrying, in a pocket, against rheumatism. An old woman in Devonshire used quartzite on warts.\n\nThe charms themselves went to Oxford. When Wellcome Collection showed them again in 'Charmed Life: The solace of objects', 6 October 2011 to 26 February 2012, the museum's own page says the 1,400 amulets the artist Felicity Powell worked with were \"borrowed from Oxford University's Pitt Rivers Museum\" — the same building Lovett had been giving to since the 1890s. Powell was one of few people to have had access to them; the page describes her as caught by the silent witness they bore to personal stories now lost. Her films and medals hung beside them.\n\nThe institution has since said how the wider collecting worked. In 2021 Wellcome Collection acknowledged that Henry Wellcome's collecting was shaped by colonialism, that many objects bought at auction around the turn of the twentieth century carried no record of how they had been got, and that they may have been \"unjustly taken\"; in 2025 it returned a group of Jain manuscripts to India. *Inference —* Lovett sits oddly inside that account, because his method was a trade on a street with the owner present, and this project has not read a Wellcome statement that treats his material as contested. Saying so is not a defence of it; it is a note about what is and is not on the record.",
   "today": "The galleries, library, café and shop at 183 Euston Road are free, and the building's own line is that \"All our permanent and temporary exhibitions, and most of our events, are free.\" Photography is allowed for personal use in most exhibitions except where signs say otherwise. To see a Lovett charm you go to Oxford or to the Science Museum Group catalogue; to read his file you book the library here."
+ },
+ "text_th": {
+  "what": "เป็นที่อยู่มากกว่าห้องจัดแสดง หากเดินเข้าไปที่เลขที่ 183 ถนนยูสตัน (Euston Road) ทุกวันนี้ จะไม่มีตู้เครื่องรางลอนดอนของเอ็ดเวิร์ด โลเวตต์ให้ชม นิทรรศการถาวรว่าด้วยการสะสมของเฮนรี เวลคัม (Henry Wellcome) เอง ชื่อเมดิซินแมน (Medicine Man) ปิดถาวรเมื่อวันที่ 27 พฤศจิกายน ค.ศ. 2022 หลังจัดมาสิบห้าปี และนิทรรศการถาวรในปัจจุบันคือบีอิงฮิวแมน (Being Human) สิ่งที่เวลคัมยังเก็บไว้ภายใต้ชื่อโลเวตต์คือเอกสาร ได้แก่แฟ้มคอลเลกชันในหอจดหมายเหตุของพิพิธภัณฑ์การแพทย์ประวัติศาสตร์เวลคัม ลงรายการว่า ‘คอลเลกชันโลเวตต์’ (Lovett Collection) เลขอ้างอิง WA/HMM/CM/Col/64 เป็นแผ่นสรุปที่ระบุอายุไว้ราวทศวรรษ 1980 และประวัติของนิทรรศการสองครั้ง"
  },
  "dating": {
   "period": "1916 to now",
@@ -238,70 +242,90 @@
    "type": "org",
    "name": "Wellcome Collection",
    "as": "the institution this address is, and the one that showed Lovett's charms in 1916 and again in 2011",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "เวลคัมคอลเลกชัน",
+   "as_th": ""
   },
   {
    "to": "edward-lovett",
    "type": "person",
    "name": "Edward Lovett",
    "as": "the man who swapped alpine plants for the charms in Londoners' pockets and wrote down what they said about them",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "เอ็ดเวิร์ด เลิฟเวตต์",
+   "as_th": ""
   },
   {
    "to": "lovett-collection",
    "type": "art",
    "name": "The Lovett collection",
    "as": "the collection itself, which this address holds the paper trail of rather than the objects",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "คอลเลกชันของโลเวตต์",
+   "as_th": ""
   },
   {
    "to": "pitt-rivers-charms",
    "type": "place",
    "name": "The amulet and charm cases, Pitt Rivers Museum",
    "as": "where the charms actually are — the 1,400 amulets shown here in 2011 were borrowed back from Oxford",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตู้เครื่องรางและของขลัง พิพิธภัณฑ์พิตต์ริเวอร์ส",
+   "as_th": ""
   },
   {
    "to": "caul",
    "type": "amulet",
    "name": "Caul",
    "as": "the birth membrane Lovett recorded in the hands of London sailors' families, bought against drowning",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "คอล (เยื่อคลุมหน้าทารกแรกเกิด)",
+   "as_th": ""
   },
   {
    "to": "hagstone",
    "type": "amulet",
    "name": "Hagstone",
    "as": "the naturally perforated stone that runs all through his English material",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "หินรู (แฮกสโตน)",
+   "as_th": ""
   },
   {
    "to": "rabbits-foot",
    "type": "amulet",
    "name": "Rabbit's foot",
    "as": "the pocket animal part of the same English habit as the mole's foot Wellcome bought in 1930",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตีนกระต่ายนำโชค",
+   "as_th": ""
   },
   {
    "to": "walter-hildburgh",
    "type": "person",
    "name": "Walter Leo Hildburgh",
    "as": "the other amulet collector whose material passed through this building and out of it in 1985",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "วอลเตอร์ ลีโอ ฮิลด์เบิร์ก",
+   "as_th": ""
   },
   {
    "to": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "the living tradition he recorded on the street while other collectors read about its past",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read; a charm swapped face to face on a barrow is the awkward case in it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -483,28 +507,36 @@
    "type": "motif",
    "name": "The tooth and the claw",
    "as": "the collection the wolf tooth came from before 1985",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "เขี้ยวเล็บ",
+   "as_th": ""
   },
   {
    "from": "pitt-rivers-charms",
    "type": "place",
    "name": "The amulet and charm cases, Pitt Rivers Museum",
    "as": "the London end of the same story: what Wellcome kept, and what came here in 1985",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตู้เครื่องรางและของขลัง พิพิธภัณฑ์พิตต์ริเวอร์ส",
+   "as_th": ""
   },
   {
    "from": "wellcome-collection",
    "type": "org",
    "name": "Wellcome Collection",
    "as": "the Lovett material inside it, which is the part of this collection this atlas sends a reader to",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "เวลคัมคอลเลกชัน",
+   "as_th": ""
   },
   {
    "from": "lovett-collection",
    "type": "art",
    "name": "The Lovett collection",
    "as": "the other room these objects come back to, most recently in Charmed Life in 2011–12",
-   "rel": "held-at"
+   "rel": "held-at",
+   "name_th": "คอลเลกชันของโลเวตต์",
+   "as_th": ""
   }
  ]
 }

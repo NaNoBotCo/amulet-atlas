@@ -14,7 +14,8 @@
    "geriin ongod",
    "lineage talisman",
    "household talisman"
-  ]
+  ],
+  "th": "องกอน"
  },
  "region": [
   "mongolia-steppe",
@@ -39,6 +40,9 @@
   "story": "The objects are described one at a time in the ethnography, and this record keeps them that way. For the Tuvan shamaness Yamaan, an ancestor spirit is represented in the handle of a drum: a carved figure with a pink head and chest, a black crown, and red eyes and forehead, with a wire for arms and, on a second wire, suspended holbogo standing for the spirit's earring.\n\nSome ongod are not made at all but inhabited. Agaaryn Khairhan, a mountain in Khövsgöl Province, carries the name of one of the most powerful shamanesses of the Darkhad clan — Agaaryn Khairhan, also called Bagdan Udgan — who lived on that mountain in the eighteenth century.\n\nAmong the Darkhad in present-day Northern Mongolia, clusters of ongod stand in transitional places: the mouths of rivers, the border between taiga and steppe. That border is also a religious one, with the taiga and the mountains the traditional ground of shamanism and the steppe the ground of Buddhism. Many Darkhad households own lineage talismans, yazguur ongod, or household talismans, geriin ongod, which both contain and attract spirits.\n\nThe ongon matters most in black shamanism: the main job of the khar talynkh, the black shaman, is to bring people into contact with the ongon, whose spirit they call up while drumming in a trance. Otgony Purev records that in late-nineteenth-century Mongolia yellow shamans revered ongod as well, and that every three years they gathered at Dayan Deerh monastery in Khövsgöl Province to renew these ancestral spirits. Dayan Deerh is itself one of the well-known ongod.",
   "how": "Made by a shaman, not by a household member, and consecrated to a particular dead shaman. The renewal Purev records for yellow shamans ran on a three-year cycle at a named monastery. This atlas does not print how an ongon is made or what is said over it: the sources read describe particular objects among particular peoples — a Tuvan shamaness's drum handle, Darkhad household talismans — and do not publish a procedure, and neither a Darkhad practice nor a Tuvan one stands in for the other.",
   "today": "Recorded in the Darkhad Valley of Northern Mongolia in the ethnography of the 2010s, with household and lineage talismans in ordinary houses and clusters of ongod at the edges between taiga and steppe. Morten Axel Pedersen's Not Quite Shamans, 2011, and Ágnes Birtalan's 2011 study of Dayan Deerh are the recent published accounts this record leans on; Dmitry Zelenin's Культ онгонов в Сибири, 1936, is the old one."
+ },
+ "text_th": {
+  "what": "สองสิ่งในคำเดียว องกอนเป็นวิญญาณในความเชื่อแบบชามานของมองโกเลีย หลังจากตาย ชามานจะกลายเป็นวิญญาณชามาน เรียกว่า องกอด (ongod) และองกอนยังเป็นวัตถุที่ทำขึ้นเพื่อเป็นตัวแทนของวิญญาณนั้นในโลกทางกายภาพ ชามานเป็นผู้ประกอบขึ้น และเป็นหัวใจของพิธีที่ขอความคุ้มครองจากวิญญาณ รูปเคารพอาจทำพิธีอุทิศให้ชามานที่ตายไปแล้วได้ภายในสามปีหลังการตาย และเก็บไว้ในบ้านเป็นองกอนประจำบ้าน หรือไว้กลางแจ้งในเพิงเป็นองกอนประจำทุ่ง"
  },
  "restricted": {
   "note": "This record names the people each practice is recorded among — Darkhad, Tuvan, the yellow shamans Otgony Purev describes — and does not generalise any of it to Mongolians or Siberians at large. It prints no procedure for making or consecrating an ongon, because the sources read describe objects and not methods, and filling that gap from a neighbouring people's practice would be a guess.",
@@ -204,56 +208,72 @@
    "type": "amulet",
    "name": "Toli",
    "as": "the other object on the same shaman's body — the mirror worn as armour, where this one holds an ancestor",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "โตลี (กระจกของชามาน)",
+   "as_th": ""
   },
   {
    "to": "nkisi",
    "type": "amulet",
    "name": "Nkisi",
    "as": "the Kongo parallel: an object a specialist assembles so that a spirit will live in it and work through it",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เอ็นกีซี",
+   "as_th": ""
   },
   {
    "to": "tupilaq",
    "type": "amulet",
    "name": "Tupilaq",
    "as": "the Arctic made figure with a spirit put into it, and the other place this atlas has to name a people rather than a region",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ทูปิลัก",
+   "as_th": ""
   },
   {
    "to": "inuit-amulet",
    "type": "amulet",
    "name": "Inuit amulet",
    "as": "the neighbouring northern practice, recorded people by people in the same way",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางชาวอินูอิต",
+   "as_th": ""
   },
   {
    "to": "tibetan-protection",
    "type": "tradition",
    "name": "Tibetan protection craft",
    "as": "what stands on the other side of the line the ongod cluster along — the steppe is Buddhist ground where the taiga is shamanic",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "งานเครื่องรางป้องกันภัยทิเบต (ซุงวา)",
+   "as_th": ""
   },
   {
    "to": "consecration",
    "type": "practice",
    "name": "Consecration",
    "as": "the step that makes an idol an ongon, done within three years of a shaman's death",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การปลุกเสก",
+   "as_th": ""
   },
   {
    "to": "inheriting",
    "type": "practice",
    "name": "Inheriting",
    "as": "how a yazguur ongon moves — down a lineage, with the house",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การสืบทอดเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "gau-box",
    "type": "amulet",
    "name": "Gau",
    "as": "the Buddhist container that shares Mongolia with it, filled by a lama rather than by a shaman",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "กาอู (ตลับเครื่องรางทิเบต)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -403,35 +423,45 @@
    "type": "amulet",
    "name": "Dol hareubang",
    "as": "the steppe figure a spirit is seated in — the nearest thing in this atlas to a guardian carved to be inhabited",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ทลฮารึบัง (รูปปู่หิน)",
+   "as_th": ""
   },
   {
    "from": "inuit-amulet",
    "type": "amulet",
    "name": "Inuit amulet",
    "as": "the Siberian parallel, across the same Arctic, with its own specialists and its own rules",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางชาวอินูอิต",
+   "as_th": ""
   },
   {
    "from": "toli-mirror",
    "type": "amulet",
    "name": "Toli",
    "as": "the other object in the same shaman's kit: the ongon holds an ancestor, the toli holds power and turns spirits away",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "โตลี (กระจกของชามาน)",
+   "as_th": ""
   },
   {
    "from": "tibetan-protection",
    "type": "tradition",
    "name": "Tibetan protection craft",
    "as": "the shamanic practice on the other side of the taiga-steppe line in Mongolia, which the Buddhist side has lived beside for centuries",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "งานเครื่องรางป้องกันภัยทิเบต (ซุงวา)",
+   "as_th": ""
   },
   {
    "from": "mirror-sign",
    "type": "motif",
    "name": "The mirror",
    "as": "the Mongolian spirit-figure the same shamans keep; the mirror houses helper spirits too",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กระจก",
+   "as_th": ""
   }
  ]
 }

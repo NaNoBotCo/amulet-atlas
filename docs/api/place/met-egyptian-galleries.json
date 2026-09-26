@@ -8,7 +8,8 @@
    "Met Egyptian Art",
    "Department of Egyptian Art"
   ],
-  "sort": "Metropolitan Museum Egyptian galleries"
+  "sort": "Metropolitan Museum Egyptian galleries",
+  "th": "ห้องจัดแสดงอียิปต์ พิพิธภัณฑ์ศิลปะเมโทรโพลิแทน"
  },
  "region": [
   "north-america",
@@ -28,6 +29,9 @@
   "what": "A chain of rooms along the museum's north side, running from the predynastic material through to Roman Egypt and ending at the Temple of Dendur in its glass hall. For this atlas it is the densest walkable run of amulets anywhere: wedjat eyes in faience, carnelian, obsidian and gold, scarabs, cippi, and trays of small figures, laid out in numbered galleries a visitor can name. Faience, which the labels use constantly, is crushed quartz fired with a glaze that comes out of the kiln blue or green.",
   "story": "The Met's Egyptian collection was not mostly bought. The department's own page says the museum's three decades of archaeological work in Egypt began in 1906, and the encyclopedia account puts almost half the present collection down to the excavation seasons of 1906 to 1941. That is why a Met amulet more often carries a find-spot than a dealer's name: a small gold amulet in Gallery 109, accession 22.1.58, is credited to MMA excavations, 1920–22, from the Memphite Region.\n\nThe size of the collection is published two ways and this record prints both. The Wikipedia account gives more than 26,000 pieces across forty galleries, almost all on display; the department's own page, read on 17 September 2026, says \"approximately 30,000 objects\". Neither is wrong on its own terms and this project has not read a reconciliation.\n\nWalk it and the amulets sort themselves by gallery. Gallery 120 holds a run of faience wedjat eyes from about 1386–1347 BCE, entered in 1911 on the Rogers Fund. Gallery 127 holds one cut in gold, 332–30 BCE, and one in obsidian. Gallery 130 holds a long faience-and-aragonite wedjat, 6.5 centimetres, bought in 1926 on the Edward S. Harkness Gift. Gallery 128 holds the Metternich Stela, catalogued as Magical Stela with Horus the Child, 360–343 BCE, and Gallery 134 a shelf of smaller cippi in steatite, soapstone and faience — the same design shrunk from 83.5 centimetres to under 5.\n\nHow the objects got here is still being worked out in public, and not always by the museum first. In September 2022 New York law enforcement seized 27 objects on three warrants for return to Italy and Egypt. The museum has since published a statement on collecting practices and hired a provenance-research manager with a team of three. *Inference —* an excavation credit line is a stronger provenance than a purchase, and the 1906–1941 seasons are the reason this room reads differently from a room filled by a dealer; it is not the same thing as saying every object here arrived cleanly.\n\nThe licence is the other half of why this atlas keeps pointing here. Since 2017 every Met image of a public-domain work carries a Creative Commons Zero dedication, which is on Wikimedia Commons' accepted list. A photograph of a Met wedjat can be reproduced, cropped and altered with no permission asked. The dedication covers the museum's photographs. It says nothing about who the objects belong to.",
   "today": "Open six days a week; closed Wednesdays. General admission on 17 September 2026 is US$30 for adults, US$22 for seniors and for visitors with a disability, US$17 for students and free for children 12 and under, with pay-what-you-wish admission for New York State residents and for New York, New Jersey and Connecticut students. The museum lists the Ancient West Asia and Ancient Cyprus galleries as closed for renovation as of that date; the Egyptian galleries are not on that list. This project has not stood in them."
+ },
+ "text_th": {
+  "what": "ห้องจัดแสดงต่อเนื่องกันเป็นแนวตามด้านเหนือของพิพิธภัณฑ์ เริ่มจากวัตถุสมัยก่อนราชวงศ์ไปจนถึงอียิปต์สมัยโรมัน และไปสิ้นสุดที่วิหารเดนเดอร์ (Temple of Dendur) ในโถงกระจก สำหรับแอตลาสนี้ ที่นี่คือแนวเครื่องรางที่หนาแน่นที่สุดที่เดินชมได้ในที่ใดก็ตาม: ดวงตาเวดจัตทำจากเฟยองซ์ คาร์เนเลียน ออบซิเดียน และทองคำ แมลงสคารับ ซิปปี (cippi) และถาดรูปปั้นเล็ก ๆ จัดวางในห้องที่มีหมายเลขซึ่งผู้มาเยือนเรียกชื่อได้ เฟยองซ์ ซึ่งป้ายคำอธิบายใช้อยู่ตลอด คือผงควอตซ์บดที่เผาพร้อมน้ำเคลือบซึ่งออกจากเตาเป็นสีน้ำเงินหรือสีเขียว"
  },
  "dating": {
   "period": "collection from 1870; excavations 1906–1941",
@@ -272,84 +276,108 @@
    "type": "org",
    "name": "The Metropolitan Museum of Art",
    "as": "the institution these rooms sit in, and the licence that lets this atlas show its photographs",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์ศิลปะเมโทรโพลิทัน (เดอะเมต)",
+   "as_th": ""
   },
   {
    "to": "wedjat-eye",
    "type": "amulet",
    "name": "Wedjat eye",
    "as": "the amulet this walk is really about — seven galleries of them, in faience, carnelian, obsidian and gold",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ตาเวดจัต (ดวงตาแห่งฮอรัส)",
+   "as_th": ""
   },
   {
    "to": "scarab",
    "type": "amulet",
    "name": "Scarab",
    "as": "the other Egyptian class the 1906–1941 seasons supplied with find-spots attached",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "สคารับ (ด้วงศักดิ์สิทธิ์อียิปต์)",
+   "as_th": ""
   },
   {
    "to": "heart-scarab",
    "type": "amulet",
    "name": "Heart scarab",
    "as": "the large scarab laid on the chest of the dead, held in the same department",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "สคารับหัวใจ",
+   "as_th": ""
   },
   {
    "to": "cippus-of-horus",
    "type": "amulet",
    "name": "Cippus of Horus",
    "as": "Gallery 128 has the big one — the Metternich Stela — and Gallery 134 the pocket-sized versions of the same design",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ซิปปัสแห่งฮอรัส (ศิลาฮอรัส)",
+   "as_th": ""
   },
   {
    "to": "faience",
    "type": "material",
    "name": "Faience",
    "as": "the material the labels repeat: crushed quartz, fired, glazed blue or green",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เฟยองซ์ (ควอตซ์เคลือบอียิปต์)",
+   "as_th": ""
   },
   {
    "to": "carnelian",
    "type": "material",
    "name": "Carnelian",
    "as": "the red stone the same eye is cut from a few cases along",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "คาร์เนเลียน",
+   "as_th": ""
   },
   {
    "to": "egyptian-amulet-craft",
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "the tradition these rooms document more completely than any other single building in the Americas",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   },
   {
    "to": "flinders-petrie",
    "type": "person",
    "name": "Flinders Petrie",
    "as": "the excavator whose method the museum's own Egyptian Expedition followed; he published plates, the Met kept galleries",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "ฟลินเดอร์ส พีทรี",
+   "as_th": ""
   },
   {
    "to": "british-museum-room-1",
    "type": "place",
    "name": "Room 1: Enlightenment, the British Museum",
    "as": "the comparison in London: a room about the collectors, where these are rooms about the dig",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ห้อง 1: ยุคเรืองปัญญา พิพิธภัณฑ์บริติช",
+   "as_th": ""
   },
   {
    "to": "free-to-use",
    "type": "story",
    "name": "Free to use",
    "as": "the long read on licensing, where the CC0 dedication behind these object records is the case that works",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใช้ได้อย่างเสรี",
+   "as_th": ""
   },
   {
    "to": "dating-a-charm",
    "type": "story",
    "name": "Dating a charm",
    "as": "the long read on dates; an excavation credit line is why these objects carry narrow ones",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การระบุอายุเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -522,35 +550,45 @@
    "type": "amulet",
    "name": "Cippus of Horus",
    "as": "where the Metternich Stela stands, two thousand years after somebody walled it up",
-   "rel": "held-at"
+   "rel": "held-at",
+   "name_th": "ซิปปัสแห่งฮอรัส (ศิลาฮอรัส)",
+   "as_th": ""
   },
   {
    "from": "scarab",
    "type": "amulet",
    "name": "Scarab",
    "as": "a room where a tray of them can be read against each other",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "สคารับ (ด้วงศักดิ์สิทธิ์อียิปต์)",
+   "as_th": ""
   },
   {
    "from": "taweret-amulet",
    "type": "amulet",
    "name": "Taweret amulet",
    "as": "a room where her amulets and the wands sit within sight of each other",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "เครื่องรางเทพีทาเวเรต",
+   "as_th": ""
   },
   {
    "from": "british-museum-room-1",
    "type": "place",
    "name": "Room 1: Enlightenment, the British Museum",
    "as": "the comparison across the Atlantic: rooms that show what was dug, where this one shows who did the collecting",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ห้อง 1: ยุคเรืองปัญญา พิพิธภัณฑ์บริติช",
+   "as_th": ""
   },
   {
    "from": "metropolitan-museum",
    "type": "org",
    "name": "The Metropolitan Museum of Art",
    "as": "the forty rooms inside it this atlas sends a reader to",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "พิพิธภัณฑ์ศิลปะเมโทรโพลิทัน (เดอะเมต)",
+   "as_th": "ห้องจัดแสดงสี่สิบห้องภายในพิพิธภัณฑ์ ที่แอตลาสนี้ส่งผู้อ่านไป"
   }
  ]
 }

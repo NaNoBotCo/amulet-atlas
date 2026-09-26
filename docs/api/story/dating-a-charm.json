@@ -8,7 +8,8 @@
    "the methods note",
    "how /time/ is built",
    "astronomical years"
-  ]
+  ],
+  "th": "การระบุอายุเครื่องราง"
  },
  "region": [
   "world"
@@ -19,6 +20,9 @@
  },
  "text": {
   "what": "The timeline on this site is drawn from one field. Every record may carry a `dating` block with a start year, an end year, a flag saying whether people still carry the thing, and a word saying how the date is known. Those four values put a bar on /time/ and nothing else does. This record is the methods note that page links to: what the numbers mean, what the four kinds of date are worth against each other, why the years are stored in a form no museum label uses, and why a record with no bar is a statement about this project rather than about the object."
+ },
+ "text_th": {
+  "what": "เส้นเวลาบนเว็บไซต์นี้สร้างจากฟิลด์เดียว ทุกรายการอาจมีบล็อก `dating` ซึ่งมีปีเริ่ม ปีสิ้นสุด ตัวบ่งชี้ว่าผู้คนยังพกสิ่งนั้นอยู่หรือไม่ และคำหนึ่งคำที่บอกว่ารู้วันที่ได้อย่างไร ค่าทั้งสี่นี้วางแถบบน /time/ และไม่มีอย่างอื่นทำได้ รายการนี้คือบันทึกว่าด้วยวิธีการที่หน้านั้นลิงก์มาถึง: ตัวเลขหมายถึงอะไร วันที่สี่แบบมีน้ำหนักต่างกันอย่างไร เหตุใดปีจึงเก็บในรูปแบบที่ไม่มีป้ายพิพิธภัณฑ์ใดใช้ และเหตุใดรายการที่ไม่มีแถบจึงเป็นข้อความเกี่ยวกับโครงการนี้ มากกว่าเกี่ยวกับตัววัตถุ"
  },
  "sections": [
   {
@@ -149,63 +153,81 @@
    "type": "story",
    "name": "What this atlas does not print",
    "as": "the other methods note — that one on what may be said, this one on what may be dated",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สิ่งที่แอตลาสนี้ไม่ตีพิมพ์",
+   "as_th": ""
   },
   {
    "to": "free-to-use",
    "type": "story",
    "name": "Free to use",
    "as": "the third record about this project's own workings: who may reuse all of this, and on what terms",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใช้ได้อย่างเสรี",
+   "as_th": ""
   },
   {
    "to": "most-of-them-are-for-children",
    "type": "story",
    "name": "Most of them are for children",
    "as": "the read that runs the same sceptical test on the other built table, the one behind /against/",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ส่วนใหญ่ทำเพื่อเด็ก",
+   "as_th": ""
   },
   {
    "to": "wedjat-eye",
    "type": "amulet",
    "name": "Wedjat eye",
    "as": "the longest single excavated span in the atlas, and the record that says why a faience amulet survives when a dough one does not",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ตาเวดจัต (ดวงตาแห่งฮอรัส)",
+   "as_th": ""
   },
   {
    "to": "swastika-sign",
    "type": "motif",
    "name": "The swastika",
    "as": "one of the two bars that start at 10,000 BCE — a date for the shape, never for an amulet",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "สวัสดิกะ",
+   "as_th": ""
   },
   {
    "to": "horn",
    "type": "motif",
    "name": "The horn",
    "as": "the undated case worth arguing with: dated in Rome, living in Naples, and no published span for the sign as a class",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เขา (คอร์นิเชลโล)",
+   "as_th": ""
   },
   {
    "to": "gau-box",
    "type": "amulet",
    "name": "Gau",
    "as": "the dated-object case — a twenty-first-century example standing in for a form nobody here could date",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "กาอู (ตลับเครื่องรางทิเบต)",
+   "as_th": ""
   },
   {
    "to": "the-drawn-signs",
    "type": "art",
    "name": "The drawn signs",
    "as": "the other half of what the code makes: every chart and glyph on this site is drawn by the same file",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "ภาพสัญลักษณ์ลายเส้น",
+   "as_th": ""
   },
   {
    "to": "flinders-petrie",
    "type": "person",
    "name": "Flinders Petrie",
    "as": "the excavator whose sequence dating is the ancestor of every excavated row here",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "ฟลินเดอร์ส พีทรี",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -269,119 +291,153 @@
    "type": "amulet",
    "name": "Chinese charm coin",
    "as": "the long read this class is the best evidence for: reign titles, inscriptions and 5,000 catalogued types make these the datable end of the whole atlas",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เหรียญเครื่องรางจีน (เอี้ยนเซิ่งเฉียน)",
+   "as_th": ""
   },
   {
    "from": "concealed-shoe",
    "type": "amulet",
    "name": "Concealed shoe",
    "as": "the long read about how any of these objects get a date; the shoes get theirs from the building's carpentry",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "รองเท้าซ่อนในบ้าน",
+   "as_th": ""
   },
   {
    "from": "corn-dolly",
    "type": "amulet",
    "name": "Corn dolly",
    "as": "the long read about evidence, which this object tests — straw rots, so almost everything known about it comes from what people said, not from what survived",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตุ๊กตาฟางข้าว (คอร์นดอลลี)",
+   "as_th": ""
   },
   {
    "from": "ketef-hinnom-scrolls",
    "type": "amulet",
    "name": "Ketef Hinnom silver scrolls",
    "as": "the long read about what it means to date an amulet; this one is dated by a tomb, a threshold stone and three years of unrolling",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ม้วนแผ่นเงินเคเทฟฮินโนม",
+   "as_th": ""
   },
   {
    "from": "phra-khrueang",
    "type": "amulet",
    "name": "Phra khrueang",
    "as": "the long read this is a hard case for: temple, mould and monk are the date, and a certificate is the evidence",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "พระเครื่อง",
+   "as_th": "บทความขนาดยาวที่วัตถุนี้เป็นกรณียาก: วัด แม่พิมพ์ และพระสงฆ์คือตัวบอกอายุ และใบรับรองคือหลักฐาน"
   },
   {
    "from": "scarab",
    "type": "amulet",
    "name": "Scarab",
    "as": "the long read on how a charm gets a date — and this object is its hardest case, because a king's name on it need not be his century",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สคารับ (ด้วงศักดิ์สิทธิ์อียิปต์)",
+   "as_th": ""
   },
   {
    "from": "cloth",
    "type": "material",
    "name": "Cloth",
    "as": "the long read on why this atlas's timeline is made of stone, metal and fired clay",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ผ้า",
+   "as_th": ""
   },
   {
    "from": "faience",
    "type": "material",
    "name": "Faience",
    "as": "the long read on why a material that survives distorts every date in this atlas",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เฟยองซ์ (ควอตซ์เคลือบอียิปต์)",
+   "as_th": ""
   },
   {
    "from": "hair",
    "type": "material",
    "name": "Hair",
    "as": "the long read on why the timeline in this atlas looks the way it does, which this record is the extreme case of",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เส้นผม",
+   "as_th": ""
   },
   {
    "from": "palm-leaf",
    "type": "material",
    "name": "Palm leaf",
    "as": "the long read on why the surviving objects are not a sample of what was worn",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใบลาน",
+   "as_th": "บทความยาวว่าด้วยเหตุผลที่วัตถุซึ่งหลงเหลืออยู่ไม่ใช่ตัวอย่างที่เป็นตัวแทนของสิ่งที่ผู้คนสวม"
   },
   {
    "from": "burning-retirement",
    "type": "practice",
    "name": "Burning at retirement",
    "as": "the long read this practice skews: traditions that burn leave almost nothing to date",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การเผาเครื่องรางเมื่อหมดวาระ",
+   "as_th": ""
   },
   {
    "from": "met-egyptian-galleries",
    "type": "place",
    "name": "The Egyptian galleries, the Metropolitan Museum of Art",
    "as": "the long read on dates; an excavation credit line is why these objects carry narrow ones",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ห้องจัดแสดงอียิปต์ พิพิธภัณฑ์ศิลปะเมโทรโพลิแทน",
+   "as_th": ""
   },
   {
    "from": "campbell-bonner",
    "type": "person",
    "name": "Campbell Bonner",
    "as": "the long read on dating; an uninscribed gem with no find-spot is the hard case his typology exists for",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "แคมป์เบลล์ บอนเนอร์",
+   "as_th": ""
   },
   {
    "from": "flinders-petrie",
    "type": "person",
    "name": "Flinders Petrie",
    "as": "the long read on how a charm gets a date; his pottery seriation is where the method starts",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ฟลินเดอร์ส พีทรี",
+   "as_th": ""
   },
   {
    "from": "free-to-use",
    "type": "story",
    "name": "Free to use",
    "as": "the other note about how this site is built, rather than about what it describes",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใช้ได้อย่างเสรี",
+   "as_th": ""
   },
   {
    "from": "most-of-them-are-for-children",
    "type": "story",
    "name": "Most of them are for children",
    "as": "the methods note for the other half of this problem — what the numbers on the timeline are and are not",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ส่วนใหญ่ทำเพื่อเด็ก",
+   "as_th": ""
   },
   {
    "from": "what-this-atlas-does-not-print",
    "type": "story",
    "name": "What this atlas does not print",
    "as": "the other methods note — why an undated record is not an undated object",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สิ่งที่แอตลาสนี้ไม่ตีพิมพ์",
+   "as_th": ""
   }
  ]
 }

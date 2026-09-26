@@ -4,12 +4,25 @@
  "type": "story",
  "names": {
   "name": "Dating a charm",
-  "aliases": ["the methods note", "how /time/ is built", "astronomical years"]
+  "aliases": [
+   "the methods note",
+   "how /time/ is built",
+   "astronomical years"
+  ],
+  "th": "การระบุอายุเครื่องราง"
  },
- "region": ["world"],
- "facets": {"kind": "essay", "era": "modern"},
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "kind": "essay",
+  "era": "modern"
+ },
  "text": {
   "what": "The timeline on this site is drawn from one field. Every record may carry a `dating` block with a start year, an end year, a flag saying whether people still carry the thing, and a word saying how the date is known. Those four values put a bar on /time/ and nothing else does. This record is the methods note that page links to: what the numbers mean, what the four kinds of date are worth against each other, why the years are stored in a form no museum label uses, and why a record with no bar is a statement about this project rather than about the object."
+ },
+ "text_th": {
+  "what": "เส้นเวลาบนเว็บไซต์นี้สร้างจากฟิลด์เดียว ทุกรายการอาจมีบล็อก `dating` ซึ่งมีปีเริ่ม ปีสิ้นสุด ตัวบ่งชี้ว่าผู้คนยังพกสิ่งนั้นอยู่หรือไม่ และคำหนึ่งคำที่บอกว่ารู้วันที่ได้อย่างไร ค่าทั้งสี่นี้วางแถบบน /time/ และไม่มีอย่างอื่นทำได้ รายการนี้คือบันทึกว่าด้วยวิธีการที่หน้านั้นลิงก์มาถึง: ตัวเลขหมายถึงอะไร วันที่สี่แบบมีน้ำหนักต่างกันอย่างไร เหตุใดปีจึงเก็บในรูปแบบที่ไม่มีป้ายพิพิธภัณฑ์ใดใช้ และเหตุใดรายการที่ไม่มีแถบจึงเป็นข้อความเกี่ยวกับโครงการนี้ มากกว่าเกี่ยวกับตัววัตถุ"
  },
  "sections": [
   {
@@ -45,22 +58,70 @@
   "note": "This record dates itself, not its subject. The astronomical-year convention is much older than this project; the fields, the anchors and the counts described here are of this repository as read on 17 September 2026."
  },
  "kin": [
-  {"to": "what-this-atlas-does-not-print", "as": "the other methods note — that one on what may be said, this one on what may be dated", "rel": "story"},
-  {"to": "free-to-use", "as": "the third record about this project's own workings: who may reuse all of this, and on what terms", "rel": "story"},
-  {"to": "most-of-them-are-for-children", "as": "the read that runs the same sceptical test on the other built table, the one behind /against/", "rel": "story"},
-  {"to": "wedjat-eye", "as": "the longest single excavated span in the atlas, and the record that says why a faience amulet survives when a dough one does not", "rel": "carries"},
-  {"to": "swastika-sign", "as": "one of the two bars that start at 10,000 BCE — a date for the shape, never for an amulet", "rel": "carries"},
-  {"to": "horn", "as": "the undated case worth arguing with: dated in Rome, living in Naples, and no published span for the sign as a class", "rel": "contrast"},
-  {"to": "gau-box", "as": "the dated-object case — a twenty-first-century example standing in for a form nobody here could date", "rel": "contrast"},
-  {"to": "the-drawn-signs", "as": "the other half of what the code makes: every chart and glyph on this site is drawn by the same file", "rel": "art"},
-  {"to": "flinders-petrie", "as": "the excavator whose sequence dating is the ancestor of every excavated row here", "rel": "person"}
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the other methods note — that one on what may be said, this one on what may be dated",
+   "rel": "story"
+  },
+  {
+   "to": "free-to-use",
+   "as": "the third record about this project's own workings: who may reuse all of this, and on what terms",
+   "rel": "story"
+  },
+  {
+   "to": "most-of-them-are-for-children",
+   "as": "the read that runs the same sceptical test on the other built table, the one behind /against/",
+   "rel": "story"
+  },
+  {
+   "to": "wedjat-eye",
+   "as": "the longest single excavated span in the atlas, and the record that says why a faience amulet survives when a dough one does not",
+   "rel": "carries"
+  },
+  {
+   "to": "swastika-sign",
+   "as": "one of the two bars that start at 10,000 BCE — a date for the shape, never for an amulet",
+   "rel": "carries"
+  },
+  {
+   "to": "horn",
+   "as": "the undated case worth arguing with: dated in Rome, living in Naples, and no published span for the sign as a class",
+   "rel": "contrast"
+  },
+  {
+   "to": "gau-box",
+   "as": "the dated-object case — a twenty-first-century example standing in for a form nobody here could date",
+   "rel": "contrast"
+  },
+  {
+   "to": "the-drawn-signs",
+   "as": "the other half of what the code makes: every chart and glyph on this site is drawn by the same file",
+   "rel": "art"
+  },
+  {
+   "to": "flinders-petrie",
+   "as": "the excavator whose sequence dating is the ancestor of every excavated row here",
+   "rel": "person"
+  }
  ],
  "links": [],
- "sources": ["s:repo-atlas-build", "s:repo-atlas-schema", "s:repo-atlas-viz", "s:repo-atlas-vocab"],
+ "sources": [
+  "s:repo-atlas-build",
+  "s:repo-atlas-schema",
+  "s:repo-atlas-viz",
+  "s:repo-atlas-vocab"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:repo-atlas-build"},
+  "default": {
+   "tier": "cited",
+   "source": "s:repo-atlas-build"
+  },
   "fields": {
-   "sections": {"tier": "cited", "source": "s:repo-atlas-build", "note": "every number, anchor and field name was read out of this repository on 17 September 2026; the four stretches of this project's reasoning about what the numbers mean are labelled inline"}
+   "sections": {
+    "tier": "cited",
+    "source": "s:repo-atlas-build",
+    "note": "every number, anchor and field name was read out of this repository on 17 September 2026; the four stretches of this project's reasoning about what the numbers mean are labelled inline"
+   }
   }
  },
  "images": [],

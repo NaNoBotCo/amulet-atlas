@@ -4,7 +4,8 @@
  "type": "person",
  "names": {
   "name": "Campbell Bonner",
-  "sort": "Bonner, Campbell"
+  "sort": "Bonner, Campbell",
+  "th": "แคมป์เบลล์ บอนเนอร์"
  },
  "region": [
   "ancient-egypt",
@@ -27,6 +28,9 @@
   "what": "American classicist, 1876–1954, of the University of Michigan, who wrote the book that made carved magical gems a subject with a method. \"Studies in Magical Amulets, Chiefly Graeco-Egyptian\", Ann Arbor, 1950, described and classified the engraved stones of the late Roman eastern Mediterranean — the ones cut with Abraxas, the reaper, the womb-symbol, strings of vowels — and set out how to read the images and the inscriptions together.",
   "story": "Bonner was born in Nashville, Tennessee, on 30 January 1876 and died in Ann Arbor, Michigan, on 11 July 1954. His published work runs from 1921 and covers magical papyri as well as gems; the amulets sat inside a wider study of popular religion in the late pagan and early Christian world.\n\nThe gems are small, hard and portable, cut in haematite, jasper, carnelian and chalcedony, and they carry a mixture nobody else had sorted: Egyptian gods, Greek vowels, Hebrew divine names, Roman medical language. Bonner's 1950 volume is where that mixture stopped being a curiosity list and became a corpus with types.\n\n*Inference —* the tell of a corpus that worked is that it grew after its author died. The Museum of Fine Arts in Budapest runs the Campbell Bonner Magical Gems Database, named for him, launched in 2010, and it estimates the entire corpus at around 5,600 pieces. That is a number nobody could have counted before the material had a shared vocabulary.",
   "today": "The database at the Museum of Fine Arts, Budapest carries his name and, in its own words, has \"the primary aim ... to bring the entire corpus of magical gems online\". This project has not read a published academic criticism of Bonner's framing and does not assert that none exists."
+ },
+ "text_th": {
+  "what": "นักคลาสสิกศึกษาชาวอเมริกัน (ค.ศ. 1876–1954) แห่งมหาวิทยาลัยมิชิแกน ผู้เขียนหนังสือที่ทำให้อัญมณีแกะสลักเชิงเวทมนตร์กลายเป็นสาขาที่มีระเบียบวิธี หนังสือ “การศึกษาเครื่องรางเวทมนตร์ ส่วนใหญ่แบบกรีก-อียิปต์” (Studies in Magical Amulets, Chiefly Graeco-Egyptian) พิมพ์ที่แอนอาร์เบอร์ ค.ศ. 1950 บรรยายและจัดประเภทหินสลักของภาคตะวันออกของทะเลเมดิเตอร์เรเนียนในสมัยโรมันตอนปลาย คือหินที่สลักรูปอับราซัส (Abraxas) ผู้เกี่ยวข้าว สัญลักษณ์มดลูก และแถวของสระ และวางแนวทางการอ่านภาพกับจารึกไปด้วยกัน"
  },
  "dating": {
   "period": "Twentieth century",

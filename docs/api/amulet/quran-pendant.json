@@ -13,7 +13,8 @@
    "Ayat al-Kursi pendant",
    "Qur'an case",
    "hirz"
-  ]
+  ],
+  "th": "จี้อัลกุรอาน"
  },
  "region": [
   "arabia-gulf",
@@ -42,6 +43,9 @@
  "text": {
   "what": "A metal case at the throat with scripture inside it. Sometimes a whole miniature Qur'an, protected by an illuminated metal cover; sometimes a single verse on paper or engraved on the metal itself. The verse is most often Āyat al-Kursī, the Throne Verse, Qur'an 2:255 — the 255th verse of the second chapter, and the one the tradition names the greatest in the book. Others hang the same verse framed on a wall or from a mirror in a car.",
   "story": "The verse opens: \"Allah: there is no god but Him, the Ever-Living, the Ever-Watchful. Neither slumber nor sleep overtakes Him.\" It is built concentrically, in the symmetry most common in the Qur'an, where each segment answers its pair across a centre.\n\nWhat the tradition says it does is on the record in hadith and in commentary, and this atlas reports it without weighing it. Reciting the verse is said in hadith to ward off devils, šayāṭīn, and fiends, ʿafārīt; recited after every obligatory prayer it is held to admit the reciter to Paradise with nothing in the way but death. Al-Suyuti narrates a man of humanity meeting a man of the jinn, and the jinn, beaten in a wrestling match, teaching him the verse that keeps any devil from entering his house with him — this one. The Throne Verse is used in exorcism, against jinn and devils. Because it is associated with protection, the tradition also reads it as a shield against the evil eye. It is recited before a journey and before sleep, morning and evening as a daily adhkār.\n\nThe material tradition round it is documented. Miniature Qur'ans kept in illuminated metal cases are one form; block-printed text amulets sealed into lead cases with lugs, so they could be sewn on or hung, are another. Preferred materials are precious and semi-precious, and the reasons given for them are explicit: carnelian, ʿaqīq, is favoured because it was counted the stone of Muhammad, who was said to have worn a carnelian seal set in silver on the little finger of his right hand; jade and jasper are held to assure victory in battle, guard against lightning and treat diseases of the internal organs. A combination of jade and carnelian is read for fertility and embryogenesis — the reddish, light-carrying carnelian standing for blood, which echoes the clot of congealed blood God created the human from, Qur'an 96:2.\n\n*Inference —* the cited accounts are careful to separate early Islamic amulets from what came before them: these appeal to God in the first instance, where Byzantine, Roman and early Iranian magic addressed demonic forces or the spirits of the dead. That is a claim about direction of address, not about efficacy, and it is the line the tradition's own scholars keep returning to when they argue about whether to wear one at all."
+ },
+ "text_th": {
+  "what": "ตลับโลหะที่คอ ภายในมีข้อความจากคัมภีร์ บางครั้งเป็นคัมภีร์อัลกุรอานจิ๋วทั้งเล่ม ป้องกันด้วยปกโลหะประดับลวดลาย บางครั้งเป็นโองการเดียวที่เขียนบนกระดาษหรือสลักลงบนตัวโลหะเอง โองการที่พบบ่อยที่สุดคืออายะตุลกุรซีย์ (Āyat al-Kursī) หรือโองการบัลลังก์ อัลกุรอาน 2:255 — โองการที่ 255 ของซูเราะฮ์ที่สอง และเป็นโองการที่ธรรมเนียมทางศาสนาถือว่ายิ่งใหญ่ที่สุดในคัมภีร์ บางคนแขวนโองการเดียวกันนี้ใส่กรอบไว้บนผนังหรือห้อยจากกระจกในรถ"
  },
  "dating": {
   "period": "Medieval Islamic to the present",
@@ -251,70 +255,90 @@
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "the tradition, and the argument about whether this object should exist",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "to": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the same scripture folded into a packet rather than sealed in a case",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "to": "talismanic-shirt",
    "type": "amulet",
    "name": "Talismanic shirt",
    "as": "the same verses at the scale of a garment",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เสื้อยันต์",
+   "as_th": ""
   },
   {
    "to": "hirz-pouch",
    "type": "amulet",
    "name": "Hirz",
    "as": "the silver box of Qur'anic verses the Egyptian tradition names alongside the eye and the hamsa",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ฮิรซ์ (ตลับใส่โองการอัลกุรอาน)",
+   "as_th": ""
   },
   {
    "to": "mezuzah",
    "type": "amulet",
    "name": "Mezuzah",
    "as": "scripture in a case, fixed where a person passes it — the same object in another book, with the opposite ruling about what to call it",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เมซูซา",
+   "as_th": ""
   },
   {
    "to": "ketef-hinnom-scrolls",
    "type": "amulet",
    "name": "Ketef Hinnom silver scrolls",
    "as": "the oldest dated instance of this idea anywhere in the atlas: a blessing, rolled small, carried",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ม้วนแผ่นเงินเคเทฟฮินโนม",
+   "as_th": ""
   },
   {
    "to": "carnelian",
    "type": "material",
    "name": "Carnelian",
    "as": "the stone the tradition singles out as the Prophet's, worn set in silver",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "คาร์เนเลียน",
+   "as_th": ""
   },
   {
    "to": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "the sign underneath: the names and attributes of God doing the work",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "พระนาม",
+   "as_th": ""
   },
   {
    "to": "car-saint",
    "type": "amulet",
    "name": "Car saint",
    "as": "where this one most often ends up now — hung from a mirror rather than worn",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "นักบุญประจำรถ (เหรียญนักบุญคริสโตเฟอร์)",
+   "as_th": ""
   },
   {
    "to": "khan-el-khalili",
    "type": "place",
    "name": "Khan el-Khalili",
    "as": "the Cairo market where the cases are sold",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ข่านเอลคาลีลี",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -516,70 +540,90 @@
    "type": "amulet",
    "name": "Hirz",
    "as": "the same verses worn as a solid inscribed piece rather than as paper in a box",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ฮิรซ์ (ตลับใส่โองการอัลกุรอาน)",
+   "as_th": ""
   },
   {
    "from": "ketef-hinnom-scrolls",
    "type": "amulet",
    "name": "Ketef Hinnom silver scrolls",
    "as": "scripture in a case at the throat; this is that idea's oldest dated instance in the atlas",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ม้วนแผ่นเงินเคเทฟฮินโนม",
+   "as_th": ""
   },
   {
    "from": "mezuzah",
    "type": "amulet",
    "name": "Mezuzah",
    "as": "scripture in a case, put where a person passes it daily — the same object in another book",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เมซูซา",
+   "as_th": ""
   },
   {
    "from": "tabiz",
    "type": "amulet",
    "name": "Tabiz",
    "as": "the same text worn without a fold — the verse legible on the surface rather than sealed in a case",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตาบีซ (เครื่องรางคำอธิษฐาน)",
+   "as_th": ""
   },
   {
    "from": "talismanic-shirt",
    "type": "amulet",
    "name": "Talismanic shirt",
    "as": "the same verses in a case at the throat",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เสื้อยันต์",
+   "as_th": ""
   },
   {
    "from": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the same scripture in a metal case rather than a folded packet",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "from": "islamic-talismanic",
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "scripture in a metal case worn at the throat, and an object some of this tradition's own authorities say should not exist",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "from": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "the verse worn as an object, most often Ayat al-Kursi",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "พระนาม",
+   "as_th": ""
   },
   {
    "from": "washing-off-ink",
    "type": "practice",
    "name": "Washing off the ink",
    "as": "the kept version of the same verses — worn instead of drunk",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "การล้างหมึก",
+   "as_th": ""
   },
   {
    "from": "taweez-word",
    "type": "term",
    "name": "taweez",
    "as": "the same idea in metal and glass — scripture carried where it can be seen",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ตะวีซ",
+   "as_th": ""
   }
  ]
 }

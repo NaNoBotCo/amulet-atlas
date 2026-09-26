@@ -12,7 +12,8 @@
    "scarlet thread",
    "Kabbalah bracelet",
    "khutt hashani"
-  ]
+  ],
+  "th": "ด้ายแดง"
  },
  "region": [
   "levant",
@@ -37,6 +38,9 @@
  "text": {
   "what": "A thin scarlet or crimson thread, usually wool, tied round the wrist as a bracelet or band. That is the whole object.",
   "story": "The honest version of this record starts with an absence. There is no written requirement anywhere — not in the Torah, not in Halacha, not in the Kabbalistic texts — to tie a red string round a wrist. Sources mention red strings as a good omen, and it is not evident whether they were widely worn.\n\nWhat there is instead is a scatter of references. Genesis 38 has a scarlet thread tied about a wrist, at the birth of Tamar's twins. Rabbi Shmuel ben Hafni Gaon noted that placing a red string on the hand may be a good omen, and some sources imply it could go round a finger. Aggadas Bereishis holds that Joseph's coat was the same as his brothers' and that Jacob marked it with a red string on the cuffs.\n\nThere is exactly one public exhortation to wear one, and it is dated. In the 1490s, when Jews were not permitted to wear tefillin, Rabbi Abraham Saba recommended that they wear a red string on their hands instead, to remember the commandment. A substitute object, recorded because the real one had been banned.\n\nThe modern trade is documented too. In Israel it is common to see elderly women selling scarlet thread to pilgrims and tourists, especially in the Old City of Jerusalem. Outside Israel the string became popular in the late 1990s with celebrities, most of them not Jewish — Madonna and her children, Leonardo DiCaprio, Michael Jackson, Ariana Grande, Tucker Carlson, Jared Kushner — and that wave is usually linked to Philip Berg's Kabbalah Centre. Editors of a 2007 study of trend analysis recorded a surge in sales attributed to Madonna. Michael Laitman's public position is in the article's own critical links: practical Kabbalah has no use for red strings.\n\n*Inference —* every other record in this batch can say what its object is made of and who makes it. This one cannot, because the object is a piece of wool and the thing being sold is the association. That is worth stating rather than dressing up, and it is also the reason the red string is the most-argued-about Jewish charm in the atlas.\n\nThe red string is not only Jewish. The cited article notes that Hinduism and Chinese culture wear a red string or bracelet for luck, love and to keep evil off."
+ },
+ "text_th": {
+  "what": "ด้ายเส้นบางสีแดงสดหรือแดงเข้ม มักเป็นด้ายขนสัตว์ ผูกรอบข้อมือเป็นสร้อยหรือสายรัด นั่นคือตัววัตถุทั้งหมด"
  },
  "dating": {
   "period": "Early modern to the present",
@@ -201,63 +205,81 @@
    "type": "motif",
    "name": "The red thread",
    "as": "the sign, and the one that runs from the Mediterranean to Mongolia without needing a text",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "to": "tefillin",
    "type": "amulet",
    "name": "Tefillin",
    "as": "the commandment this stood in for in the 1490s, when Rabbi Abraham Saba told Jews barred from wearing tefillin to wear a red string to remember it",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "เทฟิลลิน",
+   "as_th": ""
   },
   {
    "to": "martenitsa",
    "type": "amulet",
    "name": "Martenitsa",
    "as": "the Balkan red thread on a wrist, with a fixed season and a documented history where this one has an absence",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "มาร์เตนิตซา",
+   "as_th": ""
   },
   {
    "to": "jewish-practical-kabbalah",
    "type": "tradition",
    "name": "Practical Kabbalah",
    "as": "the tradition it is marketed under, and whose own teachers say it has no use for red strings",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "คับบาลาห์ภาคปฏิบัติ",
+   "as_th": ""
   },
   {
    "to": "thread",
    "type": "material",
    "name": "Thread and cord",
    "as": "the whole material inventory of this object",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ด้ายและเชือก",
+   "as_th": ""
   },
   {
    "to": "knotting",
    "type": "practice",
    "name": "Knotting",
    "as": "the practice — the tying is what there is to do",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การผูกปม",
+   "as_th": ""
   },
   {
    "to": "evil-eye-bracelet",
    "type": "amulet",
    "name": "Evil eye bracelet",
    "as": "the shelf it now shares: a wrist, a colour, and a claim sold to people outside the tradition",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สร้อยข้อมือนาซาร์ (ลูกปัดตากันตาร้าย)",
+   "as_th": ""
   },
   {
    "to": "hamsa",
    "type": "amulet",
    "name": "Hamsa",
    "as": "the other Jewish charm against the eye, and the one with a long documented object history",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ฮัมซา (มือกันภัย)",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read; a custom with no textual basis, sold worldwide under the name of a restricted tradition",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -384,63 +406,81 @@
    "type": "amulet",
    "name": "Azabache",
    "as": "the red bead on the end of the chain, which runs with black stone right across the Mediterranean",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "อาซาบาเช (เครื่องรางหินเจ็ต)",
+   "as_th": ""
   },
   {
    "from": "evil-eye-bracelet",
    "type": "amulet",
    "name": "Evil eye bracelet",
    "as": "the other thing tied to a wrist against the same harm, with no image on it at all",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สร้อยข้อมือนาซาร์ (ลูกปัดตากันตาร้าย)",
+   "as_th": ""
   },
   {
    "from": "kamea",
    "type": "amulet",
    "name": "Kamea",
    "as": "the one piece of this world that went fully public, and the one its own scholars are most dismissive of",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "คาเมอา (เครื่องรางแบบเขียนของชาวยิว)",
+   "as_th": ""
   },
   {
    "from": "martenitsa",
    "type": "amulet",
    "name": "Martenitsa",
    "as": "the other red thread on a wrist in this atlas — that one has no text behind it, this one has a UNESCO file",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "มาร์เตนิตซา",
+   "as_th": ""
   },
   {
    "from": "tefillin",
    "type": "amulet",
    "name": "Tefillin",
    "as": "in the 1490s, when Jews were barred from wearing tefillin, Rabbi Abraham Saba recommended a red string on the hand to remember this commandment — the one documented moment where one substitutes for the other",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เทฟิลลิน",
+   "as_th": ""
   },
   {
    "from": "jewish-practical-kabbalah",
    "type": "tradition",
    "name": "Practical Kabbalah",
    "as": "the charm sold under this tradition's name that its own teachers say it has no use for, and for which no text anywhere sets a requirement",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "คับบาลาห์ภาคปฏิบัติ",
+   "as_th": ""
   },
   {
    "from": "red-thread",
    "type": "motif",
    "name": "The red thread",
    "as": "the amulet itself — the scarlet wool on a wrist",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "from": "thread",
    "type": "material",
    "name": "Thread and cord",
    "as": "the simplest object in this atlas: scarlet wool, a wrist, a knot",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ด้ายและเชือก",
+   "as_th": ""
   },
   {
    "from": "knotting",
    "type": "practice",
    "name": "Knotting",
    "as": "the plainest form: scarlet wool at the wrist, and an argument about where it came from",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การผูกปม",
+   "as_th": ""
   }
  ]
 }

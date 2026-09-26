@@ -14,7 +14,8 @@
    "mártis",
    "verore",
    "Pizho and Penda"
-  ]
+  ],
+  "th": "มาร์เตนิตซา"
  },
  "region": [
   "balkans"
@@ -40,6 +41,9 @@
  "text": {
   "what": "Twisted white and red yarn, most often made into two small wool dolls: Pizho, the male one, mostly white; Penda, the female one, mostly red and wearing a skirt. It is pinned to clothing or tied at the wrist or neck from Baba Marta Day, the first of March. Modern ones take other shapes and add coloured beads.",
   "story": "Two rules govern the object, and both are about other people and about time. It is always given, never bought for oneself — to family, friends, anyone you feel close to. And it comes off on a sign, not a date: the wearer takes it off on first seeing a stork, a swallow returning from migration, or a tree in blossom. Failing all three, the end of March.\n\nBaba Marta means Grandma March, and Bulgarian and Macedonian folklore makes her a bad-tempered old woman whose mood turns fast. Wearing her colours is described as asking her for mercy, so that winter passes and spring comes; the first stork or swallow says she is in a good humour and about to retire.\n\nTaking it off has its own local rules. Some tie the martenitsa to the branch of a fruit tree, giving the tree the health and luck the wearer has had while wearing it. Others put it under a stone and look the next day: a larva or a worm means a healthy, successful year; an ant means the same but with hard work for it; a spider means trouble.\n\nOn where it comes from, the cited account offers several accounts and settles none. The custom is tied to the pre-Christian history of the Balkans and to agricultural cults of nature; the twisted white-and-red woollen threads specifically are said to suggest Thracian, possibly Hellenic or Roman origins. Some ethnographers trace it to the Eleusinian Mysteries, with the ancient equivalent of the Greek mártis being the kroke; the custom is mentioned in Photios' Lexicon, which records that the priests wrapped a red thread round the right hand and foot. At that time red and other coloured threads were used to protect children and young people from evil spirits and witchcraft. An early twentieth-century Bulgarian story puts the first martenitsa at the seventh-century Battle of Ongal: after the Bulgar victory, Khan Asparuh sent doves with white threads to carry the news, and the threads turned bloody in flight.\n\n*Inference —* the ethnographers' colour readings are worth quoting rather than choosing between. White for the purity of melting snow, red for the setting sun growing stronger as spring comes; white for purity, red for life and passion; the two together for the cycle of life and death, for good and evil, for sorrow and happiness, for the male and female beginnings and the balance between them. A charm that means that many things at once is a charm doing social work, and the rule that it must be given rather than bought says so out loud."
+ },
+ "text_th": {
+  "what": "ด้ายขนสัตว์สีขาวและสีแดงบิดเข้าด้วยกัน ส่วนใหญ่ทำเป็นตุ๊กตาไหมพรมเล็ก ๆ สองตัว ปิโฌ (Pizho) ตัวผู้ ส่วนใหญ่เป็นสีขาว และเปนดา (Penda) ตัวเมีย ส่วนใหญ่เป็นสีแดงและสวมกระโปรง กลัดไว้กับเสื้อผ้า หรือผูกที่ข้อมือหรือที่คอ ตั้งแต่วันบาบามาร์ตา (Baba Marta) คือวันที่ 1 มีนาคม แบบสมัยใหม่มีรูปทรงอื่นและเพิ่มลูกปัดสี"
  },
  "dating": {
   "period": "Attested in Byzantine lexicography; living tradition",
@@ -216,63 +220,81 @@
    "type": "motif",
    "name": "The red thread",
    "as": "the sign, and the reason this record and a Jerusalem wrist bracelet are filed together",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "to": "red-string",
    "type": "amulet",
    "name": "Red string",
    "as": "the other red thread on a wrist in this atlas — that one has no text behind it, this one has a UNESCO file",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "to": "thread",
    "type": "material",
    "name": "Thread and cord",
    "as": "the material; wool, twisted, and nothing else",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ด้ายและเชือก",
+   "as_th": ""
   },
   {
    "to": "knotting",
    "type": "practice",
    "name": "Knotting",
    "as": "the practice — twisting and tying is the whole making",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การผูกปม",
+   "as_th": ""
   },
   {
    "to": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "the practice this object defines: one month, then it goes on a fruit tree or under a stone",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   },
   {
    "to": "lunula",
    "type": "amulet",
    "name": "Lunula",
    "as": "the other amulet here that is defined by the moment it comes off",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ลูนูลา (จี้พระจันทร์เสี้ยวโรมัน)",
+   "as_th": ""
   },
   {
    "to": "corn-dolly",
    "type": "amulet",
    "name": "Corn dolly",
    "as": "the European neighbour: a figure made of a plant, worn or kept for a season, then given back to the field",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตุ๊กตาฟางข้าว (คอร์นดอลลี)",
+   "as_th": ""
   },
   {
    "to": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "the tradition it sits in, at its most calendar-bound",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "to": "unesco-ich",
    "type": "org",
    "name": "UNESCO Intangible Cultural Heritage",
    "as": "the body that inscribed it in 2017, on a file four countries submitted together",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "มรดกทางวัฒนธรรมที่จับต้องไม่ได้ของยูเนสโก",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -447,56 +469,72 @@
    "type": "amulet",
    "name": "Lunula",
    "as": "the other amulet in this atlas that is defined by when it comes off",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ลูนูลา (จี้พระจันทร์เสี้ยวโรมัน)",
+   "as_th": ""
   },
   {
    "from": "red-string",
    "type": "amulet",
    "name": "Red string",
    "as": "the Balkan red thread on a wrist, with a fixed season and a documented history where this one has an absence",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "from": "knot",
    "type": "motif",
    "name": "The knot",
    "as": "twisted red and white yarn with a date to put it on and a bird that says take it off",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ปม",
+   "as_th": ""
   },
   {
    "from": "red-thread",
    "type": "motif",
    "name": "The red thread",
    "as": "the Balkan version, with a date to put it on and a bird that says take it off",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "from": "thread",
    "type": "material",
    "name": "Thread and cord",
    "as": "white and red yarn with an expiry date written into the custom — the first stork ends it",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ด้ายและเชือก",
+   "as_th": ""
   },
   {
    "from": "burying",
    "type": "practice",
    "name": "Burying",
    "as": "put under a stone at the end of its month, to be read by whatever creature is nearest it",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การฝัง",
+   "as_th": ""
   },
   {
    "from": "knotting",
    "type": "practice",
    "name": "Knotting",
    "as": "the knot with an expiry date — 1 March to the first stork, then tied to a fruit tree",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การผูกปม",
+   "as_th": ""
   },
   {
    "from": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "the spring version, whose end date is set by a bird rather than by a date",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   }
  ]
 }

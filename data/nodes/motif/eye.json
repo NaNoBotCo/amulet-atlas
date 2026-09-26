@@ -4,14 +4,60 @@
  "type": "motif",
  "names": {
   "name": "The eye",
-  "aliases": ["eye motif", "apotropaic eye", "eye-against-the-eye"]
+  "aliases": [
+   "eye motif",
+   "apotropaic eye",
+   "eye-against-the-eye"
+  ],
+  "th": "ดวงตา"
  },
- "region": ["world", "ancient-egypt", "greece-aegean", "anatolia", "levant", "south-asia", "mesoamerica", "west-africa"],
- "countries": ["EG", "GR", "TR", "IT", "IL", "PS", "SY", "IR", "IQ", "IN", "PK", "MX", "BR", "GB", "AL", "GE", "AM", "MA", "TN"],
- "facets": {"era": "ancient", "family": "eye", "hemisphere": ["N", "S", "E", "W"]},
+ "region": [
+  "world",
+  "ancient-egypt",
+  "greece-aegean",
+  "anatolia",
+  "levant",
+  "south-asia",
+  "mesoamerica",
+  "west-africa"
+ ],
+ "countries": [
+  "EG",
+  "GR",
+  "TR",
+  "IT",
+  "IL",
+  "PS",
+  "SY",
+  "IR",
+  "IQ",
+  "IN",
+  "PK",
+  "MX",
+  "BR",
+  "GB",
+  "AL",
+  "GE",
+  "AM",
+  "MA",
+  "TN"
+ ],
+ "facets": {
+  "era": "ancient",
+  "family": "eye",
+  "hemisphere": [
+   "N",
+   "S",
+   "E",
+   "W"
+  ]
+ },
  "text": {
   "what": "An eye, drawn or moulded, worn where another person will see it. It is the most widespread sign in this atlas and the only one whose logic is stated out loud by its carriers everywhere it appears: harm arrives by looking, so the answer looks back.",
   "story": "Amulets against a harmful look have been found dating to around five thousand years ago, and the belief runs through the Mediterranean, the Balkans, Eastern Europe, West Asia, Central Asia, South Asia, Africa, the Caribbean and Latin America. Jewish rabbinic literature returns to it repeatedly.\n\nThe sign takes two different bodies. In Egypt it is a drawn eye with a falcon's cheek-line, cut in faience and carnelian from the Old Kingdom onward. Around the eastern Mediterranean it becomes a bead: after glass-bead production got going in the region around 1500 BCE, blue-and-white concentric eye beads spread among Phoenicians, Persians, Greeks, Romans, Arabs and Ottomans, and that bead is what a shop in Istanbul or Athens sells today.\n\nWhat is striking is what stands in for the eye where the eye is not drawn. Illyrians used shapes of the phallus, the hand, the leg and animal teeth against the same harm. Romans used the fascinum, a winged phallus. Southern Italy still cuts a horn. *Inference —* the substitutions have one thing in common: each is a thing that catches a glance. The mechanism carriers describe is interception, and anything startling enough to take a look can do the job. That is why this atlas files the horn, the hand and the fist as kin of the eye rather than as unrelated signs.\n\n*Tradition holds —* the harm is usually attributed to envy, and often to admiration that has not been qualified. That is why the eye is put on children, on livestock and on new houses more than on anything else."
+ },
+ "text_th": {
+  "what": "ดวงตาที่วาดหรือปั้นขึ้น สวมไว้ในที่ที่คนอื่นจะมองเห็น เป็นสัญลักษณ์ที่แพร่หลายที่สุดในแอตลาสนี้ และเป็นสัญลักษณ์เดียวที่ผู้พกพูดถึงเหตุผลของมันออกมาตรง ๆ ในทุกที่ที่พบ คือภัยมาทางการมอง คำตอบจึงคือการมองกลับ"
  },
  "dating": {
   "period": "Bronze Age to the present",
@@ -27,37 +73,127 @@
  },
  "object": {
   "form": "bead",
-  "materials": ["glass", "faience", "carnelian", "terracotta", "silver"],
-  "worn": ["neck", "wrist", "cradle", "door", "vehicle", "shop"],
+  "materials": [
+   "glass",
+   "faience",
+   "carnelian",
+   "terracotta",
+   "silver"
+  ],
+  "worn": [
+   "neck",
+   "wrist",
+   "cradle",
+   "door",
+   "vehicle",
+   "shop"
+  ],
   "source": "s:wp-evil-eye"
  },
  "against": [
-  {"harm": "evil-eye", "who": "carriers across the Mediterranean, West and South Asia, Africa and Latin America", "source": "s:wp-evil-eye", "tier": "cited"},
-  {"harm": "envy", "who": "the usual explanation given by carriers, recorded across the same range", "source": "s:wp-evil-eye", "tier": "cited"},
-  {"harm": "child-harm", "who": "parents; the eye is put on infants more than on anyone else", "source": "s:wp-evil-eye", "tier": "tradition"}
+  {
+   "harm": "evil-eye",
+   "who": "carriers across the Mediterranean, West and South Asia, Africa and Latin America",
+   "source": "s:wp-evil-eye",
+   "tier": "cited"
+  },
+  {
+   "harm": "envy",
+   "who": "the usual explanation given by carriers, recorded across the same range",
+   "source": "s:wp-evil-eye",
+   "tier": "cited"
+  },
+  {
+   "harm": "child-harm",
+   "who": "parents; the eye is put on infants more than on anyone else",
+   "source": "s:wp-evil-eye",
+   "tier": "tradition"
+  }
  ],
  "kin": [
-  {"to": "wedjat-eye", "as": "the oldest dated amulet in this family, and the one that fixes the sign's shape for three thousand years", "rel": "carried-by"},
-  {"to": "nazar", "as": "the sign as a glass bead, which is the form most of the world now buys it in", "rel": "carried-by"},
-  {"to": "hamsa", "as": "the hand that usually has this eye set in its palm — two signs stacked on one object", "rel": "kin"},
-  {"to": "horn", "as": "the substitute sign in southern Italy, doing the same interception with a different shape", "rel": "parallel"},
-  {"to": "fist", "as": "another substitute: a gesture frozen in coral or jet, aimed at the same look", "rel": "parallel"},
-  {"to": "phallic-sign", "as": "the Roman substitute — the fascinum caught the glance meant for the child", "rel": "parallel"},
-  {"to": "nimbu-mirchi", "as": "South Asia's answer to the same harm, hung in a doorway instead of worn", "rel": "parallel"},
-  {"to": "the-eye-everywhere", "as": "the long read that follows this sign across four continents and asks what travelled and what was invented twice", "rel": "story"},
-  {"to": "frederick-elworthy", "as": "the Victorian who catalogued the sign across Europe in 1895 and is still the reason many of these objects are grouped together", "rel": "person"},
-  {"to": "glass", "as": "the material that turned the sign into something a market could sell by the tray", "rel": "material"}
+  {
+   "to": "wedjat-eye",
+   "as": "the oldest dated amulet in this family, and the one that fixes the sign's shape for three thousand years",
+   "rel": "carried-by"
+  },
+  {
+   "to": "nazar",
+   "as": "the sign as a glass bead, which is the form most of the world now buys it in",
+   "rel": "carried-by"
+  },
+  {
+   "to": "hamsa",
+   "as": "the hand that usually has this eye set in its palm — two signs stacked on one object",
+   "rel": "kin"
+  },
+  {
+   "to": "horn",
+   "as": "the substitute sign in southern Italy, doing the same interception with a different shape",
+   "rel": "parallel"
+  },
+  {
+   "to": "fist",
+   "as": "another substitute: a gesture frozen in coral or jet, aimed at the same look",
+   "rel": "parallel"
+  },
+  {
+   "to": "phallic-sign",
+   "as": "the Roman substitute — the fascinum caught the glance meant for the child",
+   "rel": "parallel"
+  },
+  {
+   "to": "nimbu-mirchi",
+   "as": "South Asia's answer to the same harm, hung in a doorway instead of worn",
+   "rel": "parallel"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "as": "the long read that follows this sign across four continents and asks what travelled and what was invented twice",
+   "rel": "story"
+  },
+  {
+   "to": "frederick-elworthy",
+   "as": "the Victorian who catalogued the sign across Europe in 1895 and is still the reason many of these objects are grouped together",
+   "rel": "person"
+  },
+  {
+   "to": "glass",
+   "as": "the material that turned the sign into something a market could sell by the tray",
+   "rel": "material"
+  }
  ],
- "links": [{"label": "Evil eye — Wikipedia", "url": "https://en.wikipedia.org/wiki/Evil_eye"}],
- "sources": ["s:wp-evil-eye", "s:wp-nazar-amulet", "s:wp-eye-of-horus", "s:wp-hamsa", "s:wp-amulet", "s:wp-apotropaic-magic"],
+ "links": [
+  {
+   "label": "Evil eye — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Evil_eye"
+  }
+ ],
+ "sources": [
+  "s:wp-evil-eye",
+  "s:wp-nazar-amulet",
+  "s:wp-eye-of-horus",
+  "s:wp-hamsa",
+  "s:wp-amulet",
+  "s:wp-apotropaic-magic"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-evil-eye"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-evil-eye"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:wp-evil-eye", "note": "the substitution argument in the third paragraph is marked as this project's inference where it appears"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-evil-eye",
+    "note": "the substitution argument in the third paragraph is marked as this project's inference where it appears"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Nazar boncugu.jpg", "File:Turkish evil eye beads.jpg"],
+ "x_commons_files": [
+  "File:Nazar boncugu.jpg",
+  "File:Turkish evil eye beads.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-16"
 }

@@ -8,7 +8,11 @@
   "script": "Greek",
   "lang": "grc",
   "said": "apotrópaios, 'turning away'; the Greeks also said probaskania, periammata, periapta, phylaktiria, alexikaka",
-  "aliases": ["apotropaic magic", "Graeco-Roman amulet practice"]
+  "aliases": [
+   "apotropaic magic",
+   "Graeco-Roman amulet practice"
+  ],
+  "th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน"
  },
  "etymology": {
   "root": "Ancient Greek ἀποτρέπω, apotrépō, 'to turn away' — the whole theory of the practice in one verb",
@@ -16,12 +20,37 @@
   "tier": "cited",
   "source": "s:wp-apotropaic-magic"
  },
- "region": ["greece-aegean", "rome-italy", "anatolia", "britain-ireland", "maghreb"],
- "countries": ["GR", "IT", "TR", "GB", "LY"],
- "facets": {"era": "classical", "status": "archaeological", "language": "Greek and Latin", "restricted": "open", "hemisphere": ["N", "E", "W"]},
+ "region": [
+  "greece-aegean",
+  "rome-italy",
+  "anatolia",
+  "britain-ireland",
+  "maghreb"
+ ],
+ "countries": [
+  "GR",
+  "IT",
+  "TR",
+  "GB",
+  "LY"
+ ],
+ "facets": {
+  "era": "classical",
+  "status": "archaeological",
+  "language": "Greek and Latin",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E",
+   "W"
+  ]
+ },
  "text": {
   "what": "A practice organised around one idea: harm arrives through a look, so the answer is to catch the look. The Greek word for it is apotrépō, to turn away. The objects are the ones that do the catching — a Gorgon face, a phallus, a bead, a crescent, a locket on a child — and the argument in the sources is about what makes a glance stop, not about what a charm contains.",
   "story": "The Greeks committed the child to kourotrophic deities and hung amulets on it. They put charms in houses and wore them against the evil eye, and hung them on their animals too. Peisistratus hung the figure of a kind of grasshopper before the Acropolis of Athens. They spat into the folds of their clothes. They dressed boys as girls to avert the eye, and told the story of Achilles dressed as a girl at the court of Lycomedes as a case of it. Exaggerated eyes were painted on the drinking cups called kylikes from the sixth century BCE to the end of the classical period, perhaps to stop anything entering the mouth while drinking; fishing boats in parts of the Mediterranean still have eyes on the bows.\n\nRome added laughter to terror. In Roman art, envy was thought to bring bad luck to the person envied, so hosts set out images meant to make guests laugh: outsized phalluses, deformities, hunchbacks, pygmies. Pliny called the phallus a medicus invidiae, a remedy for envy. The mechanism the sources describe is not power but interruption — in most cases what turns the eye is the shame or the laughter the obscenity produces.\n\nThe literate end of the practice is the gemstones and the lead. Carved gems, many thousands of them, pair a stone with a god so the wearer takes on the associated powers; one gold amulet box from the Thetford treasure in Norfolk was found to contain sulphur, for its evil-repelling qualities. And the same hands that cut gems scratched curse tablets, which run the machinery backwards and aim it at a named person.\n\n*Inference —* the substitutions are the argument. Illyrians used the phallus, the hand, the leg and animal teeth against the same harm the eye was used against; Romans used a winged phallus; southern Italy still cuts a horn. Nothing about a horn resembles an eye. What they share is that each of them takes a glance."
+ },
+ "text_th": {
+  "what": "วิธีปฏิบัติที่ตั้งอยู่บนความคิดเดียว: ภัยมาทางสายตา คำตอบจึงอยู่ที่การดักสายตานั้นไว้ คำภาษากรีกคือ อะโปเตรโป (apotrépō) แปลว่า หันออกไป วัตถุคือสิ่งที่ทำหน้าที่ดักจับ — ใบหน้ากอร์กอน ลึงค์ ลูกปัด พระจันทร์เสี้ยว ล็อกเกตบนตัวเด็ก — และข้อถกเถียงในแหล่งข้อมูลอยู่ที่ว่าอะไรทำให้สายตาหยุด ไม่ใช่ว่าเครื่องรางบรรจุอะไรไว้"
  },
  "dating": {
   "period": "Archaic Greek to late Roman",
@@ -36,33 +65,130 @@
   "note": "The floor is the earliest gorgoneia and the Tiryns and Sparta masks, seventh century BCE. The ceiling is late antiquity, by which point the practice has been absorbed into Byzantine Christian amulets. Neither end is given as a date in the cited articles; both are this project's reading."
  },
  "against": [
-  {"harm": "evil-eye", "who": "Greeks and Romans alike; the cited account names the Gorgon as the most widely used image among the Greeks for averting evil", "source": "s:wp-apotropaic-magic", "tier": "cited"},
-  {"harm": "envy", "who": "Pliny, on the fascinus as a medicus invidiae, and Roman hosts who set out laughter-provoking images against invidia", "source": "s:wp-fascinus", "tier": "cited"},
-  {"harm": "child-harm", "who": "Greek parents, who hung amulets on infants and committed them to child-nurturing deities; and Roman parents, who gave a boy a bulla on his ninth day and a girl a lunula", "source": "s:wp-apotropaic-magic", "tier": "cited"},
-  {"harm": "house", "who": "Greek builders, who carved bearded satyr-like faces over the doors of ovens and kilns to protect the work from fire and mishap", "source": "s:wp-apotropaic-magic", "tier": "cited"},
-  {"harm": "illness", "who": "the wearers of carved gems, which the cited account describes as worn to take on the associated powers of a god rather than out of piety", "source": "s:wp-amulet", "tier": "cited"}
+  {
+   "harm": "evil-eye",
+   "who": "Greeks and Romans alike; the cited account names the Gorgon as the most widely used image among the Greeks for averting evil",
+   "source": "s:wp-apotropaic-magic",
+   "tier": "cited"
+  },
+  {
+   "harm": "envy",
+   "who": "Pliny, on the fascinus as a medicus invidiae, and Roman hosts who set out laughter-provoking images against invidia",
+   "source": "s:wp-fascinus",
+   "tier": "cited"
+  },
+  {
+   "harm": "child-harm",
+   "who": "Greek parents, who hung amulets on infants and committed them to child-nurturing deities; and Roman parents, who gave a boy a bulla on his ninth day and a girl a lunula",
+   "source": "s:wp-apotropaic-magic",
+   "tier": "cited"
+  },
+  {
+   "harm": "house",
+   "who": "Greek builders, who carved bearded satyr-like faces over the doors of ovens and kilns to protect the work from fire and mishap",
+   "source": "s:wp-apotropaic-magic",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the wearers of carved gems, which the cited account describes as worn to take on the associated powers of a god rather than out of piety",
+   "source": "s:wp-amulet",
+   "tier": "cited"
+  }
  ],
  "kin": [
-  {"to": "gorgoneion", "as": "its loudest object, and the one whose function classicists agree on", "rel": "part"},
-  {"to": "fascinum", "as": "its most Roman object, and the one Pliny explains in two words", "rel": "part"},
-  {"to": "bulla", "as": "what a Roman boy wore, from day nine to the toga virilis", "rel": "part"},
-  {"to": "lunula", "as": "what a Roman girl wore, until the eve of her wedding", "rel": "part"},
-  {"to": "magical-gem", "as": "the literate and expensive end of it, cut in stone and written in names nobody can read", "rel": "part"},
-  {"to": "curse-tablet", "as": "the same craft aimed the other way, at a named person, and buried", "rel": "contrast"},
-  {"to": "eye", "as": "the sign the whole practice is organised around, whether it is drawn or substituted for", "rel": "motif"},
-  {"to": "phallic-sign", "as": "the substitute Rome preferred, doing the same interception by a different route", "rel": "motif"},
-  {"to": "cornicello", "as": "its living descendant in southern Italy — the same look-catching, in red coral", "rel": "descendant"},
-  {"to": "holy-rider-pendant", "as": "what the practice turns into once the Mediterranean is Christian: the same grammar, new names", "rel": "descendant"},
-  {"to": "frederick-elworthy", "as": "the Victorian who assembled the European evidence for the eye and its substitutes in 1895, and whose groupings museums still use", "rel": "person"},
-  {"to": "christopher-faraone", "as": "the scholar of Greek binding spells and love magic, and the reason the curse tablets can be read as a system", "rel": "person"}
+  {
+   "to": "gorgoneion",
+   "as": "its loudest object, and the one whose function classicists agree on",
+   "rel": "part"
+  },
+  {
+   "to": "fascinum",
+   "as": "its most Roman object, and the one Pliny explains in two words",
+   "rel": "part"
+  },
+  {
+   "to": "bulla",
+   "as": "what a Roman boy wore, from day nine to the toga virilis",
+   "rel": "part"
+  },
+  {
+   "to": "lunula",
+   "as": "what a Roman girl wore, until the eve of her wedding",
+   "rel": "part"
+  },
+  {
+   "to": "magical-gem",
+   "as": "the literate and expensive end of it, cut in stone and written in names nobody can read",
+   "rel": "part"
+  },
+  {
+   "to": "curse-tablet",
+   "as": "the same craft aimed the other way, at a named person, and buried",
+   "rel": "contrast"
+  },
+  {
+   "to": "eye",
+   "as": "the sign the whole practice is organised around, whether it is drawn or substituted for",
+   "rel": "motif"
+  },
+  {
+   "to": "phallic-sign",
+   "as": "the substitute Rome preferred, doing the same interception by a different route",
+   "rel": "motif"
+  },
+  {
+   "to": "cornicello",
+   "as": "its living descendant in southern Italy — the same look-catching, in red coral",
+   "rel": "descendant"
+  },
+  {
+   "to": "holy-rider-pendant",
+   "as": "what the practice turns into once the Mediterranean is Christian: the same grammar, new names",
+   "rel": "descendant"
+  },
+  {
+   "to": "frederick-elworthy",
+   "as": "the Victorian who assembled the European evidence for the eye and its substitutes in 1895, and whose groupings museums still use",
+   "rel": "person"
+  },
+  {
+   "to": "christopher-faraone",
+   "as": "the scholar of Greek binding spells and love magic, and the reason the curse tablets can be read as a system",
+   "rel": "person"
+  }
  ],
- "links": [{"label": "Apotropaic magic — Wikipedia", "url": "https://en.wikipedia.org/wiki/Apotropaic_magic"}],
- "sources": ["s:wp-apotropaic-magic", "s:wp-fascinus", "s:wp-gorgons", "s:wp-evil-eye", "s:wp-amulet", "s:wp-curse-tablet", "s:wp-bulla-amulet", "s:wp-lunula-amulet"],
+ "links": [
+  {
+   "label": "Apotropaic magic — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Apotropaic_magic"
+  }
+ ],
+ "sources": [
+  "s:wp-apotropaic-magic",
+  "s:wp-fascinus",
+  "s:wp-gorgons",
+  "s:wp-evil-eye",
+  "s:wp-amulet",
+  "s:wp-curse-tablet",
+  "s:wp-bulla-amulet",
+  "s:wp-lunula-amulet"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-apotropaic-magic"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-apotropaic-magic"
+  },
   "fields": {
-   "dating": {"tier": "inference", "note": "neither end of the span is stated in the cited articles; see dating.note"},
-   "text.story": {"tier": "cited", "source": "s:wp-apotropaic-magic", "note": "the closing paragraph is this project's reading, marked where it appears"}
+   "dating": {
+    "tier": "inference",
+    "note": "neither end of the span is stated in the cited articles; see dating.note"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-apotropaic-magic",
+    "note": "the closing paragraph is this project's reading, marked where it appears"
+   }
   }
  },
  "images": [],

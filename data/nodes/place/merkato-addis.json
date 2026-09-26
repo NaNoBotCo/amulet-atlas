@@ -11,7 +11,8 @@
   "aliases": [
    "Addis Mercato",
    "Addis Merkato"
-  ]
+  ],
+  "th": "เมอร์กาโต"
  },
  "region": [
   "east-africa"
@@ -30,6 +31,9 @@
   "what": "An open-air market covering several square miles of the Addis Ketema district of Addis Ababa, and the name of the neighbourhood it fills. An estimated 13,000 people work in about 7,100 business entities. Most of it is wholesale, sorted into sections the traders call terras: coffee, spices, scrap metal, furniture, electronics. Coffee is the main good passing through.",
   "story": "The market is a product of occupation policy. Addis Ababa's older market stood near St George's Church, where the City Hall is now; the Italian occupiers of the 1930s moved it west, to land around the premises of Fitawrari Habte Giyorgis Dinagde, and kept the old site — renamed Piazza, with European-style shop windows — for Europeans. The Arab traders of Piazza moved half a mile west after them; local shopkeepers displaced those traders in turn, and since the 1960s Merkato has been a mostly local market. It grew without a plan.\n\nThis record has to state a gap rather than fill it. The Ethiopian protective object in this atlas is the talismanic scroll — the ketab, written in Ge'ez on hide — and it is not a market good. A scroll is commissioned by the patient from a dabtara, an unordained figure in the Ethiopian Orthodox Church, who cuts it to the patient's own measure: to the height of the body for head-to-toe protection, longer to hang on a wall. The making includes a sacrifice of the animal whose hide is used, standing for the person the scroll is for. Activation needs a third party literate in Ge'ez to read it aloud.\n\n*Inference —* that is why a market this size is thin in this atlas. A commissioned object made to a body's measurements does not have a stall. This project searched for a published source placing the scroll trade inside Merkato and found none it could cite; the record says so instead of inventing an aisle.",
   "today": "Trading, as Africa's largest open-air market. It is not primarily a tourist market: most sections are wholesale. No day is marked open or closed below."
+ },
+ "text_th": {
+  "what": "ตลาดกลางแจ้งที่ครอบคลุมพื้นที่หลายตารางไมล์ในเขตอัดดิสเกเตมาของกรุงแอดดิสอาบาบา และเป็นชื่อของย่านที่ตลาดนี้กินพื้นที่เต็ม มีคนทำงานที่นี่ประมาณ 13,000 คน ในหน่วยธุรกิจราว 7,100 แห่ง ส่วนใหญ่เป็นการค้าส่ง แบ่งเป็นโซนที่พ่อค้าเรียกว่า \"เทอร์รา\" (terras): กาแฟ เครื่องเทศ เศษโลหะ เฟอร์นิเจอร์ เครื่องใช้ไฟฟ้า กาแฟคือสินค้าหลักที่ผ่านตลาดนี้"
  },
  "dating": {
   "period": "Italian occupation to the present",

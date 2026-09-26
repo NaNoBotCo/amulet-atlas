@@ -11,7 +11,8 @@
   "aliases": [
    "Khan al-Khalili",
    "the Cairo bazaar"
-  ]
+  ],
+  "th": "ข่านเอลคาลีลี"
  },
  "region": [
   "ancient-egypt",
@@ -31,6 +32,9 @@
   "what": "Cairo's bazaar quarter, in the medieval city between al-Muizz Street, al-Muski Street and the mosque and shrine of al-Hussein. Shops sit at ground level in the walls of old khans — multi-storey merchant inns built round a courtyard — with workshops above and behind them. Goldsmiths hold their own souq inside it, and it is the goldsmiths' lane that matters to this atlas: a charm in Cairo is usually something small, stamped or cast in metal, and bought where metal is sold.",
   "story": "The quarter is named after a stable-master. During Sultan Barquq's first reign, between 1382 and 1389, his amir akhur Jaharkas al-Khalili pulled down the Fatimid royal mausoleum that stood here — the Turbat az-Za'faraan, the Saffron Tomb — and put up a large khan in its place. He is reported to have thrown the bones of the Fatimid caliphs onto the rubbish hills east of the city. The khan took his name, then the whole district did.\n\nSultan al-Ghuri, the last effective Mamluk sultan, demolished al-Khalili's building and rebuilt it in 1511, laying out a souq with monumental stone gates. Two of those gates still stand on Sikkat al-Badistan. By the end of the Mamluk period there were 21 khans and wikalas here; by the end of the 18th century, some 39. El-Fishawy's coffeehouse, still in the lanes, was established in 1773.\n\nThe present trade is aimed at visitors and at Cairenes in different lanes. Shops sell souvenirs, antiques and jewellery; the goldsmiths' souq still serves locals; crafts workshops run in the courtyards and upper floors. The scholar Remke Kruk found books on magic and sorcery well represented in street stalls and bookshops across the Muslim world around 2005, from Marrakesh to Cairo to Yemen, alongside religious pamphlets condemning the practices those books describe — an argument conducted stall to stall, in print, in the same streets.\n\n*Inference —* the pharaonic amulet shapes a visitor buys here — scarab, wedjat eye, ankh — are jewellery made now, not survivals. This atlas has read no source that surveys what the Khan's stalls actually stock, so the record stops at what the goldsmiths' souq and the workshops are documented to be.\n\nThe market has twice been attacked. A suicide bombing on 7 April 2005 killed 21 people; a second attack on 22 February 2009 killed a 17-year-old French visitor and injured 22 people.",
   "today": "Trading, and oriented to tourism in its best-known lanes, as of the most recent published account this project has read. No day is marked open or closed below: the district's hours are the individual shopkeepers' and nobody publishes them as a timetable."
+ },
+ "text_th": {
+  "what": "ย่านตลาดของไคโร อยู่ในเมืองยุคกลางระหว่างถนนอัลมุอิซซ์ (al-Muizz) ถนนอัลมุสกี (al-Muski) และมัสยิดกับสุสานศักดิ์สิทธิ์ของอัลฮุเซน (al-Hussein) ร้านค้าตั้งอยู่ชั้นล่างในกำแพงของข่านเก่า — ที่พักพ่อค้าหลายชั้นที่สร้างรอบลานกลาง — มีโรงงานอยู่ด้านบนและด้านหลัง ช่างทองมีตลาด (ซูก) ของตนเองอยู่ภายในย่านนี้ และตรอกช่างทองคือส่วนที่สำคัญสำหรับแอตลาสนี้: เครื่องรางในไคโรมักเป็นของเล็ก ๆ ที่ปั๊มหรือหล่อจากโลหะ และซื้อกันในที่ที่ขายโลหะ"
  },
  "dating": {
   "period": "Burji Mamluk to the present",
@@ -171,56 +175,72 @@
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "the tradition whose shapes are cut in this city's gold four thousand years after the workshops that invented them closed",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   },
   {
    "to": "scarab",
    "type": "amulet",
    "name": "Scarab",
    "as": "sold here now as jewellery; the excavated ones are a mile away in the Egyptian Museum",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "สคารับ (ด้วงศักดิ์สิทธิ์อียิปต์)",
+   "as_th": ""
   },
   {
    "to": "hamsa",
    "type": "amulet",
    "name": "Hamsa",
    "as": "the hand sold across this trade's whole range, from Morocco to the Gulf",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ฮัมซา (มือกันภัย)",
+   "as_th": ""
   },
   {
    "to": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the written charm the bookstalls serve — Kruk found the handbooks and the pamphlets against them on the same streets",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "to": "islamic-talismanic",
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "the tradition those handbooks belong to, argued over in print in this quarter",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "to": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the practice, in a quarter purpose-built for it since the Mamluks taxed stalls into stone shops",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": ""
   },
   {
    "to": "grand-bazaar",
    "type": "place",
    "name": "The Grand Bazaar",
    "as": "the Ottoman answer to the same problem — how to roof a city's trade and lock it at night",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "แกรนด์บาซาร์ (คาปาลึชาร์ชึ)",
+   "as_th": ""
   },
   {
    "to": "marrakesh-souk",
    "type": "place",
    "name": "The Marrakesh souk",
    "as": "the other end of Kruk's line, where the same books are sold",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตลาดซูกมาร์ราเกช",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -312,56 +332,72 @@
    "type": "amulet",
    "name": "Coptic cross tattoo",
    "as": "the Cairo market a visitor is likelier to meet Coptic crosses in, sold as silver rather than worn under the skin",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "รอยสักกางเขนคอปติก",
+   "as_th": ""
   },
   {
    "from": "hamsa",
    "type": "amulet",
    "name": "Hamsa",
    "as": "the Cairo market where it outsells every other charm against the eye",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ฮัมซา (มือกันภัย)",
+   "as_th": ""
   },
   {
    "from": "quran-pendant",
    "type": "amulet",
    "name": "Qur'an pendant",
    "as": "the Cairo market where the cases are sold",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "จี้อัลกุรอาน",
+   "as_th": ""
   },
   {
    "from": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "one of the markets that sells them by the tray",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "from": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "where this record's earliest date comes from: a quarter of stone shops built partly so the trade could be counted and taxed",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": "ที่มาของวันที่เก่าที่สุดในระเบียนนี้: ย่านร้านค้าหินที่สร้างขึ้นส่วนหนึ่งเพื่อให้นับและเก็บภาษีการค้าได้"
   },
   {
    "from": "grand-bazaar",
    "type": "place",
    "name": "The Grand Bazaar",
    "as": "the Mamluk quarter al-Ghuri rebuilt in 1511, possibly in imitation of complexes like this one",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "แกรนด์บาซาร์ (คาปาลึชาร์ชึ)",
+   "as_th": ""
   },
   {
    "from": "marrakesh-souk",
    "type": "place",
    "name": "The Marrakesh souk",
    "as": "the other end of Kruk's line, Cairo to Marrakesh, selling the same books",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตลาดซูกมาร์ราเกช",
+   "as_th": ""
   },
   {
    "from": "market-stall-sign",
    "type": "art",
    "name": "The market stall sign",
    "as": "a bazaar zoned by trade, where the district's layout still tells a buyer where to walk",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ป้ายแผงตลาด",
+   "as_th": "ตลาดที่จัดโซนตามประเภทการค้า ซึ่งผังของย่านยังบอกผู้ซื้อได้ว่าควรเดินไปทางไหน"
   }
  ]
 }

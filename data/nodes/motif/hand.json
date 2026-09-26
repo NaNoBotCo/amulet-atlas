@@ -4,25 +4,101 @@
  "type": "motif",
  "names": {
   "name": "The hand",
-  "aliases": ["hand motif", "apotropaic hand", "khamsa hand", "afus"]
+  "aliases": [
+   "hand motif",
+   "apotropaic hand",
+   "khamsa hand",
+   "afus"
+  ],
+  "th": "มือ"
  },
- "region": ["maghreb", "levant", "mesopotamia", "iberia", "anatolia", "rome-italy", "ancient-egypt", "diaspora"],
- "countries": ["MA", "DZ", "TN", "LY", "EG", "IL", "PS", "SY", "IQ", "TR", "ES", "IT", "GR"],
- "facets": {"era": "ancient", "family": "hand", "hemisphere": ["N", "E", "W"]},
+ "region": [
+  "maghreb",
+  "levant",
+  "mesopotamia",
+  "iberia",
+  "anatolia",
+  "rome-italy",
+  "ancient-egypt",
+  "diaspora"
+ ],
+ "countries": [
+  "MA",
+  "DZ",
+  "TN",
+  "LY",
+  "EG",
+  "IL",
+  "PS",
+  "SY",
+  "IQ",
+  "TR",
+  "ES",
+  "IT",
+  "GR"
+ ],
+ "facets": {
+  "era": "ancient",
+  "family": "hand",
+  "hemisphere": [
+   "N",
+   "E",
+   "W"
+  ]
+ },
  "text": {
   "what": "A human hand, cast or cut flat and hung where it can be seen. It comes in three postures this atlas keeps apart: the palm open with five fingers spread, the fist with the thumb pushed between two fingers, and two fingers extended with the thumb folded over. Each is a gesture first and an object second — the metal copies something a living hand does.",
   "story": "Open-hand motifs run through the ancient Near East. Von Kemnitz records amulets of the hand of Ishtar used in Mesopotamia and Babylon to keep evil or disease from entering a building. At Khirbet el-Qom in Judah an Iron Age tomb carries an engraved hand beside an inscription; what it meant is argued over, and the usual reading is a protective sign in a funerary setting. One of the first appearances of the hand as the amulet now called the hamsa is in Israelite tombs of around 800 BCE.\n\nThe name it travels under is not one name. Khamsa is Arabic for five. Hand of Fatima is a label Europeans popularised in French colonial North Africa, not an Arabic term. Sephardi and Mizrahi Jews call it the hand of Miriam; Levantine Christians call it kef Miryam, the hand of Mary; in Berber languages afus is simply hand. One shape, five communities, five names, and the argument over which name to print is live.\n\nIn al-Andalus the hand is well documented from the thirteenth century onward. Among Moriscos in Granada, khamsa pendants were described as large engraved medals with a hand inscribed with letters, likely Qur'anic. A reform council banned them in 1526 as Islamic symbols and ordered crosses in their place; the Synod of Guadix renewed the ban in 1554. Christians wore them anyway — a Nasrid-period gold pendant is inscribed Ave Maria gratia plena.\n\n*Inference —* filing the open palm, the fist and the horned hand as one family is this project's decision, not a claim any of their carriers make. What they share is a gesture arrested in metal and aimed outward. Each has its own record here."
  },
+ "text_th": {
+  "what": "มือมนุษย์ หล่อหรือตัดเป็นแผ่นแบน แขวนไว้ในที่ที่มองเห็นได้ มีสามท่าที่แอตลาสนี้แยกออกจากกัน คือฝ่ามือแบห้านิ้วกางออก กำปั้นที่สอดนิ้วโป้งไว้ระหว่างสองนิ้ว และสองนิ้วชูขึ้นโดยพับนิ้วโป้งทับไว้ แต่ละท่าเป็นท่ามือก่อน แล้วจึงเป็นวัตถุ โลหะลอกแบบสิ่งที่มือของคนที่มีชีวิตทำ"
+ },
  "kin": [
-  {"to": "open-palm", "as": "the flat five-fingered posture, and the one most of the world now buys", "rel": "parallel"},
-  {"to": "fist", "as": "the closed posture — a rude gesture cast in silver and hung on a baby", "rel": "parallel"},
-  {"to": "hamsa", "as": "the amulet this sign is named for across North Africa and the Middle East", "rel": "carried-by"},
-  {"to": "eye", "as": "the sign usually set in this one's palm; two answers to the same harm stacked on one object", "rel": "kin"},
-  {"to": "figa", "as": "the Iberian and Brazilian hand, carved in jet and given to children", "rel": "carried-by"},
-  {"to": "cornicello", "as": "Naples pairs the horn with the mano cornuta, a hand held with two fingers out", "rel": "parallel"},
-  {"to": "milagro", "as": "a tin hand nailed to a votive wall asks for a hand to be healed — the same shape doing the opposite job", "rel": "contrast"},
-  {"to": "nazar", "as": "the glass bead this hand is sold beside, and is often set into", "rel": "kin"},
-  {"to": "the-eye-everywhere", "as": "the long read that puts hand, horn and eye in one family and asks whether they belong there", "rel": "story"}
+  {
+   "to": "open-palm",
+   "as": "the flat five-fingered posture, and the one most of the world now buys",
+   "rel": "parallel"
+  },
+  {
+   "to": "fist",
+   "as": "the closed posture — a rude gesture cast in silver and hung on a baby",
+   "rel": "parallel"
+  },
+  {
+   "to": "hamsa",
+   "as": "the amulet this sign is named for across North Africa and the Middle East",
+   "rel": "carried-by"
+  },
+  {
+   "to": "eye",
+   "as": "the sign usually set in this one's palm; two answers to the same harm stacked on one object",
+   "rel": "kin"
+  },
+  {
+   "to": "figa",
+   "as": "the Iberian and Brazilian hand, carved in jet and given to children",
+   "rel": "carried-by"
+  },
+  {
+   "to": "cornicello",
+   "as": "Naples pairs the horn with the mano cornuta, a hand held with two fingers out",
+   "rel": "parallel"
+  },
+  {
+   "to": "milagro",
+   "as": "a tin hand nailed to a votive wall asks for a hand to be healed — the same shape doing the opposite job",
+   "rel": "contrast"
+  },
+  {
+   "to": "nazar",
+   "as": "the glass bead this hand is sold beside, and is often set into",
+   "rel": "kin"
+  },
+  {
+   "to": "the-eye-everywhere",
+   "as": "the long read that puts hand, horn and eye in one family and asks whether they belong there",
+   "rel": "story"
+  }
  ],
  "dating": {
   "period": "Iron Age to the present",
@@ -38,27 +114,82 @@
  },
  "object": {
   "form": "pendant",
-  "materials": ["silver", "gold", "brass", "jet", "glass", "terracotta"],
-  "worn": ["neck", "door", "wall", "wrist", "vehicle"],
+  "materials": [
+   "silver",
+   "gold",
+   "brass",
+   "jet",
+   "glass",
+   "terracotta"
+  ],
+  "worn": [
+   "neck",
+   "door",
+   "wall",
+   "wrist",
+   "vehicle"
+  ],
   "inscription": "Qur'anic verses on Morisco examples; Ave Maria gratia plena on a Nasrid-period gold pendant",
   "source": "s:wp-hamsa"
  },
  "against": [
-  {"harm": "evil-eye", "who": "carriers across North Africa and the Middle East, as reported of the hamsa", "source": "s:wp-hamsa", "tier": "cited"},
-  {"harm": "demons", "who": "von Kemnitz, on hand-of-Ishtar amulets in Mesopotamia and Babylon, used to keep evil or disease out of a building", "source": "s:wp-hamsa", "tier": "cited"},
-  {"harm": "infertility", "who": "the names Hand-of-Venus and Hand-of-Mary attach to hand amulets said to help women's fertility and lactation", "source": "s:wp-hamsa", "tier": "cited"},
-  {"harm": "child-harm", "who": "Asturian practice, where jet hands are given to young children", "source": "s:wp-fig-sign", "tier": "cited"}
+  {
+   "harm": "evil-eye",
+   "who": "carriers across North Africa and the Middle East, as reported of the hamsa",
+   "source": "s:wp-hamsa",
+   "tier": "cited"
+  },
+  {
+   "harm": "demons",
+   "who": "von Kemnitz, on hand-of-Ishtar amulets in Mesopotamia and Babylon, used to keep evil or disease out of a building",
+   "source": "s:wp-hamsa",
+   "tier": "cited"
+  },
+  {
+   "harm": "infertility",
+   "who": "the names Hand-of-Venus and Hand-of-Mary attach to hand amulets said to help women's fertility and lactation",
+   "source": "s:wp-hamsa",
+   "tier": "cited"
+  },
+  {
+   "harm": "child-harm",
+   "who": "Asturian practice, where jet hands are given to young children",
+   "source": "s:wp-fig-sign",
+   "tier": "cited"
+  }
  ],
- "links": [{"label": "Hamsa — Wikipedia", "url": "https://en.wikipedia.org/wiki/Hamsa"}],
- "sources": ["s:wp-hamsa", "s:wp-fig-sign", "s:wp-evil-eye", "s:wp-apotropaic-magic", "s:wp-cornicello", "s:wp-islam-and-magic"],
+ "links": [
+  {
+   "label": "Hamsa — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hamsa"
+  }
+ ],
+ "sources": [
+  "s:wp-hamsa",
+  "s:wp-fig-sign",
+  "s:wp-evil-eye",
+  "s:wp-apotropaic-magic",
+  "s:wp-cornicello",
+  "s:wp-islam-and-magic"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-hamsa"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-hamsa"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:wp-hamsa", "note": "the three-posture grouping in the last paragraph is this project's filing decision and is marked as inference there"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-hamsa",
+    "note": "the three-posture grouping in the last paragraph is this project's filing decision and is marked as inference there"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Hamsa.svg", "File:Khamsa.jpg"],
+ "x_commons_files": [
+  "File:Hamsa.svg",
+  "File:Khamsa.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-16"
 }

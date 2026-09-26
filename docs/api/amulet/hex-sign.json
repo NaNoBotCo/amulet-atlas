@@ -14,7 +14,8 @@
    "Sterne",
    "witch foot",
    "painted prayer"
-  ]
+  ],
+  "th": "เฮ็กซ์ไซน์ (ป้ายดาวบนโรงนา)"
  },
  "etymology": {
   "root": "English hex sign, from Pennsylvania German hex (German Hexe, Dutch heks), 'witch'. The compound is not old: the term was not used until the twentieth century, after Wallace Nutting's Pennsylvania Beautiful appeared in 1924.",
@@ -44,6 +45,9 @@
   "story": "Two schools of thought exist about what these are, and this atlas's job here is to give both. One ascribes a talismanic nature to the signs. The other holds that they are purely decorative. Both schools accept that \"there are sometimes superstitions associated with certain hex sign themes\", and neither ascribes strong magical power to them.\n\nThe decorative side has a name and a date: Alfred L. Shoemaker, whose 32-page Hex, No! came out from the Pennsylvania Dutch Folklore Center in Lancaster in 1953 and whose title is its argument. *Inference —* this record has read that book's catalogue record and not its pages, and takes the phrase usually quoted from it, \"chust for nice\", from accounts of it rather than from the text. The scholarship the argument has run through since is Thomas E. Graves's 1984 doctoral dissertation at the University of Pennsylvania, The Pennsylvania German Hex Sign: A Study in Folk Process, and Hex Signs: Pennsylvania Dutch Barn Symbols and Their Meaning, by Don Yoder and Graves, published by Stackpole in 2000.\n\nThe chronology matters to the argument, because it is short. Barn painting of this kind is a late development in Pennsylvania Dutch folk art. Before the 1830s the cost of paint meant most barns went unpainted; the stars-in-circles began to appear in the early nineteenth century and became widespread decades later, when commercial ready-mixed paint became easy to buy. Barn decorating peaked in the early twentieth century, when there were many artists who specialised in it, drawing on a large repertoire and combining elements. The geometric patterns of quilts show up in the designs; the hearts and tulips are the ones found on fraktur, the elaborately lettered birth, baptism and marriage certificates of the same community.\n\nThe mountable sign is a documented commercial invention. Jacob Zook of Paradise, Pennsylvania, claimed to have originated it in 1942, based on traditional designs, to be sold in souvenir shops along the Lincoln Highway; Edward Buchak of Gilbertsville designed and screen-printed many of the Zook signs. William Schuster, Milton Hill, Johnny Ott and Johnny and Eric Claypoole also worked in that revival. It is the modern artists who tend to stress meanings: a horse head to protect animals from disease and the building from lightning, a dove for peace and contentment. The Pennsylvania Bureau of Radiation Protection built the international radiation symbol into a yellow-and-red hex sign design for its official logo.\n\nTwo more readings have names attached. Lee R. Gandee, in Strange Experience: The Autobiography of a Hexenmeister (1971), called hex signs \"painted prayers\". Others read the designs as decorative markers of ethnic identity, possibly arising in reaction to nineteenth-century government attempts to suppress the Pennsylvania German language. In recent years the signs have been taken up as talismans for folk magic by people who are not Pennsylvania Dutch, and neopagans have taken up making them, working other pre-Christian signs into the designs on the argument that the hex designs are of pre-Christian Germanic origin and related to Alpine German work — a circled rosette is called the Sun of the Alps in the Po Valley. Anabaptist sects in the region, the Amish and the Mennonites, take a negative view of hex signs, and the signs are rarely if ever seen on their farms.",
   "how": "Painted directly onto barn siding, in a circular border, by a specialist barn painter working from a repertoire of designs. The commercial version since 1942 is screen-printed on a separate disc and mounted on a barn or hung indoors. Nothing in this record's sources describes a blessing, a consecration, or a retirement.",
   "today": "Still painted, still sold, and still argued over. *Inference —* the argument is unusually hard to settle because the commercial sign arrived in 1942 with an explicit set of meanings attached for the buyer, which means most published lists of what a hex sign means postdate the tourist trade rather than the barns."
+ },
+ "text_th": {
+  "what": "แผ่นกลมที่วาดไว้ข้างโรงนา มักเป็นรูปดาวในกรอบวงกลม สีสดบนพื้นขาว แบบเชิงพาณิชย์รุ่นหลังเป็นแผ่นแยก พิมพ์ซิลค์สกรีนแล้วนำไปติด มีรูปดาว ดาวทิศ หัวใจ ดอกทิวลิป ต้นไม้แห่งชีวิต หรือนกแบบประดิษฐ์ที่เรียกว่า ดิสเทลฟิงก์ (distelfink) พบบนโรงนาของชาวเพนซิลเวเนียดัตช์ในตอนกลางและตะวันออกเฉียงใต้ของรัฐเพนซิลเวเนีย หนาแน่นที่สุดในเคาน์ตีเบิร์กส์ แลงคาสเตอร์ และลีไฮ ชาวอามิชไม่ใช้"
  },
  "dating": {
   "period": "Nineteenth century to the present",
@@ -198,63 +202,81 @@
    "type": "motif",
    "name": "The tree",
    "as": "one of the designs by name — the tree of life is a standard theme on the commercial signs",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ต้นไม้",
+   "as_th": ""
   },
   {
    "to": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "the practice it is the biggest version of: a sign fixed to a building, facing outward, in public",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "to": "bagua-mirror",
    "type": "amulet",
    "name": "Bagua mirror",
    "as": "the other painted geometric disc in this atlas fixed to the outside of a building, and a useful comparison because nobody argues about what that one is for",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กระจกปากั้ว (กระจกแปดทิศ)",
+   "as_th": ""
   },
   {
    "to": "concealed-shoe",
    "type": "amulet",
    "name": "Concealed shoe",
    "as": "the opposite instinct in the same kind of building: one charm walled up where nobody can see it, one painted six feet across on the gable",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "รองเท้าซ่อนในบ้าน",
+   "as_th": ""
   },
   {
    "to": "horseshoe",
    "type": "amulet",
    "name": "Horseshoe",
    "as": "the other thing on an American barn, and the one whose protective claim nobody disputes",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เกือกม้า",
+   "as_th": ""
   },
   {
    "to": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "the tradition the emigrants brought, and the one this object may or may not still belong to — that is the argument",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "to": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the long read the 1942 souvenir sign belongs in: a traditional design, a new object, and a meaning printed on the box",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดของปลอม",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read for the rest of it: neopagans making them, the Amish refusing them, and a state radiation office using one as a logo",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "apotropaic-word",
    "type": "term",
    "name": "apotropaic",
    "as": "the word the talismanic school uses and the decorative school will not",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "อะโพโทรเพอิก (กันภัย)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -407,21 +429,27 @@
    "type": "amulet",
    "name": "Bagua mirror",
    "as": "Pennsylvania's painted answer on the same part of a building, argued over in the same way",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กระจกปากั้ว (กระจกแปดทิศ)",
+   "as_th": ""
   },
   {
    "from": "witch-bottle",
    "type": "amulet",
    "name": "Witch bottle",
    "as": "the other charm in this atlas whose scholarship is an argument between archaeologists and decorators",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ขวดแม่มด",
+   "as_th": ""
   },
   {
    "from": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "the same idea painted at barn scale, and argued over as protective or decorative in the same county",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   }
  ]
 }

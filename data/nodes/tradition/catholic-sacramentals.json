@@ -8,7 +8,12 @@
   "script": "Latin",
   "lang": "la",
   "said": "sa-kra-men-TAH-lee-ah",
-  "aliases": ["sacramental", "devotional article", "blessed object"]
+  "aliases": [
+   "sacramental",
+   "devotional article",
+   "blessed object"
+  ],
+  "th": "สิ่งคล้ายศีลของคาทอลิก"
  },
  "etymology": {
   "root": "Latin sacramentalia, the plural of sacramentale, from sacramentum — the word used for the seven sacraments, which these objects and rites deliberately resemble without being.",
@@ -16,12 +21,39 @@
   "tier": "cited",
   "source": "s:wp-sacramental"
  },
- "region": ["world", "rome-italy", "western-europe", "iberia", "north-america"],
- "countries": ["VA", "IT", "FR", "GB", "PT", "US"],
- "facets": {"era": "medieval", "status": "living", "restricted": "open", "language": "la", "hemisphere": ["N", "S", "E", "W"]},
+ "region": [
+  "world",
+  "rome-italy",
+  "western-europe",
+  "iberia",
+  "north-america"
+ ],
+ "countries": [
+  "VA",
+  "IT",
+  "FR",
+  "GB",
+  "PT",
+  "US"
+ ],
+ "facets": {
+  "era": "medieval",
+  "status": "living",
+  "restricted": "open",
+  "language": "la",
+  "hemisphere": [
+   "N",
+   "S",
+   "E",
+   "W"
+  ]
+ },
  "text": {
   "what": "The class of blessed objects and rites the Catholic Church puts around the sacraments: holy water, blessed candles given out at Candlemas, blessed palms, blessed ashes, blessed salt, a crucifix, a cross necklace, a headcovering, holy cards, a scapular, a medal. The Catechism sorts sacramentals into three kinds — blessings, consecrations and dedications, and exorcisms. They are also recognised, in their own forms, by the Eastern Orthodox and Oriental Orthodox churches, the Church of the East, the Lutheran churches, the Old Catholic Church, the Anglican churches and Independent Catholic churches.",
   "story": "This is the one tradition in this atlas that has published a boundary against being in it, and the boundary is the record.\n\nThe Church's own definition: sacramentals are \"sacred signs which bear a resemblance to the sacraments: they signify effects, particularly of a spiritual nature, which are obtained through the Church's intercession.\" The machinery is deliberately different from the sacraments'. Sacramentals do not confer the grace of the Holy Spirit the way the sacraments do; by the Church's prayer they prepare a person to receive grace and dispose them to cooperate with it. Unlike the seven sacraments, which the Church holds were instituted by Christ, sacramentals were instituted by the Church, which can change their form and number; and they do not act ex opere operato, by the working of the work, but ex opere operantis, by the working of the one who does it. The Catechism puts the distinction in an example: the water of baptism causes the forgiveness of sins within the sacramental celebration, while holy water, which recalls baptism, has no effect in itself and depends on the faith of the person who crosses themselves with it at the church door.\n\nThat is the line. On the other side of it, in the same Catechism, comes the condemnation. Paragraph 2111 defines its terms — \"Superstition is the deviation of religious feeling and of the practices this feeling imposes\" — and says that attributing a magical importance to otherwise lawful practices, or crediting the efficacy of prayers to their external performance apart from the interior dispositions they require, falls under it. Paragraph 2117 is blunter: after condemning magic and sorcery as gravely contrary to the virtue of religion, it adds four words — \"Wearing charms is also reprehensible.\"\n\nAnd on the third side there is what people do. The Miraculous Medal was distributed by the Daughters of Charity during a cholera pandemic and passed a billion copies within fifty years. Saint Christopher medals are sold with the promise printed on them in French and Spanish. The Agnus Dei, a papal wax disc, was carried against storm, pestilence, fire, flood and the dangers of childbirth. The Brown Scapular carries a promise of salvation to those who wear it piously. The 2004 Enchiridion Indulgentiarum grants a partial indulgence to the faithful who use a crucifix or cross, a crown, a scapular, or a medal blessed by a priest — so the Church attaches a benefit to wearing the object, by its own procedure, in the same book of rules that says wearing charms is reprehensible.\n\nThe distinction the Church draws is between an object that disposes a wearer toward grace and an object worked to compel a result. This atlas prints that distinction, prints the condemnation, prints the promise, and prints what a driver with a medal on the dashboard says the medal is for. It does not rule on which of them is describing the same object."
+ },
+ "text_th": {
+  "what": "กลุ่มวัตถุที่ได้รับการเสกและพิธีกรรมที่พระศาสนจักรคาทอลิกจัดไว้รอบศีลศักดิ์สิทธิ์ ได้แก่ น้ำเสก เทียนเสกที่แจกในวันฉลองถวายพระกุมารเยซูในพระวิหาร ใบปาล์มเสก เถ้าเสก เกลือเสก ไม้กางเขนที่มีพระรูปพระเยซู สร้อยไม้กางเขน ผ้าคลุมศีรษะ ภาพนักบุญ ผ้าสกาปูลาร์ และเหรียญ หนังสือคำสอนพระศาสนจักรคาทอลิกแบ่งสิ่งคล้ายศีลเป็นสามประเภท คือ การอวยพร การเสกและการมอบถวาย และการขับไล่ปีศาจ สิ่งเหล่านี้ยังได้รับการยอมรับในรูปแบบของตนเองโดยคริสตจักรออร์โธดอกซ์ตะวันออก คริสตจักรออร์โธดอกซ์โอเรียนทัล คริสตจักรแห่งตะวันออก คริสตจักรลูเทอแรน คริสตจักรโอลด์คาทอลิก คริสตจักรแองกลิกัน และคริสตจักรคาทอลิกอิสระ"
  },
  "dating": {
   "period": "Early medieval to the present",
@@ -36,35 +68,129 @@
   "note": "820 is the earliest dated object in this record's sources: Herbert Thurston's date for the first mention of the Agnus Dei. Blessed objects in Christian use are far older — Gregory the Great sent Queen Theodelinda two phylacteria containing a relic of the True Cross — and the formal category of sacramentalia is later than both. This field dates the earliest object with a year on it, not the category."
  },
  "against": [
-  {"harm": "traffic", "who": "the description of ichthys emblems applied to vehicles: to signify that the owner is a Christian and to offer protection while driving", "source": "s:wp-sacramental", "tier": "cited"},
-  {"harm": "demons", "who": "the Catechism itself, which lists exorcisms as one of the three kinds of sacramental", "source": "s:wp-sacramental", "tier": "cited"},
-  {"harm": "curse", "who": "the Catechism of the Catholic Church, in the negative: paragraph 2117 condemns magic and sorcery and adds that wearing charms is also reprehensible", "quote": "Wearing charms is also reprehensible.", "source": "s:web-ccc-first-commandment", "tier": "cited", "note": "entered here because this atlas's `against` field records what a tradition says an object is for, and what this tradition says, in writing, is that a class of use is forbidden. The entry is the boundary, not a claim."}
+  {
+   "harm": "traffic",
+   "who": "the description of ichthys emblems applied to vehicles: to signify that the owner is a Christian and to offer protection while driving",
+   "source": "s:wp-sacramental",
+   "tier": "cited"
+  },
+  {
+   "harm": "demons",
+   "who": "the Catechism itself, which lists exorcisms as one of the three kinds of sacramental",
+   "source": "s:wp-sacramental",
+   "tier": "cited"
+  },
+  {
+   "harm": "curse",
+   "who": "the Catechism of the Catholic Church, in the negative: paragraph 2117 condemns magic and sorcery and adds that wearing charms is also reprehensible",
+   "quote": "Wearing charms is also reprehensible.",
+   "source": "s:web-ccc-first-commandment",
+   "tier": "cited",
+   "note": "entered here because this atlas's `against` field records what a tradition says an object is for, and what this tradition says, in writing, is that a class of use is forbidden. The entry is the boundary, not a claim."
+  }
  ],
  "kin": [
-  {"to": "agnus-dei", "as": "the oldest dated object in this tradition and the one whose claims read least like a sacramental and most like the thing the Catechism forbids", "rel": "part"},
-  {"to": "st-christopher-medal", "as": "the sacramental that travels, with its promise stamped on it in French and Spanish", "rel": "part"},
-  {"to": "miraculous-medal", "as": "the one with a documented origin, a named visionary, a goldsmith, a mint date and a billion copies", "rel": "part"},
-  {"to": "brown-scapular", "as": "the one that is worn as clothing, and the one whose promise is the largest", "rel": "part"},
-  {"to": "consecration", "as": "the act that makes an object a sacramental at all: the Church's blessing, by a priest or by a qualified lay person where the ordinary permits", "rel": "practice"},
-  {"to": "counting-beads", "as": "the rosary, which the Church files as a popular devotion rather than as a sacramental, and the beads, which it files as a devotional article", "rel": "practice"},
-  {"to": "blessing-at-a-shrine", "as": "where most of these objects are acquired and what is done to them there", "rel": "practice"},
-  {"to": "ex-voto-wall", "as": "the other half of the Catholic economy of objects: these are given to the wearer, those are given back to the shrine", "rel": "kin"},
-  {"to": "tama-votive", "as": "the Orthodox counterpart, which does the giving-back in stamped metal", "rel": "parallel"},
-  {"to": "ladanka", "as": "the Orthodox object worn at the neck beside the cross, blessed the same way and argued over in the same terms", "rel": "parallel"},
-  {"to": "latin-american-folk-catholic", "as": "what happens to these objects where the Church's line is drawn in one place and the household draws it in another", "rel": "descendant"},
-  {"to": "european-folk-apotropaic", "as": "the neighbouring tradition, which this one has spent a thousand years defining itself against and borrowing from", "rel": "contrast"},
-  {"to": "amulet-or-talisman", "as": "the long read about words, and the place where the Church's distinction between a sacramental and a charm gets set beside everyone else's", "rel": "story"},
-  {"to": "car-saint", "as": "where the argument lives now: a medal on a dashboard, and two accounts of what it is doing there", "rel": "descendant"}
+  {
+   "to": "agnus-dei",
+   "as": "the oldest dated object in this tradition and the one whose claims read least like a sacramental and most like the thing the Catechism forbids",
+   "rel": "part"
+  },
+  {
+   "to": "st-christopher-medal",
+   "as": "the sacramental that travels, with its promise stamped on it in French and Spanish",
+   "rel": "part"
+  },
+  {
+   "to": "miraculous-medal",
+   "as": "the one with a documented origin, a named visionary, a goldsmith, a mint date and a billion copies",
+   "rel": "part"
+  },
+  {
+   "to": "brown-scapular",
+   "as": "the one that is worn as clothing, and the one whose promise is the largest",
+   "rel": "part"
+  },
+  {
+   "to": "consecration",
+   "as": "the act that makes an object a sacramental at all: the Church's blessing, by a priest or by a qualified lay person where the ordinary permits",
+   "rel": "practice"
+  },
+  {
+   "to": "counting-beads",
+   "as": "the rosary, which the Church files as a popular devotion rather than as a sacramental, and the beads, which it files as a devotional article",
+   "rel": "practice"
+  },
+  {
+   "to": "blessing-at-a-shrine",
+   "as": "where most of these objects are acquired and what is done to them there",
+   "rel": "practice"
+  },
+  {
+   "to": "ex-voto-wall",
+   "as": "the other half of the Catholic economy of objects: these are given to the wearer, those are given back to the shrine",
+   "rel": "kin"
+  },
+  {
+   "to": "tama-votive",
+   "as": "the Orthodox counterpart, which does the giving-back in stamped metal",
+   "rel": "parallel"
+  },
+  {
+   "to": "ladanka",
+   "as": "the Orthodox object worn at the neck beside the cross, blessed the same way and argued over in the same terms",
+   "rel": "parallel"
+  },
+  {
+   "to": "latin-american-folk-catholic",
+   "as": "what happens to these objects where the Church's line is drawn in one place and the household draws it in another",
+   "rel": "descendant"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the neighbouring tradition, which this one has spent a thousand years defining itself against and borrowing from",
+   "rel": "contrast"
+  },
+  {
+   "to": "amulet-or-talisman",
+   "as": "the long read about words, and the place where the Church's distinction between a sacramental and a charm gets set beside everyone else's",
+   "rel": "story"
+  },
+  {
+   "to": "car-saint",
+   "as": "where the argument lives now: a medal on a dashboard, and two accounts of what it is doing there",
+   "rel": "descendant"
+  }
  ],
  "links": [
-  {"label": "Sacramental — Wikipedia", "url": "https://en.wikipedia.org/wiki/Sacramental"},
-  {"label": "Catechism of the Catholic Church, First Commandment — vatican.va", "url": "https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_one/article_1/iii_you_shall_have_no_other_gods_before_me.html"}
+  {
+   "label": "Sacramental — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sacramental"
+  },
+  {
+   "label": "Catechism of the Catholic Church, First Commandment — vatican.va",
+   "url": "https://www.vatican.va/content/catechism/en/part_three/section_two/chapter_one/article_1/iii_you_shall_have_no_other_gods_before_me.html"
+  }
  ],
- "sources": ["s:wp-sacramental", "s:web-ccc-first-commandment", "s:wp-devotional-medal", "s:web-cathen-agnus-dei", "s:wp-scapular", "s:wp-miraculous-medal", "s:wp-saint-christopher"],
+ "sources": [
+  "s:wp-sacramental",
+  "s:web-ccc-first-commandment",
+  "s:wp-devotional-medal",
+  "s:web-cathen-agnus-dei",
+  "s:wp-scapular",
+  "s:wp-miraculous-medal",
+  "s:wp-saint-christopher"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-sacramental"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-sacramental"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:web-ccc-first-commandment", "note": "both Catechism passages were read on vatican.va; the indulgence rule is cited from the scapular and medal articles"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-ccc-first-commandment",
+    "note": "both Catechism passages were read on vatican.va; the indulgence rule is cited from the scapular and medal articles"
+   }
   }
  },
  "images": [],

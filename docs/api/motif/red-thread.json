@@ -14,7 +14,8 @@
    "kautuka",
    "martenitsa thread",
    "mărțișor"
-  ]
+  ],
+  "th": "ด้ายแดง"
  },
  "region": [
   "levant",
@@ -47,6 +48,9 @@
  "text": {
   "what": "A length of red wool or silk tied round a wrist. In the Jewish folk custom it is thin scarlet wool worn as a bracelet or band. In Bulgaria and North Macedonia red is twisted with white into a martenitsa, usually as two small dolls, Pizho in white and Penda in red. In Romania and Moldova the same two threads make a mărțișor with a charm hung from them.",
   "story": "The thread's Jewish version is a folk custom, and the sources are careful about how thin its textual footing is. A scarlet thread tied about the wrist appears at Genesis 38, when Tamar gives birth to twins. As early as Rabbi Shmuel ben Hafni Gaon, commentators noted that a red string on the hand may be a good omen, and some say it could go round a finger; one early commentary, Aggadas Bereishis, says Joseph's coat was the same as his brothers' except that Jacob put a red string on the cuffs. But there is no written requirement in the Torah, in halacha or in Kabbalistic texts to tie a red string on a wrist, and it is not clear the mentions of red string as a good omen describe a widespread practice. The one public exhortation on record is from the 1490s: when Jews were barred from wearing tefillin, Rabbi Abraham Saba recommended wearing a red string on the hand instead, to remember the commandment.\n\nThe modern trade is documented. Elderly women sell scarlet thread to pilgrims and visitors in Israel, especially in the Old City of Jerusalem. Outside Israel it became popular in the late 1990s with celebrities, many of them not Jewish — Madonna and her children, Leonardo DiCaprio, Michael Jackson, Ariana Grande, Tucker Carlson, Jared Kushner — and the wider popularity is often linked to Philip Berg's Kabbalah Centre. Whether that is the same object as the thread a Jerusalem woman sells is an argument with named parties on both sides; the Kabbalah Centre's critics include the Kabbalist Michael Laitman, who holds that practical Kabbalah has no use for red strings.\n\nThe Balkan thread runs on a calendar instead. Martenitsi are given, never bought for oneself, from Baba Marta Day on 1 March, and worn pinned to clothing or at the wrist or neck until the wearer sees a stork or a swallow back from migration, or a tree in blossom — then taken off, and in some places tied to the branch of a fruit tree to give the tree health and luck. Red and white are read as a wish for good health; white for the purity of melting snow, red for the setting sun and for life. Both martenitsa and mărțișor are inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity.\n\n*Inference —* the red string is worn on wrists in Jewish, Hindu and Chinese practice, and the Jewish source itself says so without claiming a link between them. This atlas reports the three and does not draw a line between them, because nothing read here draws one."
+ },
+ "text_th": {
+  "what": "ขนสัตว์หรือไหมสีแดงยาวช่วงหนึ่ง ผูกรอบข้อมือ ในธรรมเนียมพื้นบ้านของชาวยิว เป็นด้ายขนสัตว์สีแดงสดเส้นบาง สวมเป็นสร้อยข้อมือหรือแถบรัด ในบัลแกเรียและมาซิโดเนียเหนือ ด้ายแดงบิดรวมกับด้ายขาวเป็นมาร์เตนิตซา ส่วนใหญ่ทำเป็นตุ๊กตาเล็กสองตัว ปิโฌสีขาวและเปนดาสีแดง ในโรมาเนียและมอลโดวา ด้ายสองสีเดียวกันนี้ทำเป็นมาร์ทซิชอร์ (mărțișor) โดยห้อยเครื่องรางไว้"
  },
  "kin": [
   {
@@ -263,63 +267,81 @@
    "type": "amulet",
    "name": "Red string",
    "as": "the amulet itself — the scarlet wool on a wrist",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "to": "martenitsa",
    "type": "amulet",
    "name": "Martenitsa",
    "as": "the Balkan version, with a date to put it on and a bird that says take it off",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "มาร์เตนิตซา",
+   "as_th": ""
   },
   {
    "to": "knot",
    "type": "motif",
    "name": "The knot",
    "as": "the wider family: a charm whose working part is that somebody tied it",
-   "rel": "whole"
+   "rel": "whole",
+   "name_th": "ปม",
+   "as_th": ""
   },
   {
    "to": "thread",
    "type": "material",
    "name": "Thread and cord",
    "as": "the material, and the reason almost none of these survive in a museum drawer",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ด้ายและเชือก",
+   "as_th": ""
   },
   {
    "to": "tefillin",
    "type": "amulet",
    "name": "Tefillin",
    "as": "the commandment Rabbi Abraham Saba proposed the string as a reminder of, in the 1490s",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "เทฟิลลิน",
+   "as_th": ""
   },
   {
    "to": "jewish-practical-kabbalah",
    "type": "tradition",
    "name": "Practical Kabbalah",
    "as": "the tradition the string is popularly attached to, and which several Kabbalists say has no use for it",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "คับบาลาห์ภาคปฏิบัติ",
+   "as_th": ""
   },
   {
    "to": "unesco-ich",
    "type": "org",
    "name": "UNESCO Intangible Cultural Heritage",
    "as": "the body whose Representative List carries the martenitsa and the mărțișor",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "มรดกทางวัฒนธรรมที่จับต้องไม่ได้ของยูเนสโก",
+   "as_th": ""
   },
   {
    "to": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "the practice the Balkan thread runs on: a start date, a sign, an end",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   },
   {
    "to": "evil-eye-bracelet",
    "type": "amulet",
    "name": "Evil eye bracelet",
    "as": "the other thing sold off a tray in Jerusalem and Istanbul for the same stated harm",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สร้อยข้อมือนาซาร์ (ลูกปัดตากันตาร้าย)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -539,42 +561,54 @@
    "type": "amulet",
    "name": "Martenitsa",
    "as": "the sign, and the reason this record and a Jerusalem wrist bracelet are filed together",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "มาร์เตนิตซา",
+   "as_th": ""
   },
   {
    "from": "red-string",
    "type": "amulet",
    "name": "Red string",
    "as": "the sign, and the one that runs from the Mediterranean to Mongolia without needing a text",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "from": "rowan-cross",
    "type": "amulet",
    "name": "Rowan cross",
    "as": "the second half of the charm and the half that does the binding — wood alone is not the object",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "กางเขนไม้โรวัน",
+   "as_th": ""
   },
   {
    "from": "knot",
    "type": "motif",
    "name": "The knot",
    "as": "the knot reduced to one strand and one wrist",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ปม",
+   "as_th": ""
   },
   {
    "from": "thread",
    "type": "material",
    "name": "Thread and cord",
    "as": "the sign this material is, wherever it is worn",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ด้ายและเชือก",
+   "as_th": ""
   },
   {
    "from": "knotting",
    "type": "practice",
    "name": "Knotting",
    "as": "the colour that runs with the knot from the Mediterranean to Mongolia",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "การผูกปม",
+   "as_th": ""
   }
  ]
 }

@@ -11,7 +11,8 @@
   "aliases": [
    "bulla aurea",
    "Roman boy's locket"
-  ]
+  ],
+  "th": "บุลลา (ล็อกเกตของเด็กชายโรมัน)"
  },
  "region": [
   "rome-italy"
@@ -32,6 +33,9 @@
  "text": {
   "what": "A locket on a neckchain: a round hollow pouch with something shut inside it, usually a phallus. What it was made of tracked the family's money — gold or gold foil at the top, lead, leather or cloth further down. It was given to a freeborn Roman boy nine days after he was born and he wore it until he stopped being a boy.",
   "story": "The bulla has an end date built into it. Before a young man put on the toga virilis, the toga of manhood, he handed his boyhood bulla to the household's Lares, the family's own gods, and it stayed with them. The girls' version, the lunula, came off on the eve of a wedding, together with her childhood toys.\n\nWho could wear one was not open. The bulla marks a freeborn Roman boy and a Roman citizen in the making; the object and the status are the same statement. Some modern readers take a single line in Macrobius about an amulet worn by a general in his triumph as evidence that the childhood bulla was also standard triumphal regalia. The cited account reports that reading without endorsing it, and so does this record.\n\n*Tradition holds —* the amulet inside was usually a phallus, a shape the cited account calls a bringer of good luck in antiquity. The container is the interesting part. The protection is real enough to be worth wearing and private enough to be shut in a case: nobody is meant to see what is working.\n\nIreland has bullae too, and they are not these. A small number of Late Bronze Age objects, roughly 1150 to 750 BCE, are called bullae because they look like the Roman ones — base metal or clay under a folded-over sheet of gold foil, incised with geometry, hung round the neck by a cord through a hole below the flat top. Whether they were ornament, amulet or something else is unclear, and that is why Ireland does not appear in this record's country list."
+ },
+ "text_th": {
+  "what": "ล็อกเกตห้อยสร้อยคอ: กระเปาะกลมกลวงที่ปิดของบางอย่างไว้ข้างใน ซึ่งมักเป็นรูปองคชาต วัสดุที่ใช้ทำขึ้นอยู่กับฐานะของครอบครัว — ทองคำหรือแผ่นทองบางสำหรับชั้นบนสุด ส่วนชั้นที่รองลงมาใช้ตะกั่ว หนัง หรือผ้า เด็กชายชาวโรมันที่เกิดเป็นไทจะได้รับบุลลาเมื่อเกิดได้เก้าวัน และสวมไว้จนกว่าจะพ้นวัยเด็ก"
  },
  "dating": {
   "period": "Roman",
@@ -180,49 +184,63 @@
    "type": "amulet",
    "name": "Lunula",
    "as": "the girls' counterpart, worn until the eve of the wedding instead of until the toga virilis",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ลูนูลา (จี้พระจันทร์เสี้ยวโรมัน)",
+   "as_th": ""
   },
   {
    "to": "fascinum",
    "type": "amulet",
    "name": "Fascinum",
    "as": "what was usually inside it — this record is the box, that one is the charm",
-   "rel": "part"
+   "rel": "part",
+   "name_th": "ฟัสซินุม (เครื่องรางรูปองคชาตโรมัน)",
+   "as_th": ""
   },
   {
    "to": "greco-roman-apotropaic",
    "type": "tradition",
    "name": "Greek and Roman protective magic",
    "as": "the tradition, and its clearest case of an amulet that marks legal status as much as it guards",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน",
+   "as_th": ""
   },
   {
    "to": "wearing-hidden",
    "type": "practice",
    "name": "Wearing hidden",
    "as": "the practice this object is built around: the working part is shut in a case and never seen",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การสวมเครื่องรางแบบซ่อน",
+   "as_th": ""
   },
   {
    "to": "gold",
    "type": "material",
    "name": "Gold",
    "as": "the material at the top of the range; lead, leather and cloth did the same job for families who could not buy gold",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ทองคำ",
+   "as_th": ""
   },
   {
    "to": "most-of-them-are-for-children",
    "type": "story",
    "name": "Most of them are for children",
    "as": "the long read; a Roman boy got his on day nine and gave it up at manhood",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ส่วนใหญ่ทำเพื่อเด็ก",
+   "as_th": ""
   },
   {
    "to": "azabache",
    "type": "amulet",
    "name": "Azabache",
    "as": "the same idea in Spanish and Latin American hands — a charm put on an infant at once, against the same look",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "อาซาบาเช (เครื่องรางหินเจ็ต)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -369,63 +387,81 @@
    "type": "amulet",
    "name": "Fascinum",
    "as": "the locket a Roman boy wore, with one of these usually inside it",
-   "rel": "whole"
+   "rel": "whole",
+   "name_th": "ฟัสซินุม (เครื่องรางรูปองคชาตโรมัน)",
+   "as_th": ""
   },
   {
    "from": "lunula",
    "type": "amulet",
    "name": "Lunula",
    "as": "the boys' counterpart, and the object Isidore defines this one against",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ลูนูลา (จี้พระจันทร์เสี้ยวโรมัน)",
+   "as_th": ""
   },
   {
    "from": "greco-roman-apotropaic",
    "type": "tradition",
    "name": "Greek and Roman protective magic",
    "as": "what a Roman boy wore, from day nine to the toga virilis",
-   "rel": "part"
+   "rel": "part",
+   "name_th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน",
+   "as_th": ""
   },
   {
    "from": "crescent",
    "type": "motif",
    "name": "The crescent",
    "as": "the boy's locket, given at birth where the girl got this; the pair is the clearest gendered split in Roman charms",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "พระจันทร์เสี้ยว",
+   "as_th": ""
   },
   {
    "from": "phallic-sign",
    "type": "motif",
    "name": "The phallus",
    "as": "the locket a Roman boy wore, which is where a phallus was often put",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สัญลักษณ์รูปลึงค์",
+   "as_th": "ตลับที่เด็กชายชาวโรมันสวม ซึ่งมักเป็นที่ใส่ลึงค์"
   },
   {
    "from": "gold",
    "type": "material",
    "name": "Gold",
    "as": "gold for the families that could pay for gold, lead and leather for the rest — the same charm, sorted by price",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ทองคำ",
+   "as_th": ""
   },
   {
    "from": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "the counter-case: a Roman boy's charm went to the household gods at manhood, not into the ground",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "from": "inheriting",
    "type": "practice",
    "name": "Inheriting",
    "as": "the counter-case: handed to the household gods at manhood rather than to an heir",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "การสืบทอดเครื่องราง",
+   "as_th": ""
   },
   {
    "from": "most-of-them-are-for-children",
    "type": "story",
    "name": "Most of them are for children",
    "as": "the Roman case with a date on it — put on a boy nine days after birth, and taken off at manhood",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ส่วนใหญ่ทำเพื่อเด็ก",
+   "as_th": ""
   }
  ]
 }

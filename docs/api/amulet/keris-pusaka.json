@@ -16,7 +16,8 @@
    "tosan aji",
    "karih",
    "sele"
-  ]
+  ],
+  "th": "กริชปูซากา (กริชมรดก)"
  },
  "etymology": {
   "root": "Old Javanese kris, 'dagger'; keris ꦏꦼꦫꦶꦱ꧀ in the Javanese ngoko register, dhuwung in krama, wangkingan in krama inggil. Pusaka is a sanctified heirloom",
@@ -49,6 +50,9 @@
   "story": "The kris is a weapon that is also a member of the family. Javanese calls a heirloom blade tosan aji, sacred heirloom weapon, and counts it a pusaka. Blades are handed down through generations and worn at weddings and other ceremonies. A kris given by a Javanese king to a noble or a subject carried the king's confidence with it and was a great honour; the property the blade confers is piyandel, which means to add self-confidence. A Javanese groom wears one with a chain of jasmine wound round it, and the flowers say he should not be quick to anger.\n\nThe smith is the point. Making a kris was the work of an empu — 'possessor' — the honorary title in Java for an ironsmith with the skill to forge one, as against a pandai besi who makes tools and peasants' weapons. A kris empu was held to need knowledge, technical skill and spiritual prowess together, because the blade has a physical and a spiritual presence. The metal is layered from different iron ores and meteorite nickel, folded dozens or hundreds of times on a high-quality blade. Some take a short time; some take years. Empu are described as craftsmen who also know literature, history and the occult.\n\nThe blade is treated as alive and, more to the point, as not necessarily friendly. Kris are held to be vessels for spirits, good or bad. A blade can be tested: cuts on a leaf, read against the blade's width, say whether it is a good one; or the owner sleeps with it under the pillow and reads the dream — a bad dream and the blade has to go, a good one and it stays. A blade bad for one person is not bad for another, and the fit between weapon and owner is what matters. Types carry their own claims: Beras Wutah was held to grant its possessor a life without famine, and was given mainly to officials paid in foodstuffs. Pointing a kris at someone means they will die soon, so silat practitioners touch the blade tips to the ground before a demonstration.\n\nThe legends have names and centuries. The Pararaton tells of Mpu Gandring, the smith killed by his impatient customer Ken Arok in the last days of Kediri in the thirteenth century, who cursed the unfinished blade to kill seven men, Ken Arok among them. The Sejarah Melayu of Tun Sri Lanang tells of Taming Sari, made by a Javanese empu, won in a duel by the Melakan admiral Hang Tuah in the fifteenth century, and so well made that whoever held it could not be beaten. Setan Kober, 'devil of the grave', forged with thirteen luk by Empu Bayu Aji and disturbed at its charging by a crying djinn from the graveyard, made its wielders overly ambitious and impatient and finally killed Arya Penangsang in the sixteenth century.\n\nColonial law disarmed it. Firearms came into the archipelago in the sixteenth century; the forging of edged weapons fell away as sultans and rajas were subjugated, and in some regions carrying cutting and stabbing weapons was banned. The turning point in Java was 1830, when Prince Diponegoro, defeated at the end of the five-year Java War, handed his kris to the Dutch. The early twentieth century brought a ban on carrying edged weapons in the Dutch East Indies. The ceremonial and protective use continued anyway, in the kraton and istana of Indonesia, Malaysia and the Muslim-inhabited southern Philippines.\n\nIt is a live object still, with the danger that implies. In the Balinese Barong dance the segment called the keris dance has male dancers in trance stabbing themselves in the chest with their own blades and coming away unhurt. In February 2021 a 16-year-old kris dancer was stabbed to death in the heart by his own kris during a Rangda dance in Denpasar.",
   "how": "Forged by an empu from layers of different iron ores and meteorite nickel, folded and folded again, the pamor raised by the contrast between the laminations. The smiths carried out old rites that were held to put power into the blade; this project's sources do not print them, and nor does this record. A kris needs a yearly cleaning, called jamasan in Javanese, which is part of what is owed to it — the repeated cleanings leave old blades worn and thin. Repairs used whatever was to hand locally, so a blade from Java can end up with a hilt from Bali and a sheath from Madura. Warriors made offerings to their kris at a shrine.",
   "today": "In 2005 UNESCO put the Indonesian kris on the Representative List of the Intangible Cultural Heritage of Humanity. Making it had nearly stopped by the 1990s, under economic pressure and changing values; concerned specialists pushed a revival and craftsmanship picked up. Smiths still work in Madura, Surakarta, Yogyakarta, Makassar and Palembang, but their numbers are falling sharply and successors are hard to find. The craft survives in villages such as Banyu Sumurup in Imogiri, Bantul, near Yogyakarta, where a blade is made either as a sacred amulet ordered by an enthusiast who wants its spiritual power, or as a souvenir for a visitor — the same workshop, two customers, and the argument about whether those are the same object sits inside the trade rather than outside it."
+ },
+ "text_th": {
+  "what": "กริชไม่สมมาตร มีสามส่วน: ใบกริช (บีละฮ์ – bilah) ด้าม (ฮูลู – hulu) และฝัก (วารังกา – warangka) ใบกริชตีจากเหล็กกับเหล็กผสมนิกเกิลซ้อนสลับชั้นกัน ความต่างของเนื้อโลหะทั้งสองปรากฏเด่นบนผิวที่ขัดเสร็จเป็นลวดลาย เรียกว่า ปาโมร์ (pamor) ใบกริชจำนวนมากคดเป็นคลื่น — คลื่นเหล่านั้นเรียกว่า ลุก (luk) — และอีกจำนวนมากเป็นใบตรง ทุกส่วนผ่านการประดิษฐ์: ไม้แกะสลัก งาช้าง ทองเหลือง เหล็ก เงิน หรือทองคำ ฝังอัญมณี ใบกริชหนึ่งเล่มอธิบายด้วย ดาปูร์ (dhapur) คือรูปทรง ซึ่งมีราว 60 แบบ; ด้วยปาโมร์ ซึ่งมีราว 250 แบบ; และด้วย ตังกูห์ (tangguh) คืออายุและแหล่งที่มา เหน็บไว้ที่เข็มขัดด้านหลัง"
  },
  "dating": {
   "period": "Kediri and Singhasari to the present",
@@ -240,77 +244,99 @@
    "type": "amulet",
    "name": "Jimat",
    "as": "the Malay and Indonesian class of protective objects this belongs to, and outranks: a kris is a jimat with a smith's name on it",
-   "rel": "whole"
+   "rel": "whole",
+   "name_th": "จิมัต (เครื่องรางมลายู)",
+   "as_th": ""
   },
   {
    "to": "iron",
    "type": "material",
    "name": "Iron",
    "as": "the material argument in full — laminations of iron and nickelous iron, folded to raise the pamor, and the reason a blade is read like a face",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เหล็ก",
+   "as_th": ""
   },
   {
    "to": "inheriting",
    "type": "practice",
    "name": "Inheriting",
    "as": "what makes it a pusaka: handed down through generations, worn at weddings, given by a king to mark his confidence",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การสืบทอดเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "feeding-the-charm",
    "type": "practice",
    "name": "Feeding the charm",
    "as": "jamasan, the yearly cleaning the blade is owed, which wears old blades thin",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเลี้ยงเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "unesco-ich",
    "type": "org",
    "name": "UNESCO Intangible Cultural Heritage",
    "as": "the body that inscribed the Indonesian kris in 2005",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "มรดกทางวัฒนธรรมที่จับต้องไม่ได้ของยูเนสโก",
+   "as_th": ""
   },
   {
    "to": "anting-anting",
    "type": "amulet",
    "name": "Anting-anting",
    "as": "the Philippine charm carried in the same fights; kris forging continued in the Spanish East Indies while Java's was being banned",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "อันติง-อันติง (เครื่องรางฟิลิปปินส์)",
+   "as_th": ""
   },
   {
    "to": "hei-tiki",
    "type": "amulet",
    "name": "Hei-tiki",
    "as": "the other heirloom in this atlas treated as a person rather than a possession, and handed down the same way",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เฮย์ติกิ (จี้หยกเมารี)",
+   "as_th": ""
   },
   {
    "to": "phra-khrueang",
    "type": "amulet",
    "name": "Phra khrueang",
    "as": "the Thai parallel in how worth is set: maker, lineage and age decide the price, not the metal",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "พระเครื่อง",
+   "as_th": ""
   },
   {
    "to": "mjolnir-pendant",
    "type": "amulet",
    "name": "Mjölnir pendant",
    "as": "the other weapon worn as a charm in this atlas, though that one is a hammer in miniature and this one is a working blade",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "จี้มโยลเนียร์ (ค้อนธอร์)",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read the Banyu Sumurup workshop belongs in: one bench, one blade for an enthusiast's shrine and one for a visitor's shelf",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "serpent",
    "type": "motif",
    "name": "The serpent",
    "as": "the sign read into the wavy blade, whose luk are counted and named",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "งู",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -519,49 +545,63 @@
    "type": "amulet",
    "name": "Anting-anting",
    "as": "the other charm of the islands carried into a fight, and still forged in the Muslim-inhabited south of the Philippines",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "อันติง-อันติง (เครื่องรางฟิลิปปินส์)",
+   "as_th": ""
   },
   {
    "from": "jimat",
    "type": "amulet",
    "name": "Jimat",
    "as": "the heirloom blade of the same islands, which is a jimat with a name, a smith and a lineage attached",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "จิมัต (เครื่องรางมลายู)",
+   "as_th": ""
   },
   {
    "from": "phra-khrueang",
    "type": "amulet",
    "name": "Phra khrueang",
    "as": "the Indonesian parallel — an object whose worth sits in its maker, its lineage and its age rather than in its material",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "พระเครื่อง",
+   "as_th": "คู่เทียบจากอินโดนีเซีย — วัตถุที่คุณค่าอยู่ที่ผู้สร้าง สายสืบทอด และอายุ มากกว่าเนื้อวัสดุ"
   },
   {
    "from": "iron",
    "type": "material",
    "name": "Iron",
    "as": "the Javanese blade whose pamor pattern is worked from meteorite iron",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เหล็ก",
+   "as_th": ""
   },
   {
    "from": "feeding-the-charm",
    "type": "practice",
    "name": "Feeding the charm",
    "as": "the blade warriors made offerings to at a shrine, and still wash once a year",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การเลี้ยงเครื่องราง",
+   "as_th": ""
   },
   {
    "from": "inheriting",
    "type": "practice",
    "name": "Inheriting",
    "as": "the inherited object with its own legal word — tosan aji, pusaka, and a blade that comes with a yearly duty",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การสืบทอดเครื่องราง",
+   "as_th": ""
   },
   {
    "from": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "the blade that is cleaned annually rather than replaced, and worn thin by the cleaning",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   }
  ]
 }

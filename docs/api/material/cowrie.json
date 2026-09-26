@@ -12,7 +12,8 @@
    "buzios",
    "miigis",
    "money cowrie"
-  ]
+  ],
+  "th": "หอยเบี้ย"
  },
  "etymology": {
   "root": "Hindi kaudi, from Sanskrit kaparda",
@@ -53,6 +54,9 @@
   "what": "The shell of a sea snail of the family Cypraeidae: egg-shaped, glossy as glazed porcelain, with a long toothed slit down the flat underside. Species run from 5 mm to 19 cm. The shells used as money and as charms come mostly from the Indian Ocean — collected around the Maldives, Sri Lanka, the Malabar coast, Borneo, Maluku, Papua New Guinea, and along the African coast from Ras Hafun in Somalia to Mozambique.",
   "story": "No other amulet material in this atlas was also the currency. Cowries were the most widely used shell money in the world. The Chinese character for money, 貝, began as a stylised drawing of a Maldivian cowrie, and words for money, property and wealth take it as their radical; shells or copies of them circulated in China from more than three thousand years ago. After the 1500s the shell's monetary use widened sharply: European traders, chiefly through the slave trade, moved enormous numbers of Maldivian cowries into Africa. Between 1500 and 1875 at least 30 billion cowries were imported into the Bight of Benin, accounting for 44% of the total value of trade; the shell money literature puts profits on the traffic as high as 500%, and the resulting inflation damaged local economies. In parts of British West Africa cowries were accepted for tax until the early twentieth century, and Ghana named its currency, the cedi, after them in 1965.\n\nThe ritual record is just as wide. Cowries are used in divination among the Yoruba, and in Brazil, carried there by the Atlantic slave trade, buzios are thrown to consult the Orixas. The Kaniyar Panicker astrologers of Kerala used them for divination. In West Bengal a cowrie is given as the token fare for the departed soul's ferry across the Vaitarani, and shells are used at cremations and in the worship of Lakshmi. The Ojibwe use cowrie shells, miigis or whiteshells, in Midewiwin ceremonies, and Whiteshell Provincial Park in Manitoba is named for them; how shells from that far away came to be that far inland is an open question, with oral accounts and birch bark scrolls describing them as found in the ground or washed up on lakeshores. This atlas prints what the published accounts say about Midewiwin and stops there.\n\nIn parts of Africa cowries were prized charms and were said to be associated with fecundity, sexual pleasure and good luck; in Mende and Kikuyu usage the shell stands for womanhood, fertility, birth and wealth. One modern ethnographic writer reads the underside as a vulva or an eye. On Fiji a drilled golden cowrie was worn on a string at the neck by chiefs as a badge of rank.\n\nThe shell is also old in graves. In predynastic Egypt and the Neolithic southern Levant, cowries were placed in the burials of young girls, modified and arranged around the skull; by the Bronze Age they are commoner as funerary goods, with women and children. Egypt then made the cowroid — a seal amulet imitating the shell — and copies in stone and faience appear from the early second millennium BCE.",
   "today": "Still strung, still sold, still thrown for divination on three continents. The cowrie is also the material in this atlas with the heaviest history attached to its supply: the same shell that a West African household kept as a charm arrived, in the millions, on ships in the trade in people."
+ },
+ "text_th": {
+  "what": "เปลือกของหอยทะเลในวงศ์ไซเปรียดี (Cypraeidae) ทรงไข่ มันวาวเหมือนกระเบื้องเคลือบ ด้านล่างที่แบนมีร่องยาวเป็นซี่ฟัน ขนาดตั้งแต่ 5 มม. ถึง 19 ซม. แล้วแต่ชนิด เปลือกที่ใช้เป็นเงินและเป็นเครื่องรางส่วนใหญ่มาจากมหาสมุทรอินเดีย เก็บได้รอบมัลดีฟส์ ศรีลังกา ชายฝั่งมลาบาร์ บอร์เนียว หมู่เกาะมาลูกู ปาปัวนิวกินี และตามชายฝั่งแอฟริกาตั้งแต่ราสฮาฟุนในโซมาเลียถึงโมซัมบิก"
  },
  "dating": {
   "period": "Predynastic Egypt to the present",
@@ -249,56 +253,72 @@
    "type": "amulet",
    "name": "Cowrie strand",
    "as": "the strung form of this shell, and the amulet most of the world means when it says cowrie",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "สายเปลือกหอยเบี้ย",
+   "as_th": ""
   },
   {
    "to": "scarab",
    "type": "amulet",
    "name": "Scarab",
    "as": "the cowroid is the Egyptian seal amulet that copies this shell, cut the way a scarab is cut",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สคารับ (ด้วงศักดิ์สิทธิ์อียิปต์)",
+   "as_th": ""
   },
   {
    "to": "faience",
    "type": "material",
    "name": "Faience",
    "as": "the paste Egypt used to counterfeit the shell once the shell itself was scarce",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เฟยองซ์ (ควอตซ์เคลือบอียิปต์)",
+   "as_th": ""
   },
   {
    "to": "west-african-charm-craft",
    "type": "tradition",
    "name": "West African charm craft",
    "as": "the tradition where this shell is charm, currency and divining instrument at once",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางแอฟริกาตะวันตก",
+   "as_th": ""
   },
   {
    "to": "akodessewa-market",
    "type": "place",
    "name": "Akodessawa fetish market",
    "as": "a West African market where shells and animal parts are sold for exactly these uses",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตลาดเครื่องรางอาโกเดสซาวา",
+   "as_th": ""
   },
   {
    "to": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "the practice that puts cowries around a girl's skull, and the reason we have any from 4000 BCE",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "to": "gris-gris",
    "type": "amulet",
    "name": "Gris-gris",
    "as": "the West African charm packet whose contents and whose route out of Africa run alongside this shell's",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กรีกรี (ถุงเครื่องรางแอฟริกาตะวันตก)",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read for a material whose supply history is the Atlantic slave trade",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -456,28 +476,36 @@
    "type": "amulet",
    "name": "Cowrie strand",
    "as": "the material this object is — and the only material in the atlas that was legal tender for tax in living memory",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "สายเปลือกหอยเบี้ย",
+   "as_th": ""
   },
   {
    "from": "patua",
    "type": "amulet",
    "name": "Patuá",
    "as": "the shell set into it, which is a divination instrument before it is an ornament",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ปาตูอา (ถุงเครื่องรางบราซิล)",
+   "as_th": ""
   },
   {
    "from": "seed",
    "type": "material",
    "name": "Seed and nut",
    "as": "the other small hard object strung by the hundred, where the shell does what the stone does",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เมล็ดพืชและลูกเปลือกแข็ง",
+   "as_th": ""
   },
   {
    "from": "walter-hildburgh",
    "type": "person",
    "name": "Walter Leo Hildburgh",
    "as": "one of the classes he published on, treating the shell as an amulet rather than as currency",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "วอลเตอร์ ลีโอ ฮิลด์เบิร์ก",
+   "as_th": ""
   }
  ]
 }

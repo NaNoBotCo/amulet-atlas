@@ -4,31 +4,86 @@
  "type": "art",
  "names": {
   "name": "The drawn signs",
-  "aliases": ["the glyphs", "the atlas glyphs", "viz.py glyphs"]
+  "aliases": [
+   "the glyphs",
+   "the atlas glyphs",
+   "viz.py glyphs"
+  ],
+  "th": "ภาพสัญลักษณ์ลายเส้น"
  },
- "region": ["world"],
+ "region": [
+  "world"
+ ],
  "countries": [],
- "facets": {"kind": "diagram", "era": "modern"},
+ "facets": {
+  "kind": "diagram",
+  "era": "modern"
+ },
  "text": {
   "what": "Twenty-six line drawings, one per sign in this atlas: an eye, a hand, an open palm, a horn, a knot, a serpent, a scarab, a fish, a tooth and claw, a crescent, a cross, a coin with a square hole, a mirror, a red thread, a swastika, a magic square, a palindrome block, a divine name, a footprint, a key, a bell, a spiral, a tree, a lion, a phallic sign and a fist. Each is drawn inside a 48-by-48 box, in a single stroke weight of 2.1 with round caps and joins, in whatever colour the surrounding text is. They are SVG written into the page rather than images fetched into it.",
   "story": "They are drawn for this project. The file that holds them says so in its own header: the glyphs are drawn from published descriptions of the signs, not traced from any one object, and they go out under the project's own licence, which is Creative Commons Attribution 4.0 International.\n\n*Inference —* that sentence carries the whole argument. A photograph of a wedjat eye is a photograph of one wedjat eye, from one dynasty, in one material, in one museum's lighting. The sign is the class. When the atlas needs to say \"this amulet carries the eye\", a drawing of the class says it and a photograph of a specimen quietly says something narrower and slightly wrong. So the photographs go on the amulet records, where a specific object is the point, and the drawings go on the sign records, where it is not.\n\nThere is a second reason and it is not aesthetic. An SVG that is text in the page is an SVG a reader can select, a screen reader can walk and a slow connection still gets — the same file states that too. A drawn sign costs a few hundred bytes. A photograph costs a hundred times that and still needs a licence, an author, a page URL and a hash beside it.\n\nOne of the twenty-six is the swastika, and the atlas draws it for the same reason it draws the others: it is one of the oldest and most widespread signs in this material, and a global index of signs that skipped it would be lying by omission. The record that explains what the drawing does and does not mean is /story/the-swastika-problem, and the glyph links to it.",
   "today": "Reusable. Under CC BY 4.0 anyone may copy, modify and republish them, commercially included, with credit to this project. The same file also draws the world maps — Equal Earth, from Natural Earth outlines — and the timeline axis, so the signs and the maps share one visual grammar and one colour set, built around the blue-green of faience."
  },
+ "text_th": {
+  "what": "ภาพลายเส้นยี่สิบหกภาพ หนึ่งภาพต่อหนึ่งสัญลักษณ์ในแอตลาสนี้ ได้แก่ ตา มือ ฝ่ามือแบ เขาสัตว์ ปม งู แมลงสคารับ ปลา เขี้ยวและกรงเล็บ พระจันทร์เสี้ยว กางเขน เหรียญรูสี่เหลี่ยม กระจก ด้ายแดง สวัสติกะ ตารางมหัศจรรย์ บล็อกคำพาลินโดรม พระนามศักดิ์สิทธิ์ รอยเท้า กุญแจ ระฆัง เกลียวก้นหอย ต้นไม้ สิงโต สัญลักษณ์ลึงค์ และกำปั้น แต่ละภาพวาดอยู่ในกรอบขนาด 48 x 48 ด้วยเส้นหนา 2.1 เท่ากันทั้งหมด ปลายเส้นและรอยต่อมน และใช้สีเดียวกับตัวอักษรรอบข้าง ภาพเหล่านี้เป็น SVG ที่เขียนลงในหน้าเว็บโดยตรง ไม่ใช่ไฟล์รูปภาพที่ดึงเข้ามา"
+ },
  "kin": [
-  {"to": "eye", "as": "the first glyph in the set, and the one the whole drawing style was settled on", "rel": "motif"},
-  {"to": "hand", "as": "drawn twice here — as a hamsa-style hand and as an open palm, because the two are used differently", "rel": "motif"},
-  {"to": "horn", "as": "drawn as the twisted cornicello and not as a curled sheep's horn, on the published description", "rel": "motif"},
-  {"to": "swastika-sign", "as": "the glyph that needs a page of explanation beside it, and has one", "rel": "motif"},
-  {"to": "the-swastika-problem", "as": "the long read that sits behind one of these twenty-six drawings", "rel": "story"},
-  {"to": "free-to-use", "as": "the licence record: what you may do with these drawings, in full", "rel": "story"},
-  {"to": "petrie-amulet-plates", "as": "the 1914 ancestor of the same idea — a picture made to show a class rather than a specimen", "rel": "origin"}
+  {
+   "to": "eye",
+   "as": "the first glyph in the set, and the one the whole drawing style was settled on",
+   "rel": "motif"
+  },
+  {
+   "to": "hand",
+   "as": "drawn twice here — as a hamsa-style hand and as an open palm, because the two are used differently",
+   "rel": "motif"
+  },
+  {
+   "to": "horn",
+   "as": "drawn as the twisted cornicello and not as a curled sheep's horn, on the published description",
+   "rel": "motif"
+  },
+  {
+   "to": "swastika-sign",
+   "as": "the glyph that needs a page of explanation beside it, and has one",
+   "rel": "motif"
+  },
+  {
+   "to": "the-swastika-problem",
+   "as": "the long read that sits behind one of these twenty-six drawings",
+   "rel": "story"
+  },
+  {
+   "to": "free-to-use",
+   "as": "the licence record: what you may do with these drawings, in full",
+   "rel": "story"
+  },
+  {
+   "to": "petrie-amulet-plates",
+   "as": "the 1914 ancestor of the same idea — a picture made to show a class rather than a specimen",
+   "rel": "origin"
+  }
  ],
- "sources": ["s:repo-atlas-viz", "s:repo-atlas-license", "s:web-natural-earth-terms"],
+ "sources": [
+  "s:repo-atlas-viz",
+  "s:repo-atlas-license",
+  "s:web-natural-earth-terms"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:repo-atlas-viz"},
+  "default": {
+   "tier": "cited",
+   "source": "s:repo-atlas-viz"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:repo-atlas-viz", "note": "the second and third paragraphs are this project's own reasoning and the first of them is labelled inline"},
-   "text.today": {"tier": "cited", "source": "s:repo-atlas-license"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:repo-atlas-viz",
+    "note": "the second and third paragraphs are this project's own reasoning and the first of them is labelled inline"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:repo-atlas-license"
+   }
   }
  },
  "images": [],

@@ -15,7 +15,8 @@
    "máti",
    "cheshm nazar",
    "nazar qurbani"
-  ]
+  ],
+  "th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)"
  },
  "etymology": {
   "root": "Arabic naẓar, 'sight' or 'looking' — the same word for the look that does the harm and for the bead that answers it; Turkish nazar boncuğu adds boncuk, Turkic for 'bead'",
@@ -57,6 +58,9 @@
   "what": "A handmade glass bead: concentric circles, or a teardrop, in dark blue, white, light blue and black, sometimes rimmed in yellow or gold. The Turkish boncuk is blue glass with a blue, white and black dot set on a white or yellow centre. It hangs at a neck, on a wrist, over a door, from a mirror, above a till, on a cradle.",
   "story": "The bead is older than any of the countries that sell it. Glass eye beads are documented and extant from as early as the 16th century BCE, and the design spread with glassmaking itself — Mesopotamia to Egypt, Carthage to Greece, Phoenicia to Persia, and right through the Roman imperial period.\n\nThe explanations people give for the colour are specific. \"According to Turkish belief, blue acts as a shield against evil and even absorbs negativity.\" And the materials are part of the claim, not just the manufacture: \"The bead is made of a mixture of molten glass, iron, copper, water, and salt, ingredients that are thought to shield people from evil.\" A second explanation in the cited account runs the other way round — in the Middle East and the Mediterranean, blue eyes are relatively rare, so people with light eyes were held able to curse with a look, and the Assyrians already had turquoise and blue-eye amulets.\n\nThe bead also has a rule for its own death. If one breaks, a very strong nazar has hit the wearer, and the bead stored it all up and broke in order to protect them. That is the only retirement instruction in this batch that the object gives itself.",
   "today": "Mass-produced and sold everywhere: the Grand Bazaar in Istanbul, Monastiraki in Athens, airport shops, phone cases. A Turkish budget airline, Fly Air, carried the nazar boncuğu on the tail fins of its aircraft. The bead was added to Unicode as U+1F9FF 🧿 NAZAR AMULET in 2018, which makes it one of the very few amulets in this atlas that a reader can send in a message. Whether a factory bead is the same object as a lampworked one is argued by sellers and buyers alike; this atlas reports the argument and describes both the same way."
+ },
+ "text_th": {
+  "what": "ลูกปัดแก้วทำมือ เป็นวงกลมซ้อนกันหรือเป็นรูปหยดน้ำ สีน้ำเงินเข้ม ขาว ฟ้าอ่อน และดำ บางครั้งมีขอบสีเหลืองหรือสีทอง บอนจุก (boncuk) ของตุรกีเป็นแก้วสีน้ำเงิน มีจุดสีน้ำเงิน ขาว และดำ อยู่บนแกนกลางสีขาวหรือสีเหลือง ห้อยไว้ที่คอ ที่ข้อมือ เหนือประตู ห้อยจากกระจก เหนือเครื่องเก็บเงิน หรือที่เปลเด็ก"
  },
  "dating": {
   "period": "Late Bronze Age to the present",
@@ -271,77 +275,99 @@
    "type": "motif",
    "name": "The eye",
    "as": "the sign, in the form most of the world now buys it in",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "wedjat-eye",
    "type": "amulet",
    "name": "Wedjat eye",
    "as": "the same argument four thousand years earlier, drawn in faience instead of blown in glass",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตาเวดจัต (ดวงตาแห่งฮอรัส)",
+   "as_th": ""
   },
   {
    "to": "hamsa",
    "type": "amulet",
    "name": "Hamsa",
    "as": "the hand this bead is usually set into, and sold beside",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ฮัมซา (มือกันภัย)",
+   "as_th": ""
   },
   {
    "to": "glass",
    "type": "material",
    "name": "Glass",
    "as": "the material that turned a sign into something a market could sell by the tray",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "แก้ว",
+   "as_th": ""
   },
   {
    "to": "grand-bazaar",
    "type": "place",
    "name": "The Grand Bazaar",
    "as": "the market that sells more of these than anywhere else",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "แกรนด์บาซาร์ (คาปาลึชาร์ชึ)",
+   "as_th": ""
   },
   {
    "to": "monastiraki",
    "type": "place",
    "name": "Monastiraki",
    "as": "the Athens equivalent, where the same bead is called máti",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "โมนาสติรากิ",
+   "as_th": ""
   },
   {
    "to": "evil-eye-bracelet",
    "type": "amulet",
    "name": "Evil eye bracelet",
    "as": "what it becomes on a modern wrist, and the version the argument about factories is actually about",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "สร้อยข้อมือนาซาร์ (ลูกปัดตากันตาร้าย)",
+   "as_th": ""
   },
   {
    "to": "nazar-word",
    "type": "term",
    "name": "nazar",
    "as": "the word — sight, the look, and the bead, all one noun",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "นาซาร์",
+   "as_th": ""
   },
   {
    "to": "gorgoneion",
    "type": "amulet",
    "name": "Gorgoneion",
    "as": "the Greek ancestor in the same soil: a frightening face doing by terror what the bead does by looking back",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กอร์โกเนออน (ศีรษะกอร์กอน)",
+   "as_th": ""
   },
   {
    "to": "the-eye-everywhere",
    "type": "story",
    "name": "The eye everywhere",
    "as": "the long read this bead is the cover of",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ดวงตาทุกหนแห่ง",
+   "as_th": ""
   },
   {
    "to": "the-charm-goes-digital",
    "type": "story",
    "name": "The charm goes digital",
    "as": "the long read about charms on screens; this one has its own Unicode code point",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เครื่องรางในโลกดิจิทัล",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -567,196 +593,252 @@
    "type": "amulet",
    "name": "Azabache",
    "as": "the same harm answered with glass and an eye instead of jet and a hand",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "อาซาบาเช (เครื่องรางหินเจ็ต)",
+   "as_th": ""
   },
   {
    "from": "bagua-mirror",
    "type": "amulet",
    "name": "Bagua mirror",
    "as": "the other thing hung facing out over a door, which answers a look rather than a corner",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กระจกปากั้ว (กระจกแปดทิศ)",
+   "as_th": ""
   },
   {
    "from": "cornicello",
    "type": "amulet",
    "name": "Cornicello",
    "as": "the object it competes with across the Mediterranean, answering the same harm with the opposite strategy",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คอร์นิเชลโล (เขานำโชคอิตาลี)",
+   "as_th": ""
   },
   {
    "from": "dzi-bead",
    "type": "amulet",
    "name": "Dzi bead",
    "as": "the other eye-bead with a market in the millions — glass instead of agate, and priced by the tray instead of by the eye",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "หินดีซี (ลูกปัดทิเบต)",
+   "as_th": ""
   },
   {
    "from": "evil-eye-bracelet",
    "type": "amulet",
    "name": "Evil eye bracelet",
    "as": "the bead itself, which this record is the wrist-sized retail packaging of",
-   "rel": "whole"
+   "rel": "whole",
+   "name_th": "สร้อยข้อมือนาซาร์ (ลูกปัดตากันตาร้าย)",
+   "as_th": ""
   },
   {
    "from": "gorgoneion",
    "type": "amulet",
    "name": "Gorgoneion",
    "as": "the same mechanism reduced to a bead, and the version still sold in Athens and Istanbul",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กอร์โกเนออน (ศีรษะกอร์กอน)",
+   "as_th": ""
   },
   {
    "from": "hamsa",
    "type": "amulet",
    "name": "Hamsa",
    "as": "the bead it is most often sold beside, and most often combined with",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ฮัมซา (มือกันภัย)",
+   "as_th": ""
   },
   {
    "from": "horseshoe",
    "type": "amulet",
    "name": "Horseshoe",
    "as": "what it is combined with in Turkey — the shoe and the all-seeing eye on one object",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เกือกม้า",
+   "as_th": ""
   },
   {
    "from": "nimbu-mirchi",
    "type": "amulet",
    "name": "Nimbu mirchi",
    "as": "the glass bead sold for the same harm two thousand kilometres west, and the one this atlas usually shows first",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "นิมบู มีร์ชี (มะนาวกับพริก)",
+   "as_th": ""
   },
   {
    "from": "ojo-de-venado",
    "type": "amulet",
    "name": "Ojo de venado",
    "as": "the same logic in glass, and the same story about a charm that breaks because it took the look",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โอโฮ เด เวนาโด (ตากวาง)",
+   "as_th": ""
   },
   {
    "from": "tabiz",
    "type": "amulet",
    "name": "Tabiz",
    "as": "the glass answer to the harm this paper answers in words",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตาบีซ (เครื่องรางคำอธิษฐาน)",
+   "as_th": ""
   },
   {
    "from": "wedjat-eye",
    "type": "amulet",
    "name": "Wedjat eye",
    "as": "the eye answering the eye, four thousand years later and in glass rather than faience",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตาเวดจัต (ดวงตาแห่งฮอรัส)",
+   "as_th": ""
   },
   {
    "from": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "the sign as a glass bead, which is the form most of the world now buys it in",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "from": "hand",
    "type": "motif",
    "name": "The hand",
    "as": "the glass bead this hand is sold beside, and is often set into",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "มือ",
+   "as_th": ""
   },
   {
    "from": "open-palm",
    "type": "motif",
    "name": "The open palm",
    "as": "the bead it is most often sold with, and often set with",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ฝ่ามือเปิด (ฮัมซา)",
+   "as_th": ""
   },
   {
    "from": "glass",
    "type": "material",
    "name": "Glass",
    "as": "the bead this material was invented for, and the form most of the world now buys the eye in",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "แก้ว",
+   "as_th": ""
   },
   {
    "from": "iron",
    "type": "material",
    "name": "Iron",
    "as": "iron goes into the glass batch itself, named in the recipe among the things said to shield the wearer",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เหล็ก",
+   "as_th": ""
   },
   {
    "from": "salt",
    "type": "material",
    "name": "Salt",
    "as": "salt is named in the batch the bead is made from, fired into the glass",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เกลือ",
+   "as_th": ""
   },
   {
    "from": "wearing-hidden",
    "type": "practice",
    "name": "Wearing hidden",
    "as": "the charm built to be seen, which is what this practice is defined against",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "การสวมเครื่องรางแบบซ่อน",
+   "as_th": "เครื่องรางที่สร้างมาเพื่อให้ถูกมองเห็น ซึ่งการปฏิบัตินี้นิยามตัวเองในทางตรงข้ามกับมัน"
   },
   {
    "from": "grand-bazaar",
    "type": "place",
    "name": "The Grand Bazaar",
    "as": "the bead this market sells by the tray, and the reason most of the world pictures the eye as blue glass",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "แกรนด์บาซาร์ (คาปาลึชาร์ชึ)",
+   "as_th": ""
   },
   {
    "from": "monastiraki",
    "type": "place",
    "name": "Monastiraki",
    "as": "the bead sold here under its Greek name, máti",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "โมนาสติรากิ",
+   "as_th": ""
   },
   {
    "from": "pitt-rivers-charms",
    "type": "place",
    "name": "The amulet and charm cases, Pitt Rivers Museum",
    "as": "the blue glass eye in these cases, one of them donated as early as 1885",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ตู้เครื่องรางและของขลัง พิพิธภัณฑ์พิตต์ริเวอร์ส",
+   "as_th": ""
   },
   {
    "from": "alan-dundes",
    "type": "person",
    "name": "Alan Dundes",
    "as": "one subject of that casebook — the Mediterranean bead, argued over by the writers he collected",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "อลัน ดันดีส",
+   "as_th": ""
   },
   {
    "from": "siegfried-seligmann",
    "type": "person",
    "name": "Siegfried Seligmann",
    "as": "the bead form of the sign, one of the many he catalogued rather than one he singled out",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ซีกฟรีด เซลิกมันน์",
+   "as_th": ""
   },
   {
    "from": "nazar-word",
    "type": "term",
    "name": "nazar",
    "as": "the object the word rides on: the blue glass disc itself",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "นาซาร์",
+   "as_th": ""
   },
   {
    "from": "most-of-them-are-for-children",
    "type": "story",
    "name": "Most of them are for children",
    "as": "the form most of the world now pins to a baby's shirt, in glass",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ส่วนใหญ่ทำเพื่อเด็ก",
+   "as_th": ""
   },
   {
    "from": "the-charm-goes-digital",
    "type": "story",
    "name": "The charm goes digital",
    "as": "the bead that became a Unicode character in 2018 and is now on every handset",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เครื่องรางในโลกดิจิทัล",
+   "as_th": "ลูกปัดที่กลายเป็นอักขระยูนิโค้ด (Unicode) ในปี ค.ศ. 2018 และตอนนี้อยู่ในโทรศัพท์ทุกเครื่อง"
   },
   {
    "from": "the-eye-everywhere",
    "type": "story",
    "name": "The eye everywhere",
    "as": "the glass bead the documented Mediterranean line ends in, and the form most of the world now buys",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ดวงตาทุกหนแห่ง",
+   "as_th": ""
   }
  ]
 }

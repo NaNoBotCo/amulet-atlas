@@ -7,7 +7,8 @@
    "whale tooth",
    "wolf tooth",
    "animal teeth"
-  ]
+  ],
+  "th": "ฟัน งา และกรงเล็บ"
  },
  "region": [
   "pacific",
@@ -30,6 +31,9 @@
   "what": "A tooth worn as a charm is the one material that arrives already shaped, already pointed, and already the property of something that could bite. Teeth, tusks and claws are carved very little: drilled at the root, polished, hung. The class includes sperm whale teeth in Fiji and Hawaii, wolf teeth in Italy, and the animal teeth the Illyrians used against the harmful look.",
   "story": "Fiji's tabua is a polished sperm whale tooth and one of the most important objects in Fijian society. Tabua are presented as sevusevu, in atonement or esteem, and were central to negotiation between rival chiefs; men were once buried with their tabua alongside their war clubs. They were originally very rare, available only from beached whales and by trade from Tonga, where the practice may have begun. When the European market learned of the demand in the early nineteenth century, thousands of teeth — and fake teeth cut from ivory and walrus tusk — entered Fiji, and the trade that supplied them produced the European craft of scrimshaw. A tabua darkens as the oils in human hands work into it, so its age shows.\n\nIn Hawaii the lei niho palaoa hangs a carved whale tooth at the throat of an ali'i, on a cord of plaited human hair. Around the Mediterranean the tooth is smaller and the claim narrower: a tooth or a tuft of fur of the Italian wolf was worn as a talisman against the evil eye, and Illyrians used animal teeth against the same harm alongside the phallus, the hand and the leg.\n\n*Inference —* every use listed here works the same way. The charm is a piece of a dangerous animal, kept whole enough to be recognised as one. That is a different argument from the one a cut stone makes, and it is why this atlas files tooth with claw rather than with ivory.",
   "today": "Tabua are not sold in Fiji; they are still given, at weddings, birthdays and funerals, and they appear on the twenty cent coin and in airline branding. Because the sperm whale is an endangered species, removing a tabua from Fiji is capped at 225 exports a year and requires permits from the Ministry of iTaukei Affairs as well as CITES permits, with the original CITES paperwork presented to the importing country's border officials. In 2007 New Zealand authorities returned 146 tabua to Fiji that had been seized for lacking valid permits."
+ },
+ "text_th": {
+  "what": "ฟันที่สวมเป็นเครื่องรางคือวัสดุเดียวที่มาถึงพร้อมรูปทรงแล้ว แหลมแล้ว และเคยเป็นของสิ่งที่กัดได้อยู่แล้ว ฟัน งา และกรงเล็บแทบไม่ต้องแกะสลัก: เจาะที่โคน ขัดเงา แล้วห้อย ประเภทนี้รวมถึงฟันวาฬสเปิร์มในฟีจีและฮาวาย ฟันหมาป่าในอิตาลี และฟันสัตว์ที่ชาวอิลลิเรียใช้ป้องกันสายตาที่ให้โทษ"
  },
  "dating": {
   "period": "documented from the early nineteenth century; older in use",

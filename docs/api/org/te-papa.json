@@ -9,7 +9,8 @@
   "aliases": [
    "Te Papa"
   ],
-  "sort": "Te Papa Tongarewa"
+  "sort": "Te Papa Tongarewa",
+  "th": "พิพิธภัณฑ์นิวซีแลนด์ เตปาปาตองกาเรวา"
  },
  "region": [
   "aotearoa",
@@ -25,6 +26,9 @@
   "what": "New Zealand's national museum, in Wellington, established by the Museum of New Zealand Te Papa Tongarewa Act 1992 and opened on 14 February 1998. Te Papa is Māori for 'the treasure box'. It runs on a bicultural philosophy built into the building's design process through the Treaty of Waitangi, and it is the institution that asks other museums, worldwide, for Māori ancestral remains back.",
   "story": "Te Papa came out of a merger — the National Museum of New Zealand and the National Art Gallery, whose own line runs back to the Colonial Museum of 1865. The design process was led by Cliff Whiting with Cheryll Sotheran and Ken Gorbey and followed bicultural principles; Pete Bossley of Jasmax was the architect. The cultural collections hold Māori taonga and Pacific material alongside photography.\n\nSince 2003 the museum has run a programme requesting the return of Māori remains held in institutions around the world. The clearest case in this atlas's range is the Musée du quai Branly: initially reluctant, it was able to move after a change in French law in 2010, and the mokomokai — tattooed preserved heads — were formally returned to New Zealand on 23 January 2012. They are held at Te Papa and are not on display.\n\nThe museum also draws the line inside its own building, and the argument about that is public. In 2010 it advised pregnant and menstruating women to avoid a behind-the-scenes tour of some collections; a spokeswoman said the policy was in place because of Māori beliefs surrounding the taonga collection included in the tour, \"for their own safety\". The advice generated outrage and claims that the museum was overbearing. This atlas reports both the reason given and the objection, and adjudicates neither.",
   "today": "Entry is free for New Zealanders and NZ$35 for international visitors as of September 2024. Collections Online publishes images under two rights statements, named on the museum's own page: some images are openly available with no restrictions on reuse, and others carry a Creative Commons Attribution – Non-Commercial – No Derivatives licence. For taonga the museum asks something further — that images of taonga be used only for research, study, personal and educational purposes, because the material holds significant cultural importance to iwi. *Inference —* that request is not a licence term, and this atlas treats it as binding anyway."
+ },
+ "text_th": {
+  "what": "พิพิธภัณฑ์แห่งชาติของนิวซีแลนด์ ในกรุงเวลลิงตัน ก่อตั้งโดยพระราชบัญญัติพิพิธภัณฑ์นิวซีแลนด์เตปาปาตองกาเรวา ค.ศ. 1992 และเปิดเมื่อวันที่ 14 กุมภาพันธ์ ค.ศ. 1998 \"เตปาปา\" เป็นภาษาเมารี แปลว่า \"หีบสมบัติ\" พิพิธภัณฑ์ดำเนินงานตามปรัชญาสองวัฒนธรรม ซึ่งผูกไว้ในกระบวนการออกแบบอาคารผ่านสนธิสัญญาไวทังงี และเป็นสถาบันที่ขอร่างบรรพบุรุษชาวเมารีคืนจากพิพิธภัณฑ์อื่น ๆ ทั่วโลก"
  },
  "restricted": {
   "note": "Te Papa asks that images of taonga be used only for research, study, personal and educational purposes, on the ground that the material holds significant cultural importance to iwi. This atlas does not reproduce Te Papa taonga images outside that scope, and does not print detail about restricted taonga beyond what the museum itself publishes.",
@@ -175,49 +179,63 @@
    "type": "place",
    "name": "Mana Whenua, Te Papa",
    "as": "the taonga display inside it, which is where a reader meets this collection",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "มานาเฟนูอา ที่พิพิธภัณฑ์เตปาปา",
+   "as_th": ""
   },
   {
    "to": "hei-tiki",
    "type": "amulet",
    "name": "Hei-tiki",
    "as": "the pounamu neck pendant the museum holds and interprets as taonga, not as a specimen",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เฮย์ติกิ (จี้หยกเมารี)",
+   "as_th": ""
   },
   {
    "to": "hei-matau",
    "type": "amulet",
    "name": "Hei matau",
    "as": "the hook pendant held here in the same collections",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เฮย์ มาเตา (จี้ตะขอเบ็ดเมารี)",
+   "as_th": ""
   },
   {
    "to": "maori-taonga",
    "type": "tradition",
    "name": "Taonga Māori",
    "as": "the tradition whose terms this museum works on, by statute and by design",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ตาองกาเมารี",
+   "as_th": ""
   },
   {
    "to": "quai-branly",
    "type": "org",
    "name": "Musée du quai Branly — Jacques Chirac",
    "as": "the Paris museum it asked for Māori remains, and got them back from in January 2012",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "พิพิธภัณฑ์เก บรันลี – ฌัก ชีรัก",
+   "as_th": ""
   },
   {
    "to": "what-this-atlas-does-not-print",
    "type": "story",
    "name": "What this atlas does not print",
    "as": "the long read on restriction; Te Papa's taonga request is one of its worked examples",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สิ่งที่แอตลาสนี้ไม่ตีพิมพ์",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read on ownership, argued here from the claimant's side rather than the holder's",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -327,77 +345,99 @@
    "type": "amulet",
    "name": "Hei matau",
    "as": "the museum that holds them and publishes about them in Māori terms",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "เฮย์ มาเตา (จี้ตะขอเบ็ดเมารี)",
+   "as_th": ""
   },
   {
    "from": "hei-tiki",
    "type": "amulet",
    "name": "Hei-tiki",
    "as": "the museum holding over 200 of them and publishing about them in Māori terms",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "เฮย์ติกิ (จี้หยกเมารี)",
+   "as_th": ""
   },
   {
    "from": "maori-taonga",
    "type": "tradition",
    "name": "Taonga Māori",
    "as": "the museum that states its terms out loud, holds over 200 hei-tiki, and runs the Karanga Aotearoa repatriation programme",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "ตาองกาเมารี",
+   "as_th": ""
   },
   {
    "from": "te-papa-taonga",
    "type": "place",
    "name": "Mana Whenua, Te Papa",
    "as": "the museum this gallery is the heart of, and the one that asks other institutions worldwide for ancestral remains back",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "มานาเฟนูอา ที่พิพิธภัณฑ์เตปาปา",
+   "as_th": ""
   },
   {
    "from": "aiatsis",
    "type": "org",
    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
    "as": "the other national institution in this atlas that works to the terms of the people whose material it holds",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สถาบันการศึกษาชาวอะบอริจินและชาวเกาะช่องแคบทอร์เรสแห่งออสเตรเลีย (AIATSIS)",
+   "as_th": ""
   },
   {
    "from": "nagpra",
    "type": "org",
    "name": "The Native American Graves Protection and Repatriation Act",
    "as": "the national museum running the same argument from the claimant's side, across borders rather than inside one",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "รัฐบัญญัติคุ้มครองและส่งคืนหลุมฝังศพชนพื้นเมืองอเมริกัน (NAGPRA)",
+   "as_th": ""
   },
   {
    "from": "quai-branly",
    "type": "org",
    "name": "Musée du quai Branly — Jacques Chirac",
    "as": "the museum that asked it for Māori remains and received them in January 2012",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "พิพิธภัณฑ์เก บรันลี – ฌัก ชีรัก",
+   "as_th": ""
   },
   {
    "from": "wikimedia-commons",
    "type": "org",
    "name": "Wikimedia Commons",
    "as": "a collection with openly available images and, separately, a request about taonga this atlas honours regardless of licence",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "วิกิมีเดียคอมมอนส์",
+   "as_th": ""
   },
   {
    "from": "free-to-use",
    "type": "story",
    "name": "Free to use",
    "as": "a museum whose copyright and taonga terms set conditions this licence has to respect rather than override",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "ใช้ได้อย่างเสรี",
+   "as_th": ""
   },
   {
    "from": "what-this-atlas-does-not-print",
    "type": "story",
    "name": "What this atlas does not print",
    "as": "a museum built around the proposition that the originating community sets the terms",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "สิ่งที่แอตลาสนี้ไม่ตีพิมพ์",
+   "as_th": ""
   },
   {
    "from": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "where the toi moko went back to in 2008, and where the terms are set by the originating people",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ]
 }

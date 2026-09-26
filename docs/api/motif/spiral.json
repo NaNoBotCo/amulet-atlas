@@ -9,7 +9,8 @@
    "triple spiral",
    "spiral inscription",
    "the coil"
-  ]
+  ],
+  "th": "เกลียวก้นหอย"
  },
  "region": [
   "britain-ireland",
@@ -43,6 +44,9 @@
   "what": "A line that winds in on itself. It is cut into stone, painted on pottery, blazoned on a shield, and — once, and importantly — used as the direction in which to write, so that the words themselves coil inward.",
   "story": "Mesopotamia is the only place in this record where somebody says what the spiral is for. Incantation bowls were usually inscribed in a spiral, beginning at the rim and moving toward the centre, most of them in Jewish Babylonian Aramaic, made in Upper Mesopotamia and Syria from the sixth to the eighth centuries. The scholar John Charles Arnold describes how they worked: \"When placed upside down under each corner of a house, demons would follow the inscribed charms that spiraled from the outer rim inward, only to be caught in the center.\" The geometry is the mechanism. The spiral is a trap, and a text written that way is a corridor with no exit.\n\nEurope cut it into tombs long before anyone wrote in it. The triple spiral, the triskelion, first appears in Malta between 4400 and 3600 BCE, and then in the astronomical calendar of the megalithic tomb at Newgrange in Ireland, built around 3200 BCE. It runs through European Neolithic and Bronze Age artefacts and into the Iron Age, especially in the La Tène culture. From the late sixth century BCE it appears on hoplite shields and Greek pottery, and it was adopted as an emblem by the rulers of Syracuse, possibly in connection with the island's Greek name Trinacria, 'having three headlands'. It survives in the arms and flags of the Isle of Man.\n\nEgypt kept a spiral on the eye. The wedjat has a line extending below and toward the rear of the eye that ends in a curl or spiral; the Egyptologist Richard H. Wilkinson suggests the curling line derives from the facial markings of the cheetah, which Egyptians associated with the sky because its spots were likened to stars. In New Kingdom elaborations the rear spiral could become a bird's tail feathers.\n\nThe Caucasus keeps a spiralled version of another sign: according to Vakhushti of Kartli, the tribal banner of the Avar khans depicted a wolf with a standard bearing a double-spiral swastika.\n\nTransmission or convergence: unknown, and the sources read here do not say. The triskelion page sets out the recurrences and declines to explain them. The distances are the argument against a single story — Malta and Newgrange are separated by twelve hundred years and a sea, and the Mesopotamian bowl spiral comes three and a half thousand years after either and is not an ornament at all but a way of arranging letters. *Inference —* the shield blazon and the bowl inscription are doing different jobs with the same curve: one is a face shown to an enemy, like a gorgoneion, and the other is a floor plan for a maze. This record files them together because they share a shape and says plainly that sharing a shape is all they are known to share.",
   "notes": "Filed under the geometric family, which this record's own objection got added to the vocabulary: the spiral is a line that turns back on itself and belongs with shape rather than with rope."
+ },
+ "text_th": {
+  "what": "เส้นที่วนเข้าหาตัวเอง สลักบนหิน วาดบนเครื่องปั้นดินเผา ประดับบนโล่ และ — ครั้งหนึ่งซึ่งสำคัญมาก — ใช้เป็นทิศทางในการเขียน ให้ถ้อยคำเองขดวนเข้าด้านใน"
  },
  "dating": {
   "period": "Maltese Neolithic to the early Islamic period",
@@ -241,63 +245,81 @@
    "type": "amulet",
    "name": "Incantation bowl",
    "as": "the only object in this atlas where the spiral is load-bearing: the words follow it inward and the demon follows the words",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ชามคาถา",
+   "as_th": ""
   },
   {
    "to": "wedjat-eye",
    "type": "amulet",
    "name": "Wedjat eye",
    "as": "carries the sign as a tail — the curl below the eye that Wilkinson traces to a cheetah's markings",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ตาเวดจัต (ดวงตาแห่งฮอรัส)",
+   "as_th": ""
   },
   {
    "to": "swastika-sign",
    "type": "motif",
    "name": "The swastika",
    "as": "the neighbouring turning sign, and the one whose Avar banner version is recorded as a double spiral",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สวัสดิกะ",
+   "as_th": ""
   },
   {
    "to": "gorgoneion",
    "type": "amulet",
    "name": "Gorgoneion",
    "as": "the other thing a Greek put on a shield, which is how this record reads the triskeles blazon",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กอร์โกเนออน (ศีรษะกอร์กอน)",
+   "as_th": ""
   },
   {
    "to": "knot",
    "type": "motif",
    "name": "The knot",
    "as": "the family this sign is filed under: a line that turns back on itself and does not let go",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ปม",
+   "as_th": ""
   },
   {
    "to": "ink",
    "type": "material",
    "name": "Ink",
    "as": "what the spiral is made of in the bowls — the shape exists only as writing there",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "หมึก",
+   "as_th": ""
   },
   {
    "to": "terracotta",
    "type": "material",
    "name": "Fired clay",
    "as": "the surface that kept the spiral legible for fourteen centuries",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ดินเผา",
+   "as_th": ""
   },
   {
    "to": "foundation-deposit",
    "type": "practice",
    "name": "Foundation deposit",
    "as": "the practice the bowls belong to: face down, under each corner of the house",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ของฝังใต้ฐานรากอาคาร",
+   "as_th": ""
   },
   {
    "to": "the-eye-everywhere",
    "type": "story",
    "name": "The eye everywhere",
    "as": "the long read on signs that recur without a route, which this one is a clean example of",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ดวงตาทุกหนแห่ง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -478,14 +500,18 @@
    "type": "motif",
    "name": "The swastika",
    "as": "the other rotating figure, and the one it is often grouped with in prehistoric assemblages",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สวัสดิกะ",
+   "as_th": "รูปหมุนอีกแบบหนึ่ง และเป็นรูปที่มักถูกจัดกลุ่มไว้ด้วยกันในชุดโบราณวัตถุก่อนประวัติศาสตร์"
   },
   {
    "from": "ink",
    "type": "material",
    "name": "Ink",
    "as": "the shape the writing takes in the bowls, where the geometry is the mechanism",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "หมึก",
+   "as_th": "รูปที่ตัวเขียนเป็นในชาม ซึ่งรูปทรงเรขาคณิตคือกลไก"
   }
  ]
 }

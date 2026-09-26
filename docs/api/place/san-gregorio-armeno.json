@@ -11,7 +11,8 @@
   "aliases": [
    "the crib-makers' street",
    "Naples nativity street"
-  ]
+  ],
+  "th": "ถนนซานเกรโกริโออาร์เมโน"
  },
  "region": [
   "rome-italy"
@@ -30,6 +31,9 @@
   "what": "A narrow street in the old centre of Naples, lined with workshops that make figures for the presepe, the Neapolitan nativity scene. Terracotta heads, wired limbs, cloth, cork and plaster; shepherds beside this year's footballers and politicians. Coral and silver horns hang in the same windows, because the trade that models a figure by hand is the trade that cuts a charm by hand.",
   "story": "The street is a stenoporos, one of the narrow cross-lanes of the Greek grid Neapolis was laid out on, running between the two main streets of the ancient city — today's Via dei Tribunali and Spaccanapoli — and crossing at the old agora.\n\nThe figures have a long root in the same ground. A temple of Ceres stood on this street in classical times, and citizens offered her small terracotta figurines made in the workshops nearby. The church of San Gregorio Armeno was founded around 930 on that temple's foundations. The Neapolitan nativity scene itself is much later, from the end of the 18th century. The workshops now run all year, with the main displays from early November to 6 January.\n\nNaples is also a capital of the horn. The cornicello — curniciello in Neapolitan — is a twisted horn charm in gold, silver, bone, terracotta, plastic or red coral, worn against the malocchio and hung from rear-view mirrors, a custom the article traces back to protecting draught horses. Coral is the material that carries it, and coral is sacred to Venus.\n\nEdward Lovett, the London folklorist, published a paper in 1909 called Amulets from Costers' Barrows in London, Rome, and Naples. He was reading three street trades as one subject, and this street is the one still working.\n\n*Inference —* a lane whose craftsmen have modelled votive figures on the same ground for two thousand years is the clearest case in this atlas of a workshop outliving the religion it started in. Both halves of that sentence are cited; the joining of them is this project's.",
   "today": "Workshops produce figures year-round, traditional and topical. The heavy display season runs from early November to 6 January. No weekday is marked open or closed below: the shops set their own hours and no timetable is published for the street."
+ },
+ "text_th": {
+  "what": "ถนนแคบในย่านเมืองเก่าของเนเปิลส์ เรียงรายด้วยโรงงานฝีมือที่ทำตุ๊กตาสำหรับเปรเซเป (presepe) ฉากการบังเกิดของพระเยซูแบบเนเปิลส์ ศีรษะดินเผา แขนขาที่ดัดด้วยลวด ผ้า ไม้ก๊อก และปูนปลาสเตอร์ คนเลี้ยงแกะอยู่ข้างนักฟุตบอลและนักการเมืองของปีนี้ เขาปะการังและเขาเงินแขวนอยู่ในหน้าต่างร้านเดียวกัน เพราะงานที่ปั้นตุ๊กตาด้วยมือก็คืองานที่ตัดเครื่องรางด้วยมือ"
  },
  "dating": {
   "period": "Greek Neapolis to the present",
@@ -168,56 +172,72 @@
    "type": "amulet",
    "name": "Cornicello",
    "as": "the horn this city cuts in coral and silver, hung in the same windows as the crib figures",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "คอร์นิเชลโล (เขานำโชคอิตาลี)",
+   "as_th": ""
   },
   {
    "to": "coral",
    "type": "material",
    "name": "Red coral",
    "as": "the material the horn is cut from, and the one Naples has worked longest",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ปะการังแดง",
+   "as_th": ""
   },
   {
    "to": "horn",
    "type": "motif",
    "name": "The horn",
    "as": "the sign itself — southern Italy's substitute for the eye, aimed at the same look",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เขา (คอร์นิเชลโล)",
+   "as_th": ""
   },
   {
    "to": "cimaruta",
    "type": "amulet",
    "name": "Cimaruta",
    "as": "the other Neapolitan silver charm, a sprig of rue hung with signs",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ชีมารูตา (กิ่งต้นรูเครื่องรางอิตาลี)",
+   "as_th": ""
   },
   {
    "to": "ex-voto-wall",
    "type": "art",
    "name": "The ex-voto wall",
    "as": "what the classical version of this street's output ended on: figurines offered to Ceres, made next door",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "ผนังภาพแก้บน (เอ็กซ์โวโต)",
+   "as_th": ""
   },
   {
    "to": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "the tradition these workshops supply",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "to": "edward-lovett",
    "type": "person",
    "name": "Edward Lovett",
    "as": "the folklorist who in 1909 read the barrow trade of London, Rome and Naples as one subject",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "เอ็ดเวิร์ด เลิฟเวตต์",
+   "as_th": ""
   },
   {
    "to": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "the blessed objects sold a few doors from the horn, by the same hands",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -319,35 +339,45 @@
    "type": "amulet",
    "name": "Cimaruta",
    "as": "the Naples street where charms of this kind are still cast and sold",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ชีมารูตา (กิ่งต้นรูเครื่องรางอิตาลี)",
+   "as_th": ""
   },
   {
    "from": "cornicello",
    "type": "amulet",
    "name": "Cornicello",
    "as": "the Naples street where these are cast, carved and sold by the tray",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "คอร์นิเชลโล (เขานำโชคอิตาลี)",
+   "as_th": ""
   },
   {
    "from": "bell",
    "type": "motif",
    "name": "The bell",
    "as": "the Naples street a few minutes from the museum that holds these chimes, still selling small cast figures",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "กระดิ่ง",
+   "as_th": ""
   },
   {
    "from": "horn",
    "type": "motif",
    "name": "The horn",
    "as": "the Naples street where it is sold by the hundred, beside the crib figures",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "เขา (คอร์นิเชลโล)",
+   "as_th": ""
   },
   {
    "from": "terracotta",
    "type": "material",
    "name": "Fired clay",
    "as": "the Naples street that has been firing small figures since there was a temple to Ceres on it",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ดินเผา",
+   "as_th": "ถนนในเนเปิลส์ที่เผารูปปั้นขนาดเล็กมาตั้งแต่ยังมีวิหารของเทพีเซเรสตั้งอยู่"
   }
  ]
 }

@@ -7,7 +7,8 @@
   "native": "שאול שקד",
   "script": "Hebrew",
   "lang": "he",
-  "sort": "Shaked, Shaul"
+  "sort": "Shaked, Shaul",
+  "th": "ชาอูล ชาเกด"
  },
  "region": [
   "levant",
@@ -29,6 +30,9 @@
   "what": "Israeli Iranist and philologist, 1933–2021, of the Hebrew University of Jerusalem. He read the Aramaic incantation bowls and metal amulets of late antique Babylonia alongside Zoroastrian and Middle Persian material, which is why his editions catch what the Jewish, Christian, Mandaean and Iranian texts borrowed from one another.",
   "story": "Shaked was born in Debrecen, Hungary, on 5 March 1933. He took his doctorate in Iranian languages at SOAS in 1964 and taught at the Hebrew University in Indian, Iranian and Armenian Studies and in Comparative Religion, holding the Schwarzman chair. He was elected to the Israel Academy of Sciences and Humanities in 1985 and chaired its humanities division from 1995 to 2001. He won the Israel Prize for Linguistics in 2000 and the Sándor Scheiber Prize in 2012.\n\nHis listed research interests are Zoroastrianism, Middle Persian lexicography, early Judaeo-Persian, Aramaic magical texts, and Aramaic and Arabic loan words in Iranian. The bowls sit at the join of all of those. A Babylonian bowl written in Jewish Babylonian Aramaic and buried under a floor names demons with Iranian names and formulas with Jewish ones; a reader who knows only one side of that misses half the text.\n\nWith Joseph Naveh he published \"Amulets and Magic Bowls: Aramaic Incantations of Late Antiquity\" and \"Magic Spells and Formulae\" in 1993. He continued the corpus with others — \"Aramaic Bowl Spells: Jewish Babylonian Aramaic Bowls\", with James N. Ford and Siam Bhayro, volume one from Brill in 2013 and volume two in 2022. He died on 27 October 2021.",
   "today": "The bowl corpus is still being edited volume by volume, and the later volumes are appearing after his death. *Inference —* an amulet class whose standard edition is unfinished is a class whose dating and readings will move, so this atlas's Aramaic bowl records are marked as provisional wherever they lean on a text rather than on an object."
+ },
+ "text_th": {
+  "what": "นักอิหร่านศึกษาและนักภาษาศาสตร์เชิงประวัติชาวอิสราเอล (ค.ศ. 1933–2021) แห่งมหาวิทยาลัยฮีบรูแห่งเยรูซาเลม เขาอ่านชามคาถาภาษาอราเมอิกและเครื่องรางโลหะของบาบิโลเนียในสมัยปลายยุคโบราณควบคู่กับเอกสารโซโรอัสเตอร์และเปอร์เซียกลาง ด้วยเหตุนี้ฉบับชำระของเขาจึงจับได้ว่าตัวบทของยิว คริสต์ มันดาเอียน และอิหร่านหยิบยืมอะไรจากกันและกัน"
  },
  "dating": {
   "period": "Twentieth to twenty-first century",
@@ -144,42 +148,54 @@
    "type": "amulet",
    "name": "Incantation bowl",
    "as": "the object his editions made readable, spiral line by spiral line",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ชามคาถา",
+   "as_th": ""
   },
   {
    "to": "joseph-naveh",
    "type": "person",
    "name": "Joseph Naveh",
    "as": "his co-author: Naveh brought the letter-forms, Shaked the Iranian side of the vocabulary",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "โยเซฟ นาเวห์",
+   "as_th": ""
   },
   {
    "to": "jewish-practical-kabbalah",
    "type": "tradition",
    "name": "Practical Kabbalah",
    "as": "the tradition whose late antique ancestor these bowls and strips are",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "คับบาลาห์ภาคปฏิบัติ",
+   "as_th": ""
   },
   {
    "to": "islamic-talismanic",
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "the neighbouring tradition in the same region, which inherited some of the same formulas",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "to": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "the sign the bowls turn on — whose names get written, and in which language",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "พระนาม",
+   "as_th": ""
   },
   {
    "to": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the later pouched written charm of the same region, in Arabic rather than Aramaic",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -267,21 +283,27 @@
    "type": "amulet",
    "name": "Incantation bowl",
    "as": "the other half of that edition, and the reason a bowl text can be quoted at all here",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "ชามคาถา",
+   "as_th": ""
   },
   {
    "from": "jewish-practical-kabbalah",
    "type": "tradition",
    "name": "Practical Kabbalah",
    "as": "the other, and the scholar who traced how the same formulas cross between this tradition and its neighbours",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "คับบาลาห์ภาคปฏิบัติ",
+   "as_th": ""
   },
   {
    "from": "joseph-naveh",
    "type": "person",
    "name": "Joseph Naveh",
    "as": "his co-author on the Aramaic amulet and bowl editions, over roughly three decades",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "โยเซฟ นาเวห์",
+   "as_th": ""
   }
  ]
 }

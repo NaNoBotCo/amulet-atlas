@@ -8,7 +8,8 @@
    "the definitional argument",
    "what to call the thing",
    "amulet, charm, talisman"
-  ]
+  ],
+  "th": "อะมูเล็ตหรือทาลิสแมน?"
  },
  "region": [
   "world",
@@ -28,6 +29,9 @@
  },
  "text": {
   "what": "Two words, one tray of objects, and no agreement about which word goes on which object. Some writers cut the pair by direction — an amulet turns harm away, a talisman pulls fortune in. Some cut it by manufacture — an amulet is worn, a talisman is made, at an hour set by a sky. Some cut it by legitimacy, and the cut runs between a blessed object and a condemned one. Some refuse to cut it at all. This record sets out the positions with the names attached and declines to pick one, because the word this project uses on its own spine is a cataloguer's word and the objects were here first."
+ },
+ "text_th": {
+  "what": "สองคำ ถาดวัตถุถาดเดียว และไม่มีข้อตกลงว่าคำไหนใช้กับวัตถุชิ้นไหน นักเขียนบางคนแบ่งคู่คำนี้ตามทิศทาง อะมูเล็ต (amulet) หันภัยออกไป ทาลิสแมน (talisman) ดึงโชคเข้ามา บางคนแบ่งตามการสร้าง อะมูเล็ตคือของที่สวม ทาลิสแมนคือของที่ทำขึ้นในยามที่ฟ้ากำหนด บางคนแบ่งตามความชอบธรรม และเส้นแบ่งอยู่ระหว่างวัตถุที่ได้รับพรกับวัตถุที่ถูกประณาม บางคนปฏิเสธที่จะแบ่งเลย บันทึกนี้วางจุดยืนต่าง ๆ พร้อมชื่อผู้ถือจุดยืนนั้น และไม่เลือกข้างใด เพราะคำที่โครงการนี้ใช้บนสันปกของตัวเองเป็นคำของผู้ทำบัญชีรายการ และวัตถุเหล่านี้มีอยู่ก่อนแล้ว"
  },
  "sections": [
   {
@@ -208,70 +212,90 @@
    "type": "term",
    "name": "amulet",
    "as": "the wide word this atlas files everything under, with its Latin and its hundred and fifty years of silence in English",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "อะมูเล็ต",
+   "as_th": ""
   },
   {
    "to": "talisman-word",
    "type": "term",
    "name": "talisman",
    "as": "the other half of the pair, and the one whose Arabic root still carries the clock the English word dropped",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ทาลิสแมน",
+   "as_th": ""
   },
   {
    "to": "charm-word",
    "type": "term",
    "name": "charm",
    "as": "the third word, which was a spoken formula for three hundred years before it was ever an object",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ชาร์ม (charm)",
+   "as_th": ""
   },
   {
    "to": "periapt",
    "type": "term",
    "name": "periapt",
    "as": "the fourth cut — an object defined by hanging, with no theory in it at all",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "เพริแอปต์ (เครื่องรางแขวนคอ)",
+   "as_th": ""
   },
   {
    "to": "apotropaic-word",
    "type": "term",
    "name": "apotropaic",
    "as": "the scholar's adjective that was invented to sidestep this whole argument, and belongs to nobody who carries anything",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "อะโพโทรเพอิก (กันภัย)",
+   "as_th": ""
   },
   {
    "to": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "the tradition where the legitimacy cut is drawn inside one institution, between a blessed medal and a condemned charm",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   },
   {
    "to": "brown-scapular",
    "type": "amulet",
    "name": "Brown Scapular",
    "as": "the object the encyclopedia itself names as the counter-example that breaks its own scheme",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "สกาปูลาร์สีน้ำตาล",
+   "as_th": ""
   },
   {
    "to": "islamic-talismanic",
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "the tradition ibn Qurra and his translators were writing for, where the hour of making is the definition",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "to": "phra-khrueang",
    "type": "amulet",
    "name": "Phra khrueang",
    "as": "the object that passes one test, fails the next and is argued over inside its own tradition — the case against ruling",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "พระเครื่อง",
+   "as_th": ""
   },
   {
    "to": "free-to-use",
    "type": "story",
    "name": "Free to use",
    "as": "the other record about this project's own terms, rather than about anybody else's",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใช้ได้อย่างเสรี",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -411,98 +435,126 @@
    "type": "amulet",
    "name": "Agnus Dei",
    "as": "the long read where the Church's word sacramental meets the reader's word amulet, on an object credited with stopping floods",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "อักนุส เดอี (ลูกแกะของพระเจ้า)",
+   "as_th": ""
   },
   {
    "from": "brown-scapular",
    "type": "amulet",
    "name": "Brown Scapular",
    "as": "the long read this is the sharpest case in: the Carmelites use the word charm to say what the scapular must not become",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สกาปูลาร์สีน้ำตาล",
+   "as_th": ""
   },
   {
    "from": "challenge-coin",
    "type": "amulet",
    "name": "Challenge coin",
    "as": "the long read this complicates: an object carried at all times, struck for a group, that claims to protect nobody",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เหรียญชาเลนจ์คอยน์ (เหรียญประจำหน่วย)",
+   "as_th": ""
   },
   {
    "from": "curse-tablet",
    "type": "amulet",
    "name": "Curse tablet",
    "as": "the long read about the words; this record is why the atlas needs more than one of them",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "แผ่นคำสาป (คาตาเดสมอส)",
+   "as_th": ""
   },
   {
    "from": "ladanka",
    "type": "amulet",
    "name": "Ladanka",
    "as": "the long read where a church's own word for an object collides with the reader's",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ลาดันกา (ถุงกำยานออร์โธด็อกซ์)",
+   "as_th": ""
   },
   {
    "from": "mezuzah",
    "type": "amulet",
    "name": "Mezuzah",
    "as": "the long read; this record is the atlas's sharpest case of a tradition rejecting the word the site is organised by",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เมซูซา",
+   "as_th": ""
   },
   {
    "from": "miraculous-medal",
    "type": "amulet",
    "name": "Miraculous Medal",
    "as": "the long read where a promise struck into an object meets a doctrine that qualifies it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เหรียญอัศจรรย์",
+   "as_th": ""
   },
   {
    "from": "st-christopher-medal",
    "type": "amulet",
    "name": "St Christopher medal",
    "as": "the long read this record is the hardest case for: the Church calls it a sacramental, the rim calls it insurance",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เหรียญนักบุญคริสโตเฟอร์",
+   "as_th": ""
   },
   {
    "from": "tefillin",
    "type": "amulet",
    "name": "Tefillin",
    "as": "the long read; this record is here under protest from the tradition it belongs to, and says so",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เทฟิลลิน",
+   "as_th": ""
   },
   {
    "from": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "the long read about words, and the place where the Church's distinction between a sacramental and a charm gets set beside everyone else's",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   },
   {
    "from": "key",
    "type": "motif",
    "name": "The key",
    "as": "the long read on borrowed names, which is what the key of life is",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "กุญแจ",
+   "as_th": ""
   },
   {
    "from": "christopher-faraone",
    "type": "person",
    "name": "Christopher A. Faraone",
    "as": "the long read on the two words; his 1992 title puts the talisman question in the Greek material directly",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "คริสโตเฟอร์ เอ. ฟาราโอเน",
+   "as_th": ""
   },
   {
    "from": "amulet-word",
    "type": "term",
    "name": "amulet",
    "as": "the long read that takes this disagreement apart instead of settling it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "อะมูเล็ต",
+   "as_th": ""
   },
   {
    "from": "talisman-word",
    "type": "term",
    "name": "talisman",
    "as": "the long read on this pair of words and the museum labels that pick between them",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ทาลิสแมน",
+   "as_th": ""
   }
  ]
 }

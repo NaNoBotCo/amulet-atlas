@@ -11,7 +11,8 @@
   "aliases": [
    "crescent pendant",
    "Roman girl's crescent"
-  ]
+  ],
+  "th": "ลูนูลา (จี้พระจันทร์เสี้ยวโรมัน)"
  },
  "region": [
   "rome-italy",
@@ -33,6 +34,9 @@
  "text": {
   "what": "A crescent moon on a chain, usually gold, worn by girls in ancient Rome. Isidore of Seville defines it exactly: \"Lunulae are female ornaments in the likeness of the moon, little hanging gold bullae.\" It came off on the eve of her marriage, with her childhood toys and the rest of her child's clothes, and she put on women's dress.",
   "story": "Two lines of Plautus are most of what a reader can hold onto. In Epidicus, the speaker asks the girl Telestis: \"Don't you remember my bringing you a gold lunula on your birthday, and a little gold ring for your finger?\" In Rudens, Palaestra says her father gave her a golden bulla on the day she was born. Girls got a crescent, boys got a locket, and the plays treat both as the ordinary furniture of a childhood.\n\nThe cited account is direct about what Romans wore amulets for: against evil forces, demons and sorcery, and especially against the evil eye. It also draws a map line worth keeping. Lunulae were common right across the Mediterranean; the bulla, the boys' version, was mostly an Italian object. This record lists Italy alone in its countries because Italy is where the source names the practice; the wider Mediterranean spread is stated in the source without countries attached to it.\n\n*Inference —* an amulet with a removal ceremony is doing two jobs. It guards a child, and it counts. Take it off and something has ended — a wedding in this case, a toga in the boys'. The atlas has a small class of these, and the Bulgarian martenitsa, which comes off when the wearer sees a stork, belongs to it."
+ },
+ "text_th": {
+  "what": "พระจันทร์เสี้ยวห้อยสร้อย ส่วนใหญ่เป็นทองคำ เด็กหญิงในโรมโบราณสวมใส่ อิซิดอร์แห่งเซบิยา (Isidore of Seville) ให้นิยามไว้ตรงตัวว่า “ลูนูลาคือเครื่องประดับของสตรีที่มีรูปเหมือนดวงจันทร์ เป็นบุลลาทองคำเล็ก ๆ ที่ห้อยแขวน” ถอดออกในคืนก่อนวันแต่งงาน พร้อมของเล่นวัยเด็กและเสื้อผ้าเด็กที่เหลือของเธอ แล้วเธอก็แต่งกายอย่างผู้หญิง"
  },
  "dating": {
   "period": "Roman",
@@ -192,49 +196,63 @@
    "type": "amulet",
    "name": "Bulla",
    "as": "the boys' counterpart, and the object Isidore defines this one against",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "บุลลา (ล็อกเกตของเด็กชายโรมัน)",
+   "as_th": ""
   },
   {
    "to": "crescent",
    "type": "motif",
    "name": "The crescent",
    "as": "the sign it is, and the one it shares with a thousand years of later Islamic and Balkan silver",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "พระจันทร์เสี้ยว",
+   "as_th": ""
   },
   {
    "to": "greco-roman-apotropaic",
    "type": "tradition",
    "name": "Greek and Roman protective magic",
    "as": "the tradition it belongs to",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน",
+   "as_th": ""
   },
   {
    "to": "gold",
    "type": "material",
    "name": "Gold",
    "as": "the metal Isidore specifies and Plautus's characters can afford",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ทองคำ",
+   "as_th": ""
   },
   {
    "to": "martenitsa",
    "type": "amulet",
    "name": "Martenitsa",
    "as": "the other amulet in this atlas that is defined by when it comes off",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "มาร์เตนิตซา",
+   "as_th": ""
   },
   {
    "to": "fascinum",
    "type": "amulet",
    "name": "Fascinum",
    "as": "the Roman charm aimed at the same look, with none of this one's discretion",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ฟัสซินุม (เครื่องรางรูปองคชาตโรมัน)",
+   "as_th": ""
   },
   {
    "to": "most-of-them-are-for-children",
    "type": "story",
    "name": "Most of them are for children",
    "as": "the long read; both Roman childhood amulets end at the moment the child stops being one",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ส่วนใหญ่ทำเพื่อเด็ก",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -370,49 +388,63 @@
    "type": "amulet",
    "name": "Bulla",
    "as": "the girls' counterpart, worn until the eve of the wedding instead of until the toga virilis",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "บุลลา (ล็อกเกตของเด็กชายโรมัน)",
+   "as_th": ""
   },
   {
    "from": "cimaruta",
    "type": "amulet",
    "name": "Cimaruta",
    "as": "the older Italian charm hung on a child, and the one this atlas dates properly",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ชีมารูตา (กิ่งต้นรูเครื่องรางอิตาลี)",
+   "as_th": ""
   },
   {
    "from": "fascinum",
    "type": "amulet",
    "name": "Fascinum",
    "as": "the girls' equivalent — a crescent instead of a phallus, and the same nine-days-to-adulthood logic",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ฟัสซินุม (เครื่องรางรูปองคชาตโรมัน)",
+   "as_th": ""
   },
   {
    "from": "martenitsa",
    "type": "amulet",
    "name": "Martenitsa",
    "as": "the other amulet here that is defined by the moment it comes off",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "มาร์เตนิตซา",
+   "as_th": ""
   },
   {
    "from": "greco-roman-apotropaic",
    "type": "tradition",
    "name": "Greek and Roman protective magic",
    "as": "what a Roman girl wore, until the eve of her wedding",
-   "rel": "part"
+   "rel": "part",
+   "name_th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน",
+   "as_th": ""
   },
   {
    "from": "crescent",
    "type": "motif",
    "name": "The crescent",
    "as": "the amulet itself — the gold crescent a Roman girl was given",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "พระจันทร์เสี้ยว",
+   "as_th": ""
   },
   {
    "from": "gold",
    "type": "material",
    "name": "Gold",
    "as": "defined in the sources as a little hanging gold bulla in the likeness of the moon",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ทองคำ",
+   "as_th": ""
   }
  ]
 }

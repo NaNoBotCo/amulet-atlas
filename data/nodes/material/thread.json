@@ -11,7 +11,8 @@
    "yarn",
    "cord",
    "stitches"
-  ]
+  ],
+  "th": "ด้ายและเชือก"
  },
  "region": [
   "levant",
@@ -40,6 +41,9 @@
   "what": "The cheapest amulet material there is, and the only one whose meaning is carried by an action rather than by a shape. A thread charm is made by tying, winding, knotting or stitching; the colour is nearly always red, or red and white, and the count usually matters.",
   "story": "The Jewish red string is thin scarlet or crimson wool, khutt hashani, worn as a band on the wrist against the evil eye. A scarlet thread tied about the wrist appears in Genesis 38, at the birth of Tamar's twins; commentators as early as Rabbi Shmuel ben Hafni Gaon noted that a red string placed on the hand may be a good omen. The custom is popularly tied to Kabbalah, and the same red string is worn in Hindu and Chinese practice, for luck, for love, and against harm.\n\nIn Bulgaria and North Macedonia the martenitsa is white and red yarn, usually made into two small wool dolls, Pizho the male in white and Penda the female in red. It goes on at Baba Marta, 1 March, and comes off when the wearer first sees a stork, a swallow or a tree in blossom. Ethnologists read the red and white as life and purity, sunset and melting snow, and the pair as a balance. Romania and Moldova keep the same custom as martisor, Albania as verore, worn on 14 March.\n\nJapan counts. A senninbari, a thousand-person-stitch belt, is a strip of cloth carrying a thousand stitches, each normally sewn by a different woman, and given to a soldier leaving for war. They are typically 15 cm wide and 90 to 120 cm long, most often white cloth with a thousand red stitches, sometimes worked into tigers or into the slogan bu-un cho-kyu, \"eternal good luck in war\". The custom began in the First Sino-Japanese War of 1894-95. Not everyone who wore one accepted the claim: some soldiers rejected the idea that it could protect them and carried it instead as a keepsake of the women who made it.\n\nThread also holds other charms together, and the holding is graded. In a Han jade burial suit the plaques are sewn with gold wire for an emperor, silver for princes and marquises, copper for their children, and silk thread for lesser aristocrats.\n\n*Inference —* thread is the material that leaves no museum tray. It rots, it is cut off at the end of its term by design, and its whole cost is a person's time. Every count in this record — a thousand stitches, two dolls, one wrist — is doing the work a carved stone does elsewhere.",
   "how": "Tied on, wound, knotted, or stitched, usually by somebody other than the wearer. Most thread charms have an end written into them: the martenitsa comes off at the first stork, the senninbari goes to war and does not come back."
+ },
+ "text_th": {
+  "what": "วัสดุเครื่องรางที่ถูกที่สุด และเป็นวัสดุเดียวที่ความหมายอยู่ที่การกระทำ ไม่ใช่รูปทรง เครื่องรางด้ายทำขึ้นด้วยการผูก พัน ขมวดปม หรือเย็บ สีเกือบทุกครั้งเป็นสีแดง หรือแดงกับขาว และจำนวนมักมีความสำคัญ"
  },
  "dating": {
   "period": "Han China to the present",

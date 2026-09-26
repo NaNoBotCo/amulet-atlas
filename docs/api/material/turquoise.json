@@ -11,7 +11,8 @@
    "pirozah",
    "chalchihuitl",
    "callais"
-  ]
+  ],
+  "th": "เทอร์ควอยซ์"
  },
  "etymology": {
   "root": "Old French turquois, 'Turkish', because the stone reached Europe through the Ottoman Empire from Khorasan in Iran",
@@ -45,6 +46,9 @@
   "what": "A hydrous phosphate of copper and aluminium, opaque, sky-blue where copper dominates and green where iron replaces it. It is soft for a gemstone — just under 6 on the Mohs scale, about the hardness of window glass — and porous, so it takes colour and oil from whatever touches it. It almost never forms crystals; it fills veins and fractures, or replaces a fossil.",
   "story": "The claim made for turquoise almost everywhere it is worn is the same one, and it is unusual: the stone reports. Writers on the ancient cultures that used it — Egypt, the Aztecs, Persia, Mesopotamia, the Indus Valley, Shang China — record a common belief that turquoise held prophylactic qualities, that it changed colour with the wearer's health, and that it protected the wearer from untoward forces. A porous stone that darkens with skin oil and sunlight will in fact change, which is a rare case of a claim and a material property lining up.\n\nIn Iran it was the national stone for millennia, worked into everything from turbans to bridles, and used on domes because its blue stood for heaven on earth. Persian turquoise was often engraved with devotional words in Arabic script and the letters inlaid with gold. The Persian style went to India with the Mughals.\n\nIn Mesoamerica the Aztecs took turquoise as an embodiment of fire and gave it properties of heat and smokiness, inlaying it with gold, quartz, malachite, jet, jade, coral and shell into mosaic masks, some built on a human skull, and into knives and shields, bedded in resin, bitumen and wax. In the North American Southwest the Pueblo, Navajo and Apache prized it for amuletic use; Apache tradition holds that the stone gives an archer dead aim, and in Navajo use it is described as \"a spiritual protection and blessing\". Writers on the stone credit the Ancestral Puebloans of Chaco Canyon and the surrounding region with prospering greatly on producing and trading it.\n\nEgypt mined it in Sinai and then imitated it: the blue-green glaze on faience exists in order to look like this stone and like lapis lazuli.",
   "today": "Tibetan and Mongolian silver and gold work still sets imported turquoise beside coral, with a greener hue preferred. Writers on the stone report both halves of the present trade without settling it: most pieces made today are roughly polished cabochons set simply in silver, meant for inexpensive export to Western markets, and are probably not accurate representations of the original style. The stone has also been devalued in finer grades by treatments, imitations and synthetics. Mining boomed and broke: prices peaked in 1890 and had collapsed by 1912, ending large-scale operations."
+ },
+ "text_th": {
+  "what": "ฟอสเฟตของทองแดงและอะลูมิเนียมที่มีน้ำในโครงสร้าง ทึบแสง เป็นสีฟ้าเมื่อทองแดงมีมาก และเป็นสีเขียวเมื่อเหล็กเข้าไปแทนที่ เนื้ออ่อนสำหรับอัญมณี — ความแข็งต่ำกว่า 6 เล็กน้อยตามมาตราโมส์ ใกล้เคียงกับกระจกหน้าต่าง — และมีรูพรุน จึงดูดสีและน้ำมันจากสิ่งที่มาสัมผัส แทบไม่เคยเกิดเป็นผลึก มันเติมเต็มสายแร่และรอยแตก หรือเข้าไปแทนที่ซากดึกดำบรรพ์"
  },
  "dating": {
   "period": "Bronze Age to the present",
@@ -216,56 +220,72 @@
    "type": "material",
    "name": "Faience",
    "as": "the glaze invented to look like this stone, and the reason Egypt could sell the colour without the mine",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เฟยองซ์ (ควอตซ์เคลือบอียิปต์)",
+   "as_th": ""
   },
   {
    "to": "coral",
    "type": "material",
    "name": "Red coral",
    "as": "its partner in Tibetan and Mongolian silverwork, red against blue on the same setting",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ปะการังแดง",
+   "as_th": ""
   },
   {
    "to": "silver",
    "type": "material",
    "name": "Silver",
    "as": "the metal it is nearly always set in, from Nishapur to Arizona",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เงิน (โลหะเงิน)",
+   "as_th": ""
   },
   {
    "to": "gau-box",
    "type": "amulet",
    "name": "Gau",
    "as": "the Himalayan amulet box this stone is set into, with coral, on silver",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กาอู (ตลับเครื่องรางทิเบต)",
+   "as_th": ""
   },
   {
    "to": "tibetan-protection",
    "type": "tradition",
    "name": "Tibetan protection craft",
    "as": "the tradition that imports the stone and prefers the greener grades of it",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางป้องกันภัยทิเบต (ซุงวา)",
+   "as_th": ""
   },
   {
    "to": "jet",
    "type": "material",
    "name": "Jet",
    "as": "one of the materials inlaid beside it in Aztec mosaic masks",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เจ็ต (หินเจ็ต)",
+   "as_th": ""
   },
   {
    "to": "crystal-pendant",
    "type": "amulet",
    "name": "Crystal pendant",
    "as": "the present-day trade in treated and synthetic stone, sold on a claim about the substance",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "จี้คริสตัล",
+   "as_th": ""
   },
   {
    "to": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the long read: this stone has been imitated for so long that grading it is its own profession",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดของปลอม",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -385,42 +405,54 @@
    "type": "amulet",
    "name": "Crystal pendant",
    "as": "one of the stones cut for it, and one with a much older amulet history of its own",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "จี้คริสตัล",
+   "as_th": ""
   },
   {
    "from": "dzi-bead",
    "type": "amulet",
    "name": "Dzi bead",
    "as": "the third stone on the same string, and the one Tibet could supply itself",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "หินดีซี (ลูกปัดทิเบต)",
+   "as_th": ""
   },
   {
    "from": "worry-stone",
    "type": "amulet",
    "name": "Worry stone",
    "as": "one of the stones it is commonly cut from",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "หินคลายกังวล",
+   "as_th": ""
   },
   {
    "from": "carnelian",
    "type": "material",
    "name": "Carnelian",
    "as": "the other stone Egypt's kilns were asked to counterfeit in glaze",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คาร์เนเลียน",
+   "as_th": ""
   },
   {
    "from": "faience",
    "type": "material",
    "name": "Faience",
    "as": "the Sinai stone this glaze was coloured to stand in for",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เฟยองซ์ (ควอตซ์เคลือบอียิปต์)",
+   "as_th": ""
   },
   {
    "from": "silver",
    "type": "material",
    "name": "Silver",
    "as": "the stone silver is set with from Tibet to Arizona",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เงิน (โลหะเงิน)",
+   "as_th": ""
   }
  ]
 }

@@ -13,7 +13,8 @@
    "τάματα",
    "Greek votive plaque",
    "Orthodox votive"
-  ]
+  ],
+  "th": "ทามา (แผ่นโลหะถวายของกรีก)"
  },
  "etymology": {
   "root": "Greek τάμα, plural τάματα — the vow itself, used for the metal thing that carries it",
@@ -46,6 +47,9 @@
   "story": "Go and stand in front of a much-visited Greek icon and you will not see the icon. You will see silver.\n\nA tama is offered either as a reminder of what the petitioner needs or in thanks for a prayer already answered — the cited account puts both uses on the same object and does not separate them, and the offering is usually made with a prayer and sometimes with a votive candle lit beside it. The shape aims it. A heart may mean a heart condition or it may mean love. Eyes mean an eye affliction. Hands or legs mean maladies of the limbs.\n\nThe Spanish-speaking world's milagro is the same object and the atlas says so on that record. Here is what a reader standing on this page gets that the milagro page cannot give: the tama has a named origin story with a hand in it. John of Damascus, serving as vizier to the caliph al-Walid I, was falsely accused of treachery and had his hand cut off. Praying before an icon of the Theotokos, he found the hand restored. In thanks he had a silver replica of it made and fixed it to the icon. That icon, called Trojeručica — the Three-handed — is preserved at Hilandar Monastery on Mount Athos, and it is the reason the story is not just a story: the object it describes is still on the wall.\n\n*Inference —* the difference between the two traditions is where the metal goes, not what it means. A milagro hangs on a robe or a retablo in a Catholic church and also, sometimes, gets carried in a pocket for luck. A tama goes onto the icon, and the icon is not a picture of a saint in Orthodox practice but the place the saint is met. The plaque is therefore pinned to a person, in the tradition's own terms, rather than to a painting of one.\n\nTamata are not the only thing left. Orthodox Christians also offer candles, prosphora — the bread baked for the liturgy — wine, oil and incense, and many leave something of their own worth instead: jewellery, a pectoral cross, a military decoration. *Inference —* a medal a man was given for war, hung on an icon because a prayer was answered, is the most compressed object in this whole atlas.\n\nThey are bought in shops selling Greek Orthodox religious goods, and the practice runs beyond Greece: the cited account records tamata in Italy too, particularly in the south, where they stand next to the Catholic ex-voto trade rather than instead of it.",
   "how": "Stamped or cast, pierced, threaded with a ribbon, and hung on a pole or a hook by the icon — the hanging done by the petitioner, with a prayer, sometimes with a candle. Nothing consecrates the plaque before it is offered; the offering is the act. They accumulate. What a church does with a wall of them after some years is not described by the sources read here, and this record does not guess.",
   "today": "Still sold in Greek Orthodox religious-goods shops and still hung on icons in Greece and in southern Italy, and wherever the Greek diaspora has built a church. No dated price was read for this record."
+ },
+ "text_th": {
+  "what": "แผ่นโลหะขนาดเล็ก ทั้งโลหะทั่วไปและโลหะมีค่า ดุนเป็นรูป: หัวใจ ดวงตา มือ ขา รูปคนคุกเข่าทั้งตัว บ้าน ทารก เรือ มีริบบิ้นร้อยผ่าน นำไปแขวนบนราวหรือตะขอข้างรูปเคารพ (ไอคอน) ของนักบุญ และทิ้งไว้ที่นั่น"
  },
  "dating": {
   "period": "not dated by the sources read here",
@@ -241,63 +245,81 @@
    "type": "amulet",
    "name": "Milagro",
    "as": "the same object in Spanish — the cited accounts on both sides call them equivalents, and this is the one that goes on an icon rather than on a robe",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "มิลาโกร (แผ่นโลหะแก้บน)",
+   "as_th": ""
   },
   {
    "to": "ex-voto-wall",
    "type": "art",
    "name": "The ex-voto wall",
    "as": "what a much-visited icon looks like after some hundreds of these have been hung on it",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "ผนังภาพแก้บน (เอ็กซ์โวโต)",
+   "as_th": ""
   },
   {
    "to": "ladanka",
    "type": "amulet",
    "name": "Ladanka",
    "as": "the other Orthodox object in this atlas — that one is worn on the body, this one is given away",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ลาดันกา (ถุงกำยานออร์โธด็อกซ์)",
+   "as_th": ""
   },
   {
    "to": "votive-wall",
    "type": "art",
    "name": "The votive wall",
    "as": "the wall this ends up on, and the form the offering takes when there are enough of them",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "กำแพงของถวาย",
+   "as_th": ""
   },
   {
    "to": "silver",
    "type": "material",
    "name": "Silver",
    "as": "the metal of the costly version, and the reason a wall of these is worth something",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เงิน (โลหะเงิน)",
+   "as_th": ""
   },
   {
    "to": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "one of the shapes stamped on them, here meaning an eye that hurts rather than an eye that looks",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "hand",
    "type": "motif",
    "name": "The hand",
    "as": "the shape with the oldest story attached to it — John of Damascus had a silver one made for the hand he said was restored",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "มือ",
+   "as_th": ""
   },
   {
    "to": "blessing-at-a-shrine",
    "type": "practice",
    "name": "Blessing at a shrine",
    "as": "the act the object exists for, done by the petitioner and not by a priest",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การนำไปรับพรที่ศาสนสถาน",
+   "as_th": ""
   },
   {
    "to": "monastiraki",
    "type": "place",
    "name": "Monastiraki",
    "as": "one Athens market where the religious-goods shops selling these are within a few streets",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "โมนาสติรากิ",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -441,35 +463,45 @@
    "type": "amulet",
    "name": "Ladanka",
    "as": "the other Orthodox object in this atlas, and the one that goes on the icon rather than on the body",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ลาดันกา (ถุงกำยานออร์โธด็อกซ์)",
+   "as_th": ""
   },
   {
    "from": "milagro",
    "type": "amulet",
    "name": "Milagro",
    "as": "the Greek Orthodox object this one corresponds to almost exactly — same body parts, same thin metal, same icon",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "มิลาโกร (แผ่นโลหะแก้บน)",
+   "as_th": ""
   },
   {
    "from": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "the Orthodox counterpart, which does the giving-back in stamped metal",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   },
   {
    "from": "ex-voto-wall",
    "type": "art",
    "name": "The ex-voto wall",
    "as": "the Orthodox equivalent, which the Mexican milagro corresponds to almost exactly",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ผนังภาพแก้บน (เอ็กซ์โวโต)",
+   "as_th": ""
   },
   {
    "from": "votive-wall",
    "type": "art",
    "name": "The votive wall",
    "as": "the metal plaque this wall is mostly made of in Greece and the Orthodox world",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "กำแพงของถวาย",
+   "as_th": ""
   }
  ]
 }

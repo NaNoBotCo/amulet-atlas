@@ -8,7 +8,16 @@
   "script": "Tifinagh",
   "lang": "tmh",
   "said": "tanaghilt (tanaɣilt), or tasagalt — 'cast in a mould'; the plate-shaped kind is talhakim",
-  "aliases": ["Croix d'Agadez", "Agadès cross", "Cross of Niger", "tanaghilt", "talhakim", "zakkat", "kaulé"]
+  "aliases": [
+   "Croix d'Agadez",
+   "Agadès cross",
+   "Cross of Niger",
+   "tanaghilt",
+   "talhakim",
+   "zakkat",
+   "kaulé"
+  ],
+  "th": "กางเขนอากาเดซ"
  },
  "etymology": {
   "root": "Tamashek tanaghilt / tasagalt, 'cast in a mould' — the name is a description of the method, not of a shape. Talhakim covers jewellery resembling a plate or a plate shield. Zakkat is the general Tamashek word for pendants; kaulé is widespread across the Sahel.",
@@ -16,14 +25,31 @@
   "tier": "cited",
   "source": "s:wp-agadez-cross"
  },
- "region": ["west-africa", "maghreb"],
- "countries": ["NE"],
- "facets": {"era": "living", "status": "living", "portable": "worn", "restricted": "limited", "hemisphere": ["N", "E"]},
+ "region": [
+  "west-africa",
+  "maghreb"
+ ],
+ "countries": [
+  "NE"
+ ],
+ "facets": {
+  "era": "living",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "limited",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "A cast pendant, usually silver, with a ring or loop at the top and a flared, spreading body below — sometimes a cross, more often a shape between a cross and a shield. Blacksmiths cast it by the lost-wax process and never hammer the metal. The plate-shaped kind, talhakim, is cut from soft stone or from platelets of copper, aluminium or another metal; the tanaghilt is made in stone or copper.",
   "story": "This is the best-known category of Saharan Berber jewellery, made especially by the Tuareg of Niger — and its use is narrower than its fame. Current use of tanaghilt and talhakim is restricted to a few Tuareg groups, the Kel Aïr and the Kel Geress, and to non-Berber peoples across Niger who have taken it up: Songhai, Zarma, Fulani, Hausa. Other Tuareg barely use them. Worn as ornaments, the pieces hang at the neck; a tanaghilt is also fixed to a woman's veil or to her forehead, and fixed upside down.\n\nAsk the people wearing them what the shape means and the answers go vague. The source says so flatly: any question about their symbolism put to the users generally elicits only vague answers. Some name it a grigri; some call it a reserve of wealth.\n\nThe ethnologists Germaine Dieterlen and Ziedonis Ligers recorded one occasion that does give the object a sentence of its own. A father handed the jewel to his son at the age of virility, marriage and nomadism, and said: \"My son, I give you the four directions of the world, because we do not know where you will go to die.\"\n\nA Tuareg elder's narration gives another origin. A young nomad wanted to declare his love to a girl shut up at home and out of reach. The village blacksmith had an important place in Tuareg society and the right to enter the houses of all the families he traded with, so the young man had a jewel forged that combined the two syllables of the Tamashek word tara, love, written ⵜⵔ in Tifinagh, and sent the blacksmith in with it.\n\n*Tradition holds —* the image may go back to ancient stylised images of the Carthaginian goddess Tanit. The source offers that as a possibility and this atlas leaves it there.",
   "how": "Cast by a blacksmith in silver by the lost-wax process — a wax model, a mould, the wax melted out, the metal poured in — and never hammered. The stone and platelet kinds are cut. Worn at the neck, or fixed to a woman's veil or forehead, upside down.",
   "today": "Made and worn, and also the standard thing a visitor to Niger brings home. As of 2026 this project has read no figure for the split between the two, and no source that says Tuareg smiths object to either."
+ },
+ "text_th": {
+  "what": "จี้หล่อ มักเป็นเงิน มีห่วงหรือวงแหวนที่ด้านบน และตัวจี้ด้านล่างบานกว้างออก — บางครั้งเป็นกางเขน บ่อยกว่านั้นเป็นรูปทรงระหว่างกางเขนกับโล่ ช่างตีเหล็กหล่อด้วยวิธีขี้ผึ้งหาย และไม่เคยตีขึ้นรูปโลหะเลย แบบรูปแผ่นที่เรียกว่า ตัลฮากิม (talhakim) ตัดจากหินเนื้ออ่อน หรือจากแผ่นทองแดง อะลูมิเนียม หรือโลหะอื่น ส่วนตานาฆิลต์ (tanaghilt) ทำจากหินหรือทองแดง"
  },
  "dating": {
   "period": "living Tuareg practice; the image is sometimes traced further back",
@@ -39,41 +65,115 @@
  },
  "object": {
   "form": "pendant",
-  "materials": ["silver", "copper"],
-  "worn": ["neck", "head"],
+  "materials": [
+   "silver",
+   "copper"
+  ],
+  "worn": [
+   "neck",
+   "head"
+  ],
   "made_by": "blacksmiths, who in Tuareg society hold a position that gives them the right to enter the houses of the families they trade with",
   "inscription": "none as a rule; one narration has the shape combining the two Tifinagh letters of tara, 'love'",
   "script": "Tifinagh",
-  "colour": ["silver"],
+  "colour": [
+   "silver"
+  ],
   "single_use": false,
   "source": "s:wp-agadez-cross",
   "note": "Aluminium and soft stone are also named by the source for the talhakim kind; neither has a key in materials.json. No measurement is published."
  },
  "against": [
-  {"harm": "travel", "who": "the father in Dieterlen and Ligers's account, handing it to a son at the age of nomadism", "quote": "My son, I give you the four directions of the world, because we do not know where you will go to die", "source": "s:wp-agadez-cross", "tier": "cited"},
-  {"harm": "poverty", "who": "users who describe it as a reserve of wealth", "source": "s:wp-agadez-cross", "tier": "cited"},
-  {"harm": "bad-luck", "who": "users who attribute to it the function of a grigri, the source's word", "source": "s:wp-agadez-cross", "tier": "cited", "note": "the source records vague answers about symbolism and this atlas does not improve on them"}
+  {
+   "harm": "travel",
+   "who": "the father in Dieterlen and Ligers's account, handing it to a son at the age of nomadism",
+   "quote": "My son, I give you the four directions of the world, because we do not know where you will go to die",
+   "source": "s:wp-agadez-cross",
+   "tier": "cited"
+  },
+  {
+   "harm": "poverty",
+   "who": "users who describe it as a reserve of wealth",
+   "source": "s:wp-agadez-cross",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "users who attribute to it the function of a grigri, the source's word",
+   "source": "s:wp-agadez-cross",
+   "tier": "cited",
+   "note": "the source records vague answers about symbolism and this atlas does not improve on them"
+  }
  ],
  "kin": [
-  {"to": "gris-gris", "as": "the word some wearers reach for when asked what this is — a Mande word travelling north across the Sahel with the object it names", "rel": "term"},
-  {"to": "silver", "as": "the metal the smiths cast it in, and never hammer", "rel": "material"},
-  {"to": "cross", "as": "the sign in the European name, which most of these pieces do not actually make", "rel": "motif"},
-  {"to": "islamic-talismanic", "as": "the tradition of the region it is worn in, though nothing in the sources read here puts writing inside this object", "rel": "parallel"},
-  {"to": "marrakesh-souk", "as": "the northern market where Saharan silver of this kind reaches buyers", "rel": "place"},
-  {"to": "hirz-pouch", "as": "the other silver charm in this batch, and the contrast: that one is a container for a text, this one is solid", "rel": "contrast"},
-  {"to": "the-fake-market", "as": "the long read on what a visitor buys and what a wearer wears", "rel": "story"}
+  {
+   "to": "gris-gris",
+   "as": "the word some wearers reach for when asked what this is — a Mande word travelling north across the Sahel with the object it names",
+   "rel": "term"
+  },
+  {
+   "to": "silver",
+   "as": "the metal the smiths cast it in, and never hammer",
+   "rel": "material"
+  },
+  {
+   "to": "cross",
+   "as": "the sign in the European name, which most of these pieces do not actually make",
+   "rel": "motif"
+  },
+  {
+   "to": "islamic-talismanic",
+   "as": "the tradition of the region it is worn in, though nothing in the sources read here puts writing inside this object",
+   "rel": "parallel"
+  },
+  {
+   "to": "marrakesh-souk",
+   "as": "the northern market where Saharan silver of this kind reaches buyers",
+   "rel": "place"
+  },
+  {
+   "to": "hirz-pouch",
+   "as": "the other silver charm in this batch, and the contrast: that one is a container for a text, this one is solid",
+   "rel": "contrast"
+  },
+  {
+   "to": "the-fake-market",
+   "as": "the long read on what a visitor buys and what a wearer wears",
+   "rel": "story"
+  }
  ],
- "links": [{"label": "Agadez Cross — Wikipedia", "url": "https://en.wikipedia.org/wiki/Agadez_Cross"}],
- "sources": ["s:wp-agadez-cross", "s:wp-silver", "s:wp-gris-gris-talisman"],
+ "links": [
+  {
+   "label": "Agadez Cross — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Agadez_Cross"
+  }
+ ],
+ "sources": [
+  "s:wp-agadez-cross",
+  "s:wp-silver",
+  "s:wp-gris-gris-talisman"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-agadez-cross"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-agadez-cross"
+  },
   "fields": {
-   "dating": {"tier": "inference", "source": "s:wp-agadez-cross", "note": "the source dates nothing; the year entered is a placeholder and the note says so"},
-   "text.today": {"tier": "inference", "note": "the souvenir trade is reasoned from the object being called the most popular category of Saharan Berber jewellery; no market source was read"}
+   "dating": {
+    "tier": "inference",
+    "source": "s:wp-agadez-cross",
+    "note": "the source dates nothing; the year entered is a placeholder and the note says so"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "the souvenir trade is reasoned from the object being called the most popular category of Saharan Berber jewellery; no market source was read"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Croix d'Agadez.jpg"],
+ "x_commons_files": [
+  "File:Croix d'Agadez.jpg"
+ ],
  "confidence": "medium",
  "needs_verification": true,
  "updated": "2026-09-16"

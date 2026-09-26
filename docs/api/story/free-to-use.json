@@ -8,7 +8,8 @@
    "the licensing record",
    "what you may do with this",
    "CC BY 4.0 and MIT"
-  ]
+  ],
+  "th": "ใช้ได้อย่างเสรี"
  },
  "region": [
   "world"
@@ -19,6 +20,9 @@
  },
  "text": {
   "what": "This is the licence explained to the person who wants to take something. The records and the pages built from them are under Creative Commons Attribution 4.0. The code that builds them is MIT. Every picture keeps whatever licence it arrived with and is not relicensed by being here. The country outlines are public domain. Quotations belong to the people who said them. And there is one thing in this repository that the licence cannot reach, which this record states as a request rather than pretending it is a term."
+ },
+ "text_th": {
+  "what": "นี่คือคำอธิบายสัญญาอนุญาตสำหรับผู้ที่ต้องการนำบางอย่างไปใช้ บันทึกทั้งหมดและหน้าเว็บที่สร้างจากบันทึกเหล่านั้นอยู่ภายใต้สัญญาอนุญาตครีเอทีฟคอมมอนส์แบบแสดงที่มา 4.0 (CC BY 4.0) โค้ดที่ใช้สร้างอยู่ภายใต้สัญญาอนุญาต MIT รูปภาพทุกภาพยังคงใช้สัญญาอนุญาตเดิมที่ติดมาด้วย และไม่ได้เปลี่ยนสัญญาอนุญาตเพียงเพราะมาอยู่ที่นี่ เส้นขอบประเทศเป็นสาธารณสมบัติ คำพูดที่ยกมาเป็นของผู้ที่พูด และมีสิ่งหนึ่งในคลังข้อมูลนี้ที่สัญญาอนุญาตไปไม่ถึง ซึ่งบันทึกนี้ระบุไว้เป็นคำขอ ไม่ได้แสร้งว่าเป็นเงื่อนไข"
  },
  "sections": [
   {
@@ -162,56 +166,72 @@
    "type": "story",
    "name": "What this atlas does not print",
    "as": "the restriction rule this licence deliberately cannot enforce, set out at length",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สิ่งที่แอตลาสนี้ไม่ตีพิมพ์",
+   "as_th": ""
   },
   {
    "to": "dating-a-charm",
    "type": "story",
    "name": "Dating a charm",
    "as": "the other note about how this site is built, rather than about what it describes",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การระบุอายุเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the same question about objects instead of about text: what may be kept, and by whom",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "wikimedia-commons",
    "type": "org",
    "name": "Wikimedia Commons",
    "as": "where every picture in this atlas is to come from, and whose free-content test the pipeline copies",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "วิกิมีเดียคอมมอนส์",
+   "as_th": ""
   },
   {
    "to": "the-drawn-signs",
    "type": "art",
    "name": "The drawn signs",
    "as": "the images the project makes itself, drawn from published descriptions and released with the records",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "ภาพสัญลักษณ์ลายเส้น",
+   "as_th": ""
   },
   {
    "to": "pitt-rivers-museum",
    "type": "org",
    "name": "The Pitt Rivers Museum",
    "as": "one of the collections whose own published terms govern what this atlas may show of its objects",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์พิตต์ ริเวอร์ส",
+   "as_th": ""
   },
   {
    "to": "te-papa",
    "type": "org",
    "name": "Museum of New Zealand Te Papa Tongarewa",
    "as": "a museum whose copyright and taonga terms set conditions this licence has to respect rather than override",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์นิวซีแลนด์ เตปาปาตองกาเรวา",
+   "as_th": ""
   },
   {
    "to": "unesco-ich",
    "type": "org",
    "name": "UNESCO Intangible Cultural Heritage",
    "as": "the register that raises the same question at state scale — who may list, and who may reuse, somebody else's practice",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "มรดกทางวัฒนธรรมที่จับต้องไม่ได้ของยูเนสโก",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -316,91 +336,117 @@
    "type": "place",
    "name": "Room 1: Enlightenment, the British Museum",
    "as": "the long read on licensing; this museum's images can be linked from here and not hosted here",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ห้อง 1: ยุคเรืองปัญญา พิพิธภัณฑ์บริติช",
+   "as_th": ""
   },
   {
    "from": "met-egyptian-galleries",
    "type": "place",
    "name": "The Egyptian galleries, the Metropolitan Museum of Art",
    "as": "the long read on licensing, where the CC0 dedication behind these object records is the case that works",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ห้องจัดแสดงอียิปต์ พิพิธภัณฑ์ศิลปะเมโทรโพลิแทน",
+   "as_th": ""
   },
   {
    "from": "british-museum",
    "type": "org",
    "name": "The British Museum",
    "as": "the long read on licensing, where this museum is the worked example of a licence that looks open and is not",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "พิพิธภัณฑ์บริติช (บริติชมิวเซียม)",
+   "as_th": ""
   },
   {
    "from": "metropolitan-museum",
    "type": "org",
    "name": "The Metropolitan Museum of Art",
    "as": "the long read on licensing; CC0 here is the case that works",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "พิพิธภัณฑ์ศิลปะเมโทรโพลิทัน (เดอะเมต)",
+   "as_th": "บทความขนาดยาวเรื่องสัญญาอนุญาต ซึ่ง CC0 ที่นี่คือกรณีที่ใช้ได้ผล"
   },
   {
    "from": "wellcome-collection",
    "type": "org",
    "name": "Wellcome Collection",
    "as": "the long read on licensing, where a per-item licence like this one is the awkward middle case",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เวลคัมคอลเลกชัน",
+   "as_th": ""
   },
   {
    "from": "wikimedia-commons",
    "type": "org",
    "name": "Wikimedia Commons",
    "as": "the long read this record is the machinery behind — what this atlas may show, and why the gaps are where they are",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "วิกิมีเดียคอมมอนส์",
+   "as_th": ""
   },
   {
    "from": "budge-plates",
    "type": "art",
    "name": "Budge's amulet plates",
    "as": "why these plates are named here and not shown here: the catalogue record says in copyright",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "แผ่นภาพเครื่องรางของบัดจ์",
+   "as_th": ""
   },
   {
    "from": "petrie-amulet-plates",
    "type": "art",
    "name": "Petrie's amulet plates",
    "as": "why these plates can appear here at all: no visible copyright notice, 1914",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "แผ่นภาพเครื่องรางของพีทรี",
+   "as_th": ""
   },
   {
    "from": "the-drawn-signs",
    "type": "art",
    "name": "The drawn signs",
    "as": "the licence record: what you may do with these drawings, in full",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ภาพสัญลักษณ์ลายเส้น",
+   "as_th": ""
   },
   {
    "from": "amulet-or-talisman",
    "type": "story",
    "name": "Amulet or talisman?",
    "as": "the other record about this project's own terms, rather than about anybody else's",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "อะมูเล็ตหรือทาลิสแมน?",
+   "as_th": ""
   },
   {
    "from": "dating-a-charm",
    "type": "story",
    "name": "Dating a charm",
    "as": "the third record about this project's own workings: who may reuse all of this, and on what terms",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การระบุอายุเครื่องราง",
+   "as_th": ""
   },
   {
    "from": "the-swastika-problem",
    "type": "story",
    "name": "The swastika problem",
    "as": "the licensing record, which is where the question of who may reuse this material is answered",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ปัญหาเรื่องสวัสติกะ",
+   "as_th": "บันทึกเรื่องสัญญาอนุญาต ซึ่งเป็นที่ตอบคำถามว่าใครนำเนื้อหานี้ไปใช้ซ้ำได้บ้าง"
   },
   {
    "from": "what-this-atlas-does-not-print",
    "type": "story",
    "name": "What this atlas does not print",
    "as": "what this project does publish, and on what terms",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สิ่งที่แอตลาสนี้ไม่ตีพิมพ์",
+   "as_th": ""
   }
  ]
 }

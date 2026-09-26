@@ -15,7 +15,8 @@
    "crux ansata",
    "Coptic cross",
    "Agadez cross"
-  ]
+  ],
+  "th": "กางเขน"
  },
  "region": [
   "rome-italy",
@@ -54,6 +55,9 @@
  "text": {
   "what": "Two lines crossing, usually at right angles. The variations are named and they matter: the †-shaped crux immissa, the T-shaped crux commissa or tau, the X-shaped crux decussata or saltire, the crux ansata with a loop on top. Worn as a pendant, tattooed at the wrist, woven from rushes, cast in Saharan silver, hung over a door.",
   "story": "Two intersecting lines are the cheapest mark a hand can make, so the shape has no single origin. Cross-shaped incisions appear from deep prehistory, as petroglyphs in European cult caves from the beginning of the Upper Palaeolithic and right through to the Iron Age. The cross mark also turns up as a number independently — Roman X for ten, Chinese rod numeral 十 for ten, the Brahmi numeral that becomes 4 — and in the Phoenician alphabet it is taw, whose name means mark.\n\nThe Christian cross is a later, dated adoption of an existing shape. It came into use as an emblem of Christianity from the second century CE, in the Latin letter T form, after Ichthys. Clement of Alexandria in the early third century calls it the Lord's sign. Tertullian, writing De Corona in 204, says it was already a tradition for Christians to trace the sign repeatedly on their foreheads — a cross made of a gesture before it is made of metal. Crosses with intersecting beams appear in Christian art towards the end of Late Antiquity; the patriarchal cross first appears in the tenth century; heraldry multiplies the forms from the Crusades onward.\n\nWhat gets hung on a neck varies by church and by craft. The Coptic cross is two bold equal bars, each ending in three points for the Trinity, twelve points in all for the Apostles, often with a circle at the centre for God's love; the trefoil form developed locally from the short Greek cross. Many Copts have a cross tattooed on the inside of the right wrist as a sign of faith. In Ireland the cross is woven: the National Museum of Ireland sorts Brigid's crosses into seven categories by build rather than by outline, including a bent-armed type and a wheel type.\n\nThe Tuareg Agadez cross is the case that resists the word. Only a few tanaghilt actually resemble a cross; most are pendants with a varied silhouette, cast by blacksmiths in silver by lost-wax and never hammered. Asked what it means, users generally give vague answers; some call it a grigri or a reserve of wealth. The ethnologists Germaine Dieterlen and Ziedonis Ligers recorded a father giving the jewel to his son at the age of virility, marriage and nomadism with the words: my son, I give you the four directions of the world, because we do not know where you will go to die.\n\n*Inference —* filing all of these under one sign is a convenience of shape, not a claim of common descent, and the Agadez piece is here mainly to show where the convenience breaks."
+ },
+ "text_th": {
+  "what": "เส้นสองเส้นไขว้กัน มักเป็นมุมฉาก รูปแบบที่แตกต่างกันมีชื่อเรียกและมีความสำคัญ: ครุกซ์อิมมิสซา (crux immissa) รูป † ครุกซ์คอมมิสซา (crux commissa) หรือเทา รูปตัว T ครุกซ์เดคุสซาตา (crux decussata) หรือซอลไทร์ รูปตัว X และครุกซ์อันซาตา (crux ansata) ที่มีห่วงอยู่ด้านบน สวมเป็นจี้ สักที่ข้อมือ สานจากต้นกก หล่อจากเงินแห่งสะฮารา แขวนไว้เหนือประตู"
  },
  "kin": [
   {
@@ -287,70 +291,90 @@
    "type": "amulet",
    "name": "Coptic cross tattoo",
    "as": "the cross put in the skin rather than on a chain, at the inside of the right wrist",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "รอยสักกางเขนคอปติก",
+   "as_th": ""
   },
   {
    "to": "brigids-cross",
    "type": "amulet",
    "name": "Brigid's cross",
    "as": "the cross woven from rushes on 1 February and hung in the rafters",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กางเขนนักบุญบริจิด",
+   "as_th": ""
   },
   {
    "to": "tuareg-cross",
    "type": "amulet",
    "name": "Agadez cross",
    "as": "the Saharan pendant called a cross in French and something else in Tamashek",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กางเขนอากาเดซ",
+   "as_th": ""
   },
   {
    "to": "rowan-cross",
    "type": "amulet",
    "name": "Rowan cross",
    "as": "two twigs of rowan bound crosswise, which is a cross made of the material's power rather than the shape's",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กางเขนไม้โรวัน",
+   "as_th": ""
   },
   {
    "to": "ankh-amulet",
    "type": "amulet",
    "name": "Ankh amulet",
    "as": "the crux ansata — the same figure with a loop, and a meaning Egypt fixed long before Rome",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เครื่องรางอังค์",
+   "as_th": ""
   },
   {
    "to": "fish",
    "type": "motif",
    "name": "The fish",
    "as": "the sign the cross succeeded as the emblem of Christianity in the second century",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "ปลา",
+   "as_th": ""
   },
   {
    "to": "swastika-sign",
    "type": "motif",
    "name": "The swastika",
    "as": "the bent-armed cross, filed separately here because its twentieth-century history is not the cross's",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "สวัสดิกะ",
+   "as_th": ""
   },
   {
    "to": "st-christopher-medal",
    "type": "amulet",
    "name": "St Christopher medal",
    "as": "the mass-produced Catholic metal the cross now shares a neck with",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เหรียญนักบุญคริสโตเฟอร์",
+   "as_th": ""
   },
   {
    "to": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "the tradition that governs what a blessed cross is and is not",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   },
   {
    "to": "silver",
    "type": "material",
    "name": "Silver",
    "as": "the metal the Agadez smiths cast it in, by lost wax and never hammered",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เงิน (โลหะเงิน)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -576,98 +600,126 @@
    "type": "amulet",
    "name": "Agnus Dei",
    "as": "the sign the lamb carries",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "อักนุส เดอี (ลูกแกะของพระเจ้า)",
+   "as_th": ""
   },
   {
    "from": "ankh-amulet",
    "type": "amulet",
    "name": "Ankh amulet",
    "as": "the sign it is most often mistaken for, and the sign it fed",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เครื่องรางอังค์",
+   "as_th": ""
   },
   {
    "from": "brigids-cross",
    "type": "amulet",
    "name": "Brigid's cross",
    "as": "the sign it is named for, made in the one material a cross is almost never made in",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "กางเขนนักบุญบริจิด",
+   "as_th": ""
   },
   {
    "from": "coptic-cross-tattoo",
    "type": "amulet",
    "name": "Coptic cross tattoo",
    "as": "the sign, in its Coptic form: four equal arms, three points on each, twelve points for the Apostles",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "รอยสักกางเขนคอปติก",
+   "as_th": ""
   },
   {
    "from": "ethiopian-magic-scroll",
    "type": "amulet",
    "name": "Ethiopian talismanic scroll",
    "as": "the other sign it carries, and the church whose language it is written in",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "คัมภีร์ม้วนเครื่องรางเอธิโอเปีย (คิตาบ)",
+   "as_th": ""
   },
   {
    "from": "ladanka",
    "type": "amulet",
    "name": "Ladanka",
    "as": "the sign it is worn with and never instead of",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ลาดันกา (ถุงกำยานออร์โธด็อกซ์)",
+   "as_th": ""
   },
   {
    "from": "miraculous-medal",
    "type": "amulet",
    "name": "Miraculous Medal",
    "as": "the sign over the M on its reverse",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เหรียญอัศจรรย์",
+   "as_th": ""
   },
   {
    "from": "mjolnir-pendant",
    "type": "amulet",
    "name": "Mjölnir pendant",
    "as": "the sign arriving from the other direction — hammer pendants multiply as cross pendants spread through Scandinavia, and scholars read the one as an answer to the other",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "จี้มโยลเนียร์ (ค้อนธอร์)",
+   "as_th": ""
   },
   {
    "from": "st-christopher-medal",
    "type": "amulet",
    "name": "St Christopher medal",
    "as": "the sign stamped on the reverse of most of them",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เหรียญนักบุญคริสโตเฟอร์",
+   "as_th": ""
   },
   {
    "from": "tuareg-cross",
    "type": "amulet",
    "name": "Agadez cross",
    "as": "the sign in the European name, which most of these pieces do not actually make",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "กางเขนอากาเดซ",
+   "as_th": ""
   },
   {
    "from": "fish",
    "type": "motif",
    "name": "The fish",
    "as": "the sign that succeeded the fish as the emblem of Christianity from the second century",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "ปลา",
+   "as_th": ""
   },
   {
    "from": "key",
    "type": "motif",
    "name": "The key",
    "as": "the other Catholic sign that travelled into Vodou by the same route of matched functions",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กุญแจ",
+   "as_th": ""
   },
   {
    "from": "swastika-sign",
    "type": "motif",
    "name": "The swastika",
    "as": "the unbent figure, which this atlas files separately because the twentieth century is not shared",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "สวัสดิกะ",
+   "as_th": "รูปกากบาทที่แขนไม่หัก ซึ่งแอตลาสนี้แยกเก็บไว้ต่างหาก เพราะคริสต์ศตวรรษที่ 20 ไม่ได้เป็นของร่วมกัน"
   },
   {
    "from": "the-swastika-problem",
    "type": "story",
    "name": "The swastika problem",
    "as": "the neighbouring sign, whose bent-armed version appears in Romanesque and Gothic churches without any of this history attached",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ปัญหาเรื่องสวัสติกะ",
+   "as_th": "เครื่องหมายข้างเคียง ซึ่งแบบที่แขนหักงอปรากฏอยู่ในโบสถ์แบบโรมาเนสก์และแบบกอทิก โดยไม่มีประวัติเหล่านี้ติดมาด้วยเลย"
   }
  ]
 }

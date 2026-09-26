@@ -14,7 +14,8 @@
    "Jesus fish",
    "fish charm",
    "yu"
-  ]
+  ],
+  "th": "ปลา"
  },
  "region": [
   "levant",
@@ -46,6 +47,9 @@
  "text": {
   "what": "A fish in outline, usually two curved strokes crossing at the tail. In Christian use the Greek letters ΙΧΘΥΣ are sometimes written inside it. In China it is cast as a coin charm shaped like a fish and hung on a child. In Aotearoa the related shape is not a fish but the hook that catches one.",
   "story": "The Christian fish is an acrostic before it is an animal. ΙΧΘΥΣ spells out Ἰησοῦς Χρῑστός Θεοῦ Υἱός Σωτήρ — Jesus Christ, God's Son, Saviour. It appears in Christian art and literature from the second century CE and is widespread by the late second to fourth. It is found in the Catacombs of Saint Sebastian and the Catacomb of Priscilla, in the marble ruins of Ephesus, and on funerary stelae carrying inscriptions such as ΙΧΘΥϹ ΖΩΝΤΩΝ, fish of the living.\n\nThe story most people have heard about it is disputed. Robert Mowat proposed in 1900 that it was a secret sign among persecuted Christians, arguing from silence. Modern scholarship disputes that: Rasimus lists it among solutions that were once popular, and no early Christian source ties the fish to persecution. The connections the early sources do make are to baptism, to the Eucharist and to the feeding of the multitude.\n\nThe fish also turns up on a dated amulet with a word square on its back. The earliest Sator square with explicit Christian imagery is a sixth-century bronze amulet from Asia Minor: two fish turned towards one another on one side, the Sator square in Greek characters on the other, and ICHTHUS written above the square. It is in the Berlin State Museums.\n\nChina's fish is a coin. Among the shapes Chinese numismatic charms took as they separated from circulating coinage were spades, locks, fish, peaches and gourds, and fish and lock charms were worn mainly by young children and infants — daily wear rather than festival wear.\n\n*Inference —* this atlas has not found a source connecting the Christian fish and the Chinese fish charm, and does not connect them. A fish is a common animal and an easy outline; two traditions reaching for it is not evidence of contact."
+ },
+ "text_th": {
+  "what": "ปลาที่วาดเป็นเส้นรอบรูป มักเป็นเส้นโค้งสองเส้นไขว้กันที่หาง ในการใช้ของคริสต์ศาสนา บางครั้งมีอักษรกรีก ΙΧΘΥΣ เขียนอยู่ข้างใน ในจีนหล่อเป็นเหรียญเครื่องรางรูปปลาแล้วแขวนให้เด็ก ในอาโอเทอารัว (นิวซีแลนด์) รูปทรงที่เกี่ยวข้องไม่ใช่ปลา แต่เป็นเบ็ดที่ใช้จับปลา"
  },
  "kin": [
   {
@@ -234,49 +238,63 @@
    "type": "motif",
    "name": "The cross",
    "as": "the sign that succeeded the fish as the emblem of Christianity from the second century",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "กางเขน",
+   "as_th": ""
   },
   {
    "to": "palindrome-word",
    "type": "motif",
    "name": "The word that reads both ways",
    "as": "the sixth-century amulet carries both — two fish on one face, the Sator square on the other",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "คำที่อ่านได้สองทาง",
+   "as_th": ""
   },
   {
    "to": "charm-coin",
    "type": "amulet",
    "name": "Chinese charm coin",
    "as": "the Chinese fish-shaped charm, worn mainly by infants and young children",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เหรียญเครื่องรางจีน (เอี้ยนเซิ่งเฉียน)",
+   "as_th": ""
   },
   {
    "to": "hei-matau",
    "type": "amulet",
    "name": "Hei matau",
    "as": "the Māori fish hook, which is a different object with its own account and no line to either of these",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เฮย์ มาเตา (จี้ตะขอเบ็ดเมารี)",
+   "as_th": ""
   },
   {
    "to": "cimaruta",
    "type": "amulet",
    "name": "Cimaruta",
    "as": "one of the shapes that sprouts from the Neapolitan silver sprig is a fish",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ชีมารูตา (กิ่งต้นรูเครื่องรางอิตาลี)",
+   "as_th": ""
   },
   {
    "to": "coin-square",
    "type": "motif",
    "name": "The square hole",
    "as": "the shape the Chinese fish charm departs from — the round coin with the square hole",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "รูสี่เหลี่ยม",
+   "as_th": ""
   },
   {
    "to": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "the fish spells a name; it belongs with the written charms as much as with the animal ones",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "พระนาม",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -465,21 +483,27 @@
    "type": "amulet",
    "name": "Hei matau",
    "as": "the sign behind the shape, and behind the name of the North Island",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เฮย์ มาเตา (จี้ตะขอเบ็ดเมารี)",
+   "as_th": ""
   },
   {
    "from": "cross",
    "type": "motif",
    "name": "The cross",
    "as": "the sign the cross succeeded as the emblem of Christianity in the second century",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "กางเขน",
+   "as_th": ""
   },
   {
    "from": "palindrome-word",
    "type": "motif",
    "name": "The word that reads both ways",
    "as": "the sixth-century Sator amulet has two fish on its other face and ICHTHUS written above the square",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "คำที่อ่านได้สองทาง",
+   "as_th": ""
   }
  ]
 }

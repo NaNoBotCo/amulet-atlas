@@ -7,7 +7,8 @@
   "aliases": [
    "the restriction rule",
    "why Australia is blank"
-  ]
+  ],
+  "th": "สิ่งที่แอตลาสนี้ไม่ตีพิมพ์"
  },
  "region": [
   "world",
@@ -22,6 +23,9 @@
  },
  "text": {
   "what": "Open the map and one continent is close to empty. Australia has one of the longest continuous records of protective objects anywhere, and this atlas prints almost none of it. That is not an oversight, a research gap or a shortage of published material — it is a rule, applied on purpose, and this record is the rule explained by the project that wrote it, to the reader who has just noticed the hole."
+ },
+ "text_th": {
+  "what": "เปิดแผนที่ดู แล้วจะพบว่ามีทวีปหนึ่งเกือบว่างเปล่า ออสเตรเลียมีหลักฐานเรื่องวัตถุคุ้มครองที่ต่อเนื่องยาวนานที่สุดแห่งหนึ่งในโลก และแอตลาสนี้แทบไม่ตีพิมพ์เรื่องนั้นเลย นั่นไม่ใช่ความตกหล่น ช่องว่างของการค้นคว้า หรือการขาดแคลนเอกสารที่ตีพิมพ์ แต่เป็นกฎที่ตั้งใจใช้ และบันทึกนี้คือคำอธิบายกฎนั้นจากโครงการที่เขียนมันขึ้น ถึงผู้อ่านที่เพิ่งสังเกตเห็นช่องโหว่"
  },
  "sections": [
   {
@@ -167,63 +171,81 @@
    "type": "org",
    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
    "as": "the body whose Act and Code this rule is modelled on, and whose wording is quoted here rather than paraphrased",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "สถาบันการศึกษาชาวอะบอริจินและชาวเกาะช่องแคบทอร์เรสแห่งออสเตรเลีย (AIATSIS)",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the companion read — this one is about what may be said, that one about what may be kept",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "pitt-rivers-museum",
    "type": "org",
    "name": "The Pitt Rivers Museum",
    "as": "a museum that applied the same test to its own cases in 2020, and published its reasons",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์พิตต์ ริเวอร์ส",
+   "as_th": ""
   },
   {
    "to": "wellcome-collection",
    "type": "org",
    "name": "Wellcome Collection",
    "as": "a collection that said in 2021 how its holdings were formed, and returned manuscripts in 2025",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "เวลคัมคอลเลกชัน",
+   "as_th": ""
   },
   {
    "to": "te-papa",
    "type": "org",
    "name": "Museum of New Zealand Te Papa Tongarewa",
    "as": "a museum built around the proposition that the originating community sets the terms",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์นิวซีแลนด์ เตปาปาตองกาเรวา",
+   "as_th": ""
   },
   {
    "to": "maori-taonga",
    "type": "tradition",
    "name": "Taonga Māori",
    "as": "a tradition with published protocols of its own, which this atlas follows rather than summarises",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ตาองกาเมารี",
+   "as_th": ""
   },
   {
    "to": "dating-a-charm",
    "type": "story",
    "name": "Dating a charm",
    "as": "the other methods note — why an undated record is not an undated object",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การระบุอายุเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "free-to-use",
    "type": "story",
    "name": "Free to use",
    "as": "what this project does publish, and on what terms",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใช้ได้อย่างเสรี",
+   "as_th": ""
   },
   {
    "to": "the-drawn-signs",
    "type": "art",
    "name": "The drawn signs",
    "as": "the pictures the atlas makes itself, partly so it never has to publish one it should not",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "ภาพสัญลักษณ์ลายเส้น",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -313,147 +335,189 @@
    "type": "amulet",
    "name": "Dreamcatcher",
    "as": "the long read explaining why this record carries a restriction and no method",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เครื่องดักฝัน",
+   "as_th": ""
   },
   {
    "from": "ethiopian-magic-scroll",
    "type": "amulet",
    "name": "Ethiopian talismanic scroll",
    "as": "the long read behind the restriction on this page — the scroll's text is not printed here",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "คัมภีร์ม้วนเครื่องรางเอธิโอเปีย (คิตาบ)",
+   "as_th": ""
   },
   {
    "from": "inuit-amulet",
    "type": "amulet",
    "name": "Inuit amulet",
    "as": "the long read explaining why this record stops where it stops",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เครื่องรางชาวอินูอิต",
+   "as_th": ""
   },
   {
    "from": "kamea",
    "type": "amulet",
    "name": "Kamea",
    "as": "the long read about the restricted block; this record is one of its examples",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "คาเมอา (เครื่องรางแบบเขียนของชาวยิว)",
+   "as_th": ""
   },
   {
    "from": "patua",
    "type": "amulet",
    "name": "Patuá",
    "as": "the long read explaining why this record stops where it stops",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ปาตูอา (ถุงเครื่องรางบราซิล)",
+   "as_th": ""
   },
   {
    "from": "tupilaq",
    "type": "amulet",
    "name": "Tupilaq",
    "as": "the long read explaining the restriction on this record",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ทูปิลัก",
+   "as_th": ""
   },
   {
    "from": "ethiopian-scroll-craft",
    "type": "tradition",
    "name": "Ethiopian scroll craft",
    "as": "the long read behind the restriction on this page",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "งานคัมภีร์ม้วนเอธิโอเปีย",
+   "as_th": ""
   },
   {
    "from": "maori-taonga",
    "type": "tradition",
    "name": "Taonga Māori",
    "as": "the rule this record is an application of: a tradition with published protocols of its own gets followed, not summarised",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตาองกาเมารี",
+   "as_th": ""
   },
   {
    "from": "tibetan-protection",
    "type": "tradition",
    "name": "Tibetan protection craft",
    "as": "the statement of why this record has gaps in it on purpose",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "งานเครื่องรางป้องกันภัยทิเบต (ซุงวา)",
+   "as_th": ""
   },
   {
    "from": "skin",
    "type": "material",
    "name": "Skin",
    "as": "the long read behind this record's restricted block",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ผิวหนัง",
+   "as_th": "บทความยาวเบื้องหลังส่วนที่จำกัดการเผยแพร่ของระเบียนนี้"
   },
   {
    "from": "tattooing",
    "type": "practice",
    "name": "Tattooing",
    "as": "the page that explains why the rite, the formulae and the design assignments are missing from this record",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การสัก",
+   "as_th": "หน้าที่อธิบายว่าทำไมพิธี คาถา และการกำหนดว่าลวดลายใดให้แก่ผู้ใด จึงไม่ปรากฏในบันทึกนี้"
   },
   {
    "from": "te-papa-taonga",
    "type": "place",
    "name": "Mana Whenua, Te Papa",
    "as": "the long read on restriction; the no-photography rule on Level 4 is one of its worked examples",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "มานาเฟนูอา ที่พิพิธภัณฑ์เตปาปา",
+   "as_th": ""
   },
   {
    "from": "aiatsis",
    "type": "org",
    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
    "as": "the long read this record is the citation behind — the reason Australia is mostly blank on this map is published policy, not an oversight",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สถาบันการศึกษาชาวอะบอริจินและชาวเกาะช่องแคบทอร์เรสแห่งออสเตรเลีย (AIATSIS)",
+   "as_th": ""
   },
   {
    "from": "nagpra",
    "type": "org",
    "name": "The Native American Graves Protection and Repatriation Act",
    "as": "the long read on restriction; the Act's categories of sacred object and cultural patrimony are one workable definition of the line",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "รัฐบัญญัติคุ้มครองและส่งคืนหลุมฝังศพชนพื้นเมืองอเมริกัน (NAGPRA)",
+   "as_th": ""
   },
   {
    "from": "pitt-rivers-museum",
    "type": "org",
    "name": "The Pitt Rivers Museum",
    "as": "the long read on restricted material, which this museum's 2020 removals bear on directly",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "พิพิธภัณฑ์พิตต์ ริเวอร์ส",
+   "as_th": ""
   },
   {
    "from": "te-papa",
    "type": "org",
    "name": "Museum of New Zealand Te Papa Tongarewa",
    "as": "the long read on restriction; Te Papa's taonga request is one of its worked examples",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "พิพิธภัณฑ์นิวซีแลนด์ เตปาปาตองกาเรวา",
+   "as_th": ""
   },
   {
    "from": "vodou-not-voodoo",
    "type": "term",
    "name": "Vodou and Vodún — and the spelling this atlas does not use",
    "as": "the statement of what is withheld here, including the initiations this record names and does not describe",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "โวดูและโวดุน — กับตัวสะกดที่แอตลาสนี้ไม่ใช้",
+   "as_th": ""
   },
   {
    "from": "dating-a-charm",
    "type": "story",
    "name": "Dating a charm",
    "as": "the other methods note — that one on what may be said, this one on what may be dated",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การระบุอายุเครื่องราง",
+   "as_th": ""
   },
   {
    "from": "free-to-use",
    "type": "story",
    "name": "Free to use",
    "as": "the restriction rule this licence deliberately cannot enforce, set out at length",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใช้ได้อย่างเสรี",
+   "as_th": ""
   },
   {
    "from": "the-swastika-problem",
    "type": "story",
    "name": "The swastika problem",
    "as": "the other record about an editorial rule the project applies to itself rather than to its subjects",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ปัญหาเรื่องสวัสติกะ",
+   "as_th": "อีกบันทึกหนึ่งว่าด้วยกฎการบรรณาธิการที่โครงการนี้ใช้กับตัวเอง ไม่ใช่กับสิ่งที่ตนเขียนถึง"
   },
   {
    "from": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the companion read: what may be said, once you have settled what may be kept",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ]
 }

@@ -13,7 +13,8 @@
    "djt",
    "backbone of Osiris",
    "pillar of stability"
-  ]
+  ],
+  "th": "เสาเจด"
  },
  "etymology": {
   "root": "Egyptian ḏd 'pillar', surviving into Coptic as ϫⲱⲧ jōt. The sign writes the word for stability.",
@@ -42,6 +43,9 @@
   "story": "The djed is a spine that had to be set up again. In the Osiris myth, Set tricks Osiris into a coffin cut to fit him exactly and throws it in the Nile; it drifts to Byblos, a tree grows around it, the king of the land has the tree cut and stood in his palace as a pillar. Isis, searching, gets herself into the royal household, asks for that pillar, takes the coffin out of it, and then anoints the wood with myrrh and wraps it in linen. That is the pillar of djed.\n\nSo the ceremony is a resurrection staged as carpentry. At the Sed festival, the pharaoh with priests pulling on ropes hauls a wooden djed column upright at Memphis. It was read as Osiris's win over Set. The timing is agricultural: the month of Koiak, the fourth month of the Season of the Inundation, when the fields are being sown, inside the Osiris festival that ran from the thirteenth to the thirtieth of that month. A relief in Amenhotep III's Luxor temple shows the raising at his third Sed festival, in his thirty-seventh regnal year: the pillar stands in a shrine with a human body under a djed head, wedjat eyes, crook and flail, the feather crown and the sun disc; the king presents a loaded offering table; below, food-bearers weave between heavy-stepping dancers, singers give a short hymn to Ptah, and men box and do a stick dance. Sigrid Hodel-Hoenes, who describes the scene, reads the young women rattling Hathor sistra as the king's daughters, from the line of hieroglyphs above their heads: 'Children of the king praising (or charming) the noble djed pillar.'\n\nThe amulet is the private end of the same idea. It goes near the spine of a mummified body to make the resurrection happen, and the Book of the Dead gives a spell to be spoken over a gold djed hung at the mummy's neck: it promises the mummy will get the use of its spine back and be able to sit up.\n\n*Tradition holds —* the sign starts somewhere agricultural, in a pillar of reeds or sheaves with grain piled round it, and only later attaches to Ptah and then to Osiris. Ptah was called 'the noble djed' and carried a sceptre that fused the djed with the ankh. By the New Kingdom the sign belongs to Osiris.",
   "how": "Cut or moulded small and hung at the neck, laid near the spine inside the wrappings, or painted on the coffin. The Book of the Dead's spell is spoken over a gold one. At festival scale it is a wooden column raised by ropes, with the king pulling and priests supporting it.",
   "today": "Not made and not raised; the ceremony ended with the religion. The sign survives as a museum label and as a design in jewellery sold to Egypt's visitors. As of 2026 this project has read no source describing anybody carrying a djed for what the Book of the Dead promised it would do."
+ },
+ "text_th": {
+  "what": "เสาต้นหนึ่งที่มีแถบแบนสี่แถบซ้อนขวางอยู่ที่ยอด เหมือนหัวเสาที่มีปลอกคอมากเกินไป เมื่อเป็นเครื่องราง จะมีขนาดเล็กและห้อยคอ คัมภีร์แห่งความตาย (Book of the Dead) กำหนดให้ใช้เสาเจดทองคำสำหรับมัมมี่ นอกจากนี้ยังวาดไว้บนโลงศพ และแกะสลักด้วยไม้ขนาดเท่าจริงสำหรับพิธีที่ยกเสาขึ้นตั้งตรง"
  },
  "dating": {
   "period": "New Kingdom",
@@ -203,49 +207,63 @@
    "type": "amulet",
    "name": "Ankh amulet",
    "as": "the sign it is run together with — 'life, dominion and stability' — and the composite of the three was worn more than either alone",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เครื่องรางอังค์",
+   "as_th": ""
   },
   {
    "to": "tyet-knot",
    "type": "amulet",
    "name": "Tyet",
    "as": "the sign it is regularly paired with in writing; Egyptologists read the two together as the duality of life",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ทิเยต (เครื่องรางปมอียิปต์)",
+   "as_th": ""
   },
   {
    "to": "heart-scarab",
    "type": "amulet",
    "name": "Heart scarab",
    "as": "the other amulet the wrappings required at the chest, aimed at a different organ and a different threat",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สคารับหัวใจ",
+   "as_th": ""
   },
   {
    "to": "egyptian-amulet-craft",
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "the tradition that placed it, by the rules of a funeral",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   },
   {
    "to": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "the practice this amulet exists inside",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "to": "gold",
    "type": "material",
    "name": "Gold",
    "as": "the material the Book of the Dead's spell specifies for it",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ทองคำ",
+   "as_th": ""
   },
   {
    "to": "the-charm-in-the-wall",
    "type": "story",
    "name": "The charm in the wall",
    "as": "the long read on charms built into structures — and the raised djed is the largest one Egypt built",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เครื่องรางในกำแพง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -432,28 +450,36 @@
    "type": "amulet",
    "name": "Ankh amulet",
    "as": "the third of the run 'life, dominion and stability'; the composite amulet joining them was commoner than the ankh alone",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เครื่องรางอังค์",
+   "as_th": ""
   },
   {
    "from": "tyet-knot",
    "type": "amulet",
    "name": "Tyet",
    "as": "the sign it is written beside; paired, Egyptologists read the two as the duality of life",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ทิเยต (เครื่องรางปมอียิปต์)",
+   "as_th": ""
   },
   {
    "from": "egyptian-amulet-craft",
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "the spine it hung at a mummy's neck, and raised as a column at the Sed festival",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   },
   {
    "from": "tree",
    "type": "motif",
    "name": "The tree",
    "as": "the sign as a pillar: Neumann's tree fetish, in a country that had to import its timber",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ต้นไม้",
+   "as_th": ""
   }
  ]
 }

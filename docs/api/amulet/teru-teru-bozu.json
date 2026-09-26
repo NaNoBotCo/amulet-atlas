@@ -13,7 +13,8 @@
    "てるてる坊主",
    "fine-weather priest",
    "shine-shine monk"
-  ]
+  ],
+  "th": "เทรุเทรุโบซุ (ตุ๊กตาไล่ฝน)"
  },
  "etymology": {
   "root": "Japanese teru 照る 'to shine', doubled, + bōzu 坊主 'Buddhist monk' — 'shine, shine, monk'",
@@ -43,6 +44,9 @@
   "story": "The practice came from China and changed sex on the way. In the Chinese version, Saoqing Niang 掃晴娘, the figure is a young girl with a broom, set on the end of a broom to sweep the sky clear; the story attached has a girl ascending to the heavens in a heavy rainfall to sweep the clouds off and save her city, and paper cut-outs of her hung outdoors afterwards in her memory. Japan took the practice up in the Heian period, inside an older weather-watching culture, hiyorimi, that runs with certainty from the Heian period through the Edo.\n\nThe Japanese doll seems to come out of the resemblance between origami dolls and the names recorded in mid-Edo literature. The reference this project can name is Kiyū Shōran, written in 1830 by Nobuyo Kitamura, a scholar of Japanese classical literature: \"If the weather becomes fine, I write my pupils on the paper, offer sake to the gods, and pour it into the river.\" Painting in the eyes after the sun comes out, and the libation, and the river — the whole disposal is in that one sentence.\n\nIt became popular in the Edo period among city dwellers, whose children made them the day before and chanted, \"Fine-weather priest, please let the weather be good tomorrow.\" A warabe uta released in 1921 fixed the modern version, and children sing it while making the doll. The song is not soft: it promises the doll plenty of sake if the wish comes off, and decapitation if it does not.",
   "how": "Tissue paper or a scrap of white cloth, gathered over a ball of stuffing, tied at the neck with string, hung from an eave, a window frame or a door on the eve of the day in question. The face is often left blank and drawn on afterwards, when the weather has behaved. If the day comes up fine, a libation of sake is poured over the doll and it is floated away in a river. Hanging one upside down is the reverse request, for rain — a use this project has not read in a cited source and so does not assert here.",
   "today": "Still made by Japanese children in 2026, taught through the 1921 nursery rhyme. Ikeda in Nagano Prefecture has built its town mascot on the shape."
+ },
+ "text_th": {
+  "what": "ตุ๊กตาทำมือตัวเล็ก ทำจากกระดาษทิชชูหรือผ้าสีขาว ใช้ก้อนวัสดุยัดไส้กลม ๆ เป็นหัว ผ้าปล่อยห้อยลงมาด้านล่าง และผูกเชือกรอบคอ แขวนไว้นอกประตูหรือหน้าต่าง ทำขึ้นในวันก่อนวันที่คนทำอยากให้ฝนไม่ตก เด็ก ๆ เป็นคนทำ คนญี่ปุ่นส่วนใหญ่ได้รู้จักตุ๊กตานี้ครั้งแรกที่โรงเรียนอนุบาลหรือสถานรับเลี้ยงเด็ก"
  },
  "dating": {
   "period": "Edo to the present",
@@ -184,49 +188,63 @@
    "type": "amulet",
    "name": "Daruma",
    "as": "the other Japanese figure bought or made against a deadline and then discharged — that one burnt, this one floated away",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ดารุมะ",
+   "as_th": ""
   },
   {
    "to": "japanese-engimono",
    "type": "tradition",
    "name": "Engimono",
    "as": "the tradition it sits at the edge of: made at home, by a child, with nobody's seal on it",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "omamori",
    "type": "amulet",
    "name": "Omamori",
    "as": "the counterpart from the shrine counter — consecrated, bought, and for the year rather than for tomorrow",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "corn-dolly",
    "type": "amulet",
    "name": "Corn dolly",
    "as": "the other figure twisted out of cheap material for the weather and the harvest, and then destroyed on purpose",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตุ๊กตาฟางข้าว (คอร์นดอลลี)",
+   "as_th": ""
   },
   {
    "to": "most-of-them-are-for-children",
    "type": "story",
    "name": "Most of them are for children",
    "as": "the long read this belongs in: a charm children make with their own hands, for their own day out",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ส่วนใหญ่ทำเพื่อเด็ก",
+   "as_th": ""
   },
   {
    "to": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "where it works from — an eave, a window frame, outside, where the weather can see it",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "to": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "the printed sheet a Japanese household hangs indoors for the year; this one hangs outdoors for a night",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -362,14 +380,18 @@
    "type": "amulet",
    "name": "Daruma",
    "as": "the other Japanese figure made to be discharged — one is burnt at the temple, the other floated down a river",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ดารุมะ",
+   "as_th": ""
   },
   {
    "from": "japanese-engimono",
    "type": "tradition",
    "name": "Engimono",
    "as": "the edge case: made at home, by a child, from tissue, with no shrine's name on it and nothing to return",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": ""
   }
  ]
 }

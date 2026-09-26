@@ -16,7 +16,8 @@
    "patterned coin",
    "play coin",
    "Chinese numismatic charm"
-  ]
+  ],
+  "th": "เหรียญเครื่องรางจีน (เอี้ยนเซิ่งเฉียน)"
  },
  "etymology": {
   "root": "Chinese 厭勝錢 yànshèng qián; the formal older pronunciation was yāshèng qián, 押勝錢 / 压胜钱",
@@ -52,6 +53,9 @@
   "story": "They start as coins going strange. Yansheng coins first appear in the Western Han as a variant of the Ban Liang and Wu Zhu cash then in circulation, used to speak to the dead, to pray for a favourable outcome, to terrify ghosts, or as lucky money. From the start of the Han to the end of the Northern and Southern dynasties, 206 BCE to 589 CE, most of them look like the circulating coinage; the difference is on the reverse — tortoises, snakes, double-edged swords, sun, moon, stars, famous people, the twelve zodiac animals. They were mostly privately funded and cast by wealthy families for their own ceremonies, though governments and religious orders cast some, and they circulated alongside real money because a copper-alloy disc was worth its metal.\n\nThe typologies are published and large. In Cast Chinese Amulets, 2020, the British numismatist David Hartill documented over 5,000 different types. Catalogues sort them by shape, by size, by meaning, by an emperor's name, or by any other shared feature; some deliberately refuse those categories, on the grounds that a novice cannot tell whether a given amulet is a lucky, religious, family or coin type. The standing classes run by function — good luck, safe journey, peace, burial, marriage and sex education, house, palace; by shape and design — gourd, vault protector, open-work, 24-character, spade, lock, nine-fold seal script, fish, peach, little shoe, pendant, palindrome, Ming cloisonné, money tree; and by theme — astronomy, zodiac, Eight Treasures, the Book of Changes and Bagua, five poisons, Confucian, Taoist, Buddhist temple coins, horse coins, even xiangqi pieces.\n\nSome classes are exact enough to identify by measurement. \"Laid to Rest\" burial charms are bronze, 2.4 to 2.45 cm across and 1.3 to 1.4 mm thick, with the obverse inscription rù tǔ wéi ān, 'to be laid to rest', and a blank reverse; they turn up mostly in late Qing graves. They are often left out of reference books on Chinese coins and charms, because they were placed in the mouths of the dead and are considered unlucky and disturbing, and most collectors do not want them.\n\nThe five poisons charms are dated to a day: the fifth day of the fifth month, the most inauspicious in the calendar, when summer opened with dangerous animals, infectious disease and, in the account, evil spirits. The five poisons are snakes, scorpions, centipedes, toads and spiders, sometimes with lizards, the three-legged toad or the tiger, and the reasoning given is that poison can only be thwarted with poison. One example carries the legend 五日午时, 'noon of the 5th day', and the charms were worn on that day.\n\nPeace charms have an archaeology. A find of the 1980s established that the tài píng bǎi qián was first cast by the Kingdom of Shu after the collapse of the Han, worth a hundred cash and cut in a calligraphic style closer to a charm than to the coinage of its day. Under the Qing, charms reading tiān xià tài píng — peace under heaven — became a common sight.",
   "how": "Cast in moulds, privately and in temples, then carried, hung, sewn on or buried. Open-work charms of the Tang and Song were used as clothing accessories, as ornament, and to decorate horses; fish charms meant to be worn at the waist come in under the Khitan Liao. House charms were set into buildings during construction, and into temples; Bagua charms decorate ridgepoles alongside red paper and cloth banners. Palace cash, which David Hartill notes were only produced at the establishment of a new reign era title, were wrapped in a rectangular cloth and given at New Year to imperial guards and eunuchs, who hung them below lamps, and were replaced with new reign titles each time an emperor died.",
   "today": "Collected, catalogued and reproduced. Use was revitalised in the Republic of China era, and the charms remain the best-catalogued class of amulet in this atlas — Hartill's 5,000-odd types are a finding aid a reader can actually use, which is a thing almost no other tradition here has. Feng shui coins on red cord are sold worldwide as of 2026; whether a modern cast disc is the same object as a Qing one is the same argument the dzi market has."
+ },
+ "text_th": {
+  "what": "แผ่นกลมสำริดหล่อ มีรูตรงกลาง รูปร่างเหมือนเหรียญกษาปณ์จีนโบราณ แต่ไม่เคยใช้จ่ายเป็นเงินได้ เหรียญของทางการมีตัวอักษรสองหรือสี่ตัว แต่เหรียญเครื่องรางมักมีมากกว่านั้น และมักมีภาพด้วย เช่น มังกร สัตว์ประจำปีนักษัตร ภาพฉากเรื่องราว แผนภาพปากั้ว หรืออักษรยันต์ของลัทธิเต๋าหนึ่งบรรทัด ส่วนใหญ่ทำด้วยการหล่อ ไม่ใช่การปั๊ม — การปั๊มเหรียญด้วยเครื่องจักรเพิ่งมาถึงจีนในคริสต์ศตวรรษที่ 19 นอกจากนี้ยังมีการทำจากเหล็ก ตะกั่ว ดีบุก เงิน ทองคำ กระเบื้องเคลือบ หยก และกระดาษ"
  },
  "dating": {
   "period": "Western Han to the present",
@@ -265,70 +269,90 @@
    "type": "motif",
    "name": "The square hole",
    "as": "the sign it is: a round disc with a square hole, the shape money had for two thousand years and the shape a charm borrowed",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "รูสี่เหลี่ยม",
+   "as_th": ""
   },
   {
    "to": "fu-talisman",
    "type": "amulet",
    "name": "Fu talisman",
    "as": "the writing cast into the Taoist ones — fulu open and close their inscriptions",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "the tradition behind the Taoist and Buddhist classes of them",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "bagua-mirror",
    "type": "amulet",
    "name": "Bagua mirror",
    "as": "the other object that puts the eight trigrams to work, on a wall rather than in a pocket",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กระจกปากั้ว (กระจกแปดทิศ)",
+   "as_th": ""
   },
   {
    "to": "challenge-coin",
    "type": "amulet",
    "name": "Challenge coin",
    "as": "the modern descendant of a coin that is not money: carried, shown, and valued for who issued it",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เหรียญชาเลนจ์คอยน์ (เหรียญประจำหน่วย)",
+   "as_th": ""
   },
   {
    "to": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "the practice behind the burial classes, and the reason the \"Laid to Rest\" charms are documented at all",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "to": "ping-an-fu",
    "type": "amulet",
    "name": "Ping'an fu",
    "as": "the paper peace charm that carries the same two characters, ping'an, at a fraction of the weight",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ผิงอันฝู (ยันต์ขอความสงบสุข)",
+   "as_th": ""
   },
   {
    "to": "jade",
    "type": "material",
    "name": "Jade",
    "as": "one of the costlier materials the same charms were cut from",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "หยก",
+   "as_th": ""
   },
   {
    "to": "dating-a-charm",
    "type": "story",
    "name": "Dating a charm",
    "as": "the long read this class is the best evidence for: reign titles, inscriptions and 5,000 catalogued types make these the datable end of the whole atlas",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การระบุอายุเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "cowrie-strand",
    "type": "amulet",
    "name": "Cowrie strand",
    "as": "what the burial money started as, before replica coins replaced shells to deter grave robbers",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "สายเปลือกหอยเบี้ย",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -585,84 +609,108 @@
    "type": "amulet",
    "name": "Bagua mirror",
    "as": "the pocket-sized carrier of the same eight trigrams, cast in bronze",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กระจกปากั้ว (กระจกแปดทิศ)",
+   "as_th": ""
   },
   {
    "from": "challenge-coin",
    "type": "amulet",
    "name": "Challenge coin",
    "as": "the Chinese coin-shaped charm that was never currency either, and the other object in this atlas that borrows a coin's authority without being one",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เหรียญชาเลนจ์คอยน์ (เหรียญประจำหน่วย)",
+   "as_th": ""
   },
   {
    "from": "cowrie-strand",
    "type": "amulet",
    "name": "Cowrie strand",
    "as": "the other object here that is money and charm at once, cast in bronze rather than grown in the sea",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สายเปลือกหอยเบี้ย",
+   "as_th": ""
   },
   {
    "from": "evil-eye-bracelet",
    "type": "amulet",
    "name": "Evil eye bracelet",
    "as": "another mass-produced charm this atlas describes in the same terms as a hand-cut one",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สร้อยข้อมือนาซาร์ (ลูกปัดตากันตาร้าย)",
+   "as_th": ""
   },
   {
    "from": "fu-talisman",
    "type": "amulet",
    "name": "Fu talisman",
    "as": "where the script goes when it is cast in bronze: fulu open and close the inscription of a Taoist coin charm",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "jimat",
    "type": "amulet",
    "name": "Jimat",
    "as": "the Chinese coin-shaped charm the gobog is modelled on — same square hole, different pantheon on the face",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "จิมัต (เครื่องรางมลายู)",
+   "as_th": ""
   },
   {
    "from": "maneki-neko",
    "type": "amulet",
    "name": "Maneki-neko",
    "as": "the coin in its paw: a koban, which makes this a coin charm with a cat wrapped round it",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "แมวกวัก (มาเนกิเนโกะ)",
+   "as_th": ""
   },
   {
    "from": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "the same script cast in metal — fulu opening and closing an inscription that in many cases nobody has yet read",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "coin-square",
    "type": "motif",
    "name": "The square hole",
    "as": "the object this sign is the shape of — the charm in the tray",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "รูสี่เหลี่ยม",
+   "as_th": ""
   },
   {
    "from": "fish",
    "type": "motif",
    "name": "The fish",
    "as": "the Chinese fish-shaped charm, worn mainly by infants and young children",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ปลา",
+   "as_th": ""
   },
   {
    "from": "swastika-sign",
    "type": "motif",
    "name": "The swastika",
    "as": "Chinese charms that carry the wan character, multiplying the wish by ten thousand",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "สวัสดิกะ",
+   "as_th": "เหรียญมงคลจีนที่มีอักษรว่าน ซึ่งคูณคำอธิษฐานขึ้นหมื่นเท่า"
   },
   {
    "from": "copper",
    "type": "material",
    "name": "Copper and bronze",
    "as": "the object this metal made possible in bulk: a cast coin that was never legal tender and circulated anyway",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ทองแดงและสำริด",
+   "as_th": ""
   }
  ]
 }

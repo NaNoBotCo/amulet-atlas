@@ -8,14 +8,44 @@
   "script": "Arabic",
   "lang": "ar",
   "said": "Āyat al-Kursī, the Throne Verse — the text most often inside one",
-  "aliases": ["miniature Qur'an", "Ayat al-Kursi pendant", "Qur'an case", "hirz"]
+  "aliases": [
+   "miniature Qur'an",
+   "Ayat al-Kursi pendant",
+   "Qur'an case",
+   "hirz"
+  ],
+  "th": "จี้อัลกุรอาน"
  },
- "region": ["arabia-gulf", "anatolia", "iran-persia", "south-asia", "maghreb"],
- "countries": ["EG", "TR", "IR", "PK", "IN"],
- "facets": {"era": "living", "status": "living", "portable": "worn", "restricted": "open", "hemisphere": ["N", "E"]},
+ "region": [
+  "arabia-gulf",
+  "anatolia",
+  "iran-persia",
+  "south-asia",
+  "maghreb"
+ ],
+ "countries": [
+  "EG",
+  "TR",
+  "IR",
+  "PK",
+  "IN"
+ ],
+ "facets": {
+  "era": "living",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "A metal case at the throat with scripture inside it. Sometimes a whole miniature Qur'an, protected by an illuminated metal cover; sometimes a single verse on paper or engraved on the metal itself. The verse is most often Āyat al-Kursī, the Throne Verse, Qur'an 2:255 — the 255th verse of the second chapter, and the one the tradition names the greatest in the book. Others hang the same verse framed on a wall or from a mirror in a car.",
   "story": "The verse opens: \"Allah: there is no god but Him, the Ever-Living, the Ever-Watchful. Neither slumber nor sleep overtakes Him.\" It is built concentrically, in the symmetry most common in the Qur'an, where each segment answers its pair across a centre.\n\nWhat the tradition says it does is on the record in hadith and in commentary, and this atlas reports it without weighing it. Reciting the verse is said in hadith to ward off devils, šayāṭīn, and fiends, ʿafārīt; recited after every obligatory prayer it is held to admit the reciter to Paradise with nothing in the way but death. Al-Suyuti narrates a man of humanity meeting a man of the jinn, and the jinn, beaten in a wrestling match, teaching him the verse that keeps any devil from entering his house with him — this one. The Throne Verse is used in exorcism, against jinn and devils. Because it is associated with protection, the tradition also reads it as a shield against the evil eye. It is recited before a journey and before sleep, morning and evening as a daily adhkār.\n\nThe material tradition round it is documented. Miniature Qur'ans kept in illuminated metal cases are one form; block-printed text amulets sealed into lead cases with lugs, so they could be sewn on or hung, are another. Preferred materials are precious and semi-precious, and the reasons given for them are explicit: carnelian, ʿaqīq, is favoured because it was counted the stone of Muhammad, who was said to have worn a carnelian seal set in silver on the little finger of his right hand; jade and jasper are held to assure victory in battle, guard against lightning and treat diseases of the internal organs. A combination of jade and carnelian is read for fertility and embryogenesis — the reddish, light-carrying carnelian standing for blood, which echoes the clot of congealed blood God created the human from, Qur'an 96:2.\n\n*Inference —* the cited accounts are careful to separate early Islamic amulets from what came before them: these appeal to God in the first instance, where Byzantine, Roman and early Iranian magic addressed demonic forces or the spirits of the dead. That is a claim about direction of address, not about efficacy, and it is the line the tradition's own scholars keep returning to when they argue about whether to wear one at all."
+ },
+ "text_th": {
+  "what": "ตลับโลหะที่คอ ภายในมีข้อความจากคัมภีร์ บางครั้งเป็นคัมภีร์อัลกุรอานจิ๋วทั้งเล่ม ป้องกันด้วยปกโลหะประดับลวดลาย บางครั้งเป็นโองการเดียวที่เขียนบนกระดาษหรือสลักลงบนตัวโลหะเอง โองการที่พบบ่อยที่สุดคืออายะตุลกุรซีย์ (Āyat al-Kursī) หรือโองการบัลลังก์ อัลกุรอาน 2:255 — โองการที่ 255 ของซูเราะฮ์ที่สอง และเป็นโองการที่ธรรมเนียมทางศาสนาถือว่ายิ่งใหญ่ที่สุดในคัมภีร์ บางคนแขวนโองการเดียวกันนี้ใส่กรอบไว้บนผนังหรือห้อยจากกระจกในรถ"
  },
  "dating": {
   "period": "Medieval Islamic to the present",
@@ -31,8 +61,20 @@
  },
  "object": {
   "form": "box",
-  "materials": ["silver", "gold", "carnelian", "paper", "ink", "lead"],
-  "worn": ["neck", "vehicle", "wall", "pocket"],
+  "materials": [
+   "silver",
+   "gold",
+   "carnelian",
+   "paper",
+   "ink",
+   "lead"
+  ],
+  "worn": [
+   "neck",
+   "vehicle",
+   "wall",
+   "pocket"
+  ],
   "made_by": "handwritten by a scribe for those who could pay; serialised block-printed copies in sealed lead cases for those who could not",
   "inscription": "Āyat al-Kursī, Qur'an 2:255, or a miniature complete Qur'an; on printed cases, surat al-Ikhlas stamped into the lead",
   "script": "Arabic",
@@ -40,35 +82,122 @@
   "note": "No published measurement was read for a pendant; the related printed packet in the Aga Khan Museum is 7.2 × 5.5 cm and is recorded on the ta'wiz record."
  },
  "against": [
-  {"harm": "demons", "who": "hadith, in which reciting the Throne Verse wards off devils (šayāṭīn) and fiends (ʿafārīt); the verse is also used in exorcism against jinn", "source": "s:wp-throne-verse", "tier": "cited"},
-  {"harm": "evil-eye", "who": "the tradition summarised in the cited article, which reads the verse's association with protection as extending to the evil eye", "source": "s:wp-throne-verse", "tier": "cited"},
-  {"harm": "travel", "who": "Muslims who recite it before setting out on a journey and before going to sleep", "source": "s:wp-throne-verse", "tier": "cited"},
-  {"harm": "house", "who": "al-Suyuti's narration, in which a jinn teaches a man the verse that keeps any devil from entering his house with him", "source": "s:wp-throne-verse", "tier": "cited"},
-  {"harm": "illness", "who": "the wider Islamic amulet tradition, which the cited account says was meant to promote health, longevity, fertility and potency", "source": "s:wp-amulet", "tier": "cited"}
+  {
+   "harm": "demons",
+   "who": "hadith, in which reciting the Throne Verse wards off devils (šayāṭīn) and fiends (ʿafārīt); the verse is also used in exorcism against jinn",
+   "source": "s:wp-throne-verse",
+   "tier": "cited"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "the tradition summarised in the cited article, which reads the verse's association with protection as extending to the evil eye",
+   "source": "s:wp-throne-verse",
+   "tier": "cited"
+  },
+  {
+   "harm": "travel",
+   "who": "Muslims who recite it before setting out on a journey and before going to sleep",
+   "source": "s:wp-throne-verse",
+   "tier": "cited"
+  },
+  {
+   "harm": "house",
+   "who": "al-Suyuti's narration, in which a jinn teaches a man the verse that keeps any devil from entering his house with him",
+   "source": "s:wp-throne-verse",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the wider Islamic amulet tradition, which the cited account says was meant to promote health, longevity, fertility and potency",
+   "source": "s:wp-amulet",
+   "tier": "cited"
+  }
  ],
  "kin": [
-  {"to": "islamic-talismanic", "as": "the tradition, and the argument about whether this object should exist", "rel": "tradition"},
-  {"to": "taweez", "as": "the same scripture folded into a packet rather than sealed in a case", "rel": "kin"},
-  {"to": "talismanic-shirt", "as": "the same verses at the scale of a garment", "rel": "kin"},
-  {"to": "hirz-pouch", "as": "the silver box of Qur'anic verses the Egyptian tradition names alongside the eye and the hamsa", "rel": "kin"},
-  {"to": "mezuzah", "as": "scripture in a case, fixed where a person passes it — the same object in another book, with the opposite ruling about what to call it", "rel": "parallel"},
-  {"to": "ketef-hinnom-scrolls", "as": "the oldest dated instance of this idea anywhere in the atlas: a blessing, rolled small, carried", "rel": "parallel"},
-  {"to": "carnelian", "as": "the stone the tradition singles out as the Prophet's, worn set in silver", "rel": "material"},
-  {"to": "divine-name", "as": "the sign underneath: the names and attributes of God doing the work", "rel": "motif"},
-  {"to": "car-saint", "as": "where this one most often ends up now — hung from a mirror rather than worn", "rel": "descendant"},
-  {"to": "khan-el-khalili", "as": "the Cairo market where the cases are sold", "rel": "place"}
+  {
+   "to": "islamic-talismanic",
+   "as": "the tradition, and the argument about whether this object should exist",
+   "rel": "tradition"
+  },
+  {
+   "to": "taweez",
+   "as": "the same scripture folded into a packet rather than sealed in a case",
+   "rel": "kin"
+  },
+  {
+   "to": "talismanic-shirt",
+   "as": "the same verses at the scale of a garment",
+   "rel": "kin"
+  },
+  {
+   "to": "hirz-pouch",
+   "as": "the silver box of Qur'anic verses the Egyptian tradition names alongside the eye and the hamsa",
+   "rel": "kin"
+  },
+  {
+   "to": "mezuzah",
+   "as": "scripture in a case, fixed where a person passes it — the same object in another book, with the opposite ruling about what to call it",
+   "rel": "parallel"
+  },
+  {
+   "to": "ketef-hinnom-scrolls",
+   "as": "the oldest dated instance of this idea anywhere in the atlas: a blessing, rolled small, carried",
+   "rel": "parallel"
+  },
+  {
+   "to": "carnelian",
+   "as": "the stone the tradition singles out as the Prophet's, worn set in silver",
+   "rel": "material"
+  },
+  {
+   "to": "divine-name",
+   "as": "the sign underneath: the names and attributes of God doing the work",
+   "rel": "motif"
+  },
+  {
+   "to": "car-saint",
+   "as": "where this one most often ends up now — hung from a mirror rather than worn",
+   "rel": "descendant"
+  },
+  {
+   "to": "khan-el-khalili",
+   "as": "the Cairo market where the cases are sold",
+   "rel": "place"
+  }
  ],
- "links": [{"label": "Throne Verse — Wikipedia", "url": "https://en.wikipedia.org/wiki/Throne_Verse"}],
- "sources": ["s:wp-throne-verse", "s:wp-amulet", "s:wp-islam-and-magic", "s:wp-carnelian"],
+ "links": [
+  {
+   "label": "Throne Verse — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Throne_Verse"
+  }
+ ],
+ "sources": [
+  "s:wp-throne-verse",
+  "s:wp-amulet",
+  "s:wp-islam-and-magic",
+  "s:wp-carnelian"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-throne-verse"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-throne-verse"
+  },
   "fields": {
-   "dating": {"tier": "inference", "note": "see dating.note; no dated earliest pendant was read"},
-   "countries": {"tier": "inference", "note": "the cited accounts describe the practice across the Muslim world without a country list; these five are where the sources name material or practice directly"}
+   "dating": {
+    "tier": "inference",
+    "note": "see dating.note; no dated earliest pendant was read"
+   },
+   "countries": {
+    "tier": "inference",
+    "note": "the cited accounts describe the practice across the Muslim world without a country list; these five are where the sources name material or practice directly"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Miniature Quran case.jpg", "File:Ayat al-Kursi pendant.jpg"],
+ "x_commons_files": [
+  "File:Miniature Quran case.jpg",
+  "File:Ayat al-Kursi pendant.jpg"
+ ],
  "confidence": "medium",
  "needs_verification": true,
  "updated": "2026-09-16"

@@ -8,7 +8,14 @@
   "script": "Tibetan",
   "lang": "bo",
   "said": "zee",
-  "aliases": ["gzi", "zi bead", "天珠", "tian zhu", "heaven's bead"]
+  "aliases": [
+   "gzi",
+   "zi bead",
+   "天珠",
+   "tian zhu",
+   "heaven's bead"
+  ],
+  "th": "หินดีซี (ลูกปัดทิเบต)"
  },
  "etymology": {
   "root": "Tibetan gzi, 'shine, brightness, clearness, splendor'",
@@ -16,14 +23,37 @@
   "tier": "cited",
   "source": "s:wp-dzi-bead"
  },
- "region": ["himalaya-tibet", "south-asia", "china", "central-asia"],
- "countries": ["CN", "NP", "BT", "IN", "TW"],
- "facets": {"era": "ancient", "status": "living", "portable": "worn", "restricted": "open", "hemisphere": ["N", "E"]},
+ "region": [
+  "himalaya-tibet",
+  "south-asia",
+  "china",
+  "central-asia"
+ ],
+ "countries": [
+  "CN",
+  "NP",
+  "BT",
+  "IN",
+  "TW"
+ ],
+ "facets": {
+  "era": "ancient",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "A tube of agate, brown to black, carrying pale ivory-white patterns that were etched into the stone rather than cut: circles, ovals, squares, waves, zigzags, stripes, lines, diamonds, dots. The surface is usually smooth and waxy from long wear. The circular marks are called eyes, and the number and arrangement of them is the first thing a buyer counts. Strung on a Tibetan necklace, a dzi is normally flanked with coral, sometimes with amber and turquoise.",
   "story": "Nobody has settled where dzi come from, and this record does not pick a story. The account in the source read here says the stones first appear between 2000 and 1000 BCE in ancient India, and repeats a claim that a few hundred thousand were supposedly brought back by Tibetan soldiers from Persia during a raid. In the same passage the geographic origin is called uncertain, and the manufacturing method is called mysterious: treatments may have included darkening with plant sugars and heat, bleaching and white-line etching with natron, and masking areas with grease, clay or wax. What can be dated is narrower and firmer. Dzi-type agate beads were made in the Indus Valley in the Harappan period and at agate-rich sites in India such as Khambhat since Neolithic times, and the earliest archaeologically controlled find of an agate bead with dzi-style decoration — straight and curved lines and a circular eye — comes from a Saka-culture excavation at Uigarak in Kazakhstan, dated to the seventh to fifth century BCE, and was read as an import from India, evidence of long-distance trade with Saka or Scythian nomads.\n\nDrilling is the one part of the making that is described in detail: the hole was made before the bead was decorated, because drilling caused most of the breakage, and a drilled bead could be strung and dipped for colouring. The earliest holes are conical, bored from both ends with solid flint tips; Neolithic beads were also drilled with hollow reed bits driven with abrasive, and copper ones in the Chalcolithic, which leave a parallel-walled hole. All of it was bow-drill work, and the time it took depended on the abrasive, from ground quartz to corundum.\n\n*Tradition holds —* shepherds and farmers sometimes find dzi lying in soil or grassland, and some Tibetans have held on that evidence that the beads form naturally and are not made at all. In Tibetan culture the beads are said to attract local protectors, dharmapalas, deities, beneficial ghosts, ancestors or bodhisattvas, and are always treated with respect. They are handed down, which is how a single bead can pass through hundreds of wearers over centuries.\n\nBeads also get eaten. Some carry small dig marks where a portion was scraped or ground away for use in Tibetan medicine; others show grinding and polishing from service as a burnishing tool for applying gold leaf to thangka paintings and gilded bronzes.",
   "how": "The bead is not made by its wearer and, for the old ones, not made by anyone alive. A new dzi is a different matter: the tradition holds it can be brought to the same standing by having a lama or guru bless it, by carrying it on pilgrimage to stupas and shrines, and by reciting mantras and taking religious vows with it. A stone thought to carry bad energy is submerged in salt water for several hours and then fanned with incense; sun-basking and herbal smudging are also named as purification, and spirit aroma offering and recitation of the Cintamani dharani as charging. New beads are held to carry one advantage the old ones cannot: none of the bad karma of a previous owner.",
   "today": "A market with a forgery problem at every price. Ancient beads can reach hundreds of thousands of US dollars, more for beads with more eyes and for the tiny red bloodspots that iron inclusions leave; new dzi run from about ten to two thousand US dollars by quality and lustre. The source read in September 2026 does not date those figures, so read them as undated. Modern-era dzi-style beads were made at Idar-Oberstein in Germany at least as early as the 19th century by agate cutters who had worked there since Roman times and who brought agate colouring to a science. Imitation dzi are made of glass, resin, lampwork, wood, bone, plastic, metal and non-traditional etched stones; some resin ones are filled with lead for weight; older mock dzi have collectible value of their own. At the bottom, mass-produced machine-carved beads sell for under two US dollars, often by the strand, with etching that does not penetrate the core — mostly to mainland Chinese buyers as feng shui charms. Tibetans also buy new beads, as an affordable and obtainable alternative, and whether a new bead is the same object as an old one is argued inside the tradition, not only outside it."
+ },
+ "text_th": {
+  "what": "หลอดหินอาเกต สีน้ำตาลถึงดำ มีลวดลายสีขาวงาช้างอ่อน ๆ ที่กัดลงในเนื้อหิน ไม่ได้แกะสลัก: วงกลม วงรี สี่เหลี่ยม คลื่น ซิกแซก แถบ เส้น ข้าวหลามตัด จุด ผิวมักเรียบและมันคล้ายขี้ผึ้งจากการสวมใส่มานาน ลายวงกลมเรียกว่า \"ตา\" และจำนวนกับการเรียงตัวของตาคือสิ่งแรกที่ผู้ซื้อนับ เมื่อร้อยเป็นสร้อยคอแบบทิเบต หินดีซีมักขนาบด้วยปะการัง บางครั้งมีอำพันและเทอร์ควอยซ์ด้วย"
  },
  "dating": {
   "period": "Saka-period find to the present",
@@ -39,46 +69,143 @@
  },
  "object": {
   "form": "bead",
-  "materials": ["agate", "carnelian"],
-  "worn": ["neck", "wrist"],
+  "materials": [
+   "agate",
+   "carnelian"
+  ],
+  "worn": [
+   "neck",
+   "wrist"
+  ],
   "made_by": "ancient makers unknown; new beads cut commercially, then blessed by a lama if the buyer wants that",
-  "colour": ["brown", "black", "ivory-white"],
+  "colour": [
+   "brown",
+   "black",
+   "ivory-white"
+  ],
   "single_use": false,
   "source": "s:wp-dzi-bead",
   "note": "No measurement is published in the source read, so none is given. Chung dzi — plain banded agate, striped etched beads, turtle-back carnelians — are counted by Tibetans as a kind of dzi and are cheaper; Luk Mik, 'goat's eye', is a naturally one-eyed coin-shaped agate preferred for travelling."
  },
  "against": [
-  {"harm": "evil-eye", "who": "the account of the beads' origin given in the source, which says the makers put eyes on them as a fight-fire-with-fire answer to the harmful look", "source": "s:wp-dzi-bead", "tier": "cited"},
-  {"harm": "illness", "who": "Tibetan medicine, in which a portion of a bead is ground off and used, leaving dig marks", "source": "s:wp-dzi-bead", "tier": "cited"},
-  {"harm": "spirits", "who": "Tibetan owners, for whom the beads attract local protectors, dharmapalas, deities, beneficial ghosts, ancestors or bodhisattvas", "source": "s:wp-dzi-bead", "tier": "cited"}
+  {
+   "harm": "evil-eye",
+   "who": "the account of the beads' origin given in the source, which says the makers put eyes on them as a fight-fire-with-fire answer to the harmful look",
+   "source": "s:wp-dzi-bead",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "Tibetan medicine, in which a portion of a bead is ground off and used, leaving dig marks",
+   "source": "s:wp-dzi-bead",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "Tibetan owners, for whom the beads attract local protectors, dharmapalas, deities, beneficial ghosts, ancestors or bodhisattvas",
+   "source": "s:wp-dzi-bead",
+   "tier": "cited"
+  }
  ],
  "kin": [
-  {"to": "eye", "as": "the sign counted on its surface — an eye here is a circle, and the number of them sets the price", "rel": "motif"},
-  {"to": "gau-box", "as": "what hangs on the same cord: the box holds the written amulet, the bead hangs beside it", "rel": "kin"},
-  {"to": "tibetan-protection", "as": "the tradition that receives it, blesses new ones, and hands old ones down", "rel": "tradition"},
-  {"to": "coral", "as": "what a dzi is flanked with on a Tibetan necklace — and, like the bead, something that reached Tibet from somewhere else", "rel": "material"},
-  {"to": "turquoise", "as": "the third stone on the same string, and the one Tibet could supply itself", "rel": "material"},
-  {"to": "carnelian", "as": "the stone of the chung dzi, the ordinary etched beads counted as a lesser kind of the same thing", "rel": "material"},
-  {"to": "nazar", "as": "the other eye-bead with a market in the millions — glass instead of agate, and priced by the tray instead of by the eye", "rel": "parallel"},
-  {"to": "the-fake-market", "as": "the long read this bead belongs in: imitations run from 19th-century German cutting to two-dollar machine beads, and the tells are the whole trade", "rel": "story"},
-  {"to": "barkhor-lhasa", "as": "the Lhasa circuit where beads change hands", "rel": "place"},
-  {"to": "kathmandu-thamel", "as": "the other Himalayan street they are sold on, mostly to visitors", "rel": "place"},
-  {"to": "rudraksha", "as": "the South Asian bead graded the same way — by counting the marks on it — and costing a fraction as much", "rel": "parallel"}
+  {
+   "to": "eye",
+   "as": "the sign counted on its surface — an eye here is a circle, and the number of them sets the price",
+   "rel": "motif"
+  },
+  {
+   "to": "gau-box",
+   "as": "what hangs on the same cord: the box holds the written amulet, the bead hangs beside it",
+   "rel": "kin"
+  },
+  {
+   "to": "tibetan-protection",
+   "as": "the tradition that receives it, blesses new ones, and hands old ones down",
+   "rel": "tradition"
+  },
+  {
+   "to": "coral",
+   "as": "what a dzi is flanked with on a Tibetan necklace — and, like the bead, something that reached Tibet from somewhere else",
+   "rel": "material"
+  },
+  {
+   "to": "turquoise",
+   "as": "the third stone on the same string, and the one Tibet could supply itself",
+   "rel": "material"
+  },
+  {
+   "to": "carnelian",
+   "as": "the stone of the chung dzi, the ordinary etched beads counted as a lesser kind of the same thing",
+   "rel": "material"
+  },
+  {
+   "to": "nazar",
+   "as": "the other eye-bead with a market in the millions — glass instead of agate, and priced by the tray instead of by the eye",
+   "rel": "parallel"
+  },
+  {
+   "to": "the-fake-market",
+   "as": "the long read this bead belongs in: imitations run from 19th-century German cutting to two-dollar machine beads, and the tells are the whole trade",
+   "rel": "story"
+  },
+  {
+   "to": "barkhor-lhasa",
+   "as": "the Lhasa circuit where beads change hands",
+   "rel": "place"
+  },
+  {
+   "to": "kathmandu-thamel",
+   "as": "the other Himalayan street they are sold on, mostly to visitors",
+   "rel": "place"
+  },
+  {
+   "to": "rudraksha",
+   "as": "the South Asian bead graded the same way — by counting the marks on it — and costing a fraction as much",
+   "rel": "parallel"
+  }
  ],
  "confusable_with": [
-  {"id": "nazar", "tell": "a dzi is a drilled agate tube with etched white lines; the nazar is a flat glass disc of concentric blue and white"}
+  {
+   "id": "nazar",
+   "tell": "a dzi is a drilled agate tube with etched white lines; the nazar is a flat glass disc of concentric blue and white"
+  }
  ],
- "links": [{"label": "Dzi bead — Wikipedia", "url": "https://en.wikipedia.org/wiki/Dzi_bead"}],
- "sources": ["s:wp-dzi-bead", "s:wp-turquoise", "s:wp-coral", "s:wp-carnelian", "s:wp-tibetan-buddhism"],
+ "links": [
+  {
+   "label": "Dzi bead — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dzi_bead"
+  }
+ ],
+ "sources": [
+  "s:wp-dzi-bead",
+  "s:wp-turquoise",
+  "s:wp-coral",
+  "s:wp-carnelian",
+  "s:wp-tibetan-buddhism"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-dzi-bead"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-dzi-bead"
+  },
   "fields": {
-   "text.today": {"tier": "cited", "source": "s:wp-dzi-bead", "note": "prices are the source's and are undated there; this record says so rather than dating them"},
-   "dating": {"tier": "cited", "source": "s:wp-dzi-bead", "note": "the excavated find is used; the 2000–1000 BCE origin claim is reported but not dated with"}
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-dzi-bead",
+    "note": "prices are the source's and are undated there; this record says so rather than dating them"
+   },
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-dzi-bead",
+    "note": "the excavated find is used; the 2000–1000 BCE origin claim is reported but not dated with"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Dzi bead.jpg", "File:Tibetan dzi beads.jpg"],
+ "x_commons_files": [
+  "File:Dzi bead.jpg",
+  "File:Tibetan dzi beads.jpg"
+ ],
  "confidence": "medium",
  "needs_verification": true,
  "updated": "2026-09-16"

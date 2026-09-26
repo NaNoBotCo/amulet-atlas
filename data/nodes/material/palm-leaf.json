@@ -6,7 +6,8 @@
    "tala patra",
    "lontar",
    "bai lan"
-  ]
+  ],
+  "th": "ใบลาน"
  },
  "region": [
   "south-asia",
@@ -32,6 +33,20 @@
   "story": "Palm leaf carries scripture across half of Asia, and carries charms with it. It is in use in the Indian subcontinent as early as the fifth century BCE and spreads to Sri Lanka and Southeast Asia — Cambodia from Angkorian times, Myanmar from twelfth-century Bagan, Indonesia in the Majapahit period of the fourteenth and fifteenth centuries.\n\nIn Thailand the takrut, the tubular amulet worn on a cord, is made of metal or of palm leaf: a strip inscribed with yant, the sacred geometry and Pali phrases usually written in Khom script, or in Lan Na Tai Tham in the north, then rolled and cased. Whether a given takrut is metal or leaf is not a difference in the spell. It is a difference in what will survive.\n\n*Inference —* this is the clearest survival-bias case in the atlas. A palm-leaf text lasts between a few decades and roughly six hundred years before moisture, insects, mould and sheer fragility take it, and the oldest survivals are all from colder, drier places — parts of Nepal, Tibet, Central Asia. In the monsoon belt where palm leaf is actually from, nothing lasts. Hindu temples and monasteries handled this by copying texts onto new leaves as the old ones wore out, which keeps the words and destroys the objects. So the amulet record of mainland Southeast Asia is weighted almost entirely to metal, clay and stone, and the leaf charms that stood beside them for two thousand years are simply absent.",
   "how": "Cut to a strip, inscribed with a stylus, inked or coloured so the grooves show, then rolled and tied, or bound between boards. A takrut of leaf is rolled tight, bound with cord, and often cased so the leaf is never touched.",
   "today": "Still written, still copied, and now digitised in large collections. As an amulet material it survives mainly in Thai and Khmer practice, alongside the metal sheet that has always been its more durable alternative."
+ },
+ "text_th": {
+  "what": "ใบของต้นตาลหรือต้นลาน นำไปต้ม ตากแห้ง และรมควันจนเขียนเป็นเส้นได้ ตัวอักษรไม่ได้เขียนลงบนผิว แต่ใช้เหล็กจารขูดลงไปในเนื้อใบ จากนั้นจึงลูบสีทาทับใบลาน ให้สีจมลงในร่อง ตัวอักษรก็ปรากฏขึ้น ผลที่ได้คือวัสดุที่อ่อนตัว เบา และราคาถูกในทุกที่ที่ต้นไม้เหล่านี้ขึ้น",
+  "story": "ใบลานพาพระคัมภีร์ไปทั่วครึ่งหนึ่งของเอเชีย และพาเครื่องรางไปด้วย มีการใช้ใบลานในอนุทวีปอินเดียตั้งแต่ศตวรรษที่ 5 ก่อน ค.ศ. และแพร่ไปยังศรีลังกาและเอเชียตะวันออกเฉียงใต้ คือกัมพูชาตั้งแต่สมัยพระนคร พม่าตั้งแต่สมัยพุกามในคริสต์ศตวรรษที่ 12 และอินโดนีเซียในสมัยมัชปาหิต คริสต์ศตวรรษที่ 14 และ 15\n\nในประเทศไทย ตะกรุด เครื่องรางทรงหลอดที่สวมด้วยเชือก ทำจากโลหะหรือใบลาน คือแถบที่จารึกยันต์ ซึ่งเป็นเรขาคณิตศักดิ์สิทธิ์และคาถาบาลีที่มักเขียนด้วยอักษรขอม หรือด้วยอักษรธรรมล้านนาในภาคเหนือ แล้วม้วนและใส่ปลอก ตะกรุดดอกหนึ่งจะเป็นโลหะหรือใบลานไม่ได้ทำให้คาถาต่างกัน ที่ต่างคือสิ่งใดจะหลงเหลืออยู่ได้\n\n*ข้อสันนิษฐาน —* นี่คือกรณีที่ชัดที่สุดของอคติจากการหลงเหลือในแอตลาสนี้ คัมภีร์ใบลานอยู่ได้ตั้งแต่ไม่กี่สิบปีไปจนถึงราว 600 ปี ก่อนที่ความชื้น แมลง เชื้อรา และความเปราะบางของมันเองจะทำลาย และชิ้นที่หลงเหลือเก่าที่สุดล้วนมาจากที่ที่หนาวและแห้งกว่า คือบางส่วนของเนปาล ทิเบต และเอเชียกลาง ในแถบมรสุมซึ่งเป็นถิ่นกำเนิดจริงของใบลาน ไม่มีอะไรอยู่ได้นาน เทวาลัยฮินดูและวัดวาอารามแก้ปัญหานี้ด้วยการคัดลอกข้อความลงใบลานใหม่เมื่อใบเก่าชำรุด ซึ่งรักษาถ้อยคำไว้แต่ทำลายตัววัตถุ ดังนั้นบันทึกเรื่องเครื่องรางของภาคพื้นทวีปเอเชียตะวันออกเฉียงใต้จึงเอียงไปทางโลหะ ดินเผา และหินเกือบทั้งหมด และเครื่องรางใบลานที่อยู่เคียงข้างวัตถุเหล่านั้นมาสองพันปีก็ไม่ปรากฏอยู่เลย",
+  "how": "ตัดเป็นแถบ จารด้วยเหล็กจาร ลงหมึกหรือสีให้ร่องปรากฏ แล้วม้วนและมัด หรือเย็บรวมไว้ระหว่างไม้ประกับ ตะกรุดใบลานจะม้วนให้แน่น มัดด้วยเชือก และมักใส่ปลอก เพื่อไม่ให้ใครสัมผัสใบลานเลย",
+  "today": "ยังมีการจาร ยังมีการคัดลอก และปัจจุบันมีการแปลงเป็นดิจิทัลเป็นคอลเลกชันขนาดใหญ่ ในฐานะวัสดุทำเครื่องราง ใบลานยังคงอยู่เป็นหลักในธรรมเนียมไทยและเขมร ควบคู่กับแผ่นโลหะที่เป็นทางเลือกที่ทนทานกว่ามาโดยตลอด"
+ },
+ "th_fields": {
+  "dating.period": "ศตวรรษที่ 5 ก่อน ค.ศ. ถึงปัจจุบัน",
+  "dating.note": "ระบุอายุจากการใช้ใบลานเขียนหนังสือครั้งแรกสุดที่มีรายงานในอนุทวีปอินเดีย ไม่มีใบลานที่หลงเหลือมาถึงปัจจุบันใบใดเก่าได้ถึงเพียงนั้น อายุของตัววัสดุเองอยู่ที่ไม่กี่สิบปีไปจนถึงราว 600 ปี",
+  "against.0.who": "ผู้สร้างตะกรุดชาวไทย ซึ่งปลุกเสกตะกรุดเพื่อคงกระพัน คือความอยู่ยงคงกระพัน",
+  "against.0.note": "รายงานในฐานะคำกล่าวอ้างของผู้สร้างและผู้สวม แอตลาสนี้ไม่ได้แนะนำ",
+  "against.1.who": "ผู้สร้างกลุ่มเดียวกัน เพื่อมหาเสน่ห์และเมตตามหานิยม — แรงดึงดูดและความเป็นที่รักใคร่",
+  "against.2.who": "ผู้สวมชาวไทย ซึ่งนำตะกรุดติดตัวไปในการเดินทางทำงานและออกศึก"
  },
  "dating": {
   "period": "5th century BCE to the present",
@@ -70,42 +85,50 @@
   {
    "to": "takrut",
    "as": "the amulet that is either metal or this leaf, rolled the same way, saying the same thing",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "as_th": "เครื่องรางที่ทำจากโลหะหรือใบลานนี้ ม้วนแบบเดียวกัน และกล่าวสิ่งเดียวกัน"
   },
   {
    "to": "yantra-plate",
    "as": "the same yant, put on a surface that will outlast the leaf",
-   "rel": "parallel"
+   "rel": "parallel",
+   "as_th": "ยันต์เดียวกัน ลงบนพื้นผิวที่จะอยู่ได้นานกว่าใบลาน"
   },
   {
    "to": "sak-yant",
    "as": "the same designs again, put where nothing can be stolen and nothing survives the wearer",
-   "rel": "parallel"
+   "rel": "parallel",
+   "as_th": "ลวดลายเดียวกันอีกครั้ง ลงไว้ในที่ที่ไม่มีอะไรถูกขโมยได้ และไม่มีอะไรอยู่ได้นานกว่าผู้ถือ"
   },
   {
    "to": "thai-wicha",
    "as": "the tradition whose written charms this leaf carried before metal was common",
-   "rel": "tradition"
+   "rel": "tradition",
+   "as_th": "ธรรมเนียมที่เครื่องรางแบบเขียนของตนเคยอยู่บนใบลานนี้ ก่อนที่โลหะจะแพร่หลาย"
   },
   {
    "to": "paper",
    "as": "its successor: cheaper still, printable, and just as perishable",
-   "rel": "parallel"
+   "rel": "parallel",
+   "as_th": "ผู้สืบทอดของใบลาน ราคาถูกยิ่งกว่า พิมพ์ได้ และเสื่อมสลายง่ายไม่แพ้กัน"
   },
   {
    "to": "parchment",
    "as": "the dry world's equivalent, and the reason the Mediterranean amulet record is fuller than the monsoon one",
-   "rel": "contrast"
+   "rel": "contrast",
+   "as_th": "สิ่งที่เทียบเท่าในดินแดนที่แห้งแล้ง และเป็นเหตุผลที่บันทึกเครื่องรางของเมดิเตอร์เรเนียนสมบูรณ์กว่าของแถบมรสุม"
   },
   {
    "to": "inscribing",
    "as": "the practice this material demands — a stylus cutting, not a pen laying down ink",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "การปฏิบัติที่วัสดุนี้ต้องการ คือเหล็กจารที่ขูดลงไป ไม่ใช่ปากกาที่ลงหมึก"
   },
   {
    "to": "dating-a-charm",
    "as": "the long read on why the surviving objects are not a sample of what was worn",
-   "rel": "story"
+   "rel": "story",
+   "as_th": "บทความยาวว่าด้วยเหตุผลที่วัตถุซึ่งหลงเหลืออยู่ไม่ใช่ตัวอย่างที่เป็นตัวแทนของสิ่งที่ผู้คนสวม"
   }
  ],
  "links": [

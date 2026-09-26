@@ -14,7 +14,8 @@
    "kamifuda",
    "kifuda",
    "Jingū Taima"
-  ]
+  ],
+  "th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)"
  },
  "etymology": {
   "root": "Japanese fuda 札 'slip of paper, card, plate', with the honorific prefix o-/go-; the Buddhist and Daoist-derived synonym is gofu 護符, 'guarding tally'",
@@ -43,6 +44,9 @@
   "story": "Two lines run into the ofuda. One is Daoist: the lingfu, the talismanic script of China, which reached Japan through Onmyōdō. The other is print — the woodblock sheets of Buddhist text and image that temples were turning out from the Nara and Heian periods on. In the medieval period the three Kumano shrines in Wakayama stamped their paper talismans with stylised crows and called them Kumano Goōfu, Ox King Talismans; oaths and contracts were written on the blank side, so the sheet held the agreement and the sanction at once.\n\nThe standard modern form comes from Ise. Wandering preachers attached to the Ise shrines, the oshi, handed out purification wands called Oharai Taima as a sign that prayers had been said on a devotee's behalf. The wand came folded into paper shaped like a sword blade — kenharai — or boxed. Distribution started in the Muromachi period and peaked in the Edo: a document of 1777 records that eighty-nine to ninety per cent of households in the country held an Ise talisman. That is close to universal coverage, three centuries before mass media.\n\nThen the state took it over. An imperial decree of 1871 abolished the oshi and moved production of the talisman, renamed Jingū Taima, to the shrine's own offices. In 1900 a new Department of Priests, the Kanbesho, took over; in 1927 the National Association of Shinto Priests; after the Second World War, the Association of Shinto Shrines, which still distributes Jingū Taima to affiliated shrines across Japan. *Inference —* an object whose issuing body is renamed four times in seventy-five years is an object the state has an opinion about.",
   "how": "Received at a shrine or temple counter, in exchange for hatsuhoryō, a first-fruit offering rather than a price. Shinsatsu are set on a kamidana, a household Shinto altar, or on a stand; failing that, upright in a clean space above eye level, facing east, south or south-east. The Association of Shinto Shrines recommends three per household: the Jingū Taima from Ise, the ofuda of the tutelary kami of where you live, and the ofuda of a shrine you are personally attached to. In a three-door altar the Ise one goes in the middle. Other ofuda go elsewhere in the house — hearth deities in the kitchen, a talisman of the Buddhist figure Ucchuṣma in the toilet, the horned Tsuno Daishi, the Tendai monk Ryōgen drawn as a yaksha, on a doorway. They are replaced annually, ideally before the year turns, and the old ones are burnt at the Sagichō or Dondoyaki fire in mid-January. Most shrines will take back another shrine's ofuda; many will not take a Buddhist one.",
   "today": "Issued year-round by shrines and temples with permanent staff, and distributed nationally through the Association of Shinto Shrines as of 2026. Japan has around 100,000 public shrines, about 80,000 of them affiliated with the Association and roughly 20,000 unaffiliated, which is the network the Ise talisman travels down."
+ },
+ "text_th": {
+  "what": "เครื่องรางแบบแผ่นแบนที่ศาลเจ้าหรือวัดออกให้ อาจเป็นแผ่นกระดาษ แผ่นบางสี่เหลี่ยมผืนผ้าในซองกระดาษ หรือแผ่นไม้ มีชื่อศาลเจ้าหรือพระนามของเทพเจ้าที่ประดิษฐานอยู่ที่นั่น และประทับตราของศาลเจ้า แบบกระดาษเรียกว่าคามิฟุดะ แบบไม้เรียกว่าคิฟุดะ ไม่ได้พกติดตัว แต่ตั้งไว้บนหิ้งบูชาในบ้าน หรือติดผนังเหนือระดับสายตา หรือติดไว้ที่ประตูรั้ว ทางเข้าประตู ห้องครัว หรือเพดาน"
  },
  "dating": {
   "period": "Nara and Heian woodblock prints to the present",
@@ -220,70 +224,90 @@
    "type": "amulet",
    "name": "Omamori",
    "as": "its own portable child — same origin, same counter, but sewn into a pouch and carried instead of stood on an altar",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "fu-talisman",
    "type": "amulet",
    "name": "Fu talisman",
    "as": "the Chinese ancestor: the Daoist talismanic sheet that reached Japan through Onmyōdō and set the form",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "bujeok",
    "type": "amulet",
    "name": "Bujeok",
    "as": "the Korean cousin out of the same Daoist stock, drawn from Hanja rather than printed with a shrine seal",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "to": "japanese-engimono",
    "type": "tradition",
    "name": "Engimono",
    "as": "the tradition that sells it, alongside the daruma, the rake and the beckoning cat",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "where half of them end up — gate, doorway, kitchen, ceiling, one per job",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "to": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "the twelve-month clock that governs it, and the reason Japan burns so much paper each January",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   },
   {
    "to": "burning-retirement",
    "type": "practice",
    "name": "Burning at retirement",
    "as": "the ending: Sagichō or Dondoyaki, the Little New Year fire on 14 or 15 January",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเผาเครื่องรางเมื่อหมดวาระ",
+   "as_th": ""
   },
   {
    "to": "mezuzah",
    "type": "amulet",
    "name": "Mezuzah",
    "as": "the other household text fixed at a doorway and inspected on a cycle, four thousand miles west",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เมซูซา",
+   "as_th": ""
   },
   {
    "to": "fushimi-inari",
    "type": "place",
    "name": "Fushimi Inari-taisha",
    "as": "one of the shrines that issues its own alongside the Ise talisman",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ศาลเจ้าฟูชิมิอินาริไทฉะ",
+   "as_th": ""
   },
   {
    "to": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "the sign it carries: the name of the kami or the Buddhist figure is the talisman's working part",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "พระนาม",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -463,196 +487,252 @@
    "type": "amulet",
    "name": "Bujeok",
    "as": "the Japanese sibling out of the same fulu stock, printed with a shrine seal where this is drawn by hand",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "from": "exam-charm",
    "type": "amulet",
    "name": "Exam charm",
    "as": "the shrine's paper talisman, sold from the same counter and kept at home rather than carried",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เครื่องรางสอบผ่าน (โกกากุ คิกัง)",
+   "as_th": ""
   },
   {
    "from": "fu-talisman",
    "type": "amulet",
    "name": "Fu talisman",
    "as": "the Japanese descendant — the same idea of a written slip from a shrine, reached through this script",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "lungta-flag",
    "type": "amulet",
    "name": "Lung ta prayer flag",
    "as": "Japan's paper parallel, taken from a shrine each year and burned at the next",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ธงลุงตา (ธงมนต์ม้าลม)",
+   "as_th": ""
   },
   {
    "from": "maneki-neko",
    "type": "amulet",
    "name": "Maneki-neko",
    "as": "what sits behind the same till in Japan, consecrated where this is not",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "แมวกวัก (มาเนกิเนโกะ)",
+   "as_th": ""
   },
   {
    "from": "mezuzah",
    "type": "amulet",
    "name": "Mezuzah",
    "as": "the Japanese paper the household fixes where the house opens, from a tradition that has no objection to calling it protective",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เมซูซา",
+   "as_th": ""
   },
   {
    "from": "omamori",
    "type": "amulet",
    "name": "Omamori",
    "as": "the parent: omamori shares its origin with the ofuda and is the smaller, portable version of it, the one that leaves the house",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "omikuji",
    "type": "amulet",
    "name": "Omikuji",
    "as": "the household tablet from the same issuing body; omikuji never goes on the altar",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "โอมิกุจิ (ใบเซียมซีญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "ping-an-fu",
    "type": "amulet",
    "name": "Ping'an fu",
    "as": "the Japanese paper talisman descended from the same Taoist writing",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ผิงอันฝู (ยันต์ขอความสงบสุข)",
+   "as_th": ""
   },
   {
    "from": "teru-teru-bozu",
    "type": "amulet",
    "name": "Teru teru bōzu",
    "as": "the printed sheet a Japanese household hangs indoors for the year; this one hangs outdoors for a night",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เทรุเทรุโบซุ (ตุ๊กตาไล่ฝน)",
+   "as_th": ""
   },
   {
    "from": "japanese-engimono",
    "type": "tradition",
    "name": "Engimono",
    "as": "the tablet the whole administered system runs on, from the Ise oshi to the Association of Shinto Shrines",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "the Japanese descendant of that script, and bujeok is the Korean one",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "พระนาม",
+   "as_th": ""
   },
   {
    "from": "ink",
    "type": "material",
    "name": "Ink",
    "as": "the Japanese descendant of the Taoist talisman, printed from woodblocks and renewed each year",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "หมึก",
+   "as_th": "ทายาทญี่ปุ่นของยันต์เต๋า พิมพ์จากแม่พิมพ์ไม้และเปลี่ยนใหม่ทุกปี"
   },
   {
    "from": "paper",
    "type": "material",
    "name": "Paper",
    "as": "the Japanese paper talisman, issued by a shrine, placed on the household altar and renewed yearly",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กระดาษ",
+   "as_th": ""
   },
   {
    "from": "salt",
    "type": "material",
    "name": "Salt",
    "as": "the household altar where salt is offered with rice, water and sake",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เกลือ",
+   "as_th": ""
   },
   {
    "from": "wood",
    "type": "material",
    "name": "Wood",
    "as": "the Japanese talisman whose grandest form is a wooden tablet wrapped round a sliver of cedar called the sacred core",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ไม้",
+   "as_th": ""
   },
   {
    "from": "blessing-at-a-shrine",
    "type": "practice",
    "name": "Blessing at a shrine",
    "as": "the tablet whose power the practice describes as held by virtue of its consecration",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การนำไปรับพรที่ศาสนสถาน",
+   "as_th": "แผ่นป้ายที่ธรรมเนียมนี้อธิบายว่าพลังของมันมีอยู่ได้ด้วยอำนาจของพิธีทำให้ศักดิ์สิทธิ์"
   },
   {
    "from": "burning-retirement",
    "type": "practice",
    "name": "Burning at retirement",
    "as": "burnt at Sagichō or Dondoyaki on 14 or 15 January, at the end of the New Year season",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การเผาเครื่องรางเมื่อหมดวาระ",
+   "as_th": ""
   },
   {
    "from": "burning-retirement",
    "type": "practice",
    "name": "Burning at retirement",
    "as": "the wish-plaque burnt to release the wish rather than to dispose of the board",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การเผาเครื่องรางเมื่อหมดวาระ",
+   "as_th": ""
   },
   {
    "from": "consecration",
    "type": "practice",
    "name": "Consecration",
    "as": "paper that carries a kami's essence, in the practice's own words, by virtue of this step",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การปลุกเสก",
+   "as_th": "กระดาษที่บรรจุแก่นสารของคามิ ตามถ้อยคำของธรรมเนียมเอง ด้วยอำนาจของขั้นตอนนี้"
   },
   {
    "from": "feeding-the-charm",
    "type": "practice",
    "name": "Feeding the charm",
    "as": "the paper on the household altar in front of which rice, salt, water and sake are set out daily",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การเลี้ยงเครื่องราง",
+   "as_th": ""
   },
   {
    "from": "folding",
    "type": "practice",
    "name": "Folding",
    "as": "the folded paper packet cut to the shape of a sword blade and handed out by the shrines of Ise",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การม้วนและพับ",
+   "as_th": "ห่อกระดาษพับที่ตัดเป็นรูปใบดาบ และแจกโดยศาลเจ้าแห่งอิเสะ"
   },
   {
    "from": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "paper assigned by room — entrance, kitchen, toilet — with a different figure on each",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "from": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "the household talisman whose replacement is argued for on the ground of purity, not of wear",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   },
   {
    "from": "fushimi-inari",
    "type": "place",
    "name": "Fushimi Inari-taisha",
    "as": "the paper or wood tablet taken home to the house shelf from a shrine like this one",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ศาลเจ้าฟูชิมิอินาริไทฉะ",
+   "as_th": ""
   },
   {
    "from": "senso-ji",
    "type": "place",
    "name": "Sensō-ji",
    "as": "the tablet carried home from a temple like this one to the household shelf",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "วัดเซนโซจิ",
+   "as_th": ""
   },
   {
    "from": "fu-word",
    "type": "term",
    "name": "fu",
    "as": "the Japanese descendant of fulu — the same word, crossed over and re-cut",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "ฝู (福)",
+   "as_th": ""
   },
   {
    "from": "omamori-word",
    "type": "term",
    "name": "omamori",
    "as": "the paper tablet the same shrines issue for the household rather than the person",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "โอมาโมริ",
+   "as_th": ""
   }
  ]
 }

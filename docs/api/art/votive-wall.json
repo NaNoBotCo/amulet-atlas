@@ -8,7 +8,8 @@
    "wall of tamata",
    "ema rack",
    "wall of offerings"
-  ]
+  ],
+  "th": "กำแพงของถวาย"
  },
  "region": [
   "greece-aegean",
@@ -32,6 +33,9 @@
   "what": "A surface at a shrine covered edge to edge in small identical-format objects left by strangers: hammered metal plaques the size of a playing card, wooden tablets on hooks, crutches wired to a grille. Each one is a single person's business with a saint or a kami. Together they read as one picture, and the picture is a count.",
   "story": "The format is what makes the wall work. Japanese ema are wooden plaques typically 15 cm wide and 9 cm tall, hung at the shrine where the kami are held to receive them, and burnt at intervals — the burning is described as liberating the wish. Because every plaque is the same size and shape, a hundred of them hung together look like a ledger. *Tradition holds —* in older Shinto practice a living horse (shinme) was offered, and the plaque is the substitute for the horse; the earliest text record of a substitution names three paper horses offered at the Kitano Tenjin shrine in 1013.\n\nEastern Orthodox tamata do the same work in metal and correspond almost exactly to the milagros of Mexico, Spain and the southern United States. In the long Votive Chapel of Saint Joseph's Oratory in Montreal, hundreds of crutches, canes and braces are fixed to iron grilles by pilgrims who said they were healed while meeting Brother André; Pope Benedict XVI canonised him as Saint André Bessette in 2011. At Notre-Dame de la Garde in Marseille the wall takes paintings, plaques, model ships, war medals and football shirts given by players and supporters of Olympique de Marseille.\n\n*Inference —* the wall is the only amulet picture in this atlas that is made by a crowd and not by a maker. Nobody designs it. It accumulates, and it can be read for what a place is asked for — legs at one shrine, eyes at another, exam passes at a third — in a way a single object never can.",
   "today": "Still filling, and now with new subjects. Since the rise of pop-culture pilgrimage in Japan, plaques painted with manga and game characters — ita-ema — hang on the same racks, thickest at Kanda Shrine near Akihabara. Some shrines have been criticised for profiting from plaque sales: in 1979 two shrines dedicated to education sold plaques for examination success, and after public complaint turned the money into a scholarship in 1980."
+ },
+ "text_th": {
+  "what": "พื้นผิวที่สถานศักดิ์สิทธิ์ซึ่งถูกปกคลุมเต็มตั้งแต่ขอบถึงขอบด้วยของชิ้นเล็กรูปแบบเดียวกันที่คนแปลกหน้านำมาทิ้งไว้ แผ่นโลหะตีขนาดเท่าไพ่ ป้ายไม้แขวนบนตะขอ ไม้ค้ำยันที่มัดลวดไว้กับตะแกรง แต่ละชิ้นคือเรื่องส่วนตัวของคนคนหนึ่งกับนักบุญหรือกับคามิ (kami) รวมกันแล้วอ่านได้เป็นภาพเดียว และภาพนั้นคือการนับ"
  },
  "kin": [
   {
@@ -156,42 +160,54 @@
    "type": "amulet",
    "name": "Tama",
    "as": "the metal plaque this wall is mostly made of in Greece and the Orthodox world",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ทามา (แผ่นโลหะถวายของกรีก)",
+   "as_th": ""
   },
   {
    "to": "milagro",
    "type": "amulet",
    "name": "Milagro",
    "as": "its Latin American twin — the same body parts, hammered in tin instead of silver",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "มิลาโกร (แผ่นโลหะแก้บน)",
+   "as_th": ""
   },
   {
    "to": "ex-voto-wall",
    "type": "art",
    "name": "The ex-voto wall",
    "as": "the painted version of the same surface: a panel that tells the story instead of naming the part",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ผนังภาพแก้บน (เอ็กซ์โวโต)",
+   "as_th": ""
   },
   {
    "to": "blessing-at-a-shrine",
    "type": "practice",
    "name": "Blessing at a shrine",
    "as": "the practice that fills it — you leave the plaque where the power is, not where you live",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การนำไปรับพรที่ศาสนสถาน",
+   "as_th": ""
   },
   {
    "to": "exam-charm",
    "type": "amulet",
    "name": "Exam charm",
    "as": "the wish that dominates certain Japanese racks every winter, and once caused a scandal about who keeps the money",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางสอบผ่าน (โกกากุ คิกัง)",
+   "as_th": ""
   },
   {
    "to": "quiapo-church",
    "type": "place",
    "name": "Quiapo Church",
    "as": "a shrine where the same accumulation happens around the doors rather than on a rack",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "โบสถ์กีอาโป",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -285,21 +301,27 @@
    "type": "amulet",
    "name": "Tama",
    "as": "the wall this ends up on, and the form the offering takes when there are enough of them",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "ทามา (แผ่นโลหะถวายของกรีก)",
+   "as_th": ""
   },
   {
    "from": "blessing-at-a-shrine",
    "type": "practice",
    "name": "Blessing at a shrine",
    "as": "what the inward direction builds: a wall of other people's petitions, left where the next petitioner will read them",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "การนำไปรับพรที่ศาสนสถาน",
+   "as_th": "สิ่งที่ทิศทางขาเข้าสร้างขึ้น: ผนังที่เต็มไปด้วยคำขอของผู้อื่น ทิ้งไว้ในที่ที่ผู้มาขอคนถัดไปจะได้อ่าน"
   },
   {
    "from": "ex-voto-wall",
    "type": "art",
    "name": "The ex-voto wall",
    "as": "the unpainted version of the same surface — plaques and crutches instead of pictures",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ผนังภาพแก้บน (เอ็กซ์โวโต)",
+   "as_th": ""
   }
  ]
 }

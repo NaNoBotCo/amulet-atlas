@@ -15,7 +15,8 @@
    "yeot",
    "chapssaltteok",
    "exam omamori"
-  ]
+  ],
+  "th": "เครื่องรางสอบผ่าน (โกกากุ คิกัง)"
  },
  "etymology": {
   "root": "Japanese 合格祈願 gōkaku kigan, from 合格 gōkaku 'passing an examination' and 祈願 kigan 'prayer, petition'",
@@ -46,6 +47,9 @@
   "story": "Japan's examination charm has a god, and he was a real man. Sugawara no Michizane was a Heian-period scholar and poet who was exiled to Kyushu and died there; he is enshrined as Tenjin, god of scholarship and learning — and of natural disasters, which is a detail worth keeping. Dazaifu Tenmangū, the shrine built where he was exiled, states it plainly on its own English page: \"As Tenjin is the deity of learning, amulets for academic success are one of the most popular items to take home from Dazaifu Tenmangu.\" Many of the amulets carry the plum flower, which the shrine says Michizane loved and which is its symbol. The shrine's own framing of the exchange is careful and worth quoting as printed: \"At Shinto shrines you can receive an omamori, or amulet, to bring good luck, for a small donation.\" Received, for a donation. Not bought.\n\nThe omamori for this is gakugyō-jōju, education and passing examinations, one of a standard list that also runs to traffic safety, safe childbirth, a good marriage, business prosperity and family peace. The rule is the same as for every omamori: do not open it, and return the old one to the shrine it came from — traditionally to be burnt rather than binned, out of respect to the deity that carried you through the year.\n\nThe second Japanese object is the Kit Kat, and the wordplay has to be got right. キットカット, Kitto Katto, is what the brand is called in Japanese. Kitto means surely. Katsu means to win. The Kyushu phrase is きっと勝つとぉ, kitto katsutoo, 'you shall surely win', and that is the thing the brand name sounds like. Peter Davis, writing for Japan House at the University of Illinois, gives the figure: \"In fact, one in three students in Japan will buy a Kit-Kat in anticipation of entrance examinations.\" The English Wikipedia article is more guarded and says the marketing \"is believed to have benefited from the coincidental false cognate\", and that market research shows the brand strongly correlated with good-luck charms among students ahead of exams. *Inference —* the two accounts differ on how much of this Nestlé made and how much of it Nestlé found, and this project does not have the internal documents to settle that. What is dated is the marketing: the 'Lucky Charm' campaign won the Asian Brand Marketing Effectiveness Award in 2005, and in 2009 Nestlé and Japan Post ran a campaign letting people write on the bars and post them from 20,000 post offices — which won the Media Grand Prix at Cannes Lions in 2010.\n\nKorea works the same joke on a different verb. Families and friends give a student 엿, yeot — a taffy boiled down from steamed rice, glutinous rice, sorghum, corn or sweet potato — and 찹쌀떡, chapssaltteok, glutinous rice cake, before the Suneung university entrance examination. Both are sticky. The Korean verb for sticking to something is also the verb for passing an exam, so the gift says what it means without saying it. The English Wikipedia entry on yeot confirms students receive it before examinations and otherwise concentrates on the same word's career as an obscenity, which is the other thing a Korean reader knows about it.\n\nThe shrine end of the trade has been argued about in public, with a date attached. In 1979 two shrines dedicated to education sold ema — the wooden prayer plaques — for examination success; after public outcry, the funds were turned into a scholarship in 1980. *Inference —* that is the cleanest instance this atlas has of a charm trade answering a complaint by converting the takings into the thing the charm was asking for.",
   "how": "An omamori is received at the shrine office for a donation, carried on the person or tied to a bag, not opened, and returned to the same shrine at the New Year to be burnt. An ema is bought at the shrine, written on, and hung on the rack until it is ritually burnt at a ceremony — the burning treated as freeing the wish. A Kit Kat is bought at a convenience store, sometimes posted, and eaten. Yeot and chapssaltteok are given by family and friends and eaten. Nothing consecrates the last two, and nobody claims anything does.",
   "today": "Running every winter. Japanese entrance-examination season and the Korean Suneung both fall in the cold months, and the shelves change accordingly. As of 2026 the shrine goods, the exam-season chocolate packaging and the taffy all coexist, with the shrine goods carrying a deity's name and the other two carrying a pun. No dated price was read for any of them, and neither Dazaifu Tenmangū's page nor the sources on the Korean gifts print one."
+ },
+ "text_th": {
+  "what": "ของสี่อย่างที่ต่างกัน แต่ทำหน้าที่เดียวกัน อย่างแรกคือถุงผ้าแพรยกดิ้นยาวไม่กี่เซนติเมตร มีชื่อศาลเจ้าทอไว้บนถุง ข้างในมีคำอธิษฐานเขียนบนกระดาษหรือไม้ผนึกไว้ และห้ามเปิด อย่างที่สองคือแผ่นไม้ขนาดประมาณ 15 x 9 เซนติเมตร เขียนข้อความแล้วแขวนไว้ที่ศาลเจ้า อย่างที่สามคือช็อกโกแลตแท่งคู่ในห่อพิมพ์ลาย อย่างที่สี่คือแท่งลูกอมที่เคี่ยวจากธัญพืช สองอย่างแรกมาจากศาลเจ้า สองอย่างหลังมาจากซูเปอร์มาร์เก็ต และนักเรียนพกอย่างใดอย่างหนึ่งเข้าไปในห้องเดียวกัน"
  },
  "dating": {
   "period": "the modern examination system; the Tenjin cult behind it is Heian",
@@ -262,77 +266,99 @@
    "type": "amulet",
    "name": "Omamori",
    "as": "the object itself — this record is the one variety of it that has grown a supermarket aisle of its own",
-   "rel": "whole"
+   "rel": "whole",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "the shrine's paper talisman, sold from the same counter and kept at home rather than carried",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "omikuji",
    "type": "amulet",
    "name": "Omikuji",
    "as": "the other thing bought at the same window on the same visit, and the one that answers back",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "โอมิกุจิ (ใบเซียมซีญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "daruma",
    "type": "amulet",
    "name": "Daruma",
    "as": "the other Japanese object bought against a goal — one eye filled in when the vow is made, the other when it comes off",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ดารุมะ",
+   "as_th": ""
   },
   {
    "to": "bujeok",
    "type": "amulet",
    "name": "Bujeok",
    "as": "the Korean written talisman, made by a specialist where the exam gift is made by a confectioner",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "to": "phone-charm",
    "type": "amulet",
    "name": "Phone charm",
    "as": "where a student's omamori actually hangs — the cited account says they are often spotted on cellphone straps",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สายห้อยมือถือ",
+   "as_th": ""
   },
   {
    "to": "game-day-charm",
    "type": "amulet",
    "name": "Game-day charm",
    "as": "the same object with a scoreboard instead of an answer sheet, and the same argument about what carrying it does",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ของนำโชควันแข่ง",
+   "as_th": ""
   },
   {
    "to": "burning-retirement",
    "type": "practice",
    "name": "Burning at retirement",
    "as": "what happens to the omamori and the ema afterwards — returned and burnt, not binned",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเผาเครื่องรางเมื่อหมดวาระ",
+   "as_th": ""
   },
   {
    "to": "fushimi-inari",
    "type": "place",
    "name": "Fushimi Inari-taisha",
    "as": "one shrine where the charm counter is a shop floor and the scale of the trade is visible from the queue",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ศาลเจ้าฟูชิมิอินาริไทฉะ",
+   "as_th": ""
   },
   {
    "to": "insadong",
    "type": "place",
    "name": "Insa-dong",
    "as": "the Seoul quarter where the Korean end of this shelf is sold",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "อินซาดง",
+   "as_th": ""
   },
   {
    "to": "the-charm-goes-digital",
    "type": "story",
    "name": "The charm goes digital",
    "as": "the long read this belongs in: the charm that is also a chocolate bar, a postcard and a marketing award",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เครื่องรางในโลกดิจิทัล",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -533,70 +559,90 @@
    "type": "amulet",
    "name": "Daruma",
    "as": "the genre the blank eye feeds: a goal, a deadline, and a physical thing that watches you",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ดารุมะ",
+   "as_th": ""
   },
   {
    "from": "four-leaf-clover",
    "type": "amulet",
    "name": "Four-leaf clover",
    "as": "what a student carries now, and often this, flattened in a wallet",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ใบโคลเวอร์สี่แฉก",
+   "as_th": ""
   },
   {
    "from": "game-day-charm",
    "type": "amulet",
    "name": "Game-day charm",
    "as": "the same object with an answer sheet instead of a scoreboard, and a shrine counter behind it instead of a locker",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ของนำโชควันแข่ง",
+   "as_th": ""
   },
   {
    "from": "omamori",
    "type": "amulet",
    "name": "Omamori",
    "as": "the genre omamori feeds: gakugyō-jōju is an exam charm printed and priced as one",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "phone-charm",
    "type": "amulet",
    "name": "Phone charm",
    "as": "the variety a student hangs there in January, and the one with a chocolate bar attached to it",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สายห้อยมือถือ",
+   "as_th": ""
   },
   {
    "from": "korean-bujeok-craft",
    "type": "tradition",
    "name": "Bujeok craft",
    "as": "Korea's other charm economy, which runs on rice cake and toffee rather than on paper, and which far more people handle",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "บูจ็อก (ศาสตร์ยันต์เกาหลี)",
+   "as_th": ""
   },
   {
    "from": "charm-word",
    "type": "term",
    "name": "charm",
    "as": "the sense alive on a student's desk this year: an object carried for one occasion",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ชาร์ม (charm)",
+   "as_th": ""
   },
   {
    "from": "mascot-word",
    "type": "term",
    "name": "mascot",
    "as": "the private version of the same idea, with no costume and no crowd",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "มาสคอต",
+   "as_th": ""
   },
   {
    "from": "votive-wall",
    "type": "art",
    "name": "The votive wall",
    "as": "the wish that dominates certain Japanese racks every winter, and once caused a scandal about who keeps the money",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กำแพงของถวาย",
+   "as_th": ""
   },
   {
    "from": "the-charm-goes-digital",
    "type": "story",
    "name": "The charm goes digital",
    "as": "the occasion Sega's file was issued for, in its own words: tests and big challenges",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางในโลกดิจิทัล",
+   "as_th": "โอกาสที่เซก้า (Sega) ออกไฟล์นี้มาให้ ตามถ้อยคำของบริษัทเอง คือการสอบและความท้าทายครั้งใหญ่"
   }
  ]
 }

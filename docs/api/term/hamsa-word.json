@@ -16,7 +16,8 @@
    "Hand of Fatima",
    "Hand of Miriam",
    "kef Miryam"
-  ]
+  ],
+  "th": "ฮัมซา"
  },
  "etymology": {
   "root": "Arabic khamsa (خمسة) 'five' > English hamsa; Maghrebi variants khmisa; Hebrew hamesh (five) in Jewish usage; Berber afus, 'hand', names a similar motif",
@@ -54,6 +55,9 @@
  "text": {
   "what": "A word that is a number. Five — for the fingers — is what the object is called in Arabic, and hamesh, also five, in Hebrew usage. The names a shopper meets in Europe and America are all attachments: 'Hand of Fatima' (French Main de Fatma) was popularised by Europeans in French colonial North Africa and is a colonial nickname rather than an indigenous Arabic term. In Sephardi and Mizrahi Jewish contexts it is the Hand of Miriam. Levantine Christians call it kef Miryam, the hand of Mary.",
   "story": "The number is in the curses too, which is the strongest sign that the counting came first. Khamsa fi ainek — 'five [fingers] in your eye' — is said with the right hand raised, palm out, fingers slightly apart, to blind the aggressor. Khamsa wa-khamis, 'five and Thursday', is said without any gesture; Thursday, the fifth day, is held favourable for rites and for pilgrimages to saints' tombs against the evil eye. And there is the spitting formula: 'Khamsa, Khamsa, Khamsa, tfu, tfu, tfu', which Wikipedia's article compares to knocking on wood.\n\nThe name has been legislated against. Among the Morisco population of Granada and nearby regions, khamsa pendants were popular and described as 'large engraved medals ... with a hand inscribed with letters'. A reform council banned khamsas as Islamic symbols in 1526 and ordered crosses in their place; the Synod of Guadix renewed the prohibition in 1554; an episcopal committee convened by Emperor Charles V decreed a ban on the Hand of Fatima and all open right-hand amulets in 1526. They went on being worn, including by Christians — a Nasrid-period gold pendant survives inscribed Ave Maria gratia plena.\n\nIt is argued over now from inside as well. Eva-Maria von Kemnitz, citing Bruno Barbatti, calls it the most important averting sign in the Islamic world; Salafi authorities reject it, and a fatwa states it is impermissible to hang the 'Khamsa', with hands of Fatima listed among prohibited amulets. The hamsa is also a national symbol of Algeria and appears in its emblem.\n\n*Inference —* a name that is a number is very hard to suppress: you cannot ban five. What actually displaced the Arabic word in most of the world's shops was not a prohibition but a French colonial nickname, and that is the name on the label a buyer in London or Los Angeles reads today."
+ },
+ "text_th": {
+  "what": "คำที่เป็นตัวเลข ห้า ตามจำนวนนิ้ว คือชื่อที่ภาษาอาหรับเรียกวัตถุนี้ และในภาษาฮีบรูใช้ว่าฮาเมช (hamesh) ซึ่งแปลว่าห้าเช่นกัน ชื่อที่ผู้ซื้อในยุโรปและอเมริกาพบล้วนเป็นชื่อที่แปะเพิ่ม ‘มือของฟาติมา’ (ภาษาฝรั่งเศส Main de Fatma) ชาวยุโรปทำให้แพร่หลายในแอฟริกาเหนือยุคอาณานิคมฝรั่งเศส และเป็นชื่อเล่นสมัยอาณานิคม ไม่ใช่คำอาหรับของคนท้องถิ่น ในบริบทชาวยิวเซฟาร์ดีและมิซราฮี เรียกว่ามือของมิเรียม ชาวคริสต์ในลิแวนต์เรียกว่าเคฟ มิรยัม (kef Miryam) คือมือของพระนางมารีย์"
  },
  "kin": [
   {
@@ -166,42 +170,54 @@
    "type": "amulet",
    "name": "Hamsa",
    "as": "the object the word counts: the open hand, usually with an eye set in the palm",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ฮัมซา (มือกันภัย)",
+   "as_th": ""
   },
   {
    "to": "hand",
    "type": "motif",
    "name": "The hand",
    "as": "the sign the number is counting, and the reason the word means what it does",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "มือ",
+   "as_th": ""
   },
   {
    "to": "open-palm",
    "type": "motif",
    "name": "The open palm",
    "as": "the gesture inside the word — the raised palm of khamsa fi ainek",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ฝ่ามือเปิด (ฮัมซา)",
+   "as_th": ""
   },
   {
    "to": "nazar-word",
    "type": "term",
    "name": "nazar",
    "as": "the other word for the same harm, naming the look where this one names the answer",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "นาซาร์",
+   "as_th": ""
   },
   {
    "to": "evil-eye-bracelet",
    "type": "amulet",
    "name": "Evil eye bracelet",
    "as": "where both words end up: the same two signs on one bought object",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "สร้อยข้อมือนาซาร์ (ลูกปัดตากันตาร้าย)",
+   "as_th": ""
   },
   {
    "to": "marrakesh-souk",
    "type": "place",
    "name": "The Marrakesh souk",
    "as": "a market where the Arabic word and the French nickname are both on the same stall",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตลาดซูกมาร์ราเกช",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -297,14 +313,18 @@
    "type": "amulet",
    "name": "Hamsa",
    "as": "the word itself, which is just the number five",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "ฮัมซา (มือกันภัย)",
+   "as_th": ""
   },
   {
    "from": "nazar-word",
    "type": "term",
    "name": "nazar",
    "as": "the other word for the same harm, which names a number instead of a look",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "นาซาร์",
+   "as_th": ""
   }
  ]
 }

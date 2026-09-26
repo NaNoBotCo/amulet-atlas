@@ -9,7 +9,8 @@
    "kenharai",
    "sealing a packet"
   ],
-  "said": "closing the writing so nobody reads it again"
+  "said": "closing the writing so nobody reads it again",
+  "th": "การม้วนและพับ"
  },
  "region": [
   "world",
@@ -44,6 +45,22 @@
   "story": "Two silver scrolls from a burial chamber at Ketef Hinnom, near Jerusalem, were found rolled in 1979 and took three years to unroll without disintegrating. They carry the Priestly Blessing and date to around 600 BCE. Whoever wore them never read them either: the text went in, the metal closed, and it stayed closed for twenty-six centuries.\n\nJapan folded the same logic into a distribution system. Wandering preachers attached to the shrines of Ise, the oshi, handed out purification wands called Oharai Taima to households across the country as proof that prayers had been said on their behalf. The wands travelled either in folded paper packets — kenharai, named because the packet's shape resembles a sword blade, ken — or in boxes, oharaibako. Distribution began in the Muromachi period and peaked in the Edo: a document of 1777 records that between eighty-nine and ninety per cent of households in the country owned an Ise talisman. Kenharai are still given out at Ise.\n\nThe Greco-Roman world folded to bind. Lead curse tablets were rolled, folded or pierced with nails before they went into the ground, and some love spells have been found folded around a piece of the target's hair, which the tablets' own texts treat as carrying that person's ousia, their central essence.\n\nThe seal creates a rule of its own. Omamori are customarily not opened, so that the protection is not lost — the carrier holds a brocade bag whose contents are the shrine's business, not theirs. *Inference —* that single custom is the clearest statement in this atlas of what a fold is for. Once the packet is closed, the object stops being a text a person can check and becomes a thing a person has to trust. Scribal traditions and sealed-packet traditions split exactly here: a mezuzah is opened and inspected by a scribe twice in seven years, and an omamori is never opened at all.",
   "how": "Roll, or fold, then contain. Metal foil rolls around a former and slides into a tube or a case. Parchment rolls and goes into a mezuzah case or a tefillin box. Paper folds into a packet that is itself the shape of something — a blade, in the Ise case. Lead folds over on itself, sometimes around hair or a scrap of clothing, and can then be nailed through. Cloth versions are folded and sewn shut rather than cased, which crosses into sewing-in.",
   "today": "Live and industrial. Shrines and temples across Japan issue folded and cased talismans year-round, with the Association of Shinto Shrines distributing Jingū Taima to affiliated shrines nationally. Thai takrut are still rolled and cased and worn at the neck or the waist. Where a sealed charm is sold to somebody outside the tradition, the seal is also what makes it unverifiable, which is the trade's oldest complaint about itself."
+ },
+ "text_th": {
+  "what": "ขั้นตอนหลังการเขียน: แผ่นถูกม้วนเป็นหลอด พับเป็นห่อ หรือพับเป็นรูปทรง แล้วจึงใส่ปลอก เย็บ หรือผนึก นับจากนั้น ข้อความอยู่ข้างใน และไม่มีใครอ่านมันอีก ตะกรุดคือแผ่นที่ม้วนไว้ในหลอด แผ่นหนังของเมซูซาห์ถูกม้วนแล้วหย่อนลงในกล่อง ส่วนเค็นฮาไร (kenharai) ของญี่ปุ่นคือชิ้นไม้บาง ๆ ในกระดาษพับที่ตัดให้ห่อดูเหมือนใบดาบ",
+  "story": "ม้วนเงินสองม้วนจากห้องฝังศพที่เคเทฟฮินโนม (Ketef Hinnom) ใกล้เยรูซาเล็ม ถูกพบในสภาพม้วนอยู่เมื่อ ค.ศ. 1979 และใช้เวลาสามปีในการคลี่ออกโดยไม่ให้แตกสลาย ม้วนทั้งสองมีพรของปุโรหิต และมีอายุราว 600 ปีก่อน ค.ศ. ใครก็ตามที่สวมมันก็ไม่เคยอ่านมันเช่นกัน: ข้อความเข้าไปข้างใน โลหะปิดลง และปิดอยู่อย่างนั้นยี่สิบหกศตวรรษ\n\nญี่ปุ่นพับตรรกะเดียวกันเข้าไปในระบบแจกจ่าย นักเทศน์พเนจรที่สังกัดศาลเจ้าแห่งอิเสะ เรียกว่าโอชิ (oshi) แจกไม้ชำระล้างที่เรียกว่าโอฮาไร ไทมะ (Oharai Taima) ให้ครัวเรือนทั่วประเทศ เป็นหลักฐานว่าได้สวดอธิษฐานแทนครัวเรือนนั้นแล้ว ไม้เหล่านี้เดินทางไปในห่อกระดาษพับ — เค็นฮาไร ซึ่งได้ชื่อเพราะรูปทรงของห่อคล้ายใบดาบ หรือเค็น (ken) — หรือในกล่องที่เรียกว่าโอฮาไรบาโกะ (oharaibako) การแจกจ่ายเริ่มในสมัยมุโรมาจิและรุ่งเรืองที่สุดในสมัยเอโดะ: เอกสารปี ค.ศ. 1777 บันทึกว่าครัวเรือนในประเทศระหว่างร้อยละแปดสิบเก้าถึงเก้าสิบมียันต์อิเสะอยู่ ทุกวันนี้ที่อิเสะยังแจกเค็นฮาไรอยู่\n\nโลกกรีก-โรมันพับเพื่อผูกมัด แผ่นสาปแช่งตะกั่วถูกม้วน พับ หรือตอกตะปูทะลุก่อนจะลงดิน และพบคาถาเสน่ห์บางแผ่นพับห่อเส้นผมของเป้าหมายไว้ ซึ่งข้อความบนแผ่นเองถือว่าเส้นผมนั้นแบกอูซิอา (ousia) หรือแก่นแท้ของคนผู้นั้นไว้\n\nการผนึกสร้างกฎขึ้นมาเอง ตามธรรมเนียม โอมาโมริจะไม่ถูกเปิด เพื่อไม่ให้การคุ้มครองสูญไป — ผู้พกถือถุงผ้าไหมยกดอกที่สิ่งข้างในเป็นเรื่องของศาลเจ้า ไม่ใช่เรื่องของตน *ข้อสันนิษฐาน —* ธรรมเนียมข้อเดียวนี้คือคำอธิบายที่ชัดที่สุดในแอตลาสนี้ว่าการพับมีไว้เพื่ออะไร เมื่อห่อถูกปิดแล้ว วัตถุก็เลิกเป็นข้อความที่คนตรวจสอบได้ และกลายเป็นสิ่งที่คนต้องไว้ใจ ประเพณีอาลักษณ์กับประเพณีห่อผนึกแยกทางกันตรงนี้พอดี: เมซูซาห์ถูกเปิดและตรวจโดยอาลักษณ์สองครั้งในเจ็ดปี ส่วนโอมาโมริไม่เคยถูกเปิดเลย",
+  "how": "ม้วน หรือพับ แล้วจึงบรรจุ แผ่นโลหะบางม้วนรอบแกนแล้วสอดเข้าหลอดหรือปลอก แผ่นหนังม้วนแล้วใส่ในกล่องเมซูซาห์หรือกล่องเทฟิลลิน กระดาษพับเป็นห่อที่ตัวห่อเองมีรูปทรงของบางสิ่ง — ใบดาบ ในกรณีของอิเสะ ตะกั่วพับทบตัวเอง บางครั้งห่อเส้นผมหรือเศษผ้าไว้ แล้วอาจตอกตะปูทะลุได้ แบบที่ทำจากผ้าจะพับแล้วเย็บปิดแทนการใส่ปลอก ซึ่งข้ามไปเป็นการเย็บเก็บไว้ข้างใน",
+  "today": "ยังดำเนินอยู่และทำกันในระดับอุตสาหกรรม ศาลเจ้าและวัดทั่วญี่ปุ่นออกยันต์ที่พับและบรรจุไว้ตลอดทั้งปี โดยสมาคมศาลเจ้าชินโต (Association of Shinto Shrines) แจกจ่ายจิงกู ไทมะ (Jingū Taima) ให้ศาลเจ้าในสังกัดทั่วประเทศ ตะกรุดของไทยยังคงถูกม้วน ใส่ปลอก และสวมที่คอหรือเอว ในกรณีที่เครื่องรางที่ผนึกไว้ถูกขายให้คนนอกประเพณี การผนึกก็เป็นสิ่งที่ทำให้มันตรวจสอบไม่ได้ด้วย ซึ่งเป็นข้อบ่นที่เก่าแก่ที่สุดที่วงการค้ามีต่อตัวเอง"
+ },
+ "th_fields": {
+  "dating.period": "ยุคเหล็กถึงปัจจุบัน",
+  "dating.note": "กำหนดอายุจากม้วนเคเทฟฮินโนม (Ketef Hinnom) ซึ่งพบในสภาพม้วนอยู่ในห้องฝังศพ และกำหนดอายุได้ราว 600 ปีก่อน ค.ศ. การพับเครื่องรางที่เขียนแล้วเก่ากว่าวันที่ใด ๆ ในแหล่งข้อมูลเหล่านี้ นี่คือตัวอย่างแรกสุดที่มีปีกำกับ",
+  "object.made_by": "ผู้ที่เขียนข้อความนั้น หรือศาลเจ้าหรือโรงช่างที่ออกเครื่องรางนั้น",
+  "object.note": "ไม่ได้ระบุขนาดไว้: ไม่ได้อ่านพบขนาดใดในบันทึกที่อ้างถึง",
+  "against.0.who": "ผู้พกโอมาโมริ ซึ่งเก็บห่อไว้ให้ปิดอยู่ เพื่อไม่ให้การคุ้มครองสูญไป",
+  "against.1.who": "ผู้เขียนแผ่นสาปแช่ง (defixiones) ชาวกรีกและโรมัน ซึ่งพับแผ่นตะกั่วก่อนฝัง",
+  "against.2.who": "ครัวเรือนญี่ปุ่น ซึ่งเก็บยันต์ศาลเจ้าที่พับไว้บนคามิดานะ (kamidana) หรือหิ้งบูชา ที่หันไปทางทิศตะวันออก ทิศใต้ หรือทิศตะวันออกเฉียงใต้",
+  "restricted.note": "ในหลายประเพณีเหล่านี้ สิ่งที่อยู่ในห่อที่ผนึกไว้ไม่ใช่ข้อมูลของผู้พก และไม่ใช่ข้อมูลของโครงการนี้ ตามธรรมเนียม โอมาโมริจะไม่ถูกเปิด และวิชายันต์ของลัทธิเต๋าก็ถ่ายทอดกันอย่างลับ ระเบียนนี้บรรยายการพับและจุดประสงค์ของมัน และไม่บรรยายสิ่งที่อยู่ในห่อที่ประเพณีเก็บปิดไว้"
  },
  "dating": {
   "period": "Iron Age to the present",
@@ -109,52 +126,62 @@
   {
    "to": "takrut",
    "as": "the rolled tube this practice is named for in Thailand — metal or palm leaf, cased, strung",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "หลอดม้วนที่เป็นชื่อเรียกการปฏิบัตินี้ในไทย — โลหะหรือใบลาน ใส่ปลอก ร้อยเชือก"
   },
   {
    "to": "ofuda",
    "as": "the folded paper packet cut to the shape of a sword blade and handed out by the shrines of Ise",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "ห่อกระดาษพับที่ตัดเป็นรูปใบดาบ และแจกโดยศาลเจ้าแห่งอิเสะ"
   },
   {
    "to": "omamori",
    "as": "the sealed brocade bag nobody opens, which is this practice's strictest rule",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "ถุงผ้าไหมยกดอกที่ผนึกไว้และไม่มีใครเปิด ซึ่งเป็นกฎที่เคร่งที่สุดของการปฏิบัตินี้"
   },
   {
    "to": "mezuzah",
    "as": "parchment rolled into a case at the door — and unrolled again by a scribe twice in seven years",
-   "rel": "contrast"
+   "rel": "contrast",
+   "as_th": "แผ่นหนังที่ม้วนใส่กล่องไว้ที่ประตู — และถูกคลี่ออกอีกครั้งโดยอาลักษณ์สองครั้งในเจ็ดปี"
   },
   {
    "to": "ketef-hinnom-scrolls",
    "as": "the oldest rolled charm this atlas dates, found still rolled in a Jerusalem burial chamber",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "เครื่องรางม้วนที่เก่าที่สุดที่แอตลาสนี้กำหนดอายุได้ พบในสภาพยังม้วนอยู่ในห้องฝังศพที่เยรูซาเล็ม"
   },
   {
    "to": "curse-tablet",
    "as": "lead folded over hair, then nailed — the same gesture used to bind rather than to guard",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "ตะกั่วพับห่อเส้นผม แล้วตอกตะปู — ท่าทางเดียวกันที่ใช้เพื่อผูกมัดแทนการปกป้อง"
   },
   {
    "to": "taweez",
    "as": "the folded paper charm of Islamic practice, cased in metal and worn at the neck or the arm",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "เครื่องรางกระดาษพับของการปฏิบัติแบบอิสลาม ใส่ในปลอกโลหะ และสวมที่คอหรือแขน"
   },
   {
    "to": "paper",
    "as": "the material that made folding cheap, repeatable and issuable by the ten thousand",
-   "rel": "material"
+   "rel": "material",
+   "as_th": "วัสดุที่ทำให้การพับมีราคาถูก ทำซ้ำได้ และแจกได้ทีละหมื่น"
   },
   {
    "to": "inscribing",
    "as": "the step this one closes over",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "ขั้นตอนที่ขั้นตอนนี้ปิดทับลงไป"
   },
   {
    "to": "sewing-in",
    "as": "the cloth branch of the same move: fold, then stitch shut instead of casing",
-   "rel": "parallel"
+   "rel": "parallel",
+   "as_th": "สายผ้าของการกระทำเดียวกัน: พับ แล้วเย็บปิดแทนการใส่ปลอก"
   }
  ],
  "links": [
@@ -284,70 +311,90 @@
    "type": "amulet",
    "name": "Takrut",
    "as": "the rolled tube this practice is named for in Thailand — metal or palm leaf, cased, strung",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ตะกรุด",
+   "as_th": "หลอดม้วนที่เป็นชื่อเรียกการปฏิบัตินี้ในไทย — โลหะหรือใบลาน ใส่ปลอก ร้อยเชือก"
   },
   {
    "to": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "the folded paper packet cut to the shape of a sword blade and handed out by the shrines of Ise",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": "ห่อกระดาษพับที่ตัดเป็นรูปใบดาบ และแจกโดยศาลเจ้าแห่งอิเสะ"
   },
   {
    "to": "omamori",
    "type": "amulet",
    "name": "Omamori",
    "as": "the sealed brocade bag nobody opens, which is this practice's strictest rule",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": "ถุงผ้าไหมยกดอกที่ผนึกไว้และไม่มีใครเปิด ซึ่งเป็นกฎที่เคร่งที่สุดของการปฏิบัตินี้"
   },
   {
    "to": "mezuzah",
    "type": "amulet",
    "name": "Mezuzah",
    "as": "parchment rolled into a case at the door — and unrolled again by a scribe twice in seven years",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เมซูซา",
+   "as_th": "แผ่นหนังที่ม้วนใส่กล่องไว้ที่ประตู — และถูกคลี่ออกอีกครั้งโดยอาลักษณ์สองครั้งในเจ็ดปี"
   },
   {
    "to": "ketef-hinnom-scrolls",
    "type": "amulet",
    "name": "Ketef Hinnom silver scrolls",
    "as": "the oldest rolled charm this atlas dates, found still rolled in a Jerusalem burial chamber",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ม้วนแผ่นเงินเคเทฟฮินโนม",
+   "as_th": "เครื่องรางม้วนที่เก่าที่สุดที่แอตลาสนี้กำหนดอายุได้ พบในสภาพยังม้วนอยู่ในห้องฝังศพที่เยรูซาเล็ม"
   },
   {
    "to": "curse-tablet",
    "type": "amulet",
    "name": "Curse tablet",
    "as": "lead folded over hair, then nailed — the same gesture used to bind rather than to guard",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "แผ่นคำสาป (คาตาเดสมอส)",
+   "as_th": "ตะกั่วพับห่อเส้นผม แล้วตอกตะปู — ท่าทางเดียวกันที่ใช้เพื่อผูกมัดแทนการปกป้อง"
   },
   {
    "to": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the folded paper charm of Islamic practice, cased in metal and worn at the neck or the arm",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ตะอ์วีซ",
+   "as_th": "เครื่องรางกระดาษพับของการปฏิบัติแบบอิสลาม ใส่ในปลอกโลหะ และสวมที่คอหรือแขน"
   },
   {
    "to": "paper",
    "type": "material",
    "name": "Paper",
    "as": "the material that made folding cheap, repeatable and issuable by the ten thousand",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "กระดาษ",
+   "as_th": "วัสดุที่ทำให้การพับมีราคาถูก ทำซ้ำได้ และแจกได้ทีละหมื่น"
   },
   {
    "to": "inscribing",
    "type": "practice",
    "name": "Inscribing",
    "as": "the step this one closes over",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การลงอักขระ",
+   "as_th": "ขั้นตอนที่ขั้นตอนนี้ปิดทับลงไป"
   },
   {
    "to": "sewing-in",
    "type": "practice",
    "name": "Sewing in",
    "as": "the cloth branch of the same move: fold, then stitch shut instead of casing",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "การเย็บเครื่องรางไว้ในผ้า",
+   "as_th": "สายผ้าของการกระทำเดียวกัน: พับ แล้วเย็บปิดแทนการใส่ปลอก"
   }
  ],
  "source_list": [
@@ -604,42 +651,54 @@
    "type": "amulet",
    "name": "Hirz",
    "as": "the practice that gets a verse into a case that size",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ฮิรซ์ (ตลับใส่โองการอัลกุรอาน)",
+   "as_th": ""
   },
   {
    "from": "sungkhor",
    "type": "amulet",
    "name": "Sungkhor",
    "as": "the step that turns a readable diagram into a carried object",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ซุงคอร์ (วงล้อคุ้มครองทิเบต)",
+   "as_th": ""
   },
   {
    "from": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the practice that makes a page into a thing you can wear",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "from": "paper",
    "type": "material",
    "name": "Paper",
    "as": "how a printed sheet becomes something small enough to wear",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "กระดาษ",
+   "as_th": ""
   },
   {
    "from": "inscribing",
    "type": "practice",
    "name": "Inscribing",
    "as": "what happens to the writing next — rolled, folded, sealed away from the eye that reads",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การลงอักขระ",
+   "as_th": "สิ่งที่เกิดกับตัวเขียนต่อจากนั้น — ม้วน พับ ผนึกไว้ให้พ้นจากสายตาที่อ่าน"
   },
   {
    "from": "sewing-in",
    "type": "practice",
    "name": "Sewing in",
    "as": "the paper-and-metal branch of the same move: close the charm over its contents",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "การเย็บเครื่องรางไว้ในผ้า",
+   "as_th": ""
   }
  ]
 }

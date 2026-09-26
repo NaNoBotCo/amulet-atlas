@@ -8,23 +8,98 @@
   "script": "Devanagari",
   "lang": "sa",
   "said": "buddhapada, 'the Buddha's foot'",
-  "aliases": ["Buddhapada", "Buddha footprint", "Phra Phutthabat", "Sri Pada"]
+  "aliases": [
+   "Buddhapada",
+   "Buddha footprint",
+   "Phra Phutthabat",
+   "Sri Pada"
+  ],
+  "th": "รอยพระพุทธบาท"
  },
- "region": ["south-asia", "mainland-sea", "china", "japan", "island-sea"],
- "countries": ["IN", "LK", "TH", "KH", "MM", "JP", "CN"],
- "facets": {"era": "ancient", "family": "body-part", "hemisphere": ["N", "E"]},
+ "region": [
+  "south-asia",
+  "mainland-sea",
+  "china",
+  "japan",
+  "island-sea"
+ ],
+ "countries": [
+  "IN",
+  "LK",
+  "TH",
+  "KH",
+  "MM",
+  "JP",
+  "CN"
+ ],
+ "facets": {
+  "era": "ancient",
+  "family": "body-part",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "The print of a foot, or of two feet side by side, cut in stone or wood or painted. A dharmachakra is often set at the centre of the sole, or the 32, 108 or 132 auspicious signs of the Buddha are engraved or painted across it. There are two kinds and the tradition distinguishes them: prints found in stone or rock, and prints made by hand.",
   "story": "The footprint is a way of showing a person by showing where they stood. As a sculptural object it starts in India, in the pre-Greco-Buddhist phase, at sites like Sanchi and Bharhut — that is, in the period when the Buddha was represented by signs rather than by a body. Many of the prints found in rock are acknowledged within the tradition not to be prints of the Buddha's foot but replicas or representations, which can count as cetiya, relics.\n\nThe count is large. The Japanese scholar Motoji Niwa found more than 3,000 footprints, about 300 of them in Japan and more than 1,000 in Sri Lanka. The named sites include Sri Pada in Sri Lanka and Phra Phutthabat in Thailand, with more in Cambodia and Burma. In China, the discovery of a large footprint of the Buddha at Chengzhou during the Tang led the Empress Wu Zetian to declare a new era name in 701 CE — a footprint that reset the calendar.\n\nOne of the marks on the sole is a sign in its own right elsewhere in this atlas. In Buddhism the swastika is read as standing for the auspicious footprints of the Buddha, and a left-facing one is often imprinted on the chest, feet or palms of Buddha images. Theravada communities in Myanmar, Thailand and Cambodia commonly associate the sign with the Buddha's footprints.\n\nPortable versions exist. A Lanna buddhapada of the late fifteenth to early sixteenth century is teak decorated with mother of pearl and glass.\n\n*Inference —* this is the only sign in this batch that is an absence rather than a thing: the shape of somebody who is no longer standing there. Whether it belongs among amulets at all depends on whether a thing you visit counts beside a thing you carry, and this atlas files it here because the small ones are carried."
  },
+ "text_th": {
+  "what": "รอยเท้าข้างเดียว หรือสองข้างเคียงกัน สลักบนหินหรือไม้ หรือวาดด้วยสี กลางฝ่าพระบาทมักมีธรรมจักร หรือมีมงคล 32, 108 หรือ 132 ประการของพระพุทธเจ้าสลักหรือวาดไว้ทั่วฝ่าพระบาท มีสองประเภท และประเพณีแยกแยะไว้ชัด: รอยที่พบบนหินหรือโขดหิน และรอยที่ทำขึ้นด้วยมือ",
+  "story": "รอยพระพุทธบาทเป็นวิธีแสดงถึงบุคคลหนึ่งด้วยการแสดงที่ที่ท่านเคยยืน ในฐานะวัตถุประติมากรรม เริ่มต้นในอินเดียในช่วงก่อนพุทธศิลป์แบบกรีก ที่แหล่งอย่างสาญจีและภารหุต — กล่าวคือ ในยุคที่พระพุทธเจ้าถูกแทนด้วยสัญลักษณ์ ไม่ใช่ด้วยพระวรกาย รอยจำนวนมากที่พบบนหินได้รับการยอมรับภายในประเพณีเองว่าไม่ใช่รอยจากพระบาทของพระพุทธเจ้า แต่เป็นรอยจำลองหรือรูปแทน ซึ่งนับเป็นเจติยะ (cetiya) หรือสิ่งเคารพบูชาได้\n\nจำนวนนั้นมาก นักวิชาการญี่ปุ่น โมโตจิ นิวะ (Motoji Niwa) พบรอยพระพุทธบาทกว่า 3,000 รอย ราว 300 รอยอยู่ในญี่ปุ่น และกว่า 1,000 รอยอยู่ในศรีลังกา แหล่งที่มีชื่อได้แก่ศรีปาทะในศรีลังกา และพระพุทธบาทในประเทศไทย และมีอีกในกัมพูชาและพม่า ในจีน การค้นพบรอยพระพุทธบาทขนาดใหญ่ที่เฉิงโจวในสมัยราชวงศ์ถัง ทำให้จักรพรรดินีบูเช็กเทียน (Wu Zetian) ทรงประกาศชื่อรัชศกใหม่ใน ค.ศ. 701 — รอยพระบาทที่ตั้งปฏิทินใหม่\n\nเครื่องหมายหนึ่งบนฝ่าพระบาทเป็นเครื่องหมายที่มีระเบียนของตัวเองอยู่ที่อื่นในแอตลาสนี้ ในพระพุทธศาสนา สวัสดิกะถูกอ่านว่าหมายถึงรอยพระพุทธบาทอันเป็นมงคล และสวัสดิกะแบบหันซ้ายมักประทับไว้ที่พระอุระ พระบาท หรือฝ่าพระหัตถ์ของพระพุทธรูป ชุมชนเถรวาทในเมียนมา ไทย และกัมพูชา มักเชื่อมโยงเครื่องหมายนี้กับรอยพระพุทธบาท\n\nมีแบบที่พกพาได้ด้วย รอยพระพุทธบาทล้านนาสมัยพุทธศตวรรษที่ 21 (ปลายคริสต์ศตวรรษที่ 15 ถึงต้นคริสต์ศตวรรษที่ 16) ทำจากไม้สักประดับมุกและกระจก\n\n*ข้อสันนิษฐาน —* นี่คือเครื่องหมายเดียวในชุดนี้ที่เป็นร่องรอยของการไม่อยู่ มากกว่าเป็นสิ่งของ: รูปร่างของผู้ที่ไม่ได้ยืนอยู่ตรงนั้นแล้ว มันควรอยู่ในหมวดเครื่องรางหรือไม่ ขึ้นอยู่กับว่าสิ่งที่คุณเดินทางไปสักการะนับรวมกับสิ่งที่คุณพกติดตัวได้หรือไม่ และแอตลาสนี้จัดไว้ที่นี่เพราะรอยขนาดเล็กถูกพกติดตัว"
+ },
+ "th_fields": {
+  "dating.period": "อินเดียในช่วงก่อนพุทธศิลป์แบบกรีกถึงปัจจุบัน",
+  "dating.note": "ในสิ่งที่ได้อ่านไม่มีการเผยแพร่ปีใด แหล่งข้อมูลระบุว่าตัวอย่างแรกอยู่ในอินเดียที่สาญจีและภารหุต ในช่วงก่อนพุทธศิลป์แบบกรีก และกำหนดอายุแยกกันว่าการค้นพบที่เฉิงโจวคือ ค.ศ. 701 และรอยพระพุทธบาทไม้สักของล้านนาอยู่ในพุทธศตวรรษที่ 21 (ปลายคริสต์ศตวรรษที่ 15 ถึงต้นคริสต์ศตวรรษที่ 16) ในที่นี้ไม่เดาปีเริ่มต้น",
+  "object.inscription": "ธรรมจักรที่กลางฝ่าพระบาท หรือมงคล 32, 108 หรือ 132 ประการของพระพุทธเจ้า",
+  "object.note": "ช่องจำนวน (count) บันทึกจำนวนที่พบบ่อยที่สุดในบรรดาจำนวนมงคลสามแบบที่มีการเผยแพร่ ไม่ใช่ตัวเลขตายตัว",
+  "against.0.who": "การปฏิบัติในพระพุทธศาสนา ซึ่งเครื่องหมายบนฝ่าพระบาทได้ชื่อว่าเป็นมงคล",
+  "against.1.who": "ชุมชนเถรวาทในเมียนมา ไทย และกัมพูชา ซึ่งอ่านสวัสดิกะว่าหมายถึงรอยพระพุทธบาท",
+  "against.1.note": "ระบุไว้สองครั้ง เพราะแหล่งข้อมูลสองแหล่งกล่าวอ้างเรื่องนี้ด้วยถ้อยคำต่างกัน"
+ },
  "kin": [
-  {"to": "swastika-sign", "as": "in Buddhism that sign stands for these footprints — the two records are one object seen twice", "rel": "kin"},
-  {"to": "phra-khrueang", "as": "the small Thai tablet the footprint's country presses by the million; the same tradition, at hand size", "rel": "kin"},
-  {"to": "milagro", "as": "the other body part sold small and left at a shrine, for the opposite reason", "rel": "contrast"},
-  {"to": "blessing-at-a-shrine", "as": "the practice the large footprints belong to — you travel to them rather than wear them", "rel": "practice"},
-  {"to": "thai-wicha", "as": "the tradition that keeps Phra Phutthabat and presses its amulets", "rel": "tradition"},
-  {"to": "wood", "as": "what the portable Lanna versions are made of — teak, with mother of pearl and glass", "rel": "material"},
-  {"to": "tibetan-protection", "as": "the neighbouring Buddhist tradition, which carries its marks in boxes rather than in stone", "rel": "parallel"}
+  {
+   "to": "swastika-sign",
+   "as": "in Buddhism that sign stands for these footprints — the two records are one object seen twice",
+   "rel": "kin",
+   "as_th": "ในพระพุทธศาสนา เครื่องหมายนั้นหมายถึงรอยพระพุทธบาทเหล่านี้ — สองระเบียนนี้คือสิ่งเดียวกันที่มองสองครั้ง"
+  },
+  {
+   "to": "phra-khrueang",
+   "as": "the small Thai tablet the footprint's country presses by the million; the same tradition, at hand size",
+   "rel": "kin",
+   "as_th": "พระพิมพ์องค์เล็กที่ประเทศแห่งรอยพระพุทธบาทกดพิมพ์ออกมานับล้านองค์ ประเพณีเดียวกันในขนาดพอมือ"
+  },
+  {
+   "to": "milagro",
+   "as": "the other body part sold small and left at a shrine, for the opposite reason",
+   "rel": "contrast",
+   "as_th": "อวัยวะอีกชิ้นหนึ่งที่ขายในขนาดเล็กและทิ้งไว้ที่สักการสถาน ด้วยเหตุผลที่ตรงกันข้าม"
+  },
+  {
+   "to": "blessing-at-a-shrine",
+   "as": "the practice the large footprints belong to — you travel to them rather than wear them",
+   "rel": "practice",
+   "as_th": "การปฏิบัติที่รอยพระพุทธบาทขนาดใหญ่สังกัด — คุณเดินทางไปหามัน แทนที่จะสวมมัน"
+  },
+  {
+   "to": "thai-wicha",
+   "as": "the tradition that keeps Phra Phutthabat and presses its amulets",
+   "rel": "tradition",
+   "as_th": "ประเพณีที่ดูแลพระพุทธบาทและกดพิมพ์พระเครื่องของที่นั่น"
+  },
+  {
+   "to": "wood",
+   "as": "what the portable Lanna versions are made of — teak, with mother of pearl and glass",
+   "rel": "material",
+   "as_th": "วัสดุของรอยพระพุทธบาทล้านนาแบบพกพา — ไม้สัก ประดับมุกและกระจก"
+  },
+  {
+   "to": "tibetan-protection",
+   "as": "the neighbouring Buddhist tradition, which carries its marks in boxes rather than in stone",
+   "rel": "parallel",
+   "as_th": "ประเพณีพุทธเพื่อนบ้าน ซึ่งพกเครื่องหมายของตนไว้ในกล่อง แทนที่จะอยู่บนหิน"
+  }
  ],
  "dating": {
   "period": "pre-Greco-Buddhist India to the present",
@@ -39,28 +114,70 @@
  },
  "object": {
   "form": "plaque",
-  "materials": ["wood", "shell", "glass", "terracotta"],
-  "worn": ["wall", "shop"],
+  "materials": [
+   "wood",
+   "shell",
+   "glass",
+   "terracotta"
+  ],
+  "worn": [
+   "wall",
+   "shop"
+  ],
   "inscription": "a dharmachakra at the centre of the sole, or the 32, 108 or 132 auspicious signs of the Buddha",
   "count": 108,
   "source": "s:wp-buddha-footprint",
   "note": "count records the commonest of the three published mark-counts, not a fixed number."
  },
  "against": [
-  {"harm": "bad-luck", "who": "Buddhist practice, in which the marks on the sole are named auspicious signs", "source": "s:wp-buddha-footprint", "tier": "cited"},
-  {"harm": "bad-luck", "who": "Theravada communities in Myanmar, Thailand and Cambodia, who read the swastika as the Buddha's footprints", "source": "s:wp-swastika", "tier": "cited", "note": "listed twice because two sources make the claim in different words"}
+  {
+   "harm": "bad-luck",
+   "who": "Buddhist practice, in which the marks on the sole are named auspicious signs",
+   "source": "s:wp-buddha-footprint",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "Theravada communities in Myanmar, Thailand and Cambodia, who read the swastika as the Buddha's footprints",
+   "source": "s:wp-swastika",
+   "tier": "cited",
+   "note": "listed twice because two sources make the claim in different words"
+  }
  ],
- "links": [{"label": "Buddha footprint — Wikipedia", "url": "https://en.wikipedia.org/wiki/Buddha_footprint"}],
- "sources": ["s:wp-buddha-footprint", "s:wp-swastika", "s:wp-thai-buddha-amulet"],
+ "links": [
+  {
+   "label": "Buddha footprint — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Buddha_footprint"
+  }
+ ],
+ "sources": [
+  "s:wp-buddha-footprint",
+  "s:wp-swastika",
+  "s:wp-thai-buddha-amulet"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-buddha-footprint"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-buddha-footprint"
+  },
   "fields": {
-   "dating": {"tier": "cited", "source": "s:wp-buddha-footprint", "note": "years left null on purpose — the source gives a period name, not a date, and a guessed year would put a false bar on the timeline"},
-   "text.story": {"tier": "cited", "source": "s:wp-buddha-footprint", "note": "the closing paragraph is this project's filing argument and is marked inference"}
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-buddha-footprint",
+    "note": "years left null on purpose — the source gives a period name, not a date, and a guessed year would put a false bar on the timeline"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-buddha-footprint",
+    "note": "the closing paragraph is this project's filing argument and is marked inference"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Buddhapada.jpg", "File:Phra Phutthabat Saraburi.jpg"],
+ "x_commons_files": [
+  "File:Buddhapada.jpg",
+  "File:Phra Phutthabat Saraburi.jpg"
+ ],
  "confidence": "medium",
  "needs_verification": true,
  "updated": "2026-09-16"

@@ -4,12 +4,25 @@
  "type": "story",
  "names": {
   "name": "Free to use",
-  "aliases": ["the licensing record", "what you may do with this", "CC BY 4.0 and MIT"]
+  "aliases": [
+   "the licensing record",
+   "what you may do with this",
+   "CC BY 4.0 and MIT"
+  ],
+  "th": "ใช้ได้อย่างเสรี"
  },
- "region": ["world"],
- "facets": {"kind": "resources", "era": "modern"},
+ "region": [
+  "world"
+ ],
+ "facets": {
+  "kind": "resources",
+  "era": "modern"
+ },
  "text": {
   "what": "This is the licence explained to the person who wants to take something. The records and the pages built from them are under Creative Commons Attribution 4.0. The code that builds them is MIT. Every picture keeps whatever licence it arrived with and is not relicensed by being here. The country outlines are public domain. Quotations belong to the people who said them. And there is one thing in this repository that the licence cannot reach, which this record states as a request rather than pretending it is a term."
+ },
+ "text_th": {
+  "what": "นี่คือคำอธิบายสัญญาอนุญาตสำหรับผู้ที่ต้องการนำบางอย่างไปใช้ บันทึกทั้งหมดและหน้าเว็บที่สร้างจากบันทึกเหล่านั้นอยู่ภายใต้สัญญาอนุญาตครีเอทีฟคอมมอนส์แบบแสดงที่มา 4.0 (CC BY 4.0) โค้ดที่ใช้สร้างอยู่ภายใต้สัญญาอนุญาต MIT รูปภาพทุกภาพยังคงใช้สัญญาอนุญาตเดิมที่ติดมาด้วย และไม่ได้เปลี่ยนสัญญาอนุญาตเพียงเพราะมาอยู่ที่นี่ เส้นขอบประเทศเป็นสาธารณสมบัติ คำพูดที่ยกมาเป็นของผู้ที่พูด และมีสิ่งหนึ่งในคลังข้อมูลนี้ที่สัญญาอนุญาตไปไม่ถึง ซึ่งบันทึกนี้ระบุไว้เป็นคำขอ ไม่ได้แสร้งว่าเป็นเงื่อนไข"
  },
  "sections": [
   {
@@ -45,25 +58,83 @@
   "note": "Dated from the LICENSE file in this repository, read on 17 September 2026. The licences it names — CC BY 4.0, MIT, and Natural Earth's public-domain terms — are all older than this project; no publication date is claimed for any of them here because none was read."
  },
  "kin": [
-  {"to": "what-this-atlas-does-not-print", "as": "the restriction rule this licence deliberately cannot enforce, set out at length", "rel": "story"},
-  {"to": "dating-a-charm", "as": "the other note about how this site is built, rather than about what it describes", "rel": "story"},
-  {"to": "who-owns-a-charm", "as": "the same question about objects instead of about text: what may be kept, and by whom", "rel": "story"},
-  {"to": "wikimedia-commons", "as": "where every picture in this atlas is to come from, and whose free-content test the pipeline copies", "rel": "org"},
-  {"to": "the-drawn-signs", "as": "the images the project makes itself, drawn from published descriptions and released with the records", "rel": "art"},
-  {"to": "pitt-rivers-museum", "as": "one of the collections whose own published terms govern what this atlas may show of its objects", "rel": "org"},
-  {"to": "te-papa", "as": "a museum whose copyright and taonga terms set conditions this licence has to respect rather than override", "rel": "org"},
-  {"to": "unesco-ich", "as": "the register that raises the same question at state scale — who may list, and who may reuse, somebody else's practice", "rel": "org"}
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the restriction rule this licence deliberately cannot enforce, set out at length",
+   "rel": "story"
+  },
+  {
+   "to": "dating-a-charm",
+   "as": "the other note about how this site is built, rather than about what it describes",
+   "rel": "story"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the same question about objects instead of about text: what may be kept, and by whom",
+   "rel": "story"
+  },
+  {
+   "to": "wikimedia-commons",
+   "as": "where every picture in this atlas is to come from, and whose free-content test the pipeline copies",
+   "rel": "org"
+  },
+  {
+   "to": "the-drawn-signs",
+   "as": "the images the project makes itself, drawn from published descriptions and released with the records",
+   "rel": "art"
+  },
+  {
+   "to": "pitt-rivers-museum",
+   "as": "one of the collections whose own published terms govern what this atlas may show of its objects",
+   "rel": "org"
+  },
+  {
+   "to": "te-papa",
+   "as": "a museum whose copyright and taonga terms set conditions this licence has to respect rather than override",
+   "rel": "org"
+  },
+  {
+   "to": "unesco-ich",
+   "as": "the register that raises the same question at state scale — who may list, and who may reuse, somebody else's practice",
+   "rel": "org"
+  }
  ],
  "links": [
-  {"label": "Attribution 4.0 International (CC BY 4.0)", "url": "https://creativecommons.org/licenses/by/4.0/"},
-  {"label": "Commons:Licensing — Wikimedia Commons", "url": "https://commons.wikimedia.org/wiki/Commons:Licensing"},
-  {"label": "Terms of Use — Natural Earth", "url": "https://www.naturalearthdata.com/about/terms-of-use/"}
+  {
+   "label": "Attribution 4.0 International (CC BY 4.0)",
+   "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+   "label": "Commons:Licensing — Wikimedia Commons",
+   "url": "https://commons.wikimedia.org/wiki/Commons:Licensing"
+  },
+  {
+   "label": "Terms of Use — Natural Earth",
+   "url": "https://www.naturalearthdata.com/about/terms-of-use/"
+  }
  ],
- "sources": ["s:repo-atlas-license", "s:repo-atlas-build", "s:repo-atlas-schema", "s:repo-atlas-viz", "s:web-cc-by-4", "s:web-commons-licensing", "s:web-natural-earth-terms", "s:web-tepapa-copyright", "s:web-prm-collections-terms"],
+ "sources": [
+  "s:repo-atlas-license",
+  "s:repo-atlas-build",
+  "s:repo-atlas-schema",
+  "s:repo-atlas-viz",
+  "s:web-cc-by-4",
+  "s:web-commons-licensing",
+  "s:web-natural-earth-terms",
+  "s:web-tepapa-copyright",
+  "s:web-prm-collections-terms"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:repo-atlas-license"},
+  "default": {
+   "tier": "cited",
+   "source": "s:repo-atlas-license"
+  },
   "fields": {
-   "sections": {"tier": "cited", "source": "s:repo-atlas-license", "note": "the licence text and the two allowlists were read in this repository on 17 September 2026; the outside terms are quoted from the licensors' own pages; one stretch of this project's reasoning is labelled inline"}
+   "sections": {
+    "tier": "cited",
+    "source": "s:repo-atlas-license",
+    "note": "the licence text and the two allowlists were read in this repository on 17 September 2026; the outside terms are quoted from the licensors' own pages; one stretch of this project's reasoning is labelled inline"
+   }
   }
  },
  "images": [],

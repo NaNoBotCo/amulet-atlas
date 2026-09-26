@@ -11,7 +11,8 @@
    "wind chime",
    "brass bells",
    "chime"
-  ]
+  ],
+  "th": "กระดิ่ง"
  },
  "region": [
   "rome-italy",
@@ -33,6 +34,9 @@
   "what": "A small bell, hung or carried, that sounds when the air or the body it is attached to moves. The sign is audible rather than visible, which makes it the only entry in this atlas that a person could use with their eyes shut.",
   "story": "Rome hung its bells at the door and put a phallus on them. A tintinnabulum is a wind chime or assemblage of bells, often taking the form of a bronze ithyphallic figure or of a fascinum, the magico-religious phallus. They were hung near thresholds at a shop or house, under the peristyles, by the bedroom or the venereum, where the wind would set them tinkling, and some were rigged to a cord and bell pull to work as doorbells. The cited account gives the Roman reason for the noise: the sounds of bells kept away evil spirits. Examples have been found at Pompeii and Herculaneum, and a number of them are in the Secret Museum collection at the Museo Archeologico Nazionale di Napoli. The phallic charm and the bell are the same object: phallic charms, often winged, appear in Roman culture as jewellery, relief carvings, lamps and wind chimes.\n\nKorea rings its bells to bring spirits in. During a gut, the mudang carries a fan and brass bells; the scholar Sarfati commented that these bells were \"a central symbol\" of Musok, and their purpose is to attract the attention of the spirits. The rite's music regularly involves cymbals, hourglass-shaped changgu drums and a gong, and the mudang dances by swirling in circles, which the same account reports as facilitating the possession trance.\n\n*Inference —* those two uses are opposite, and that is the interesting fact about this sign. A Roman bell rings on its own, unsupervised, at a threshold, to push something out. A Korean bell is shaken by a named specialist, inside a rite, to pull something in. The noise is the same; the direction is reversed, and it is the practitioner's presence or absence that decides which way it runs. No source read here connects the two customs, and this atlas does not.",
   "notes": "This record is short because the sources read here document the bell in two places only. It is filed under the sound family, added to the vocabulary for it: a bell is a hollow vessel, but what it is carried for is the noise."
+ },
+ "text_th": {
+  "what": "กระดิ่งเล็ก ๆ ที่แขวนไว้หรือพกติดตัว ส่งเสียงเมื่อลมหรือร่างกายที่มันติดอยู่เคลื่อนไหว เครื่องหมายนี้ใช้การได้ยิน ไม่ใช่การมองเห็น ซึ่งทำให้มันเป็นรายการเดียวในแอตลาสนี้ที่คนใช้ได้แม้หลับตา"
  },
  "dating": {
   "period": "Roman Italy to the present",

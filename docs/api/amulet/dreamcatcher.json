@@ -14,7 +14,8 @@
    "bwaajige ngwaagan",
    "spider web charm",
    "dream snare"
-  ]
+  ],
+  "th": "เครื่องดักฝัน"
  },
  "etymology": {
   "root": "Ojibwe asabikeshiinh, 'little net maker', the word for spider; White Earth Nation asubakacin, 'net-like'; Curve Lake First Nation bwaajige ngwaagan, 'dream snare'",
@@ -44,6 +45,9 @@
   "story": "It is Anishinaabe, and its oldest published account is a record of a charm for infants, not for dreams. The ethnographer Frances Densmore wrote down an Ojibwe account in 1929 of Asibikaashi, Spider Woman, who looks after the children and the people on the land; when the Ojibwe Nation spread to the corners of North America she could no longer reach every child, so mothers and grandmothers wove webs for them on willow hoops. Densmore's own words are plain about the purpose: the webs hung on the hoop of a cradle board \"caught any harm that might be in the air as a spider's web catches and holds whatever comes in contact with it\". In the old days the netting was nettle fibre, and two webs usually went on the hoop. Basil Johnston, an elder from Neyaashiinigmiing, gives Spider as a trickster catching Snake in his web in Ojibway Heritage, 1976.\n\nThen it travelled. Derivative forms were taken up in the Pan-Indian movement of the 1960s and 1970s as a symbol of unity across different Native American cultures, and as a general mark of identification with Native or First Nations identity. Native Languages of the Americas, which is run by a Native-language non-profit, puts the spread carefully: \"Ojibway dreamcatchers started to get popular in other Native American tribes, even those in disparate places like the Cherokee, Lakota, and Navajo. So dreamcatchers aren't traditional in most Indian cultures, per se, but they're sort of neo-traditional.\"\n\nThe name reached mainstream non-Native media in the 1970s; by the 1980s it was a widely marketed craft item, and by the early 1990s Wikipedia's account calls it \"one of the most popular and marketable\" of them. Forms appeared that bear little resemblance to traditional styles and use materials that were never traditionally used, made and sold by New Age groups and individuals.\n\nThat is the argument, and it has named people on both sides of it. Nudrat Karim, writing for The Indigenous Foundation, states the objection: \"The appropriation of dreamcatchers exemplifies the dismissiveness of Native American culture and the borrowing of their spirituality to accommodate settlers,\" and draws the line by maker, not by object — \"when non-Native people make and sell dreamcatchers it is in fact cultural appropriation however, when Indigenous people choose to make and sell dreamcatchers as they always have, it is not.\" Native Languages of the Americas is blunter about the trade: \"Most of what you see when you search for 'Native American dreamcatchers' are cheap objects mass-produced in an Asian sweatshop somewhere or glued together by non-native teenagers with eBay accounts,\" and points readers to the Indian Arts and Crafts Act of 1990 and to buying from Native artists. Against that sit the pan-Indian communities for whom the hoop became a shared sign in the first place, and Ojibwe makers who sell them. This atlas prints both and settles neither.\n\nThe object is also still doing work in its own communities. A mounted and framed dreamcatcher is used as a shared symbol of hope and healing by the Little Thunderbirds Drum and Dance Troupe from the Red Lake Indian Reservation in Minnesota, who have taken it to students at other schools where shootings have happened, and passed it on.",
   "how": "This record does not give instructions. Named Native writers say the making is not open, and the atlas prints the restriction rather than the method. What is published and reported here is the material: a hoop of willow, and a net of sinew or of cordage made from plants, historically nettle fibre; two webs to a cradle hoop, per Densmore.",
   "today": "Made and sold by Ojibwe and other Native artists; made and sold in enormous volume by everybody else, worldwide, as of 2026, in craft shops, service stations and airports. The Indian Arts and Crafts Act of 1990 governs what may be marketed as Native American-made in the United States."
+ },
+ "text_th": {
+  "what": "ห่วงไม้วิลโลว์ ถักตาข่ายขึงข้ามด้วยเอ็นสัตว์หรือเชือกจากพืช ผูกปมไว้ที่จุดกลาง บางครั้งเพิ่มขนนกหรือลูกปัด แขวนไว้เหนือกระดานอุ้มเด็กหรือเหนือเตียง แบบที่ผลิตขายจำนวนมากใช้ห่วงเหล็กหรือพลาสติกแทน ใช้เชือกสังเคราะห์ ขนนกย้อมสีสำหรับงานฝีมือ และลูกปัดแก้วหรือพลาสติก มีหลายขนาดตั้งแต่ต่างหูไปจนถึงของแขวนผนัง"
  },
  "restricted": {
   "note": "Named Native writers say making and selling dreamcatchers belongs to Native makers. This record describes the object, its published history and the objection, and prints no instructions for making one.",
@@ -207,70 +211,90 @@
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read this record is the test case for — who may make a thing, and what changes when somebody else does",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "hei-matau",
    "type": "amulet",
    "name": "Hei matau",
    "as": "the Pacific parallel: an Indigenous form mass-produced abroad, and objected to by name on the same grounds",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เฮย์ มาเตา (จี้ตะขอเบ็ดเมารี)",
+   "as_th": ""
   },
   {
    "to": "tupilaq",
    "type": "amulet",
    "name": "Tupilaq",
    "as": "the Arctic parallel — an object that acquired a second life as a thing carved for visitors",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ทูปิลัก",
+   "as_th": ""
   },
   {
    "to": "hei-tiki",
    "type": "amulet",
    "name": "Hei-tiki",
    "as": "another taonga sold in plastic beside the original, and another argument this atlas reports rather than settles",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เฮย์ติกิ (จี้หยกเมารี)",
+   "as_th": ""
   },
   {
    "to": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the long read about what a label is worth, which the Indian Arts and Crafts Act is one answer to",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดของปลอม",
+   "as_th": ""
   },
   {
    "to": "nagpra",
    "type": "org",
    "name": "The Native American Graves Protection and Repatriation Act",
    "as": "the other United States statute in this atlas about Native material and who holds it",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "รัฐบัญญัติคุ้มครองและส่งคืนหลุมฝังศพชนพื้นเมืองอเมริกัน (NAGPRA)",
+   "as_th": ""
   },
   {
    "to": "thread",
    "type": "material",
    "name": "Thread and cord",
    "as": "the material that does the catching — nettle fibre, then sinew, then nylon",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ด้ายและเชือก",
+   "as_th": ""
   },
   {
    "to": "most-of-them-are-for-children",
    "type": "story",
    "name": "Most of them are for children",
    "as": "the long read this belongs in — the earliest published account is a charm for an infant on a cradleboard",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ส่วนใหญ่ทำเพื่อเด็ก",
+   "as_th": ""
   },
   {
    "to": "knot",
    "type": "motif",
    "name": "The knot",
    "as": "the sign: a net, which holds what touches it",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ปม",
+   "as_th": ""
   },
   {
    "to": "what-this-atlas-does-not-print",
    "type": "story",
    "name": "What this atlas does not print",
    "as": "the long read explaining why this record carries a restriction and no method",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สิ่งที่แอตลาสนี้ไม่ตีพิมพ์",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -422,35 +446,45 @@
    "type": "amulet",
    "name": "Hei matau",
    "as": "the North American parallel — a form mass-produced abroad and objected to by name on the same grounds",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เฮย์ มาเตา (จี้ตะขอเบ็ดเมารี)",
+   "as_th": ""
   },
   {
    "from": "hei-tiki",
    "type": "amulet",
    "name": "Hei-tiki",
    "as": "the North American parallel — an Indigenous form now also made by everybody else, and objected to by name",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เฮย์ติกิ (จี้หยกเมารี)",
+   "as_th": ""
   },
   {
    "from": "tupilaq",
    "type": "amulet",
    "name": "Tupilaq",
    "as": "the North American parallel — an object that acquired a second life made for outsiders, and an argument about whether that is the same object",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ทูปิลัก",
+   "as_th": ""
   },
   {
    "from": "wood",
    "type": "material",
    "name": "Wood",
    "as": "a bent willow hoop with a net across it, hung over a cradle",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ไม้",
+   "as_th": ""
   },
   {
    "from": "nagpra",
    "type": "org",
    "name": "The Native American Graves Protection and Repatriation Act",
    "as": "the Ojibwe object most often sold by people with no claim to it — a market this Act does not touch",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "รัฐบัญญัติคุ้มครองและส่งคืนหลุมฝังศพชนพื้นเมืองอเมริกัน (NAGPRA)",
+   "as_th": ""
   }
  ]
 }
