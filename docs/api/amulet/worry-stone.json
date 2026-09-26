@@ -10,7 +10,8 @@
    "fidget stone",
    "soothing stone",
    "sensory stone"
-  ]
+  ],
+  "th": "หินคลายกังวล"
  },
  "region": [
   "greece-aegean",
@@ -39,6 +40,9 @@
   "story": "There is no single origin claimed for it, and the sources do not pretend otherwise. Variations are traced to ancient Greece, to Tibet, to Ireland and to several Native American peoples; the Greek ones were stones the sea had smoothed, and the concept begins, as the cited account puts it, with the simple act of picking up a smooth stone and fiddling with it. A worry stone is one of the few objects in this atlas that anybody can find on a beach.\n\nWhat it claims is unusually narrow, and the cited source hedges it in the same breath: the motion \"is thought to reduce stress, but there is no conclusive scientific evidence to support this\". This atlas does not test that and does not settle it.\n\nWhere it is documented most precisely is in a clinic. Writers on cognitive behavioral therapy treat the worry stone as one of a set of folk practices that work as psychologically healthy self-soothing exercises, taught early in treatment to displace familiar but destructive coping habits — nail-biting, scratching, lip-biting — and to ready a patient to face anxiety or trauma safely. The cited account singles out short-term treatment of refugees, where complexity and unfamiliarity are the constraints and a stone is simple and intuitive enough to be useful. Later, once a patient has learned a fuller relaxation script, the stone becomes a reminder of it: the impulse to reach for it is itself the signal that the person is anxious.\n\n*Inference —* that last function is the interesting one for this atlas, because it is the only charm here whose stated job is to tell its carrier something rather than to keep something away. The stone reports.",
   "how": "Tumbled and polished, or picked up already smooth. Sold in a box with a card, or handed over in a session, or found. There is no consecration, no maker's restriction and no retirement rite. A lost one is replaced.",
   "today": "Sold worldwide in mineral shops, gift shops, pharmacies and therapy-supply catalogues, and given out in clinical settings. The stones are the same stones the crystal trade sells, which means the same sourcing questions attach to them; that argument is set out on the crystal pendant record and is not repeated here."
+ },
+ "text_th": {
+  "what": "หินสีเนื้อเรียบขัดมัน ส่วนใหญ่ทรงรี ด้านหนึ่งมีแอ่งขนาดเท่านิ้วโป้งสึกลงไป กว้างราว 3 เซนติเมตร ถือไว้ระหว่างนิ้วชี้กับนิ้วโป้ง แล้วเลื่อนนิ้วโป้งไปมาบนแอ่ง การเคลื่อนไหวนั้นคือการใช้งานทั้งหมดของวัตถุนี้"
  },
  "dating": {
   "period": "multiple claimed origins; documented in modern use",
@@ -195,42 +199,54 @@
    "type": "amulet",
    "name": "Crystal pendant",
    "as": "the same stones, sold through the same trade, with the same sourcing argument attached",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "จี้คริสตัล",
+   "as_th": ""
   },
   {
    "to": "counting-beads",
    "type": "practice",
    "name": "Counting beads",
    "as": "the practice this is a single-bead version of — repetition in the hand, without the count",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การนับลูกประคำ",
+   "as_th": ""
   },
   {
    "to": "hagstone",
    "type": "amulet",
    "name": "Hagstone",
    "as": "the other charm in this atlas that is picked up rather than made",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "หินรู (แฮกสโตน)",
+   "as_th": ""
   },
   {
    "to": "phone-charm",
    "type": "amulet",
    "name": "Phone charm",
    "as": "the other thing in a modern pocket that gets touched all day without being looked at",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สายห้อยมือถือ",
+   "as_th": ""
   },
   {
    "to": "rudraksha",
    "type": "amulet",
    "name": "Rudraksha",
    "as": "the seed handled the same way, in a tradition that gives the handling a count and a text",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "รุทรากษ์",
+   "as_th": ""
   },
   {
    "to": "turquoise",
    "type": "material",
    "name": "Turquoise",
    "as": "one of the stones it is commonly cut from",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เทอร์ควอยซ์",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -357,42 +373,54 @@
    "type": "amulet",
    "name": "Crystal pendant",
    "as": "the same stones and the same trade, cut for the thumb instead of the throat — that record sends its sourcing question here",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "จี้คริสตัล",
+   "as_th": ""
   },
   {
    "from": "game-day-charm",
    "type": "amulet",
    "name": "Game-day charm",
    "as": "the other found stone in this atlas whose owner says its job is to tell him something rather than to keep something away",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ของนำโชควันแข่ง",
+   "as_th": ""
   },
   {
    "from": "hagstone",
    "type": "amulet",
    "name": "Hagstone",
    "as": "the present-day pocket stone, found the same way and carried for a different reason",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "หินรู (แฮกสโตน)",
+   "as_th": ""
   },
   {
    "from": "phone-charm",
    "type": "amulet",
    "name": "Phone charm",
    "as": "the other thing in a modern pocket that gets touched all day without being looked at",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สายห้อยมือถือ",
+   "as_th": ""
   },
   {
    "from": "amber",
    "type": "material",
    "name": "Amber",
    "as": "a charm that works by being rubbed — which is also the gesture that wakes amber's charge",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "อำพัน",
+   "as_th": ""
   },
   {
    "from": "counting-beads",
    "type": "practice",
    "name": "Counting beads",
    "as": "the single-bead version — repetition in the hand with the count taken out",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "การนับลูกประคำ",
+   "as_th": "แบบที่มีเม็ดเดียว — การทำซ้ำในมือโดยเอาการนับออกไป"
   }
  ]
 }

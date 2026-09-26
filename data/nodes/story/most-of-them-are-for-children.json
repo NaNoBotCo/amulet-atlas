@@ -8,7 +8,8 @@
    "the claim about infants",
    "testing the atlas against itself",
    "cradle charms"
-  ]
+  ],
+  "th": "ส่วนใหญ่ทำเพื่อเด็ก"
  },
  "region": [
   "world",
@@ -38,6 +39,9 @@
  },
  "text": {
   "what": "Somewhere in every general account of amulets sits a sentence saying that the largest single class of them, anywhere in the world, is protection for infants: the cradle charm, the jet fist pinned inside a Puerto Rican baby's shirt, the blue bead on a Turkish newborn's vest, the dwarf god at an Egyptian birth, the plaque nailed up against the demon who takes babies. This atlas carries that sentence in its own vocabulary file. This record tests it against the atlas's own records, reports what the count actually shows, and then says plainly what a count of this kind cannot show at all."
+ },
+ "text_th": {
+  "what": "ที่ใดที่หนึ่งในงานเขียนภาพรวมเรื่องเครื่องรางทุกเล่ม มักมีประโยคหนึ่งบอกว่า เครื่องรางกลุ่มเดียวที่ใหญ่ที่สุดไม่ว่าที่ใดในโลก คือเครื่องป้องกันสำหรับทารก ได้แก่ เครื่องรางแขวนเปล กำปั้นหินเจ็ตที่กลัดไว้ในเสื้อของทารกชาวเปอร์โตริโก ลูกปัดสีฟ้าบนเสื้อกั๊กของทารกแรกเกิดชาวตุรกี เทพแคระในการคลอดของชาวอียิปต์ แผ่นป้ายที่ตอกไว้กันปีศาจที่พรากทารก แอตลาสนี้มีประโยคนั้นอยู่ในแฟ้มคำศัพท์ของตัวเอง บันทึกนี้ทดสอบประโยคนั้นกับบันทึกของแอตลาสเอง รายงานว่าการนับแสดงอะไรจริง ๆ แล้วบอกตรง ๆ ว่าการนับแบบนี้แสดงอะไรไม่ได้เลย"
  },
  "sections": [
   {

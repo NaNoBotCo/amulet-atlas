@@ -7,7 +7,8 @@
    "fu",
    "bujeok",
    "tarsh"
-  ]
+  ],
+  "th": "กระดาษ"
  },
  "region": [
   "japan",
@@ -34,6 +35,9 @@
   "story": "Paper made the amulet a print run. In medieval Egypt, block-printed prayers were struck from a die called a tarsh and folded down small enough for a tiny wearable case. The Aga Khan Museum in Toronto holds an Egyptian block-printed amulet of the tenth or eleventh century: minuscule ink script on paper, 7.2 by 5.5 cm, whose final line is a verse of the Qur'an — \"So God will safeguard you from them. He is All-Hearing and All-Knowing\". Such text amulets were housed in lead cases stamped with surat al-Ikhlas, with lugs so the package could be sewn to clothing or hung from the body, and were most likely kept sealed shut — so the buyer never saw the text inside, which is one reason they were affordable.\n\nEast Asia industrialised it differently. Taoist specialists developed fulu, a calligraphy made to act; the Japanese equivalent is the ofuda, made of paper, wood, cloth or metal, with paper ones called kamifuda. The three shrines of Kumano stamped their paper talismans with stylised crows; those sheets were used in oath-taking and contract drafting, with the terms written on the blank side. The Ise talismans, the Jingu Taima, were handed out across the country by wandering shrine officials: a document of 1777 indicates that eighty-nine to ninety per cent of all households in Japan owned one. The distribution was nationalised — an imperial decree of 1871 abolished the oshi who carried them, a new department took over production in 1900, the National Association of Shinto Priests took distribution in 1927, and the Association of Shinto Shrines has it now. In Korea the paper bujeok is carried inside a small brocade bag.\n\nWest African gris-gris were fashioned as small sacks holding Qur'anic scripture written on pieces of paper, with herbs, worn at the neck; the practice moved with the Atlantic slave trade into Louisiana Voodoo and Haitian Vodou.\n\n*Inference —* paper is the reason the amulet record after about 1700 looks so much fuller than the record before it, and it has nothing to do with more people wanting charms. Printing made the charm cheap, and the same fragility that lost every earlier paper charm is still running.",
   "how": "Written, stamped, or block-printed; then folded, rolled, cased, pasted up or carried. A paper charm usually has a term. Japanese ofuda and omamori are renewed at the year's turn and the old one returned to the shrine to be burnt.",
   "today": "Still the world's commonest amulet material by volume, and the one most likely to be bought at a counter. Paper also marks a boundary in Jewish practice: a mezuzah must be handwritten on parchment by a qualified scribe, and a text photocopied onto paper and sold with a case is not a valid mezuzah."
+ },
+ "text_th": {
+  "what": "พื้นผิวราคาถูกที่สุดที่ใช้เขียนเครื่องรางได้ และเป็นพื้นผิวที่ทำให้พิมพ์เครื่องรางได้ เครื่องรางกระดาษถูกออกให้ พับ ผนึกใส่กล่อง แปะที่ประตู กลืนลงไป และเผาเมื่อสิ้นปี ผู้เขียนเรื่องเครื่องรางขีดเส้นแบ่งไว้ตรงนี้: เครื่องรางในความหมายเคร่งครัดมักทำจากวัสดุคงทน คือโลหะหรือหินแข็ง และคำว่า \"ยันต์\" (talisman) มักใช้กับรูปแบบที่คงทนน้อยกว่าและเฉพาะตัวมากกว่าเหล่านี้"
  },
  "dating": {
   "period": "medieval Egypt to the present",
@@ -223,77 +227,99 @@
    "type": "amulet",
    "name": "Ofuda",
    "as": "the Japanese paper talisman, issued by a shrine, placed on the household altar and renewed yearly",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "omamori",
    "type": "amulet",
    "name": "Omamori",
    "as": "the pocket version of the same sheet, sewn into brocade so the paper is never seen",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "fu-talisman",
    "type": "amulet",
    "name": "Fu talisman",
    "as": "the Taoist written charm this whole family descends from",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "bujeok",
    "type": "amulet",
    "name": "Bujeok",
    "as": "the Korean paper talisman, carried inside a small brocade bag",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "to": "omikuji",
    "type": "amulet",
    "name": "Omikuji",
    "as": "the paper drawn at a shrine and tied up there — the same material, spent in one use",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "โอมิกุจิ (ใบเซียมซีญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the folded or printed Qur'anic text in its case, which is where paper met the printing die",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "to": "gris-gris",
    "type": "amulet",
    "name": "Gris-gris",
    "as": "Qur'anic verses on scraps of paper, sewn in a sack with herbs and worn at the neck",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กรีกรี (ถุงเครื่องรางแอฟริกาตะวันตก)",
+   "as_th": ""
   },
   {
    "to": "parchment",
    "type": "material",
    "name": "Parchment",
    "as": "the material paper is not allowed to replace, in the one tradition that says so in writing",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "แผ่นหนัง (พาร์ชเมนต์)",
+   "as_th": ""
   },
   {
    "to": "ink",
    "type": "material",
    "name": "Ink",
    "as": "the other half of every charm on this page",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "หมึก",
+   "as_th": ""
   },
   {
    "to": "burning-retirement",
    "type": "practice",
    "name": "Burning at retirement",
    "as": "the practice a paper charm usually ends in",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเผาเครื่องรางเมื่อหมดวาระ",
+   "as_th": ""
   },
   {
    "to": "folding",
    "type": "practice",
    "name": "Folding",
    "as": "how a printed sheet becomes something small enough to wear",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การม้วนและพับ",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -441,105 +467,135 @@
    "type": "amulet",
    "name": "Caul",
    "as": "what it is pressed onto and what a museum actually holds",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "คอล (เยื่อคลุมหน้าทารกแรกเกิด)",
+   "as_th": ""
   },
   {
    "from": "gris-gris",
    "type": "amulet",
    "name": "Gris-gris",
    "as": "the material that carries the verse, and the part that does the work",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "กรีกรี (ถุงเครื่องรางแอฟริกาตะวันตก)",
+   "as_th": ""
   },
   {
    "from": "ping-an-fu",
    "type": "amulet",
    "name": "Ping'an fu",
    "as": "the material that lets a temple issue thousands and burn them all a year later",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ผิงอันฝู (ยันต์ขอความสงบสุข)",
+   "as_th": ""
   },
   {
    "from": "sungkhor",
    "type": "amulet",
    "name": "Sungkhor",
    "as": "what carries the drawing, and why the object has to be renewed rather than cleaned",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ซุงคอร์ (วงล้อคุ้มครองทิเบต)",
+   "as_th": ""
   },
   {
    "from": "tabiz",
    "type": "amulet",
    "name": "Tabiz",
    "as": "the material that made a prayer portable, and printable from a block long before Europe printed",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ตาบีซ (เครื่องรางคำอธิษฐาน)",
+   "as_th": ""
   },
   {
    "from": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the material, and the reason the cheap ones were printed and sealed unread",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "from": "yantra-plate",
    "type": "amulet",
    "name": "Yantra plate",
    "as": "the cheapest support it takes, and the one that lets a temple sell it by the sheet",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "แผ่นยันต์ (ยันตระ)",
+   "as_th": "วัสดุรองรับที่ถูกที่สุดที่ใช้ได้ และเป็นวัสดุที่ทำให้เทวาลัยขายได้เป็นแผ่น ๆ"
   },
   {
    "from": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "the material the craft is built on, and the one it burns to deliver a message",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "korean-bujeok-craft",
    "type": "tradition",
    "name": "Bujeok craft",
    "as": "the material, and the only one this tradition needs",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "บูจ็อก (ศาสตร์ยันต์เกาหลี)",
+   "as_th": ""
   },
   {
    "from": "magic-square",
    "type": "motif",
    "name": "The number square",
    "as": "what most of them are written on, which is why almost none survive from before the modern period",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ตารางตัวเลข (ตารางมหัศจรรย์)",
+   "as_th": ""
   },
   {
    "from": "ink",
    "type": "material",
    "name": "Ink",
    "as": "the surface ink usually sits on, and the one Islamic legal opinion treats differently from a bowl",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "หมึก",
+   "as_th": "พื้นผิวที่หมึกมักอยู่ และเป็นพื้นผิวที่ความเห็นทางนิติศาสตร์อิสลามปฏิบัติต่างจากชาม"
   },
   {
    "from": "palm-leaf",
    "type": "material",
    "name": "Palm leaf",
    "as": "its successor: cheaper still, printable, and just as perishable",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ใบลาน",
+   "as_th": "ผู้สืบทอดของใบลาน ราคาถูกยิ่งกว่า พิมพ์ได้ และเสื่อมสลายง่ายไม่แพ้กัน"
   },
   {
    "from": "parchment",
    "type": "material",
    "name": "Parchment",
    "as": "the cheap replacement this tradition refuses by name",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "แผ่นหนัง (พาร์ชเมนต์)",
+   "as_th": ""
   },
   {
    "from": "folding",
    "type": "practice",
    "name": "Folding",
    "as": "the material that made folding cheap, repeatable and issuable by the ten thousand",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "การม้วนและพับ",
+   "as_th": "วัสดุที่ทำให้การพับมีราคาถูก ทำซ้ำได้ และแจกได้ทีละหมื่น"
   },
   {
    "from": "insadong",
    "type": "place",
    "name": "Insa-dong",
    "as": "the material 90 per cent of the country's traditional stationery shops sell from these alleys",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "อินซาดง",
+   "as_th": ""
   }
  ]
 }

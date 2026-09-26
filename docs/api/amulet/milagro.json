@@ -13,7 +13,8 @@
    "dije",
    "promesa",
    "milagrito"
-  ]
+  ],
+  "th": "มิลาโกร (แผ่นโลหะแก้บน)"
  },
  "etymology": {
   "root": "Spanish milagro, 'miracle' — the word for the answered prayer, used for the token that asks for it or thanks for it",
@@ -45,6 +46,9 @@
   "story": "Milagros are religious folk charms used for healing and as votive offerings in Mexico, the southern United States, other parts of Latin America, and parts of the Iberian Peninsula. They are pinned to altars, shrines and sacred objects, and bought in churches and cathedrals or from vendors outside them.\n\nThe custom is traced to the ancient Iberians of the Spanish coast and travelled with the Spanish into Central and South America. It has thinned since, but it holds in rural Spain — Andalusia, Catalonia and Majorca — alongside its American forms.\n\nA milagro is offered to a saint's image either as a reminder of what the petitioner needs or in thanks for a prayer already answered. The shape does the pointing. But the code is local, not universal: a leg can mean a leg that hurts or a journey to be made; a heart can mean a heart condition, a romance, or something else again. *Inference —* that ambiguity is the interesting part. The object is precise enough to aim a prayer and loose enough that only the petitioner and the saint need know what it is about, which is a useful property for a token left in public on a church wall.\n\nMilagros also get carried rather than pinned, for protection and luck, and the same stampings end up as earrings and necklace charms. They correspond almost exactly to the tamata of the Eastern Orthodox churches — the same body parts, in the same thin metal, on the same kind of icon.",
   "how": "Stamped, cast or cut, then pinned, wired, glued or nailed to the image. A vendor's tray outside a shrine is sorted by body part. Nothing is consecrated before it is offered; the offering is the act. Old milagros accumulate on a much-visited image until the metal is a second garment, and are periodically taken down and stored or sold by the church.",
   "today": "Still sold at church doors and in markets across Mexico, the southwestern United States and rural Spain as of the most recent accounts this project has read. They also sell as craft jewellery to buyers with no shrine in mind, which is the same argument this atlas reports about every charm that reached a gift shop, and does not settle."
+ },
+ "text_th": {
+  "what": "แผ่นโลหะแบนเล็ก ๆ เป็นรูปของสิ่งที่คุณกำลังอธิษฐานขอ — ขา ตา หัวใจ ปอด ชายคุกเข่า วัว บ้าน รถ ส่วนใหญ่เป็นแผ่นดีบุกหรือเงินปั๊ม ยาวไม่กี่เซนติเมตร เจาะรูหรือติดเข็มไว้เพื่อกลัดกับเสื้อคลุมของรูปนักบุญ ราวของแท่นบูชา หรือเรตาโบล (retablo) บางชิ้นปั้นเป็นรูปสามมิติ พบทั้งทองคำ เงิน ดีบุก ตะกั่ว ไม้ กระดูก และขี้ผึ้ง แล้วแต่ว่าช่างในท้องถิ่นทำงานกับวัสดุอะไร"
  },
  "dating": {
   "period": "ancient Iberia to the present",
@@ -213,63 +217,81 @@
    "type": "amulet",
    "name": "Tama",
    "as": "the Greek Orthodox object this one corresponds to almost exactly — same body parts, same thin metal, same icon",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ทามา (แผ่นโลหะถวายของกรีก)",
+   "as_th": ""
   },
   {
    "to": "latin-american-folk-catholic",
    "type": "tradition",
    "name": "Latin American folk Catholic charm practice",
    "as": "the tradition this belongs to, and the one that decides which saint gets which limb",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ธรรมเนียมเครื่องรางคาทอลิกพื้นบ้านละตินอเมริกา",
+   "as_th": ""
   },
   {
    "to": "ex-voto-wall",
    "type": "art",
    "name": "The ex-voto wall",
    "as": "what a church wall looks like after a few hundred of these have been pinned to it",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "ผนังภาพแก้บน (เอ็กซ์โวโต)",
+   "as_th": ""
   },
   {
    "to": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "the Church's own category of blessed objects, which a milagro sits beside without being one",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   },
   {
    "to": "st-christopher-medal",
    "type": "amulet",
    "name": "St Christopher medal",
    "as": "the other metal token bought at the same counter, worn instead of pinned",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เหรียญนักบุญคริสโตเฟอร์",
+   "as_th": ""
   },
   {
    "to": "mercado-de-sonora",
    "type": "place",
    "name": "Mercado de Sonora",
    "as": "one Mexico City market where these share an aisle with herbs, candles and the deer's-eye seed",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตลาดโซโนรา (เมร์กาโด เด โซโนรา)",
+   "as_th": ""
   },
   {
    "to": "silver",
    "type": "material",
    "name": "Silver",
    "as": "the metal that makes an expensive milagro, and the reason old ones were worth taking down",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เงิน (โลหะเงิน)",
+   "as_th": ""
   },
   {
    "to": "azabache",
    "type": "amulet",
    "name": "Azabache",
    "as": "the other Hispanic charm pinned to a body rather than a saint — that one goes on the baby",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "อาซาบาเช (เครื่องรางหินเจ็ต)",
+   "as_th": ""
   },
   {
    "to": "blessing-at-a-shrine",
    "type": "practice",
    "name": "Blessing at a shrine",
    "as": "the act the object exists for",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การนำไปรับพรที่ศาสนสถาน",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -445,77 +467,99 @@
    "type": "amulet",
    "name": "Miraculous Medal",
    "as": "the other small metal offering of the Catholic world — that one is pinned to the saint, this one is worn by the petitioner",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เหรียญอัศจรรย์",
+   "as_th": ""
   },
   {
    "from": "tama-votive",
    "type": "amulet",
    "name": "Tama",
    "as": "the same object in Spanish — the cited accounts on both sides call them equivalents, and this is the one that goes on an icon rather than on a robe",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ทามา (แผ่นโลหะถวายของกรีก)",
+   "as_th": ""
   },
   {
    "from": "latin-american-folk-catholic",
    "type": "tradition",
    "name": "Latin American folk Catholic charm practice",
    "as": "the tradition's public object — left at the shrine rather than carried home, and the one that decides which saint gets which limb",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ธรรมเนียมเครื่องรางคาทอลิกพื้นบ้านละตินอเมริกา",
+   "as_th": ""
   },
   {
    "from": "footprint",
    "type": "motif",
    "name": "The footprint",
    "as": "the other body part sold small and left at a shrine, for the opposite reason",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "รอยพระพุทธบาท",
+   "as_th": "อวัยวะอีกชิ้นหนึ่งที่ขายในขนาดเล็กและทิ้งไว้ที่สักการสถาน ด้วยเหตุผลที่ตรงกันข้าม"
   },
   {
    "from": "hand",
    "type": "motif",
    "name": "The hand",
    "as": "a tin hand nailed to a votive wall asks for a hand to be healed — the same shape doing the opposite job",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "มือ",
+   "as_th": ""
   },
   {
    "from": "gold",
    "type": "material",
    "name": "Gold",
    "as": "made in gold, silver, tin, lead, wood, bone or wax, according to local custom and what the giver has",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ทองคำ",
+   "as_th": ""
   },
   {
    "from": "blessing-at-a-shrine",
    "type": "practice",
    "name": "Blessing at a shrine",
    "as": "the inward direction: the object exists to be left at the shrine, not carried away from it",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การนำไปรับพรที่ศาสนสถาน",
+   "as_th": "ทิศทางขาเข้า: วัตถุนี้มีไว้เพื่อทิ้งไว้ที่ศาสนสถาน ไม่ใช่เพื่อพกกลับไป"
   },
   {
    "from": "mercado-de-sonora",
    "type": "place",
    "name": "Mercado de Sonora",
    "as": "the stamped metal votive of the same devotional economy, offered where these goods are bought",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตลาดโซโนรา (เมร์กาโด เด โซโนรา)",
+   "as_th": ""
   },
   {
    "from": "quiapo-church",
    "type": "place",
    "name": "Quiapo Church",
    "as": "the Catholic votive kin — metal offered for a body part, where the panata offers a walk",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โบสถ์กีอาโป",
+   "as_th": ""
   },
   {
    "from": "ex-voto-wall",
    "type": "art",
    "name": "The ex-voto wall",
    "as": "the stamped metal charm pinned to the same walls, and often sold from the same table",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ผนังภาพแก้บน (เอ็กซ์โวโต)",
+   "as_th": ""
   },
   {
    "from": "votive-wall",
    "type": "art",
    "name": "The votive wall",
    "as": "its Latin American twin — the same body parts, hammered in tin instead of silver",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "กำแพงของถวาย",
+   "as_th": ""
   }
  ]
 }

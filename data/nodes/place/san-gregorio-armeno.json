@@ -8,15 +8,32 @@
   "script": "Latin",
   "lang": "it",
   "said": "VEE-a san gre-GO-ryo ar-MEH-no",
-  "aliases": ["the crib-makers' street", "Naples nativity street"]
+  "aliases": [
+   "the crib-makers' street",
+   "Naples nativity street"
+  ],
+  "th": "ถนนซานเกรโกริโออาร์เมโน"
  },
- "region": ["rome-italy"],
- "countries": ["IT"],
- "facets": {"kind": "workshop", "hemisphere": ["N", "E"]},
+ "region": [
+  "rome-italy"
+ ],
+ "countries": [
+  "IT"
+ ],
+ "facets": {
+  "kind": "workshop",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "A narrow street in the old centre of Naples, lined with workshops that make figures for the presepe, the Neapolitan nativity scene. Terracotta heads, wired limbs, cloth, cork and plaster; shepherds beside this year's footballers and politicians. Coral and silver horns hang in the same windows, because the trade that models a figure by hand is the trade that cuts a charm by hand.",
   "story": "The street is a stenoporos, one of the narrow cross-lanes of the Greek grid Neapolis was laid out on, running between the two main streets of the ancient city — today's Via dei Tribunali and Spaccanapoli — and crossing at the old agora.\n\nThe figures have a long root in the same ground. A temple of Ceres stood on this street in classical times, and citizens offered her small terracotta figurines made in the workshops nearby. The church of San Gregorio Armeno was founded around 930 on that temple's foundations. The Neapolitan nativity scene itself is much later, from the end of the 18th century. The workshops now run all year, with the main displays from early November to 6 January.\n\nNaples is also a capital of the horn. The cornicello — curniciello in Neapolitan — is a twisted horn charm in gold, silver, bone, terracotta, plastic or red coral, worn against the malocchio and hung from rear-view mirrors, a custom the article traces back to protecting draught horses. Coral is the material that carries it, and coral is sacred to Venus.\n\nEdward Lovett, the London folklorist, published a paper in 1909 called Amulets from Costers' Barrows in London, Rome, and Naples. He was reading three street trades as one subject, and this street is the one still working.\n\n*Inference —* a lane whose craftsmen have modelled votive figures on the same ground for two thousand years is the clearest case in this atlas of a workshop outliving the religion it started in. Both halves of that sentence are cited; the joining of them is this project's.",
   "today": "Workshops produce figures year-round, traditional and topical. The heavy display season runs from early November to 6 January. No weekday is marked open or closed below: the shops set their own hours and no timetable is published for the street."
+ },
+ "text_th": {
+  "what": "ถนนแคบในย่านเมืองเก่าของเนเปิลส์ เรียงรายด้วยโรงงานฝีมือที่ทำตุ๊กตาสำหรับเปรเซเป (presepe) ฉากการบังเกิดของพระเยซูแบบเนเปิลส์ ศีรษะดินเผา แขนขาที่ดัดด้วยลวด ผ้า ไม้ก๊อก และปูนปลาสเตอร์ คนเลี้ยงแกะอยู่ข้างนักฟุตบอลและนักการเมืองของปีนี้ เขาปะการังและเขาเงินแขวนอยู่ในหน้าต่างร้านเดียวกัน เพราะงานที่ปั้นตุ๊กตาด้วยมือก็คืองานที่ตัดเครื่องรางด้วยมือ"
  },
  "dating": {
   "period": "Greek Neapolis to the present",
@@ -30,33 +47,107 @@
   "source": "s:wp-via-san-gregorio-armeno",
   "note": "from_year is a round marker for the classical temple of Ceres and the votive figurines made in workshops on this street; the presepe craft itself dates from the end of the 18th century."
  },
- "geo": {"lat": 40.850258, "lon": 14.25774, "precision": "street", "source": "Wikidata item Q630318 (via San Gregorio Armeno), coordinate location P625, queried 2026-09-16"},
- "address": {"street": "Via San Gregorio Armeno", "city": "Naples", "admin": "Campania", "country": "IT"},
+ "geo": {
+  "lat": 40.850258,
+  "lon": 14.25774,
+  "precision": "street",
+  "source": "Wikidata item Q630318 (via San Gregorio Armeno), coordinate location P625, queried 2026-09-16"
+ },
+ "address": {
+  "street": "Via San Gregorio Armeno",
+  "city": "Naples",
+  "admin": "Campania",
+  "country": "IT"
+ },
  "kin": [
-  {"to": "cornicello", "as": "the horn this city cuts in coral and silver, hung in the same windows as the crib figures", "rel": "carries"},
-  {"to": "coral", "as": "the material the horn is cut from, and the one Naples has worked longest", "rel": "material"},
-  {"to": "horn", "as": "the sign itself — southern Italy's substitute for the eye, aimed at the same look", "rel": "motif"},
-  {"to": "cimaruta", "as": "the other Neapolitan silver charm, a sprig of rue hung with signs", "rel": "kin"},
-  {"to": "ex-voto-wall", "as": "what the classical version of this street's output ended on: figurines offered to Ceres, made next door", "rel": "art"},
-  {"to": "european-folk-apotropaic", "as": "the tradition these workshops supply", "rel": "tradition"},
-  {"to": "edward-lovett", "as": "the folklorist who in 1909 read the barrow trade of London, Rome and Naples as one subject", "rel": "person"},
-  {"to": "catholic-sacramentals", "as": "the blessed objects sold a few doors from the horn, by the same hands", "rel": "parallel"}
+  {
+   "to": "cornicello",
+   "as": "the horn this city cuts in coral and silver, hung in the same windows as the crib figures",
+   "rel": "carries"
+  },
+  {
+   "to": "coral",
+   "as": "the material the horn is cut from, and the one Naples has worked longest",
+   "rel": "material"
+  },
+  {
+   "to": "horn",
+   "as": "the sign itself — southern Italy's substitute for the eye, aimed at the same look",
+   "rel": "motif"
+  },
+  {
+   "to": "cimaruta",
+   "as": "the other Neapolitan silver charm, a sprig of rue hung with signs",
+   "rel": "kin"
+  },
+  {
+   "to": "ex-voto-wall",
+   "as": "what the classical version of this street's output ended on: figurines offered to Ceres, made next door",
+   "rel": "art"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the tradition these workshops supply",
+   "rel": "tradition"
+  },
+  {
+   "to": "edward-lovett",
+   "as": "the folklorist who in 1909 read the barrow trade of London, Rome and Naples as one subject",
+   "rel": "person"
+  },
+  {
+   "to": "catholic-sacramentals",
+   "as": "the blessed objects sold a few doors from the horn, by the same hands",
+   "rel": "parallel"
+  }
  ],
  "tags": [
-  {"tag": "still-makes", "source": "s:wp-via-san-gregorio-armeno", "tier": "cited", "note": "craft workshops on the street produce nativity figures all year round"},
-  {"tag": "market", "source": "s:wp-via-san-gregorio-armeno", "tier": "cited", "note": "a street of workshops and shops, with main displays from early November to 6 January"}
+  {
+   "tag": "still-makes",
+   "source": "s:wp-via-san-gregorio-armeno",
+   "tier": "cited",
+   "note": "craft workshops on the street produce nativity figures all year round"
+  },
+  {
+   "tag": "market",
+   "source": "s:wp-via-san-gregorio-armeno",
+   "tier": "cited",
+   "note": "a street of workshops and shops, with main displays from early November to 6 January"
+  }
  ],
- "links": [{"label": "Via San Gregorio Armeno — Wikipedia", "url": "https://en.wikipedia.org/wiki/Via_San_Gregorio_Armeno"}],
- "sources": ["s:wp-via-san-gregorio-armeno", "s:wp-cornicello", "s:wp-edward-lovett"],
+ "links": [
+  {
+   "label": "Via San Gregorio Armeno — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Via_San_Gregorio_Armeno"
+  }
+ ],
+ "sources": [
+  "s:wp-via-san-gregorio-armeno",
+  "s:wp-cornicello",
+  "s:wp-edward-lovett"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-via-san-gregorio-armeno"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-via-san-gregorio-armeno"
+  },
   "fields": {
-   "geo": {"tier": "harvested", "note": "Wikidata P625 for the street, queried 2026-09-16"},
-   "text.story": {"tier": "cited", "source": "s:wp-cornicello", "note": "the horn trade is cited to the cornicello article, not to the street's own; the closing paragraph is this project's inference and is marked"}
+   "geo": {
+    "tier": "harvested",
+    "note": "Wikidata P625 for the street, queried 2026-09-16"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-cornicello",
+    "note": "the horn trade is cited to the cornicello article, not to the street's own; the closing paragraph is this project's inference and is marked"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Via San Gregorio Armeno Napoli.jpg", "File:Cornicello napoletano.jpg"],
+ "x_commons_files": [
+  "File:Via San Gregorio Armeno Napoli.jpg",
+  "File:Cornicello napoletano.jpg"
+ ],
  "confidence": "medium",
  "needs_verification": true,
  "updated": "2026-09-16"

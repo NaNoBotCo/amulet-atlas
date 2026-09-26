@@ -11,7 +11,8 @@
    "girdle of Isis",
    "sacral knot",
    "tied thread"
-  ]
+  ],
+  "th": "ปม"
  },
  "region": [
   "ancient-egypt",
@@ -44,6 +45,9 @@
  "text": {
   "what": "A tie, either made in cloth and thread or copied in stone and metal. Two kinds sit under one heading: the knot that is actually tied — a red string on a wrist, a thousand stitches in a soldier's belt, rushes woven on a feast day — and the knot that is depicted, cut in jasper or drawn as a hieroglyph, with nothing to untie.",
   "story": "Egypt gives the depicted knot its clearest case. The tyet resembles a knot of cloth and may have started as a bandage to absorb menstrual blood. An early example comes from a First Dynasty tomb at Helwan, excavated by Zaki Saad in the 1940s — old enough to predate the first written references to Isis, whom it was later tied to. From the early New Kingdom, roughly 1550 BCE, tyet amulets went into the wrappings, usually on the upper torso, and from then to the end of dynastic Egypt few people were buried without one. Chapter 156 of the Book of the Dead calls for a tyet of red jasper at the mummy's neck and says the power of Isis will protect the body and drive away whoever would commit a crime against it. Green faience examples were made too, the colour standing for renewed life. The tyet can be compared with the Minoan sacral knot at Knossos — a knot with a projecting loop — and the comparison is offered as a resemblance, not a descent.\n\nThe tied knot is a different object with a different working part: somebody's hands did it, at a named time, and it can be undone. Bulgarian and Macedonian martenitsi are twisted red and white yarn, given never bought, worn from 1 March and taken off at the sight of a stork or a blossoming tree — sometimes tied then onto a fruit tree. Romanian mărțișor uses the same two threads and is described by observers as funia anului, the year's rope, winding summer into winter. Irish Brigid's crosses are woven from straw or rushes on 1 February and hung in the rafters. Japanese senninbari carry a thousand knots, each made by a different woman, for a soldier going to war.\n\nUndoing is part of the grammar. Islamic hadith describe a charm worked against Muhammad; in one variant he is cured only after the charm — a knot — is taken and taken apart. *Inference —* a knot is the one amulet form that carries its own cancellation in its shape, which is why so many traditions put a date on when it comes off."
+ },
+ "text_th": {
+  "what": "สิ่งผูก ซึ่งผูกขึ้นจริงด้วยผ้าและด้าย หรือลอกแบบไว้ในหินและโลหะ สองแบบอยู่ใต้หัวข้อเดียวกัน แบบแรกคือปมที่ผูกจริง เช่น ด้ายแดงที่ข้อมือ ฝีเข็มพันเข็มบนผ้าคาดเอวของทหาร ต้นกกที่สานในวันเทศกาล แบบที่สองคือปมที่เป็นภาพ สลักบนแจสเปอร์หรือวาดเป็นอักษรภาพ ไม่มีอะไรให้แก้"
  },
  "kin": [
   {
@@ -276,63 +280,81 @@
    "type": "amulet",
    "name": "Tyet",
    "as": "the Egyptian amulet this sign is cut as, in red jasper at the mummy's neck",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ทิเยต (เครื่องรางปมอียิปต์)",
+   "as_th": ""
   },
   {
    "to": "red-thread",
    "type": "motif",
    "name": "The red thread",
    "as": "the knot reduced to one strand and one wrist",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "to": "martenitsa",
    "type": "amulet",
    "name": "Martenitsa",
    "as": "twisted red and white yarn with a date to put it on and a bird that says take it off",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "มาร์เตนิตซา",
+   "as_th": ""
   },
   {
    "to": "brigids-cross",
    "type": "amulet",
    "name": "Brigid's cross",
    "as": "rushes woven on 1 February and pinned in the rafters for the year",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กางเขนนักบุญบริจิด",
+   "as_th": ""
   },
   {
    "to": "senninbari",
    "type": "amulet",
    "name": "Senninbari",
    "as": "a thousand knots, one woman each, sewn into a belt for a soldier",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เซ็นนินบาริ (ผ้าพันฝีเข็ม)",
+   "as_th": ""
   },
   {
    "to": "knotting",
    "type": "practice",
    "name": "Knotting",
    "as": "the practice — the hands, the count, the moment it is tied",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การผูกปม",
+   "as_th": ""
   },
   {
    "to": "thread",
    "type": "material",
    "name": "Thread and cord",
    "as": "what most of these are made of, and the reason so few old ones survive",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ด้ายและเชือก",
+   "as_th": ""
   },
   {
    "to": "corn-dolly",
    "type": "amulet",
    "name": "Corn dolly",
    "as": "the other European straw-work, made from the last sheaf rather than for a saint's day",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตุ๊กตาฟางข้าว (คอร์นดอลลี)",
+   "as_th": ""
   },
   {
    "to": "swastika-sign",
    "type": "motif",
    "name": "The swastika",
    "as": "one of the seven shapes the National Museum of Ireland sorts Brigid's crosses into is the bent-armed cross",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สวัสดิกะ",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -600,49 +622,63 @@
    "type": "amulet",
    "name": "Ankh amulet",
    "as": "the family most Egyptologists put its origin in",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เครื่องรางอังค์",
+   "as_th": ""
   },
   {
    "from": "dreamcatcher",
    "type": "amulet",
    "name": "Dreamcatcher",
    "as": "the sign: a net, which holds what touches it",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เครื่องดักฝัน",
+   "as_th": ""
   },
   {
    "from": "tyet-knot",
    "type": "amulet",
    "name": "Tyet",
    "as": "the family it belongs to — a tied thing worn because it is tied",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ทิเยต (เครื่องรางปมอียิปต์)",
+   "as_th": ""
   },
   {
    "from": "red-thread",
    "type": "motif",
    "name": "The red thread",
    "as": "the wider family: a charm whose working part is that somebody tied it",
-   "rel": "whole"
+   "rel": "whole",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "from": "spiral",
    "type": "motif",
    "name": "The spiral",
    "as": "the family this sign is filed under: a line that turns back on itself and does not let go",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เกลียวก้นหอย",
+   "as_th": ""
   },
   {
    "from": "thread",
    "type": "material",
    "name": "Thread and cord",
    "as": "what thread turns into when the tying itself is the charm",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ด้ายและเชือก",
+   "as_th": ""
   },
   {
    "from": "knotting",
    "type": "practice",
    "name": "Knotting",
    "as": "the sign this practice makes — and the rare case where making the sign and making the object are the same act",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "การผูกปม",
+   "as_th": ""
   }
  ]
 }

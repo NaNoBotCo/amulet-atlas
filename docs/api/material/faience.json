@@ -11,7 +11,8 @@
    "sintered quartz",
    "glazed frit"
   ],
-  "said": "fay-ONSS"
+  "said": "fay-ONSS",
+  "th": "เฟยองซ์ (ควอตซ์เคลือบอียิปต์)"
  },
  "etymology": {
   "root": "French faience, from Faenza near Ravenna, a centre of tin-glazed pottery — a name borrowed for a material that has nothing to do with it",
@@ -42,6 +43,9 @@
   "story": "Faience is a counterfeit that outlived what it counterfeited. From its first appearance in the Egyptian record the glaze colours sit in a narrow band of blue-green, and Egyptologists read that as deliberate: the material stands in for turquoise out of Sinai and lapis lazuli out of Afghanistan. The archaeologist David Frederick Grose puts the same logic behind early glass — the quest to imitate precious stones \"explains why most all early glasses are opaque and brilliantly colored\", with the deep blue of lapis the most sought after. Quennou's funerary papyrus names his office as overseer of faience-making using the word that strictly means lapis lazuli; by the New Kingdom the word for the stone also meant the substitute.\n\nIt has been called the first high-technology ceramic, an artificial medium made to function as a precious stone. Three glazing methods are known — slurry applied by brush or dip, efflorescence where soluble salts mixed into the body migrate out and crystallise on the surface, and cementation, where the object is fired buried in a glazing powder. The last was recognised only after the same method was observed in use at Qom in Iran in the 1960s.\n\nScale is the point. Moulding came in during the Middle Kingdom: press a model into wet clay, fire the clay, and the mould will give you the object again and again. Several thousand small open-face earthenware moulds were excavated at Tell el-Amarna. That is what an amulet industry looks like from the floor of the workshop.\n\n*Inference —* faience is the reason a museum tray of Egyptian amulets looks the way it does. It was cheap to mould, buried by the thousand, and made of something that does not rot, corrode or burn. The cloth, dough, reed and papyrus charms that stood beside it are simply gone. A drawer of faience is a record of what survives, not a census of what was worn.",
   "how": "Modelled by hand, or pressed into a fired clay mould, or ground to shape cold, then glazed and fired. The paste is thixotropic and short — it slumps when wet and cracks if worked too hard — so detail comes from the mould and from abrasion afterwards, not from the modelling. From the Middle Kingdom, different coloured pastes were worked together for striped bodies, and inlay and incising followed.",
   "today": "Not made in Egypt as tjehenet any more. The technology carried on eastward as Islamic stonepaste, or fritware, which adds clay to the same quartz body. Museums hold the ancient material in quantity: the Victoria and Albert Museum in London has a faience sceptre 215.9 cm long dated 1427-1400 BC, at the far edge of what the material will do."
+ },
+ "text_th": {
+  "what": "ควอตซ์หรือทรายบด ปูนขาวเล็กน้อย และส่วนผสมของด่าง ขึ้นรูปแล้วเผาจนเกิดเคลือบโซดา-ปูน-ซิลิกาบนผิว มักเป็นสีฟ้าหรือเขียวจากทองแดง ไม่มีดินเหนียว จึงไม่ใช่เครื่องปั้นดินเผา ใกล้เคียงแก้วมากกว่า แต่มีรูพรุนซึ่งแก้วไม่มี เป็นวัสดุที่ใช้มากที่สุดในการทำสคารับ เครื่องรางรูปทรงอื่น ๆ ทุกแบบ และตุ๊กตาอูชับติที่ฝังไปกับผู้ตาย"
  },
  "dating": {
   "period": "Predynastic Egypt to the Roman period, and onward as Islamic stonepaste",
@@ -196,70 +200,90 @@
    "type": "amulet",
    "name": "Wedjat eye",
    "as": "the amulet this material made cheap enough to bury by the thousand, and durable enough to still be here",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ตาเวดจัต (ดวงตาแห่งฮอรัส)",
+   "as_th": ""
   },
   {
    "to": "scarab",
    "type": "amulet",
    "name": "Scarab",
    "as": "the form the sources name first when they say what faience was mostly used for",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "สคารับ (ด้วงศักดิ์สิทธิ์อียิปต์)",
+   "as_th": ""
   },
   {
    "to": "ankh-amulet",
    "type": "amulet",
    "name": "Ankh amulet",
    "as": "moulded in the same workshops, off the same kind of clay mould",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เครื่องรางอังค์",
+   "as_th": ""
   },
   {
    "to": "bes-amulet",
    "type": "amulet",
    "name": "Bes amulet",
    "as": "a moulded figure whose survival in quantity is a fact about the paste, not about how many Bes charms Egypt wore",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เครื่องรางเทพเบส",
+   "as_th": ""
   },
   {
    "to": "turquoise",
    "type": "material",
    "name": "Turquoise",
    "as": "the Sinai stone this glaze was coloured to stand in for",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เทอร์ควอยซ์",
+   "as_th": ""
   },
   {
    "to": "glass",
    "type": "material",
    "name": "Glass",
    "as": "made in the same New Kingdom workshops, from close to the same recipe, at a higher temperature",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "แก้ว",
+   "as_th": ""
   },
   {
    "to": "carnelian",
    "type": "material",
    "name": "Carnelian",
    "as": "the cut stone the moulded copy competed with, and undercut",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "คาร์เนเลียน",
+   "as_th": ""
   },
   {
    "to": "egyptian-amulet-craft",
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "the tradition this material industrialised",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   },
   {
    "to": "flinders-petrie",
    "type": "person",
    "name": "Flinders Petrie",
    "as": "the excavator who sorted the moulded output into the classes museums still shelve it by",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "ฟลินเดอร์ส พีทรี",
+   "as_th": ""
   },
   {
    "to": "dating-a-charm",
    "type": "story",
    "name": "Dating a charm",
    "as": "the long read on why a material that survives distorts every date in this atlas",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การระบุอายุเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -369,98 +393,126 @@
    "type": "amulet",
    "name": "Ankh amulet",
    "as": "the material that made it cheap, and whose blue-green the source ties to life and regeneration",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เครื่องรางอังค์",
+   "as_th": ""
   },
   {
    "from": "bes-amulet",
    "type": "amulet",
    "name": "Bes amulet",
    "as": "the material that put his face on a baby's feeding bottle",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เครื่องรางเทพเบส",
+   "as_th": ""
   },
   {
    "from": "scarab",
    "type": "amulet",
    "name": "Scarab",
    "as": "the moulded material that made it cheap by the tray",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "สคารับ (ด้วงศักดิ์สิทธิ์อียิปต์)",
+   "as_th": ""
   },
   {
    "from": "taweret-amulet",
    "type": "amulet",
    "name": "Taweret amulet",
    "as": "the material that made her cheap enough to hang over a cradle",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เครื่องรางเทพีทาเวเรต",
+   "as_th": ""
   },
   {
    "from": "wedjat-eye",
    "type": "amulet",
    "name": "Wedjat eye",
    "as": "the material that made it cheap enough to bury by the thousand, and durable enough to still be here",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ตาเวดจัต (ดวงตาแห่งฮอรัส)",
+   "as_th": ""
   },
   {
    "from": "egyptian-amulet-craft",
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "the material that made the whole scale of it possible",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   },
   {
    "from": "scarab-sign",
    "type": "motif",
    "name": "The beetle",
    "as": "the glazed quartz paste that made it cheap enough to bury in quantity",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ด้วง (สคารับ)",
+   "as_th": ""
   },
   {
    "from": "carnelian",
    "type": "material",
    "name": "Carnelian",
    "as": "the cheap answer to this stone: quartz paste, moulded and glazed to look like something mined",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "คาร์เนเลียน",
+   "as_th": ""
   },
   {
    "from": "copper",
    "type": "material",
    "name": "Copper and bronze",
    "as": "where copper is a colour instead of a shape: the pigment that makes Egyptian blue-green",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ทองแดงและสำริด",
+   "as_th": ""
   },
   {
    "from": "cowrie",
    "type": "material",
    "name": "Cowrie",
    "as": "the paste Egypt used to counterfeit the shell once the shell itself was scarce",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "หอยเบี้ย",
+   "as_th": ""
   },
   {
    "from": "glass",
    "type": "material",
    "name": "Glass",
    "as": "the near relation: the same quartz and alkali, only partly fused, porous where glass is solid",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "แก้ว",
+   "as_th": ""
   },
   {
    "from": "turquoise",
    "type": "material",
    "name": "Turquoise",
    "as": "the glaze invented to look like this stone, and the reason Egypt could sell the colour without the mine",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เทอร์ควอยซ์",
+   "as_th": ""
   },
   {
    "from": "met-egyptian-galleries",
    "type": "place",
    "name": "The Egyptian galleries, the Metropolitan Museum of Art",
    "as": "the material the labels repeat: crushed quartz, fired, glazed blue or green",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ห้องจัดแสดงอียิปต์ พิพิธภัณฑ์ศิลปะเมโทรโพลิแทน",
+   "as_th": ""
   },
   {
    "from": "petrie-amulet-plates",
    "type": "art",
    "name": "Petrie's amulet plates",
    "as": "the material most of the objects in these rows are made of",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "แผ่นภาพเครื่องรางของพีทรี",
+   "as_th": ""
   }
  ]
 }

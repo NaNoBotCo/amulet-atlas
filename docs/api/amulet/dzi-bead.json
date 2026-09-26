@@ -14,7 +14,8 @@
    "天珠",
    "tian zhu",
    "heaven's bead"
-  ]
+  ],
+  "th": "หินดีซี (ลูกปัดทิเบต)"
  },
  "etymology": {
   "root": "Tibetan gzi, 'shine, brightness, clearness, splendor'",
@@ -50,6 +51,9 @@
   "story": "Nobody has settled where dzi come from, and this record does not pick a story. The account in the source read here says the stones first appear between 2000 and 1000 BCE in ancient India, and repeats a claim that a few hundred thousand were supposedly brought back by Tibetan soldiers from Persia during a raid. In the same passage the geographic origin is called uncertain, and the manufacturing method is called mysterious: treatments may have included darkening with plant sugars and heat, bleaching and white-line etching with natron, and masking areas with grease, clay or wax. What can be dated is narrower and firmer. Dzi-type agate beads were made in the Indus Valley in the Harappan period and at agate-rich sites in India such as Khambhat since Neolithic times, and the earliest archaeologically controlled find of an agate bead with dzi-style decoration — straight and curved lines and a circular eye — comes from a Saka-culture excavation at Uigarak in Kazakhstan, dated to the seventh to fifth century BCE, and was read as an import from India, evidence of long-distance trade with Saka or Scythian nomads.\n\nDrilling is the one part of the making that is described in detail: the hole was made before the bead was decorated, because drilling caused most of the breakage, and a drilled bead could be strung and dipped for colouring. The earliest holes are conical, bored from both ends with solid flint tips; Neolithic beads were also drilled with hollow reed bits driven with abrasive, and copper ones in the Chalcolithic, which leave a parallel-walled hole. All of it was bow-drill work, and the time it took depended on the abrasive, from ground quartz to corundum.\n\n*Tradition holds —* shepherds and farmers sometimes find dzi lying in soil or grassland, and some Tibetans have held on that evidence that the beads form naturally and are not made at all. In Tibetan culture the beads are said to attract local protectors, dharmapalas, deities, beneficial ghosts, ancestors or bodhisattvas, and are always treated with respect. They are handed down, which is how a single bead can pass through hundreds of wearers over centuries.\n\nBeads also get eaten. Some carry small dig marks where a portion was scraped or ground away for use in Tibetan medicine; others show grinding and polishing from service as a burnishing tool for applying gold leaf to thangka paintings and gilded bronzes.",
   "how": "The bead is not made by its wearer and, for the old ones, not made by anyone alive. A new dzi is a different matter: the tradition holds it can be brought to the same standing by having a lama or guru bless it, by carrying it on pilgrimage to stupas and shrines, and by reciting mantras and taking religious vows with it. A stone thought to carry bad energy is submerged in salt water for several hours and then fanned with incense; sun-basking and herbal smudging are also named as purification, and spirit aroma offering and recitation of the Cintamani dharani as charging. New beads are held to carry one advantage the old ones cannot: none of the bad karma of a previous owner.",
   "today": "A market with a forgery problem at every price. Ancient beads can reach hundreds of thousands of US dollars, more for beads with more eyes and for the tiny red bloodspots that iron inclusions leave; new dzi run from about ten to two thousand US dollars by quality and lustre. The source read in September 2026 does not date those figures, so read them as undated. Modern-era dzi-style beads were made at Idar-Oberstein in Germany at least as early as the 19th century by agate cutters who had worked there since Roman times and who brought agate colouring to a science. Imitation dzi are made of glass, resin, lampwork, wood, bone, plastic, metal and non-traditional etched stones; some resin ones are filled with lead for weight; older mock dzi have collectible value of their own. At the bottom, mass-produced machine-carved beads sell for under two US dollars, often by the strand, with etching that does not penetrate the core — mostly to mainland Chinese buyers as feng shui charms. Tibetans also buy new beads, as an affordable and obtainable alternative, and whether a new bead is the same object as an old one is argued inside the tradition, not only outside it."
+ },
+ "text_th": {
+  "what": "หลอดหินอาเกต สีน้ำตาลถึงดำ มีลวดลายสีขาวงาช้างอ่อน ๆ ที่กัดลงในเนื้อหิน ไม่ได้แกะสลัก: วงกลม วงรี สี่เหลี่ยม คลื่น ซิกแซก แถบ เส้น ข้าวหลามตัด จุด ผิวมักเรียบและมันคล้ายขี้ผึ้งจากการสวมใส่มานาน ลายวงกลมเรียกว่า \"ตา\" และจำนวนกับการเรียงตัวของตาคือสิ่งแรกที่ผู้ซื้อนับ เมื่อร้อยเป็นสร้อยคอแบบทิเบต หินดีซีมักขนาบด้วยปะการัง บางครั้งมีอำพันและเทอร์ควอยซ์ด้วย"
  },
  "dating": {
   "period": "Saka-period find to the present",
@@ -250,77 +254,99 @@
    "type": "motif",
    "name": "The eye",
    "as": "the sign counted on its surface — an eye here is a circle, and the number of them sets the price",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "gau-box",
    "type": "amulet",
    "name": "Gau",
    "as": "what hangs on the same cord: the box holds the written amulet, the bead hangs beside it",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กาอู (ตลับเครื่องรางทิเบต)",
+   "as_th": ""
   },
   {
    "to": "tibetan-protection",
    "type": "tradition",
    "name": "Tibetan protection craft",
    "as": "the tradition that receives it, blesses new ones, and hands old ones down",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางป้องกันภัยทิเบต (ซุงวา)",
+   "as_th": ""
   },
   {
    "to": "coral",
    "type": "material",
    "name": "Red coral",
    "as": "what a dzi is flanked with on a Tibetan necklace — and, like the bead, something that reached Tibet from somewhere else",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ปะการังแดง",
+   "as_th": ""
   },
   {
    "to": "turquoise",
    "type": "material",
    "name": "Turquoise",
    "as": "the third stone on the same string, and the one Tibet could supply itself",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เทอร์ควอยซ์",
+   "as_th": ""
   },
   {
    "to": "carnelian",
    "type": "material",
    "name": "Carnelian",
    "as": "the stone of the chung dzi, the ordinary etched beads counted as a lesser kind of the same thing",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "คาร์เนเลียน",
+   "as_th": ""
   },
   {
    "to": "nazar",
    "type": "amulet",
    "name": "Nazar",
    "as": "the other eye-bead with a market in the millions — glass instead of agate, and priced by the tray instead of by the eye",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "to": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the long read this bead belongs in: imitations run from 19th-century German cutting to two-dollar machine beads, and the tells are the whole trade",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดของปลอม",
+   "as_th": ""
   },
   {
    "to": "barkhor-lhasa",
    "type": "place",
    "name": "The Barkhor",
    "as": "the Lhasa circuit where beads change hands",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "บาร์คอร์",
+   "as_th": ""
   },
   {
    "to": "kathmandu-thamel",
    "type": "place",
    "name": "Thamel",
    "as": "the other Himalayan street they are sold on, mostly to visitors",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ทาเมล",
+   "as_th": ""
   },
   {
    "to": "rudraksha",
    "type": "amulet",
    "name": "Rudraksha",
    "as": "the South Asian bead graded the same way — by counting the marks on it — and costing a fraction as much",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "รุทรากษ์",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -497,49 +523,63 @@
    "type": "amulet",
    "name": "Gau",
    "as": "what hangs on the same necklace, and the other Himalayan object whose value depends on a history nobody can read off its surface",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กาอู (ตลับเครื่องรางทิเบต)",
+   "as_th": ""
   },
   {
    "from": "rudraksha",
    "type": "amulet",
    "name": "Rudraksha",
    "as": "the Himalayan bead worn at the same throat, graded the same way by counting marks on its surface, and priced far higher",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "รุทรากษ์",
+   "as_th": ""
   },
   {
    "from": "tibetan-protection",
    "type": "tradition",
    "name": "Tibetan protection craft",
    "as": "the object it received rather than made, and values as inherited",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "งานเครื่องรางป้องกันภัยทิเบต (ซุงวา)",
+   "as_th": ""
   },
   {
    "from": "inheriting",
    "type": "practice",
    "name": "Inheriting",
    "as": "the heirloom with the widest gap between what it means and what it fetches",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การสืบทอดเครื่องราง",
+   "as_th": ""
   },
   {
    "from": "barkhor-lhasa",
    "type": "place",
    "name": "The Barkhor",
    "as": "the agate Tibetans hold as a hereditary gem, not a purchase; Lhasa is the city it is priced in",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "บาร์คอร์",
+   "as_th": ""
   },
   {
    "from": "kathmandu-thamel",
    "type": "place",
    "name": "Thamel",
    "as": "the Himalayan agate a shop here will offer and a Tibetan family would not sell; the difference is the whole argument",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ทาเมล",
+   "as_th": ""
   },
   {
    "from": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the bead where three different things all get called fake, and the distinctions matter to price",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ตลาดของปลอม",
+   "as_th": "ลูกปัดที่ของสามอย่างซึ่งต่างกันล้วนถูกเรียกว่าของปลอม และความต่างนั้นมีผลต่อราคา"
   }
  ]
 }

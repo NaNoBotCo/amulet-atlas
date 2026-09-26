@@ -9,7 +9,8 @@
    "Sir Flinders Petrie",
    "W. M. F. Petrie"
   ],
-  "sort": "Petrie, Flinders"
+  "sort": "Petrie, Flinders",
+  "th": "ฟลินเดอร์ส พีทรี"
  },
  "region": [
   "ancient-egypt",
@@ -33,6 +34,9 @@
   "what": "English Egyptologist, 1853–1942, who dug Egypt for half a century and sorted what came out of it. He held the first chair of Egyptology in the United Kingdom, at University College London, and in 1914 published a catalogue of amulets that arranged them into classes museums still shelve by. He also argued for eugenics in print, and the same books that fixed the amulet classes carry that argument.",
   "story": "Petrie taught himself to survey before he could vote. At nineteen he produced the most accurate survey of Stonehenge then made; in 1880 he went to Giza to measure the pyramids and found the place, in his words, \"a house on fire, so rapid was the destruction\". He called his own job that of a \"salvage man\".\n\nFrom November 1884 he dug almost continuously — Tanis, Tell Nebesheh, the Fayum, Amarna from 1891, Tell el-Hesi in Palestine in 1890, the Merneptah stele at Luxor in 1896, the Proto-Sinaitic inscriptions at Serabit el-Khadim in the winter of 1904–5. He cut the foreman out of his digs and paid the workmen direct, which he said stopped finds being pulled out fast and sloppily. In 1904 he set the method down in Methods and Aims in Archaeology. In 1913 he sold his Egyptian collection to University College London, where it is the Petrie Museum.\n\nThe amulet book is the one this atlas leans on. Amulets: illustrated by the Egyptian collection in University College, London, Constable, 1914, runs to 190 pages and sorts the material by what Petrie took the object to be doing — amulets of power, of property, protective amulets, the human-headed gods, the animal gods, the properties of stones. *Inference —* a museum drawer labelled by function rather than by find-spot is a drawer laid out on that scheme, and a visitor reading a case label in London, New York or Cairo is usually reading Petrie's categories at one remove.\n\nThe other half of the record is dated too. Petrie has been denounced for his pro-eugenics views; he was a dedicated believer in the superiority of the Northern peoples over the Latinate and Southern peoples, and he put the argument into his 1906 series Question of the day, blaming England's social problems on racial degeneration. It ran into his Egyptology: he held that Egyptian civilisation came from an invading \"Dynastic Race\" that conquered what he called in 1895 an \"inferior, exhausted mulatto\" population. E. A. Wallis Budge argued against him that Egyptian religion was of a piece with the religions of northeastern and central Africa; most of their colleagues at the time sided with Petrie.",
   "today": "The Petrie Museum at University College London holds the excavated amulet series he sold it in 1913. UCL marked the centenary of his 1923 knighthood by asking, in its own words, \"Between investigations on eugenics, decolonial practice, and calls for repatriation, what has become of Flinderella?\" *Inference —* both halves of him are still in the room: the typology is working equipment, and the racial theory it was written beside is now the subject of the museum's own labels."
+ },
+ "text_th": {
+  "what": "นักอียิปต์วิทยาชาวอังกฤษ (ค.ศ. 1853–1942) ผู้ขุดค้นในอียิปต์นานครึ่งศตวรรษ และจัดระเบียบสิ่งที่ขุดได้ เขาดำรงตำแหน่งศาสตราจารย์ด้านอียิปต์วิทยาคนแรกของสหราชอาณาจักร ที่ยูนิเวอร์ซิตีคอลเลจลอนดอน และใน ค.ศ. 1914 ได้ตีพิมพ์บัญชีรายการเครื่องรางที่จัดเครื่องรางเป็นหมวดหมู่ ซึ่งพิพิธภัณฑ์ยังใช้จัดเก็บอยู่จนทุกวันนี้ เขายังเขียนสนับสนุนสุพันธุศาสตร์ไว้ในงานตีพิมพ์ และหนังสือชุดเดียวกับที่วางหมวดหมู่เครื่องรางก็มีข้อโต้แย้งนั้นอยู่ด้วย"
  },
  "dating": {
   "period": "Victorian and early twentieth century",
@@ -165,56 +169,72 @@
    "type": "amulet",
    "name": "Wedjat eye",
    "as": "one of the classes his 1914 catalogue fixed, and the amulet his excavations turned up by the thousand",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ตาเวดจัต (ดวงตาแห่งฮอรัส)",
+   "as_th": ""
   },
   {
    "to": "scarab",
    "type": "amulet",
    "name": "Scarab",
    "as": "the other Egyptian mass-produced amulet his sequence dating and his typology both had to handle",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สคารับ (ด้วงศักดิ์สิทธิ์อียิปต์)",
+   "as_th": ""
   },
   {
    "to": "egyptian-amulet-craft",
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "the tradition he catalogued; his class names are the ones the shelving still uses",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   },
   {
    "to": "petrie-amulet-plates",
    "type": "art",
    "name": "Petrie's amulet plates",
    "as": "the plates from his 1914 book, and the reason a museum drawer looks the way it does",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "แผ่นภาพเครื่องรางของพีทรี",
+   "as_th": ""
   },
   {
    "to": "wallis-budge",
    "type": "person",
    "name": "E. A. Wallis Budge",
    "as": "his opponent on where Egyptian religion came from — Budge put it in Africa, Petrie in an invading race from outside",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "อี. เอ. วอลลิส บัดจ์",
+   "as_th": ""
   },
   {
    "to": "british-museum",
    "type": "org",
    "name": "The British Museum",
    "as": "the museum whose Egyptology he fought with, and where he showed the Fayum portraits he forced Cairo to give back",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์บริติช (บริติชมิวเซียม)",
+   "as_th": ""
   },
   {
    "to": "dating-a-charm",
    "type": "story",
    "name": "Dating a charm",
    "as": "the long read on how a charm gets a date; his pottery seriation is where the method starts",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การระบุอายุเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "the practice his cemeteries recorded — over seventeen cemeteries between Hu and Abadiya alone",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -307,84 +327,108 @@
    "type": "amulet",
    "name": "Scarab",
    "as": "the excavator whose sequence work made a scarab something you could date a layer with",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "สคารับ (ด้วงศักดิ์สิทธิ์อียิปต์)",
+   "as_th": ""
   },
   {
    "from": "wedjat-eye",
    "type": "amulet",
    "name": "Wedjat eye",
    "as": "the excavator who sorted Egypt's amulets into the classes museums still use",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "ตาเวดจัต (ดวงตาแห่งฮอรัส)",
+   "as_th": ""
   },
   {
    "from": "egyptian-amulet-craft",
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "the excavator whose classes museums still label by",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   },
   {
    "from": "scarab-sign",
    "type": "motif",
    "name": "The beetle",
    "as": "the excavator whose typology of scarabs is still how museums sort them",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "ด้วง (สคารับ)",
+   "as_th": ""
   },
   {
    "from": "faience",
    "type": "material",
    "name": "Faience",
    "as": "the excavator who sorted the moulded output into the classes museums still shelve it by",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "เฟยองซ์ (ควอตซ์เคลือบอียิปต์)",
+   "as_th": ""
   },
   {
    "from": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "the excavator whose cemetery work produced the amulet series museums still sort by",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "from": "met-egyptian-galleries",
    "type": "place",
    "name": "The Egyptian galleries, the Metropolitan Museum of Art",
    "as": "the excavator whose method the museum's own Egyptian Expedition followed; he published plates, the Met kept galleries",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "ห้องจัดแสดงอียิปต์ พิพิธภัณฑ์ศิลปะเมโทรโพลิแทน",
+   "as_th": ""
   },
   {
    "from": "augustus-pitt-rivers",
    "type": "person",
    "name": "Augustus Pitt Rivers",
    "as": "his contemporary in method — both sorted by small differences, one in trenches, one in cases",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ออกัสตัส พิตต์ ริเวอร์ส",
+   "as_th": ""
   },
   {
    "from": "wallis-budge",
    "type": "person",
    "name": "E. A. Wallis Budge",
    "as": "his opponent: Petrie put Egyptian civilisation's origin in an invading race, Budge put it in Africa",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "อี. เอ. วอลลิส บัดจ์",
+   "as_th": ""
   },
   {
    "from": "petrie-amulet-plates",
    "type": "art",
    "name": "Petrie's amulet plates",
    "as": "the excavator who made these plates, and whose sorting is still the shape of a museum amulet drawer",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "แผ่นภาพเครื่องรางของพีทรี",
+   "as_th": ""
   },
   {
    "from": "dating-a-charm",
    "type": "story",
    "name": "Dating a charm",
    "as": "the excavator whose sequence dating is the ancestor of every excavated row here",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "การระบุอายุเครื่องราง",
+   "as_th": ""
   },
   {
    "from": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the other response to the same market — dig it before the dealers do",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "ตลาดของปลอม",
+   "as_th": "อีกวิธีหนึ่งที่ตอบสนองต่อตลาดเดียวกัน คือขุดค้นเสียก่อนที่พ่อค้าจะมาถึง"
   }
  ]
 }

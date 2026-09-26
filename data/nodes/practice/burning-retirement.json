@@ -13,7 +13,8 @@
    "daruma kuyō",
    "ritual burning",
    "o-takiage"
-  ]
+  ],
+  "th": "การเผาเครื่องรางเมื่อหมดวาระ"
  },
  "region": [
   "japan",
@@ -41,6 +42,9 @@
   "story": "Japan burns by the ten thousand on a date. Old ofuda and omamori are burnt at a ceremony called Sagichō or Dondoyaki, held at the Little New Year on 14 or 15 January, at the end of the New Year season. The reason given in the omamori literature is not tidiness: old omamori should not be discarded but burnt, as a sign of respect to the deity that helped the person through the year.\n\nDaruma dolls get their own fire. At the end of the year the dolls are brought back to the temple they came from for the daruma kuyō, held once a year and usually right after New Year's Day, most famously at Nishi-Arai Daishi in Tokyo and Dairyū-ji in Gifu. People express gratitude to the dolls, hand them over, buy new ones, and after the monks enter, read sutras and blow horns, tens of thousands of figures are set alight together.\n\nEma burn for a different reason. The small wooden plaques on which Shinto and Buddhist worshippers write a wish are hung at the shrine for the kami to receive and are then ritually burnt at special events, which the practice describes as symbolically liberating the wish into the world. Some are taken home and hung there instead, and still burnt at a ceremony later.\n\nTibetan practice puts it as a rule of respect: because the symbols and mantras on prayer flags are sacred, they should not be put on the ground or used on clothing, and old flags should be burnt. Korean practice burns at both ends of a rite. Before a gut, the altar is purified with fire and water, often by burning white paper for purity; at the close, the summoned spirits are sent off by burning name tags, the josang ot — clothes for ancestors — cloth, straw shoes and imitation money. Much modern ritual gear is made cheaply in South Korea precisely because it is going to be burnt. After a mudang's death, their musindo paintings were often de-animated and burnt through the twentieth century; some practitioners hold that the deity leaves the image when it is donated to a museum instead.\n\nEurope's version is less organised and often a choice. In Ireland, discarded Brigid's crosses were burned or buried, with burial preferred because of Brigid's associations with agriculture. In English folk practice a witch bottle could be thrown into a fire, and when it burst the spell was held to be broken.\n\n*Inference —* the museum problem lives here. A tradition that ends its objects in fire produces almost no old objects, so a drawer of surviving charms over-represents the traditions that bury, hide or inherit them. Japanese and Korean material in Western collections is largely material that escaped the fire.",
   "how": "Return the old object to the place that issued it, or gather it with others. Wait for the date. Burn them together, with clergy present in the Japanese and Korean cases. New objects are obtained at the same event.",
   "today": "Live and annual. Japanese shrines and temples run the January fires, accepting talismans from other shrines in practice, though Buddhist ofuda are often not accepted at Shinto shrines or the reverse. Korean gut still burn their paper and cloth at the close. Prayer-flag burning continues wherever the flags are flown."
+ },
+ "text_th": {
+  "what": "การจบชีวิตเครื่องรางด้วยไฟ อย่างตั้งใจและต่อหน้าผู้คน ยันต์เก่ากลับไปยังสถานที่ที่ออกให้ แล้วเผารวมกันในพิธีที่กำหนด แผ่นไม้อธิษฐานถูกเผาเพื่อปล่อยคำอธิษฐาน ธงมนตร์ที่เก่าแล้วถูกเผาแทนที่จะทิ้งลงถังขยะ อุปกรณ์ของหมอผี (ชามาน) ถูกเผาหลังพิธีที่ใช้มัน การเผาคือการกำจัด และก็เป็นการขอบคุณด้วย — หลายธรรมเนียมในที่นี้กล่าวว่าไฟเป็นสิ่งที่พึงมอบให้แก่วัตถุนั้น"
  },
  "dating": {
   "period": "documented in the modern period; the ceremonies are older than the dates cited here",

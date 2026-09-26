@@ -4,15 +4,31 @@
  "type": "person",
  "names": {
   "name": "Joseph Naveh",
-  "sort": "Naveh, Joseph"
+  "sort": "Naveh, Joseph",
+  "th": "โยเซฟ นาเวห์"
  },
- "region": ["levant", "mesopotamia"],
- "countries": ["IL", "IQ", "IR"],
- "facets": {"role": ["scholar", "excavator"]},
+ "region": [
+  "levant",
+  "mesopotamia"
+ ],
+ "countries": [
+  "IL",
+  "IQ",
+  "IR"
+ ],
+ "facets": {
+  "role": [
+   "scholar",
+   "excavator"
+  ]
+ },
  "text": {
   "what": "Israeli epigrapher and palaeographer, 1928–2011, who read the writing on the amulets. With Shaul Shaked he published the Aramaic texts of late antique metal amulet strips and of the clay incantation bowls — the objects buried upside down under house floors in Babylonia — in editions that print the text, the translation and the object together.",
   "story": "Naveh was born in Mukachevo, then Czechoslovakia, on 21 January 1928. He worked for the Israel Department of Antiquities from 1955 to 1971 and was a district archaeologist from 1958, then taught in the Department of Ancient Semitic Languages at the Hebrew University of Jerusalem from 1971 to 1991. His field was West Semitic epigraphy: the shapes of letters, and what the shapes date.\n\nThat is the skill the amulet material needs. A rolled silver or bronze lamella and a bowl written in a spiral both carry script and nothing else datable — no stratigraphy in a bowl bought on a market, no style in a thin strip of metal. \"The Development of the Aramaic Script\", his 1970 dissertation, and \"Early History of the Alphabet\", 1997, are the tools; the amulet volumes are what he used them on.\n\nWith Shaked he produced \"Amulets and Magic Bowls: Aramaic Incantations of Late Antiquity\" and then \"Magic Spells and Formulae\" in 1993. *Inference —* the dating in this atlas for any Aramaic amulet or bowl rests on that letter-by-letter work, whether or not the record says so.\n\nHe was elected to the Israel Academy of Sciences and Humanities in 1994. He died on 21 November 2011.",
   "today": "The bowls keep arriving on the antiquities market without find-spots, which is the reason his palaeography stays load-bearing and also the reason the objects are contested. This project has not read a published provenance study of the bowl corpus and does not assert what share of it was excavated."
+ },
+ "text_th": {
+  "what": "นักจารึกศาสตร์และนักอักขรวิทยาโบราณชาวอิสราเอล (ค.ศ. 1928–2011) ผู้อ่านข้อความบนเครื่องราง เขาร่วมกับชาอูล ชาเคด (Shaul Shaked) ตีพิมพ์ข้อความภาษาอราเมอิกบนแผ่นโลหะเครื่องรางสมัยปลายยุคโบราณ และบนชามคาถาดินเผา — วัตถุที่ฝังคว่ำไว้ใต้พื้นบ้านในบาบิโลเนีย — ในฉบับที่พิมพ์ข้อความ คำแปล และตัววัตถุไว้ด้วยกัน"
  },
  "dating": {
   "period": "Twentieth century",
@@ -25,23 +41,68 @@
   "source": "s:web-joseph-naveh-wikipedia"
  },
  "kin": [
-  {"to": "incantation-bowl", "as": "the object he and Shaked edited — text, translation and bowl printed together", "rel": "kin"},
-  {"to": "shaul-shaked", "as": "his co-author on the Aramaic amulet and bowl editions, over roughly three decades", "rel": "person"},
-  {"to": "ketef-hinnom-scrolls", "as": "the rolled silver amulet strip from Jerusalem — the object class his palaeography dates", "rel": "kin"},
-  {"to": "jewish-practical-kabbalah", "as": "the later tradition these late antique Aramaic texts sit behind", "rel": "tradition"},
-  {"to": "divine-name", "as": "the sign his editions are mostly reading: the names written into the bowls and strips", "rel": "motif"},
-  {"to": "silver", "as": "the metal the rolled amulet strips are beaten from, and the reason their text survives at all", "rel": "material"},
-  {"to": "inscribing", "as": "the practice his whole method addresses — what was written, in which hand, and when", "rel": "practice"}
+  {
+   "to": "incantation-bowl",
+   "as": "the object he and Shaked edited — text, translation and bowl printed together",
+   "rel": "kin"
+  },
+  {
+   "to": "shaul-shaked",
+   "as": "his co-author on the Aramaic amulet and bowl editions, over roughly three decades",
+   "rel": "person"
+  },
+  {
+   "to": "ketef-hinnom-scrolls",
+   "as": "the rolled silver amulet strip from Jerusalem — the object class his palaeography dates",
+   "rel": "kin"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "as": "the later tradition these late antique Aramaic texts sit behind",
+   "rel": "tradition"
+  },
+  {
+   "to": "divine-name",
+   "as": "the sign his editions are mostly reading: the names written into the bowls and strips",
+   "rel": "motif"
+  },
+  {
+   "to": "silver",
+   "as": "the metal the rolled amulet strips are beaten from, and the reason their text survives at all",
+   "rel": "material"
+  },
+  {
+   "to": "inscribing",
+   "as": "the practice his whole method addresses — what was written, in which hand, and when",
+   "rel": "practice"
+  }
  ],
  "links": [
-  {"label": "Joseph Naveh — Wikipedia", "url": "https://en.wikipedia.org/wiki/Joseph_Naveh"}
+  {
+   "label": "Joseph Naveh — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Joseph_Naveh"
+  }
  ],
- "sources": ["s:web-joseph-naveh-wikipedia", "s:wp-incantation-bowl", "s:wp-ketef-hinnom"],
+ "sources": [
+  "s:web-joseph-naveh-wikipedia",
+  "s:wp-incantation-bowl",
+  "s:wp-ketef-hinnom"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:web-joseph-naveh-wikipedia"},
+  "default": {
+   "tier": "cited",
+   "source": "s:web-joseph-naveh-wikipedia"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:web-joseph-naveh-wikipedia", "note": "the publication year of the Amulets and Magic Bowls volume is given as 1985 in one encyclopaedia entry and 1987 in another; this record names no year for it because the two disagree and neither was checked against the book"},
-   "text.today": {"tier": "inference", "note": "the market observation is reasoned from the literature, not from a provenance survey"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-joseph-naveh-wikipedia",
+    "note": "the publication year of the Amulets and Magic Bowls volume is given as 1985 in one encyclopaedia entry and 1987 in another; this record names no year for it because the two disagree and neither was checked against the book"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "the market observation is reasoned from the literature, not from a provenance survey"
+   }
   }
  },
  "images": [],

@@ -11,7 +11,8 @@
   "aliases": [
    "sprig of rue",
    "cima di ruta"
-  ]
+  ],
+  "th": "ชีมารูตา (กิ่งต้นรูเครื่องรางอิตาลี)"
  },
  "etymology": {
   "root": "Neapolitan cimaruta, from Italian cima di ruta, 'sprig of rue' — cima 'top, tip' plus ruta, the flowering medicinal herb the whole charm is shaped as.",
@@ -41,6 +42,9 @@
   "story": "The cimaruta is worn round the neck or hung above an infant's bed, and what it is hung against is named in Italian: mal'occhio, the evil eye. Which charms go on the branches varies by region of origin, and the form is particularly associated with southern Italy.\n\nThe piece has been studied as a structure rather than as a symbol. R. T. Günther published \"The Cimaruta: Its Structure and Development\" in Folk-lore in 1905, working on how the branches and their charms are put together and how that arrangement changed.\n\nThere is a live argument about whose object it is. Some practitioners of the neopagan religion of witchcraft called Stregoneria or Stregheria treat the cimaruta as a survival of an older Italian magic tradition, of the kind Charles Leland described in his 1899 Aradia, or the Gospel of the Witches, which claimed a pagan witch-cult still active in Italy. Raven Grimassi, in The Cimaruta: And Other Magical Charms from Old Italy (2012), argues the cimaruta was originally a witches' charm, a sign of membership in what he calls the Society of Diana, later taken over by Italian folk magic, with Christian symbols added to the original pagan ones. Wikipedia's own account of the same material describes the cimaruta as alleged to be in borrowed use among self-identified Italian-American witches, which is a different claim about the same objects. This atlas reports both and settles neither; what is not in dispute is that the charm is worn in southern Italy and by descendants of Italian emigrants, against the eye, and that some of its branches carry Christian imagery.",
   "how": "Cast, commonly in silver, as a single piece: stalk, branches, and the charms that terminate them. Some modern versions are cast in bronze or pewter. Worn on a cord or chain at the neck, or hung over the bed of a child too young to wear one.",
   "today": "Still cast and sold, in Italy and in the Italian-American market, in silver and in cheaper alloys, and sold alongside books that make the Stregheria claim for it. *Inference —* the object's present-day buyers are not the same population as its nineteenth-century wearers, and the argument recorded above is mostly an argument between the two."
+ },
+ "text_th": {
+  "what": "กิ่งต้นรู (rue) ทำด้วยเงิน ปลายกิ่งแต่ละกิ่งมีเครื่องราง กิ่งแผ่ออกจากก้านกลาง และแต่ละกิ่งผลิเป็นของต่างกัน ได้แก่ ดอกกุหลาบ มือถือคทาหรือดาบ หัวใจลุกเป็นไฟ ปลา พระจันทร์เสี้ยว งู นกฮูก หมวกเหล็กยุคกลางประดับขนนก ดอกเวอร์บีนา (vervain) ปลาโลมา ไก่ตัวผู้ นกอินทรี ชีมารูตาชิ้นหนึ่งอาจมีเพียงกุญแจ กริช ดอกไม้ และพระจันทร์ ไม่มีอื่นอีก ส่วนใหญ่ทำสองหน้าและค่อนข้างใหญ่ บางชิ้นกว้างเกือบสี่นิ้ว"
  },
  "dating": {
   "period": "Documented from the turn of the twentieth century",
@@ -222,84 +226,108 @@
    "type": "amulet",
    "name": "Cornicello",
    "as": "the other Italian answer to the same eye, and the one that says it with a single shape instead of a dozen",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คอร์นิเชลโล (เขานำโชคอิตาลี)",
+   "as_th": ""
   },
   {
    "to": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "the harm this charm is aimed at, stated in its own language as mal'occhio",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "hand",
    "type": "motif",
    "name": "The hand",
    "as": "one of the charms on its branches — a hand holding a wand or a sword — and a sign that stands alone elsewhere in this atlas",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "มือ",
+   "as_th": ""
   },
   {
    "to": "serpent",
    "type": "motif",
    "name": "The serpent",
    "as": "the snake on one branch; the cimaruta is the rare amulet that stacks signs rather than choosing one",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "งู",
+   "as_th": ""
   },
   {
    "to": "crescent",
    "type": "motif",
    "name": "The crescent",
    "as": "the moon on another branch, doing in miniature what a lunula does on its own cord",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "พระจันทร์เสี้ยว",
+   "as_th": ""
   },
   {
    "to": "key",
    "type": "motif",
    "name": "The key",
    "as": "another of the terminal charms, and one that carries its own meanings across Europe",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "กุญแจ",
+   "as_th": ""
   },
   {
    "to": "silver",
    "type": "material",
    "name": "Silver",
    "as": "the metal it is nearly always cast in, and the metal Naples associates with the moon",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เงิน (โลหะเงิน)",
+   "as_th": ""
   },
   {
    "to": "herb",
    "type": "material",
    "name": "Herb and root",
    "as": "what it is a portrait of: rue, a medicinal plant, reproduced in metal so it never wilts",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "สมุนไพรและรากไม้",
+   "as_th": ""
   },
   {
    "to": "lunula",
    "type": "amulet",
    "name": "Lunula",
    "as": "the older Italian charm hung on a child, and the one this atlas dates properly",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ลูนูลา (จี้พระจันทร์เสี้ยวโรมัน)",
+   "as_th": ""
   },
   {
    "to": "san-gregorio-armeno",
    "type": "place",
    "name": "Via San Gregorio Armeno",
    "as": "the Naples street where charms of this kind are still cast and sold",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ถนนซานเกรโกริโออาร์เมโน",
+   "as_th": ""
   },
   {
    "to": "frederick-elworthy",
    "type": "person",
    "name": "Frederick Thomas Elworthy",
    "as": "the Victorian who travelled Italy and Spain collecting charms against the eye and published on them in 1895",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "เฟรเดอริก โทมัส เอลเวิร์ที",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read the Stregheria argument belongs in: who a folk object belongs to once a revival claims it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -448,77 +476,99 @@
    "type": "amulet",
    "name": "Cornicello",
    "as": "the other Italian charm against malocchio, which puts a dozen signs on one branch where this one puts one",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คอร์นิเชลโล (เขานำโชคอิตาลี)",
+   "as_th": ""
   },
   {
    "from": "crescent",
    "type": "motif",
    "name": "The crescent",
    "as": "the Neapolitan silver sprig that grows a crescent moon on one of its branches",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "พระจันทร์เสี้ยว",
+   "as_th": ""
   },
   {
    "from": "fish",
    "type": "motif",
    "name": "The fish",
    "as": "one of the shapes that sprouts from the Neapolitan silver sprig is a fish",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ปลา",
+   "as_th": ""
   },
   {
    "from": "horn",
    "type": "motif",
    "name": "The horn",
    "as": "the Neapolitan silver sprig that hangs a crescent and a snake and a key on one stalk",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เขา (คอร์นิเชลโล)",
+   "as_th": ""
   },
   {
    "from": "key",
    "type": "motif",
    "name": "The key",
    "as": "the compound charm that carries a key alongside a dagger, a blossom and a moon",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กุญแจ",
+   "as_th": ""
   },
   {
    "from": "serpent",
    "type": "motif",
    "name": "The serpent",
    "as": "the Neapolitan silver sprig that grows a snake on one of its branches, beside a key and a crescent",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "งู",
+   "as_th": "กิ่งเงินแบบเนเปิลส์ที่มีงูงอกออกมาบนกิ่งหนึ่ง ข้างกุญแจและพระจันทร์เสี้ยว"
   },
   {
    "from": "herb",
    "type": "material",
    "name": "Herb and root",
    "as": "a sprig of rue cast in silver: the plant kept as a shape once the plant itself had rotted",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "สมุนไพรและรากไม้",
+   "as_th": ""
   },
   {
    "from": "silver",
    "type": "material",
    "name": "Silver",
    "as": "a sprig of rue cast in silver — the herb made permanent by changing what it is made of",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เงิน (โลหะเงิน)",
+   "as_th": ""
   },
   {
    "from": "pitt-rivers-charms",
    "type": "place",
    "name": "The amulet and charm cases, Pitt Rivers Museum",
    "as": "the Neapolitan silver sprig the guide singles out, made against the malocchio and always of silver",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ตู้เครื่องรางและของขลัง พิพิธภัณฑ์พิตต์ริเวอร์ส",
+   "as_th": ""
   },
   {
    "from": "san-gregorio-armeno",
    "type": "place",
    "name": "Via San Gregorio Armeno",
    "as": "the other Neapolitan silver charm, a sprig of rue hung with signs",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ถนนซานเกรโกริโออาร์เมโน",
+   "as_th": ""
   },
   {
    "from": "frederick-elworthy",
    "type": "person",
    "name": "Frederick Thomas Elworthy",
    "as": "one of the Italian charms his fieldwork put into English print",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เฟรเดอริก โทมัส เอลเวิร์ที",
+   "as_th": ""
   }
  ]
 }

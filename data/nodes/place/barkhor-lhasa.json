@@ -8,15 +8,33 @@
   "script": "Tibetan",
   "lang": "bo",
   "said": "bar-KOR; Wylie bar-skor",
-  "aliases": ["Barkhor Street", "Bakuo", "Pargor"]
+  "aliases": [
+   "Barkhor Street",
+   "Bakuo",
+   "Pargor"
+  ],
+  "th": "บาร์คอร์"
  },
- "region": ["himalaya-tibet"],
- "countries": ["CN"],
- "facets": {"kind": "market", "hemisphere": ["N", "E"]},
+ "region": [
+  "himalaya-tibet"
+ ],
+ "countries": [
+  "CN"
+ ],
+ "facets": {
+  "kind": "market",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "A ring of street about a kilometre round, circling the Jokhang temple in the old city of Lhasa. It is at once the city's commercial centre and a circuit walked as devotion. Traffic goes one way, clockwise, and some of the people on it are not walking but measuring the ring out in full-body prostrations.",
   "story": "The circuit came from the temple. Songtsen Gampo and Princess Wencheng led the move to Lhasa and built the Jokhang; people began to turn around the temple, and the path their feet wore became a road. That road is one of the three circumambulation routes of Lhasa — the others are the Lingkhor and the Woesor — and it is the oldest street in the city, dated in origin to the 7th century CE and still carrying the plan of the old town.\n\nTibetans call it the holy road. The direction is not decorative: you walk with the turning of the prayer cylinder, which is to say clockwise, right shoulder to the temple.\n\nThe street is also the busiest commercial one in the old city. *Inference —* the objects this atlas is about are made and worn across this region — the agate dzi bead, the amulet box at the throat, the printed cloth flag — but no source read for this record itemises a Barkhor stall, and this record does not furnish one. On the street's present policing and regulation this atlas has read nothing it can cite, and it does not speculate.",
   "today": "In use as both a market street and a kora, on the published accounts this project has read. No day is marked open or closed below."
+ },
+ "text_th": {
+  "what": "ถนนวงแหวนยาวรอบราวหนึ่งกิโลเมตร ล้อมรอบวัดโจคังในเมืองเก่าของลาซา เป็นทั้งย่านการค้าใจกลางเมืองและเส้นทางเดินเพื่อการบูชา การสัญจรไปทางเดียวตามเข็มนาฬิกา และบางคนบนเส้นทางนี้ไม่ได้เดิน แต่วัดระยะวงแหวนทั้งรอบด้วยการกราบทอดตัวลงเต็มร่าง"
  },
  "dating": {
   "period": "Tibetan imperial to the present",
@@ -30,32 +48,103 @@
   "source": "s:wp-barkhor",
   "note": "The article dates the street's origin to the 7th century CE; from_year is the opening of that century, not a precise foundation."
  },
- "geo": {"lat": 29.653056, "lon": 91.132222, "precision": "street", "source": "hand-placed on the Jokhang, using Wikidata item Q735914 (Jokhang), coordinate location P625, queried 2026-09-16; the Barkhor is the ring around that temple"},
- "address": {"street": "Barkhor East, South, West and North Streets", "city": "Lhasa", "admin": "Tibet Autonomous Region", "country": "CN"},
+ "geo": {
+  "lat": 29.653056,
+  "lon": 91.132222,
+  "precision": "street",
+  "source": "hand-placed on the Jokhang, using Wikidata item Q735914 (Jokhang), coordinate location P625, queried 2026-09-16; the Barkhor is the ring around that temple"
+ },
+ "address": {
+  "street": "Barkhor East, South, West and North Streets",
+  "city": "Lhasa",
+  "admin": "Tibet Autonomous Region",
+  "country": "CN"
+ },
  "kin": [
-  {"to": "tibetan-protection", "as": "the tradition whose objects this circuit's walkers carry", "rel": "tradition"},
-  {"to": "gau-box", "as": "the amulet case worn at the throat on this plateau, holding what a lama has given", "rel": "carries"},
-  {"to": "dzi-bead", "as": "the agate Tibetans hold as a hereditary gem, not a purchase; Lhasa is the city it is priced in", "rel": "carries"},
-  {"to": "sungkhor", "as": "the folded protection-wheel a monastery issues, which is what a pilgrim on this ring is likeliest to be carrying", "rel": "carries"},
-  {"to": "lungta-flag", "as": "the wind horse printed on cloth, replaced across Tibet at the new year", "rel": "carries"},
-  {"to": "counting-beads", "as": "the practice the circuit is walked with, one round of the ring to one round of the string", "rel": "practice"},
-  {"to": "kathmandu-thamel", "as": "the market on the other side of the Himalaya, where the same objects are sold mostly to outsiders", "rel": "contrast"}
+  {
+   "to": "tibetan-protection",
+   "as": "the tradition whose objects this circuit's walkers carry",
+   "rel": "tradition"
+  },
+  {
+   "to": "gau-box",
+   "as": "the amulet case worn at the throat on this plateau, holding what a lama has given",
+   "rel": "carries"
+  },
+  {
+   "to": "dzi-bead",
+   "as": "the agate Tibetans hold as a hereditary gem, not a purchase; Lhasa is the city it is priced in",
+   "rel": "carries"
+  },
+  {
+   "to": "sungkhor",
+   "as": "the folded protection-wheel a monastery issues, which is what a pilgrim on this ring is likeliest to be carrying",
+   "rel": "carries"
+  },
+  {
+   "to": "lungta-flag",
+   "as": "the wind horse printed on cloth, replaced across Tibet at the new year",
+   "rel": "carries"
+  },
+  {
+   "to": "counting-beads",
+   "as": "the practice the circuit is walked with, one round of the ring to one round of the string",
+   "rel": "practice"
+  },
+  {
+   "to": "kathmandu-thamel",
+   "as": "the market on the other side of the Himalaya, where the same objects are sold mostly to outsiders",
+   "rel": "contrast"
+  }
  ],
  "tags": [
-  {"tag": "market", "source": "s:wp-barkhor", "tier": "cited", "note": "named as the commercial centre and busiest street of the old city of Lhasa"},
-  {"tag": "pilgrimage", "source": "s:wp-barkhor", "tier": "cited", "note": "one of the three circumambulation routes of Lhasa; walkers prostrate along it, and Tibetans call it the holy road"}
+  {
+   "tag": "market",
+   "source": "s:wp-barkhor",
+   "tier": "cited",
+   "note": "named as the commercial centre and busiest street of the old city of Lhasa"
+  },
+  {
+   "tag": "pilgrimage",
+   "source": "s:wp-barkhor",
+   "tier": "cited",
+   "note": "one of the three circumambulation routes of Lhasa; walkers prostrate along it, and Tibetans call it the holy road"
+  }
  ],
- "links": [{"label": "Barkhor — Wikipedia", "url": "https://en.wikipedia.org/wiki/Barkhor"}],
- "sources": ["s:wp-barkhor", "s:wp-dzi-bead", "s:wp-prayer-flag", "s:wp-tibetan-buddhism"],
+ "links": [
+  {
+   "label": "Barkhor — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Barkhor"
+  }
+ ],
+ "sources": [
+  "s:wp-barkhor",
+  "s:wp-dzi-bead",
+  "s:wp-prayer-flag",
+  "s:wp-tibetan-buddhism"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-barkhor"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-barkhor"
+  },
   "fields": {
-   "geo": {"tier": "harvested", "note": "Wikidata P625 for the Jokhang, queried 2026-09-16, because the ring itself has no published point; the circuit runs about 1,000 m around that building"},
-   "text.story": {"tier": "cited", "source": "s:wp-barkhor", "note": "the trade in specific objects is not sourced to this street and is marked as inference where it appears"}
+   "geo": {
+    "tier": "harvested",
+    "note": "Wikidata P625 for the Jokhang, queried 2026-09-16, because the ring itself has no published point; the circuit runs about 1,000 m around that building"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-barkhor",
+    "note": "the trade in specific objects is not sourced to this street and is marked as inference where it appears"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Barkhor Street Lhasa.jpg", "File:Jokhang Temple Lhasa.jpg"],
+ "x_commons_files": [
+  "File:Barkhor Street Lhasa.jpg",
+  "File:Jokhang Temple Lhasa.jpg"
+ ],
  "confidence": "medium",
  "needs_verification": true,
  "updated": "2026-09-16"

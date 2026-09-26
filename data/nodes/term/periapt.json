@@ -12,7 +12,8 @@
    "periapta",
    "periapte",
    "períapton"
-  ]
+  ],
+  "th": "เพริแอปต์ (เครื่องรางแขวนคอ)"
  },
  "etymology": {
   "root": "Greek peri- 'around' + haptos (ἅπτος) 'fastened' > períaptos 'hung round' > períapton (περίαπτον) 'amulet' > Middle French periapte > English periapt",
@@ -39,6 +40,9 @@
  "text": {
   "what": "An English word for an amulet worn hung round the neck, defined by the hanging rather than by the shape or the material. It is close to dead. It survives in antiquarian writing, in medical history, and in translations out of Greek, where the plural periapta sits in the ancient list of protective objects.",
   "story": "The Greek says what it is: períaptos, hung round. Not carved, not blessed, not written — fastened on. Ancient Greek sources list periapta among apotropaia, probaskania, periammata, phylaktiria and the rest, none of them the single dominant term.\n\nThe English quotations Wiktionary carries are all of a type. Walter Scott, in The Talisman in 1825, writes that the Persians were perhaps most remarkable for their unshaken credulity in amulets, spells, periapts and similar charms. Thomas Oswald Cockayne, in Leechdoms, Wortcunning, and Starcraft in 1864, records that the occipital bone of an ass's head in a skin is also a good periapt. Charles William King's The Natural History of Precious Stones of 1867 distinguishes a decoration from a periapt, for it was suspended round his neck by golden chains. Fielding H. Garrison's An Introduction to the History of Medicine of 1921 has a formula that became a charm for intractable haemorrhage, written on the part affected or worn as a periapt.\n\n*Inference —* the word survived exactly where the Greek did — in the Victorian antiquarian's English, and in the vocabulary of men writing about other people's practices at a distance. It never made it onto a shop sign.\n\n*Tradition holds —* the distinction the word preserves is worth keeping even if the word is not: an object that hangs is a different object from one sewn in, buried under a threshold or nailed to a door, and every one of those is in this atlas."
+ },
+ "text_th": {
+  "what": "คำภาษาอังกฤษสำหรับเครื่องรางที่ห้อยคอ นิยามด้วยการห้อย ไม่ใช่ด้วยรูปทรงหรือวัสดุ คำนี้แทบตายแล้ว ยังคงอยู่ในงานเขียนของนักศึกษาโบราณวัตถุ ในประวัติศาสตร์การแพทย์ และในงานแปลจากภาษากรีก ซึ่งรูปพหูพจน์ เพริแอปตา (periapta) ปรากฏอยู่ในรายชื่อวัตถุคุ้มครองสมัยโบราณ"
  },
  "dating": {
   "from_year": 1500,

@@ -10,7 +10,8 @@
    "heirloom charm",
    "taonga tuku iho"
   ],
-  "said": "the charm outlives its owner"
+  "said": "the charm outlives its owner",
+  "th": "การสืบทอดเครื่องราง"
  },
  "region": [
   "island-sea",
@@ -42,6 +43,9 @@
   "story": "Java files the inherited blade under a word of its own. A kris is revered as tosan aji, sacred heirloom weapon, and counted a pusaka. Heirloom blades were handed down through successive generations and worn at weddings and other ceremonies; a fighter might carry three — his own, one from his father-in-law and one that was the family's. A pusaka kris given by a Javanese king to a noble or a subject stood for the king's confidence in the receiver and counted as a great honour. When Prince Diponegoro was defeated and detained at the end of the Java War and had to hand his kris to the Dutch in 1830, the event marked the disarming of the kris among the Javanese populace; its ceremonial life as heirloom and personal amulet continued.\n\nFiji keeps its whale teeth out of the market on purpose. Tabua are not sold, but traded as gifts at weddings, birthdays and funerals, and were traditionally given for atonement or esteem in sevusevu and in negotiations between rival chiefs. Age shows on them: contact with the oils in human hands darkens the tooth. The law now constrains the handing on — removal from Fiji is capped at 225 exports a year, requires permits from the Ministry of iTaukei Affairs and CITES papers, and in 2007 New Zealand returned 146 tabua seized for lacking valid export permits.\n\nMāori hei-tiki pass through the ground. Hei-tiki are taonga, treasures, usually of pounamu, and Horatio Gordon Robley recorded two main readings of them: memorials to ancestors, or representations of Hineteiwaiwa, goddess of childbirth. Under the first, they were often buried when their kaitiaki — their guardian — died, and retrieved later to be kept somewhere special and brought out at tangihanga. Under the second, a hei-tiki was often given to a woman by her husband's family when she was having trouble conceiving.\n\nRome is the counter-case. A freeborn Roman boy wore his bulla until he came of age, and before putting on the toga virilis he placed it in the care of the household gods, the Lares. It went sideways into the house's keeping, not down to a son.\n\n*Inference —* inheritance and the market pull against each other in every one of these cases, and the pull is visible in prices. Ancient dzi beads reach hundreds of thousands of US dollars, with beads carrying more eyes and the iron-inclusion marks called bloodspots worth more; new dzi run from about ten to two thousand US dollars depending on quality and lustre. An object that can be inherited can be sold, and the rules that make inheriting possible — who may receive, from whom — are exactly the rules a sale breaks.",
   "how": "By the tradition's own rule: down a male line, from a father-in-law at a marriage, from a king to a subject, out of the ground after a guardian's death, or as a gift at a funeral. Several traditions attach maintenance to receipt — a kris inherited is a kris that has to be cleaned yearly.",
   "today": "Live, and regulated. Tabua move within Fiji as gifts and across borders only with permits. Kris are worn as part of Javanese ceremonial dress and kept as family pusaka. Dzi beads are traded at high prices alongside machine-made copies sold by the strand for less than two US dollars, which the trade distinguishes by whether the decoration penetrates the bead's core."
+ },
+ "text_th": {
+  "what": "เครื่องรางที่ส่งต่อจากคนหนึ่งไปสู่อีกคน และมีน้ำหนักมากขึ้นเมื่อผ่านไป วัตถุยังคงเป็นชิ้นเดิม สิ่งที่เปลี่ยนคือตอนนี้มันแบกสายของผู้คนไว้ด้วย ธรรมเนียมที่สืบทอดเครื่องรางมักมีกฎว่าใครรับได้ ซึ่งเป็นสิ่งที่แยกของมรดกออกจากของมือสองที่ซื้อมา"
  },
  "dating": {
   "period": "nineteenth century to the present in the dated cases; older in each tradition's own account",
@@ -256,63 +260,81 @@
    "type": "amulet",
    "name": "Keris pusaka",
    "as": "the inherited object with its own legal word — tosan aji, pusaka, and a blade that comes with a yearly duty",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กริชปูซากา (กริชมรดก)",
+   "as_th": ""
   },
   {
    "to": "hei-tiki",
    "type": "amulet",
    "name": "Hei-tiki",
    "as": "the taonga that goes into the ground with its guardian and comes out again for mourning",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เฮย์ติกิ (จี้หยกเมารี)",
+   "as_th": ""
   },
   {
    "to": "dzi-bead",
    "type": "amulet",
    "name": "Dzi bead",
    "as": "the heirloom with the widest gap between what it means and what it fetches",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "หินดีซี (ลูกปัดทิเบต)",
+   "as_th": ""
   },
   {
    "to": "bulla",
    "type": "amulet",
    "name": "Bulla",
    "as": "the counter-case: handed to the household gods at manhood rather than to an heir",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "บุลลา (ล็อกเกตของเด็กชายโรมัน)",
+   "as_th": ""
   },
   {
    "to": "maori-taonga",
    "type": "tradition",
    "name": "Taonga Māori",
    "as": "the tradition whose word for treasure already contains the idea of handing on",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ตาองกาเมารี",
+   "as_th": ""
   },
   {
    "to": "te-papa-taonga",
    "type": "place",
    "name": "Mana Whenua, Te Papa",
    "as": "where inherited taonga sit when a museum holds them instead of a family",
-   "rel": "held-at"
+   "rel": "held-at",
+   "name_th": "มานาเฟนูอา ที่พิพิธภัณฑ์เตปาปา",
+   "as_th": ""
   },
   {
    "to": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "the upkeep an inherited blade carries — jamasan, the yearly cleaning",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   },
   {
    "to": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the practice inheritance is defined against, and the one that keeps testing its rules",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read that starts where an heirloom leaves the family",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -548,63 +570,81 @@
    "type": "amulet",
    "name": "Caul",
    "as": "the practice that kept these — a caul is handed down, or sold, never made",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "คอล (เยื่อคลุมหน้าทารกแรกเกิด)",
+   "as_th": ""
   },
   {
    "from": "challenge-coin",
    "type": "amulet",
    "name": "Challenge coin",
    "as": "what happens to a coin issued for a death, a fallen officer or a grave",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เหรียญชาเลนจ์คอยน์ (เหรียญประจำหน่วย)",
+   "as_th": ""
   },
   {
    "from": "hei-tiki",
    "type": "amulet",
    "name": "Hei-tiki",
    "as": "the practice that makes one: mana accumulates by passing between generations, not by carving",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เฮย์ติกิ (จี้หยกเมารี)",
+   "as_th": ""
   },
   {
    "from": "keris-pusaka",
    "type": "amulet",
    "name": "Keris pusaka",
    "as": "what makes it a pusaka: handed down through generations, worn at weddings, given by a king to mark his confidence",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "กริชปูซากา (กริชมรดก)",
+   "as_th": ""
   },
   {
    "from": "ongon",
    "type": "amulet",
    "name": "Ongon",
    "as": "how a yazguur ongon moves — down a lineage, with the house",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "องกอน",
+   "as_th": ""
   },
   {
    "from": "maori-taonga",
    "type": "tradition",
    "name": "Taonga Māori",
    "as": "the practice the word itself contains — a taonga gains mana as it passes from one generation to the next",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ตาองกาเมารี",
+   "as_th": ""
   },
   {
    "from": "jade",
    "type": "material",
    "name": "Jade",
    "as": "the practice that makes a jade object worth more than the stone in it",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "หยก",
+   "as_th": ""
   },
   {
    "from": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the practice this one is defined against, and the one whose rules a purchase keeps testing",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": "การปฏิบัติที่ระเบียนนี้นิยามตัวเองโดยเทียบกับมัน และเป็นการปฏิบัติที่การซื้อคอยทดสอบกฎของมันอยู่เสมอ"
   },
   {
    "from": "te-papa-taonga",
    "type": "place",
    "name": "Mana Whenua, Te Papa",
    "as": "the practice the word taonga tuku iho names: a treasure handed down, not a thing acquired",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "มานาเฟนูอา ที่พิพิธภัณฑ์เตปาปา",
+   "as_th": ""
   }
  ]
 }

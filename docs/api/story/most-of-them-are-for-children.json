@@ -8,7 +8,8 @@
    "the claim about infants",
    "testing the atlas against itself",
    "cradle charms"
-  ]
+  ],
+  "th": "ส่วนใหญ่ทำเพื่อเด็ก"
  },
  "region": [
   "world",
@@ -38,6 +39,9 @@
  },
  "text": {
   "what": "Somewhere in every general account of amulets sits a sentence saying that the largest single class of them, anywhere in the world, is protection for infants: the cradle charm, the jet fist pinned inside a Puerto Rican baby's shirt, the blue bead on a Turkish newborn's vest, the dwarf god at an Egyptian birth, the plaque nailed up against the demon who takes babies. This atlas carries that sentence in its own vocabulary file. This record tests it against the atlas's own records, reports what the count actually shows, and then says plainly what a count of this kind cannot show at all."
+ },
+ "text_th": {
+  "what": "ที่ใดที่หนึ่งในงานเขียนภาพรวมเรื่องเครื่องรางทุกเล่ม มักมีประโยคหนึ่งบอกว่า เครื่องรางกลุ่มเดียวที่ใหญ่ที่สุดไม่ว่าที่ใดในโลก คือเครื่องป้องกันสำหรับทารก ได้แก่ เครื่องรางแขวนเปล กำปั้นหินเจ็ตที่กลัดไว้ในเสื้อของทารกชาวเปอร์โตริโก ลูกปัดสีฟ้าบนเสื้อกั๊กของทารกแรกเกิดชาวตุรกี เทพแคระในการคลอดของชาวอียิปต์ แผ่นป้ายที่ตอกไว้กันปีศาจที่พรากทารก แอตลาสนี้มีประโยคนั้นอยู่ในแฟ้มคำศัพท์ของตัวเอง บันทึกนี้ทดสอบประโยคนั้นกับบันทึกของแอตลาสเอง รายงานว่าการนับแสดงอะไรจริง ๆ แล้วบอกตรง ๆ ว่าการนับแบบนี้แสดงอะไรไม่ได้เลย"
  },
  "sections": [
   {
@@ -236,70 +240,90 @@
    "type": "amulet",
    "name": "Lamashtu plaque",
    "as": "the oldest named answer in this class: a plaque against the demon the incantations say takes the unborn and the newly born",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "แผ่นเครื่องรางลามัชตู",
+   "as_th": ""
   },
   {
    "to": "bes-amulet",
    "type": "amulet",
    "name": "Bes amulet",
    "as": "the household god Egypt kept for children, in a religion whose state temples were doing something else entirely",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เครื่องรางเทพเบส",
+   "as_th": ""
   },
   {
    "to": "taweret-amulet",
    "type": "amulet",
    "name": "Taweret amulet",
    "as": "the other half of the Egyptian birth pair, for the mother as much as for the infant",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เครื่องรางเทพีทาเวเรต",
+   "as_th": ""
   },
   {
    "to": "bulla",
    "type": "amulet",
    "name": "Bulla",
    "as": "the Roman case with a date on it — put on a boy nine days after birth, and taken off at manhood",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "บุลลา (ล็อกเกตของเด็กชายโรมัน)",
+   "as_th": ""
   },
   {
    "to": "azabache",
    "type": "amulet",
    "name": "Azabache",
    "as": "the living case, with a survey, a price and a mother's own sentence behind it",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "อาซาบาเช (เครื่องรางหินเจ็ต)",
+   "as_th": ""
   },
   {
    "to": "ojo-de-venado",
    "type": "amulet",
    "name": "Ojo de venado",
    "as": "the same job in Mexico, put on a newborn by parents who say what it is for",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โอโฮ เด เวนาโด (ตากวาง)",
+   "as_th": ""
   },
   {
    "to": "nazar",
    "type": "amulet",
    "name": "Nazar",
    "as": "the form most of the world now pins to a baby's shirt, in glass",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "to": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "the sign behind most of this class — harm arrives by an admiring look, and the admired thing is usually somebody's child",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "the-eye-everywhere",
    "type": "story",
    "name": "The eye everywhere",
    "as": "the companion read, which follows the sign rather than the person it is put on",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ดวงตาทุกหนแห่ง",
+   "as_th": ""
   },
   {
    "to": "dating-a-charm",
    "type": "story",
    "name": "Dating a charm",
    "as": "the methods note for the other half of this problem — what the numbers on the timeline are and are not",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การระบุอายุเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -515,147 +539,189 @@
    "type": "amulet",
    "name": "Akua'ba",
    "as": "the long read it belongs to — a charm carried before the child exists",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "อาคัวบา (ตุ๊กตาไม้ของชาวอาคาน)",
+   "as_th": ""
   },
   {
    "from": "azabache",
    "type": "amulet",
    "name": "Azabache",
    "as": "the long read this belongs in — it goes on within days of birth",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "อาซาบาเช (เครื่องรางหินเจ็ต)",
+   "as_th": ""
   },
   {
    "from": "bes-amulet",
    "type": "amulet",
    "name": "Bes amulet",
    "as": "the long read he belongs to: a god whose day job was watching somebody else's baby",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เครื่องรางเทพเบส",
+   "as_th": ""
   },
   {
    "from": "bulla",
    "type": "amulet",
    "name": "Bulla",
    "as": "the long read; a Roman boy got his on day nine and gave it up at manhood",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "บุลลา (ล็อกเกตของเด็กชายโรมัน)",
+   "as_th": ""
   },
   {
    "from": "caul",
    "type": "amulet",
    "name": "Caul",
    "as": "the long read it complicates: this charm comes off a child and is then carried by adults",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "คอล (เยื่อคลุมหน้าทารกแรกเกิด)",
+   "as_th": ""
   },
   {
    "from": "concealed-shoe",
    "type": "amulet",
    "name": "Concealed shoe",
    "as": "the count that supports the long read: about half the indexed shoes belonged to children",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "รองเท้าซ่อนในบ้าน",
+   "as_th": ""
   },
   {
    "from": "dreamcatcher",
    "type": "amulet",
    "name": "Dreamcatcher",
    "as": "the long read this belongs in — the earliest published account is a charm for an infant on a cradleboard",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เครื่องดักฝัน",
+   "as_th": ""
   },
   {
    "from": "game-day-charm",
    "type": "amulet",
    "name": "Game-day charm",
    "as": "the long read this cuts against — here the charms are carried by adults at work, and the work is televised",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ของนำโชควันแข่ง",
+   "as_th": ""
   },
   {
    "from": "holy-rider-pendant",
    "type": "amulet",
    "name": "Holy rider pendant",
    "as": "the long read; the largest class of amulet in the world is the one aimed at whatever takes babies",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "จี้นักบุญขี่ม้า",
+   "as_th": ""
   },
   {
    "from": "inuit-amulet",
    "type": "amulet",
    "name": "Inuit amulet",
    "as": "the long read this belongs in — the best-known figure in this record is a child carrying eighty",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เครื่องรางชาวอินูอิต",
+   "as_th": ""
   },
   {
    "from": "lamashtu-plaque",
    "type": "amulet",
    "name": "Lamashtu plaque",
    "as": "the long read this object opens: the oldest named amulet-demon in the atlas hunts newborns",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "แผ่นเครื่องรางลามัชตู",
+   "as_th": ""
   },
   {
    "from": "lunula",
    "type": "amulet",
    "name": "Lunula",
    "as": "the long read; both Roman childhood amulets end at the moment the child stops being one",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ลูนูลา (จี้พระจันทร์เสี้ยวโรมัน)",
+   "as_th": ""
   },
   {
    "from": "ojo-de-venado",
    "type": "amulet",
    "name": "Ojo de venado",
    "as": "the long read this seed belongs in — it goes on the newborn first",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "โอโฮ เด เวนาโด (ตากวาง)",
+   "as_th": ""
   },
   {
    "from": "taweret-amulet",
    "type": "amulet",
    "name": "Taweret amulet",
    "as": "the long read she heads: the largest class of amulet in the world is the one hung on somebody who cannot ask for it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เครื่องรางเทพีทาเวเรต",
+   "as_th": ""
   },
   {
    "from": "teru-teru-bozu",
    "type": "amulet",
    "name": "Teru teru bōzu",
    "as": "the long read this belongs in: a charm children make with their own hands, for their own day out",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เทรุเทรุโบซุ (ตุ๊กตาไล่ฝน)",
+   "as_th": ""
   },
   {
    "from": "amber",
    "type": "material",
    "name": "Amber",
    "as": "the long read this material lands squarely in: the commonest amber charm goes on an infant",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "อำพัน",
+   "as_th": ""
   },
   {
    "from": "coral",
    "type": "material",
    "name": "Red coral",
    "as": "the long read: nearly every coral charm named here goes on a baby",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ปะการังแดง",
+   "as_th": ""
   },
   {
    "from": "lead",
    "type": "material",
    "name": "Lead",
    "as": "the long read the modern lead story belongs to: the charm that poisoned a child was put on him at three months old",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตะกั่ว",
+   "as_th": ""
   },
   {
    "from": "wearing-hidden",
    "type": "practice",
    "name": "Wearing hidden",
    "as": "the long read on who charms are actually put on, which is also where hiding and showing part company",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การสวมเครื่องรางแบบซ่อน",
+   "as_th": "บทความขนาดยาวว่าเครื่องรางถูกสวมให้ใครกันจริง ๆ ซึ่งเป็นที่ที่การซ่อนกับการแสดงแยกทางกันด้วย"
   },
   {
    "from": "dating-a-charm",
    "type": "story",
    "name": "Dating a charm",
    "as": "the read that runs the same sceptical test on the other built table, the one behind /against/",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การระบุอายุเครื่องราง",
+   "as_th": ""
   },
   {
    "from": "the-eye-everywhere",
    "type": "story",
    "name": "The eye everywhere",
    "as": "the long read testing why so many of these end up on infants",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ดวงตาทุกหนแห่ง",
+   "as_th": ""
   }
  ]
 }

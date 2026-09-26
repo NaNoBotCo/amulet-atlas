@@ -11,7 +11,8 @@
   "aliases": [
    "La Hechicería",
    "The Witches' Market, La Paz"
-  ]
+  ],
+  "th": "ตลาดแม่มด (เอลเมร์กาโดเดลาสบรูฆัส)"
  },
  "region": [
   "andes"
@@ -30,6 +31,9 @@
   "what": "A run of stalls on Calle Linares in the El Rosario neighbourhood of La Paz, spilling into Jiménez, Santa Cruz and Illampu. Stock: medicinal plants, retama, amulets, talismans, powders, dried frogs, armadillos, and the sullus — dried llama foetuses — that are buried under the foundations of Bolivian houses as an offering to Pachamama.",
   "story": "The market's Spanish name was chosen to be recognisable to foreigners, which is a fact about naming rather than about what is sold. Most of the stallholders are Aymara women, the chifreras. The yatiri who work here are identifiable by their black hats and coca pouches, and the pouches hold amulets, talismans and powders sold for luck, beauty and fertility; they also read fortunes and take commissions for love work and for curses.\n\nThe year has a shape. October is the busiest month, because Pachamama offerings cluster there — sellers put roughly 60 per cent of the year's sales in that one month — and February, at Carnival, is the other peak.\n\nOne street over in the calendar sits Alasitas. From 24 January, for a month, La Paz holds a fair for Ekeko, the Aymara god of abundance, where people buy miniature versions of what they want — food, tools, a house, a car, a diploma — to give to somebody else, on the understanding that the full-sized version follows within the year. Men and, less often, women acting as shaman bless the miniatures; at midday on 24 January the Catholic Church blesses them too, at the cathedral. The name is Aymara for buy from me.\n\nIn 2019 the market was named Intangible Cultural Heritage of La Paz. *Tradition holds —* many of the rituals served here have been adapted to an urban setting, which the encyclopedia attributes to the long aftermath of colonisation rather than to tourism.",
   "today": "Trading, on published accounts. October and Carnival are the peaks. No day is marked open or closed below; stall hours are the sellers' own."
+ },
+ "text_th": {
+  "what": "แถวแผงร้านบนถนนกาเยลินาเรส (Calle Linares) ในย่านเอลโรซาริโอของกรุงลาปาซ ล้นออกไปถึงถนนฮิเมเนซ ซานตาครูซ และอิยัมปู สินค้า: พืชสมุนไพร เรตามา เครื่องราง ยันต์ ผง กบตากแห้ง ตัวนิ่ม และซุยยุส (sullus) — ตัวอ่อนลามะตากแห้ง — ที่ฝังไว้ใต้ฐานรากบ้านในโบลิเวียเป็นเครื่องบูชาแด่ปาชามามา"
  },
  "dating": {
   "period": "modern, on older ground",

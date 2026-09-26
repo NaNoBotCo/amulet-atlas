@@ -8,19 +8,47 @@
   "script": "Greek",
   "lang": "grc",
   "said": "ka-TA-des-mos; Latin tabella defixionis, defixio",
-  "aliases": ["defixio", "katadesmos", "binding tablet", "judicial prayer"]
+  "aliases": [
+   "defixio",
+   "katadesmos",
+   "binding tablet",
+   "judicial prayer"
+  ],
+  "th": "แผ่นคำสาป (คาตาเดสมอส)"
  },
  "etymology": {
   "root": "from the Greek and Latin words for 'pierce' and 'bind' — katadesmos from katadeō, to bind down; defixio from defigere, to fix or nail down",
   "tier": "cited",
   "source": "s:wp-curse-tablet"
  },
- "region": ["greece-aegean", "rome-italy", "britain-ireland", "western-europe"],
- "countries": ["GR", "IT", "GB"],
- "facets": {"era": "classical", "status": "archaeological", "portable": "placed", "restricted": "open", "hemisphere": ["N", "E", "W"]},
+ "region": [
+  "greece-aegean",
+  "rome-italy",
+  "britain-ireland",
+  "western-europe"
+ ],
+ "countries": [
+  "GR",
+  "IT",
+  "GB"
+ ],
+ "facets": {
+  "era": "classical",
+  "status": "archaeological",
+  "portable": "placed",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E",
+   "W"
+  ]
+ },
  "text": {
   "what": "A very thin sheet of lead with tiny letters scratched into it, then rolled, folded, or pierced through with a nail. It goes into the ground: buried in a grave or tomb, thrown down a well or a pool, shut in an underground sanctuary, nailed to a temple wall. Some are found with small bound figurines, hands and feet tied, sometimes pierced too. Some have hair or a scrap of clothing folded into them.",
   "story": "This is the amulet turned around, and the atlas keeps it here on purpose. Everything else in this batch is written to keep a harm off a person. A defixio is written to put one on. Same lead, same scratched letters, same divine names, same burial in a grave — and the target is a named human being.\n\nAbout 1,600 of them have been found, most in Greek, 220 from Attica alone. The first set came from Selinus in Sicily: twenty-two tablets, mostly early fifth century BCE, aimed at somebody the writer was suing. The Athenian tablets are full of lawsuits — may he botch his performance in court, forget his words, become dizzy. Others are erotic binding spells, or aimed at thieves, business rivals and sporting rivals.\n\nIn 1979 and 1980, 130 tablets came out of the sacred spring at Aquae Sulis, now Bath. All but one concern the restitution of stolen goods. More than eighty similar tablets were found at a temple of Mercury at West Hill, Uley, which makes south-western Britain one of the great centres of Latin defixiones. Some scholars refuse to call these curses at all and prefer 'judicial prayers', because what they mostly do is list a crime in detail and hand the punishment to a god.\n\nThe writing is doing work beyond its sense. Voces mysticae — words in no known language — recur; Stanley J. Tambiah proposed in 1968 that they represent \"the language that demons can understand\". Clement of Alexandria, around 200 CE, held that human language was not fit for addressing gods at all. Tablets survive with blank spaces where a name should go, prepared in advance and finished when a customer paid.\n\n*Inference —* the blank space is the tell. An object sold ready-made with a gap for the buyer's enemy is a product, and the professional who wrote it had the same relationship to his customers as the man selling gems with Abrasax on them two streets away."
+ },
+ "text_th": {
+  "what": "แผ่นตะกั่วบางมาก มีตัวอักษรเล็กจิ๋วขีดลงไป แล้วม้วน พับ หรือตอกตะปูทะลุ แผ่นนี้ลงไปอยู่ในดิน: ฝังไว้ในหลุมศพหรือสุสาน โยนลงบ่อน้ำหรือสระ เก็บไว้ในศาสนสถานใต้ดิน หรือตอกติดผนังวิหาร บางแผ่นพบพร้อมตุ๊กตาเล็ก ๆ ที่ถูกมัด มือและเท้าถูกผูกไว้ บางครั้งถูกแทงทะลุด้วย บางแผ่นมีเส้นผมหรือเศษผ้าพับเก็บไว้ข้างใน"
  },
  "dating": {
   "period": "Classical Greek to Roman Britain",
@@ -36,8 +64,15 @@
  },
  "object": {
   "form": "plaque",
-  "materials": ["lead", "iron"],
-  "worn": ["grave", "wall", "foundation"],
+  "materials": [
+   "lead",
+   "iron"
+  ],
+  "worn": [
+   "grave",
+   "wall",
+   "foundation"
+  ],
   "made_by": "written by the aggrieved and by professionals; tablets prepared in advance with the target's name left blank show a trade",
   "inscription": "the target's name, the crime or the condition, the harm asked for, and often voces mysticae — words such as Bazagra, Bescu or Berebescu, belonging to no known language",
   "script": "Greek and Latin",
@@ -46,32 +81,109 @@
   "note": "Iron is here for the nails driven through the rolled sheet. No published measurement was read."
  },
  "against": [
-  {"harm": "lawsuit", "who": "the writers of the Athenian tablets, who ask that an opposing litigant botch his performance in court, forget his words and become dizzy", "source": "s:wp-curse-tablet", "tier": "cited", "note": "the tablet is aimed at a person, not at a harm; it is filed under the harm the writer was facing"},
-  {"harm": "theft", "who": "the 130 tablets from the sacred spring at Bath, all but one of which concern the restitution of stolen goods", "source": "s:wp-curse-tablet", "tier": "cited"},
-  {"harm": "loneliness", "who": "the writers of erotic binding spells — the agogai that bind a target to oneself and the diakopai that drive a rival away by making them repulsive", "source": "s:wp-curse-tablet", "tier": "cited"},
-  {"harm": "the-dead", "who": "the writers of the tablets that are not curses at all: some were laid at the graves of people who died young or violently, to help lay their souls to rest", "source": "s:wp-curse-tablet", "tier": "cited"}
+  {
+   "harm": "lawsuit",
+   "who": "the writers of the Athenian tablets, who ask that an opposing litigant botch his performance in court, forget his words and become dizzy",
+   "source": "s:wp-curse-tablet",
+   "tier": "cited",
+   "note": "the tablet is aimed at a person, not at a harm; it is filed under the harm the writer was facing"
+  },
+  {
+   "harm": "theft",
+   "who": "the 130 tablets from the sacred spring at Bath, all but one of which concern the restitution of stolen goods",
+   "source": "s:wp-curse-tablet",
+   "tier": "cited"
+  },
+  {
+   "harm": "loneliness",
+   "who": "the writers of erotic binding spells — the agogai that bind a target to oneself and the diakopai that drive a rival away by making them repulsive",
+   "source": "s:wp-curse-tablet",
+   "tier": "cited"
+  },
+  {
+   "harm": "the-dead",
+   "who": "the writers of the tablets that are not curses at all: some were laid at the graves of people who died young or violently, to help lay their souls to rest",
+   "source": "s:wp-curse-tablet",
+   "tier": "cited"
+  }
  ],
  "kin": [
-  {"to": "magical-gem", "as": "the same names and the same nonsense-words, cut in stone to protect a wearer instead of scratched in lead to harm a stranger — this record is that one inverted", "rel": "contrast"},
-  {"to": "greco-roman-apotropaic", "as": "the tradition, seen from the side it does not advertise", "rel": "tradition"},
-  {"to": "christopher-faraone", "as": "the scholar who split these spells into passion-inducing and affection-encouraging, and found men and women using different halves", "rel": "person"},
-  {"to": "lead", "as": "the metal that made them: soft enough to scratch, cheap enough to throw away, stable enough to survive a well", "rel": "material"},
-  {"to": "palindrome-word", "as": "the neighbouring habit — palindromes and boustrophedon used on these tablets to give the writing its own mystique", "rel": "motif"},
-  {"to": "witch-bottle", "as": "the European object that answers one of these: a counter-charm buried against a named person's harm", "rel": "parallel"},
-  {"to": "burying", "as": "the practice the whole genre depends on; the tablet works by going into the ground", "rel": "practice"},
-  {"to": "incantation-bowl", "as": "the later eastern object that buries writing under a house for the opposite purpose", "rel": "contrast"},
-  {"to": "amulet-or-talisman", "as": "the long read about the words; this record is why the atlas needs more than one of them", "rel": "story"}
+  {
+   "to": "magical-gem",
+   "as": "the same names and the same nonsense-words, cut in stone to protect a wearer instead of scratched in lead to harm a stranger — this record is that one inverted",
+   "rel": "contrast"
+  },
+  {
+   "to": "greco-roman-apotropaic",
+   "as": "the tradition, seen from the side it does not advertise",
+   "rel": "tradition"
+  },
+  {
+   "to": "christopher-faraone",
+   "as": "the scholar who split these spells into passion-inducing and affection-encouraging, and found men and women using different halves",
+   "rel": "person"
+  },
+  {
+   "to": "lead",
+   "as": "the metal that made them: soft enough to scratch, cheap enough to throw away, stable enough to survive a well",
+   "rel": "material"
+  },
+  {
+   "to": "palindrome-word",
+   "as": "the neighbouring habit — palindromes and boustrophedon used on these tablets to give the writing its own mystique",
+   "rel": "motif"
+  },
+  {
+   "to": "witch-bottle",
+   "as": "the European object that answers one of these: a counter-charm buried against a named person's harm",
+   "rel": "parallel"
+  },
+  {
+   "to": "burying",
+   "as": "the practice the whole genre depends on; the tablet works by going into the ground",
+   "rel": "practice"
+  },
+  {
+   "to": "incantation-bowl",
+   "as": "the later eastern object that buries writing under a house for the opposite purpose",
+   "rel": "contrast"
+  },
+  {
+   "to": "amulet-or-talisman",
+   "as": "the long read about the words; this record is why the atlas needs more than one of them",
+   "rel": "story"
+  }
  ],
- "links": [{"label": "Curse tablet — Wikipedia", "url": "https://en.wikipedia.org/wiki/Curse_tablet"}],
- "sources": ["s:wp-curse-tablet", "s:wp-abraxas", "s:wp-apotropaic-magic", "s:wp-magic-supernatural"],
+ "links": [
+  {
+   "label": "Curse tablet — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Curse_tablet"
+  }
+ ],
+ "sources": [
+  "s:wp-curse-tablet",
+  "s:wp-abraxas",
+  "s:wp-apotropaic-magic",
+  "s:wp-magic-supernatural"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-curse-tablet"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-curse-tablet"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:wp-curse-tablet", "note": "the closing paragraph is this project's reading, marked where it appears"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-curse-tablet",
+    "note": "the closing paragraph is this project's reading, marked where it appears"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Curse tablet Bath.jpg", "File:Defixio.jpg"],
+ "x_commons_files": [
+  "File:Curse tablet Bath.jpg",
+  "File:Defixio.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-16"
 }

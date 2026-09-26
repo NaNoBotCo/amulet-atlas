@@ -8,7 +8,12 @@
   "script": "Han",
   "lang": "zh",
   "said": "PING-ahn foo, 'peace talisman'",
-  "aliases": ["ping an fu", "peace talisman", "safety charm"]
+  "aliases": [
+   "ping an fu",
+   "peace talisman",
+   "safety charm"
+  ],
+  "th": "ผิงอันฝู (ยันต์ขอความสงบสุข)"
  },
  "etymology": {
   "root": "Chinese 平安 píng'ān 'peace, safety' + 符 fú 'talisman, tally'",
@@ -16,14 +21,30 @@
   "tier": "cited",
   "source": "s:wp-fulu"
  },
- "region": ["china"],
- "countries": ["TW"],
- "facets": {"era": "modern", "status": "living", "portable": "carried", "restricted": "open", "hemisphere": ["N", "E"]},
+ "region": [
+  "china"
+ ],
+ "countries": [
+  "TW"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "living",
+  "portable": "carried",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "A sheet of yellow paper inscribed with sacred symbols, folded into a bagua shape or a rectangle and slipped into a red cloth sleeve. In Taiwan it is the commonest amulet there is: the little red pouch tucked in a wallet, the folded yellow-paper bagua hanging from a scooter key.",
   "story": "The charm is obtained rather than bought outright, and the asking is specific. A worshipper offers incense, states their name, birthday and address and what they are asking for, and seeks the deity's permission with divination blocks. If it is granted, the talisman is raised above the main incense burner and circled clockwise three times — in the Taiwanese Gods account, to let it drink in the incense energy and switch on its power.\n\n*Inference —* that sequence is worth reading closely. A name, a birth date and an address are the same details a registry takes; the charm is issued to a person, not to a pocket, and the censer is where it is stamped.\n\nThe writing on it belongs to the Taoist talismanic tradition, where the script is deliberately hard to read. Scholars including James Robson and Gil Raz have argued that the incomprehensibility of the written forms is central to a talisman's perceived authority, and Ge Hong wrote in the Baopuzi, in the Eastern Jin period, that successful use did not depend on the user being able to decipher the script.",
   "how": "Requested at a temple, activated over the censer, carried on the person, then retired on a calendar. A peace talisman is usually replaced once a year: before Lunar New Year the old one goes to the temple's furnace to be burned, and a fresh one is requested for the coming year.",
   "today": "Handed out at temples across Taiwan and kept in nearly every household there, as of the account read in September 2026 — in wallets, on scooter keys, in car glove boxes and in bags. Whether the charm on a scooter key is a devotional object or a habit is not a question this atlas settles; the temple's own procedure treats it as the former, and the wallet treats it as the latter."
+ },
+ "text_th": {
+  "what": "กระดาษสีเหลืองที่เขียนสัญลักษณ์ศักดิ์สิทธิ์ พับเป็นรูปปากั้ว (แปดทิศ) หรือสี่เหลี่ยมผืนผ้า แล้วสอดเข้าซองผ้าสีแดง ในไต้หวันนี่คือเครื่องรางที่พบบ่อยที่สุด: ถุงแดงใบเล็กที่เหน็บไว้ในกระเป๋าสตางค์ ยันต์กระดาษเหลืองพับเป็นรูปปากั้วที่ห้อยจากกุญแจสกูตเตอร์"
  },
  "dating": {
   "period": "Taoist talismanic practice; the paper peace charm itself is undated in the sources read",
@@ -38,44 +59,135 @@
  },
  "object": {
   "form": "folded-paper",
-  "materials": ["paper", "ink", "cloth"],
-  "worn": ["pocket", "wallet", "vehicle", "neck"],
+  "materials": [
+   "paper",
+   "ink",
+   "cloth"
+  ],
+  "worn": [
+   "pocket",
+   "wallet",
+   "vehicle",
+   "neck"
+  ],
   "made_by": "written at a temple, by or under a priest; issued to a named person after the deity's permission is asked",
   "inscription": "sacred symbols in Taoist talismanic script, which is not meant to be read by the carrier",
   "script": "Han",
-  "colour": ["yellow", "red"],
+  "colour": [
+   "yellow",
+   "red"
+  ],
   "single_use": true,
   "source": "s:web-taiwanese-gods-fulu",
   "note": "No measurement is published in the sources read."
  },
  "against": [
-  {"harm": "travel", "who": "the Taiwanese Gods account, which describes the charm as carried on the person for safe passage", "source": "s:web-taiwanese-gods-fulu", "tier": "cited"},
-  {"harm": "bad-luck", "who": "its own name — ping'an, peace and safety — and the yearly renewal that goes with it", "source": "s:web-taiwanese-gods-fulu", "tier": "cited"},
-  {"harm": "spirits", "who": "Taoist talismanic practice generally, where most coin talismans ask Lei Gong to protect their carriers from evil spirits and misfortune", "source": "s:wp-fulu", "tier": "tradition", "note": "that sentence in the source is about coin talismans; it is given here as the tradition's framing, not as a claim read about this charm"}
+  {
+   "harm": "travel",
+   "who": "the Taiwanese Gods account, which describes the charm as carried on the person for safe passage",
+   "source": "s:web-taiwanese-gods-fulu",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "its own name — ping'an, peace and safety — and the yearly renewal that goes with it",
+   "source": "s:web-taiwanese-gods-fulu",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "Taoist talismanic practice generally, where most coin talismans ask Lei Gong to protect their carriers from evil spirits and misfortune",
+   "source": "s:wp-fulu",
+   "tier": "tradition",
+   "note": "that sentence in the source is about coin talismans; it is given here as the tradition's framing, not as a claim read about this charm"
+  }
  ],
  "kin": [
-  {"to": "fu-talisman", "as": "the class it belongs to — this is the ordinary, household end of Taoist talismanic writing", "rel": "whole"},
-  {"to": "chinese-fu-craft", "as": "the tradition that writes it and the priesthood that keeps the script", "rel": "tradition"},
-  {"to": "blessing-at-a-shrine", "as": "the step that issues it: incense, a name, a birth date, divination blocks, three clockwise circles over the censer", "rel": "practice"},
-  {"to": "renewing-yearly", "as": "its clock — one year, then the furnace", "rel": "practice"},
-  {"to": "burning-retirement", "as": "how it ends, at the temple, before Lunar New Year", "rel": "practice"},
-  {"to": "omamori", "as": "Japan's sealed brocade pouch, taken from a shrine and returned to be burned a year later: the same cycle, the same year", "rel": "parallel"},
-  {"to": "ofuda", "as": "the Japanese paper talisman descended from the same Taoist writing", "rel": "parallel"},
-  {"to": "bujeok", "as": "the Korean paper charm from the same root, and the third of the three", "rel": "parallel"},
-  {"to": "bagua-mirror", "as": "the fixed version at the same door: this one rides in a pocket, that one is screwed above the lintel", "rel": "contrast"},
-  {"to": "paper", "as": "the material that lets a temple issue thousands and burn them all a year later", "rel": "material"}
+  {
+   "to": "fu-talisman",
+   "as": "the class it belongs to — this is the ordinary, household end of Taoist talismanic writing",
+   "rel": "whole"
+  },
+  {
+   "to": "chinese-fu-craft",
+   "as": "the tradition that writes it and the priesthood that keeps the script",
+   "rel": "tradition"
+  },
+  {
+   "to": "blessing-at-a-shrine",
+   "as": "the step that issues it: incense, a name, a birth date, divination blocks, three clockwise circles over the censer",
+   "rel": "practice"
+  },
+  {
+   "to": "renewing-yearly",
+   "as": "its clock — one year, then the furnace",
+   "rel": "practice"
+  },
+  {
+   "to": "burning-retirement",
+   "as": "how it ends, at the temple, before Lunar New Year",
+   "rel": "practice"
+  },
+  {
+   "to": "omamori",
+   "as": "Japan's sealed brocade pouch, taken from a shrine and returned to be burned a year later: the same cycle, the same year",
+   "rel": "parallel"
+  },
+  {
+   "to": "ofuda",
+   "as": "the Japanese paper talisman descended from the same Taoist writing",
+   "rel": "parallel"
+  },
+  {
+   "to": "bujeok",
+   "as": "the Korean paper charm from the same root, and the third of the three",
+   "rel": "parallel"
+  },
+  {
+   "to": "bagua-mirror",
+   "as": "the fixed version at the same door: this one rides in a pocket, that one is screwed above the lintel",
+   "rel": "contrast"
+  },
+  {
+   "to": "paper",
+   "as": "the material that lets a temple issue thousands and burn them all a year later",
+   "rel": "material"
+  }
  ],
- "links": [{"label": "Talismans and Protective Charms (Fulu) — Taiwanese Gods", "url": "https://www.taiwanese-gods.org/en/culture/customs/fulu/"}],
- "sources": ["s:web-taiwanese-gods-fulu", "s:wp-fulu", "s:wp-fu-character", "s:wp-chinese-numismatic-charm"],
+ "links": [
+  {
+   "label": "Talismans and Protective Charms (Fulu) — Taiwanese Gods",
+   "url": "https://www.taiwanese-gods.org/en/culture/customs/fulu/"
+  }
+ ],
+ "sources": [
+  "s:web-taiwanese-gods-fulu",
+  "s:wp-fulu",
+  "s:wp-fu-character",
+  "s:wp-chinese-numismatic-charm"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:web-taiwanese-gods-fulu"},
+  "default": {
+   "tier": "cited",
+   "source": "s:web-taiwanese-gods-fulu"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:web-taiwanese-gods-fulu", "note": "the paragraph on registry details is marked as this project's inference where it appears; the Ge Hong and Robson–Raz material is from the Fulu article"},
-   "text.today": {"tier": "cited", "source": "s:web-taiwanese-gods-fulu", "note": "the household claim is that page's, read on 16 September 2026, and has not been checked against a survey"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:web-taiwanese-gods-fulu",
+    "note": "the paragraph on registry details is marked as this project's inference where it appears; the Ge Hong and Robson–Raz material is from the Fulu article"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:web-taiwanese-gods-fulu",
+    "note": "the household claim is that page's, read on 16 September 2026, and has not been checked against a survey"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Taoist talisman.jpg"],
+ "x_commons_files": [
+  "File:Taoist talisman.jpg"
+ ],
  "confidence": "medium",
  "needs_verification": true,
  "updated": "2026-09-16"

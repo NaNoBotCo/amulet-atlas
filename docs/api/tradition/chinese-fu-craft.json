@@ -13,7 +13,8 @@
    "talismanic script",
    "Taoist talismans",
    "fu"
-  ]
+  ],
+  "th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)"
  },
  "etymology": {
   "root": "Chinese fu (符), instructions for deities and spirits, symbols for exorcism, and recipes for potions or charms; lu (籙), a register of priestly membership listing the skills a priest is trained in",
@@ -47,6 +48,9 @@
   "story": "The unreadability is the point, and its own scholars say so. Yang Zhaohua notes that a number of the earliest Taoist talismans were simple and legible, and that later examples became deliberately cryptic in order to signal their divinity. James Robson and Gil Raz hold that the incomprehensibility of the written forms is central to a talisman's perceived authority and is one of talismanic script's defining features. Ge Zhaoguang of Fudan University calls it a linguistic archaism, a veil of unfathomable otherworldliness designed so that only a small number of qualified clergy can produce them.\n\nThat had already settled by the Eastern Jin (317–420). Ge Hong wrote in the Baopuzi that successful use of a talisman did not depend on whether the user could decipher the script, so long as the inscription itself was right. By then illegibility was a sign of divine authority rather than a defect.\n\nStyle varies by sect, and so does everything else: the characters differ from sect to sect, each sect has its own incantations and its own mudras for making them, and even the invocations used for a single deity vary between sects. The method of writing is passed in secret from a Taoist priest to their disciples and treated as a craft for communicating with local deities and spirits. The fulu pai — the informal grouping of priests across schools who work this way — take their name from it.\n\nThe medical strand has an institutional history. Talismanic technique has been used in China alongside medicine, meditation, acupuncture, astrology and massage, at least as far back as the Eastern Han, when the Way of the Taiping used it to heal. In medical writing it is called zhuyou, and it held official support between the Sui and the late Ming, declining after rival acupuncture practices were recognised by the imperial court as a medical discipline in the sixth century. Traditional Chinese medicine rejects zhuyou; Chinese folk healers still use it widely; and with the arrival of Western psychology in the 20th century it began to be read as a Chinese counterpart to hypnosis.\n\nThe craft also travelled, and two other traditions in this atlas are downstream of it. Fulu were incorporated into Chinese Buddhism; they inspired Japan's ofuda, by way of Onmyodo; and Korea's bujeok comes out of the same stock. Coin talismans carry fulu at the beginning and the end of the inscription, and many of them have not been deciphered — one specimen has talismanic script written beside Chinese characters suspected to be its gloss.\n\nThe household end of it is a different character and a different logic. Fu (福), good fortune, is mounted on doorways at Chinese New Year, printed on a square of red paper or stitched in fabric, and hung upside down: in nearly all varieties of Chinese the words for 'upside-down' and 'to arrive' are homophones, so an inverted fu reads as 'good luck arrives'. The practice dates to at least the Song dynasty and the account describes it as universal among Chinese people regardless of income.",
   "how": "Structure only, because the making is transmitted in secret. A priest of a particular sect writes the characters, using that sect's forms, incantations and mudras, on paper, cloth or metal. The result is displayed, carried, burnt, or — in the medical use — dissolved or otherwise administered. A lu, a register, records which priests hold which skills, so the entitlement to write one is a matter of record inside the tradition rather than of talent. Coin charms carry the script cast into metal instead of brushed, with fulu opening and closing the inscription.",
   "today": "Live in Taiwan, mainland China and the Chinese diaspora, in temples and in folk healing. Popular accounts of fulu are published for general readers, including by Taiwanese temple-culture sites, while the sect-specific forms stay inside the sects. The New Year fu on a red square is everywhere Chinese New Year is kept. Museum and numismatic collections hold large runs of charm coins whose inscriptions remain unread, which is the tradition's own design working on its own evidence."
+ },
+ "text_th": {
+  "what": "ข้อเขียนที่ไม่ได้มีไว้ให้อ่าน ฝูลู่คืออักขระยันต์ของลัทธิเต๋า — เส้นขีดที่คล้ายอักษรจีน บ่อยครั้งเป็นคำที่มีอยู่แล้วแต่ยืดให้ยาวออก มีสัญลักษณ์ที่ไม่ใช่อักษรผสมเข้าไป บางครั้งซ้อนอักษรสองตัวเป็นตัวเดียว — วาดหรือเขียนบนกระดาษ ผ้า หรือโลหะ โดยนักพรตเต๋า ศาสตร์เดียวกันนี้ยังทำเหรียญเครื่องราง กระจกที่แขวนเหนือประตู และกระดาษตรุษจีนที่แปะไว้ที่ประตูด้วย"
  },
  "restricted": {
   "note": "This craft restricts its own script and the atlas prints no example. The method of writing fulu is passed in secret from a Taoist priest to their disciples; forms, incantations and mudras differ from sect to sect; and, in the words of the scholarship, the illegibility exists so that only a small number of qualified clergy can produce them. So this record describes what fulu look like and what they are for, names the priesthood that writes them, and does not reproduce a character, an incantation or a mudra — nor reconstruct one from a museum photograph.",
@@ -286,84 +290,108 @@
    "type": "amulet",
    "name": "Fu talisman",
    "as": "the object itself: the priest's written slip, and the reason this record prints no script",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "ping-an-fu",
    "type": "amulet",
    "name": "Ping'an fu",
    "as": "the peace-and-safety slip, issued over a censer with a name and a birth date rather than written for a private client",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ผิงอันฝู (ยันต์ขอความสงบสุข)",
+   "as_th": ""
   },
   {
    "to": "charm-coin",
    "type": "amulet",
    "name": "Chinese charm coin",
    "as": "the same script cast in metal — fulu opening and closing an inscription that in many cases nobody has yet read",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เหรียญเครื่องรางจีน (เอี้ยนเซิ่งเฉียน)",
+   "as_th": ""
   },
   {
    "to": "bagua-mirror",
    "type": "amulet",
    "name": "Bagua mirror",
    "as": "the door-piece whose techniques the tradition is credited with, and the one household object here that works by reflection rather than by writing",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "กระจกปากั้ว (กระจกแปดทิศ)",
+   "as_th": ""
   },
   {
    "to": "fu-word",
    "type": "term",
    "name": "fu",
    "as": "the two characters this record has to keep apart — 符 the talisman and 福 the fortune pasted upside down at New Year",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "ฝู (福)",
+   "as_th": ""
   },
   {
    "to": "coin-square",
    "type": "motif",
    "name": "The square hole",
    "as": "the sign the charm coins carry: a round coin with a square hole, cast, inscribed and read within this tradition",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "รูสี่เหลี่ยม",
+   "as_th": ""
   },
   {
    "to": "mirror-sign",
    "type": "motif",
    "name": "The mirror",
    "as": "the other technique it holds — deflection, which needs no script at all",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "กระจก",
+   "as_th": ""
   },
   {
    "to": "japanese-engimono",
    "type": "tradition",
    "name": "Engimono",
    "as": "downstream: the ofuda is this craft's paper slip, carried into Japan through Onmyodo and then put on an administered national footing",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "korean-bujeok-craft",
    "type": "tradition",
    "name": "Bujeok craft",
    "as": "the other descendant, where the unreadable script arrived in Hanja and the specialists who draw it are mostly women",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "บูจ็อก (ศาสตร์ยันต์เกาหลี)",
+   "as_th": ""
   },
   {
    "to": "paper",
    "type": "material",
    "name": "Paper",
    "as": "the material the craft is built on, and the one it burns to deliver a message",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "กระดาษ",
+   "as_th": ""
   },
   {
    "to": "inscribing",
    "type": "practice",
    "name": "Inscribing",
    "as": "the practice at its most restricted — the strokes are the secret, not the intention behind them",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การลงอักขระ",
+   "as_th": ""
   },
   {
    "to": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "where most of this output ends up: a slip, a mirror or a red square on a doorway",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -631,70 +659,90 @@
    "type": "amulet",
    "name": "Bagua mirror",
    "as": "the tradition behind the Taoist mirror techniques it is said to descend from",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "กระจกปากั้ว (กระจกแปดทิศ)",
+   "as_th": ""
   },
   {
    "from": "bujeok",
    "type": "amulet",
    "name": "Bujeok",
    "as": "the craft the script comes from, where the unreadability is the point",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "from": "charm-coin",
    "type": "amulet",
    "name": "Chinese charm coin",
    "as": "the tradition behind the Taoist and Buddhist classes of them",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เหรียญเครื่องรางจีน (เอี้ยนเซิ่งเฉียน)",
+   "as_th": ""
   },
   {
    "from": "fu-talisman",
    "type": "amulet",
    "name": "Fu talisman",
    "as": "the tradition of the priesthood that writes it and holds the script",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "ping-an-fu",
    "type": "amulet",
    "name": "Ping'an fu",
    "as": "the tradition that writes it and the priesthood that keeps the script",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ผิงอันฝู (ยันต์ขอความสงบสุข)",
+   "as_th": ""
   },
   {
    "from": "japanese-engimono",
    "type": "tradition",
    "name": "Engimono",
    "as": "where the paper tablet comes from: the Taoist lingfu, carried into Japan through Onmyodo",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "korean-bujeok-craft",
    "type": "tradition",
    "name": "Bujeok craft",
    "as": "where the script comes from, and where the reason for its unreadability is stated out loud",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "บูจ็อก (ศาสตร์ยันต์เกาหลี)",
+   "as_th": ""
   },
   {
    "from": "coin-square",
    "type": "motif",
    "name": "The square hole",
    "as": "the tradition that casts, inscribes and reads them",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "รูสี่เหลี่ยม",
+   "as_th": ""
   },
   {
    "from": "mirror-sign",
    "type": "motif",
    "name": "The mirror",
    "as": "the tradition the bagua mirror's mirror techniques belong to",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "กระจก",
+   "as_th": ""
   },
   {
    "from": "fu-word",
    "type": "term",
    "name": "fu",
    "as": "the tradition both characters belong to",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ฝู (福)",
+   "as_th": ""
   }
  ]
 }

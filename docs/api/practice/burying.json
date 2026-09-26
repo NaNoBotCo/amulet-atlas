@@ -9,7 +9,8 @@
    "hiding it in the fabric of a house",
    "spiritual midden"
   ],
-  "said": "out of sight and meant to stay there"
+  "said": "out of sight and meant to stay there",
+  "th": "การฝัง"
  },
  "region": [
   "britain-ireland",
@@ -43,6 +44,9 @@
   "story": "The English witch bottle is the clearest case of burial as the working position. Joseph Glanvill's Saducismus Triumphatus of 1681 records an old man's advice to a Suffolk household: put the wife's urine in a bottle with pins, needles and nails, cork it and set it by the fire — and when the cork blew out and that failed, bury it in the earth instead, which is what the account says worked. Folk practice holds the bottle to be active as long as it stays hidden and unbroken, and people went to trouble to hide them: bottles under fireplaces have turned up only after the rest of the building had gone.\n\nThe finds carry dates and names. Marshall Becker identified the first American witch bottle in an archaeological context, the Essington bottle, recovered on Great Tinicum Island in Delaware County, Pennsylvania. A mid-nineteenth to early twentieth-century enslaved or tenant site in Dorchester County, Maryland, produced a buried bottle whose cork bristled with straight pins. In 2016 a bottle full of nails came out of the hearth of a Civil War site in Virginia. A glass bottle found buried in a threshold in Trelissick, Cornwall, was analysed at Loughborough University and found to hold urine, a little alcohol and one human hair, with brass pins dating from the late 1840s and an ostracod. In 2020 a sixteenth-century jug turned up during the renovation of the De Zwarte Ruiter pub in Turnhout, Belgium.\n\nThe Greek and Roman world buried to deliver. Curse tablets were rolled, folded or pierced with nails and then put beneath the ground — buried in graves or tombs, thrown into wells or pools, put in underground sanctuaries or nailed to temple walls — and the ones in graves were often addressed through the dead person whose grave it was, usually somebody who had died young or violently. Mesopotamian incantation bowls were buried face down under the threshold, in courtyards, in the corners of the homes of the recently dead and in cemeteries. In Egypt, execration texts naming enemies were written on clay figurines or pottery, then smashed and buried beneath a building under construction, so that the names were symbolically smothered, or buried in a cemetery.\n\nBurial is also how some traditions end a charm. In Ireland a discarded Brigid's cross was burned or buried, and burial was preferred because of Brigid's associations with agriculture. In Korea, a mudang who does not want a relative to inherit the vocation may have their ritual gear burned or buried at their death, which severs the connection between their personal deities and the surviving family. A Bulgarian martenitsa can be put under a stone rather than tied to a tree, and whichever creature is closest to it the next day reads the year.\n\n*Inference —* burial is why the record is shaped the way it is. A charm hidden under a hearth was meant to be permanent and to be unseen, so it survives and it is undocumented; the finder is usually a builder, and the date usually comes from the bottle rather than from anyone's account of putting it there.",
   "how": "Dig at the place the tradition specifies — hearth, threshold, far corner, grave, well, under a wall going up — put the object in, close the ground, and say nothing. In the counter-magic cases the object stays there and stays whole; in the disposal cases it does not matter what happens to it afterwards.",
   "today": "Still done, and mostly found by accident. Witch bottles continue to be buried at the corner of a property or under a hearth in present folk practice, and fewer than a dozen probable examples have been identified in the United States to date. Objects turn up in renovations across England, Belgium and the American northeast, which is why the reporting is patchy and the dating comes from the glass."
+ },
+ "text_th": {
+  "what": "การนำเครื่องรางลงไปไว้ในดินแล้วทิ้งไว้ ใต้เตาไฟ ที่มุมไกลของที่ดิน ใต้ธรณีประตู ในบ่อน้ำ ในผนัง วัตถุบางอย่างทำงานอยู่ขณะที่ถูกฝัง และหยุดทำงานหากถูกรบกวน บางอย่างถูกฝังเพื่อกำจัดทิ้ง นักโบราณคดีเรียกแหล่งซ่อนเหล่านี้ว่ากองสะสมทางจิตวิญญาณ (spiritual midden) และแหล่งเหล่านี้คือเหตุที่ของประเภทนี้จำนวนมากยังหลงเหลืออยู่ได้"
  },
  "dating": {
   "period": "early modern Europe to the present; far older in the Mediterranean and Mesopotamia",
@@ -273,70 +277,90 @@
    "type": "amulet",
    "name": "Witch bottle",
    "as": "the charm whose working position is underground — active while hidden and unbroken",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ขวดแม่มด",
+   "as_th": ""
   },
   {
    "to": "curse-tablet",
    "type": "amulet",
    "name": "Curse tablet",
    "as": "lead folded and put in a grave or a well, so that the dead carry the message",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "แผ่นคำสาป (คาตาเดสมอส)",
+   "as_th": ""
   },
   {
    "to": "incantation-bowl",
    "type": "amulet",
    "name": "Incantation bowl",
    "as": "buried face down under the threshold, with the writing spiralling inward",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ชามคาถา",
+   "as_th": ""
   },
   {
    "to": "concealed-shoe",
    "type": "amulet",
    "name": "Concealed shoe",
    "as": "the other thing found in the fabric of a house, and the commonest of them all",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "รองเท้าซ่อนในบ้าน",
+   "as_th": ""
   },
   {
    "to": "martenitsa",
    "type": "amulet",
    "name": "Martenitsa",
    "as": "put under a stone at the end of its month, to be read by whatever creature is nearest it",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "มาร์เตนิตซา",
+   "as_th": ""
   },
   {
    "to": "foundation-deposit",
    "type": "practice",
    "name": "Foundation deposit",
    "as": "burial done deliberately at the start of a building rather than into an existing one",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ของฝังใต้ฐานรากอาคาร",
+   "as_th": ""
   },
   {
    "to": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "the same verb pointed at a person rather than a place",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "to": "burning-retirement",
    "type": "practice",
    "name": "Burning at retirement",
    "as": "the other end for a charm, and the one Irish practice weighs against burial",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "การเผาเครื่องรางเมื่อหมดวาระ",
+   "as_th": ""
   },
   {
    "to": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "the tradition that filled English hearths and thresholds with this material",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "to": "the-charm-in-the-wall",
    "type": "story",
    "name": "The charm in the wall",
    "as": "the long read that follows what builders find when they take a house apart",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เครื่องรางในกำแพง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -587,84 +611,108 @@
    "type": "amulet",
    "name": "Concealed shoe",
    "as": "the act itself — the charm's whole method is putting it somewhere it will not be found",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "รองเท้าซ่อนในบ้าน",
+   "as_th": ""
   },
   {
    "from": "corn-dolly",
    "type": "amulet",
    "name": "Corn dolly",
    "as": "how it is retired: ploughed into the first furrow of the new season, which is the only disposal the tradition names",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ตุ๊กตาฟางข้าว (คอร์นดอลลี)",
+   "as_th": ""
   },
   {
    "from": "curse-tablet",
    "type": "amulet",
    "name": "Curse tablet",
    "as": "the practice the whole genre depends on; the tablet works by going into the ground",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "แผ่นคำสาป (คาตาเดสมอส)",
+   "as_th": ""
   },
   {
    "from": "illa",
    "type": "amulet",
    "name": "Illa",
    "as": "the practice that completes it: the illa goes into the pasture the herd walks over",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "อิยา (รูปสัตว์หินแอนดีส)",
+   "as_th": ""
   },
   {
    "from": "witch-bottle",
    "type": "amulet",
    "name": "Witch bottle",
    "as": "the practice that completes it: Glanvill's first attempt, at the fire, fails; the bottle only works buried",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ขวดแม่มด",
+   "as_th": ""
   },
   {
    "from": "andean-illa-practice",
    "type": "tradition",
    "name": "Illa practice",
    "as": "where the oldest form of this ends — an object placed in the ground the herd walks over, and a sullu under a house's foundations",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "คติอิยา (เครื่องรางจำลองแห่งแอนดีส)",
+   "as_th": ""
   },
   {
    "from": "hair",
    "type": "material",
    "name": "Hair",
    "as": "how a hair charm is delivered: the farthest corner of the property, or under the hearth",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เส้นผม",
+   "as_th": ""
   },
   {
    "from": "lead",
    "type": "material",
    "name": "Lead",
    "as": "how a lead tablet is delivered: into a grave, a well, or a temple wall",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ตะกั่ว",
+   "as_th": ""
   },
   {
    "from": "salt",
    "type": "material",
    "name": "Salt",
    "as": "the practice a filled bottle ends in, and the reason we have the bottles at all",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เกลือ",
+   "as_th": ""
   },
   {
    "from": "burning-retirement",
    "type": "practice",
    "name": "Burning at retirement",
    "as": "the other way of ending a charm, preferred in Ireland for the same objects",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "การเผาเครื่องรางเมื่อหมดวาระ",
+   "as_th": ""
   },
   {
    "from": "foundation-deposit",
    "type": "practice",
    "name": "Foundation deposit",
    "as": "the same verb, without a building over it",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ของฝังใต้ฐานรากอาคาร",
+   "as_th": ""
   },
   {
    "from": "the-charm-in-the-wall",
    "type": "story",
    "name": "The charm in the wall",
    "as": "the act itself, which in this class is not disposal but installation",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เครื่องรางในกำแพง",
+   "as_th": ""
   }
  ]
 }

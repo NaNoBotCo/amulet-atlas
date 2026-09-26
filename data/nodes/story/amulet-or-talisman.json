@@ -4,13 +4,34 @@
  "type": "story",
  "names": {
   "name": "Amulet or talisman?",
-  "aliases": ["the definitional argument", "what to call the thing", "amulet, charm, talisman"]
+  "aliases": [
+   "the definitional argument",
+   "what to call the thing",
+   "amulet, charm, talisman"
+  ],
+  "th": "อะมูเล็ตหรือทาลิสแมน?"
  },
- "region": ["world", "rome-italy", "arabia-gulf", "britain-ireland"],
- "countries": ["IT", "GB", "IQ", "EG"],
- "facets": {"kind": "essay", "era": "living"},
+ "region": [
+  "world",
+  "rome-italy",
+  "arabia-gulf",
+  "britain-ireland"
+ ],
+ "countries": [
+  "IT",
+  "GB",
+  "IQ",
+  "EG"
+ ],
+ "facets": {
+  "kind": "essay",
+  "era": "living"
+ },
  "text": {
   "what": "Two words, one tray of objects, and no agreement about which word goes on which object. Some writers cut the pair by direction — an amulet turns harm away, a talisman pulls fortune in. Some cut it by manufacture — an amulet is worn, a talisman is made, at an hour set by a sky. Some cut it by legitimacy, and the cut runs between a blessed object and a condemned one. Some refuse to cut it at all. This record sets out the positions with the names attached and declines to pick one, because the word this project uses on its own spine is a cataloguer's word and the objects were here first."
+ },
+ "text_th": {
+  "what": "สองคำ ถาดวัตถุถาดเดียว และไม่มีข้อตกลงว่าคำไหนใช้กับวัตถุชิ้นไหน นักเขียนบางคนแบ่งคู่คำนี้ตามทิศทาง อะมูเล็ต (amulet) หันภัยออกไป ทาลิสแมน (talisman) ดึงโชคเข้ามา บางคนแบ่งตามการสร้าง อะมูเล็ตคือของที่สวม ทาลิสแมนคือของที่ทำขึ้นในยามที่ฟ้ากำหนด บางคนแบ่งตามความชอบธรรม และเส้นแบ่งอยู่ระหว่างวัตถุที่ได้รับพรกับวัตถุที่ถูกประณาม บางคนปฏิเสธที่จะแบ่งเลย บันทึกนี้วางจุดยืนต่าง ๆ พร้อมชื่อผู้ถือจุดยืนนั้น และไม่เลือกข้างใด เพราะคำที่โครงการนี้ใช้บนสันปกของตัวเองเป็นคำของผู้ทำบัญชีรายการ และวัตถุเหล่านี้มีอยู่ก่อนแล้ว"
  },
  "sections": [
   {
@@ -51,26 +72,91 @@
   "note": "Dated from Pliny's Natural History, a first-century work. The source read here gives no closer date for amuletum, so none is claimed. The English side of the argument is younger: amalettys in the mid-fifteenth century, talisman in the 1630s."
  },
  "kin": [
-  {"to": "amulet-word", "as": "the wide word this atlas files everything under, with its Latin and its hundred and fifty years of silence in English", "rel": "term"},
-  {"to": "talisman-word", "as": "the other half of the pair, and the one whose Arabic root still carries the clock the English word dropped", "rel": "term"},
-  {"to": "charm-word", "as": "the third word, which was a spoken formula for three hundred years before it was ever an object", "rel": "term"},
-  {"to": "periapt", "as": "the fourth cut — an object defined by hanging, with no theory in it at all", "rel": "term"},
-  {"to": "apotropaic-word", "as": "the scholar's adjective that was invented to sidestep this whole argument, and belongs to nobody who carries anything", "rel": "term"},
-  {"to": "catholic-sacramentals", "as": "the tradition where the legitimacy cut is drawn inside one institution, between a blessed medal and a condemned charm", "rel": "tradition"},
-  {"to": "brown-scapular", "as": "the object the encyclopedia itself names as the counter-example that breaks its own scheme", "rel": "contrast"},
-  {"to": "islamic-talismanic", "as": "the tradition ibn Qurra and his translators were writing for, where the hour of making is the definition", "rel": "tradition"},
-  {"to": "phra-khrueang", "as": "the object that passes one test, fails the next and is argued over inside its own tradition — the case against ruling", "rel": "contrast"},
-  {"to": "free-to-use", "as": "the other record about this project's own terms, rather than about anybody else's", "rel": "story"}
+  {
+   "to": "amulet-word",
+   "as": "the wide word this atlas files everything under, with its Latin and its hundred and fifty years of silence in English",
+   "rel": "term"
+  },
+  {
+   "to": "talisman-word",
+   "as": "the other half of the pair, and the one whose Arabic root still carries the clock the English word dropped",
+   "rel": "term"
+  },
+  {
+   "to": "charm-word",
+   "as": "the third word, which was a spoken formula for three hundred years before it was ever an object",
+   "rel": "term"
+  },
+  {
+   "to": "periapt",
+   "as": "the fourth cut — an object defined by hanging, with no theory in it at all",
+   "rel": "term"
+  },
+  {
+   "to": "apotropaic-word",
+   "as": "the scholar's adjective that was invented to sidestep this whole argument, and belongs to nobody who carries anything",
+   "rel": "term"
+  },
+  {
+   "to": "catholic-sacramentals",
+   "as": "the tradition where the legitimacy cut is drawn inside one institution, between a blessed medal and a condemned charm",
+   "rel": "tradition"
+  },
+  {
+   "to": "brown-scapular",
+   "as": "the object the encyclopedia itself names as the counter-example that breaks its own scheme",
+   "rel": "contrast"
+  },
+  {
+   "to": "islamic-talismanic",
+   "as": "the tradition ibn Qurra and his translators were writing for, where the hour of making is the definition",
+   "rel": "tradition"
+  },
+  {
+   "to": "phra-khrueang",
+   "as": "the object that passes one test, fails the next and is argued over inside its own tradition — the case against ruling",
+   "rel": "contrast"
+  },
+  {
+   "to": "free-to-use",
+   "as": "the other record about this project's own terms, rather than about anybody else's",
+   "rel": "story"
+  }
  ],
  "links": [
-  {"label": "Amulet — Wikipedia", "url": "https://en.wikipedia.org/wiki/Amulet"},
-  {"label": "Talisman — Wikipedia", "url": "https://en.wikipedia.org/wiki/Talisman"}
+  {
+   "label": "Amulet — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amulet"
+  },
+  {
+   "label": "Talisman — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Talisman"
+  }
  ],
- "sources": ["s:wp-amulet", "s:wp-talisman", "s:wp-apotropaic-magic", "s:web-etymonline-amulet", "s:web-etymonline-talisman", "s:web-wiktionary-periapt", "s:web-prm-amulets-guide", "s:web-ccc-first-commandment", "s:web-budge-amulets-1930", "s:web-petrie-amulets-1914", "s:repo-atlas-vocab"],
+ "sources": [
+  "s:wp-amulet",
+  "s:wp-talisman",
+  "s:wp-apotropaic-magic",
+  "s:web-etymonline-amulet",
+  "s:web-etymonline-talisman",
+  "s:web-wiktionary-periapt",
+  "s:web-prm-amulets-guide",
+  "s:web-ccc-first-commandment",
+  "s:web-budge-amulets-1930",
+  "s:web-petrie-amulets-1914",
+  "s:repo-atlas-vocab"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-amulet"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-amulet"
+  },
   "fields": {
-   "sections": {"tier": "cited", "source": "s:wp-talisman", "note": "the four stretches of this project's own reasoning are labelled inline; the count of nineteen attraction rows is counted from this repository's own records on 17 September 2026 and is a fact about the atlas, not about the world"}
+   "sections": {
+    "tier": "cited",
+    "source": "s:wp-talisman",
+    "note": "the four stretches of this project's own reasoning are labelled inline; the count of nineteen attraction rows is counted from this repository's own records on 17 September 2026 and is a fact about the atlas, not about the world"
+   }
   }
  },
  "images": [],

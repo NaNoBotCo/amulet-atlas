@@ -14,7 +14,8 @@
    "flower coin",
    "cash coin hole",
    "round coin with a square hole"
-  ]
+  ],
+  "th": "รูสี่เหลี่ยม"
  },
  "region": [
   "china",
@@ -45,6 +46,9 @@
   "what": "A round disc of copper alloy, brass or bronze with a square hole punched through the middle, the four sides of the hole framed by characters. It is the shape of Chinese money for two thousand years, and it is also the shape of a charm that was never money. Most numismatic charms imitate whatever circulating cash coin was current when they first appeared; some were cast instead as spades, locks, fish, peaches and gourds.",
   "story": "The charm coin — yansheng qian, now more often called huaqian, flower coin — first appears under the Western Han as a variant of the Ban Liang and Wu Zhu cash coins. It was used to speak to the dead, to pray for a good outcome, to frighten ghosts and as lucky money. Over centuries it became a separate commodity with its own shapes and sizes. Unlike a cash coin, which carries two or four characters on a side, a charm often carries more characters, and pictures on the same side.\n\nThese were mostly privately funded and cast by wealthy families for their own ceremonies, though governments and religious orders cast some. They circulated alongside official coinage and held value because they were made of copper alloy and Chinese coins were valued by weight in bronze or brass. In periods of copper scarcity they worked as alternative currency — temple coins were issued by Buddhist temples under the Yuan when copper was short or deliberately limited by the Mongol government.\n\nThe square hole is not only an opening. It is called an eye, yǎn, and Chinese charms are built on visual puns: a gourd charm made of two Wu Zhu replicas with a bat covering the character where they meet reads as happiness is before your eyes, because bat sounds like happiness and coin sounds like before. A charm's meaning is frequently a rebus you have to hear rather than see.\n\nThe forms multiply from there. Open-work charms have irregular openings between the design elements and usually a single large round hole, or a square one where the design is a building. Lock charms are flat, have no moving parts, resemble the character 凹, and were tied around children's necks by Buddhist or Taoist priests; the hundred family lock was funded by a poor family asking a hundred other families each to give a cash coin for a newborn. Pendant charms were worn at the neck or waist from the beginning of the Han, or fixed to rafters, pagodas, temples and lanterns; fish and lock charms were worn mainly by young children and infants. Han pendant charms carry inscriptions like chu xiong qu yang, do away with evil and dispel calamity, and bi bing mo dang, avoid hostilities and ward off sickness.\n\nQing-era cash coins of the five emperors Shunzhi, Kangxi, Yongzheng, Qianlong and Jiaqing are strung together as a set said to bring wealth and good fortune. Strung coins are also built into swords: in feng shui, coin-swords are hung to frighten demons and evil spirits away.\n\nChinese charms inspired the same tradition in Japan, Korea and Vietnam, and charms from those countries are regularly mistaken for Chinese ones because the symbolism and inscriptions are close. Chinese cash coins themselves are treated as lucky charms outside China.",
   "today": "A Chinese Numismatic Charms Museum opened on 1 February 2015 in Haikou, Hainan, in a building that replicates the Szechuan Kanting Civilian Commercial Bank in Movie Town Haikou, with about 530 square metres of exhibition space and more than 2,000 charms from the Han to the Republic."
+ },
+ "text_th": {
+  "what": "แผ่นกลมทำจากโลหะผสมทองแดง ทองเหลือง หรือสำริด มีรูสี่เหลี่ยมเจาะทะลุตรงกลาง ขอบทั้งสี่ด้านของรูล้อมด้วยตัวอักษร นี่คือรูปร่างของเงินตราจีนมาสองพันปี และเป็นรูปร่างของเครื่องรางที่ไม่เคยเป็นเงินตราด้วย เหรียญเครื่องรางส่วนใหญ่เลียนแบบเหรียญกษาปณ์ที่ใช้กันอยู่ในสมัยที่มันปรากฏครั้งแรก บางชิ้นหล่อเป็นรูปเสียม แม่กุญแจ ปลา ลูกท้อ และน้ำเต้าแทน"
  },
  "kin": [
   {
@@ -262,63 +266,81 @@
    "type": "amulet",
    "name": "Chinese charm coin",
    "as": "the object this sign is the shape of — the charm in the tray",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เหรียญเครื่องรางจีน (เอี้ยนเซิ่งเฉียน)",
+   "as_th": ""
   },
   {
    "to": "bagua-mirror",
    "type": "amulet",
    "name": "Bagua mirror",
    "as": "hung on the same walls and sold from the same shelf, and appearing on lock charms as a design",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กระจกปากั้ว (กระจกแปดทิศ)",
+   "as_th": ""
   },
   {
    "to": "ping-an-fu",
    "type": "amulet",
    "name": "Ping'an fu",
    "as": "the other Chinese thing tied round a child's neck for safety",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ผิงอันฝู (ยันต์ขอความสงบสุข)",
+   "as_th": ""
   },
   {
    "to": "fu-talisman",
    "type": "amulet",
    "name": "Fu talisman",
    "as": "the drawn Taoist talisman; some coin charms are cast as imperial decrees in the same voice",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "Taoist charms carry writing meant to command rather than to be read, which is a different use of script from this one",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "พระนาม",
+   "as_th": ""
   },
   {
    "to": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "the square hole is called an eye in Chinese, which is a pun and not this atlas's eye family",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "the tradition that casts, inscribes and reads them",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "copper",
    "type": "material",
    "name": "Copper and bronze",
    "as": "the alloy that gave the charm its weight and therefore its value",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ทองแดงและสำริด",
+   "as_th": ""
   },
   {
    "to": "challenge-coin",
    "type": "amulet",
    "name": "Challenge coin",
    "as": "the modern coin carried for belonging rather than for luck, and the nearest living parallel outside Asia",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เหรียญชาเลนจ์คอยน์ (เหรียญประจำหน่วย)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -543,35 +565,45 @@
    "type": "amulet",
    "name": "Challenge coin",
    "as": "the sign a coin carries, and the reason a disc reads as worth something before anybody looks at the device",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เหรียญชาเลนจ์คอยน์ (เหรียญประจำหน่วย)",
+   "as_th": ""
   },
   {
    "from": "charm-coin",
    "type": "amulet",
    "name": "Chinese charm coin",
    "as": "the sign it is: a round disc with a square hole, the shape money had for two thousand years and the shape a charm borrowed",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เหรียญเครื่องรางจีน (เอี้ยนเซิ่งเฉียน)",
+   "as_th": ""
   },
   {
    "from": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "the sign the charm coins carry: a round coin with a square hole, cast, inscribed and read within this tradition",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "fish",
    "type": "motif",
    "name": "The fish",
    "as": "the shape the Chinese fish charm departs from — the round coin with the square hole",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ปลา",
+   "as_th": ""
   },
   {
    "from": "mirror-sign",
    "type": "motif",
    "name": "The mirror",
    "as": "sold from the same shelf, and appearing on Chinese lock charms as a design",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กระจก",
+   "as_th": ""
   }
  ]
 }

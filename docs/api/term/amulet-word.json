@@ -9,7 +9,8 @@
    "amuletum",
    "amulette",
    "amalettys"
-  ]
+  ],
+  "th": "อะมูเล็ต"
  },
  "etymology": {
   "root": "Latin amuletum > Middle French amulette > English amulet",
@@ -39,6 +40,9 @@
  "text": {
   "what": "The English cover-word for a protective object, and the word this atlas is written in. English-language museums, catalogues and scholarship use it as the wide category and file everything else inside it — Wikipedia's article calls amulet the proper, inclusive term and puts good luck charm and devotional article underneath it as subsets. Other writers split the pair: an amulet turns harm away, a talisman brings fortune in. The same encyclopedia carries both positions, one article apart. Which sense a reader meets depends on who wrote the label in front of them.",
   "story": "Pliny's Natural History pins the Latin word to a thing: an amuletum is an object that protects a person from trouble. Beyond that the Latin is dark. The Online Etymology Dictionary calls its origin uncertain, floats a link to amoliri, 'to avert, to carry away', and turns down the Arabic derivation that gets repeated in popular writing.\n\nEnglish took the word late, and then dropped it. The Online Etymology Dictionary records amalettys in the middle of the fifteenth century, probably through French, and then nothing again until about 1600. A hundred and fifty years of silence, and then it came back to stay.\n\nThe split with talisman is the argument the word carries. Wikipedia's amulet article states flatly that talismans and amulets have interchangeable meanings, and in the next breath that an amulet is generally worn for protection and made from a durable material. Its talisman article keeps the functions apart: protection against evil on one side, good fortune on the other. Museum labels follow one convention or the other without announcing which.\n\n*Inference —* the category is European and it was laid over the world from outside. An Egyptian wore a wedjat; a Bangkok collector buys a phra khrueang by temple and by monk; a visitor to a Kyoto shrine takes home an omamori. None of them reaches for a word meaning amulet-in-general. The wide word belongs to the cataloguer, and it is the word on the spine of this project. Saying so is the least the reader is owed."
+ },
+ "text_th": {
+  "what": "คำครอบคลุมในภาษาอังกฤษสำหรับวัตถุคุ้มครอง และเป็นคำที่แอตลาสนี้ใช้เขียน พิพิธภัณฑ์ บัญชีรายการ และงานวิชาการภาษาอังกฤษใช้คำนี้เป็นหมวดใหญ่ และจัดทุกอย่างไว้ข้างใน บทความในวิกิพีเดียเรียกอะมูเล็ตว่าเป็นคำที่ถูกต้องและครอบคลุม และจัดเครื่องรางนำโชคกับวัตถุเพื่อความศรัทธาไว้ใต้คำนี้เป็นหมวดย่อย นักเขียนคนอื่นแยกคู่คำนี้ออกจากกัน อะมูเล็ตหันภัยออกไป ทาลิสแมนนำโชคเข้ามา สารานุกรมเดียวกันมีทั้งสองจุดยืน ห่างกันเพียงบทความเดียว ผู้อ่านจะพบความหมายแบบไหนขึ้นอยู่กับว่าใครเขียนป้ายที่อยู่ตรงหน้า"
  },
  "dating": {
   "from_year": 1450,
@@ -159,49 +163,63 @@
    "type": "term",
    "name": "talisman",
    "as": "the word it is paired with and sometimes distinguished from — protection on this side, fortune on that, when a writer bothers to split them",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ทาลิสแมน",
+   "as_th": ""
   },
   {
    "to": "charm-word",
    "type": "term",
    "name": "charm",
    "as": "the older English word, which started as the spoken spell and only later meant the object",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ชาร์ม (charm)",
+   "as_th": ""
   },
   {
    "to": "phylactery-word",
    "type": "term",
    "name": "phylactery",
    "as": "used as a general synonym for any amulet, and at the same time the fixed English word for tefillin",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "ฟิแล็กเทอรี (phylactery)",
+   "as_th": ""
   },
   {
    "to": "periapt",
    "type": "term",
    "name": "periapt",
    "as": "the near-dead English synonym, kept alive by antiquarians and by translators out of Greek",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "เพริแอปต์ (เครื่องรางแขวนคอ)",
+   "as_th": ""
   },
   {
    "to": "apotropaic-word",
    "type": "term",
    "name": "apotropaic",
    "as": "the scholar's adjective for the same objects, describing the function and claiming nothing for it",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "อะโพโทรเพอิก (กันภัย)",
+   "as_th": ""
   },
   {
    "to": "fetish-word",
    "type": "term",
    "name": "fetish",
    "as": "the other European cover-word for other people's objects — and the one this atlas uses for its own history only",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เฟติช",
+   "as_th": ""
   },
   {
    "to": "amulet-or-talisman",
    "type": "story",
    "name": "Amulet or talisman?",
    "as": "the long read that takes this disagreement apart instead of settling it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "อะมูเล็ตหรือทาลิสแมน?",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -289,70 +307,90 @@
    "type": "amulet",
    "name": "Caul",
    "as": "the word the sources reach for here, alongside talisman, for an object that is a body part and an omen at once",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "คอล (เยื่อคลุมหน้าทารกแรกเกิด)",
+   "as_th": ""
   },
   {
    "from": "wallis-budge",
    "type": "person",
    "name": "E. A. Wallis Budge",
    "as": "the word whose history his first chapter set out for a general readership, and largely fixed there",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "อี. เอ. วอลลิส บัดจ์",
+   "as_th": ""
   },
   {
    "from": "apotropaic-word",
    "type": "term",
    "name": "apotropaic",
    "as": "the noun beside this adjective; one names the thing, the other names what it is for",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "อะโพโทรเพอิก (กันภัย)",
+   "as_th": ""
   },
   {
    "from": "charm-word",
    "type": "term",
    "name": "charm",
    "as": "the Latinate cover-word that took over the object sense in catalogues, leaving charm to the bracelet and the compliment",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ชาร์ม (charm)",
+   "as_th": ""
   },
   {
    "from": "fetish-word",
    "type": "term",
    "name": "fetish",
    "as": "the cover-word Europeans used for their own protective objects while this one was used for other people's",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เฟติช",
+   "as_th": ""
   },
   {
    "from": "periapt",
    "type": "term",
    "name": "periapt",
    "as": "the word that beat it — both mean a worn protective object, and only one is still sold in bookshops",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "เพริแอปต์ (เครื่องรางแขวนคอ)",
+   "as_th": ""
   },
   {
    "from": "phylactery-word",
    "type": "term",
    "name": "phylactery",
    "as": "the cover-word phylactery is sometimes swapped for, wrongly and often",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ฟิแล็กเทอรี (phylactery)",
+   "as_th": ""
   },
   {
    "from": "talisman-word",
    "type": "term",
    "name": "talisman",
    "as": "the word it is set against — fortune in, harm away — by writers who split them at all",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ทาลิสแมน",
+   "as_th": ""
   },
   {
    "from": "ward-word",
    "type": "term",
    "name": "ward",
    "as": "the noun for the thing that does the warding, arriving in English a thousand years later",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "วอร์ด (ปัดเป่า)",
+   "as_th": ""
   },
   {
    "from": "amulet-or-talisman",
    "type": "story",
    "name": "Amulet or talisman?",
    "as": "the wide word this atlas files everything under, with its Latin and its hundred and fifty years of silence in English",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "อะมูเล็ตหรือทาลิสแมน?",
+   "as_th": ""
   }
  ]
 }

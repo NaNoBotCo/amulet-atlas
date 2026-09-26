@@ -11,7 +11,8 @@
    "fulu",
    "voces mysticae"
   ],
-  "said": "putting the words on"
+  "said": "putting the words on",
+  "th": "การลงอักขระ"
  },
  "region": [
   "world",
@@ -53,6 +54,25 @@
   "story": "The oldest dated example in this atlas is two silver scrolls found in 1979 in a Judahite burial chamber at Ketef Hinnom, southwest of Jerusalem's Old City, in a site first reported by Gabriel Barkay in 1975. They carry portions of the Priestly Blessing from Numbers, date from around 600 BCE, and took three years to unroll without destroying. They are the oldest surviving texts from the Hebrew Bible known, and they were worn.\n\nJewish practice still treats the letters as the object. A mezuzah's klaf is written by a qualified scribe, a sofer stam, trained in the law and in the calligraphy of Ktav Stam, in indelible black ink with a quill made from a feather or, rarely now, a reed; tearing or damaging the wording invalidates it. Tefillin are stricter still: 3,188 letters across the parchments, as long as fifteen hours of a scribe's work for a set, and the letters must be written in order — find a mistake later and it cannot be corrected, because the replacement letter would have been written out of sequence.\n\nThe Greek and Roman world wrote to bind rather than to bless. Curse tablets — tabella defixionis, katadesmos — are thin lead sheets scratched in tiny letters, then rolled, folded or pierced with nails. Writers added palindromes, boustrophedon lines and otherwise meaningless words such as Bazagra or Bescu, and professionals sometimes prepared tablets in advance with a space left for the customer's name. Mesopotamian incantation bowls run their text in a spiral from the outer rim inward, so that, in John Charles Arnold's description, demons following the charms would be caught in the centre.\n\nChina took the logic to its end and made the writing unreadable on purpose. Fulu are talismanic script — strokes that resemble Chinese characters without being them. Ge Hong noted in the Baopuzi, in the Eastern Jin (317–420), that a talisman worked whether or not its user could decipher it, and Fudan University's Ge Zhaoguang describes the illegibility as deliberate archaism, a veil that leaves only qualified clergy able to produce them. Thai yant are written in Khom Pali, a Thai variant of Khmer script, or in Lan Na Tai Tham in the north. Islamic talismanic shirts carry Quranic verses, names of God and of prophets, and numbers; the earliest surviving examples were made in or near the fifteenth century.\n\n*Inference —* two opposite strategies run through all of this. One camp writes to be read by a power that reads: the blessing, the verse, the name. The other writes to be unreadable by anyone: the meaningless words on a lead sheet, the Taoist strokes, the letters that only a scribe's hand can form. Both are ways of putting the text beyond the ordinary user's reach.",
   "how": "Materials first, because they decide the tool: lead takes a stylus, parchment takes a quill and a ruled line, silver takes a punch, metal foil takes a stylus and then rolls, paper takes a brush. Then the text, in a script the tradition specifies. Then, in several traditions, a check: many observant Jews have a scribe examine mezuzah parchments for tears and faded letters at least twice every seven years.",
   "today": "Still a paid trade. Scribes write mezuzot and tefillin to order, and sellers who supply a photocopied text on paper with a decorated case are selling a case: a valid mezuzah has to be handwritten on parchment by a qualified scribe. Thai and Cambodian masters still write yant on metal, cloth and skin. Chinese folk healers still use zhuyou, the talismanic branch of healing, which traditional Chinese medicine rejects and which was reinterpreted in the twentieth century as a local counterpart to hypnosis."
+ },
+ "text_th": {
+  "what": "การเขียนถ้อยคำที่ทำหน้าที่ ตะกั่วที่ขีดด้วยเหล็กจาร แผ่นหนังที่ตีเส้นแล้วเขียนตัวอักษรด้วยปากกาขนนก แผ่นเงินบางที่ตอกคำอวยพรลงไป แผ่นโลหะบางที่จารอักขระขอมบาลี กระดาษที่ระบายด้วยเส้นที่ไม่มีใครตั้งใจให้อ่าน ในประเพณีส่วนใหญ่เหล่านี้ ตัวเขียนคือเครื่องราง และวัสดุเป็นเพียงหีบห่อ: เขียนตัวอักษรผิด ก็ไม่มีวัตถุ มีแต่ของเปล่า",
+  "story": "ตัวอย่างที่มีวันที่เก่าที่สุดในแอตลาสนี้คือม้วนเงินสองม้วน ซึ่งพบใน ค.ศ. 1979 ในห้องฝังศพของชาวยูดาห์ที่เคเทฟฮินโนม (Ketef Hinnom) ทางตะวันตกเฉียงใต้ของเมืองเก่าเยรูซาเล็ม ในแหล่งที่กาเบรียล บาร์กาย (Gabriel Barkay) รายงานครั้งแรกใน ค.ศ. 1975 ม้วนทั้งสองมีบางส่วนของพรของปุโรหิตจากหนังสือกันดารวิถี มีอายุราว 600 ปีก่อน ค.ศ. และใช้เวลาสามปีในการคลี่ออกโดยไม่ให้เสียหาย ม้วนทั้งสองคือข้อความจากคัมภีร์ฮีบรูที่เก่าที่สุดที่หลงเหลือมาเท่าที่รู้จัก และเคยถูกสวมใส่\n\nการปฏิบัติของชาวยิวยังคงถือว่าตัวอักษรคือวัตถุ แคลฟ (klaf) หรือแผ่นหนังในเมซูซาห์ เขียนโดยอาลักษณ์ผู้มีคุณสมบัติ เรียกว่าโซเฟอร์ สตัม (sofer stam) ซึ่งได้รับการฝึกทั้งด้านกฎหมายศาสนาและการเขียนอักษรวิจิตรแบบคทาฟ สตัม (Ktav Stam) ด้วยหมึกดำที่ลบไม่ออก และปากกาที่ทำจากขนนก หรือซึ่งปัจจุบันพบน้อยแล้ว จากต้นอ้อ การฉีกหรือทำให้ถ้อยคำเสียหายทำให้เมซูซาห์นั้นใช้ไม่ได้ เทฟิลลินเข้มงวดยิ่งกว่า: ตัวอักษร 3,188 ตัวบนแผ่นหนังทั้งหมด งานของอาลักษณ์นานถึงสิบห้าชั่วโมงต่อหนึ่งชุด และตัวอักษรต้องเขียนตามลำดับ — หากพบข้อผิดพลาดภายหลังก็แก้ไม่ได้ เพราะตัวอักษรที่เขียนแทนจะกลายเป็นตัวที่เขียนนอกลำดับ\n\nโลกกรีกและโรมันเขียนเพื่อผูกมัดมากกว่าเพื่ออวยพร แผ่นสาปแช่ง — ตาเบลลา เดฟิกซิโอนิส (tabella defixionis) หรือคาทาเดสมอส (katadesmos) — คือแผ่นตะกั่วบางที่ขีดเขียนด้วยตัวอักษรเล็กจิ๋ว แล้วม้วน พับ หรือตอกตะปูทะลุ ผู้เขียนเติมคำพาลินโดรม (คำที่อ่านจากหน้าไปหลังหรือหลังไปหน้าได้เหมือนกัน) บรรทัดที่เขียนสลับทิศไปกลับ และคำที่ไม่มีความหมายอย่างบาซากรา (Bazagra) หรือเบสกู (Bescu) และมืออาชีพบางครั้งเตรียมแผ่นไว้ล่วงหน้าโดยเว้นที่ไว้ให้เติมชื่อของลูกค้า ชามคาถาของเมโสโปเตเมียเขียนข้อความวนเป็นเกลียวจากขอบนอกเข้าด้านใน เพื่อที่ตามคำบรรยายของจอห์น ชาลส์ อาร์โนลด์ (John Charles Arnold) ปีศาจที่ตามคาถาเข้าไปจะถูกจับไว้ตรงกลาง\n\nจีนนำตรรกะนี้ไปจนสุดทาง และทำให้ตัวเขียนอ่านไม่ออกโดยเจตนา ฝูลู่ (fulu) คืออักษรยันต์ — เส้นที่คล้ายอักษรจีนแต่ไม่ใช่อักษรจีน เก่อหง (Ge Hong) บันทึกไว้ในเป้าผูจื่อ (Baopuzi) สมัยราชวงศ์จิ้นตะวันออก (ค.ศ. 317–420) ว่ายันต์ใช้ได้ผลไม่ว่าผู้ใช้จะถอดความได้หรือไม่ และเก่อจ้าวกวง (Ge Zhaoguang) แห่งมหาวิทยาลัยฟู่ตั้น บรรยายว่าการอ่านไม่ออกนั้นเป็นการจงใจคงรูปโบราณไว้ เป็นม่านที่ทำให้มีเพียงนักบวชผู้มีคุณสมบัติเท่านั้นที่สร้างยันต์ได้ ยันต์ไทยเขียนด้วยอักขระขอมบาลี ซึ่งเป็นอักษรเขมรแบบไทย หรือด้วยอักษรธรรมล้านนาในภาคเหนือ เสื้อเครื่องรางของอิสลามมีโองการอัลกุรอาน พระนามของพระเจ้าและนามของนบี และตัวเลข ตัวอย่างที่หลงเหลือเก่าที่สุดทำขึ้นในหรือราวคริสต์ศตวรรษที่ 15\n\n*ข้อสันนิษฐาน —* ยุทธศาสตร์สองแบบที่ตรงข้ามกันแล่นผ่านเรื่องทั้งหมดนี้ ฝ่ายหนึ่งเขียนเพื่อให้อำนาจที่อ่านได้อ่าน: คำอวยพร โองการ พระนาม อีกฝ่ายเขียนเพื่อให้ไม่มีใครอ่านออก: คำไร้ความหมายบนแผ่นตะกั่ว เส้นยันต์เต๋า ตัวอักษรที่มีแต่มืออาลักษณ์เท่านั้นที่เขียนได้ ทั้งสองแบบเป็นวิธีวางข้อความไว้ให้พ้นเอื้อมของผู้ใช้ธรรมดา",
+  "how": "วัสดุมาก่อน เพราะวัสดุเป็นตัวกำหนดเครื่องมือ: ตะกั่วใช้เหล็กจาร แผ่นหนังใช้ปากกาขนนกและเส้นบรรทัด เงินใช้เหล็กตอก แผ่นโลหะบางใช้เหล็กจารแล้วม้วน กระดาษใช้พู่กัน จากนั้นคือข้อความ ในอักษรที่ประเพณีกำหนด จากนั้น ในหลายประเพณี คือการตรวจ: ชาวยิวที่เคร่งครัดจำนวนมากให้อาลักษณ์ตรวจแผ่นหนังเมซูซาห์ว่ามีรอยฉีกหรือตัวอักษรซีดจางหรือไม่ อย่างน้อยสองครั้งในทุกเจ็ดปี",
+  "today": "ยังเป็นอาชีพที่มีค่าจ้าง อาลักษณ์เขียนเมซูซาห์และเทฟิลลินตามสั่ง และผู้ขายที่ให้ข้อความถ่ายเอกสารบนกระดาษมาในกล่องประดับ ก็คือขายกล่อง: เมซูซาห์ที่ใช้ได้ต้องเขียนด้วยมือบนแผ่นหนังโดยอาลักษณ์ผู้มีคุณสมบัติ อาจารย์ชาวไทยและกัมพูชายังคงลงยันต์บนโลหะ ผ้า และผิวหนัง หมอพื้นบ้านจีนยังคงใช้จู้โหยว (zhuyou) ซึ่งเป็นสายการรักษาด้วยยันต์ ที่การแพทย์แผนจีนปฏิเสธ และถูกตีความใหม่ในคริสต์ศตวรรษที่ 20 ว่าเป็นสิ่งที่เทียบได้กับการสะกดจิตในแบบท้องถิ่น"
+ },
+ "th_fields": {
+  "dating.period": "ยุคเหล็กถึงปัจจุบัน",
+  "dating.note": "กำหนดอายุจากม้วนเงินเคเทฟฮินโนม (Ketef Hinnom) ราว 600 ปีก่อน ค.ศ. ซึ่งเป็นเครื่องรางมีจารึกชิ้นแรกสุดที่แอตลาสนี้ระบุปีได้ การเขียนลงบนเครื่องรางย่อมเก่ากว่านั้นแน่นอน นี่คือสิ่งที่มีวันที่",
+  "object.made_by": "อาลักษณ์ นักบวช หรืออาจารย์ที่ประเพณีรับรองให้ทำได้ — โซเฟอร์ สตัม (sofer stam) สำหรับข้อความของชาวยิว นักพรตเต๋าสำหรับฝูลู่ (fulu) และอาจารย์ยันต์ในเอเชียตะวันออกเฉียงใต้ภาคพื้นทวีป",
+  "object.inscription": "แตกต่างไปตามประเพณี: พรของปุโรหิต บทเชมา (Shema) โองการอัลกุรอานและพระนามของพระเจ้า คาถาบาลี และสูตรผูกมัดที่กล่าวต่อพลูโต (Pluto) คารอน (Charon) เฮคาที (Hecate) หรือเพอร์เซโฟนี (Persephone)",
+  "against.0.who": "ชามคาถาภาษาอราเมอิกและภาษาซีเรียกเอง ซึ่งกล่าวต่อปีศาจที่ระบุชื่อไว้",
+  "against.1.who": "ลูกค้าชาวกรีกและโรมัน ซึ่งแผ่นจารึกของพวกเขามอบตัวเป้าหมายให้แก่เทพแห่งยมโลก",
+  "against.1.note": "ในกรณีนี้ ตัวเขียนคือการโจมตี ไม่ใช่โล่ — งานช่างเดียวกันที่หันไปอีกทาง",
+  "against.2.who": "ฮุร์เรม สุลต่าน (Hürrem Sultan) ผู้ทูลสุลต่านสุไลมานผู้เกรียงไกร (Suleiman the Magnificent) ว่าจารึกบนเสื้อเครื่องรางที่พระนางถวายจะคุ้มครองพระองค์จากกระสุน",
+  "against.2.quote": "จารึกบนเสื้อนั้นจะคุ้มครองพระองค์จากกระสุน",
+  "against.3.who": "หมอรักษาแบบจู้โหยว (zhuyou) ของลัทธิเต๋า ซึ่งใช้กันในจีนมาตั้งแต่อย่างน้อยสมัยราชวงศ์ฮั่นตะวันออก",
+  "restricted.note": "อักษรยันต์ของลัทธิเต๋าถ่ายทอดกันอย่างลับจากนักพรตสู่ศิษย์ และคาถากับท่ามือที่ใช้ก็แตกต่างกันไปในแต่ละนิกาย แอตลาสนี้พิมพ์ว่าการปฏิบัตินี้มีไว้เพื่ออะไรและใครเขียนได้ และไม่นำเส้นของยันต์หรือถ้อยคำที่กล่าวกำกับมาแสดงซ้ำ"
  },
  "dating": {
   "period": "Iron Age to the present",
@@ -126,62 +146,74 @@
   {
    "to": "ketef-hinnom-scrolls",
    "as": "the oldest dated thing this practice made: a blessing punched into silver and worn to the grave around 600 BCE",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "สิ่งที่มีวันที่เก่าที่สุดที่การปฏิบัตินี้สร้างขึ้น: คำอวยพรที่ตอกลงบนเงินและสวมไว้จนลงหลุมศพ ราว 600 ปีก่อน ค.ศ."
   },
   {
    "to": "tefillin",
    "as": "the strictest version — 3,188 letters in order, and a mistake found afterwards cannot be fixed",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "แบบที่เข้มงวดที่สุด — ตัวอักษร 3,188 ตัวตามลำดับ และข้อผิดพลาดที่พบภายหลังแก้ไม่ได้"
   },
   {
    "to": "mezuzah",
    "as": "the parchment a scribe writes and another scribe checks twice in seven years",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "แผ่นหนังที่อาลักษณ์คนหนึ่งเขียน และอาลักษณ์อีกคนตรวจสองครั้งในเจ็ดปี"
   },
   {
    "to": "takrut",
    "as": "the rolled scroll this writing goes onto in Thailand, in Khom Pali or Lan Na Tai Tham",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "ม้วนที่ตัวเขียนนี้ถูกลงไว้ในไทย ด้วยอักขระขอมบาลีหรืออักษรธรรมล้านนา"
   },
   {
    "to": "fu-talisman",
    "as": "writing built to be unreadable, which is the point its own scholars make about it",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "ตัวเขียนที่สร้างขึ้นให้อ่านไม่ออก ซึ่งคือประเด็นที่นักวิชาการของมันเองชี้ไว้"
   },
   {
    "to": "curse-tablet",
    "as": "the same craft aimed at somebody: lead, tiny letters, then nails",
-   "rel": "contrast"
+   "rel": "contrast",
+   "as_th": "งานฝีมือเดียวกันที่เล็งไปที่ใครบางคน: ตะกั่ว ตัวอักษรเล็กจิ๋ว แล้วก็ตะปู"
   },
   {
    "to": "incantation-bowl",
    "as": "text spiralling inward on clay, buried face down to catch what follows it",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "ข้อความที่วนเป็นเกลียวเข้าด้านในบนดินเผา ฝังคว่ำหน้าลงเพื่อจับสิ่งที่ตามมันมา"
   },
   {
    "to": "talismanic-shirt",
    "as": "a whole garment as the writing surface, Quranic verse over the body in battle",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "เครื่องแต่งกายทั้งตัวเป็นพื้นผิวสำหรับเขียน โองการอัลกุรอานคลุมร่างกายในสนามรบ"
   },
   {
    "to": "ink",
    "as": "the material that carries this entire practice, and whose indelibility is a legal requirement in Jewish law",
-   "rel": "material"
+   "rel": "material",
+   "as_th": "วัสดุที่แบกการปฏิบัตินี้ไว้ทั้งหมด และการที่มันลบไม่ออกเป็นข้อกำหนดตามกฎหมายยิว"
   },
   {
    "to": "divine-name",
    "as": "the single most common thing written, from the Priestly Blessing to the names of God on a shirt",
-   "rel": "motif"
+   "rel": "motif",
+   "as_th": "สิ่งเดียวที่ถูกเขียนบ่อยที่สุด ตั้งแต่พรของปุโรหิตไปจนถึงพระนามของพระเจ้าบนเสื้อ"
   },
   {
    "to": "folding",
    "as": "what happens to the writing next — rolled, folded, sealed away from the eye that reads",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "สิ่งที่เกิดกับตัวเขียนต่อจากนั้น — ม้วน พับ ผนึกไว้ให้พ้นจากสายตาที่อ่าน"
   },
   {
    "to": "washing-off-ink",
    "as": "the branch where the writing is meant to be destroyed and drunk rather than kept",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "สายที่ตั้งใจให้ตัวเขียนถูกทำลายและดื่มลงไปแทนที่จะเก็บไว้"
   }
  ],
  "links": [
@@ -338,84 +370,108 @@
    "type": "amulet",
    "name": "Ketef Hinnom silver scrolls",
    "as": "the oldest dated thing this practice made: a blessing punched into silver and worn to the grave around 600 BCE",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ม้วนแผ่นเงินเคเทฟฮินโนม",
+   "as_th": "สิ่งที่มีวันที่เก่าที่สุดที่การปฏิบัตินี้สร้างขึ้น: คำอวยพรที่ตอกลงบนเงินและสวมไว้จนลงหลุมศพ ราว 600 ปีก่อน ค.ศ."
   },
   {
    "to": "tefillin",
    "type": "amulet",
    "name": "Tefillin",
    "as": "the strictest version — 3,188 letters in order, and a mistake found afterwards cannot be fixed",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เทฟิลลิน",
+   "as_th": "แบบที่เข้มงวดที่สุด — ตัวอักษร 3,188 ตัวตามลำดับ และข้อผิดพลาดที่พบภายหลังแก้ไม่ได้"
   },
   {
    "to": "mezuzah",
    "type": "amulet",
    "name": "Mezuzah",
    "as": "the parchment a scribe writes and another scribe checks twice in seven years",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เมซูซา",
+   "as_th": "แผ่นหนังที่อาลักษณ์คนหนึ่งเขียน และอาลักษณ์อีกคนตรวจสองครั้งในเจ็ดปี"
   },
   {
    "to": "takrut",
    "type": "amulet",
    "name": "Takrut",
    "as": "the rolled scroll this writing goes onto in Thailand, in Khom Pali or Lan Na Tai Tham",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ตะกรุด",
+   "as_th": "ม้วนที่ตัวเขียนนี้ถูกลงไว้ในไทย ด้วยอักขระขอมบาลีหรืออักษรธรรมล้านนา"
   },
   {
    "to": "fu-talisman",
    "type": "amulet",
    "name": "Fu talisman",
    "as": "writing built to be unreadable, which is the point its own scholars make about it",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": "ตัวเขียนที่สร้างขึ้นให้อ่านไม่ออก ซึ่งคือประเด็นที่นักวิชาการของมันเองชี้ไว้"
   },
   {
    "to": "curse-tablet",
    "type": "amulet",
    "name": "Curse tablet",
    "as": "the same craft aimed at somebody: lead, tiny letters, then nails",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "แผ่นคำสาป (คาตาเดสมอส)",
+   "as_th": "งานฝีมือเดียวกันที่เล็งไปที่ใครบางคน: ตะกั่ว ตัวอักษรเล็กจิ๋ว แล้วก็ตะปู"
   },
   {
    "to": "incantation-bowl",
    "type": "amulet",
    "name": "Incantation bowl",
    "as": "text spiralling inward on clay, buried face down to catch what follows it",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ชามคาถา",
+   "as_th": "ข้อความที่วนเป็นเกลียวเข้าด้านในบนดินเผา ฝังคว่ำหน้าลงเพื่อจับสิ่งที่ตามมันมา"
   },
   {
    "to": "talismanic-shirt",
    "type": "amulet",
    "name": "Talismanic shirt",
    "as": "a whole garment as the writing surface, Quranic verse over the body in battle",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เสื้อยันต์",
+   "as_th": "เครื่องแต่งกายทั้งตัวเป็นพื้นผิวสำหรับเขียน โองการอัลกุรอานคลุมร่างกายในสนามรบ"
   },
   {
    "to": "ink",
    "type": "material",
    "name": "Ink",
    "as": "the material that carries this entire practice, and whose indelibility is a legal requirement in Jewish law",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "หมึก",
+   "as_th": "วัสดุที่แบกการปฏิบัตินี้ไว้ทั้งหมด และการที่มันลบไม่ออกเป็นข้อกำหนดตามกฎหมายยิว"
   },
   {
    "to": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "the single most common thing written, from the Priestly Blessing to the names of God on a shirt",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "พระนาม",
+   "as_th": "สิ่งเดียวที่ถูกเขียนบ่อยที่สุด ตั้งแต่พรของปุโรหิตไปจนถึงพระนามของพระเจ้าบนเสื้อ"
   },
   {
    "to": "folding",
    "type": "practice",
    "name": "Folding",
    "as": "what happens to the writing next — rolled, folded, sealed away from the eye that reads",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การม้วนและพับ",
+   "as_th": "สิ่งที่เกิดกับตัวเขียนต่อจากนั้น — ม้วน พับ ผนึกไว้ให้พ้นจากสายตาที่อ่าน"
   },
   {
    "to": "washing-off-ink",
    "type": "practice",
    "name": "Washing off the ink",
    "as": "the branch where the writing is meant to be destroyed and drunk rather than kept",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การล้างหมึก",
+   "as_th": "สายที่ตั้งใจให้ตัวเขียนถูกทำลายและดื่มลงไปแทนที่จะเก็บไว้"
   }
  ],
  "source_list": [
@@ -713,189 +769,243 @@
    "type": "amulet",
    "name": "Bujeok",
    "as": "the act that makes it: Hanja pushed out of legibility into a figure",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "from": "cippus-of-horus",
    "type": "amulet",
    "name": "Cippus of Horus",
    "as": "the step that does the work — without the cut spells the water is water",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ซิปปัสแห่งฮอรัส (ศิลาฮอรัส)",
+   "as_th": ""
   },
   {
    "from": "fu-talisman",
    "type": "amulet",
    "name": "Fu talisman",
    "as": "the practice itself, taught privately and differing by sect",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "heart-scarab",
    "type": "amulet",
    "name": "Heart scarab",
    "as": "the step that makes it work as a heart scarab rather than as a large beetle — and the step the late small ones drop",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "สคารับหัวใจ",
+   "as_th": ""
   },
   {
    "from": "jimat",
    "type": "amulet",
    "name": "Jimat",
    "as": "what makes a rajah a rajah — the characters, not the paper",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "จิมัต (เครื่องรางมลายู)",
+   "as_th": ""
   },
   {
    "from": "takrut",
    "type": "amulet",
    "name": "Takrut",
    "as": "the act that charges it: the writing, not the metal, is the amulet",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ตะกรุด",
+   "as_th": "การกระทำที่ให้อานุภาพแก่ตะกรุด คือการเขียน ไม่ใช่ตัวโลหะ ที่เป็นเครื่องราง"
   },
   {
    "from": "tefillin",
    "type": "amulet",
    "name": "Tefillin",
    "as": "the practice at its most exacting: 3,188 letters, in order, no corrections",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เทฟิลลิน",
+   "as_th": ""
   },
   {
    "from": "yantra-plate",
    "type": "amulet",
    "name": "Yantra plate",
    "as": "the making itself — the mantra written into the geometry rather than beside it",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "แผ่นยันต์ (ยันตระ)",
+   "as_th": "การสร้างเอง — มนต์ที่เขียนลงไปในเรขาคณิต ไม่ใช่เขียนไว้ข้าง ๆ"
   },
   {
    "from": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "the practice at its most restricted — the strokes are the secret, not the intention behind them",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "ethiopian-scroll-craft",
    "type": "tradition",
    "name": "Ethiopian scroll craft",
    "as": "the practice at the centre of it — in this tradition, writing is the power",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "งานคัมภีร์ม้วนเอธิโอเปีย",
+   "as_th": ""
   },
   {
    "from": "west-african-charm-craft",
    "type": "tradition",
    "name": "West African charm craft",
    "as": "the practice at the centre of the Muslim strand: the verse is the charm and the sack is the carrier",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "งานเครื่องรางแอฟริกาตะวันตก",
+   "as_th": ""
   },
   {
    "from": "magic-square",
    "type": "motif",
    "name": "The number square",
    "as": "the practice — the square only works, in every one of these traditions, once somebody writes it out",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ตารางตัวเลข (ตารางมหัศจรรย์)",
+   "as_th": ""
   },
   {
    "from": "palindrome-word",
    "type": "motif",
    "name": "The word that reads both ways",
    "as": "the practice — in several of these cures the writing is eaten, which is as far as inscribing goes",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "คำที่อ่านได้สองทาง",
+   "as_th": ""
   },
   {
    "from": "scarab-sign",
    "type": "motif",
    "name": "The beetle",
    "as": "the practice that makes the base matter more than the back",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ด้วง (สคารับ)",
+   "as_th": ""
   },
   {
    "from": "ink",
    "type": "material",
    "name": "Ink",
    "as": "the practice of writing the charm, before anybody decides whether to keep it",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "หมึก",
+   "as_th": "การปฏิบัติที่เขียนเครื่องรางขึ้นมา ก่อนที่ใครจะตัดสินว่าจะเก็บมันไว้หรือไม่"
   },
   {
    "from": "lead",
    "type": "material",
    "name": "Lead",
    "as": "the practice of scratching the words, which is the only step lead requires",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ตะกั่ว",
+   "as_th": ""
   },
   {
    "from": "palm-leaf",
    "type": "material",
    "name": "Palm leaf",
    "as": "the practice this material demands — a stylus cutting, not a pen laying down ink",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ใบลาน",
+   "as_th": "การปฏิบัติที่วัสดุนี้ต้องการ คือเหล็กจารที่ขูดลงไป ไม่ใช่ปากกาที่ลงหมึก"
   },
   {
    "from": "parchment",
    "type": "material",
    "name": "Parchment",
    "as": "the practice that makes the object — in sequence, with no correction possible",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "แผ่นหนัง (พาร์ชเมนต์)",
+   "as_th": ""
   },
   {
    "from": "consecration",
    "type": "practice",
    "name": "Consecration",
    "as": "the step before this one — the writing that has to be right before anyone chants over it",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การปลุกเสก",
+   "as_th": "ขั้นตอนก่อนหน้านี้ — การเขียนที่ต้องถูกต้องก่อนที่ใครจะสวดเหนือมัน"
   },
   {
    "from": "folding",
    "type": "practice",
    "name": "Folding",
    "as": "the step this one closes over",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การม้วนและพับ",
+   "as_th": "ขั้นตอนที่ขั้นตอนนี้ปิดทับลงไป"
   },
   {
    "from": "tattooing",
    "type": "practice",
    "name": "Tattooing",
    "as": "the writing step, done with a needle and at the bearer's expense",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การสัก",
+   "as_th": "ขั้นตอนการเขียน ทำด้วยเข็ม และผู้ถือเป็นผู้แบกรับ"
   },
   {
    "from": "washing-off-ink",
    "type": "practice",
    "name": "Washing off the ink",
    "as": "the writing step, done here in the knowledge that the writing is about to be destroyed",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การล้างหมึก",
+   "as_th": ""
   },
   {
    "from": "insadong",
    "type": "place",
    "name": "Insa-dong",
    "as": "the practice a stationery district exists to equip",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "อินซาดง",
+   "as_th": ""
   },
   {
    "from": "campbell-bonner",
    "type": "person",
    "name": "Campbell Bonner",
    "as": "the practice his method reads — image and cut text taken together, never separately",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "แคมป์เบลล์ บอนเนอร์",
+   "as_th": ""
   },
   {
    "from": "joseph-naveh",
    "type": "person",
    "name": "Joseph Naveh",
    "as": "the practice his whole method addresses — what was written, in which hand, and when",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "โยเซฟ นาเวห์",
+   "as_th": ""
   },
   {
    "from": "abracadabra",
    "type": "term",
    "name": "abracadabra",
    "as": "the practice the whole thing consists of — no material, no shape, just the writing of it",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "อาบราคาดาบรา",
+   "as_th": ""
   },
   {
    "from": "yantra-word",
    "type": "term",
    "name": "yantra",
    "as": "the practice the word requires: a yantra is drawn before it is anything",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ยันตระ (ยันต์)",
+   "as_th": "การปฏิบัติที่คำนี้ต้องการ: ยันตระต้องถูกวาดก่อนจะเป็นอะไรทั้งนั้น"
   }
  ]
 }

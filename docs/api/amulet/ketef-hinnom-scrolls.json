@@ -12,7 +12,8 @@
    "Ketef Hinnom amulets",
    "the silver scrolls",
    "KH1 and KH2"
-  ]
+  ],
+  "th": "ม้วนแผ่นเงินเคเทฟฮินโนม"
  },
  "region": [
   "levant"
@@ -34,6 +35,9 @@
   "what": "Two sheets of silver, tiny, rolled tight, each scratched with a passage of the Priestly Blessing from the Book of Numbers. They were found rolled and had to be opened; the method for doing it without losing them took three years to develop. They hold what may be the oldest surviving text of the Hebrew Bible.",
   "story": "Ketef Hinnom is the shoulder of rock where the Valley of Rephaim meets the Valley of Hinnom, on the old road from Jerusalem to Bethlehem, beside St Andrew's Church. Gabriel Barkay reported the first season there in 1975: a salvage excavation on the hill between the church road and the road down into the valley, prompted by a block of stone 2.80 m long lying on the surface, which turned out to be a threshold still in place in a monumental complex. Underneath were rock-cut burial chambers in natural caverns, Iron Age Judahite, of the seventh and sixth centuries BCE.\n\nIn 1979 the two silver scrolls came out of one of those chambers. The excavation report describes them as apparently once used as amulets. They are dated to the First Temple period, late seventh to early sixth century BCE, before the Babylonian Exile. They are now in the Israel Museum.\n\n*Inference —* two things about this object are unusual for the atlas at once. It is a written charm that survives from before the tradition it belongs to had a canon to quote from, and it is a charm whose text is not a spell but a blessing. Whether the people who rolled them up would have called them amulets is a question the excavation cannot answer, and the cited report does not claim more than 'apparently'.",
   "how": "Silver, hammered thin, inscribed, rolled, and worn or carried. How they were suspended is not published in what this project read; what is documented is where they ended up, which is a burial chamber."
+ },
+ "text_th": {
+  "what": "แผ่นเงินเล็กจิ๋วสองแผ่น ม้วนไว้แน่น แต่ละแผ่นมีข้อความตอนหนึ่งจากพรของปุโรหิต (Priestly Blessing) ในหนังสือกันดารวิถีขีดเขียนไว้ ทั้งสองแผ่นพบในสภาพม้วนอยู่และต้องคลี่ออก วิธีคลี่โดยไม่ให้แผ่นเงินเสียหายใช้เวลาพัฒนาถึงสามปี ม้วนเงินนี้อาจเป็นข้อความของคัมภีร์ไบเบิลฮีบรูที่เก่าแก่ที่สุดที่ยังหลงเหลืออยู่"
  },
  "dating": {
   "period": "Iron Age Judah, First Temple period",
@@ -188,63 +192,81 @@
    "type": "amulet",
    "name": "Tefillin",
    "as": "the commandment that puts the same kind of verses in a box on the body — and the object this one keeps getting read backwards through",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "เทฟิลลิน",
+   "as_th": ""
   },
   {
    "to": "mezuzah",
    "type": "amulet",
    "name": "Mezuzah",
    "as": "the other Jewish text-in-a-container, fixed to a doorpost instead of worn",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เมซูซา",
+   "as_th": ""
   },
   {
    "to": "kamea",
    "type": "amulet",
    "name": "Kamea",
    "as": "the written Jewish amulet as a class, of which this is the oldest dated survivor",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "คาเมอา (เครื่องรางแบบเขียนของชาวยิว)",
+   "as_th": ""
   },
   {
    "to": "jewish-practical-kabbalah",
    "type": "tradition",
    "name": "Practical Kabbalah",
    "as": "the tradition of writing a holy text to carry, a thousand years before it had that name",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "คับบาลาห์ภาคปฏิบัติ",
+   "as_th": ""
   },
   {
    "to": "silver",
    "type": "material",
    "name": "Silver",
    "as": "the metal that let a text this small survive two and a half thousand years in a tomb",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เงิน (โลหะเงิน)",
+   "as_th": ""
   },
   {
    "to": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "the practice that is the reason this object exists to be read",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "to": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the same object in another scripture — a verse, rolled small, worn",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "to": "quran-pendant",
    "type": "amulet",
    "name": "Qur'an pendant",
    "as": "scripture in a case at the throat; this is that idea's oldest dated instance in the atlas",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "จี้อัลกุรอาน",
+   "as_th": ""
   },
   {
    "to": "dating-a-charm",
    "type": "story",
    "name": "Dating a charm",
    "as": "the long read about what it means to date an amulet; this one is dated by a tomb, a threshold stone and three years of unrolling",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การระบุอายุเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -377,77 +399,99 @@
    "type": "amulet",
    "name": "Kamea",
    "as": "the oldest surviving Hebrew written charm, six centuries before the Talmudic practice this record starts from",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "คาเมอา (เครื่องรางแบบเขียนของชาวยิว)",
+   "as_th": ""
   },
   {
    "from": "mezuzah",
    "type": "amulet",
    "name": "Mezuzah",
    "as": "the oldest surviving Hebrew text-object in the atlas, and the thing every argument about this one eventually reaches for",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "เมซูซา",
+   "as_th": ""
   },
   {
    "from": "quran-pendant",
    "type": "amulet",
    "name": "Qur'an pendant",
    "as": "the oldest dated instance of this idea anywhere in the atlas: a blessing, rolled small, carried",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "จี้อัลกุรอาน",
+   "as_th": ""
   },
   {
    "from": "tefillin",
    "type": "amulet",
    "name": "Tefillin",
    "as": "the oldest surviving Hebrew verses written small and carried — six centuries before the earliest tefillin finds",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "เทฟิลลิน",
+   "as_th": ""
   },
   {
    "from": "jewish-practical-kabbalah",
    "type": "tradition",
    "name": "Practical Kabbalah",
    "as": "the oldest object in the family: silver strips carrying the Priestly Blessing, written to be worn a thousand years before the tradition had a name",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "คับบาลาห์ภาคปฏิบัติ",
+   "as_th": ""
   },
   {
    "from": "lead",
    "type": "material",
    "name": "Lead",
    "as": "the same idea in silver: a thin sheet, a written formula, rolled and worn, aimed at protecting rather than binding",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตะกั่ว",
+   "as_th": ""
   },
   {
    "from": "silver",
    "type": "material",
    "name": "Silver",
    "as": "two rolled sheets of this metal, and the oldest surviving text of the Hebrew Bible",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เงิน (โลหะเงิน)",
+   "as_th": ""
   },
   {
    "from": "folding",
    "type": "practice",
    "name": "Folding",
    "as": "the oldest rolled charm this atlas dates, found still rolled in a Jerusalem burial chamber",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การม้วนและพับ",
+   "as_th": "เครื่องรางม้วนที่เก่าที่สุดที่แอตลาสนี้กำหนดอายุได้ พบในสภาพยังม้วนอยู่ในห้องฝังศพที่เยรูซาเล็ม"
   },
   {
    "from": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "silver worn in life and found in a burial chamber, carrying the oldest surviving biblical text known",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "from": "inscribing",
    "type": "practice",
    "name": "Inscribing",
    "as": "the oldest dated thing this practice made: a blessing punched into silver and worn to the grave around 600 BCE",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การลงอักขระ",
+   "as_th": "สิ่งที่มีวันที่เก่าที่สุดที่การปฏิบัตินี้สร้างขึ้น: คำอวยพรที่ตอกลงบนเงินและสวมไว้จนลงหลุมศพ ราว 600 ปีก่อน ค.ศ."
   },
   {
    "from": "joseph-naveh",
    "type": "person",
    "name": "Joseph Naveh",
    "as": "the rolled silver amulet strip from Jerusalem — the object class his palaeography dates",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "โยเซฟ นาเวห์",
+   "as_th": ""
   }
  ]
 }

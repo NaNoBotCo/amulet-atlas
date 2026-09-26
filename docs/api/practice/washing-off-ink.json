@@ -9,7 +9,8 @@
    "erasure water",
    "swallowed charm"
   ],
-  "said": "the charm is taken, not worn"
+  "said": "the charm is taken, not worn",
+  "th": "การล้างหมึก"
  },
  "region": [
   "arabia-gulf",
@@ -39,6 +40,9 @@
   "story": "Islamic legal writing draws a fine line through this. Remke Kruk, summarising how close the approved and disapproved practices sit, notes that dissolving Quranic texts written on paper in water is forbidden, while the well-known Wahhabi-oriented cleric Wahid 'Abd al-Salam Bali recommends, in the cited account's words, writing in bowls with ink that is washed off by the water poured into the bowl. The same body of practice records treating a stomach ache by drinking water over which Quranic passages have been recited, and prescribes, for the condition called sihr al-nazif, drinking water over which an incantation has been recited and bathing in it for three days.\n\nThe Philippines has a swallowed branch of its own. An agimat can take the form of consumable enchanted mud, putik in Tagalog, and a mutya — described in one account as a drop of liquid taken from the heart of a banana tree at midnight — is ingested rather than worn.\n\n*Inference —* this practice is the reason a survey of amulets built from museum collections will always undercount written charms. A takrut rolled into metal lasts a thousand years; the same verse written to be washed off lasts a minute and leaves a person, not an object. Where a tradition uses both, the collections show one and not the other.\n\nIt is worth marking what this record does not claim. Mesopotamian incantation bowls, which are the other famous case of writing inside a bowl, were buried face down under thresholds in the accounts read here, not washed and drunk, and nothing in those accounts connects the two customs.",
   "how": "Public structure only: a text is written on a surface chosen so the ink will lift — the inside of a bowl, a wooden slate — water is poured on, and the water is drunk or used for washing. Which text is written, and by whom, is the part the traditions govern, and this record does not set it out.",
   "today": "Live and contested inside Islam. The practices of healers who claim to speak with jinn to cure or prevent the evil eye are held by some conservative Muslims to be shirk, a serious sin; the cited account sets out how narrow the difference between approved and disapproved practice can be, with the washing-off method on the approved side of the line drawn by the cleric it names. This atlas reports that disagreement between Muslim authorities and takes no side in it."
+ },
+ "text_th": {
+  "what": "เครื่องรางที่เขียนขึ้นแล้วจงใจทำลาย เพื่อให้คนคนหนึ่งรับมันเข้าไปได้ เขียนถ้อยคำไว้ด้านในชาม เทน้ำลงไป ตัวอักษรละลายออกมาในน้ำ แล้วดื่มน้ำนั้น สิ่งที่เคยเป็นวัตถุอยู่ชั่วครู่กลายเป็นยาหนึ่งขนาน ไม่มีอะไรหลงเหลือ นี่คือเหตุที่แทบไม่มีลิ้นชักพิพิธภัณฑ์ใดมีตัวอย่างของวิธีปฏิบัตินี้ ซึ่งอาจเป็นการใช้เครื่องรางแบบเขียนที่แพร่หลายที่สุดที่ยังมีอยู่"
  },
  "dating": {
   "period": "documented in modern Islamic legal and ethnographic writing; the practice is older than any date cited here",
@@ -228,56 +232,72 @@
    "type": "amulet",
    "name": "Qur'an pendant",
    "as": "the kept version of the same verses — worn instead of drunk",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "จี้อัลกุรอาน",
+   "as_th": ""
   },
   {
    "to": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the folded written charm of the same tradition, cased to last rather than washed to be taken",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "to": "islamic-talismanic",
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "the tradition this practice sits inside, and where the argument about it is being had",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "to": "ink",
    "type": "material",
    "name": "Ink",
    "as": "the material that has to be chosen to lift rather than to last, which inverts every other use of it in this atlas",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "หมึก",
+   "as_th": ""
   },
   {
    "to": "anting-anting",
    "type": "amulet",
    "name": "Anting-anting",
    "as": "the Filipino charm that can be eaten, described as consumable mud or an ingested mutya",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "อันติง-อันติง (เครื่องรางฟิลิปปินส์)",
+   "as_th": ""
   },
   {
    "to": "incantation-bowl",
    "type": "amulet",
    "name": "Incantation bowl",
    "as": "the other writing-inside-a-bowl practice, which in the accounts read here was buried rather than drunk — the parallel is a shape, not a link",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ชามคาถา",
+   "as_th": ""
   },
   {
    "to": "inscribing",
    "type": "practice",
    "name": "Inscribing",
    "as": "the writing step, done here in the knowledge that the writing is about to be destroyed",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การลงอักขระ",
+   "as_th": ""
   },
   {
    "to": "ethiopian-scroll-craft",
    "type": "tradition",
    "name": "Ethiopian scroll craft",
    "as": "the neighbouring tradition of written healing charms, whose relation to this practice this record does not assert",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "งานคัมภีร์ม้วนเอธิโอเปีย",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -457,49 +477,63 @@
    "type": "amulet",
    "name": "Anting-anting",
    "as": "the nearest practice in this atlas to swallowing a mutya — a charm taken into the body rather than hung on it",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "อันติง-อันติง (เครื่องรางฟิลิปปินส์)",
+   "as_th": ""
   },
   {
    "from": "cippus-of-horus",
    "type": "amulet",
    "name": "Cippus of Horus",
    "as": "the practice this object is built for — the spell leaves the stone in the water and is swallowed",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ซิปปัสแห่งฮอรัส (ศิลาฮอรัส)",
+   "as_th": ""
   },
   {
    "from": "islamic-talismanic",
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "the practice at the sharpest point of the modern argument: dissolving written Qur'an in water is ruled out, writing in a bowl the water washes off is recommended",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "from": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "the practice of drinking the writing, which follows from the name being the active part",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "พระนาม",
+   "as_th": ""
   },
   {
    "from": "palindrome-word",
    "type": "motif",
    "name": "The word that reads both ways",
    "as": "the related practice of taking the writing into the body, here by eating bread and cheese instead of drinking ink",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คำที่อ่านได้สองทาง",
+   "as_th": ""
   },
   {
    "from": "ink",
    "type": "material",
    "name": "Ink",
    "as": "the practice this material was made for: written, dissolved, drunk, gone",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "หมึก",
+   "as_th": "การปฏิบัติที่วัสดุนี้ถูกทำขึ้นมาเพื่อมัน: เขียน ละลาย ดื่ม หายไป"
   },
   {
    "from": "inscribing",
    "type": "practice",
    "name": "Inscribing",
    "as": "the branch where the writing is meant to be destroyed and drunk rather than kept",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การลงอักขระ",
+   "as_th": "สายที่ตั้งใจให้ตัวเขียนถูกทำลายและดื่มลงไปแทนที่จะเก็บไว้"
   }
  ]
 }

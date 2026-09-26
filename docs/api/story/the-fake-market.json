@@ -8,7 +8,8 @@
    "forgery and provenance",
    "what the loupe is for",
    "certificates and copies"
-  ]
+  ],
+  "th": "ตลาดของปลอม"
  },
  "region": [
   "mainland-sea",
@@ -33,6 +34,23 @@
  },
  "text": {
   "what": "Buyers at an amulet stall arrive with jeweller's loupes. They are not checking whether the clay is old — the clay is usually old enough. They are checking which mould pressed it, which temple issued it, and which monk sat over it, because those three facts are the price and none of them is visible in the image on the front. Wherever a charm's value sits in its history rather than in its material, a second trade grows beside the first: copies, certificates, experts who sell an opinion, and — at the top of the market — paperwork invented to cover a theft."
+ },
+ "text_th": {
+  "what": "ผู้เช่าบูชาที่แผงพระมาพร้อมกล้องส่องพระ พวกเขาไม่ได้ส่องดูว่าเนื้อดินเก่าหรือไม่ เพราะเนื้อดินมักเก่าพออยู่แล้ว แต่ส่องดูว่าแม่พิมพ์ใดกดพระองค์นี้ วัดใดออก และพระสงฆ์รูปใดนั่งปลุกเสก เพราะข้อเท็จจริงสามข้อนี้คือราคา และไม่มีข้อใดมองเห็นได้จากภาพที่อยู่ด้านหน้าองค์พระ ที่ใดก็ตามที่มูลค่าของเครื่องรางอยู่ที่ประวัติความเป็นมาไม่ใช่เนื้อวัสดุ ที่นั่นจะมีการค้าอีกแบบหนึ่งเกิดขึ้นควบคู่ไปด้วย คือของทำเลียนแบบ ใบรับรอง ผู้เชี่ยวชาญที่ขายความเห็น และในตลาดระดับบนสุด เอกสารที่แต่งขึ้นเพื่อปกปิดการโจรกรรม"
+ },
+ "th_fields": {
+  "dating.period": "คริสต์ศตวรรษที่ 19 ถึงปัจจุบัน",
+  "dating.note": "ระบุอายุจากการทำเลียนแบบครั้งแรกสุดที่บันทึกนี้ระบุได้พร้อมแหล่งอ้างอิง — ลูกปัดแบบหินดีซีที่เจียระไนที่อีดาร์-โอเบอร์ชไตน์ (Idar-Oberstein) อย่างช้าที่สุดตั้งแต่คริสต์ศตวรรษที่ 19 และหินดีซีเลียนแบบที่มีอายุราวสองสามร้อยปี การปลอมเครื่องรางย่อมเก่ากว่านั้นแน่นอน แต่โครงการนี้ยังไม่ได้อ่านกรณีที่ระบุอายุได้ซึ่งเก่ากว่านี้",
+  "sections.0.h": "ไทย: ราคาคือประวัติที่มา",
+  "sections.0.text": "พระเครื่องไทยเป็นพระพิมพ์ขนาดเล็กที่กดจากแม่พิมพ์ มักทำจากดินในเขตวัด เกสรดอกไม้ เส้นผมของพระสงฆ์ และวัตถุมงคลอื่น ๆ แล้วนำไปปลุกเสกในพิธีที่อาจใช้เวลาตั้งแต่ 1 สัปดาห์ไปจนถึงหลายปี มีการระบุไว้ว่ามูลค่าของพระเครื่องขึ้นอยู่กับรูปลักษณ์ ความหายาก ผู้สร้าง อายุ และอานุภาพที่เล่าลือกัน — ซึ่งทุกข้อล้วนเป็นการกล่าวอ้างถึงอดีตของวัตถุชิ้นนั้น\n\nตลาดระดับบนสุดมีทั้งชื่อและตัวเลข พระ 5 แบบที่หายากและเป็นที่ต้องการมากที่สุด ซึ่งเรียกรวมกันว่าพระชุดเบญจภาคี มีมูลค่ากว่า 10 ล้านบาท พระสมเด็จวัดระฆังสร้างขึ้นราว พ.ศ. 2409 ถึง 2414 (ค.ศ. 1866 ถึง 1871) โดยสมเด็จโตแห่งวัดระฆังโฆสิตาราม พระสมเด็จจิตรลดาเป็นพระที่พระบาทสมเด็จพระเจ้าอยู่หัวภูมิพลอดุลยเดชทรงสร้างด้วยพระองค์เอง และพระราชทานระหว่าง พ.ศ. 2508 ถึง 2513 แก่ทหาร ตำรวจ ข้าราชการ และประชาชนที่ได้รับการคัดเลือก สร้างไม่เกิน 3,000 องค์ แต่ละองค์มีใบกำกับที่ระบุชื่อผู้ได้รับพระราชทาน วันที่ และหมายเลขขององค์พระ และเมื่อ พ.ศ. 2556 องค์หนึ่งมีมูลค่าอย่างน้อย 2 ล้านบาท\n\nใบกำกับนั้นคือวัตถุที่น่าสนใจ มันมีอยู่เพราะองค์พระเป็นพยานให้ตัวเองไม่ได้\n\nที่ใดที่ประวัติที่มาคือราคา การปลอมแปลงก็คือโมเดลธุรกิจ คำอธิบายที่เผยแพร่ไว้พูดตรง ๆ ถึงวงจรที่เกิดขึ้น คือ เพราะพระเครื่องหายากของพระเกจิอาจารย์ชั้นครูที่นักสะสมต้องการทำเงินได้ ตลาดของปลอมจึงเกิดขึ้น และตลาดนี้เองที่ทำให้ผู้เชี่ยวชาญในวงการผูกขาดตลาดไว้ได้ พระเครื่องระดับที่สะสมกันนั้นหายาก และมักต้องให้ผู้เชี่ยวชาญตรวจสอบ ของปลอมมีอยู่ทั่วไป นักสะสมจึงเจาะจงสะสมเพียงแบบเดียวหรือวัดเดียว เพื่อให้ปัญหาเล็กพอที่จะรู้ได้ทั่วถึง\n\nขนาดของตลาดอาจหลุดจากการควบคุมของทุกคน พระเครื่องจตุคามรามเทพสร้างขึ้นครั้งแรกใน พ.ศ. 2530 โดยนายตำรวจ ขุนพันธรักษ์ราชเดช ในวาระการสร้างหลักเมืองนครศรีธรรมราช เริ่มได้รับความนิยมในช่วงต้นคริสต์ทศวรรษ 2000 และนิยมอย่างรุนแรงที่สุดตั้งแต่งานศพของท่านเมื่อวันที่ 5 กรกฎาคม พ.ศ. 2549 ไปจนถึงกลางปี พ.ศ. 2550 มีการวางแผนจะสร้างมากถึง 150 รุ่นใน พ.ศ. 2550 และตลาดของพระแบบนี้เพียงแบบเดียวมีมูลค่าถึง 20,000 ล้านบาทในปีนั้น ปลายปี พ.ศ. 2550 ฟองสบู่แตก ความนิยมจางหายไป และมีพระค้างอยู่เป็นจำนวนมากที่เช่าบูชาได้ในราคาถูก",
+  "sections.1.h": "ทิเบต: ของเลียนแบบมีประวัติของตัวเอง",
+  "sections.1.text": "หินดีซีคือลูกปัดหินอาเกตกัดลายจากแถบเทือกเขาหิมาลัย สีดำถึงน้ำตาล มีลวดลายสีขาวงาช้าง และมีค่าตามจำนวน \"ตา\" บนเม็ด หินดีซีโบราณที่เรียกว่า \"ดีซีบริสุทธิ์\" ยังไม่มีใครระบุได้แน่ชัดว่ามาจากแหล่งใด ตามคำอธิบายที่เผยแพร่ซึ่งโครงการนี้อ่านเมื่อวันที่ 16 กันยายน ค.ศ. 2026 ลูกปัดโบราณอาจมีราคาสูงถึงหลายแสนดอลลาร์สหรัฐ โดยเฉพาะเม็ดที่มีตามากและมี \"จุดเลือด\" — จุดเหล็กสีแดงเล็ก ๆ ที่แทรกอยู่ในเนื้อสีขาว\n\nถัดลงมามีของ 2 อย่างที่ต่างกันมาก แต่ถูกเรียกว่าของปลอมเหมือนกัน\n\nหินดีซีใหม่เป็นหินอาเกตที่ตัด เจาะ และกัดลายด้วยวิธีสมัยใหม่ — เลเซอร์ น้ำตาลและสารเคมีสมัยใหม่ ห้องสุญญากาศ — ราคาตั้งแต่ราว 10 ถึง 2,000 ดอลลาร์สหรัฐ ขึ้นอยู่กับคุณภาพและความเงางาม หินดีซีใหม่กำลังได้รับความนิยมมากขึ้นในหมู่ชาวทิเบตในฐานะทางเลือกที่ราคาเอื้อมถึง และไม่ได้ถูกมองว่าเป็นของเปล่า ๆ ลูกปัดใหม่อาจถูกนำไปให้ลามะหรือคุรุทำพิธีให้พร นำติดตัวไปจาริกแสวงบุญที่สถูปและสักการสถาน และใช้ประกอบการสวดมนตร์ ข้อโต้แย้งหนึ่งที่เผยแพร่ไว้ซึ่งสนับสนุนหินดีซีใหม่คือ ลูกปัดใหม่ไม่ได้พากรรมไม่ดีของเจ้าของคนก่อนติดมาด้วย\n\nหินดีซีเลียนแบบเป็นอีกเรื่องหนึ่ง — ทำจากแก้ว เรซิน แก้วพันไฟ ไม้ กระดูก พลาสติก โลหะ หรือหินกัดลายที่ไม่ใช่แบบดั้งเดิม เม็ดเรซินบางเม็ดถ่วงน้ำหนักด้วยไส้ตะกั่ว ของเลียนแบบเหล่านี้มีประวัติยาวนานของตัวเอง บางชิ้นมีอายุย้อนไปราวสองสามร้อยปี และลูกปัดเลียนแบบรุ่นเก่ามีมูลค่าในการสะสมในตัวเอง ส่วนลูกปัดสมัยใหม่ที่แกะด้วยเครื่อง เจาะด้วยเครื่อง และขัดเงาจัด ขายกันในราคาต่ำกว่า 2 ดอลลาร์สหรัฐ มักขายเป็นพวง ลายกัดไม่ลึกถึงแกน และส่วนใหญ่ขายให้ผู้ซื้อจากจีนแผ่นดินใหญ่ในฐานะเครื่องรางฮวงจุ้ย\n\nและการทำเลียนแบบก็ไม่ใช่เรื่องใหม่ ทั้งไม่ได้มีแต่ในเอเชีย ลูกปัดแบบหินดีซีถูกผลิตที่อีดาร์-โอเบอร์ชไตน์ (Idar-Oberstein) ในเยอรมนี อย่างช้าที่สุดตั้งแต่คริสต์ศตวรรษที่ 19 โดยช่างเจียระไนอาเกตซึ่งทำงานอยู่ที่นั่นมาตั้งแต่สมัยโรมัน\n\n*ข้อสันนิษฐาน —* คำว่า \"ของปลอม\" ในย่อหน้านั้นทำหน้าที่อย่างน้อย 3 อย่าง คือ ไม่ใช่อาเกต ไม่เก่า และไม่ได้ผ่านพิธีให้พร ผู้ซื้อที่ไม่บอกว่าหมายถึงอย่างไหน ก็ไม่มีใครตอบได้",
+  "sections.2.h": "จดหมายที่แต่งขึ้น",
+  "sections.2.text": "ที่ยอดบนสุดของการค้าโบราณวัตถุ สิ่งที่ถูกปลอมไม่ใช่ตัววัตถุ แต่เป็นเอกสาร\n\nแผ่นจารึกความฝันกิลกาเมช (Gilgamesh Dream Tablet) แผ่นดินจารึกอักษรรูปลิ่มที่บรรจุมหากาพย์กิลกาเมชส่วนหนึ่ง ออกจากอิรักและเข้าสู่สหรัฐอเมริกาในปี ค.ศ. 2003 โดยผู้ค้าโบราณวัตถุชาวอเมริกันรายหนึ่งซื้อมาจากครอบครัวของผู้ค้าเหรียญในลอนดอน และส่งเข้าประเทศโดยไม่แจ้งว่าข้างในคืออะไร ในปี ค.ศ. 2007 มีการทำจดหมายรับรองที่มาขึ้น อ้างว่าแผ่นจารึกนี้มาจากกล่องเศษสำริดโบราณเบ็ดเตล็ดที่ซื้อจากการประมูลในปี ค.ศ. 1981 แผ่นจารึกถูกขายต่อหลายทอดโดยอาศัยจดหมายฉบับนั้น ในปี ค.ศ. 2014 ฮ็อบบีล็อบบี (Hobby Lobby) ซื้อไปจากบริษัทประมูลในลอนดอน สำหรับพิพิธภัณฑ์พระคัมภีร์ (Museum of the Bible) ในกรุงวอชิงตัน ดี.ซี.\n\nเจ้าหน้าที่บังคับใช้กฎหมายของสหรัฐฯ ยึดแผ่นจารึกไว้ในปี ค.ศ. 2019 กระทรวงยุติธรรมได้คำสั่งริบทรัพย์ในเดือนกรกฎาคม ค.ศ. 2021 และแผ่นจารึกถูกส่งคืนอิรักในพิธีเมื่อเดือนกันยายนปีนั้น แจ็กเกอลีน เอ็ม. คาซูลิส (Jacquelyn M. Kasulis) ซึ่งขณะนั้นรักษาการอัยการสหรัฐฯ ประจำเขตตะวันออกของนิวยอร์ก กล่าวว่าการริบทรัพย์ครั้งนี้ \"เป็นหมุดหมายสำคัญบนเส้นทางการส่งคืนผลงานชิ้นเอกอันหายากและเก่าแก่ชิ้นนี้\" สู่อิรัก\n\nมีประโยคหนึ่งในลำดับเหตุการณ์นั้นที่เป็นหัวเรื่องทั้งหมดของบันทึกนี้ คือ ของปลอมคือการประมูลปี ค.ศ. 1981 ไม่ใช่แผ่นจารึก",
+  "sections.3.h": "การค้าทำให้หลักฐานสูญเสียอะไร",
+  "sections.3.text": "การลักลอบขุดพรากสิ่งเดียวที่เครื่องรางซึ่งขุดค้นพบมี แต่เครื่องรางที่ซื้อมาไม่มี — นั่นคือชั้นดินที่มันเคยวางอยู่\n\nในปี ค.ศ. 1987 เนินฝังศพอายุ 500 ปีที่สแล็กฟาร์ม (Slack Farm) ในรัฐเคนทักกีถูกลักลอบขุด ร่างมนุษย์ถูกโยนทิ้งไว้ข้าง ๆ ขณะที่ของโบราณถูกนำไป เหตุการณ์นี้เป็นข่าวระดับประเทศ และช่วยปลุกกระแสสนับสนุนการคุ้มครองหลุมศพของชนพื้นเมืองอเมริกัน การประท้วงที่แหล่งดิกสันเมานด์ส (Dickson Mounds) ในรัฐอิลลินอยส์ ซึ่งนำโครงกระดูกชนพื้นเมืองมาจัดแสดง ก็มีผลเช่นเดียวกัน\n\nพิพิธภัณฑ์ไม่ได้เป็นเพียงผู้ยืนดู ระหว่าง ค.ศ. 1886 ถึง 1891 อี. เอ. วอลลิส บัดจ์ (E. A. Wallis Budge) ถูกบริติชมิวเซียม (British Museum) ส่งไปสืบว่าเหตุใดแผ่นดินจารึกอักษรรูปลิ่มจากแหล่งขุดค้นในอิรักของพิพิธภัณฑ์เอง จึงไปโผล่อยู่กับผู้ค้าในลอนดอน — และไปสร้างความสัมพันธ์กับผู้ค้าในอิรัก เพื่อให้พิพิธภัณฑ์ซื้อได้ในราคาท้องถิ่นแทน เขาลักลอบนำแผ่นจารึกอามาร์นา (Amarna) ออกจากอิรักด้วยการติดสินบน และเล่าเรื่องนี้ไว้เองในหนังสือ บายไนล์แอนด์ไทกริส (By Nile and Tigris) นักโบราณคดี ไบรอัน เอ็ม. เฟแกน (Brian M. Fagan) เรียกเขาว่า \"หนึ่งในผู้ปล้นโบราณวัตถุอย่างผิดกฎหมายรายใหญ่\" เจ้าหน้าที่พิพิธภัณฑ์และตัวแทนในยุคนั้นขนย้ายโบราณวัตถุในถุงเอกสารทางการทูต ติดสินบนเจ้าหน้าที่ศุลกากร หรือขอให้เพื่อนในกรมโบราณวัตถุอียิปต์ (Egyptian Service of Antiquities) ปล่อยหีบของพวกเขาผ่านไปโดยไม่เปิดตรวจ\n\nฟลินเดอร์ส พีทรี (Flinders Petrie) ซึ่งมาถึงอียิปต์ในปี ค.ศ. 1880 บรรยายสิ่งที่พบว่าเป็น \"บ้านที่ไฟกำลังไหม้ การทำลายรวดเร็วถึงเพียงนั้น\" และวางตัวเองเป็น \"คนกู้ซาก\" *ข้อสันนิษฐาน —* ชายสองคนนี้คือการตอบสนอง 2 แบบต่อตลาดเดียวกัน และไม่มีแบบใดสะอาด คนหนึ่งซื้ออย่างรวดเร็วและเก็บวัตถุไว้ อีกคนขุดอย่างรวดเร็วและเก็บบันทึกไว้ สิ่งที่หลงเหลือมาให้ถกเถียงกันในปี ค.ศ. 2026 คือผลผลิตของทั้งสองคน",
+  "sections.4.h": "ข้อถกเถียงที่บันทึกนี้ไม่ชี้ขาด",
+  "sections.4.text": "ทุกตลาดในแอตลาสนี้มีข้อถกเถียงเดียวกันที่ยังดำเนินอยู่ และไม่ใช่ข้อถกเถียงระหว่างคนในกับคนนอก แต่เกิดอยู่ภายในแต่ละธรรมเนียมเอง\n\nสร้อยข้อมือกันตาร้ายที่อัดจากโรงงาน เทียบกับลูกปัดจากหมู่บ้าน หินดีซีกัดลายด้วยเครื่องราคาไม่ถึง 2 ดอลลาร์ เทียบกับเม็ดโบราณราคาหลักแสน — โดยมีหินดีซีใหม่อยู่ตรงกลาง ซึ่งลามะให้พรและชาวทิเบตถือว่าได้ผล ตลาดพระเครื่องไทยที่ถูกบรรยายว่าเป็นศรัทธา และตลาดเดียวกันนั้นที่ถูกบรรยายว่าเป็นตลาดการเงินที่มีวัตถุแห่งศรัทธาอยู่ข้างใน ตาเวดจัตที่กดพิมพ์ทีละมาก ๆ ขายในสนามบิน เทียบกับตาเวดจัตที่กดพิมพ์ในโรงงานของวิหารเมื่อ 3,000 ปีก่อน\n\nโครงการนี้บรรยายเครื่องรางจากโรงงานแบบเดียวกับที่บรรยายเครื่องรางที่ทำด้วยมือ ระบุว่าใครพูดอะไรเกี่ยวกับทั้งสองอย่าง แล้วหยุดอยู่แค่นั้น ใบรับรอง กล้องส่องพระ และผู้เชี่ยวชาญ ได้รับการรายงานตามที่มันเป็น คือเครื่องมือที่การค้าสร้างขึ้นเพื่อตอบคำถามที่วัตถุของมันเองตอบไม่ได้"
  },
  "sections": [
   {
@@ -72,47 +90,56 @@
   {
    "to": "phra-khrueang",
    "as": "the tablet whose worth is its history, which is why the certificate exists at all",
-   "rel": "carries"
+   "rel": "carries",
+   "as_th": "พระพิมพ์ที่มีค่าอยู่ที่ประวัติความเป็นมา ซึ่งเป็นเหตุผลที่ใบรับรองมีอยู่ได้"
   },
   {
    "to": "dzi-bead",
    "as": "the bead where three different things all get called fake, and the distinctions matter to price",
-   "rel": "carries"
+   "rel": "carries",
+   "as_th": "ลูกปัดที่ของสามอย่างซึ่งต่างกันล้วนถูกเรียกว่าของปลอม และความต่างนั้นมีผลต่อราคา"
   },
   {
    "to": "tha-phrachan",
    "as": "the market this read starts in, because that is where the loupes are",
-   "rel": "place"
+   "rel": "place",
+   "as_th": "ตลาดที่บทความนี้เริ่มต้น เพราะกล้องส่องพระอยู่ที่นั่น"
   },
   {
    "to": "buying-in-a-market",
    "as": "the practice under examination: price, provenance and the moment of trust",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "การปฏิบัติที่บทความนี้พิจารณา คือราคา ประวัติที่มา และช่วงเวลาแห่งความไว้วางใจ"
   },
   {
    "to": "evil-eye-bracelet",
    "as": "the factory object at the centre of the same argument, in glass instead of clay",
-   "rel": "parallel"
+   "rel": "parallel",
+   "as_th": "วัตถุจากโรงงานที่อยู่ใจกลางข้อถกเถียงเดียวกัน แต่เป็นแก้วแทนดินเผา"
   },
   {
    "to": "wallis-budge",
    "as": "the museum buyer on the wrong side of this trade, in his own century's terms and in ours",
-   "rel": "person"
+   "rel": "person",
+   "as_th": "ผู้ซื้อของพิพิธภัณฑ์ที่ยืนอยู่ผิดฝั่งของการค้านี้ ทั้งตามมาตรฐานในศตวรรษของเขาเองและตามมาตรฐานของเรา"
   },
   {
    "to": "flinders-petrie",
    "as": "the other response to the same market — dig it before the dealers do",
-   "rel": "person"
+   "rel": "person",
+   "as_th": "อีกวิธีหนึ่งที่ตอบสนองต่อตลาดเดียวกัน คือขุดค้นเสียก่อนที่พ่อค้าจะมาถึง"
   },
   {
    "to": "who-owns-a-charm",
    "as": "what happens after an object with no provenance reaches a museum",
-   "rel": "story"
+   "rel": "story",
+   "as_th": "สิ่งที่เกิดขึ้นหลังจากวัตถุที่ไม่มีประวัติที่มาไปถึงพิพิธภัณฑ์"
   },
   {
    "to": "market-stall-sign",
    "as": "the picture record: at Tha Phrachan the certificate does the work a sign would",
-   "rel": "art"
+   "rel": "art",
+   "as_th": "บันทึกภาพ ที่ท่าพระจันทร์ ใบรับรองทำหน้าที่แทนป้าย"
   }
  ],
  "links": [
@@ -211,63 +238,81 @@
    "type": "amulet",
    "name": "Phra khrueang",
    "as": "the tablet whose worth is its history, which is why the certificate exists at all",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "พระเครื่อง",
+   "as_th": "พระพิมพ์ที่มีค่าอยู่ที่ประวัติความเป็นมา ซึ่งเป็นเหตุผลที่ใบรับรองมีอยู่ได้"
   },
   {
    "to": "dzi-bead",
    "type": "amulet",
    "name": "Dzi bead",
    "as": "the bead where three different things all get called fake, and the distinctions matter to price",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "หินดีซี (ลูกปัดทิเบต)",
+   "as_th": "ลูกปัดที่ของสามอย่างซึ่งต่างกันล้วนถูกเรียกว่าของปลอม และความต่างนั้นมีผลต่อราคา"
   },
   {
    "to": "tha-phrachan",
    "type": "place",
    "name": "Tha Phrachan amulet market",
    "as": "the market this read starts in, because that is where the loupes are",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตลาดพระเครื่องท่าพระจันทร์",
+   "as_th": "ตลาดที่บทความนี้เริ่มต้น เพราะกล้องส่องพระอยู่ที่นั่น"
   },
   {
    "to": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the practice under examination: price, provenance and the moment of trust",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": "การปฏิบัติที่บทความนี้พิจารณา คือราคา ประวัติที่มา และช่วงเวลาแห่งความไว้วางใจ"
   },
   {
    "to": "evil-eye-bracelet",
    "type": "amulet",
    "name": "Evil eye bracelet",
    "as": "the factory object at the centre of the same argument, in glass instead of clay",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สร้อยข้อมือนาซาร์ (ลูกปัดตากันตาร้าย)",
+   "as_th": "วัตถุจากโรงงานที่อยู่ใจกลางข้อถกเถียงเดียวกัน แต่เป็นแก้วแทนดินเผา"
   },
   {
    "to": "wallis-budge",
    "type": "person",
    "name": "E. A. Wallis Budge",
    "as": "the museum buyer on the wrong side of this trade, in his own century's terms and in ours",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "อี. เอ. วอลลิส บัดจ์",
+   "as_th": "ผู้ซื้อของพิพิธภัณฑ์ที่ยืนอยู่ผิดฝั่งของการค้านี้ ทั้งตามมาตรฐานในศตวรรษของเขาเองและตามมาตรฐานของเรา"
   },
   {
    "to": "flinders-petrie",
    "type": "person",
    "name": "Flinders Petrie",
    "as": "the other response to the same market — dig it before the dealers do",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "ฟลินเดอร์ส พีทรี",
+   "as_th": "อีกวิธีหนึ่งที่ตอบสนองต่อตลาดเดียวกัน คือขุดค้นเสียก่อนที่พ่อค้าจะมาถึง"
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "what happens after an object with no provenance reaches a museum",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": "สิ่งที่เกิดขึ้นหลังจากวัตถุที่ไม่มีประวัติที่มาไปถึงพิพิธภัณฑ์"
   },
   {
    "to": "market-stall-sign",
    "type": "art",
    "name": "The market stall sign",
    "as": "the picture record: at Tha Phrachan the certificate does the work a sign would",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "ป้ายแผงตลาด",
+   "as_th": "บันทึกภาพ ที่ท่าพระจันทร์ ใบรับรองทำหน้าที่แทนป้าย"
   }
  ],
  "source_list": [
@@ -397,161 +442,207 @@
    "type": "amulet",
    "name": "Akua'ba",
    "as": "the long read on souvenir against heirloom, which the tradition's own account of akua'ba states plainly",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "อาคัวบา (ตุ๊กตาไม้ของชาวอาคาน)",
+   "as_th": ""
   },
   {
    "from": "crystal-pendant",
    "type": "amulet",
    "name": "Crystal pendant",
    "as": "the long read about what a charm costs and who gets the money",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "จี้คริสตัล",
+   "as_th": ""
   },
   {
    "from": "dreamcatcher",
    "type": "amulet",
    "name": "Dreamcatcher",
    "as": "the long read about what a label is worth, which the Indian Arts and Crafts Act is one answer to",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เครื่องดักฝัน",
+   "as_th": ""
   },
   {
    "from": "dzi-bead",
    "type": "amulet",
    "name": "Dzi bead",
    "as": "the long read this bead belongs in: imitations run from 19th-century German cutting to two-dollar machine beads, and the tells are the whole trade",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "หินดีซี (ลูกปัดทิเบต)",
+   "as_th": ""
   },
   {
    "from": "four-leaf-clover",
    "type": "amulet",
    "name": "Four-leaf clover",
    "as": "the long read this belongs in: 10,000 a day, grown to order, sold as the thing you were supposed to find",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใบโคลเวอร์สี่แฉก",
+   "as_th": ""
   },
   {
    "from": "hei-matau",
    "type": "amulet",
    "name": "Hei matau",
    "as": "the long read about copies, which this record is one of the clearest cases in",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เฮย์ มาเตา (จี้ตะขอเบ็ดเมารี)",
+   "as_th": ""
   },
   {
    "from": "hex-sign",
    "type": "amulet",
    "name": "Hex sign",
    "as": "the long read the 1942 souvenir sign belongs in: a traditional design, a new object, and a meaning printed on the box",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เฮ็กซ์ไซน์ (ป้ายดาวบนโรงนา)",
+   "as_th": ""
   },
   {
    "from": "phra-khrueang",
    "type": "amulet",
    "name": "Phra khrueang",
    "as": "the long read on forgery and appraisal, which starts with this object because the loupes are pointed at it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "พระเครื่อง",
+   "as_th": "บทความขนาดยาวเรื่องของปลอมและการประเมิน ซึ่งเริ่มจากวัตถุนี้ เพราะกล้องส่องพระส่องมาที่มัน"
   },
   {
    "from": "tuareg-cross",
    "type": "amulet",
    "name": "Agadez cross",
    "as": "the long read on what a visitor buys and what a wearer wears",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "กางเขนอากาเดซ",
+   "as_th": ""
   },
   {
    "from": "tupilaq",
    "type": "amulet",
    "name": "Tupilaq",
    "as": "the long read about what a label promises — this record's two objects share a name and nothing else",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ทูปิลัก",
+   "as_th": ""
   },
   {
    "from": "thai-wicha",
    "type": "tradition",
    "name": "Thai wicha",
    "as": "the long read on authentication, which is a standing cost of doing business in this tradition rather than an occasional scandal",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "วิชา",
+   "as_th": "บทความยาวว่าด้วยการตรวจสอบพระ ซึ่งในวิชานี้เป็นต้นทุนประจำของการค้า ไม่ใช่เรื่องอื้อฉาวนาน ๆ ครั้ง"
   },
   {
    "from": "scarab-sign",
    "type": "motif",
    "name": "The beetle",
    "as": "the long read on authentication, which has a chapter's worth of scarabs in it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ด้วง (สคารับ)",
+   "as_th": ""
   },
   {
    "from": "glass",
    "type": "material",
    "name": "Glass",
    "as": "the long read on what a mass-produced charm is, which the glass bead is the largest case of",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "แก้ว",
+   "as_th": ""
   },
   {
    "from": "jet",
    "type": "material",
    "name": "Jet",
    "as": "the long read on imitation, which this material has supported since the nineteenth century",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เจ็ต (หินเจ็ต)",
+   "as_th": ""
   },
   {
    "from": "turquoise",
    "type": "material",
    "name": "Turquoise",
    "as": "the long read: this stone has been imitated for so long that grading it is its own profession",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เทอร์ควอยซ์",
+   "as_th": ""
   },
   {
    "from": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the long read that starts at this counter, because this is where trust is priced",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": "บทความยาวที่เริ่มต้นที่เคาน์เตอร์นี้ เพราะที่นี่คือที่ที่ความไว้ใจถูกตีราคา"
   },
   {
    "from": "grand-bazaar",
    "type": "place",
    "name": "The Grand Bazaar",
    "as": "the long read on copies and their price, which a market of 4,000 shops cannot avoid",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "แกรนด์บาซาร์ (คาปาลึชาร์ชึ)",
+   "as_th": ""
   },
   {
    "from": "insadong",
    "type": "place",
    "name": "Insa-dong",
    "as": "the long read on copies, which an antiques quarter holding 40 per cent of a country's dealers lives inside",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "อินซาดง",
+   "as_th": ""
   },
   {
    "from": "kathmandu-thamel",
    "type": "place",
    "name": "Thamel",
    "as": "the long read on copies, which a souvenir lane selling a hereditary object cannot dodge",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ทาเมล",
+   "as_th": ""
   },
   {
    "from": "tha-phrachan",
    "type": "place",
    "name": "Tha Phrachan amulet market",
    "as": "the long read about authentication, which starts here because this is where the loupes are",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดพระเครื่องท่าพระจันทร์",
+   "as_th": "บทความขนาดยาวเรื่องการตรวจพิสูจน์ ซึ่งเริ่มที่นี่เพราะกล้องส่องพระอยู่ที่นี่"
   },
   {
    "from": "unesco-ich",
    "type": "org",
    "name": "UNESCO Intangible Cultural Heritage",
    "as": "the long read on authentication; an inscription settles nothing about whether a given object is what a seller says it is",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "มรดกทางวัฒนธรรมที่จับต้องไม่ได้ของยูเนสโก",
+   "as_th": "บทความยาวเรื่องการตรวจพิสูจน์ การขึ้นทะเบียนไม่ได้ชี้ขาดอะไรเลยว่าวัตถุชิ้นหนึ่งเป็นอย่างที่ผู้ขายบอกหรือไม่"
   },
   {
    "from": "market-stall-sign",
    "type": "art",
    "name": "The market stall sign",
    "as": "the long read about what the certificate is for",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ป้ายแผงตลาด",
+   "as_th": "บทความยาวว่าด้วยใบรับรองมีไว้เพื่ออะไร"
   },
   {
    "from": "the-charm-goes-digital",
    "type": "story",
    "name": "The charm goes digital",
    "as": "the read that explains why an unforgeable record was worth selling in the first place",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เครื่องรางในโลกดิจิทัล",
+   "as_th": "บทความที่อธิบายว่าทำไมบันทึกที่ปลอมแปลงไม่ได้จึงมีค่าพอจะขายตั้งแต่แรก"
   }
  ]
 }

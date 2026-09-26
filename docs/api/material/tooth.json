@@ -7,7 +7,8 @@
    "whale tooth",
    "wolf tooth",
    "animal teeth"
-  ]
+  ],
+  "th": "ฟัน งา และกรงเล็บ"
  },
  "region": [
   "pacific",
@@ -30,6 +31,9 @@
   "what": "A tooth worn as a charm is the one material that arrives already shaped, already pointed, and already the property of something that could bite. Teeth, tusks and claws are carved very little: drilled at the root, polished, hung. The class includes sperm whale teeth in Fiji and Hawaii, wolf teeth in Italy, and the animal teeth the Illyrians used against the harmful look.",
   "story": "Fiji's tabua is a polished sperm whale tooth and one of the most important objects in Fijian society. Tabua are presented as sevusevu, in atonement or esteem, and were central to negotiation between rival chiefs; men were once buried with their tabua alongside their war clubs. They were originally very rare, available only from beached whales and by trade from Tonga, where the practice may have begun. When the European market learned of the demand in the early nineteenth century, thousands of teeth — and fake teeth cut from ivory and walrus tusk — entered Fiji, and the trade that supplied them produced the European craft of scrimshaw. A tabua darkens as the oils in human hands work into it, so its age shows.\n\nIn Hawaii the lei niho palaoa hangs a carved whale tooth at the throat of an ali'i, on a cord of plaited human hair. Around the Mediterranean the tooth is smaller and the claim narrower: a tooth or a tuft of fur of the Italian wolf was worn as a talisman against the evil eye, and Illyrians used animal teeth against the same harm alongside the phallus, the hand and the leg.\n\n*Inference —* every use listed here works the same way. The charm is a piece of a dangerous animal, kept whole enough to be recognised as one. That is a different argument from the one a cut stone makes, and it is why this atlas files tooth with claw rather than with ivory.",
   "today": "Tabua are not sold in Fiji; they are still given, at weddings, birthdays and funerals, and they appear on the twenty cent coin and in airline branding. Because the sperm whale is an endangered species, removing a tabua from Fiji is capped at 225 exports a year and requires permits from the Ministry of iTaukei Affairs as well as CITES permits, with the original CITES paperwork presented to the importing country's border officials. In 2007 New Zealand authorities returned 146 tabua to Fiji that had been seized for lacking valid permits."
+ },
+ "text_th": {
+  "what": "ฟันที่สวมเป็นเครื่องรางคือวัสดุเดียวที่มาถึงพร้อมรูปทรงแล้ว แหลมแล้ว และเคยเป็นของสิ่งที่กัดได้อยู่แล้ว ฟัน งา และกรงเล็บแทบไม่ต้องแกะสลัก: เจาะที่โคน ขัดเงา แล้วห้อย ประเภทนี้รวมถึงฟันวาฬสเปิร์มในฟีจีและฮาวาย ฟันหมาป่าในอิตาลี และฟันสัตว์ที่ชาวอิลลิเรียใช้ป้องกันสายตาที่ให้โทษ"
  },
  "dating": {
   "period": "documented from the early nineteenth century; older in use",
@@ -190,49 +194,63 @@
    "type": "material",
    "name": "Bone and ivory",
    "as": "the wider class this sits inside, and the one that gets carved rather than kept whole",
-   "rel": "whole"
+   "rel": "whole",
+   "name_th": "กระดูกและงา",
+   "as_th": ""
   },
   {
    "to": "tooth-and-claw",
    "type": "motif",
    "name": "The tooth and the claw",
    "as": "the sign this material is: a piece of a dangerous animal, left recognisable",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เขี้ยวเล็บ",
+   "as_th": ""
   },
   {
    "to": "hei-matau",
    "type": "amulet",
    "name": "Hei matau",
    "as": "the hook that reads as a tooth and is worn in the same place, at the throat",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เฮย์ มาเตา (จี้ตะขอเบ็ดเมารี)",
+   "as_th": ""
   },
   {
    "to": "cornicello",
    "type": "amulet",
    "name": "Cornicello",
    "as": "the Italian horn worn for the same harm the wolf tooth was worn for",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คอร์นิเชลโล (เขานำโชคอิตาลี)",
+   "as_th": ""
   },
   {
    "to": "te-papa-taonga",
    "type": "place",
    "name": "Mana Whenua, Te Papa",
    "as": "where a tabua can be seen outside Fiji, in a museum that publishes what it holds",
-   "rel": "held-at"
+   "rel": "held-at",
+   "name_th": "มานาเฟนูอา ที่พิพิธภัณฑ์เตปาปา",
+   "as_th": ""
   },
   {
    "to": "inuit-amulet",
    "type": "amulet",
    "name": "Inuit amulet",
    "as": "the Arctic version of the same argument: the charm is a part of the animal it came from",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางชาวอินูอิต",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read for an object under export caps, permits and a 2007 repatriation",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -351,14 +369,18 @@
    "type": "motif",
    "name": "The tooth and the claw",
    "as": "the material file — tooth, tusk and claw, and what keeps them intact in the ground",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เขี้ยวเล็บ",
+   "as_th": ""
   },
   {
    "from": "bone-ivory",
    "type": "material",
    "name": "Bone and ivory",
    "as": "the same body, one step along: a tusk is a tooth, and the Pacific charms cut from whale ivory are both records at once",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กระดูกและงา",
+   "as_th": "ร่างกายเดียวกัน ห่างไปอีกหนึ่งขั้น งาก็คือฟัน และเครื่องรางแปซิฟิกที่แกะจากงาวาฬก็อยู่ในทั้งสองบันทึกพร้อมกัน"
   }
  ]
 }

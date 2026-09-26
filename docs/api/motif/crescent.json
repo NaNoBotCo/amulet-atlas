@@ -14,7 +14,8 @@
    "decrescent",
    "star and crescent",
    "sickle moon"
-  ]
+  ],
+  "th": "พระจันทร์เสี้ยว"
  },
  "region": [
   "rome-italy",
@@ -50,6 +51,9 @@
  "text": {
   "what": "A moon with its middle cut out, two horns and a curved back, hung point-up at the neck. Roman ones are gold. Isidore of Seville defines them as female ornaments in the likeness of the moon, little hanging gold bullae. The shape is a lune in geometry and a crescent in heraldry only when the horns point up.",
   "story": "Rome gave the crescent to girls. A lunula was worn as an apotropaic amulet — a charm meant to turn harm away — and stood as the girl's equivalent of the boy's bulla. Romans wore amulets against evil forces, demons and sorcery, and above all against the evil eye. In Plautus's Epidicus, Epidicus asks the girl Telestis whether she remembers his bringing her a gold lunula on her birthday and a little gold ring for her finger; in Rudens, Palaestra says her father gave her a golden bulla on the day she was born. Lunulae were common across the whole Mediterranean, while the bulla stayed mostly Italian.\n\nAs a sign rather than an amulet the crescent is older and travels further. It stands for the moon and for the moon deity Nanna or Sin in Akkadian cylinder seals as early as 2300 BCE. Egypt's logograph for the moon is a crescent. Phoenicians carried it as far as Carthage and Numidia in the eighth century BCE. The star-and-crescent pair arises in the ancient Near East for the moon and Ishtar as the planet Venus, often with the solar disk as a third, and was inherited in Sassanian and Hellenistic iconography. It moved into Islamic iconography from Sassanian use after the Muslim conquest of Persia, and into Marian iconography in Christianity through the Woman of the Apocalypse, with the moon under her feet.\n\n*Inference —* two different things share this outline and this atlas does not merge them. The Roman lunula is a birth-gift to a named child; the star-and-crescent is a dynastic and then a religious emblem. Nothing read here shows the second growing out of the first."
+ },
+ "text_th": {
+  "what": "ดวงจันทร์ที่ถูกตัดตรงกลางออก มีสองเขาและหลังโค้ง แขวนที่คอโดยให้ปลายชี้ขึ้น แบบโรมันทำด้วยทองคำ อิซิดอร์แห่งเซบิยา (Isidore of Seville) นิยามไว้ว่าเป็นเครื่องประดับของสตรีที่มีรูปเหมือนดวงจันทร์ เป็นบุลลาทองคำเล็ก ๆ ที่ห้อยแขวน ในทางเรขาคณิตรูปนี้คือลูน และในศาสตร์ตราประจำตระกูลจะเรียกว่าเครสเซนต์ (crescent) ก็ต่อเมื่อเขาชี้ขึ้นเท่านั้น"
  },
  "kin": [
   {
@@ -262,49 +266,63 @@
    "type": "amulet",
    "name": "Lunula",
    "as": "the amulet itself — the gold crescent a Roman girl was given",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ลูนูลา (จี้พระจันทร์เสี้ยวโรมัน)",
+   "as_th": ""
   },
   {
    "to": "bulla",
    "type": "amulet",
    "name": "Bulla",
    "as": "the boy's locket, given at birth where the girl got this; the pair is the clearest gendered split in Roman charms",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "บุลลา (ล็อกเกตของเด็กชายโรมัน)",
+   "as_th": ""
   },
   {
    "to": "horn",
    "type": "motif",
    "name": "The horn",
    "as": "the other two-pointed sign of the Mediterranean, and the one this is most often mistaken for",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เขา (คอร์นิเชลโล)",
+   "as_th": ""
   },
   {
    "to": "cimaruta",
    "type": "amulet",
    "name": "Cimaruta",
    "as": "the Neapolitan silver sprig that grows a crescent moon on one of its branches",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ชีมารูตา (กิ่งต้นรูเครื่องรางอิตาลี)",
+   "as_th": ""
   },
   {
    "to": "silver",
    "type": "material",
    "name": "Silver",
    "as": "the metal the crescent is tied to through Luna in the alchemical scheme",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เงิน (โลหะเงิน)",
+   "as_th": ""
   },
   {
    "to": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "the harm Roman amulets were worn against, this one included",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "greco-roman-apotropaic",
    "type": "tradition",
    "name": "Greek and Roman protective magic",
    "as": "the tradition that fixed it as a child's charm",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -491,28 +509,36 @@
    "type": "amulet",
    "name": "Cimaruta",
    "as": "the moon on another branch, doing in miniature what a lunula does on its own cord",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ชีมารูตา (กิ่งต้นรูเครื่องรางอิตาลี)",
+   "as_th": ""
   },
   {
    "from": "horseshoe",
    "type": "amulet",
    "name": "Horseshoe",
    "as": "the shape it shares with an older sign, and the shape the earliest written record names it by — crescent figured irons",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เกือกม้า",
+   "as_th": ""
   },
   {
    "from": "lunula",
    "type": "amulet",
    "name": "Lunula",
    "as": "the sign it is, and the one it shares with a thousand years of later Islamic and Balkan silver",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ลูนูลา (จี้พระจันทร์เสี้ยวโรมัน)",
+   "as_th": ""
   },
   {
    "from": "horn",
    "type": "motif",
    "name": "The horn",
    "as": "the other two-pointed sign in the Mediterranean, and one it is regularly confused with",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เขา (คอร์นิเชลโล)",
+   "as_th": ""
   }
  ]
 }

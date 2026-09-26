@@ -9,7 +9,8 @@
    "demon bowl",
    "devil-trap bowl",
    "Aramaic incantation bowl"
-  ]
+  ],
+  "th": "ชามคาถา"
  },
  "region": [
   "mesopotamia",
@@ -34,6 +35,9 @@
  "text": {
   "what": "A plain earthenware bowl with writing inside it. The text is inked in a spiral that starts at the rim and winds inward to the centre, most often in Jewish Babylonian Aramaic, sometimes Mandaic, Syriac, Arabic or Persian. Then the bowl is turned upside down and buried — under a threshold, in a courtyard, in the corner of a house where somebody has just died, in a cemetery. Around one in ten carries no real language at all.",
   "story": "John Charles Arnold sets out the mechanism the way its users described it: \"When placed upside down under each corner of a house, demons would follow the inscribed charms that spiraled from the outer rim inward, only to be caught in the center.\"\n\nThe bowls belong to Sasanian Mesopotamia, sixth to eighth century, in a population that was Christian, Manichaean, Mandaean, Jewish, Zoroastrian or still Babylonian in religion, and largely Aramaic-speaking whatever else it was. They were commissioned across those lines. Nearly eighty Jewish bowls survive from Babylon under Sasanian rule, most from the Jewish settlement at Nippur, where almost every excavated house had them buried in it. They name what they are against: the evil eye, Lilith, Bagdana. Their inscriptions quote scripture and rabbinic texts alike, which scholars read as evidence that the rabbinic material was held to carry the same power as the biblical.\n\nTwo things follow that are worth stating plainly. The bowls often call themselves amulets, and the Talmud, which was being written in the same place and period, discusses the use of amulets to drive away demons — so the text on these bowls is the only written material documenting Jewish language and religion recovered from that time and place. And the corpus is a scandal: about 2,000 bowls are registered as archaeological finds, while the trade digs them up freely, so there may be tens of thousands in private hands.\n\nThere is an Islamic branch. In the medieval period, talismanic bowls did the same work in metal rather than clay, covered in Arabic — Qur'anic verses, a hadith, sometimes numerology or astrology — and used for healing by drinking water left standing in them overnight."
+ },
+ "text_th": {
+  "what": "ชามดินเผาเรียบ ๆ มีตัวหนังสืออยู่ด้านใน ข้อความเขียนด้วยหมึกเป็นเกลียว เริ่มจากขอบวนเข้าไปถึงกลางชาม ส่วนใหญ่เป็นภาษาอราเมอิกบาบิโลนแบบยิว บางครั้งเป็นภาษามันดาอิก ซีเรียก อาหรับ หรือเปอร์เซีย จากนั้นคว่ำชามแล้วฝัง ใต้ธรณีประตู ในลานบ้าน ที่มุมบ้านที่มีคนเพิ่งตาย หรือในสุสาน ราวหนึ่งในสิบใบไม่มีภาษาจริงอยู่เลย"
  },
  "dating": {
   "period": "Sasanian and early Islamic Mesopotamia",
@@ -223,70 +227,90 @@
    "type": "tradition",
    "name": "Practical Kabbalah",
    "as": "the tradition these bowls are the earliest bulk evidence for — written amulets in divine and angelic names, centuries before anyone called it that",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "คับบาลาห์ภาคปฏิบัติ",
+   "as_th": ""
   },
   {
    "to": "mesopotamian-apotropaic",
    "type": "tradition",
    "name": "Mesopotamian household protection",
    "as": "the older practice in the same ground: name the demon, bind it, put the object where it enters",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "การคุ้มครองบ้านเรือนแบบเมโสโปเตเมีย",
+   "as_th": ""
   },
   {
    "to": "lamashtu-plaque",
    "type": "amulet",
    "name": "Lamashtu plaque",
    "as": "the same argument in bronze a millennium earlier, with the demon pictured instead of written",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "แผ่นเครื่องรางลามัชตู",
+   "as_th": ""
   },
   {
    "to": "kamea",
    "type": "amulet",
    "name": "Kamea",
    "as": "the descendant that keeps the writing and drops the bowl",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "คาเมอา (เครื่องรางแบบเขียนของชาวยิว)",
+   "as_th": ""
   },
   {
    "to": "joseph-naveh",
    "type": "person",
    "name": "Joseph Naveh",
    "as": "with Shaul Shaked, the editor whose 1985 Amulets and Magic Bowls put these texts in front of readers who are not Aramaists",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "โยเซฟ นาเวห์",
+   "as_th": ""
   },
   {
    "to": "shaul-shaked",
    "type": "person",
    "name": "Shaul Shaked",
    "as": "the other half of that edition, and the reason a bowl text can be quoted at all here",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "ชาอูล ชาเกด",
+   "as_th": ""
   },
   {
    "to": "islamic-talismanic",
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "the tradition that carried the bowl on in metal, inscribed with Qur'an and hadith and drunk from",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "to": "foundation-deposit",
    "type": "practice",
    "name": "Foundation deposit",
    "as": "the practice that puts protection under the floor rather than on the body",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ของฝังใต้ฐานรากอาคาร",
+   "as_th": ""
   },
   {
    "to": "holy-rider-pendant",
    "type": "amulet",
    "name": "Holy rider pendant",
    "as": "the same demon-naming logic in the Byzantine west, worn instead of buried",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "จี้นักบุญขี่ม้า",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read this corpus forces: 2,000 bowls excavated, tens of thousands dug and sold",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -475,168 +499,216 @@
    "type": "amulet",
    "name": "Cippus of Horus",
    "as": "Mesopotamia's written-spell vessel — the same trick of putting the words on the container",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ซิปปัสแห่งฮอรัส (ศิลาฮอรัส)",
+   "as_th": ""
   },
   {
    "from": "curse-tablet",
    "type": "amulet",
    "name": "Curse tablet",
    "as": "the later eastern object that buries writing under a house for the opposite purpose",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "แผ่นคำสาป (คาตาเดสมอส)",
+   "as_th": ""
   },
   {
    "from": "holy-rider-pendant",
    "type": "amulet",
    "name": "Holy rider pendant",
    "as": "the eastern contemporary, naming Lilith where these name Abyzou, and buried instead of worn",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "จี้นักบุญขี่ม้า",
+   "as_th": ""
   },
   {
    "from": "kamea",
    "type": "amulet",
    "name": "Kamea",
    "as": "the same writing, seven centuries earlier, buried under a floor in Nippur instead of folded into a pocket",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "คาเมอา (เครื่องรางแบบเขียนของชาวยิว)",
+   "as_th": ""
   },
   {
    "from": "lamashtu-plaque",
    "type": "amulet",
    "name": "Lamashtu plaque",
    "as": "the same soil a thousand years later, with the demon caught in a spiral of ink under the floor instead of nailed to a wall",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "แผ่นเครื่องรางลามัชตู",
+   "as_th": ""
   },
   {
    "from": "magical-gem",
    "type": "amulet",
    "name": "Magical gem",
    "as": "the eastern cousin — the same late-antique habit of writing names to bind a power, in ink on clay rather than cut in stone",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "อัญมณีเวทมนตร์ (หินสลักกรีก-อียิปต์)",
+   "as_th": ""
   },
   {
    "from": "pazuzu-head",
    "type": "amulet",
    "name": "Pazuzu head",
    "as": "the later Mesopotamian object doing the same job with writing instead of a face",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "เศียรปาซูซู",
+   "as_th": ""
   },
   {
    "from": "witch-bottle",
    "type": "amulet",
    "name": "Witch bottle",
    "as": "the same idea fifteen centuries earlier and three thousand miles east — a vessel buried in a house to catch what is coming for the household",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ขวดแม่มด",
+   "as_th": ""
   },
   {
    "from": "islamic-talismanic",
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "the late antique ancestor of the medieval Islamic talismanic bowl — the same idea of a vessel you inscribe and drink from, three centuries earlier and in Aramaic",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "from": "jewish-practical-kabbalah",
    "type": "tradition",
    "name": "Practical Kabbalah",
    "as": "the late antique ancestor, and the only part of this practice that survives in bulk — Aramaic bowls written centuries before anyone used the name Kabbalah",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "คับบาลาห์ภาคปฏิบัติ",
+   "as_th": ""
   },
   {
    "from": "mesopotamian-apotropaic",
    "type": "tradition",
    "name": "Mesopotamian household protection",
    "as": "what this tradition becomes after the cuneiform stops: the same method in Aramaic ink, buried under the floor",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "การคุ้มครองบ้านเรือนแบบเมโสโปเตเมีย",
+   "as_th": ""
   },
   {
    "from": "spiral",
    "type": "motif",
    "name": "The spiral",
    "as": "the only object in this atlas where the spiral is load-bearing: the words follow it inward and the demon follows the words",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เกลียวก้นหอย",
+   "as_th": ""
   },
   {
    "from": "ink",
    "type": "material",
    "name": "Ink",
    "as": "ink written in a spiral on clay, which is the oldest dated use of the material in this atlas",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "หมึก",
+   "as_th": "หมึกที่เขียนวนเป็นเกลียวบนดินเผา ซึ่งเป็นการใช้วัสดุนี้ที่มีวันที่เก่าที่สุดในแอตลาสนี้"
   },
   {
    "from": "terracotta",
    "type": "material",
    "name": "Fired clay",
    "as": "the charm that is a clay bowl and nothing else — the material and the object are the same thing here",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ดินเผา",
+   "as_th": "เครื่องรางที่เป็นชามดินและไม่มีอะไรอื่น ที่นี่วัสดุกับวัตถุเป็นสิ่งเดียวกัน"
   },
   {
    "from": "burying",
    "type": "practice",
    "name": "Burying",
    "as": "buried face down under the threshold, with the writing spiralling inward",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การฝัง",
+   "as_th": ""
   },
   {
    "from": "foundation-deposit",
    "type": "practice",
    "name": "Foundation deposit",
    "as": "buried face down under the threshold, which is the deposit as trap",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ของฝังใต้ฐานรากอาคาร",
+   "as_th": ""
   },
   {
    "from": "inscribing",
    "type": "practice",
    "name": "Inscribing",
    "as": "text spiralling inward on clay, buried face down to catch what follows it",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การลงอักขระ",
+   "as_th": "ข้อความที่วนเป็นเกลียวเข้าด้านในบนดินเผา ฝังคว่ำหน้าลงเพื่อจับสิ่งที่ตามมันมา"
   },
   {
    "from": "washing-off-ink",
    "type": "practice",
    "name": "Washing off the ink",
    "as": "the other writing-inside-a-bowl practice, which in the accounts read here was buried rather than drunk — the parallel is a shape, not a link",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "การล้างหมึก",
+   "as_th": ""
   },
   {
    "from": "joseph-naveh",
    "type": "person",
    "name": "Joseph Naveh",
    "as": "the object he and Shaked edited — text, translation and bowl printed together",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "โยเซฟ นาเวห์",
+   "as_th": ""
   },
   {
    "from": "shaul-shaked",
    "type": "person",
    "name": "Shaul Shaked",
    "as": "the object his editions made readable, spiral line by spiral line",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ชาอูล ชาเกด",
+   "as_th": ""
   },
   {
    "from": "wallis-budge",
    "type": "person",
    "name": "E. A. Wallis Budge",
    "as": "the Mesopotamian object his Iraq missions brought to London in quantity",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "อี. เอ. วอลลิส บัดจ์",
+   "as_th": ""
   },
   {
    "from": "british-museum",
    "type": "org",
    "name": "The British Museum",
    "as": "the Mesopotamian object Budge's Iraq missions brought to Bloomsbury",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "พิพิธภัณฑ์บริติช (บริติชมิวเซียม)",
+   "as_th": ""
   },
   {
    "from": "budge-plates",
    "type": "art",
    "name": "Budge's amulet plates",
    "as": "one of the Mesopotamian classes these plates put in front of a European reader for the first time",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "แผ่นภาพเครื่องรางของบัดจ์",
+   "as_th": ""
   },
   {
    "from": "the-charm-in-the-wall",
    "type": "story",
    "name": "The charm in the wall",
    "as": "Mesopotamia's version, buried face down under a threshold",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางในกำแพง",
+   "as_th": ""
   }
  ]
 }

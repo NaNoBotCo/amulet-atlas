@@ -8,14 +8,44 @@
   "script": "Hebrew",
   "lang": "he",
   "said": "ka-MEY-a, plural kame'ot",
-  "aliases": ["kame'a", "Jewish written amulet", "segullah object"]
+  "aliases": [
+   "kame'a",
+   "Jewish written amulet",
+   "segullah object"
+  ],
+  "th": "คาเมอา (เครื่องรางแบบเขียนของชาวยิว)"
  },
- "region": ["levant", "diaspora", "iberia", "baltic-slavic", "western-europe"],
- "countries": ["IL", "ES", "DE", "PL", "GB"],
- "facets": {"era": "early-modern", "status": "contested", "portable": "worn", "restricted": "limited", "hemisphere": ["N", "E", "W"]},
+ "region": [
+  "levant",
+  "diaspora",
+  "iberia",
+  "baltic-slavic",
+  "western-europe"
+ ],
+ "countries": [
+  "IL",
+  "ES",
+  "DE",
+  "PL",
+  "GB"
+ ],
+ "facets": {
+  "era": "early-modern",
+  "status": "contested",
+  "portable": "worn",
+  "restricted": "limited",
+  "hemisphere": [
+   "N",
+   "E",
+   "W"
+  ]
+ },
  "text": {
   "what": "A written amulet: a small sheet of parchment, paper or thin metal, inscribed in Hebrew with divine and angelic names, sometimes laid out as a grid of letters or numbers, then folded or rolled and carried, hung at a bed, or fixed in a house. What is written on it is the object; the case, where there is one, is a case.",
   "story": "The practice has a name in its own tradition — Kabbalah Ma'asit, practical Kabbalah — and that tradition mostly forbids it.\n\nGershom Scholem's point about it is the historical one: a large part of the content of practical Kabbalah predates speculative Kabbalah and does not depend on it. What ended up under the label was an agglomeration of all the magical practices that developed in Judaism from the Talmudic period through the Middle Ages, and the doctrine of the Sefirot hardly ever played a decisive role in them. Amulet-making using the esoteric names of angels dates from Talmudic times.\n\nThe split between contemplative and practical Kabbalah was complete by the beginning of the 14th century, and most of the writing of the practical branch was never published. Abraham Abulafia condemned it. One tradition of it flourished in Spain in the second half of the 15th century, before the Alhambra Decree, around a text called Sepher ha-Mashiv; Moshe Idel describes its practitioners as interested in demonology and in coercive incantations to summon demons, angels and even God, in order to hasten the Messianic Age. Joseph Della Reina's failure at that was held up by later Kabbalists as a warning.\n\nThen Isaac Luria, in 16th-century Safed, forbade his students to write amulets at all, and because Luria is the central teacher of modern Kabbalah and the foundation for later Hasidism, that prohibition carries authority rather than opinion. His reasoning was about purity: without the Temple and the ashes of the Red Heifer to purify with, the pursuit of practical Kabbalah by a person with an impure body is very detrimental.\n\nIt kept going anyway, at the border. The Baal Shem healers worked with methods between practical and meditative Kabbalah, amulets among them — Elijah Ba'al Shem of Chelm (1550–1583), the Baal Shem of London (1708–1782). Yisrael Baal Shem Tov (1698–1760) began as one, used amulets, and by the end of his life wrote only his own name on them, Yisrael ben Sara or Yisrael ben Eliezer, and no names of God at all. In the 1750s Jacob Emden accused Jonathan Eybeschütz of being a secret Sabbatean, chiefly on his reading of some amulets Eybeschütz had written. Rabbi Hirsch Fraenkel was imprisoned in Germany in 1713 for owning a library said to contain oaths and amulets for overcoming demons, seeing the future and speaking to the dead.\n\n*Inference —* a practice whose own authorities forbid it and whose writings were mostly never published is a practice an atlas can describe and should not demonstrate. This record names who restricts it and stops there; see the restricted note below.\n\nOne word of warning about the name. In Western ceremonial magic, 'kamea' also means the planetary number squares that Cornelius Agrippa expounded in De Occulta Philosophia in 1531, used as grids on which to trace the sigils of spirits by converting a name to numbers. That is a different object with a borrowed Hebrew word, and the atlas keeps them apart."
+ },
+ "text_th": {
+  "what": "เครื่องรางแบบเขียน เป็นแผ่นเล็ก ๆ ทำจากหนังฟอก กระดาษ หรือโลหะบาง จารึกเป็นภาษาฮีบรูด้วยพระนามของพระเจ้าและนามของทูตสวรรค์ บางครั้งจัดเป็นตารางตัวอักษรหรือตัวเลข แล้วพับหรือม้วน นำไปพกติดตัว แขวนที่เตียง หรือติดไว้ในบ้าน สิ่งที่เขียนไว้คือตัววัตถุ ส่วนตลับ ถ้ามี ก็เป็นเพียงตลับ"
  },
  "restricted": {
   "note": "Practical Kabbalah is restricted inside its own tradition. It was held to be permitted only to an elite who could keep its spiritual source separate from the realms of evil, and only under conditions of holiness and purity; most Kabbalists have taught that its use is forbidden outright. Isaac Luria forbade his students to write amulets and taught that, in generations without the Temple and the ashes of the Red Heifer, its pursuit by a person with an impure body is very detrimental. This atlas therefore prints no formula, no arrangement of divine or angelic names, and no construction for any kame'a. What is above is history and prohibition; the working content is not published here and is mostly not published anywhere.",
@@ -37,8 +67,20 @@
  },
  "object": {
   "form": "folded-paper",
-  "materials": ["parchment", "paper", "silver", "copper", "ink"],
-  "worn": ["neck", "pocket", "wall", "door", "cradle"],
+  "materials": [
+   "parchment",
+   "paper",
+   "silver",
+   "copper",
+   "ink"
+  ],
+  "worn": [
+   "neck",
+   "pocket",
+   "wall",
+   "door",
+   "cradle"
+  ],
   "made_by": "a baal shem or a kabbalist; the tradition restricts the practice to those it counts as fit for it, and most of its authorities forbid it",
   "inscription": "divine and angelic names — not reproduced here; see the restricted note",
   "script": "Hebrew",
@@ -46,34 +88,118 @@
   "note": "No published measurement was read."
  },
  "against": [
-  {"harm": "demons", "who": "the Hekhalot literature and the later baal shem tradition, in which angels are bound by names and formulae", "source": "s:wp-practical-kabbalah", "tier": "cited"},
-  {"harm": "illness", "who": "the Talmud, which mentions charms for healing, and the rabbis who sanctioned a wide range of magical cures — it was ruled that any practice actually producing a cure was not to be counted among the forbidden ones", "source": "s:wp-practical-kabbalah", "tier": "cited"},
-  {"harm": "witchcraft", "who": "the practitioners recorded in the cited article, including the baal shem said to have exorcised a dybbuk", "source": "s:wp-practical-kabbalah", "tier": "cited"},
-  {"harm": "evil-eye", "who": "the older Jewish written-amulet practice the incantation bowls document, which names the evil eye directly", "source": "s:wp-incantation-bowl", "tier": "cited"}
+  {
+   "harm": "demons",
+   "who": "the Hekhalot literature and the later baal shem tradition, in which angels are bound by names and formulae",
+   "source": "s:wp-practical-kabbalah",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the Talmud, which mentions charms for healing, and the rabbis who sanctioned a wide range of magical cures — it was ruled that any practice actually producing a cure was not to be counted among the forbidden ones",
+   "source": "s:wp-practical-kabbalah",
+   "tier": "cited"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "the practitioners recorded in the cited article, including the baal shem said to have exorcised a dybbuk",
+   "source": "s:wp-practical-kabbalah",
+   "tier": "cited"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "the older Jewish written-amulet practice the incantation bowls document, which names the evil eye directly",
+   "source": "s:wp-incantation-bowl",
+   "tier": "cited"
+  }
  ],
  "kin": [
-  {"to": "jewish-practical-kabbalah", "as": "the tradition this object is the whole material output of", "rel": "tradition"},
-  {"to": "incantation-bowl", "as": "the same writing, seven centuries earlier, buried under a floor in Nippur instead of folded into a pocket", "rel": "origin"},
-  {"to": "mezuzah", "as": "the object Maimonides used to draw the line — write angel names inside one and you have turned a commandment into this", "rel": "contrast"},
-  {"to": "tefillin", "as": "the commandment the Talmud specifically differentiates from amulets, and which a kame'a is not", "rel": "contrast"},
-  {"to": "magic-square", "as": "the grid the Western occult tradition borrowed this word for, after Agrippa's planetary squares of 1531", "rel": "motif"},
-  {"to": "divine-name", "as": "the sign this object is made of, and the one it does not print here", "rel": "motif"},
-  {"to": "ketef-hinnom-scrolls", "as": "the oldest surviving Hebrew written charm, six centuries before the Talmudic practice this record starts from", "rel": "origin"},
-  {"to": "taweez", "as": "the Islamic parallel, argued over inside its own tradition on almost identical terms", "rel": "parallel"},
-  {"to": "red-string", "as": "the one piece of this world that went fully public, and the one its own scholars are most dismissive of", "rel": "kin"},
-  {"to": "what-this-atlas-does-not-print", "as": "the long read about the restricted block; this record is one of its examples", "rel": "story"}
+  {
+   "to": "jewish-practical-kabbalah",
+   "as": "the tradition this object is the whole material output of",
+   "rel": "tradition"
+  },
+  {
+   "to": "incantation-bowl",
+   "as": "the same writing, seven centuries earlier, buried under a floor in Nippur instead of folded into a pocket",
+   "rel": "origin"
+  },
+  {
+   "to": "mezuzah",
+   "as": "the object Maimonides used to draw the line — write angel names inside one and you have turned a commandment into this",
+   "rel": "contrast"
+  },
+  {
+   "to": "tefillin",
+   "as": "the commandment the Talmud specifically differentiates from amulets, and which a kame'a is not",
+   "rel": "contrast"
+  },
+  {
+   "to": "magic-square",
+   "as": "the grid the Western occult tradition borrowed this word for, after Agrippa's planetary squares of 1531",
+   "rel": "motif"
+  },
+  {
+   "to": "divine-name",
+   "as": "the sign this object is made of, and the one it does not print here",
+   "rel": "motif"
+  },
+  {
+   "to": "ketef-hinnom-scrolls",
+   "as": "the oldest surviving Hebrew written charm, six centuries before the Talmudic practice this record starts from",
+   "rel": "origin"
+  },
+  {
+   "to": "taweez",
+   "as": "the Islamic parallel, argued over inside its own tradition on almost identical terms",
+   "rel": "parallel"
+  },
+  {
+   "to": "red-string",
+   "as": "the one piece of this world that went fully public, and the one its own scholars are most dismissive of",
+   "rel": "kin"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the long read about the restricted block; this record is one of its examples",
+   "rel": "story"
+  }
  ],
- "links": [{"label": "Practical Kabbalah — Wikipedia", "url": "https://en.wikipedia.org/wiki/Practical_Kabbalah"}],
- "sources": ["s:wp-practical-kabbalah", "s:wp-kabbalah", "s:wp-magic-square", "s:wp-incantation-bowl", "s:wp-mezuzah"],
+ "links": [
+  {
+   "label": "Practical Kabbalah — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Practical_Kabbalah"
+  }
+ ],
+ "sources": [
+  "s:wp-practical-kabbalah",
+  "s:wp-kabbalah",
+  "s:wp-magic-square",
+  "s:wp-incantation-bowl",
+  "s:wp-mezuzah"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-practical-kabbalah"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-practical-kabbalah"
+  },
   "fields": {
-   "dating": {"tier": "cited", "source": "s:wp-practical-kabbalah", "note": "the floor is a hedge; see dating.note"},
-   "object": {"tier": "tradition", "source": "s:wp-practical-kabbalah", "note": "materials and placements are the general pattern reported for written Jewish amulets, not a description of a catalogued object"}
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-practical-kabbalah",
+    "note": "the floor is a hedge; see dating.note"
+   },
+   "object": {
+    "tier": "tradition",
+    "source": "s:wp-practical-kabbalah",
+    "note": "materials and placements are the general pattern reported for written Jewish amulets, not a description of a catalogued object"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Kabbalistic amulet.jpg"],
+ "x_commons_files": [
+  "File:Kabbalistic amulet.jpg"
+ ],
  "confidence": "medium",
  "needs_verification": true,
  "updated": "2026-09-16"

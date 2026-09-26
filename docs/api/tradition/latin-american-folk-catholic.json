@@ -9,7 +9,8 @@
    "religiosidad popular",
    "folk Catholicism of the Americas",
    "Latin American popular devotion"
-  ]
+  ],
+  "th": "ธรรมเนียมเครื่องรางคาทอลิกพื้นบ้านละตินอเมริกา"
  },
  "region": [
   "mesoamerica",
@@ -48,6 +49,9 @@
   "story": "The objects arrived with the ships and most of them are older than the crossing. Milagros — small metal or wax body parts offered at a shrine — are traced to the ancient Iberians of the Spanish coast, travelled with the Spanish into Central and South America, and still hold in rural Andalusia, Catalonia and Majorca alongside their American forms. Jet amulets have been cut since the Neolithic; by the end of the Middle Ages the working of jet religious objects was concentrated at Santiago de Compostela and sold to pilgrims on the Camino, and the Asturian fist for a baby went from there into the Spanish Caribbean. Edward Tabor traces that fist further back, to Muslim North Africa, citing Washington Irving's 1829 description of a comparable jet hand among the Moors of Barbary, into Spain during the Moorish period of 711 to 1492 and on to the colonies.\n\nThe local material entered the same kit. In Mexico the ojo de venado is a Mucuna seed; México Desconocido traces its career as an amulet to Xichú in northeastern Guanajuato and notes the plant also grew in Chiapas, Oaxaca, Puebla, San Luis Potosí and Veracruz, so other regions may have arrived at the use independently. Newborns get one against mal de ojo; adults take one up for a hard stretch; drivers hang one where they can see it.\n\nThe argument in this tradition is unusually well documented because the clergy write it down. The Catechism of the Catholic Church condemns attributing a magical importance to otherwise lawful practices and crediting an object's efficacy to its material form. The priest Eduardo Hayen Cuarón condemned the ojo de venado by name, as an amulet and therefore an esoteric practice, malign and the work of Satan. Set against that, a Saint Christopher medal sold in Spanish-speaking markets carries a printed promise — 'Si en San Cristóbal confías, de accidente no morirás', if you trust in Saint Christopher you will not die in an accident — which is exactly the proposition the Catechism warns against, printed on a devotional article and sold in a shop. Both facts are on the record. This atlas prints them side by side and settles nothing.\n\nThe markets are where the tradition is legible as a system. At the Mercado de Sonora in Mexico City, established with other public markets by the city government on 23 September 1957 to regulate retail trade, medicinal herbs and magical and occult goods occupy aisles at the back of a single metal-framed nave. The two categories are not separate, and the account says so. Candles, saints' images, cleansings and herbs are bought in the same visit, from the same stallholders, by customers across the income range. In Lima and La Paz the equivalent counters sell the same combination with Andean material alongside.\n\n*Inference —* the tradition's defining move is a doubling rather than a substitution. A saint does not replace a charm and a charm does not replace a saint; the same object is both, and which one it is depends on who is asked. That is why this record sits beside catholic-sacramentals rather than inside it: the sacramental tradition is defined by the Church drawing a line, and this one by households drawing it somewhere else.",
   "how": "Bought rather than made, in a church, a cathedral, a churchyard stall, a botánica or a market aisle, and then put to work in a named place: pinned to a saint's image or a shrine wall, tied to an infant's wrist within days of birth, hung from a rear-view mirror, set on a home altar, carried in a pocket. Some are blessed by a priest and some are not, and the tradition does not treat that as the deciding fact. Milagros can be offered as a reminder of what the petitioner needs or in thanks for a prayer already answered, and the shape does the pointing — though the code is local, not universal, so a leg can mean a leg or a journey.",
   "today": "Live across Mexico, the Spanish-speaking Caribbean, the Andes, parts of the United States, and the Philippines by the same galleon route. Prices have been published for one object: Tabor gives US$3 to US$10 for an azabache in a botánica and US$9 to US$55 online at the time he wrote, in 2023, and reports that 29 per cent of the wearers he surveyed had chosen the fist and 71 per cent the polyhedron. Quiapo Church in Manila draws millions on 9 January and thousands every Friday, with the stalls outside selling the amulets alongside. The Mercado de Sonora still trades, in a building the city put up in 1957 and has maintained badly since."
+ },
+ "text_th": {
+  "what": "รูปแบบของคาทอลิกในมือของฆราวาส ที่ใช้เลยขอบเขตที่นักบวชรับรอง ขาดีบุกที่กลัดไว้กับเสื้อคลุมของรูปนักบุญ กำปั้นเจ็ตที่ผูกให้ทารกแรกเกิดในสัปดาห์แรก เมล็ดพืชที่เรียกว่าตากวางร้อยด้ายแดง รูปนักบุญคริสโตเฟอร์บนคอนโซลหน้ารถ เทียน พิธีชำระล้าง และรูปนักบุญที่ซื้อในทางเดินตลาดเดียวกับสมุนไพรรักษาโรค ไม่มีสิ่งใดในรายการนี้อยู่นอกคำศัพท์ของคาทอลิกเอง สิ่งที่ทำให้มันเป็นธรรมเนียมแยกต่างหากคือใครเป็นผู้ตัดสินว่าเส้นแบ่งอยู่ตรงไหน — และที่นี่ ครัวเรือนเป็นผู้ตัดสิน ไม่ใช่โบสถ์ประจำตำบล"
  },
  "dating": {
   "period": "Colonial to the present",
@@ -322,84 +326,108 @@
    "type": "amulet",
    "name": "Milagro",
    "as": "the tradition's public object — left at the shrine rather than carried home, and the one that decides which saint gets which limb",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "มิลาโกร (แผ่นโลหะแก้บน)",
+   "as_th": ""
   },
   {
    "to": "azabache",
    "type": "amulet",
    "name": "Azabache",
    "as": "its earliest arrival: a jet fist out of Asturias by way of Santiago de Compostela, tied on a Caribbean newborn in the first week",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "อาซาบาเช (เครื่องรางหินเจ็ต)",
+   "as_th": ""
   },
   {
    "to": "ojo-de-venado",
    "type": "amulet",
    "name": "Ojo de venado",
    "as": "the local material entering the same kit — a Mexican seed on a red cord, and the object a priest condemned by name",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "โอโฮ เด เวนาโด (ตากวาง)",
+   "as_th": ""
   },
   {
    "to": "car-saint",
    "type": "amulet",
    "name": "Car saint",
    "as": "the dashboard end of it, where a devotional medal prints a promise the Catechism warns against",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "นักบุญประจำรถ (เหรียญนักบุญคริสโตเฟอร์)",
+   "as_th": ""
   },
   {
    "to": "figa",
    "type": "amulet",
    "name": "Figa",
    "as": "the fist as a sign, carried across the same Iberian route into Brazil and the Caribbean",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ฟีกา (กำปั้นกันภัย)",
+   "as_th": ""
   },
   {
    "to": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "the tradition this one is defined against: there the Church draws the line, here the household draws it somewhere else",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   },
   {
    "to": "anting-anting",
    "type": "amulet",
    "name": "Anting-anting",
    "as": "the same move in another Spanish colony — church forms taken up and worked by people outside the clergy, across the Pacific by the galleon route",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "อันติง-อันติง (เครื่องรางฟิลิปปินส์)",
+   "as_th": ""
   },
   {
    "to": "andean-illa-practice",
    "type": "tradition",
    "name": "Illa practice",
    "as": "the tradition it shares a counter with in La Paz and Lima, and the one whose January blessing the Church joins in on",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คติอิยา (เครื่องรางจำลองแห่งแอนดีส)",
+   "as_th": ""
   },
   {
    "to": "ex-voto-wall",
    "type": "art",
    "name": "The ex-voto wall",
    "as": "the format this tradition keeps alive on tin — a painted account of the danger survived, hung where the next petitioner will read it",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "ผนังภาพแก้บน (เอ็กซ์โวโต)",
+   "as_th": ""
   },
   {
    "to": "blessing-at-a-shrine",
    "type": "practice",
    "name": "Blessing at a shrine",
    "as": "the act most of these objects exist for, and the one the markets are laid out around",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การนำไปรับพรที่ศาสนสถาน",
+   "as_th": ""
   },
   {
    "to": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "how one is got: an aisle, a tray, a red cord tied on the spot",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": ""
   },
   {
    "to": "mercado-de-sonora",
    "type": "place",
    "name": "Mercado de Sonora",
    "as": "the tradition's clearest single address — a building the city put up in 1957 to regulate exactly this trade",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตลาดโซโนรา (เมร์กาโด เด โซโนรา)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -768,77 +796,99 @@
    "type": "amulet",
    "name": "Anting-anting",
    "as": "the nearest tradition in this atlas: church forms taken up and worked by people outside the clergy, in another Spanish colony",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "อันติง-อันติง (เครื่องรางฟิลิปปินส์)",
+   "as_th": ""
   },
   {
    "from": "azabache",
    "type": "amulet",
    "name": "Azabache",
    "as": "the tradition that carried it from Asturias to San Juan",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "อาซาบาเช (เครื่องรางหินเจ็ต)",
+   "as_th": ""
   },
   {
    "from": "car-saint",
    "type": "amulet",
    "name": "Car saint",
    "as": "the tradition that fills the most dashboards with this image",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "นักบุญประจำรถ (เหรียญนักบุญคริสโตเฟอร์)",
+   "as_th": ""
   },
   {
    "from": "milagro",
    "type": "amulet",
    "name": "Milagro",
    "as": "the tradition this belongs to, and the one that decides which saint gets which limb",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "มิลาโกร (แผ่นโลหะแก้บน)",
+   "as_th": ""
   },
   {
    "from": "ojo-de-venado",
    "type": "amulet",
    "name": "Ojo de venado",
    "as": "the tradition it is carried inside, and the one a priest was condemning when he condemned it",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "โอโฮ เด เวนาโด (ตากวาง)",
+   "as_th": ""
   },
   {
    "from": "andean-illa-practice",
    "type": "tradition",
    "name": "Illa practice",
    "as": "the tradition it shares a counter and a calendar with; the Church blesses the Alasitas miniatures at the cathedral at midday on 24 January",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คติอิยา (เครื่องรางจำลองแห่งแอนดีส)",
+   "as_th": ""
   },
   {
    "from": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "what happens to these objects where the Church's line is drawn in one place and the household draws it in another",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   },
   {
    "from": "mercado-de-las-brujas-lima",
    "type": "place",
    "name": "Mercado de Brujas de Gamarra",
    "as": "the other half of the counter: candles, saints and cleansings alongside the plants",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ตลาดแม่มดกามาร์รา (ลิมา)",
+   "as_th": ""
   },
   {
    "from": "mercado-de-sonora",
    "type": "place",
    "name": "Mercado de Sonora",
    "as": "the tradition the candles, saints and cleansings belong to",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ตลาดโซโนรา (เมร์กาโด เด โซโนรา)",
+   "as_th": ""
   },
   {
    "from": "quiapo-church",
    "type": "place",
    "name": "Quiapo Church",
    "as": "the parallel from across the Pacific: the same galleon route, the same doubling of saint and charm",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โบสถ์กีอาโป",
+   "as_th": ""
   },
   {
    "from": "ex-voto-wall",
    "type": "art",
    "name": "The ex-voto wall",
    "as": "the tradition that keeps this format alive on tin",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ผนังภาพแก้บน (เอ็กซ์โวโต)",
+   "as_th": ""
   }
  ]
 }

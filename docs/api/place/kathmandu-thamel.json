@@ -11,7 +11,8 @@
   "aliases": [
    "Tha Bahi",
    "Thamel, Kathmandu"
-  ]
+  ],
+  "th": "ทาเมล"
  },
  "region": [
   "himalaya-tibet",
@@ -31,6 +32,9 @@
   "what": "A commercial neighbourhood of narrow alleys in Kathmandu, about 1.4 kilometres north of Durbar Square. Shops run wall to wall: trekking gear, handicrafts, woollens, music, groceries, guest houses. It is the district a visitor to Nepal buys things in, which makes it the counter across which most Himalayan protective objects leave the country.",
   "story": "The name comes from Tha Bahi, which places the district's root in the Newar community, the indigenous people of the Kathmandu Valley. Thamel has been the centre of Kathmandu's tourist trade for over four decades, since the years of the overland hippie route, and it is now the valley's densest concentration of shops aimed at outsiders.\n\nWhat the shops stock is where this atlas has to be careful. The encyclopedia's account lists food, trekking gear, music, handicrafts, souvenirs and woollens, and itemises no charm. *Inference —* prayer flags, rudraksha strings, dzi beads and gau boxes are what a Himalayan souvenir lane carries, and this project has read no survey of Thamel's stalls, so the objects below are linked as kin of the district rather than asserted as stock.\n\nWhat can be cited is where the materials come from. Rudraksha — the seed of Elaeocarpus ganitrus, strung and counted by Shaivites — is cultivated in the Himalayan foothills, and the most popular varieties are found around Kathmandu and the Arun Valley. Printed cloth prayer flags reached Nepal and Tibet through the Indian monk Atisha, who died in 1054. Dzi beads are found in Tibet and in neighbouring Nepal, Bhutan, Ladakh and Sikkim, and Tibetans treat them as hereditary gems rather than as purchases.",
   "today": "Trading, and the pre-base camp for mountaineering: gear shops, money changers, agents, guest houses. No day is marked below, because the alleys keep shop hours and nobody publishes them."
+ },
+ "text_th": {
+  "what": "ย่านการค้าที่มีตรอกแคบ ๆ ในกรุงกาฐมาณฑุ ห่างจากจัตุรัสดูร์บาร์ไปทางเหนือราว 1.4 กิโลเมตร ร้านค้าเรียงชิดกันตลอดแนว: อุปกรณ์เดินป่า หัตถกรรม เครื่องขนสัตว์ ดนตรี ของชำ เกสต์เฮาส์ นี่คือย่านที่ผู้มาเยือนเนปาลซื้อของ ซึ่งทำให้ที่นี่เป็นเคาน์เตอร์ที่วัตถุคุ้มครองแห่งหิมาลัยส่วนใหญ่ผ่านออกไปนอกประเทศ"
  },
  "dating": {
   "period": "modern",
@@ -166,49 +170,63 @@
    "type": "amulet",
    "name": "Rudraksha",
    "as": "the seed whose best-known varieties grow in this valley and the Arun, strung for counting before it is ever sold to a visitor",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "รุทรากษ์",
+   "as_th": ""
   },
   {
    "to": "lungta-flag",
    "type": "amulet",
    "name": "Lung ta prayer flag",
    "as": "the printed cloth flag Atisha brought to Nepal and Tibet, hung on passes above this city",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ธงลุงตา (ธงมนต์ม้าลม)",
+   "as_th": ""
   },
   {
    "to": "dzi-bead",
    "type": "amulet",
    "name": "Dzi bead",
    "as": "the Himalayan agate a shop here will offer and a Tibetan family would not sell; the difference is the whole argument",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "หินดีซี (ลูกปัดทิเบต)",
+   "as_th": ""
   },
   {
    "to": "gau-box",
    "type": "amulet",
    "name": "Gau",
    "as": "the amulet case the Himalaya wears at the throat, made in metal by the valley's own smiths",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "กาอู (ตลับเครื่องรางทิเบต)",
+   "as_th": ""
   },
   {
    "to": "tibetan-protection",
    "type": "tradition",
    "name": "Tibetan protection craft",
    "as": "the tradition most of the objects in these alleys belong to",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางป้องกันภัยทิเบต (ซุงวา)",
+   "as_th": ""
   },
   {
    "to": "barkhor-lhasa",
    "type": "place",
    "name": "The Barkhor",
    "as": "the pilgrim circuit on the other side of the range, where the same objects are bought by the people who use them",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "บาร์คอร์",
+   "as_th": ""
   },
   {
    "to": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the long read on copies, which a souvenir lane selling a hereditary object cannot dodge",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดของปลอม",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -309,42 +327,54 @@
    "type": "amulet",
    "name": "Dzi bead",
    "as": "the other Himalayan street they are sold on, mostly to visitors",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "หินดีซี (ลูกปัดทิเบต)",
+   "as_th": ""
   },
   {
    "from": "gau-box",
    "type": "amulet",
    "name": "Gau",
    "as": "where the catalogued example was made, and where empty cases are sold as jewellery",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "กาอู (ตลับเครื่องรางทิเบต)",
+   "as_th": ""
   },
   {
    "from": "rudraksha",
    "type": "amulet",
    "name": "Rudraksha",
    "as": "one of the streets the Nepalese beads reach a buyer on",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "รุทรากษ์",
+   "as_th": ""
   },
   {
    "from": "hindu-kavacha",
    "type": "tradition",
    "name": "Kavacha — the Hindu armour tradition",
    "as": "the Himalayan street where the tradition's beads and plates reach buyers from outside it",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "กวจะ (เกราะคุ้มครองในคติฮินดู)",
+   "as_th": ""
   },
   {
    "from": "tibetan-protection",
    "type": "tradition",
    "name": "Tibetan protection craft",
    "as": "the street where its objects meet buyers from outside it",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "งานเครื่องรางป้องกันภัยทิเบต (ซุงวา)",
+   "as_th": ""
   },
   {
    "from": "barkhor-lhasa",
    "type": "place",
    "name": "The Barkhor",
    "as": "the market on the other side of the Himalaya, where the same objects are sold mostly to outsiders",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "บาร์คอร์",
+   "as_th": ""
   }
  ]
 }

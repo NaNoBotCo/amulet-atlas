@@ -4,25 +4,130 @@
  "type": "motif",
  "names": {
   "name": "The serpent",
-  "aliases": ["snake motif", "cobra", "uraeus", "nāga", "entwined snakes", "rainbow serpent"]
+  "aliases": [
+   "snake motif",
+   "cobra",
+   "uraeus",
+   "nāga",
+   "entwined snakes",
+   "rainbow serpent"
+  ],
+  "th": "งู"
  },
- "region": ["ancient-egypt", "mesopotamia", "greece-aegean", "rome-italy", "south-asia", "mainland-sea", "west-africa", "mesoamerica", "caribbean", "china", "japan"],
- "countries": ["EG", "IQ", "GR", "IT", "IN", "KH", "TH", "LA", "BJ", "MX", "GT", "HT", "CN", "JP", "KR", "AE"],
- "facets": {"era": "ancient", "family": "serpent", "hemisphere": ["N", "S", "E", "W"]},
+ "region": [
+  "ancient-egypt",
+  "mesopotamia",
+  "greece-aegean",
+  "rome-italy",
+  "south-asia",
+  "mainland-sea",
+  "west-africa",
+  "mesoamerica",
+  "caribbean",
+  "china",
+  "japan"
+ ],
+ "countries": [
+  "EG",
+  "IQ",
+  "GR",
+  "IT",
+  "IN",
+  "KH",
+  "TH",
+  "LA",
+  "BJ",
+  "MX",
+  "GT",
+  "HT",
+  "CN",
+  "JP",
+  "KR",
+  "AE"
+ ],
+ "facets": {
+  "era": "ancient",
+  "family": "serpent",
+  "hemisphere": [
+   "N",
+   "S",
+   "E",
+   "W"
+  ]
+ },
  "text": {
   "what": "A snake, drawn coiled, reared, entwined in pairs, or hooded above a head. It is cut into rings and pendants, cast on the branches of Neapolitan silver charms, hooded in stone over Angkorean doorways, and worn as the cobra on an Egyptian crown. Nothing else in this atlas is so evenly split between a thing to be guarded against and a thing that does the guarding.",
   "story": "Snakes make good guardians for a reason their observers state plainly: a cornered cobra or rattlesnake holds its ground, displays, and fights rather than retreating. So it gets set where something cannot be moved out of harm's way. At Angkor, hooded multi-headed nāgas guard temples in stone, and from about the twelfth century CE a favourite subject was the Buddha meditating on the coils of a nāga whose flared hood shields him — the story of Mucalinda, who came up from the roots of a tree when the storm began.\n\nEgypt puts the snake at the top. Wadjet, the Egyptian cobra, is from the earliest records the patron and protector of the country, of the other gods and of the pharaohs, worn entwined around the papyrus staff and set in the crown. Nehebkau, the two-headed serpent, guarded the entrance to the underworld, and charms against snakes were inscribed or chanted invoking him — which is the whole ambivalence in one deity: the snake keeps snakes off.\n\nThe entwined pair is older than the caduceus. The oldest known representation of two snakes coiled round a rod is the Sumerian god Ningizzida, later a god of healing and magic; a green steatite vase carved for King Gudea of Lagash, dated variously to 2200–2025 BCE, carries an inscription dedicated to him and is in the Louvre. The Greek physician Asclepius carries the single-snake staff that modern medicine still uses. Moses set a serpent on a pole, the Nehushtan, at Numbers 21:8.\n\nEurope kept a domestic version. German popular belief records the house snake that looks after the cows and the children, whose appearance is an omen of death, and whose life is often held to be bound to the master's and the mistress's.\n\n*Inference —* the snake turns up in this role on every inhabited continent, and the sources read here do not show one tradition teaching another. Where the same posture appears — reared, hooded, entwined — the likeliest account is that people in many places watched the same animal do the same thing."
  },
+ "text_th": {
+  "what": "งูที่วาดเป็นขด ชูตัว พันกันเป็นคู่ หรือแผ่พังพานเหนือศีรษะ ถูกสลักลงบนแหวนและจี้ หล่อไว้บนกิ่งของเครื่องรางเงินแบบเนเปิลส์ แผ่พังพานในงานหินเหนือประตูสมัยพระนคร (Angkor) และสวมเป็นงูเห่าบนมงกุฎอียิปต์ ไม่มีสิ่งใดในแอตลาสนี้ที่แบ่งครึ่งเท่ากันขนาดนี้ ระหว่างสิ่งที่ต้องป้องกัน กับสิ่งที่ทำหน้าที่ป้องกัน",
+  "story": "งูเป็นผู้พิทักษ์ที่ดีด้วยเหตุผลที่ผู้สังเกตกล่าวไว้ตรง ๆ: งูเห่าหรืองูหางกระดิ่งที่จนมุมจะยืนหยัด ขู่ และสู้ แทนที่จะถอย ดังนั้นมันจึงถูกวางไว้ในที่ที่มีบางสิ่งไม่อาจเคลื่อนย้ายหนีอันตรายได้ ที่เมืองพระนคร นาคหลายเศียรแผ่พังพานเฝ้าปราสาทไว้ในรูปหิน และตั้งแต่ราวคริสต์ศตวรรษที่ 12 เรื่องที่นิยมคือพระพุทธเจ้าประทับสมาธิบนขนดของนาคที่แผ่พังพานกำบังพระองค์ (พระนาคปรก) — เรื่องของพญามุจลินท์ ผู้ขึ้นมาจากรากไม้เมื่อพายุเริ่มขึ้น\n\nอียิปต์วางงูไว้ที่จุดสูงสุด วาเจต (Wadjet) งูเห่าอียิปต์ ปรากฏตั้งแต่บันทึกแรกสุดในฐานะผู้อุปถัมภ์และผู้คุ้มครองประเทศ คุ้มครองเทพองค์อื่น ๆ และฟาโรห์ ปรากฏพันรอบไม้เท้าต้นปาปิรัส และประดับไว้บนมงกุฎ เนเฮบคาว (Nehebkau) งูสองหัว เฝ้าทางเข้าสู่ยมโลก และมีการจารึกหรือสวดคาถากันงูโดยอัญเชิญเทพองค์นี้ — ซึ่งคือความก้ำกึ่งทั้งหมดอยู่ในเทพองค์เดียว: งูกันงู\n\nคู่งูพันกันเก่ากว่าคทาคาดูเซียส (caduceus) ภาพงูสองตัวพันรอบไม้ที่เก่าที่สุดที่รู้จักคือเทพนิงกิชซิดา (Ningizzida) ของสุเมเรียน ซึ่งภายหลังเป็นเทพแห่งการรักษาและเวทมนตร์ แจกันหินสบู่สีเขียวที่สลักถวายพระเจ้ากูเดอา (Gudea) แห่งลากาช ซึ่งกำหนดอายุไว้ต่าง ๆ กันระหว่าง 2200–2025 ปีก่อน ค.ศ. มีจารึกอุทิศแด่เทพองค์นี้ และอยู่ที่พิพิธภัณฑ์ลูฟวร์ แอสคลีเพียส (Asclepius) แพทย์ชาวกรีก ถือไม้เท้างูตัวเดียวที่การแพทย์สมัยใหม่ยังใช้อยู่ โมเสสตั้งงูไว้บนเสา คือ เนหุชทาน (Nehushtan) ในกันดารวิถี 21:8\n\nยุโรปเก็บฉบับในบ้านไว้ ความเชื่อพื้นบ้านของเยอรมันบันทึกถึงงูประจำบ้านที่ดูแลวัวและเด็ก ๆ การปรากฏตัวของมันเป็นลางมรณะ และมักถือกันว่าชีวิตของมันผูกอยู่กับชีวิตของนายบ้านและแม่บ้าน\n\n*ข้อสันนิษฐาน —* งูปรากฏในบทบาทนี้ในทุกทวีปที่มีคนอาศัย และแหล่งข้อมูลที่อ่านในที่นี้ไม่ได้แสดงว่าธรรมเนียมหนึ่งสอนอีกธรรมเนียมหนึ่ง ในที่ที่ท่าทางเดียวกันปรากฏ — ชูตัว แผ่พังพาน พันกัน — คำอธิบายที่เป็นไปได้มากที่สุดคือ ผู้คนในหลายที่เฝ้าดูสัตว์ชนิดเดียวกันทำสิ่งเดียวกัน"
+ },
+ "th_fields": {
+  "dating.period": "อียิปต์ยุคก่อนราชวงศ์จนถึงปัจจุบัน",
+  "dating.note": "ระบุอายุจากข้อความที่ว่าเสาเทพที่มีงูวาดเจต (Wadjet) พันอยู่ มีอายุเก่ากว่า 3000 ปีก่อน ค.ศ. ส่วนแจกันกูเดอา (Gudea) ที่ถวายแด่นิงกิชซิดา (Ningizzida) ระบุอายุแยกไว้ที่ 2200–2025 ปีก่อน ค.ศ.",
+  "against.0.who": "ตำราอียิปต์: คาถากันงูถูกจารึกหรือสวด บางบทอัญเชิญเนเฮบคาอู (Nehebkau) เทพงู และบางบทใช้คุ้มครองผู้ตาย",
+  "against.1.who": "ช่างก่อสร้างสมัยพระนคร (อังกอร์) ผู้วางนาคแผ่พังพานหลายเศียรไว้เป็นผู้พิทักษ์ปราสาทและสถานที่อื่น ๆ",
+  "against.2.who": "คติของอียิปต์ ซึ่งเล่าว่าวาดเจตพ่นไฟใส่ศัตรูของฟาโรห์และของเทพรา",
+  "against.3.who": "ไม้เท้าแอสคลีเพียส (Asclepius) และคทาของนิงกิชซิดา ทั้งสองเป็นสัญลักษณ์แห่งการรักษาในประเพณีของตน",
+  "against.4.who": "ความเชื่อพื้นบ้านของเยอรมัน ซึ่งถือว่างูประจำบ้านดูแลวัวและเด็ก ๆ",
+  "holdings.0.what": "แจกันหินสตีไทต์สีเขียว สลักถวายพระเจ้ากูเดอาแห่งลากัช (Lagash) มีจารึกอุทิศแด่นิงกิชซิดา เป็นรูปงูสองตัวพันกัน"
+ },
  "kin": [
-  {"to": "cimaruta", "as": "the Neapolitan silver sprig that grows a snake on one of its branches, beside a key and a crescent", "rel": "carried-by"},
-  {"to": "magical-gem", "as": "the engraved stones that carry snakes, snake-legged figures and serpent-haired heads", "rel": "carried-by"},
-  {"to": "eye", "as": "the other sign that is both the harm and the answer to it", "rel": "parallel"},
-  {"to": "tree", "as": "the snake is almost always coiled around one — Eden, the Hesperides, Yggdrasil, the Bodhi tree", "rel": "kin"},
-  {"to": "tooth-and-claw", "as": "the animal reduced to its dangerous part; the serpent is kept whole instead", "rel": "contrast"},
-  {"to": "lion", "as": "the other guardian animal set at doorways, and the one Egypt paired Wadjet with as Sekhmet", "rel": "parallel"},
-  {"to": "hanging-at-door", "as": "the practice the guardian snake belongs to, in stone rather than in metal", "rel": "practice"},
-  {"to": "west-african-charm-craft", "as": "one of the living traditions that names and serves serpent figures, and which speaks for itself rather than through this record", "rel": "tradition"},
-  {"to": "european-folk-apotropaic", "as": "the tradition the German house snake and the Neapolitan silver snake both belong to", "rel": "tradition"}
+  {
+   "to": "cimaruta",
+   "as": "the Neapolitan silver sprig that grows a snake on one of its branches, beside a key and a crescent",
+   "rel": "carried-by",
+   "as_th": "กิ่งเงินแบบเนเปิลส์ที่มีงูงอกออกมาบนกิ่งหนึ่ง ข้างกุญแจและพระจันทร์เสี้ยว"
+  },
+  {
+   "to": "magical-gem",
+   "as": "the engraved stones that carry snakes, snake-legged figures and serpent-haired heads",
+   "rel": "carried-by",
+   "as_th": "หินแกะสลักที่มีรูปงู รูปคนขาเป็นงู และศีรษะที่มีผมเป็นงู"
+  },
+  {
+   "to": "eye",
+   "as": "the other sign that is both the harm and the answer to it",
+   "rel": "parallel",
+   "as_th": "เครื่องหมายอีกอย่างที่เป็นทั้งภัยและทางแก้ภัยนั้น"
+  },
+  {
+   "to": "tree",
+   "as": "the snake is almost always coiled around one — Eden, the Hesperides, Yggdrasil, the Bodhi tree",
+   "rel": "kin",
+   "as_th": "งูแทบจะพันอยู่รอบต้นไม้เสมอ — สวนเอเดน สวนเฮสเพอริดีส อิกดราซิล (Yggdrasil) ต้นโพธิ์"
+  },
+  {
+   "to": "tooth-and-claw",
+   "as": "the animal reduced to its dangerous part; the serpent is kept whole instead",
+   "rel": "contrast",
+   "as_th": "สัตว์ที่ถูกลดเหลือเพียงส่วนที่อันตราย ส่วนงูกลับถูกเก็บไว้ทั้งตัว"
+  },
+  {
+   "to": "lion",
+   "as": "the other guardian animal set at doorways, and the one Egypt paired Wadjet with as Sekhmet",
+   "rel": "parallel",
+   "as_th": "สัตว์ผู้พิทักษ์อีกตัวที่ตั้งไว้ที่ประตู และเป็นตัวที่อียิปต์จับคู่กับวาเจตในรูปของเซคเมท (Sekhmet)"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "the practice the guardian snake belongs to, in stone rather than in metal",
+   "rel": "practice",
+   "as_th": "การปฏิบัติที่งูผู้พิทักษ์สังกัดอยู่ ในรูปหินแทนที่จะเป็นโลหะ"
+  },
+  {
+   "to": "west-african-charm-craft",
+   "as": "one of the living traditions that names and serves serpent figures, and which speaks for itself rather than through this record",
+   "rel": "tradition",
+   "as_th": "หนึ่งในธรรมเนียมที่ยังมีชีวิตซึ่งเรียกชื่อและปรนนิบัติรูปงู และพูดแทนตัวเอง ไม่ได้พูดผ่านบันทึกนี้"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the tradition the German house snake and the Neapolitan silver snake both belong to",
+   "rel": "tradition",
+   "as_th": "ธรรมเนียมที่ทั้งงูประจำบ้านของเยอรมันและงูเงินของเนเปิลส์สังกัดอยู่"
+  }
  ],
  "dating": {
   "period": "Predynastic Egypt to the present",
@@ -38,31 +143,95 @@
  },
  "object": {
   "form": "pendant",
-  "materials": ["silver", "gold", "agate", "copper", "terracotta"],
-  "worn": ["neck", "finger", "door", "lintel", "head"],
+  "materials": [
+   "silver",
+   "gold",
+   "agate",
+   "copper",
+   "terracotta"
+  ],
+  "worn": [
+   "neck",
+   "finger",
+   "door",
+   "lintel",
+   "head"
+  ],
   "source": "s:wp-serpent-symbolism"
  },
  "against": [
-  {"harm": "snakebite", "who": "Egyptian texts: charms against snakes were inscribed or chanted, some invoking the snake deity Nehebkau, and some to protect the dead", "source": "s:wp-snake-worship", "tier": "cited"},
-  {"harm": "spirits", "who": "Angkorean builders, who set hooded multi-headed nāgas as guardians of temples and other premises", "source": "s:wp-serpent-symbolism", "tier": "cited"},
-  {"harm": "war", "who": "Egyptian tradition, which has Wadjet spit fire at the enemies of the pharaoh and of Ra", "source": "s:wp-snake-worship", "tier": "cited"},
-  {"harm": "illness", "who": "the Asclepius staff and the Ningizzida rod, both healing emblems in their own traditions", "source": "s:wp-serpent-symbolism", "tier": "cited"},
-  {"harm": "livestock", "who": "German popular belief, in which the house snake looks after the cows and the children", "source": "s:wp-snake-worship", "tier": "cited"}
+  {
+   "harm": "snakebite",
+   "who": "Egyptian texts: charms against snakes were inscribed or chanted, some invoking the snake deity Nehebkau, and some to protect the dead",
+   "source": "s:wp-snake-worship",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "Angkorean builders, who set hooded multi-headed nāgas as guardians of temples and other premises",
+   "source": "s:wp-serpent-symbolism",
+   "tier": "cited"
+  },
+  {
+   "harm": "war",
+   "who": "Egyptian tradition, which has Wadjet spit fire at the enemies of the pharaoh and of Ra",
+   "source": "s:wp-snake-worship",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the Asclepius staff and the Ningizzida rod, both healing emblems in their own traditions",
+   "source": "s:wp-serpent-symbolism",
+   "tier": "cited"
+  },
+  {
+   "harm": "livestock",
+   "who": "German popular belief, in which the house snake looks after the cows and the children",
+   "source": "s:wp-snake-worship",
+   "tier": "cited"
+  }
  ],
  "holdings": [
-  {"museum": "louvre", "what": "green steatite vase carved for King Gudea of Lagash with an inscription dedicated to Ningizzida, showing two entwined snakes", "source": "s:wp-serpent-symbolism"}
+  {
+   "museum": "louvre",
+   "what": "green steatite vase carved for King Gudea of Lagash with an inscription dedicated to Ningizzida, showing two entwined snakes",
+   "source": "s:wp-serpent-symbolism"
+  }
  ],
- "links": [{"label": "Serpent symbolism — Wikipedia", "url": "https://en.wikipedia.org/wiki/Serpent_symbolism"}],
- "sources": ["s:wp-serpent-symbolism", "s:wp-snake-worship", "s:wp-cimaruta", "s:wp-haitian-vodou"],
+ "links": [
+  {
+   "label": "Serpent symbolism — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Serpent_symbolism"
+  }
+ ],
+ "sources": [
+  "s:wp-serpent-symbolism",
+  "s:wp-snake-worship",
+  "s:wp-cimaruta",
+  "s:wp-haitian-vodou"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-serpent-symbolism"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-serpent-symbolism"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:wp-serpent-symbolism", "note": "the closing paragraph on convergence is this project's reading and is marked inference there"},
-   "object": {"tier": "tradition", "note": "materials and positions are pooled from many traditions rather than read off one catalogue"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-serpent-symbolism",
+    "note": "the closing paragraph on convergence is this project's reading and is marked inference there"
+   },
+   "object": {
+    "tier": "tradition",
+    "note": "materials and positions are pooled from many traditions rather than read off one catalogue"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Uraeus.svg", "File:Naga Mucalinda Buddha.jpg"],
+ "x_commons_files": [
+  "File:Uraeus.svg",
+  "File:Naga Mucalinda Buddha.jpg"
+ ],
  "confidence": "medium",
  "needs_verification": true,
  "updated": "2026-09-16"

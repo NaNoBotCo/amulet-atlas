@@ -12,7 +12,8 @@
    "phylacteries",
    "shel yad",
    "shel rosh"
-  ]
+  ],
+  "th": "เทฟิลลิน"
  },
  "etymology": {
   "root": "Mishnaic Hebrew plural of tefillah; Jastrow connects it to Syriac tefiltha, 'attachments' or 'hangings'. In the Hebrew Bible the objects are totafot, 'headband' or 'frontlet', from a reduplicated root ṭ-p-ṭ-p meaning 'to encircle'",
@@ -46,6 +47,9 @@
   "story": "Like the mezuzah, tefillin are a commandment and not an amulet, and the tradition guards that distinction itself. The cited account puts it exactly: tefillin are sometimes mentioned together with amulets in the Talmud because of certain similarities of form, but they are never identified as such — they are specifically differentiated from them. Maimonides counts the arm box and the head box as two separate positive commandments. His account of what they do is about the wearer's mind: as long as they are on the head and the arm of a man, \"he is modest and God-fearing and will not be attracted by hilarity or idle talk\". The Sefer ha-Chinuch, in the 14th century, adds that they help subjugate worldly desire. Joseph Caro, in the 16th, explains the positions: next to the heart and above the brain, to show both organs willing to serve.\n\nThe argument that they are also apotropaic is made, and made by named people. Yehudah B. Cohn argues that tefillin should be read as an invented tradition, aimed at countering the popularity of Greek amulets with a Jewish one. Joshua Trachtenberg took every ornament worn on the body, whatever its declared function, to have begun as an amulet. And the early rabbinic sources are explicit enough on their own: Numbers Rabbah 12:3 has tefillin defeating \"a thousand demons\" coming up on the left side; rabbis Yohanan and Nahman use their sets to repel the demons of privies; Elisha the Winged, scrupulous in this mitzvah, is saved from Roman persecution. Tefillin are also credited with lengthening life, and are listed in one breath with objects that are amuletic in nature.\n\nSo the atlas includes them and states the objection rather than dissolving it. The object is dated: Jews were wearing physical tefillin by at least the first century CE, which is shown by the finds at Qumran and by the reference in Matthew 23. Karaite Judaism reads the commandment as metaphor and does not.\n\nWho wears them is governed. The obligation rests on Jewish males from thirteen; women are exempt, as they are from most time-bound positive commandments, and since Rema in the 16th century the prevalent practice among religious Jews has strongly discouraged women from wearing them. Claims that Rashi's daughters and the wife of Chaim ibn Attar wore tefillin have no historical evidence behind them. In Orthodox practice it remains a male obligation; Conservative women often wrap; SAR High School in Riverdale allowed girls to wrap at morning prayer from 2013, probably the first Modern Orthodox high school in the United States to do so; a Jerusalem District Court judge ruled in 2013 that Women of the Wall wearing tefillin at the Western Wall did not violate 'local custom'; in 2018 students at Hebrew College in Boston made a series of videos teaching female and transgender Jews to wrap.",
   "how": "Cubical boxes from a single piece of hide, in three grades — peshutim, made with several pieces of parchment forming the inner walls of the head box; dakkot, stretched from one thin piece; and the more durable gassot. Painted black by custom now, though the archaeological finds do not show that this was always so. Straps must be black on the outside and any colour but red inside. The four passages go on one strip in the arm box, which has a single compartment, and on four separate scrolls in the head box, which has four — because the verses name the hand device in the singular and the head device in the plural. Written by a scribe in Ashuri script in one of three lettering styles: Beis Yosef for Ashkenazim, Arizal for Hasidim, Velish for Sefardim. The letters must be written in order; a mistake found later cannot be corrected, because the replacement would be out of sequence, and the set is invalid. Talmudic commentators disagreed on the order of the scrolls: Rashi held to the order the passages appear in the Torah, Rabbeinu Tam switched the last two. Most follow Rashi; some also lay Rabbeinu Tam briefly, a custom of the Ari taken up by Hasidim, many Sephardic communities and some Ashkenazim. The Vilna Gaon, who wore Rashi's, rejected the stringency, pointing out that there are 64 possible arrangements and one cannot put on 64 sets. Worn during Shacharit on weekdays and removed after morning services; Jewish men once wore them all day.",
   "today": "Worn daily wherever weekday morning prayer is kept, as of 2026. The live question inside the tradition is gender, and it is being answered differently by different communities — see the story above, which names the rulings and the dates."
+ },
+ "text_th": {
+  "what": "กล่องหนังสีดำใบเล็กสองใบ พร้อมสายหนังสีดำยาว กล่องสำหรับแขนสวมที่ต้นแขนข้างที่ไม่ถนัด และสายพันลงมาตามแขนท่อนล่าง รอบมือ และรอบนิ้วกลาง กล่องสำหรับศีรษะวางอยู่ระหว่างดวงตาตรงแนวไรผม กล่องแต่ละใบทำจากหนังสัตว์ชิ้นเดียว ทรงลูกบาศก์ บนฐานที่กว้างกว่า มีช่องด้านหลังสำหรับร้อยสาย ทั้งสองด้านของกล่องศีรษะมีตัวอักษรชิน (shin) ขึ้นรูปไว้ — ด้านซ้ายของผู้สวมมีสี่แฉกแทนสามแฉก ปมของสายศีรษะเป็นรูปตัวดาเลต (dalet) ปมของสายแขนเป็นรูปตัวยุด (yud) เมื่อรวมกับชิน ตัวอักษรทั้งสามสะกดเป็น ชัดดัย (Shaddai) ข้างในมีม้วนหนังพาร์ชเมนต์บรรจุข้อความจากโทราห์สี่ตอน: อพยพ 13:1–10 อพยพ 13:11–16 เฉลยธรรมบัญญัติ 6:4–9 และเฉลยธรรมบัญญัติ 11:13–21 รวม 3,188 ตัวอักษร และอาลักษณ์อาจใช้เวลานานถึง 15 ชั่วโมงในการเขียนหนึ่งชุด"
  },
  "dating": {
   "period": "Second Temple period to the present",
@@ -223,70 +227,90 @@
    "type": "amulet",
    "name": "Mezuzah",
    "as": "the partner commandment, carrying two of the same four passages, fixed to the door instead of bound to the body — and the object Maimonides used to say what happens when a mitzvah is treated as a talisman",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เมซูซา",
+   "as_th": ""
   },
   {
    "to": "phylactery-word",
    "type": "term",
    "name": "phylactery",
    "as": "the Greek word for 'safeguard' that English fastened onto these, and that the tradition's own usage never uses",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "ฟิแล็กเทอรี (phylactery)",
+   "as_th": ""
   },
   {
    "to": "ketef-hinnom-scrolls",
    "type": "amulet",
    "name": "Ketef Hinnom silver scrolls",
    "as": "the oldest surviving Hebrew verses written small and carried — six centuries before the earliest tefillin finds",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "ม้วนแผ่นเงินเคเทฟฮินโนม",
+   "as_th": ""
   },
   {
    "to": "red-string",
    "type": "amulet",
    "name": "Red string",
    "as": "in the 1490s, when Jews were barred from wearing tefillin, Rabbi Abraham Saba recommended a red string on the hand to remember this commandment — the one documented moment where one substitutes for the other",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "to": "kamea",
    "type": "amulet",
    "name": "Kamea",
    "as": "the written Jewish amulet these are constantly mistaken for and formally separated from",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "คาเมอา (เครื่องรางแบบเขียนของชาวยิว)",
+   "as_th": ""
   },
   {
    "to": "jewish-practical-kabbalah",
    "type": "tradition",
    "name": "Practical Kabbalah",
    "as": "the tradition the apotropaic reading of tefillin belongs to, named here and not joined",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "คับบาลาห์ภาคปฏิบัติ",
+   "as_th": ""
   },
   {
    "to": "parchment",
    "type": "material",
    "name": "Parchment",
    "as": "what the passages are written on, and where a single out-of-order letter invalidates the set",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "แผ่นหนัง (พาร์ชเมนต์)",
+   "as_th": ""
   },
   {
    "to": "talismanic-shirt",
    "type": "amulet",
    "name": "Talismanic shirt",
    "as": "scripture worn on the body in another book's tradition, with none of this one's objection to the word",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เสื้อยันต์",
+   "as_th": ""
   },
   {
    "to": "inscribing",
    "type": "practice",
    "name": "Inscribing",
    "as": "the practice at its most exacting: 3,188 letters, in order, no corrections",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การลงอักขระ",
+   "as_th": ""
   },
   {
    "to": "amulet-or-talisman",
    "type": "story",
    "name": "Amulet or talisman?",
    "as": "the long read; this record is here under protest from the tradition it belongs to, and says so",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "อะมูเล็ตหรือทาลิสแมน?",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -456,77 +480,99 @@
    "type": "amulet",
    "name": "Kamea",
    "as": "the commandment the Talmud specifically differentiates from amulets, and which a kame'a is not",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "คาเมอา (เครื่องรางแบบเขียนของชาวยิว)",
+   "as_th": ""
   },
   {
    "from": "ketef-hinnom-scrolls",
    "type": "amulet",
    "name": "Ketef Hinnom silver scrolls",
    "as": "the commandment that puts the same kind of verses in a box on the body — and the object this one keeps getting read backwards through",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "ม้วนแผ่นเงินเคเทฟฮินโนม",
+   "as_th": ""
   },
   {
    "from": "mezuzah",
    "type": "amulet",
    "name": "Mezuzah",
    "as": "its partner commandment and its partner problem — the other object Jewish law refuses to call an amulet, carrying some of the same verses on the body instead of on the door",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เมซูซา",
+   "as_th": ""
   },
   {
    "from": "red-string",
    "type": "amulet",
    "name": "Red string",
    "as": "the commandment this stood in for in the 1490s, when Rabbi Abraham Saba told Jews barred from wearing tefillin to wear a red string to remember it",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "from": "talismanic-shirt",
    "type": "amulet",
    "name": "Talismanic shirt",
    "as": "scripture bound to the body under a law that refuses to call it an amulet — the contrast this record is sharpest against",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เสื้อยันต์",
+   "as_th": ""
   },
   {
    "from": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "the straps whose knots spell the same name with the box's shin",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "พระนาม",
+   "as_th": ""
   },
   {
    "from": "red-thread",
    "type": "motif",
    "name": "The red thread",
    "as": "the commandment Rabbi Abraham Saba proposed the string as a reminder of, in the 1490s",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "from": "parchment",
    "type": "material",
    "name": "Parchment",
    "as": "4 passages, 3,188 letters, written in order on klaf and sealed into boxes of a single piece of hide",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "แผ่นหนัง (พาร์ชเมนต์)",
+   "as_th": ""
   },
   {
    "from": "inscribing",
    "type": "practice",
    "name": "Inscribing",
    "as": "the strictest version — 3,188 letters in order, and a mistake found afterwards cannot be fixed",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การลงอักขระ",
+   "as_th": "แบบที่เข้มงวดที่สุด — ตัวอักษร 3,188 ตัวตามลำดับ และข้อผิดพลาดที่พบภายหลังแก้ไม่ได้"
   },
   {
    "from": "knotting",
    "type": "practice",
    "name": "Knotting",
    "as": "leather knotted into letters — dalet and yud, spelling a name of God with the shin on the box",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การผูกปม",
+   "as_th": ""
   },
   {
    "from": "phylactery-word",
    "type": "term",
    "name": "phylactery",
    "as": "the object the Greek word was put on, and still the standard English rendering in Bible translation",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "ฟิแล็กเทอรี (phylactery)",
+   "as_th": ""
   }
  ]
 }

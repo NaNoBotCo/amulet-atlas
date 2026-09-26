@@ -12,7 +12,8 @@
    "phylacteries",
    "phylaktērion",
    "phylaktēria"
-  ]
+  ],
+  "th": "ฟิแล็กเทอรี (phylactery)"
  },
  "etymology": {
   "root": "Greek phylaktērion (φυλακτήριον) 'guarded post, safeguard, security', in later Greek 'amulet' or 'charm' > the Greek New Testament, where it occurs once > Latin and the languages of Europe > English phylactery",
@@ -43,6 +44,9 @@
  "text": {
   "what": "Three words wearing one spelling, and a reader has to know which is meant. In Bible translation and in older Jewish scholarship, phylactery is the English word for tefillin — the leather boxes of Torah text bound to arm and head. In general English it is a loose synonym for any amulet. In tabletop gaming it names the object a lich hides its life force in, which is where most English speakers under forty meet the word first.",
   "story": "The Greek starts as architecture and police work. Phylaktērion is a guarded post, a safeguard, a security; only in later Greek does it mean an amulet. The New Testament uses it once, at Matthew 23, for the boxes worn by Jews — a Greek word for a Jewish object, chosen by a Greek-writing author — and from that single occurrence it entered the European languages. Tefillin itself is a different word with a different history: the Targumim and the Peshitta are the first texts to use it, and Jastrow connects it to a Syriac word for attachments or hangings.\n\nThe archaeology and the word meet: finds at Qumran and the reference in Matthew 23 together show that by the first century CE many Jews were wearing some physical form of the object.\n\nThe third stage is datable and recent. The term appears in the first-edition Advanced Dungeons & Dragons Monster Manual in 1977, where a lich holds its status by conjurations, enchantments and a phylactery, and the nature and function of that phylactery is not explained. By the second edition in 1989 the object explicitly stores the lich's life force. The third-edition Monster Manual, in 2000, describes it as resembling a Jewish tefillin, and notes it can also be a ring or an amulet.\n\nThat borrowing has been argued with. Eric Silver has criticised the gaming term for its Jewish religious origin and proposed talisman as the neutral word instead. Wizards of the Coast has not retired the term; Paizo Publishing stopped using it in 2021, and its liches now keep their souls in a soul cage.\n\n*Inference —* the arc is one word carried three times by people who were not its owners: a Greek writer naming a Jewish practice, European translators keeping his choice, and a game designer reaching past both for a container that sounded old."
+ },
+ "text_th": {
+  "what": "สามคำที่ใช้ตัวสะกดเดียวกัน และผู้อ่านต้องรู้ว่าหมายถึงคำไหน ในคัมภีร์ไบเบิลฉบับแปลและงานวิชาการยิวรุ่นเก่า ฟิแล็กเทอรีคือคำภาษาอังกฤษที่ใช้เรียกเทฟิลลิน (tefillin) — กล่องหนังบรรจุข้อความจากคัมภีร์โตราห์ที่รัดไว้กับแขนและศีรษะ ในภาษาอังกฤษทั่วไป มันเป็นคำที่ใช้แทนเครื่องรางใด ๆ ก็ได้อย่างหลวม ๆ ในเกมบนโต๊ะ มันคือวัตถุที่ลิช (lich) ซ่อนพลังชีวิตของตนไว้ ซึ่งผู้ใช้ภาษาอังกฤษส่วนใหญ่ที่อายุต่ำกว่าสี่สิบได้รู้จักคำนี้เป็นครั้งแรกจากตรงนั้น"
  },
  "dating": {
   "from_year": 50,

@@ -13,7 +13,8 @@
    "katadesmos",
    "binding tablet",
    "judicial prayer"
-  ]
+  ],
+  "th": "แผ่นคำสาป (คาตาเดสมอส)"
  },
  "etymology": {
   "root": "from the Greek and Latin words for 'pierce' and 'bind' — katadesmos from katadeō, to bind down; defixio from defigere, to fix or nail down",
@@ -45,6 +46,9 @@
  "text": {
   "what": "A very thin sheet of lead with tiny letters scratched into it, then rolled, folded, or pierced through with a nail. It goes into the ground: buried in a grave or tomb, thrown down a well or a pool, shut in an underground sanctuary, nailed to a temple wall. Some are found with small bound figurines, hands and feet tied, sometimes pierced too. Some have hair or a scrap of clothing folded into them.",
   "story": "This is the amulet turned around, and the atlas keeps it here on purpose. Everything else in this batch is written to keep a harm off a person. A defixio is written to put one on. Same lead, same scratched letters, same divine names, same burial in a grave — and the target is a named human being.\n\nAbout 1,600 of them have been found, most in Greek, 220 from Attica alone. The first set came from Selinus in Sicily: twenty-two tablets, mostly early fifth century BCE, aimed at somebody the writer was suing. The Athenian tablets are full of lawsuits — may he botch his performance in court, forget his words, become dizzy. Others are erotic binding spells, or aimed at thieves, business rivals and sporting rivals.\n\nIn 1979 and 1980, 130 tablets came out of the sacred spring at Aquae Sulis, now Bath. All but one concern the restitution of stolen goods. More than eighty similar tablets were found at a temple of Mercury at West Hill, Uley, which makes south-western Britain one of the great centres of Latin defixiones. Some scholars refuse to call these curses at all and prefer 'judicial prayers', because what they mostly do is list a crime in detail and hand the punishment to a god.\n\nThe writing is doing work beyond its sense. Voces mysticae — words in no known language — recur; Stanley J. Tambiah proposed in 1968 that they represent \"the language that demons can understand\". Clement of Alexandria, around 200 CE, held that human language was not fit for addressing gods at all. Tablets survive with blank spaces where a name should go, prepared in advance and finished when a customer paid.\n\n*Inference —* the blank space is the tell. An object sold ready-made with a gap for the buyer's enemy is a product, and the professional who wrote it had the same relationship to his customers as the man selling gems with Abrasax on them two streets away."
+ },
+ "text_th": {
+  "what": "แผ่นตะกั่วบางมาก มีตัวอักษรเล็กจิ๋วขีดลงไป แล้วม้วน พับ หรือตอกตะปูทะลุ แผ่นนี้ลงไปอยู่ในดิน: ฝังไว้ในหลุมศพหรือสุสาน โยนลงบ่อน้ำหรือสระ เก็บไว้ในศาสนสถานใต้ดิน หรือตอกติดผนังวิหาร บางแผ่นพบพร้อมตุ๊กตาเล็ก ๆ ที่ถูกมัด มือและเท้าถูกผูกไว้ บางครั้งถูกแทงทะลุด้วย บางแผ่นมีเส้นผมหรือเศษผ้าพับเก็บไว้ข้างใน"
  },
  "dating": {
   "period": "Classical Greek to Roman Britain",
@@ -229,63 +233,81 @@
    "type": "amulet",
    "name": "Magical gem",
    "as": "the same names and the same nonsense-words, cut in stone to protect a wearer instead of scratched in lead to harm a stranger — this record is that one inverted",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "อัญมณีเวทมนตร์ (หินสลักกรีก-อียิปต์)",
+   "as_th": ""
   },
   {
    "to": "greco-roman-apotropaic",
    "type": "tradition",
    "name": "Greek and Roman protective magic",
    "as": "the tradition, seen from the side it does not advertise",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน",
+   "as_th": ""
   },
   {
    "to": "christopher-faraone",
    "type": "person",
    "name": "Christopher A. Faraone",
    "as": "the scholar who split these spells into passion-inducing and affection-encouraging, and found men and women using different halves",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "คริสโตเฟอร์ เอ. ฟาราโอเน",
+   "as_th": ""
   },
   {
    "to": "lead",
    "type": "material",
    "name": "Lead",
    "as": "the metal that made them: soft enough to scratch, cheap enough to throw away, stable enough to survive a well",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ตะกั่ว",
+   "as_th": ""
   },
   {
    "to": "palindrome-word",
    "type": "motif",
    "name": "The word that reads both ways",
    "as": "the neighbouring habit — palindromes and boustrophedon used on these tablets to give the writing its own mystique",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "คำที่อ่านได้สองทาง",
+   "as_th": ""
   },
   {
    "to": "witch-bottle",
    "type": "amulet",
    "name": "Witch bottle",
    "as": "the European object that answers one of these: a counter-charm buried against a named person's harm",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ขวดแม่มด",
+   "as_th": ""
   },
   {
    "to": "burying",
    "type": "practice",
    "name": "Burying",
    "as": "the practice the whole genre depends on; the tablet works by going into the ground",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การฝัง",
+   "as_th": ""
   },
   {
    "to": "incantation-bowl",
    "type": "amulet",
    "name": "Incantation bowl",
    "as": "the later eastern object that buries writing under a house for the opposite purpose",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ชามคาถา",
+   "as_th": ""
   },
   {
    "to": "amulet-or-talisman",
    "type": "story",
    "name": "Amulet or talisman?",
    "as": "the long read about the words; this record is why the atlas needs more than one of them",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "อะมูเล็ตหรือทาลิสแมน?",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -449,91 +471,117 @@
    "type": "amulet",
    "name": "Magical gem",
    "as": "the same voces magicae, the same divine names, scratched on lead and aimed at a person instead of hung on one",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "อัญมณีเวทมนตร์ (หินสลักกรีก-อียิปต์)",
+   "as_th": ""
   },
   {
    "from": "tupilaq",
    "type": "amulet",
    "name": "Tupilaq",
    "as": "the Mediterranean parallel — an object made to reach a named person and do them harm",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ทูปิลัก",
+   "as_th": ""
   },
   {
    "from": "witch-bottle",
    "type": "amulet",
    "name": "Witch bottle",
    "as": "the other buried written object of European magic, and the one aimed outward rather than defensively",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ขวดแม่มด",
+   "as_th": ""
   },
   {
    "from": "greco-roman-apotropaic",
    "type": "tradition",
    "name": "Greek and Roman protective magic",
    "as": "the same craft aimed the other way, at a named person, and buried",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน",
+   "as_th": ""
   },
   {
    "from": "hair",
    "type": "material",
    "name": "Hair",
    "as": "where the theory is written down: hair carries the ousia, the essence, and makes the sheet point at one person",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เส้นผม",
+   "as_th": ""
   },
   {
    "from": "lead",
    "type": "material",
    "name": "Lead",
    "as": "the object this material exists for in the atlas, and the reason lead has a record at all",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ตะกั่ว",
+   "as_th": ""
   },
   {
    "from": "burying",
    "type": "practice",
    "name": "Burying",
    "as": "lead folded and put in a grave or a well, so that the dead carry the message",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การฝัง",
+   "as_th": ""
   },
   {
    "from": "folding",
    "type": "practice",
    "name": "Folding",
    "as": "lead folded over hair, then nailed — the same gesture used to bind rather than to guard",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การม้วนและพับ",
+   "as_th": "ตะกั่วพับห่อเส้นผม แล้วตอกตะปู — ท่าทางเดียวกันที่ใช้เพื่อผูกมัดแทนการปกป้อง"
   },
   {
    "from": "foundation-deposit",
    "type": "practice",
    "name": "Foundation deposit",
    "as": "the hostile version: execration texts smashed and buried under a building going up",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ของฝังใต้ฐานรากอาคาร",
+   "as_th": ""
   },
   {
    "from": "inscribing",
    "type": "practice",
    "name": "Inscribing",
    "as": "the same craft aimed at somebody: lead, tiny letters, then nails",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "การลงอักขระ",
+   "as_th": "งานฝีมือเดียวกันที่เล็งไปที่ใครบางคน: ตะกั่ว ตัวอักษรเล็กจิ๋ว แล้วก็ตะปู"
   },
   {
    "from": "christopher-faraone",
    "type": "person",
    "name": "Christopher A. Faraone",
    "as": "the other half of the Greek magical record — the tablet aimed at somebody, beside the amulet aimed at nobody",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "คริสโตเฟอร์ เอ. ฟาราโอเน",
+   "as_th": ""
   },
   {
    "from": "abracadabra",
    "type": "term",
    "name": "abracadabra",
    "as": "the opposite-facing object from the same Roman world: writing folded to do harm rather than to lift it",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "อาบราคาดาบรา",
+   "as_th": ""
   },
   {
    "from": "the-charm-in-the-wall",
    "type": "story",
    "name": "The charm in the wall",
    "as": "the deposit aimed at somebody rather than for them, put in the same kinds of hole",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เครื่องรางในกำแพง",
+   "as_th": ""
   }
  ]
 }

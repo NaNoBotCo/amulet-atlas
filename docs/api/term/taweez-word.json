@@ -14,7 +14,8 @@
    "tawiz",
    "तावीज़",
    "تعویز"
-  ]
+  ],
+  "th": "ตะวีซ"
  },
  "etymology": {
   "root": "Arabic verb ʿawwadha 'to fortify someone with an amulet or incantation' > noun taʿwīdh (تعويذ) 'amulet, charm' > Urdu and Hindi ta'wiz (تعویز, तावीज़)",
@@ -48,6 +49,9 @@
  "text": {
   "what": "The word across the Muslim world for a worn written charm and, by extension, for the object it is folded into: a pendant, letters carved on metal, a framed prayer. What goes inside is text — Qur'anic verses, hadith, the ninety-nine names of God, the names of prophets and their companions, or a religious narrative. The word and the permission arrive together, which is the whole argument: Wikipedia's article reports that Sunni Muslims are permitted to wear ta'wiz as long as it consciously strengthens their bond with Allah and does not come from a belief the ta'wiz itself cures or protects.",
   "story": "The verb underneath the noun is the point. ʿawwadha is to fortify somebody with an amulet or an incantation — the grammar makes the wearer the object of the action and the text the instrument.\n\nWhat gets written is specific and named. The word Allah is especially common; touching it or seeing it is held to turn evil away. The names of prophets and religious figures connect the wearer to the person named, and the favoured figures are Solomon, Ali ibn Abi Talib and his sons Hasan and Husain, and the Seven Sleepers of Ephesus. Written accounts of those lives are also used, sometimes illustrated.\n\nThe clearest dated use is military. Scrolls carrying Qur'anic quotations, prophetic references and sacred symbols were common in war in the Ottoman Empire, with verses such as 'victory is from God and conquest is near' (Qur. 61:13) found on ta'wiz worn in combat. Texts packaged in tawiz were most often pre-made when used by the public; a literate wearer could change the verse at their own discretion.\n\n*Inference —* that last detail is the useful one. A charm whose text a literate wearer can swap is a charm whose owner is also its author, and it puts the taweez in a different class from an object a specialist alone may make. This atlas files it as written, not as consecrated.\n\n*Tradition holds —* objects of this kind are also criticised from inside the religion, and the criticism is about where the power is located rather than about the paper. The permission Wikipedia records carries its own limit in the same sentence."
+ },
+ "text_th": {
+  "what": "คำที่ใช้ทั่วโลกมุสลิมเรียกเครื่องรางที่เป็นข้อเขียนสำหรับสวม และขยายความไปถึงวัตถุที่พับข้อเขียนนั้นใส่ไว้: จี้ ตัวอักษรที่สลักบนโลหะ คำอธิษฐานใส่กรอบ สิ่งที่อยู่ข้างในคือข้อความ — โองการอัลกุรอาน หะดีษ พระนาม 99 ประการของพระเจ้า ชื่อของนบีและเศาะหาบะฮ์ (สหายของท่านนบี) หรือเรื่องเล่าทางศาสนา คำและการอนุญาตมาด้วยกัน ซึ่งคือประเด็นทั้งหมด: บทความในวิกิพีเดียรายงานว่า ชาวมุสลิมซุนนีได้รับอนุญาตให้สวมตะวีซ ตราบที่มันช่วยเสริมความผูกพันกับอัลลอฮ์อย่างมีสติ และไม่ได้มาจากความเชื่อว่าตัวตะวีซเองรักษาโรคหรือคุ้มครองได้"
  },
  "kin": [
   {
@@ -165,49 +169,63 @@
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the object the word names: the case and the folded text inside it",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "to": "quran-pendant",
    "type": "amulet",
    "name": "Qur'an pendant",
    "as": "the same idea in metal and glass — scripture carried where it can be seen",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "จี้อัลกุรอาน",
+   "as_th": ""
   },
   {
    "to": "hirz-pouch",
    "type": "amulet",
    "name": "Hirz",
    "as": "the pouch form of the same practice, sewn rather than cased",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ฮิรซ์ (ตลับใส่โองการอัลกุรอาน)",
+   "as_th": ""
   },
   {
    "to": "islamic-talismanic",
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "the tradition this word belongs to, and the one that argues about it",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "to": "gris-gris-word",
    "type": "term",
    "name": "gris-gris",
    "as": "the West African word for the same object, where the Mande marabout writes what the Arabic word names",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กรีกรี (gris-gris)",
+   "as_th": ""
   },
   {
    "to": "talisman-word",
    "type": "term",
    "name": "talisman",
    "as": "the other Arabic word English took — that one for the made figure, this one for the worn text",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ทาลิสแมน",
+   "as_th": ""
   },
   {
    "to": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "what is written inside more often than anything else",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "พระนาม",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -295,28 +313,36 @@
    "type": "amulet",
    "name": "Tabiz",
    "as": "the word itself, and the verb it comes from — to fortify someone with an amulet",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "ตาบีซ (เครื่องรางคำอธิษฐาน)",
+   "as_th": ""
   },
   {
    "from": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the word, from a verb meaning to fortify somebody with an amulet",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "from": "gris-gris-word",
    "type": "term",
    "name": "gris-gris",
    "as": "the Arabic word for the same idea — Qur'anic text folded and worn — which is what a Mande marabout is writing",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กรีกรี (gris-gris)",
+   "as_th": ""
   },
   {
    "from": "talisman-word",
    "type": "term",
    "name": "talisman",
    "as": "the Arabic word for the worn object, where this one is the Arabic word for the made figure",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ทาลิสแมน",
+   "as_th": ""
   }
  ]
 }

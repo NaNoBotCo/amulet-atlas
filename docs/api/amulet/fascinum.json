@@ -13,7 +13,8 @@
    "winged phallus",
    "phallic pendant",
    "fist-and-phallus amulet"
-  ]
+  ],
+  "th": "ฟัสซินุม (เครื่องรางรูปองคชาตโรมัน)"
  },
  "etymology": {
   "root": "Latin fascinum, and the verb fascinare, 'to use the power of the fascinus' — to work magic, hence to enchant or bewitch; English fascinate comes from it",
@@ -46,6 +47,9 @@
  "text": {
   "what": "A phallus, worn. Usually cast in bronze, often winged, pierced or looped for a cord; also cut as finger rings, carved in relief on walls, made into lamps and into wind chimes called tintinnabula. The soldiers' type adds a clenched fist at the base of the shaft, pointing away from the glans, and on several examples the fist is making the manus fica, the fig sign. Some combine vulvar imagery with the rest.",
   "story": "Pliny called the fascinus a medicus invidiae — a doctor, a remedy, for invidia. Invidia is envy, and it is built from a word for looking upon. That is the whole theory of the object in two Latin words.\n\nRome put it everywhere. The Vestal Virgins tended the cult of the fascinus populi Romani, a sacred phallus counted among the tokens of the state's safety alongside the Palladium; when a general celebrated a triumph, the Vestals hung an effigy of it under his chariot to protect him from invidia. Augustine, reading Varro, reports the phallus carried on a little trolley through the countryside crossroads at the festival of Father Liber and then into the city, to secure the growth of seeds and \"repel enchantment (fascinatio) from the fields\".\n\nOn the body it was mostly for children, and mainly boys. Varro records hanging a phallic charm on a baby's neck, and phallus-bearing rings survive that are too small for anyone but a child to wear. There are very few Roman images of a person actually wearing one. A 2017 experimental archaeology project found that some pendant types were designed to stay pointing outwards, in the wearer's direction of travel, facing whatever was coming.\n\nThe imagery is not shy about the mechanism. Reliefs from Leptis Magna in present-day Libya and several instances on Hadrian's Wall show the phallus ejaculating towards a disembodied eye; a first-century BCE terracotta figurine shows \"two little phallus-men sawing an eyeball in half\". The largest known collection of fist-and-phallus amulets comes from Camulodunum, the Roman colony under modern Colchester.\n\n*Tradition holds —* the protective force is usually explained by the virile and regenerative power of an erect phallus. The cited account puts a second explanation beside it and does not choose: in most cases what diverts the evil eye is the emotion the obscenity produces — shame, or laughter."
+ },
+ "text_th": {
+  "what": "องคชาตที่ใช้สวมใส่ ส่วนใหญ่หล่อด้วยสำริด มักมีปีก เจาะรูหรือทำห่วงไว้ร้อยเชือก ยังทำเป็นแหวน สลักนูนบนผนัง ทำเป็นตะเกียง และทำเป็นกระดิ่งลมที่เรียกว่า ทินทินนาบูลา (tintinnabula) แบบของทหารเพิ่มกำปั้นกำแน่นไว้ที่โคนลำ หันออกจากส่วนหัว และหลายชิ้นกำปั้นทำท่ามานุส ฟีกา (manus fica) คือท่ามือมะเดื่อ บางชิ้นมีภาพอวัยวะเพศหญิงรวมอยู่ด้วย"
  },
  "dating": {
   "period": "Roman",
@@ -242,63 +246,81 @@
    "type": "motif",
    "name": "The phallus",
    "as": "the sign this object is, in its plainest form",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "สัญลักษณ์รูปลึงค์",
+   "as_th": ""
   },
   {
    "to": "fist",
    "type": "motif",
    "name": "The fig fist",
    "as": "the second sign bolted onto it in the soldiers' type — a clenched hand making the fig",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "กำปั้นฟิก (มาโนฟิกา)",
+   "as_th": ""
   },
   {
    "to": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "the thing it is aimed at, and on the Leptis Magna and Hadrian's Wall reliefs, literally",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "bulla",
    "type": "amulet",
    "name": "Bulla",
    "as": "the locket a Roman boy wore, with one of these usually inside it",
-   "rel": "whole"
+   "rel": "whole",
+   "name_th": "บุลลา (ล็อกเกตของเด็กชายโรมัน)",
+   "as_th": ""
   },
   {
    "to": "lunula",
    "type": "amulet",
    "name": "Lunula",
    "as": "the girls' equivalent — a crescent instead of a phallus, and the same nine-days-to-adulthood logic",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ลูนูลา (จี้พระจันทร์เสี้ยวโรมัน)",
+   "as_th": ""
   },
   {
    "to": "cornicello",
    "type": "amulet",
    "name": "Cornicello",
    "as": "southern Italy's living descendant: the same interception, reshaped as a horn in red coral",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "คอร์นิเชลโล (เขานำโชคอิตาลี)",
+   "as_th": ""
   },
   {
    "to": "gorgoneion",
    "type": "amulet",
    "name": "Gorgoneion",
    "as": "the Greek answer to the same problem — terror where Rome used laughter",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กอร์โกเนออน (ศีรษะกอร์กอน)",
+   "as_th": ""
   },
   {
    "to": "greco-roman-apotropaic",
    "type": "tradition",
    "name": "Greek and Roman protective magic",
    "as": "the tradition it belongs to, and the one place in it where the state itself kept a charm",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน",
+   "as_th": ""
   },
   {
    "to": "frederick-elworthy",
    "type": "person",
    "name": "Frederick Thomas Elworthy",
    "as": "the Victorian who assembled the European evidence for the eye and its substitutes, and put this object in the same drawer as the horn and the hand",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "เฟรเดอริก โทมัส เอลเวิร์ที",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -500,77 +522,99 @@
    "type": "amulet",
    "name": "Bulla",
    "as": "what was usually inside it — this record is the box, that one is the charm",
-   "rel": "part"
+   "rel": "part",
+   "name_th": "บุลลา (ล็อกเกตของเด็กชายโรมัน)",
+   "as_th": ""
   },
   {
    "from": "cornicello",
    "type": "amulet",
    "name": "Cornicello",
    "as": "the Roman ancestor in the same peninsula: a different body part, the same interception",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "คอร์นิเชลโล (เขานำโชคอิตาลี)",
+   "as_th": ""
   },
   {
    "from": "figa",
    "type": "amulet",
    "name": "Figa",
    "as": "the Roman substitute for the same job, the phallus instead of the fist",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ฟีกา (กำปั้นกันภัย)",
+   "as_th": ""
   },
   {
    "from": "gorgoneion",
    "type": "amulet",
    "name": "Gorgoneion",
    "as": "the Roman alternative for the same interception — a phallus instead of a face, and laughter instead of terror",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กอร์โกเนออน (ศีรษะกอร์กอน)",
+   "as_th": ""
   },
   {
    "from": "lunula",
    "type": "amulet",
    "name": "Lunula",
    "as": "the Roman charm aimed at the same look, with none of this one's discretion",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ลูนูลา (จี้พระจันทร์เสี้ยวโรมัน)",
+   "as_th": ""
   },
   {
    "from": "palad-khik",
    "type": "amulet",
    "name": "Palad khik",
    "as": "Rome's version of the same intervention: a phallus hung on a child to take the look meant for him",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ปลัดขิก",
+   "as_th": "แบบของโรมันสำหรับการแก้ปัญหาเดียวกัน: รูปองคชาตที่แขวนไว้กับเด็กเพื่อรับสายตาที่เล็งมาที่เขา"
   },
   {
    "from": "greco-roman-apotropaic",
    "type": "tradition",
    "name": "Greek and Roman protective magic",
    "as": "its most Roman object, and the one Pliny explains in two words",
-   "rel": "part"
+   "rel": "part",
+   "name_th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน",
+   "as_th": ""
   },
   {
    "from": "bell",
    "type": "motif",
    "name": "The bell",
    "as": "the same object seen from the other side: the winged phallus that the Roman bell hangs from",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กระดิ่ง",
+   "as_th": ""
   },
   {
    "from": "phallic-sign",
    "type": "motif",
    "name": "The phallus",
    "as": "the Roman amulet itself — the winged bronze in the tray",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "สัญลักษณ์รูปลึงค์",
+   "as_th": "ตัวเครื่องรางโรมันเอง คือสำริดมีปีกที่อยู่ในถาด"
   },
   {
    "from": "apotropaic-word",
    "type": "term",
    "name": "apotropaic",
    "as": "the Roman object this adjective is applied to more often than any other",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "อะโพโทรเพอิก (กันภัย)",
+   "as_th": ""
   },
   {
    "from": "the-eye-everywhere",
    "type": "story",
    "name": "The eye everywhere",
    "as": "Rome's substitute, and the object Pliny's word fascination is built on",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ดวงตาทุกหนแห่ง",
+   "as_th": ""
   }
  ]
 }

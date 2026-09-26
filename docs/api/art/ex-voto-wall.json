@@ -10,7 +10,8 @@
    "retablo wall",
    "votive paintings",
    "tin paintings"
-  ]
+  ],
+  "th": "ผนังภาพแก้บน (เอ็กซ์โวโต)"
  },
  "region": [
   "rome-italy",
@@ -32,6 +33,9 @@
   "what": "Small painted panels hung in ranks inside a church, each showing one bad moment — a cart going over, a fever bed, a boat under a wave — with the saint who intervened floating in the top corner and a line of handwriting along the bottom saying who was saved and when. In Mexico they are painted cheaply on tin plates salvaged from packaging. The Latin behind the name is short for ex voto suscepto, \"from the vow made\".",
   "story": "Italy holds more than 15,000 ex-voto paintings thought to survive from before 1600. They begin to appear in the 1490s, probably modelled on the small predella panels set below altarpieces — which is to say the format was borrowed from the top of the church and handed to the bottom of it.\n\nThey did not stay cheap. In Renaissance Venice the custom rose to the highest officials: the Doge and those below him commissioned, at their own expense, a votive painting showing themselves with the Virgin or with saints, in thanks for reaching office, and hung it in the building where they presided. Giovanni Bellini's Barbarigo Altarpiece of 1488 shows Doge Agostino Barbarigo with the Virgin and Child, two saints and a company of angels; it was made for the Doge's Palace and now hangs in San Pietro Martire on Murano. Titian's Jacopo Pesaro being presented by Pope Alexander VI to Saint Peter was given in thanks for a naval victory. Philippe de Champaigne's Ex-Voto de 1662, now in the Louvre, shows two nuns, one of whom recovered from serious illness.\n\n*Inference —* the wall of tin panels and the Bellini are the same object at two prices, and the atlas files them together for that reason. Both are a vow paid in public. The difference is that the tin panel names the person who nearly died, and the altarpiece names the person who paid.",
   "today": "Still made and still hung, and now also collected. Milagros — the small stamped body parts pinned to the same shrines — are sold by street vendors and in churches across Mexico, the southern United States, Latin America and parts of Spain, and turn up set into necklaces and earrings. Whether a milagro bought as jewellery is the same object as one pinned to a saint is an argument this atlas reports and does not settle."
+ },
+ "text_th": {
+  "what": "แผ่นภาพวาดเล็ก ๆ แขวนเรียงเป็นแถวภายในโบสถ์ แต่ละแผ่นแสดงเหตุร้ายช่วงเวลาหนึ่ง — เกวียนพลิกคว่ำ คนป่วยไข้บนเตียง เรือกลางคลื่น — โดยมีนักบุญผู้ช่วยเหลือลอยอยู่ที่มุมบน และมีลายมือเขียนหนึ่งบรรทัดที่ด้านล่างบอกว่าใครรอดและเมื่อไร ในเม็กซิโกมักวาดอย่างประหยัดบนแผ่นดีบุกที่เก็บมาจากบรรจุภัณฑ์ คำละตินเบื้องหลังชื่อนี้ย่อมาจาก ex voto suscepto แปลว่า \"จากคำปฏิญาณที่ได้ให้ไว้\""
  },
  "kin": [
   {
@@ -151,42 +155,54 @@
    "type": "amulet",
    "name": "Milagro",
    "as": "the stamped metal charm pinned to the same walls, and often sold from the same table",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "มิลาโกร (แผ่นโลหะแก้บน)",
+   "as_th": ""
   },
   {
    "to": "tama-votive",
    "type": "amulet",
    "name": "Tama",
    "as": "the Orthodox equivalent, which the Mexican milagro corresponds to almost exactly",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ทามา (แผ่นโลหะถวายของกรีก)",
+   "as_th": ""
   },
   {
    "to": "votive-wall",
    "type": "art",
    "name": "The votive wall",
    "as": "the unpainted version of the same surface — plaques and crutches instead of pictures",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กำแพงของถวาย",
+   "as_th": ""
   },
   {
    "to": "latin-american-folk-catholic",
    "type": "tradition",
    "name": "Latin American folk Catholic charm practice",
    "as": "the tradition that keeps this format alive on tin",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ธรรมเนียมเครื่องรางคาทอลิกพื้นบ้านละตินอเมริกา",
+   "as_th": ""
   },
   {
    "to": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "the wider category the Church itself places these near, and distinguishes from charms",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   },
   {
    "to": "mercado-de-sonora",
    "type": "place",
    "name": "Mercado de Sonora",
    "as": "a market where the panels, the charms and the candles are sold within a few aisles of each other",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตลาดโซโนรา (เมร์กาโด เด โซโนรา)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -267,42 +283,54 @@
    "type": "amulet",
    "name": "Milagro",
    "as": "what a church wall looks like after a few hundred of these have been pinned to it",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "มิลาโกร (แผ่นโลหะแก้บน)",
+   "as_th": ""
   },
   {
    "from": "tama-votive",
    "type": "amulet",
    "name": "Tama",
    "as": "what a much-visited icon looks like after some hundreds of these have been hung on it",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "ทามา (แผ่นโลหะถวายของกรีก)",
+   "as_th": ""
   },
   {
    "from": "catholic-sacramentals",
    "type": "tradition",
    "name": "Catholic sacramentals",
    "as": "the other half of the Catholic economy of objects: these are given to the wearer, those are given back to the shrine",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สิ่งคล้ายศีลของคาทอลิก",
+   "as_th": ""
   },
   {
    "from": "latin-american-folk-catholic",
    "type": "tradition",
    "name": "Latin American folk Catholic charm practice",
    "as": "the format this tradition keeps alive on tin — a painted account of the danger survived, hung where the next petitioner will read it",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "ธรรมเนียมเครื่องรางคาทอลิกพื้นบ้านละตินอเมริกา",
+   "as_th": ""
   },
   {
    "from": "san-gregorio-armeno",
    "type": "place",
    "name": "Via San Gregorio Armeno",
    "as": "what the classical version of this street's output ended on: figurines offered to Ceres, made next door",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "ถนนซานเกรโกริโออาร์เมโน",
+   "as_th": ""
   },
   {
    "from": "votive-wall",
    "type": "art",
    "name": "The votive wall",
    "as": "the painted version of the same surface: a panel that tells the story instead of naming the part",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กำแพงของถวาย",
+   "as_th": ""
   }
  ]
 }

@@ -11,7 +11,8 @@
   "aliases": [
    "Tha Phra Chan market",
    "Amulet Market, Bangkok"
-  ]
+  ],
+  "th": "ตลาดพระเครื่องท่าพระจันทร์"
  },
  "region": [
   "mainland-sea"
@@ -31,6 +32,16 @@
   "story": "Tha Phrachan is the market Thai writing on amulets names first when it names any. Wikipedia's account puts it plainly: famous markets for amulets include Tha Phrachan Market next to Thammasat University, and rare pieces often require expert authentication because forgeries are common.\n\nWhat the loupes are for is the trade's central problem. A phra khrueang is valued by which temple pressed it, which monk consecrated it, and when — facts that live in the clay's texture, the mould's flaws and a certificate, not in the image on the front. *Tradition holds —* the specialist who reads those tells for a fee is as much a part of this market as the seller.\n\nThe scale is not small. When the Jatukham Rammathep amulet peaked in 2007, that single type's market reached twenty billion baht in a year before the bubble burst in late 2007, leaving stock that could be had cheap. *Inference —* a market that can move that much in twelve months is a financial market with devotional objects in it, and the argument over which of those two things it mainly is runs among Thai commentators, not between Thais and outsiders.",
   "today": "Still trading as of the most recent published accounts this project has read. Hours are not published as a timetable: stalls keep their own, the lanes are busiest in daylight, and weekends draw the collectors. This project has not stood there, so no day is marked either way below."
  },
+ "text_th": {
+  "what": "ตลาดพระเครื่องหลักของกรุงเทพฯ ตั้งอยู่ในตรอกข้างมหาวิทยาลัยธรรมศาสตร์และท่าเรือริมแม่น้ำเจ้าพระยาที่มีชื่อเดียวกัน แผงพระเป็นถาดและตู้กระจก ผู้เช่าหามาพร้อมกล้องส่องพระ และพิจารณาพระเนื้อดินขนาดสองเซนติเมตร อย่างที่ผู้ค้าเหรียญพิจารณาเหรียญ",
+  "story": "ท่าพระจันทร์คือตลาดแรกที่งานเขียนเรื่องพระเครื่องของไทยเอ่ยชื่อ เมื่อจะเอ่ยถึงตลาดใดก็ตาม บทความในวิกิพีเดียกล่าวไว้ตรง ๆ ว่า ตลาดพระเครื่องที่มีชื่อเสียงรวมถึงตลาดท่าพระจันทร์ข้างมหาวิทยาลัยธรรมศาสตร์ และพระหายากมักต้องให้ผู้เชี่ยวชาญตรวจพิสูจน์ เพราะพระปลอมมีอยู่ทั่วไป\n\nกล้องส่องพระมีไว้เพื่ออะไร นั่นคือปัญหาใจกลางของการค้านี้ พระเครื่ององค์หนึ่งถูกตีค่าจากว่าวัดไหนกดพิมพ์ พระสงฆ์รูปใดปลุกเสก และเมื่อใด — ข้อเท็จจริงที่อยู่ในเนื้อดิน ตำหนิของแม่พิมพ์ และใบรับรอง ไม่ใช่ในรูปด้านหน้า *ตามคติที่เล่าสืบกันมา —* ผู้ชำนาญที่อ่านร่องรอยเหล่านั้นโดยคิดค่าบริการ เป็นส่วนหนึ่งของตลาดนี้พอ ๆ กับเจ้าของแผงที่ปล่อยเช่า\n\nขนาดของตลาดไม่เล็ก เมื่อพระจตุคามรามเทพถึงจุดสูงสุดใน พ.ศ. 2550 (ค.ศ. 2007) ตลาดของพระแบบนั้นเพียงแบบเดียวมีมูลค่าถึงสองหมื่นล้านบาทในหนึ่งปี ก่อนฟองสบู่จะแตกในปลายปี พ.ศ. 2550 ทิ้งพระค้างแผงที่หาได้ในราคาถูก *ข้อสันนิษฐาน —* ตลาดที่เคลื่อนไหวได้มากขนาดนั้นในสิบสองเดือน คือตลาดการเงินที่มีวัตถุแห่งศรัทธาอยู่ในนั้น และข้อถกเถียงว่ามันเป็นอย่างไหนเป็นหลัก เกิดขึ้นในหมู่นักวิจารณ์ชาวไทยเอง ไม่ใช่ระหว่างคนไทยกับคนนอก",
+  "today": "ยังเปิดทำการค้าอยู่ ตามรายงานที่เผยแพร่ล่าสุดที่โครงการนี้ได้อ่าน เวลาเปิดทำการไม่ได้เผยแพร่เป็นตาราง: แต่ละแผงมีเวลาของตนเอง ตรอกคึกคักที่สุดในเวลากลางวัน และวันหยุดสุดสัปดาห์นักสะสมจะมากัน โครงการนี้ยังไม่เคยไปยืนอยู่ที่นั่น จึงไม่ได้ระบุวันใดไว้ข้างล่างว่าเปิดหรือปิด"
+ },
+ "th_fields": {
+  "tags.0.note": "ถูกระบุว่าเป็นตลาดพระเครื่องที่มีชื่อเสียง ข้างมหาวิทยาลัยธรรมศาสตร์",
+  "geo.source": "ปักหมุดด้วยมือที่ท่าพระจันทร์และตรอกข้างมหาวิทยาลัยธรรมศาสตร์ ตามตำแหน่งที่ระบุไว้ของตลาด",
+  "address": "กรุงเทพมหานคร, เขตพระนคร"
+ },
  "geo": {
   "lat": 13.7575,
   "lon": 100.4904,
@@ -46,32 +57,38 @@
   {
    "to": "phra-khrueang",
    "as": "the object this whole market exists to trade, authenticate and argue about",
-   "rel": "carries"
+   "rel": "carries",
+   "as_th": "วัตถุที่ตลาดทั้งตลาดนี้มีอยู่เพื่อเช่าหา ตรวจพิสูจน์ และถกเถียงกัน"
   },
   {
    "to": "takrut",
    "as": "sold from the same trays — the rolled metal scroll beside the clay tablet",
-   "rel": "carries"
+   "rel": "carries",
+   "as_th": "วางอยู่ในถาดเดียวกัน — หลอดโลหะม้วนข้างพระเนื้อดิน"
   },
   {
    "to": "palad-khik",
    "as": "also sold here, and the one stall-holders are likeliest to keep behind the counter",
-   "rel": "carries"
+   "rel": "carries",
+   "as_th": "มีให้เช่าหาที่นี่ด้วย และเป็นอย่างที่เจ้าของแผงมักเก็บไว้หลังเคาน์เตอร์"
   },
   {
    "to": "thai-wicha",
    "as": "the tradition whose economy this market is",
-   "rel": "tradition"
+   "rel": "tradition",
+   "as_th": "ธรรมเนียมที่ตลาดนี้คือระบบเศรษฐกิจของมัน"
   },
   {
    "to": "buying-in-a-market",
    "as": "the practice in its densest form — price, loupe, certificate, and a monk's name",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "การปฏิบัตินี้ในรูปที่หนาแน่นที่สุด — ราคา กล้องส่องพระ ใบรับรอง และชื่อของพระสงฆ์"
   },
   {
    "to": "the-fake-market",
    "as": "the long read about authentication, which starts here because this is where the loupes are",
-   "rel": "story"
+   "rel": "story",
+   "as_th": "บทความขนาดยาวเรื่องการตรวจพิสูจน์ ซึ่งเริ่มที่นี่เพราะกล้องส่องพระอยู่ที่นี่"
   }
  ],
  "tags": [
@@ -132,42 +149,54 @@
    "type": "amulet",
    "name": "Phra khrueang",
    "as": "the object this whole market exists to trade, authenticate and argue about",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "พระเครื่อง",
+   "as_th": "วัตถุที่ตลาดทั้งตลาดนี้มีอยู่เพื่อเช่าหา ตรวจพิสูจน์ และถกเถียงกัน"
   },
   {
    "to": "takrut",
    "type": "amulet",
    "name": "Takrut",
    "as": "sold from the same trays — the rolled metal scroll beside the clay tablet",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ตะกรุด",
+   "as_th": "วางอยู่ในถาดเดียวกัน — หลอดโลหะม้วนข้างพระเนื้อดิน"
   },
   {
    "to": "palad-khik",
    "type": "amulet",
    "name": "Palad khik",
    "as": "also sold here, and the one stall-holders are likeliest to keep behind the counter",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ปลัดขิก",
+   "as_th": "มีให้เช่าหาที่นี่ด้วย และเป็นอย่างที่เจ้าของแผงมักเก็บไว้หลังเคาน์เตอร์"
   },
   {
    "to": "thai-wicha",
    "type": "tradition",
    "name": "Thai wicha",
    "as": "the tradition whose economy this market is",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "วิชา",
+   "as_th": "ธรรมเนียมที่ตลาดนี้คือระบบเศรษฐกิจของมัน"
   },
   {
    "to": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the practice in its densest form — price, loupe, certificate, and a monk's name",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": "การปฏิบัตินี้ในรูปที่หนาแน่นที่สุด — ราคา กล้องส่องพระ ใบรับรอง และชื่อของพระสงฆ์"
   },
   {
    "to": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the long read about authentication, which starts here because this is where the loupes are",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดของปลอม",
+   "as_th": "บทความขนาดยาวเรื่องการตรวจพิสูจน์ ซึ่งเริ่มที่นี่เพราะกล้องส่องพระอยู่ที่นี่"
   }
  ],
  "source_list": [
@@ -236,49 +265,63 @@
    "type": "amulet",
    "name": "Palad khik",
    "as": "the Bangkok market that sells it, from behind the counter as often as from the tray",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ปลัดขิก",
+   "as_th": "ตลาดในกรุงเทพฯ ที่ขายมัน จากหลังตู้บ่อยพอ ๆ กับจากถาด"
   },
   {
    "from": "phra-khrueang",
    "type": "amulet",
    "name": "Phra khrueang",
    "as": "the market this object built: trays, glass cases, loupes and certificates, in the lanes beside Thammasat University",
-   "rel": "made-at"
+   "rel": "made-at",
+   "name_th": "พระเครื่อง",
+   "as_th": "ตลาดที่วัตถุนี้สร้างขึ้น: ถาด ตู้กระจก กล้องส่องพระ และใบรับรอง ในตรอกข้างมหาวิทยาลัยธรรมศาสตร์"
   },
   {
    "from": "takrut",
    "type": "amulet",
    "name": "Takrut",
    "as": "the Bangkok market that sells it from the same tray as the clay tablets",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตะกรุด",
+   "as_th": "ตลาดในกรุงเทพฯ ที่ให้เช่าบูชาตะกรุดจากถาดเดียวกับพระพิมพ์ดิน"
   },
   {
    "from": "thai-wicha",
    "type": "tradition",
    "name": "Thai wicha",
    "as": "the market this tradition's economy runs through, beside Thammasat University in Bangkok",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "วิชา",
+   "as_th": "ตลาดที่เศรษฐกิจของวิชานี้ไหลผ่าน อยู่ข้างมหาวิทยาลัยธรรมศาสตร์ในกรุงเทพฯ"
   },
   {
    "from": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the practice at its most exacting — loupe, certificate, forgery, and a monk's name as the thing being priced",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": "การปฏิบัตินี้ในแบบที่เข้มงวดที่สุด — กล้องส่องพระ ใบรับรอง ของปลอม และนามของพระสงฆ์คือสิ่งที่ถูกตีราคา"
   },
   {
    "from": "market-stall-sign",
    "type": "art",
    "name": "The market stall sign",
    "as": "where the certificate does the work a sign would, because provenance is the price",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ป้ายแผงตลาด",
+   "as_th": "ที่ซึ่งใบรับรองทำหน้าที่แทนป้าย เพราะประวัติที่มาคือราคา"
   },
   {
    "from": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the market this read starts in, because that is where the loupes are",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตลาดของปลอม",
+   "as_th": "ตลาดที่บทความนี้เริ่มต้น เพราะกล้องส่องพระอยู่ที่นั่น"
   }
  ]
 }

@@ -4,17 +4,68 @@
  "type": "practice",
  "names": {
   "name": "Buying one in a market",
-  "aliases": ["acquiring a charm", "the counter", "the stall"],
-  "said": "the commonest way anybody in this atlas gets a charm"
+  "aliases": [
+   "acquiring a charm",
+   "the counter",
+   "the stall"
+  ],
+  "said": "the commonest way anybody in this atlas gets a charm",
+  "th": "การซื้อหาเครื่องรางในตลาด"
  },
- "region": ["world", "anatolia", "levant", "maghreb", "mainland-sea", "japan", "mesoamerica", "andes", "west-africa", "east-africa", "britain-ireland"],
- "countries": ["TR", "EG", "MA", "TH", "JP", "MX", "BO", "PE", "PH", "ET", "GB", "IT"],
- "facets": {"stage": "trade", "era": "living", "status": "living", "restricted": "open"},
+ "region": [
+  "world",
+  "anatolia",
+  "levant",
+  "maghreb",
+  "mainland-sea",
+  "japan",
+  "mesoamerica",
+  "andes",
+  "west-africa",
+  "east-africa",
+  "britain-ireland"
+ ],
+ "countries": [
+  "TR",
+  "EG",
+  "MA",
+  "TH",
+  "JP",
+  "MX",
+  "BO",
+  "PE",
+  "PH",
+  "ET",
+  "GB",
+  "IT"
+ ],
+ "facets": {
+  "stage": "trade",
+  "era": "living",
+  "status": "living",
+  "restricted": "open"
+ },
  "text": {
   "what": "Money changes hands and an object becomes yours. It is the ordinary route to a charm almost everywhere — a tray in a lane, a counter inside a temple gate, an aisle at the back of a municipal market, a stall in a churchyard — and it is the step this atlas's records most often have a price, a date and an address for, because a transaction leaves paperwork that a rite does not.",
   "story": "Markets that sell charms are old institutions with rules, and the rules are usually about control rather than about faith. Under the Mamluks, Cairo's souq areas were progressively replaced by fixed stone structures with built-in shops, partly because the authorities wanted more control: fixed structures could be counted, taxed and regulated more easily than makeshift stalls that could come and go. Khan al-Khalili itself was built at the heart of the city during the first reign of Sultan Barquq (1382–1389) by his Master of the Stables, Jaharkas al-Khalili, and the name spread from the one building to the whole district.\n\nIstanbul's Grand Bazaar shows the same logic taken further. By the early 17th century it had 67 streets each named for the sellers of a particular good, 18 gates opened each morning and closed in the evening, and 3,000 shops plus 300 in the surrounding hans. Gates were closed at night and the bazaar was patrolled by guards paid by the merchants' guilds; entering after hours required an imperial edict. A guild formed once there were enough traders of one good, at which point the number of traders and shops was frozen and entry came only by co-optation — as the son of a deceased member, or by paying a suitable sum to a member who wanted to retire. The guild chief, the Kethüda, was paid by the guild but appointed by the Kadı of Istanbul, and set prices and taxes. The guilds were abolished in 1913.\n\nThe regulating impulse is not only medieval. Mexico City's Mercado de Sonora was established by the city government on 23 September 1957, with other public markets, to help organise and regulate retail commerce; the aisles of medicinal herbs and of magical and occult goods sit at the back of a single metal nave, and the account notes the two categories are not kept separate. Sensō-ji in Tokyo granted the shops that became the Nakamise permission to trade on its main approach in 1685, in exchange for their paying local residents to sweep the grounds.\n\nWhat the buyer is actually buying differs by tradition, and the differences are sharp. At Tha Phrachan in Bangkok the buyer arrives with a loupe, because a phra khrueang's value turns on appearance, scarcity, maker, age and reputation, and because forgeries are common enough that expert authentication is a standing part of the transaction. Nobody there is assessing beauty; they are assessing which temple pressed it and which monk chanted over it. At a Japanese shrine counter the transaction is framed the other way round: omamori and ofuda are technically not bought but received — sazukaru, ukeru — and the money is treated as a donation. At Alasitas in La Paz, buying is the rite itself: the fair's name is Aymara for 'buy from me', and you purchase a miniature to give to somebody else so that the full-size version follows within the year.\n\nPrices and seasons are on the record where sources publish them. The Jatukham Rammathep amulet's market reached twenty billion baht in 2007 before the bubble burst late that year. The Mercado de las Brujas on Calle Linares in La Paz puts roughly 60 per cent of its year's sales in October, when Pachamama offerings cluster. Edward Tabor gives US$3 to US$10 for an azabache in a botánica and US$9 to US$55 online, at the time he wrote in 2023.\n\nThe practice also built this atlas's evidence base, and that deserves saying. Edward Lovett's method was buying and swapping on London streets rather than excavating; what he assembled is now spread across the Pitt Rivers Museum, the Cuming Museum, the Wellcome collection and two museums of childhood. Frederick Elworthy bought in Spain and Italy while writing. Siegfried Seligmann gathered more than 1,500 amulets for his survey. *Inference —* the shape of what museums hold follows the shape of what was for sale to a European collector with money, which is a fact about markets before it is a fact about charms.\n\nAnd the argument: whether a charm sold to a stranger is the same object as one made for a neighbour. It has named participants in several traditions at once. Japanese priests have complained about the quality of factory omamori ordered when demand outruns a shrine's own production. Manufacturers in China mass-produce hei matau lookalikes in bone-and-resin paste for the New Zealand visitor market and have been criticised for appropriating Māori designs. Thai authentication culture exists because the trade's own participants do not trust the trade. This atlas reports every side of that and joins none of it, and describes a factory charm in the same terms it describes a hand-cut one.",
   "how": "Approach, look, ask, pay, and in several traditions have something done on the spot: a red cord tied on, a certificate handed over, a blessing said, a stamp applied. In Thailand the loupe and the authenticator's fee come between looking and paying. In Japan the wording of the exchange is deliberately not commercial. In La Paz the object is bought to be given away rather than kept. In Manila the stall is in a churchyard and the book of incantations is thrown in with the amulet.",
   "today": "Live everywhere, and increasingly not physical. The same objects are sold online, by the tray and by the individual piece, with the authentication problem moved rather than solved; in 2021 a Thai project issued monk-blessed amulets as NFTs on a blockchain, which is a purchase with the provenance problem written into the transaction. The old addresses are still trading: Tha Phrachan, the Grand Bazaar, Khan el-Khalili, the Mercado de Sonora, the Nakamise, Calle Linares."
+ },
+ "text_th": {
+  "what": "เงินเปลี่ยนมือ แล้ววัตถุชิ้นหนึ่งก็กลายเป็นของคุณ นี่คือทางธรรมดาที่สุดที่คนจะได้เครื่องรางมาแทบทุกที่ — ถาดบนแผงในตรอก เคาน์เตอร์ในประตูวัด ช่องทางเดินท้ายตลาดเทศบาล แผงในลานโบสถ์ — และเป็นขั้นตอนที่ระเบียนในแอตลาสนี้มักมีราคา วันที่ และที่อยู่ให้บ่อยที่สุด เพราะการซื้อขายทิ้งหลักฐานเป็นลายลักษณ์อักษรไว้ ซึ่งพิธีกรรมไม่ได้ทิ้งไว้",
+  "story": "ตลาดที่ขายเครื่องรางเป็นสถาบันเก่าแก่ที่มีกฎ และกฎเหล่านั้นมักเกี่ยวกับการควบคุมมากกว่าศรัทธา ในสมัยมัมลูก ย่านตลาดของไคโรค่อย ๆ ถูกแทนที่ด้วยอาคารหินถาวรที่มีร้านค้าในตัว ส่วนหนึ่งเพราะทางการต้องการควบคุมมากขึ้น อาคารถาวรนับ เก็บภาษี และกำกับดูแลได้ง่ายกว่าแผงชั่วคราวที่มา ๆ ไป ๆ ข่านอัลเคาะลีลีเองสร้างขึ้นกลางเมืองในรัชกาลแรกของสุลต่านบัรกูก (ค.ศ. 1382–1389) โดยญาฮาร์กัส อัลเคาะลีลี (Jaharkas al-Khalili) ผู้ดูแลคอกม้าหลวงของพระองค์ และชื่อนี้ก็แผ่จากอาคารหลังเดียวไปทั้งย่าน\n\nแกรนด์บาซาร์ของอิสตันบูลแสดงตรรกะเดียวกันที่ไปไกลกว่านั้น ในต้นคริสต์ศตวรรษที่ 17 ตลาดนี้มีถนน 67 สาย แต่ละสายตั้งชื่อตามผู้ขายสินค้าชนิดหนึ่ง มีประตู 18 บานที่เปิดทุกเช้าและปิดตอนเย็น และมีร้าน 3,000 ร้าน บวกอีก 300 ร้านในข่าน (han) หรือโรงเตี๊ยมพ่อค้าโดยรอบ ประตูปิดตอนกลางคืน และมียามที่สมาคมพ่อค้าจ้างไว้คอยลาดตระเวน การเข้าไปหลังเวลาปิดต้องมีราชโองการ สมาคมหนึ่งจะตั้งขึ้นเมื่อมีผู้ค้าสินค้าชนิดเดียวกันมากพอ แล้วจำนวนผู้ค้าและร้านก็ถูกตรึงไว้ การเข้าเป็นสมาชิกทำได้โดยการรับเข้าเท่านั้น — ในฐานะบุตรของสมาชิกที่เสียชีวิต หรือโดยจ่ายเงินจำนวนที่เหมาะสมให้สมาชิกที่ต้องการเลิกกิจการ หัวหน้าสมาคมเรียกว่าเคทฮูดา (Kethüda) ได้รับค่าตอบแทนจากสมาคม แต่ได้รับการแต่งตั้งจากกาดี (Kadı) หรือตุลาการแห่งอิสตันบูล และเป็นผู้กำหนดราคาและภาษี สมาคมเหล่านี้ถูกยุบใน ค.ศ. 1913\n\nแรงผลักให้กำกับดูแลไม่ได้มีแค่ในยุคกลาง ตลาดเมร์กาโดเดโซโนรา (Mercado de Sonora) ในเม็กซิโกซิตีตั้งขึ้นโดยรัฐบาลเมืองเมื่อวันที่ 23 กันยายน ค.ศ. 1957 พร้อมกับตลาดสาธารณะอื่น ๆ เพื่อช่วยจัดระเบียบและกำกับการค้าปลีก ช่องทางเดินของสมุนไพรทางยา และของสินค้าเวทมนตร์และไสยศาสตร์ อยู่ท้ายโถงหลังคาโลหะโถงเดียว และบันทึกระบุว่าสินค้าสองประเภทนี้ไม่ได้แยกจากกัน วัดเซ็นโซจิในโตเกียวอนุญาตให้ร้านค้าที่ต่อมากลายเป็นถนนนากามิเสะ ค้าขายบนทางเดินหลักสู่วัดใน ค.ศ. 1685 โดยแลกกับการที่ร้านเหล่านั้นจ่ายเงินให้ชาวบ้านในละแวกกวาดลานวัด\n\nสิ่งที่ผู้ซื้อซื้อจริง ๆ แตกต่างกันไปตามแต่ละประเพณี และแตกต่างกันชัดเจน ที่ท่าพระจันทร์ในกรุงเทพฯ ผู้เช่าบูชามาพร้อมกล้องส่องพระ เพราะมูลค่าของพระเครื่องขึ้นอยู่กับรูปลักษณ์ ความหายาก ผู้สร้าง อายุ และชื่อเสียง และเพราะของปลอมมีมากจนการตรวจพิสูจน์โดยผู้ชำนาญเป็นส่วนหนึ่งของการซื้อขายเป็นปกติ ไม่มีใครที่นั่นประเมินความงาม สิ่งที่เขาประเมินคือวัดไหนกดพิมพ์ และพระสงฆ์รูปไหนปลุกเสก ที่เคาน์เตอร์ศาลเจ้าญี่ปุ่น การแลกเปลี่ยนถูกวางกรอบกลับกัน โอมาโมริและโอฟุดะในทางหลักการไม่ได้ถูกซื้อ แต่ได้รับมา — ซาซูคารุ (sazukaru) อุเครุ (ukeru) — และเงินถือเป็นเงินบริจาค ที่งานอลาซิตัส (Alasitas) ในลาปาซ การซื้อคือตัวพิธีกรรมเอง ชื่องานเป็นภาษาไอมาราแปลว่า 'ซื้อจากฉันสิ' และคุณซื้อของจำลองขนาดจิ๋วเพื่อมอบให้คนอื่น เพื่อให้ของขนาดจริงตามมาภายในปีนั้น\n\nราคาและฤดูกาลมีบันทึกไว้ในที่ที่แหล่งข้อมูลเผยแพร่ ตลาดพระเครื่องจตุคามรามเทพมีมูลค่าถึงสองหมื่นล้านบาทใน พ.ศ. 2550 (ค.ศ. 2007) ก่อนฟองสบู่จะแตกในช่วงปลายปีนั้น ตลาดเมร์กาโดเดลาสบรูคัส (Mercado de las Brujas) บนถนนกาเยลินาเรส (Calle Linares) ในลาปาซ มียอดขายราวร้อยละ 60 ของทั้งปีในเดือนตุลาคม ซึ่งเป็นช่วงที่เครื่องเซ่นแด่ปาชามามากระจุกตัว เอ็ดเวิร์ด เทเบอร์ (Edward Tabor) ให้ราคาอะซาบาเช (azabache) ในร้านโบตานิกา (botánica) ไว้ที่ US$3 ถึง US$10 และทางออนไลน์ US$9 ถึง US$55 ณ เวลาที่เขาเขียนใน ค.ศ. 2023\n\nการปฏิบัตินี้ยังสร้างฐานหลักฐานของแอตลาสนี้ด้วย และเรื่องนี้ควรพูดไว้ วิธีของเอ็ดเวิร์ด เลิฟเวตต์ (Edward Lovett) คือการซื้อและแลกเปลี่ยนตามถนนในลอนดอนแทนการขุดค้น สิ่งที่เขารวบรวมไว้ปัจจุบันกระจายอยู่ในพิพิธภัณฑ์พิตต์ริเวอร์ส (Pitt Rivers Museum) พิพิธภัณฑ์คิวมิง (Cuming Museum) คอลเลกชันเวลคัม (Wellcome) และพิพิธภัณฑ์วัยเด็กอีกสองแห่ง เฟรเดอริก เอลเวิร์ทธี (Frederick Elworthy) ซื้อในสเปนและอิตาลีระหว่างที่เขียนหนังสือ ซีคฟรีด เซลิกมันน์ (Siegfried Seligmann) รวบรวมเครื่องรางกว่า 1,500 ชิ้นสำหรับงานสำรวจของเขา *ข้อสันนิษฐาน —* รูปร่างของสิ่งที่พิพิธภัณฑ์ถือครองอยู่เป็นไปตามรูปร่างของสิ่งที่มีขายให้นักสะสมชาวยุโรปที่มีเงิน ซึ่งเป็นข้อเท็จจริงเกี่ยวกับตลาดก่อนที่จะเป็นข้อเท็จจริงเกี่ยวกับเครื่องราง\n\nและข้อถกเถียง: เครื่องรางที่ขายให้คนแปลกหน้าเป็นวัตถุเดียวกับที่ทำให้เพื่อนบ้านหรือไม่ ข้อถกเถียงนี้มีผู้ร่วมที่มีชื่อในหลายประเพณีพร้อมกัน นักบวชญี่ปุ่นเคยบ่นเรื่องคุณภาพของโอมาโมริจากโรงงานที่สั่งทำเมื่อความต้องการมีมากเกินกว่าที่ศาลเจ้าจะผลิตเองได้ ผู้ผลิตในจีนผลิตของเลียนแบบเฮย์มาเตา (hei matau) จำนวนมากจากกระดูกผสมเรซินสำหรับตลาดนักท่องเที่ยวในนิวซีแลนด์ และถูกวิจารณ์ว่านำลวดลายของชาวเมารีไปใช้โดยมิชอบ วัฒนธรรมการตรวจพิสูจน์พระของไทยมีอยู่ได้เพราะคนในวงการเองไม่ไว้ใจวงการ แอตลาสนี้รายงานทุกฝ่ายของเรื่องนั้นและไม่เข้าร่วมฝ่ายใด และบรรยายเครื่องรางจากโรงงานด้วยถ้อยคำเดียวกับที่บรรยายชิ้นที่แกะด้วยมือ",
+  "how": "เข้าไป ดู ถาม จ่าย และในหลายประเพณีจะมีบางอย่างทำให้ตรงนั้นเลย: ผูกด้ายแดง ยื่นใบรับรองให้ กล่าวคำอวยพร ประทับตรา ในไทย กล้องส่องพระและค่าตรวจของผู้ชำนาญมาคั่นอยู่ระหว่างการดูกับการจ่าย ในญี่ปุ่น ถ้อยคำในการแลกเปลี่ยนจงใจไม่ใช้ภาษาการค้า ในลาปาซ ของถูกซื้อเพื่อมอบให้คนอื่นมากกว่าเก็บไว้เอง ในมะนิลา แผงอยู่ในลานโบสถ์ และหนังสือคาถาแถมมากับเครื่องราง",
+  "today": "ยังดำเนินอยู่ทุกที่ และมากขึ้นเรื่อย ๆ ที่ไม่ได้เกิดขึ้นทางกายภาพ วัตถุเดียวกันถูกขายทางออนไลน์ ทั้งยกถาดและรายชิ้น โดยปัญหาการตรวจพิสูจน์ถูกย้ายที่ ไม่ได้ถูกแก้ ใน พ.ศ. 2564 (ค.ศ. 2021) โครงการหนึ่งในไทยออกพระเครื่องที่พระสงฆ์ปลุกเสกในรูปเอ็นเอฟที (NFT) บนบล็อกเชน ซึ่งคือการซื้อที่เขียนปัญหาเรื่องที่มาของวัตถุลงไปในตัวธุรกรรมเลย ที่อยู่เก่ายังคงค้าขายกันอยู่: ท่าพระจันทร์ แกรนด์บาซาร์ ข่านเอลเคาะลีลี เมร์กาโดเดโซโนรา นากามิเสะ ถนนกาเยลินาเรส"
+ },
+ "th_fields": {
+  "dating.period": "ยุคกลางถึงปัจจุบัน",
+  "dating.note": "ปีเริ่มต้น (from_year) คือการสร้างข่านอัลเคาะลีลีในรัชกาลแรกของสุลต่านบัรกูก ค.ศ. 1382–1389 — อาคารตลาดที่มีวันที่เก่าที่สุดในระเบียนสถานที่ของแอตลาสนี้ การซื้อเครื่องรางย่อมเก่ากว่าอาคารตลาดใด ๆ ที่หลงเหลืออยู่มาก และวันที่นี้เป็นขอบล่างที่สถาปัตยกรรมกำหนด ไม่ใช่ที่การปฏิบัติกำหนด",
+  "object.made_by": "เจ้าของแผง สำนักงานของวัดและศาลเจ้า สหกรณ์ตลาด ผู้ตรวจพิสูจน์ ผู้ผลิตที่รับจ้างทำตามสัญญา และผู้ขายออนไลน์",
+  "object.note": "ตรงนี้ไม่มีวัตถุ — นี่คือธุรกรรม ช่องข้อมูลต่าง ๆ ระบุสิ่งที่พบบ่อยที่สุดตามเคาน์เตอร์ที่ระเบียนนี้อ้างถึง",
+  "against.0.who": "การจัดการของแกรนด์บาซาร์เอง: ประตูปิดตอนกลางคืน ยามที่สมาคมพ่อค้าจ้างไว้ และต้องมีราชโองการจึงจะเข้าไปหลังเวลาปิดได้ — การรวมการค้าไว้ในที่เดียวก็เป็นมาตรการรักษาความปลอดภัยในตัวเอง",
+  "against.0.note": "รายการที่ไม่ธรรมดา: ในกรณีนี้ ตลาดคุ้มครองเครื่องราง แทนที่เครื่องรางจะคุ้มครองใคร",
+  "against.1.who": "ผู้ซื้อที่งานอลาซิตัส (Alasitas) ในลาปาซ ซึ่งการซื้อของจำลองขนาดจิ๋วแล้วมอบให้คนอื่น คือการอ้างสิทธิ์ในของขนาดจริงภายในปีนั้น",
+  "against.2.who": "เคาน์เตอร์ศาลเจ้าญี่ปุ่น ซึ่งออกเครื่องรางโชไบฮันโจ (shōbai-hanjō) เพื่อความสำเร็จในการค้าขาย และถือว่าเงินที่จ่ายเป็นเงินบริจาค ไม่ใช่ราคา"
  },
  "dating": {
   "period": "Medieval to the present",
@@ -30,49 +81,186 @@
  },
  "object": {
   "form": "plaque",
-  "materials": ["terracotta", "silver", "glass", "paper", "seed", "herb", "cloth"],
-  "worn": ["shop", "pocket", "neck"],
+  "materials": [
+   "terracotta",
+   "silver",
+   "glass",
+   "paper",
+   "seed",
+   "herb",
+   "cloth"
+  ],
+  "worn": [
+   "shop",
+   "pocket",
+   "neck"
+  ],
   "made_by": "stallholders, temple and shrine offices, market co-operatives, authenticators, manufacturers under contract, and online sellers",
   "single_use": false,
   "source": "s:wp-thai-buddha-amulet",
   "note": "There is no object here — this is a transaction. The fields name what is commonest across the counters this record cites."
  },
  "against": [
-  {"harm": "theft", "who": "the Grand Bazaar's own arrangements: gates closed at night, guards paid by the merchants' guilds, and an imperial edict required to enter after hours — the concentration of the trade in one place was itself a security measure", "source": "s:wp-grand-bazaar-istanbul", "tier": "cited", "note": "an unusual entry: here the market protects the charms rather than the charms protecting anybody"},
-  {"harm": "bad-luck", "who": "buyers at Alasitas in La Paz, where purchasing a miniature and giving it away is the claim on the full-sized thing within the year", "source": "s:wp-alasitas", "tier": "cited"},
-  {"harm": "poverty", "who": "the Japanese shrine counter, which issues shōbai-hanjō charms for success in business and treats the money paid as a donation rather than a price", "source": "s:wp-omamori", "tier": "cited"}
+  {
+   "harm": "theft",
+   "who": "the Grand Bazaar's own arrangements: gates closed at night, guards paid by the merchants' guilds, and an imperial edict required to enter after hours — the concentration of the trade in one place was itself a security measure",
+   "source": "s:wp-grand-bazaar-istanbul",
+   "tier": "cited",
+   "note": "an unusual entry: here the market protects the charms rather than the charms protecting anybody"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "buyers at Alasitas in La Paz, where purchasing a miniature and giving it away is the claim on the full-sized thing within the year",
+   "source": "s:wp-alasitas",
+   "tier": "cited"
+  },
+  {
+   "harm": "poverty",
+   "who": "the Japanese shrine counter, which issues shōbai-hanjō charms for success in business and treats the money paid as a donation rather than a price",
+   "source": "s:wp-omamori",
+   "tier": "cited"
+  }
  ],
  "kin": [
-  {"to": "tha-phrachan", "as": "the practice at its most exacting — loupe, certificate, forgery, and a monk's name as the thing being priced", "rel": "place"},
-  {"to": "grand-bazaar", "as": "the practice under a roof, with 18 gates locked at night and a guild deciding who may sell", "rel": "place"},
-  {"to": "khan-el-khalili", "as": "where this record's earliest date comes from: a quarter of stone shops built partly so the trade could be counted and taxed", "rel": "place"},
-  {"to": "mercado-de-sonora", "as": "the practice inside a building the city put up in 1957 to regulate it", "rel": "place"},
-  {"to": "senso-ji", "as": "the approach road licensed by the temple in 1685, with sweeping the grounds as the rent", "rel": "place"},
-  {"to": "mercado-de-las-brujas-la-paz", "as": "the practice with a published season — roughly 60 per cent of the year's trade in October", "rel": "place"},
-  {"to": "phra-khrueang", "as": "the object with the largest figure attached to this practice anywhere in the atlas: twenty billion baht in a single year", "rel": "carried-by"},
-  {"to": "ekeko", "as": "the case where buying is not the preliminary to the rite but the rite", "rel": "carried-by"},
-  {"to": "omamori", "as": "the counter that refuses the verb — received, not bought, and the money a donation", "rel": "contrast"},
-  {"to": "inheriting", "as": "the practice this one is defined against, and the one whose rules a purchase keeps testing", "rel": "contrast"},
-  {"to": "renewing-yearly", "as": "the other half of the cycle: an annual expiry is also an annual sale", "rel": "practice"},
-  {"to": "edward-lovett", "as": "the collector whose whole method was this — buying and swapping in the street while other men read about the past", "rel": "person"},
-  {"to": "the-fake-market", "as": "the long read that starts at this counter, because this is where trust is priced", "rel": "story"}
+  {
+   "to": "tha-phrachan",
+   "as": "the practice at its most exacting — loupe, certificate, forgery, and a monk's name as the thing being priced",
+   "rel": "place",
+   "as_th": "การปฏิบัตินี้ในแบบที่เข้มงวดที่สุด — กล้องส่องพระ ใบรับรอง ของปลอม และนามของพระสงฆ์คือสิ่งที่ถูกตีราคา"
+  },
+  {
+   "to": "grand-bazaar",
+   "as": "the practice under a roof, with 18 gates locked at night and a guild deciding who may sell",
+   "rel": "place",
+   "as_th": "การปฏิบัตินี้ใต้หลังคา มีประตู 18 บานที่ลงกลอนตอนกลางคืน และสมาคมที่ตัดสินว่าใครขายได้"
+  },
+  {
+   "to": "khan-el-khalili",
+   "as": "where this record's earliest date comes from: a quarter of stone shops built partly so the trade could be counted and taxed",
+   "rel": "place",
+   "as_th": "ที่มาของวันที่เก่าที่สุดในระเบียนนี้: ย่านร้านค้าหินที่สร้างขึ้นส่วนหนึ่งเพื่อให้นับและเก็บภาษีการค้าได้"
+  },
+  {
+   "to": "mercado-de-sonora",
+   "as": "the practice inside a building the city put up in 1957 to regulate it",
+   "rel": "place",
+   "as_th": "การปฏิบัตินี้ภายในอาคารที่เมืองสร้างขึ้นใน ค.ศ. 1957 เพื่อกำกับดูแลมัน"
+  },
+  {
+   "to": "senso-ji",
+   "as": "the approach road licensed by the temple in 1685, with sweeping the grounds as the rent",
+   "rel": "place",
+   "as_th": "ทางเดินสู่วัดที่วัดอนุญาตให้ค้าขายใน ค.ศ. 1685 โดยค่าเช่าคือการกวาดลานวัด"
+  },
+  {
+   "to": "mercado-de-las-brujas-la-paz",
+   "as": "the practice with a published season — roughly 60 per cent of the year's trade in October",
+   "rel": "place",
+   "as_th": "การปฏิบัตินี้ที่มีฤดูกาลเผยแพร่ไว้ — ราวร้อยละ 60 ของการค้าทั้งปีอยู่ในเดือนตุลาคม"
+  },
+  {
+   "to": "phra-khrueang",
+   "as": "the object with the largest figure attached to this practice anywhere in the atlas: twenty billion baht in a single year",
+   "rel": "carried-by",
+   "as_th": "วัตถุที่มีตัวเลขสูงที่สุดผูกอยู่กับการปฏิบัตินี้ในแอตลาสทั้งเล่ม: สองหมื่นล้านบาทในปีเดียว"
+  },
+  {
+   "to": "ekeko",
+   "as": "the case where buying is not the preliminary to the rite but the rite",
+   "rel": "carried-by",
+   "as_th": "กรณีที่การซื้อไม่ใช่ขั้นตอนก่อนพิธี แต่คือตัวพิธีเอง"
+  },
+  {
+   "to": "omamori",
+   "as": "the counter that refuses the verb — received, not bought, and the money a donation",
+   "rel": "contrast",
+   "as_th": "เคาน์เตอร์ที่ปฏิเสธคำกริยานี้ — ได้รับ ไม่ใช่ซื้อ และเงินคือเงินบริจาค"
+  },
+  {
+   "to": "inheriting",
+   "as": "the practice this one is defined against, and the one whose rules a purchase keeps testing",
+   "rel": "contrast",
+   "as_th": "การปฏิบัติที่ระเบียนนี้นิยามตัวเองโดยเทียบกับมัน และเป็นการปฏิบัติที่การซื้อคอยทดสอบกฎของมันอยู่เสมอ"
+  },
+  {
+   "to": "renewing-yearly",
+   "as": "the other half of the cycle: an annual expiry is also an annual sale",
+   "rel": "practice",
+   "as_th": "อีกครึ่งหนึ่งของวงจร: การหมดอายุทุกปีก็คือการขายทุกปี"
+  },
+  {
+   "to": "edward-lovett",
+   "as": "the collector whose whole method was this — buying and swapping in the street while other men read about the past",
+   "rel": "person",
+   "as_th": "นักสะสมที่วิธีการทั้งหมดของเขาคือสิ่งนี้ — ซื้อและแลกกันบนถนน ขณะที่คนอื่นนั่งอ่านเรื่องอดีต"
+  },
+  {
+   "to": "the-fake-market",
+   "as": "the long read that starts at this counter, because this is where trust is priced",
+   "rel": "story",
+   "as_th": "บทความยาวที่เริ่มต้นที่เคาน์เตอร์นี้ เพราะที่นี่คือที่ที่ความไว้ใจถูกตีราคา"
+  }
  ],
  "links": [
-  {"label": "Grand Bazaar, Istanbul — Wikipedia", "url": "https://en.wikipedia.org/wiki/Grand_Bazaar,_Istanbul"},
-  {"label": "Khan el-Khalili — Wikipedia", "url": "https://en.wikipedia.org/wiki/Khan_el-Khalili"}
+  {
+   "label": "Grand Bazaar, Istanbul — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Grand_Bazaar,_Istanbul"
+  },
+  {
+   "label": "Khan el-Khalili — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Khan_el-Khalili"
+  }
  ],
- "sources": ["s:wp-grand-bazaar-istanbul", "s:wp-khan-el-khalili", "s:wp-mercado-de-sonora", "s:wp-sens-ji", "s:wp-thai-buddha-amulet", "s:wp-alasitas", "s:wp-the-witches-market", "s:wp-omamori", "s:wp-ofuda", "s:wp-edward-lovett", "s:wp-frederick-thomas-elworthy", "s:web-siegfried-seligmann-dewiki", "s:web-hektoen-azabache", "s:wp-hei-matau", "s:web-coconuts-crypto-amulets", "s:wp-quiapo-church", "s:wp-agimat"],
+ "sources": [
+  "s:wp-grand-bazaar-istanbul",
+  "s:wp-khan-el-khalili",
+  "s:wp-mercado-de-sonora",
+  "s:wp-sens-ji",
+  "s:wp-thai-buddha-amulet",
+  "s:wp-alasitas",
+  "s:wp-the-witches-market",
+  "s:wp-omamori",
+  "s:wp-ofuda",
+  "s:wp-edward-lovett",
+  "s:wp-frederick-thomas-elworthy",
+  "s:web-siegfried-seligmann-dewiki",
+  "s:web-hektoen-azabache",
+  "s:wp-hei-matau",
+  "s:web-coconuts-crypto-amulets",
+  "s:wp-quiapo-church",
+  "s:wp-agimat"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-grand-bazaar-istanbul"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-grand-bazaar-istanbul"
+  },
   "fields": {
-   "dating": {"tier": "cited", "source": "s:wp-khan-el-khalili", "note": "an architectural floor, stated as such in the note"},
-   "text.story": {"tier": "cited", "source": "s:wp-grand-bazaar-istanbul", "note": "every figure carries its source's own date. The paragraph about collector-shaped museum holdings is marked inference where it appears."},
-   "object": {"tier": "inference", "note": "this practice has no object; the fields are the commonest goods across the counters cited"},
-   "countries": {"tier": "cited", "note": "each names a market or a counter cited in this record"}
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-khan-el-khalili",
+    "note": "an architectural floor, stated as such in the note"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-grand-bazaar-istanbul",
+    "note": "every figure carries its source's own date. The paragraph about collector-shaped museum holdings is marked inference where it appears."
+   },
+   "object": {
+    "tier": "inference",
+    "note": "this practice has no object; the fields are the commonest goods across the counters cited"
+   },
+   "countries": {
+    "tier": "cited",
+    "note": "each names a market or a counter cited in this record"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Amulet market Bangkok.jpg", "File:Grand Bazaar Istanbul interior.jpg"],
+ "x_commons_files": [
+  "File:Amulet market Bangkok.jpg",
+  "File:Grand Bazaar Istanbul interior.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-17"
 }

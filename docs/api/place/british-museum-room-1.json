@@ -9,7 +9,8 @@
    "The King's Library",
    "BM Room 1"
   ],
-  "sort": "British Museum Room 1"
+  "sort": "British Museum Room 1",
+  "th": "ห้อง 1: ยุคเรืองปัญญา พิพิธภัณฑ์บริติช"
  },
  "region": [
   "britain-ireland",
@@ -29,6 +30,9 @@
   "what": "One long room off the Great Court, lined with tall wall presses and galleried in dark wood. The museum calls it the oldest room in the present building, put up for King George III's library and now holding a permanent display of eighteenth-century collecting. The objects are not grouped by country. They are grouped in seven disciplines an eighteenth-century collector would have recognised — the natural world, the birth of archaeology, art and civilisation, classifying the world, ancient scripts, ritual and religion, trade and discovery — so a Pacific shield, a Sumerian tablet and an astrolabe stand within a few steps of each other.",
   "story": "This is the room about how the rest of the museum filled up. Sir Hans Sloane's cabinets are here; the museum's own gallery text says his collection, with several additional libraries, became the foundation of the British Museum, established by Act of Parliament on 7 June 1753.\n\nThe museum does not hedge about what else the period was. Its own page for this room says the Enlightenment \"witnessed the aggressive global expansion of European colonialism and the transatlantic slave trade\" and that \"This room's displays reflect the close connection between Enlightenment and empire.\" Under Ritual and religion it writes that \"Christian mistrust of superstition and idols, rituals and magic led to ignorance about other religions\", that scholars set out to dispel that by studying the religions they met, collecting religious artefacts and grouping gods into families — and that \"Much of this activity took place within the context of colonialism.\" Under Trade and discovery it names the East India and Royal Africa Companies, \"whose wealth was made possible through the use of enslaved labour\".\n\nOne object in this room carries a live claim. The museum's catalogue places a bark-and-wood shield, registration number Oc1978,Q.839, on display in Room 1, Trade & Discovery, Wall Press 96; it was donated by the Lords of the Admiralty and first registered and given a Q number in 1978. Rodney Kelly, a Gweagal man from Bermagui, began campaigning for the shield's return after it appeared in the exhibition Encounters at the National Museum of Australia, 27 November 2015 to 28 March 2016, and travelled to Britain three times, once in 2016 and twice in 2017; the chair of the La Perouse Local Aboriginal Land Council, Noeleen Timbery, has backed the return. The British Museum has refused, on the ground that British law does not permit it to hand the object over.\n\nThe identification is itself contested, and the museum says so on its own object page. Its curator's comments open: \"Once thought to have been obtained on Captain Cook's first voyage to the Pacific, when he visited Botany Bay near present day Sydney, New South Wales, in 1770.\" The record now dates the shield \"1771 (or earlier)\" and finds the match with Sydney Parkinson's and John Frederick Miller's drawings only an apparent one. *Inference —* an object whose owner and whose date are both argued over is the right object to meet first in a museum, and this room is where a reader of this atlas should start before walking to the Egyptian cases.",
   "today": "Open with the rest of the museum, free, and unchanged in layout. The museum's own warning stands beside its hours: \"Occasionally we may need to close galleries at short notice.\" This project has not stood in the room."
+ },
+ "text_th": {
+  "what": "ห้องยาวห้องหนึ่งติดกับเกรตคอร์ต (Great Court) ผนังเรียงรายด้วยตู้สูง มีระเบียงชั้นลอยไม้สีเข้ม พิพิธภัณฑ์เรียกห้องนี้ว่าห้องที่เก่าที่สุดในอาคารปัจจุบัน สร้างขึ้นสำหรับหอสมุดของพระเจ้าจอร์จที่ 3 และปัจจุบันจัดแสดงถาวรเรื่องการสะสมในคริสต์ศตวรรษที่ 18 วัตถุไม่ได้จัดกลุ่มตามประเทศ แต่จัดเป็นเจ็ดสาขาที่นักสะสมในคริสต์ศตวรรษที่ 18 จะรู้จัก ได้แก่ โลกธรรมชาติ กำเนิดโบราณคดี ศิลปะและอารยธรรม การจัดจำแนกโลก อักษรโบราณ พิธีกรรมและศาสนา การค้าและการค้นพบ โล่จากแปซิฟิก แผ่นจารึกสุเมเรียน และแอสโตรเลบจึงตั้งอยู่ห่างกันเพียงไม่กี่ก้าว"
  },
  "dating": {
   "period": "Georgian room, present display",
@@ -219,49 +223,63 @@
    "type": "org",
    "name": "The British Museum",
    "as": "the institution this room explains — its founding collection, and the argument it makes about keeping things",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์บริติช (บริติชมิวเซียม)",
+   "as_th": ""
   },
   {
    "to": "wallis-budge",
    "type": "person",
    "name": "E. A. Wallis Budge",
    "as": "the keeper who did the next century's buying; the Egyptian amulets he brought are shown in other rooms, not this one",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "อี. เอ. วอลลิส บัดจ์",
+   "as_th": ""
   },
   {
    "to": "met-egyptian-galleries",
    "type": "place",
    "name": "The Egyptian galleries, the Metropolitan Museum of Art",
    "as": "the comparison across the Atlantic: rooms that show what was dug, where this one shows who did the collecting",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ห้องจัดแสดงอียิปต์ พิพิธภัณฑ์ศิลปะเมโทรโพลิแทน",
+   "as_th": ""
   },
   {
    "to": "pitt-rivers-charms",
    "type": "place",
    "name": "The amulet and charm cases, Pitt Rivers Museum",
    "as": "Oxford's answer to the same question — group by what a thing is for, not by which discipline collected it",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ตู้เครื่องรางและของขลัง พิพิธภัณฑ์พิตต์ริเวอร์ส",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read on ownership; Wall Press 96 is where it stops being abstract",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "free-to-use",
    "type": "story",
    "name": "Free to use",
    "as": "the long read on licensing; this museum's images can be linked from here and not hosted here",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใช้ได้อย่างเสรี",
+   "as_th": ""
   },
   {
    "to": "wikimedia-commons",
    "type": "org",
    "name": "Wikimedia Commons",
    "as": "the repository that cannot take this room's photographs, because the museum's licence bars commercial use",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "วิกิมีเดียคอมมอนส์",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -390,28 +408,36 @@
    "type": "practice",
    "name": "Foundation deposit",
    "as": "where deposits meant never to be seen are now on shelves",
-   "rel": "held-at"
+   "rel": "held-at",
+   "name_th": "ของฝังใต้ฐานรากอาคาร",
+   "as_th": ""
   },
   {
    "from": "met-egyptian-galleries",
    "type": "place",
    "name": "The Egyptian galleries, the Metropolitan Museum of Art",
    "as": "the comparison in London: a room about the collectors, where these are rooms about the dig",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ห้องจัดแสดงอียิปต์ พิพิธภัณฑ์ศิลปะเมโทรโพลิแทน",
+   "as_th": ""
   },
   {
    "from": "te-papa-taonga",
    "type": "place",
    "name": "Mana Whenua, Te Papa",
    "as": "the other side of the same argument: a London room that keeps what it holds, where this one gave a meeting house's title back",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "มานาเฟนูอา ที่พิพิธภัณฑ์เตปาปา",
+   "as_th": ""
   },
   {
    "from": "british-museum",
    "type": "org",
    "name": "The British Museum",
    "as": "the room inside it this atlas sends a reader to",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "พิพิธภัณฑ์บริติช (บริติชมิวเซียม)",
+   "as_th": ""
   }
  ]
 }

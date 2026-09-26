@@ -11,7 +11,8 @@
   "aliases": [
    "Coptic wrist cross",
    "the cross on the wrist"
-  ]
+  ],
+  "th": "รอยสักกางเขนคอปติก"
  },
  "region": [
   "ancient-egypt",
@@ -36,6 +37,9 @@
   "story": "Many Copts have the cross tattooed as a sign of faith on the inside of their right arm at the wrist. That is the whole of what the Coptic cross article says about it, and every other thing on this page had to be sourced elsewhere, which is itself worth noticing about a practice this widespread.\n\nThe Egyptian Streets writer Farah Rafik, in February 2022, traces the tattooing tradition among Egyptians to the Coptic period, and says it intensified after the Muslim conquest of Egypt around 640 CE, when Christians faced conversion or the religious tax, and some were marked with crosses on the wrist so the authorities could tell who had kept their faith. What began as a mark applied from outside became a mark applied by parents. Rafik quotes the researcher Jean-Philippe Belleau: \"The fear of conversion among members of the Christian minority of Egypt has led many Coptic parents to tattoo their children with a small blue cross.\" The reason parents gave was blunt — a child whose parents were killed would still be recognised, and raised, among Christians. In some churches the wrist has also served as the check at the door.\n\nThe people who put it on are named and working. Girgis Gabriel Girgis has run a studio in Muqattam, the quarter above Cairo, for over thirty years, and does five to seven tattoos a day, mostly Coptic crosses. Another tattooist, Magdy Girgis, calls the practice \"a sign of resistance, perseverance and solidarity\".\n\n*Inference —* this is the only amulet in this batch whose bearer cannot take it off, sell it, lose it or leave it to anybody, and the tradition's own account of why it is permanent is exactly that.\n\nThe sign has Egyptian company. The ankh survived Christianisation in Egypt as the crux ansata, an ankh with a circular loop, and Coptic Christians used that form in many media, especially in textiles. Bertran de la Farge dates the trefoil Coptic cross to the fourth century and reads it as a predecessor of the Occitan cross.",
   "how": "Applied by a tattooist, usually on the inside of the right wrist, commonly in childhood within Coptic families and also on adults. The design is small and fast. The sources read here name no rite, no fasting and no blessing attached to it; what they describe is a studio, a queue and a needle.",
   "today": "Living, and worked at daily. As of 2026 Girgis Gabriel Girgis's Muqattam studio is the one the reporting names, and the mark functions as a permanent visible sign of Christian identity. Whether a reader outside the community should wear the same design is an argument with named people in it, and this atlas reports it rather than settling it: the tattooists quoted describe the mark as resistance and solidarity, which is a claim about who is inside."
+ },
+ "text_th": {
+  "what": "กางเขนเล็ก ๆ ที่สักไว้ด้านในข้อมือขวา แบบที่นิยมคือกางเขนคอปติก เส้นหนาสองเส้นยาวเท่ากันตัดกันเป็นมุมฉาก ปลายแขนแต่ละข้างแตกเป็นสามแฉก รวมสิบสองแฉก มักเป็นสีน้ำเงิน ที่ร้านสักในไคโรใช้เวลาไม่ถึงสิบนาที"
  },
  "dating": {
   "period": "the Coptic period to the present",
@@ -226,63 +230,81 @@
    "type": "motif",
    "name": "The cross",
    "as": "the sign, in its Coptic form: four equal arms, three points on each, twelve points for the Apostles",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "กางเขน",
+   "as_th": ""
   },
   {
    "to": "ankh-amulet",
    "type": "amulet",
    "name": "Ankh amulet",
    "as": "the sign this one replaced and absorbed — the crux ansata is an ankh kept by Egyptian Christians",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "เครื่องรางอังค์",
+   "as_th": ""
   },
   {
    "to": "tattooing",
    "type": "practice",
    "name": "Tattooing",
    "as": "the practice, and the reason this charm cannot be taken off, sold or inherited",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การสัก",
+   "as_th": ""
   },
   {
    "to": "ethiopian-magic-scroll",
    "type": "amulet",
    "name": "Ethiopian talismanic scroll",
    "as": "the other African Christian protective object in this atlas, made by a cleric rather than a tattooist and read aloud rather than shown",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "คัมภีร์ม้วนเครื่องรางเอธิโอเปีย (คิตาบ)",
+   "as_th": ""
   },
   {
    "to": "sak-yant",
    "type": "amulet",
    "name": "Sak yant",
    "as": "the other living tattooed charm here — Thailand's, applied by a monk or an ajarn with rules attached; this one comes with none the sources name",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สักยันต์",
+   "as_th": ""
   },
   {
    "to": "skin",
    "type": "material",
    "name": "Skin",
    "as": "the material, which is also the wearer",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ผิวหนัง",
+   "as_th": ""
   },
   {
    "to": "st-christopher-medal",
    "type": "amulet",
    "name": "St Christopher medal",
    "as": "the Christian charm you can take off, which is the whole difference",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เหรียญนักบุญคริสโตเฟอร์",
+   "as_th": ""
   },
   {
    "to": "khan-el-khalili",
    "type": "place",
    "name": "Khan el-Khalili",
    "as": "the Cairo market a visitor is likelier to meet Coptic crosses in, sold as silver rather than worn under the skin",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ข่านเอลคาลีลี",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read this mark belongs to — the tattooists call it resistance and solidarity, which is a statement about who may wear it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -439,56 +461,72 @@
    "type": "amulet",
    "name": "Ankh amulet",
    "as": "the sign's Christian afterlife in Egypt: the crux ansata is an ankh with a round loop, and the cross Copts carry is the same faith in a different mark",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "เครื่องรางอังค์",
+   "as_th": ""
   },
   {
    "from": "ethiopian-magic-scroll",
    "type": "amulet",
    "name": "Ethiopian talismanic scroll",
    "as": "the other African Christian mark in this atlas, worn by neighbours up the same river and carried on skin rather than on hide",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "คัมภีร์ม้วนเครื่องรางเอธิโอเปีย (คิตาบ)",
+   "as_th": ""
   },
   {
    "from": "sak-yant",
    "type": "amulet",
    "name": "Sak yant",
    "as": "the other tattooed charm in this atlas, marked on the body and not removable either",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สักยันต์",
+   "as_th": "เครื่องรางอีกชิ้นในแอตลาสนี้ที่เป็นรอยสัก ทำเครื่องหมายไว้บนร่างกายและลบออกไม่ได้เช่นกัน"
   },
   {
    "from": "ethiopian-scroll-craft",
    "type": "tradition",
    "name": "Ethiopian scroll craft",
    "as": "the neighbouring African Christian mark, made by a tattooist rather than a cleric",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "งานคัมภีร์ม้วนเอธิโอเปีย",
+   "as_th": ""
   },
   {
    "from": "cross",
    "type": "motif",
    "name": "The cross",
    "as": "the cross put in the skin rather than on a chain, at the inside of the right wrist",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กางเขน",
+   "as_th": ""
   },
   {
    "from": "skin",
    "type": "material",
    "name": "Skin",
    "as": "the same material used as a declaration rather than a shield — inside the right wrist, where it will be seen",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ผิวหนัง",
+   "as_th": "วัสดุเดียวกันที่ใช้เป็นการประกาศมากกว่าเป็นเกราะ — ด้านในข้อมือขวา ตรงที่คนจะมองเห็น"
   },
   {
    "from": "tattooing",
    "type": "practice",
    "name": "Tattooing",
    "as": "the same needle used for membership rather than power — a cross at the right wrist",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การสัก",
+   "as_th": "เข็มเล่มเดียวกันที่ใช้เพื่อแสดงการเป็นสมาชิกแทนที่จะเป็นอานุภาพ คือไม้กางเขนที่ข้อมือขวา"
   },
   {
    "from": "merkato-addis",
    "type": "place",
    "name": "Merkato",
    "as": "the other Ethiopian and Coptic mark in this atlas, worn on the body rather than carried",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เมอร์กาโต",
+   "as_th": ""
   }
  ]
 }

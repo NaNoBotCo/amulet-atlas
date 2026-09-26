@@ -11,7 +11,8 @@
    "commander's coin",
    "memorial coin",
    "airman's coin"
-  ]
+  ],
+  "th": "เหรียญชาเลนจ์คอยน์ (เหรียญประจำหน่วย)"
  },
  "etymology": {
   "root": "English challenge, from the demand — the 'coin check' — that every member present produce theirs",
@@ -51,6 +52,9 @@
   "story": "This one is here for an unusual reason: its claim is not protection. A challenge coin proves you belong. Somebody calls a coin check; everyone present produces theirs; whoever cannot buys the round. That is the whole mechanism, and it is a membership test with a drinking forfeit attached, not a charm against anything.\n\nThe origin is contested, and this atlas reports the contest and picks no winner. The cited account is explicit that \"the historicity of these stories is unclear\", and there are at least five:\n\nRoman soldiers who did well in battle were given a bonus coin alongside their day's wages — specially minted, by some accounts, with the marks of their legion — and some kept them instead of spending them. Renaissance portrait medals commemorated an event for a patron and were exchanged among friends. French Huguenots, after Louis XIV revoked the Edict of Nantes in 1685, carried a méreau communion token and produced it at the door of a secret service to prove they were not a state spy — which is the first instance of a coin answering an actual challenge. An American volunteer flying squadron in the First World War had a wealthy lieutenant strike bronze medallions; a pilot wearing his in a leather pouch was shot down, stripped of his identification by a German patrol, escaped, and was taken for a saboteur by the French until the squadron insignia on the medallion identified him. And a Vietnam-era bar run by infantrymen made outsiders buy a round if they could not prove combat service, the proof escalating from enemy bullets to grenades and unexploded ordnance until somebody sensibly substituted a unit-marked disc.\n\nAgainst all five stands one dated object. The oldest surviving challenge coin belongs to the 17th Infantry Regiment and was minted by the then Colonel William \"Buffalo Bill\" Quinn between 1950 and 1958, to mark the end of a tour. *Inference —* that is the only hard floor in the whole story, and everything earlier is a claim about ancestry rather than a coin somebody can hand you.\n\nFrom US units the practice went sideways into everything. The FBI's Crisis Response unit issued the Bureau's first in the late 1980s. Air Force training instructors give an airman's coin at the end of basic training. The United States Congress makes them for members to give constituents. Presidents have issued them since the late 1990s: Bill Clinton kept racks of the ones service members gave him on the credenza behind his Oval Office desk, and they are in his official portrait; Barack Obama left them on the graves of dead soldiers. In Canada the practice arrived as \"an Americanism\" and was pushed by General Rick Hillier as the army worked more closely with US forces; the Royal Military College issues one to every officer cadet at the end of First-Year Orientation. In Switzerland officers order and pay for their own. In the United Kingdom, after commanders tightened restrictions on drinking, the traditional coin check has largely become a collection instead.\n\nNon-military bodies took it up wholesale: NASCAR, the NFL, Eagle Scouts, the World Series of Poker, police and fire departments, labor unions, the Utah Symphony and Opera in 2007, motorcycle clubs, television crews. *Inference —* an object that authenticates membership is useful to any group with a boundary, and the drinking forfeit travelled with it more reliably than the military content did.\n\nWhere a protective claim does attach, it is on the fire-department coins. The obverse takes the classic image of a firefighter; the reverse is engraved with the prayer text. Set that beside what Samuel Stouffer and his colleagues found among American soldiers in the Second World War, reported in the study George Gmelch cites: facing great danger and uncertainty, soldiers developed magical practices, particularly protective amulets and good-luck charms — crosses, Bibles, rabbits' feet, medals — and guarded articles of clothing they associated with past escapes. *Inference —* that is the neighbouring practice, not this one, and this record keeps them apart. The challenge coin's own documented job is the coin check.",
   "how": "Commissioned by a unit, a commander or an organization, struck by a commercial minter, and presented — for an achievement, a visit, a graduation, a donation, a death. Carried at all times is the rule the challenge enforces. Not blessed, not charged, not retired. A defaced coin, including one modified to make it easier to carry, generally stops qualifying for a challenge.",
   "today": "Issued by most units in the United States military and by a wide range of civilian bodies as of the cited account. Presidential coins have been a running controversy: the White House Communications Agency released one in May 2018 showing Donald Trump and Kim Jong-un ahead of the Singapore talks scheduled for June; Trump's own coin dropped the presidential seal, the motto E pluribus unum and the thirteen arrows, and carried a campaign slogan on both faces; Joe Biden's shows Delaware and the 261st Theater Tactical Signal Brigade, his late son Beau's unit. No dated retail price was read for this record."
+ },
+ "text_th": {
+  "what": "แผ่นโลหะปั๊มขนาดราวเหรียญใหญ่ มีเครื่องหมายของหน่วยหรือตราขององค์กร พกไว้ในกระเป๋า เหรียญสมัยใหม่มีรูปทรงและขนาดอื่น ๆ ด้วย และใช้ตัวละครจากวัฒนธรรมป๊อปได้ง่ายพอ ๆ กับตราประจำกรมทหาร เชื่อกันอย่างกว้างขวางว่าการทำให้เหรียญเสียหาย — เช่นเจาะรูเพื่อทำพวงกุญแจ — ทำให้เหรียญนั้นไม่นับอีกต่อไป และนี่คือกฎการออกแบบข้อเดียวที่ธรรมเนียมนี้บังคับใช้"
  },
  "dating": {
   "period": "the mid twentieth century to now",
@@ -243,56 +247,72 @@
    "type": "amulet",
    "name": "Chinese charm coin",
    "as": "the Chinese coin-shaped charm that was never currency either, and the other object in this atlas that borrows a coin's authority without being one",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เหรียญเครื่องรางจีน (เอี้ยนเซิ่งเฉียน)",
+   "as_th": ""
   },
   {
    "to": "coin-square",
    "type": "motif",
    "name": "The square hole",
    "as": "the sign a coin carries, and the reason a disc reads as worth something before anybody looks at the device",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "รูสี่เหลี่ยม",
+   "as_th": ""
   },
   {
    "to": "senninbari",
    "type": "amulet",
    "name": "Senninbari",
    "as": "the other soldiers' object here — that one was made by a thousand strangers' hands, this one is issued by a commander",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เซ็นนินบาริ (ผ้าพันฝีเข็ม)",
+   "as_th": ""
   },
   {
    "to": "game-day-charm",
    "type": "amulet",
    "name": "Game-day charm",
    "as": "the coin that gets carried for luck rather than for identification, and Gmelch's list of fetishes starts with coins",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ของนำโชควันแข่ง",
+   "as_th": ""
   },
   {
    "to": "st-christopher-medal",
    "type": "amulet",
    "name": "St Christopher medal",
    "as": "the struck disc carried in the same pocket by the same soldier, for a different reason entirely",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เหรียญนักบุญคริสโตเฟอร์",
+   "as_th": ""
   },
   {
    "to": "inheriting",
    "type": "practice",
    "name": "Inheriting",
    "as": "what happens to a coin issued for a death, a fallen officer or a grave",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การสืบทอดเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "mascot-word",
    "type": "term",
    "name": "mascot",
    "as": "the word for a thing that stands for a group, which is what this coin is before it is anything else",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "มาสคอต",
+   "as_th": ""
   },
   {
    "to": "amulet-or-talisman",
    "type": "story",
    "name": "Amulet or talisman?",
    "as": "the long read this complicates: an object carried at all times, struck for a group, that claims to protect nobody",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "อะมูเล็ตหรือทาลิสแมน?",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -440,42 +460,54 @@
    "type": "amulet",
    "name": "Chinese charm coin",
    "as": "the modern descendant of a coin that is not money: carried, shown, and valued for who issued it",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เหรียญเครื่องรางจีน (เอี้ยนเซิ่งเฉียน)",
+   "as_th": ""
   },
   {
    "from": "game-day-charm",
    "type": "amulet",
    "name": "Game-day charm",
    "as": "the coin in the same pocket that claims nothing — Gmelch's list of fetishes opens with coins, and this is the one that does not qualify",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ของนำโชควันแข่ง",
+   "as_th": ""
   },
   {
    "from": "senninbari",
    "type": "amulet",
    "name": "Senninbari",
    "as": "the other soldier's token in this atlas: issued by a unit rather than made by civilians, and kept rather than worn",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เซ็นนินบาริ (ผ้าพันฝีเข็ม)",
+   "as_th": ""
   },
   {
    "from": "coin-square",
    "type": "motif",
    "name": "The square hole",
    "as": "the modern coin carried for belonging rather than for luck, and the nearest living parallel outside Asia",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "รูสี่เหลี่ยม",
+   "as_th": ""
   },
   {
    "from": "alan-dundes",
    "type": "person",
    "name": "Alan Dundes",
    "as": "an object his definition of 'folk' makes legible: a group with a tradition, not a survival from anywhere",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "อลัน ดันดีส",
+   "as_th": ""
   },
   {
    "from": "mascot-word",
    "type": "term",
    "name": "mascot",
    "as": "the military parallel: an object that stands for a unit and is carried by its members",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "มาสคอต",
+   "as_th": ""
   }
  ]
 }

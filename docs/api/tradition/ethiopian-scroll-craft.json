@@ -12,7 +12,8 @@
    "dabtara craft",
    "Ethiopian healing scrolls",
    "kitab making"
-  ]
+  ],
+  "th": "งานคัมภีร์ม้วนเอธิโอเปีย"
  },
  "region": [
   "east-africa"
@@ -35,6 +36,9 @@
   "story": "The dabtara is the whole tradition in one job description. He is a liturgical specialist who has gone past memorising the Psalms into courses in poetry, liturgy and writing. In Ethiopia the power to write includes the power to write prayers and spells, so the same word carries a second sense.\n\nThe scroll is made for one person and stands in for them. An animal, usually a goat or a sheep, is sacrificed as a substitute for the patron; the patron is rubbed by and bathed in its contents; the hide is soaked for days, dried, stretched, then scraped, washed and dried into parchment. The dabtara writes on it and paints it, and it is cut to the same height as the person it is for, though it may be made longer. A larger one hangs on a wall instead.\n\nThe writing is Ge'ez, the church's liturgical language, and the texts combine Christian prayers invoking saints and the Trinity with mystical names of God and with incantations. Because few speak Ge'ez, the scroll does not work by being owned: a third party literate in Ge'ez must read it to the afflicted person for its properties to take effect. *Inference —* that requirement is rare in this atlas. Most charms are worn and forgotten; this one needs a second human being in the room every time it is used.\n\nThe painted signs are their own vocabulary: crosses, eight-pointed stars, the gätsä säb'e — a face inside an eight-pointed star — and eyes, in geometric pairs, rimmed in red. The palette is fixed at six colours: black, white, red, blue, green, yellow.\n\nWhat the scrolls are for runs from the trivial to the lethal — the range published is bed bugs, home intruders, smallpox — and they treat the spiritual cause while homeopathic medicines are used for the physical symptoms. In the historical manuscript record, most were made for conditions of women's reproductive health.\n\nThe earliest surviving scrolls are sixteenth-century. The practice is held to go back to the tenth, which is five hundred years this project cannot put an object behind.",
   "how": "Sacrifice, then parchment, then writing, then reading. The animal stands in for the patron; the hide becomes the surface; the dabtara writes the prayers and paints the figures; the finished scroll is rolled, kept, and read aloud in Ge'ez when it is needed.",
   "today": "Living. Scrolls are still made and still commissioned, and they are also collected: the Metropolitan Museum of Art holds several, and the Museum of Witchcraft and Magic in Boscastle publishes an example in Ge'ez on vellum. As of 2026 this project has read no figure for how many dabtaras work, or for what a scroll costs."
+ },
+ "text_th": {
+  "what": "การทำม้วนหนังฟอกวาดภาพโดยดาบตารา (dabtara) คือนักบวชที่ไม่ได้รับการบวชของคริสตจักรออร์โธดอกซ์เอธิโอเปีย ทำให้บุคคลที่ระบุชื่อ ตัดให้ยาวเท่าความสูงของผู้นั้น เขียนด้วยภาษากีเอซ และมีผู้ที่อ่านภาษานี้ได้อ่านออกเสียงให้ฟัง งานช่างนี้อยู่เคียงข้างคริสตจักรโดยไม่ได้อยู่ในลำดับชั้นของนักบวช"
  },
  "restricted": {
   "note": "No text from a scroll is printed here, and no formula. The prayers, the mystical names and the incantations are the dabtara's craft, and the tradition's own arrangement keeps them behind a reader: the scroll has to be read aloud in Ge'ez by someone trained to read it. This record prints the craft, not its contents.",
@@ -212,56 +216,72 @@
    "type": "amulet",
    "name": "Ethiopian talismanic scroll",
    "as": "the object this craft makes, cut to the height of the person it is for",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "คัมภีร์ม้วนเครื่องรางเอธิโอเปีย (คิตาบ)",
+   "as_th": ""
   },
   {
    "to": "parchment",
    "type": "material",
    "name": "Parchment",
    "as": "the material, and the animal that stood in for the patron before it became one",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "แผ่นหนัง (พาร์ชเมนต์)",
+   "as_th": ""
   },
   {
    "to": "inscribing",
    "type": "practice",
    "name": "Inscribing",
    "as": "the practice at the centre of it — in this tradition, writing is the power",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การลงอักขระ",
+   "as_th": ""
   },
   {
    "to": "coptic-cross-tattoo",
    "type": "amulet",
    "name": "Coptic cross tattoo",
    "as": "the neighbouring African Christian mark, made by a tattooist rather than a cleric",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "รอยสักกางเขนคอปติก",
+   "as_th": ""
   },
   {
    "to": "islamic-talismanic",
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "the tradition it most resembles in method — scripture written out, folded and carried — across a religious line",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "to": "jewish-practical-kabbalah",
    "type": "tradition",
    "name": "Practical Kabbalah",
    "as": "the other scriptural tradition here that writes divine names for protection, and argues about where the line is",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คับบาลาห์ภาคปฏิบัติ",
+   "as_th": ""
   },
   {
    "to": "merkato-addis",
    "type": "place",
    "name": "Merkato",
    "as": "the Addis Ababa market where church goods and scrolls change hands",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "เมอร์กาโต",
+   "as_th": ""
   },
   {
    "to": "what-this-atlas-does-not-print",
    "type": "story",
    "name": "What this atlas does not print",
    "as": "the long read behind the restriction on this page",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สิ่งที่แอตลาสนี้ไม่ตีพิมพ์",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -453,35 +473,45 @@
    "type": "amulet",
    "name": "Ethiopian talismanic scroll",
    "as": "the tradition that makes it — the dabtara's writing, and the church it sits beside without being ordained into",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "คัมภีร์ม้วนเครื่องรางเอธิโอเปีย (คิตาบ)",
+   "as_th": ""
   },
   {
    "from": "islamic-talismanic",
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "its closest method-cousin across a religious line: scripture written out, rolled, and carried against the body",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "from": "jewish-practical-kabbalah",
    "type": "tradition",
    "name": "Practical Kabbalah",
    "as": "the other scriptural tradition here that writes holy names to be carried, and argues about where the line falls",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คับบาลาห์ภาคปฏิบัติ",
+   "as_th": ""
   },
   {
    "from": "washing-off-ink",
    "type": "practice",
    "name": "Washing off the ink",
    "as": "the neighbouring tradition of written healing charms, whose relation to this practice this record does not assert",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "การล้างหมึก",
+   "as_th": ""
   },
   {
    "from": "merkato-addis",
    "type": "place",
    "name": "Merkato",
    "as": "the tradition behind that scroll: a dabtara, a hide, and a text in Ge'ez cut to one person's height",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เมอร์กาโต",
+   "as_th": ""
   }
  ]
 }

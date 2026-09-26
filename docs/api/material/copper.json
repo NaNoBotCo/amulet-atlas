@@ -13,7 +13,8 @@
    "brass",
    "copper alloy",
    "lamella"
-  ]
+  ],
+  "th": "ทองแดงและสำริด"
  },
  "region": [
   "china",
@@ -42,6 +43,9 @@
   "story": "China cast the most of it. Yansheng coins — Chinese numismatic charms — originated in the Western Han as variants of the Ban Liang and Wu Zhu cash coins, and were valuable in themselves because they were often made of copper alloys and Chinese coins were valued by their weight in bronze or brass. Supply drove the practice: temple coins were issued by Buddhist temples during the Yuan dynasty when the copper currency was scarce, or when copper production was intentionally limited by the Mongol government.\n\nThe measurements exist because these were struck to a standard. \"Laid to rest\" burial charms are bronze, 2.4 to 2.45 centimetres across and 1.3 to 1.4 millimetres thick, carrying the inscription rù tǔ wéi ān, \"to be laid to rest\", with a blank reverse. Most come from late Qing graves, and one turned up in a hoard of Northern Song coins. They are routinely left out of reference books on Chinese charms: they were placed in the mouths of the dead, and collectors find them unlucky and disturbing.\n\nIn the Sahara the metal marks a grade. The Agadez cross has two forms, and the cross-shaped tanaghilt is made of stone or copper, while talhakim are cut from platelets of copper, aluminium or other metal; the blacksmiths who make the silver ones cast by lost wax and never hammer the metal. Han China graded the same way in wire: an emperor's jade burial suit is sewn with gold, princes and marquises with silver, their children with copper, and lesser aristocrats with silk thread.\n\nMesopotamia used bronze where the stakes were highest. Pazuzu heads are chiefly terracotta but also bronze, and ritual texts from Uruk state that a woman could be given a bronze necklace or amulet of Pazuzu to protect her from miscarrying through the interference of Lamashtu. In Anatolia copper is named as an ingredient rather than a shape: the account of the eye bead gives it as \"a mixture of molten glass, iron, copper, water, and salt, ingredients that are thought to shield people from evil\".\n\nEurope's luckiest object started in bronze and only later turned to iron. In 1897 four bronze horseshoes with what are apparently nail holes were found in an Etruscan tomb dated around 400 BCE, and around 1000 CE cast bronze horseshoes with nail holes became common in Europe, with a scalloped outer rim and six nail holes; the widespread manufacture of iron horseshoes belongs to the thirteenth and fourteenth centuries. Copper's colour shows up in Egypt too, where copper pigments give faience its blue-green lustre, and copper, like lead, was imported in prosperous periods when local ores ran short.\n\n*Inference —* copper's real advantage is archaeological rather than protective. Iron was valuable and worn-out items were generally reforged and reused, which makes early iron charms hard to find; bronze was cast, buried and left. What looks like a preference for bronze in the record may be a preference for bronze in the ground.",
   "how": "Cast in a mould, or beaten into a thin sheet — a lamella — and inscribed. Roy Kotansky's corpus of inscribed protective sheets is titled Greek Magical Amulets: the inscribed gold, silver, copper and bronze lamellae, which is the shortest statement of what this metal was used for in the Greco-Roman world.",
   "today": "Copper-alloy charms are still cast and still collected, and the collecting is where the arguments are. The Chinese burial charm is the clearest case in this atlas of an object excluded from the published record for reasons that have nothing to do with the object: it is complete, dated, measured, inscribed, and left out of the reference books because of where it sat in a corpse's mouth."
+ },
+ "text_th": {
+  "what": "ทองแดงและโลหะผสมของมัน: สำริดคือทองแดงผสมดีบุก ทองเหลืองคือทองแดงผสมสังกะสี หล่อได้ รับการจารึกได้ ผุกร่อนเป็นผิวสีเขียวแล้วก็หยุด และราคาถูกพอจะทำเครื่องรางทีละหลายพันชิ้นในที่ที่เงินไม่ถูกพอ ในขณะที่เหล็กผุพังไปและตะกั่วเป็นพิษ ทองแดงส่วนใหญ่แค่นอนนิ่งอยู่ในดินและรอ"
  },
  "dating": {
   "period": "Etruscan Italy and Han China to the present",
@@ -263,63 +267,81 @@
    "type": "amulet",
    "name": "Chinese charm coin",
    "as": "the object this metal made possible in bulk: a cast coin that was never legal tender and circulated anyway",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เหรียญเครื่องรางจีน (เอี้ยนเซิ่งเฉียน)",
+   "as_th": ""
   },
   {
    "to": "tuareg-cross",
    "type": "amulet",
    "name": "Agadez cross",
    "as": "the Saharan pendant whose plainer forms are cut from copper where the silver ones are cast by lost wax",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กางเขนอากาเดซ",
+   "as_th": ""
   },
   {
    "to": "pazuzu-head",
    "type": "amulet",
    "name": "Pazuzu head",
    "as": "cast in bronze for the cases that mattered most, and prescribed by name in the Uruk texts",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เศียรปาซูซู",
+   "as_th": ""
   },
   {
    "to": "horseshoe",
    "type": "amulet",
    "name": "Horseshoe",
    "as": "bronze before it was iron: the Etruscan tomb of c. 400 BCE and the cast shoes of c. 1000 CE both predate the iron ones",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เกือกม้า",
+   "as_th": ""
   },
   {
    "to": "iron",
    "type": "material",
    "name": "Iron",
    "as": "the metal copper is always measured against, and the one that rusts and gets reforged out of the record",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เหล็ก",
+   "as_th": ""
   },
   {
    "to": "silver",
    "type": "material",
    "name": "Silver",
    "as": "the grade above it — in a Han burial suit the wire says who you were",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เงิน (โลหะเงิน)",
+   "as_th": ""
   },
   {
    "to": "lead",
    "type": "material",
    "name": "Lead",
    "as": "the other base metal beaten into inscribed sheets, used for the curses rather than the guards",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ตะกั่ว",
+   "as_th": ""
   },
   {
    "to": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "the practice that put a measured bronze disc in a dead person's mouth",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "to": "faience",
    "type": "material",
    "name": "Faience",
    "as": "where copper is a colour instead of a shape: the pigment that makes Egyptian blue-green",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เฟยองซ์ (ควอตซ์เคลือบอียิปต์)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -563,21 +585,27 @@
    "type": "motif",
    "name": "The bell",
    "as": "the metal both halves are cast in, bronze at Pompeii and brass in Seoul",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "กระดิ่ง",
+   "as_th": ""
   },
   {
    "from": "coin-square",
    "type": "motif",
    "name": "The square hole",
    "as": "the alloy that gave the charm its weight and therefore its value",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "รูสี่เหลี่ยม",
+   "as_th": ""
   },
   {
    "from": "lead",
    "type": "material",
    "name": "Lead",
    "as": "the metal the protective lamellae were beaten from, where the tablets used the cheap one",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ตะกั่ว",
+   "as_th": ""
   }
  ]
 }

@@ -12,7 +12,8 @@
    "Kapalicarsi",
    "Büyük Çarşı",
    "Covered Market, Istanbul"
-  ]
+  ],
+  "th": "แกรนด์บาซาร์ (คาปาลึชาร์ชึ)"
  },
  "region": [
   "anatolia",
@@ -32,6 +33,9 @@
   "what": "A roofed market of 61 streets and more than 4,000 shops on 30,700 square metres in the walled city of Istanbul, between the Beyazit and Nuruosmaniye mosques. Traders of one good still hold one street, the way the guilds arranged it. Two domed stone halls, the bedestens, sit at the centre; the eye beads a visitor carries out are sold in the jewellers' and souvenir lanes around them.",
   "story": "Mehmed II started it in the winter of 1455/56, months after taking Constantinople, with a building for textiles and jewels: the Cevahir Bedesten, the Bedesten of Gems, finished in the winter of 1460/61 and endowed to the waqf of Hagia Sophia. A second hall, the Sandal Bedesten, followed. Sellers filled the ground between them, and a quarter grew that did nothing but trade.\n\nBy the 17th century the shape was fixed: 67 named streets, 18 gates opened at dawn and shut at dusk, 3,000 shops plus 300 in the surrounding hans. Evliya Çelebi described it around 1638. Until the repairs that followed the 1894 earthquake there were no shops as western Europe knew them — a merchant sat on a wooden divan in a space six to eight feet wide and three to four feet deep, the precious stock kept in cabinets rather than displayed, and the day ended by drawing a drape across it.\n\nThe eye bead is the market's smallest export. In Turkey it is the nazar boncuğu; in Greece the same object is the máti. It is blue glass with white, black and yellow at the centre, a design whose written record and surviving examples run back to about 1500 BCE, and it is now, in the encyclopedia's flat phrase, a popular choice of souvenir with tourists.\n\n*Inference —* a market that concentrated one trade per street for five centuries is the reason the bead has a fixed look at all. Mass production did not flatten this design; a guild had already fixed it.",
   "today": "Employs 26,000 people and takes between 250,000 and 400,000 visitors a day. Wikipedia's account, read on 16 September 2026, states the complex opens each day except Sundays and bank holidays, from 9:00 to 19:00. This project has not read that timetable on the bazaar's own page, so no day is marked open or closed below."
+ },
+ "text_th": {
+  "what": "ตลาดมีหลังคา มี 61 ถนนและร้านค้ากว่า 4,000 ร้าน บนพื้นที่ 30,700 ตารางเมตรในเขตเมืองเก่าที่มีกำแพงล้อมของอิสตันบูล ระหว่างมัสยิดเบยาซิต (Beyazit) กับมัสยิดนูรูออสมานิเย (Nuruosmaniye) พ่อค้าสินค้าชนิดเดียวกันยังคงอยู่ถนนเดียวกัน ตามที่สมาคมช่างเคยจัดไว้ ตรงกลางมีโถงหินหลังคาโดมสองหลัง เรียกว่าเบเดสเตน (bedesten) ลูกปัดตาที่ผู้มาเยือนถือติดมือกลับไปขายอยู่ในตรอกร้านเครื่องประดับและร้านของที่ระลึกรอบ ๆ โถงนั้น"
  },
  "dating": {
   "period": "Ottoman to the present",
@@ -171,56 +175,72 @@
    "type": "amulet",
    "name": "Nazar",
    "as": "the bead this market sells by the tray, and the reason most of the world pictures the eye as blue glass",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "to": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "the sign under the glass — the same interception the Nile cut in faience, four thousand years later",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "glass",
    "type": "material",
    "name": "Glass",
    "as": "the material that made the sign cheap, and the trade that has worked it here since the bedesten was built for gems",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "แก้ว",
+   "as_th": ""
   },
   {
    "to": "evil-eye-bracelet",
    "type": "amulet",
    "name": "Evil eye bracelet",
    "as": "what the bead becomes on a string, sold at the airport as well as here",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "สร้อยข้อมือนาซาร์ (ลูกปัดตากันตาร้าย)",
+   "as_th": ""
   },
   {
    "to": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the practice under a roof, with the gates locked at night and a guild deciding who may sell",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": ""
   },
   {
    "to": "monastiraki",
    "type": "place",
    "name": "Monastiraki",
    "as": "the Athens lanes where the same bead is sold under its Greek name, máti",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โมนาสติรากิ",
+   "as_th": ""
   },
   {
    "to": "khan-el-khalili",
    "type": "place",
    "name": "Khan el-Khalili",
    "as": "the Mamluk quarter al-Ghuri rebuilt in 1511, possibly in imitation of complexes like this one",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ข่านเอลคาลีลี",
+   "as_th": ""
   },
   {
    "to": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the long read on copies and their price, which a market of 4,000 shops cannot avoid",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดของปลอม",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -313,63 +333,81 @@
    "type": "amulet",
    "name": "Evil eye bracelet",
    "as": "one place a reader can stand and see the whole price range on one street",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "สร้อยข้อมือนาซาร์ (ลูกปัดตากันตาร้าย)",
+   "as_th": ""
   },
   {
    "from": "hirz-pouch",
    "type": "amulet",
    "name": "Hirz",
    "as": "a market where the same case is sold under the Turkish name muska",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ฮิรซ์ (ตลับใส่โองการอัลกุรอาน)",
+   "as_th": ""
   },
   {
    "from": "nazar",
    "type": "amulet",
    "name": "Nazar",
    "as": "the market that sells more of these than anywhere else",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "from": "glass",
    "type": "material",
    "name": "Glass",
    "as": "the counter where the bead reaches most of its buyers now",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "แก้ว",
+   "as_th": ""
   },
   {
    "from": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the practice under a roof, with 18 gates locked at night and a guild deciding who may sell",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": "การปฏิบัตินี้ใต้หลังคา มีประตู 18 บานที่ลงกลอนตอนกลางคืน และสมาคมที่ตัดสินว่าใครขายได้"
   },
   {
    "from": "khan-el-khalili",
    "type": "place",
    "name": "Khan el-Khalili",
    "as": "the Ottoman answer to the same problem — how to roof a city's trade and lock it at night",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ข่านเอลคาลีลี",
+   "as_th": ""
   },
   {
    "from": "monastiraki",
    "type": "place",
    "name": "Monastiraki",
    "as": "the Istanbul market selling the identical bead under a Turkish name, two hours by air",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โมนาสติรากิ",
+   "as_th": ""
   },
   {
    "from": "nazar-word",
    "type": "term",
    "name": "nazar",
    "as": "the market where the word and the bead are both on every stall",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "นาซาร์",
+   "as_th": ""
   },
   {
    "from": "market-stall-sign",
    "type": "art",
    "name": "The market stall sign",
    "as": "the market that ran for four centuries with the street name as its only sign",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ป้ายแผงตลาด",
+   "as_th": "ตลาดที่ดำเนินมาสี่ศตวรรษโดยมีชื่อถนนเป็นป้ายเพียงอย่างเดียว"
   }
  ]
 }

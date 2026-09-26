@@ -9,7 +9,8 @@
    "portal tree",
    "tree pillar",
    "the tied tree"
-  ]
+  ],
+  "th": "ต้นไม้"
  },
  "region": [
   "britain-ireland",
@@ -46,6 +47,9 @@
   "story": "Scotland plants it at the gate. British folklorists of the Victorian era reported the rowan's warding of witches — Edwin Lees for the Wyre Forest in 1856, James Frazer in 1890 for Scotland, where the tree was often planted near a gate or front door, and Charles Godfrey Leland in 1891 citing the Denham Tracts collected between 1846 and 1859. A flying rowan, grown as an epiphyte in the fork of an oak or a maple from a bird-dropped seed, was held especially potent against witches and black magic. Thomas Keightley recorded that mortals could safely witness the fairy rades by placing a rowan branch over their doors. In Neo-Druidism the rowan is the portal tree, and Elen Sentier's description of it is a definition of the whole sign: \"Threshold is a place of both ingress (the way in) and egress (the way out). Rowan is a portal, threshold tree offering you the chance of 'going somewhere ... and leaving somewhere.\"\n\nJapan ties bad luck to it and walks away. When an omikuji fortune comes out badly, the custom is to fold the strip and attach it to a pine tree — or to a wall of metal wires — alongside other bad fortunes on the shrine grounds. The reason given is a pun: matsu is both pine and to wait, so the bad luck waits by the tree instead of attaching itself to the bearer. A good fortune can be tied there too, to make it work harder, or taken home.\n\nHaiti treats particular trees as the altar. Certain trees are held to have resident spirits and are used as natural altars, with different species linked to different lwa — Oyu with mango trees, Danbala with bougainvillea — and some have metal affixed to them to form shrines to Ogou, who is associated with iron and the roads. In Benin and Togo, plant material is central to building a shrine, and offerings may be given to the tree from which the material is harvested.\n\nEgypt, which had almost no trees, made a pillar out of one. Erich Neumann calls the djed a tree fetish, and points out that this matters because Egypt was primarily treeless; he suggests the myth may record the importation of trees from Syria. The Osiris story is the tree in question: a sacred tree took root and grew around the coffin at Byblos, enclosing it in its trunk, and the king had it cut down and installed as a pillar in his palace. Sidney Smith proposed in 1922 a parallel with the Assyrian sacred tree, noting the bands on both; Cohen and Kangas connect that tree to Enki and point out that the Assyrian king is shown beside the sacred tree much as the pharaoh is shown at the raising of the djed.\n\nAnd a tree can be a category rather than a plant. The Babylonian Talmud lists coral among trees, and Rashi, writing in eleventh-century France, calls it \"a type of tree that grows underwater\" — an animal filed under this sign because of its shape.\n\n*Inference —* on transmission, this atlas will say three different things in one record, because the evidence differs. Between the djed and the Assyrian sacred tree, transmission is argued by named scholars from shared features and a plausible route, and remains an argument. Between the Haitian altar tree and the West African shrine tree, the historical connection is the documented one that produced the religion itself. Between the Scottish rowan at the gate and the Japanese pine on the shrine ground, nothing at all is claimed: no source read here proposes a link, the two acts are different — one plants, the other ties — and the resemblance is the kind this project refuses to build on.",
   "how": "Planted at a threshold, tied to, cut from under rules, or carved into a pillar. Where the tree stays alive, the charm is maintained by returning to it; where it is cut, the taboo tends to follow the wood — in the Highlands no part of the rowan was to be used save the berries, except for ritual purposes.",
   "today": "The tied tree is the version most visible now. Shrine grounds in Japan carry racks of metal wire beside the pines precisely because the custom outgrew the trees, which is a small and exact record of what happens to a living sign under volume."
+ },
+ "text_th": {
+  "what": "ต้นไม้ที่ยืนอยู่ ณ ที่ของมัน นี่คือเครื่องหมายเดียวในแอตลาสที่บ่อยครั้งไม่ได้วาดเลย: เครื่องหมายคือตัวต้นไม้เอง และสิ่งที่ผู้อ่านจะสังเกตเห็นไม่ใช่งานแกะสลัก แต่เป็นสิ่งที่ผูกไว้กับต้น ปลูกไว้ข้าง ๆ หรือตัดมาจากต้นนั้น"
  },
  "dating": {
   "period": "New Kingdom Egypt to the present",
@@ -244,63 +248,81 @@
    "type": "amulet",
    "name": "Rowan cross",
    "as": "the charm cut from the tree at the gate, which is this sign reduced to two sticks and a thread",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กางเขนไม้โรวัน",
+   "as_th": ""
   },
   {
    "to": "omikuji",
    "type": "amulet",
    "name": "Omikuji",
    "as": "the paper fortune that ends its life knotted to a pine, on a pun between the tree and the verb to wait",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "โอมิกุจิ (ใบเซียมซีญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "djed-pillar",
    "type": "amulet",
    "name": "Djed pillar",
    "as": "the sign as a pillar: Neumann's tree fetish, in a country that had to import its timber",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เสาเจด",
+   "as_th": ""
   },
   {
    "to": "wood",
    "type": "material",
    "name": "Wood",
    "as": "the same thing felled — where the tree becomes a material and the rules about which parts may be cut begin",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ไม้",
+   "as_th": ""
   },
   {
    "to": "coral",
    "type": "material",
    "name": "Red coral",
    "as": "the sea animal the Talmud files among trees, and Rashi calls a tree that grows underwater",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ปะการังแดง",
+   "as_th": ""
   },
   {
    "to": "lungta-flag",
    "type": "amulet",
    "name": "Lung ta prayer flag",
    "as": "cloth strung between high points, doing at a mountain pass what the tied fortune does at a pine",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ธงลุงตา (ธงมนต์ม้าลม)",
+   "as_th": ""
   },
   {
    "to": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "the practice the rowan belongs to: the sign is placed at the threshold, not worn",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "to": "seed",
    "type": "material",
    "name": "Seed and nut",
    "as": "how a flying rowan gets into the fork of an oak — the potency came from a bird's droppings",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เมล็ดพืชและลูกเปลือกแข็ง",
+   "as_th": ""
   },
   {
    "to": "the-eye-everywhere",
    "type": "story",
    "name": "The eye everywhere",
    "as": "the long read on signs that recur across unrelated traditions, which this record answers with three different verdicts",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ดวงตาทุกหนแห่ง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -477,42 +499,54 @@
    "type": "amulet",
    "name": "Akua'ba",
    "as": "the sign behind the material — a figure cut from a living thing and then washed and kept like one",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "อาคัวบา (ตุ๊กตาไม้ของชาวอาคาน)",
+   "as_th": ""
   },
   {
    "from": "hex-sign",
    "type": "amulet",
    "name": "Hex sign",
    "as": "one of the designs by name — the tree of life is a standard theme on the commercial signs",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เฮ็กซ์ไซน์ (ป้ายดาวบนโรงนา)",
+   "as_th": ""
   },
   {
    "from": "rowan-cross",
    "type": "amulet",
    "name": "Rowan cross",
    "as": "the sign behind it: this is the one British charm whose power is attributed to a named species and not to a shape",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "กางเขนไม้โรวัน",
+   "as_th": ""
   },
   {
    "from": "rudraksha",
    "type": "amulet",
    "name": "Rudraksha",
    "as": "the sign behind the object — this bead is the one amulet in the atlas that is simply a tree's fruit, named for a god's eye",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "รุทรากษ์",
+   "as_th": ""
   },
   {
    "from": "serpent",
    "type": "motif",
    "name": "The serpent",
    "as": "the snake is almost always coiled around one — Eden, the Hesperides, Yggdrasil, the Bodhi tree",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "งู",
+   "as_th": "งูแทบจะพันอยู่รอบต้นไม้เสมอ — สวนเอเดน สวนเฮสเพอริดีส อิกดราซิล (Yggdrasil) ต้นโพธิ์"
   },
   {
    "from": "wood",
    "type": "material",
    "name": "Wood",
    "as": "the standing version of the same material, where the charm is the tree and not the plank",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ไม้",
+   "as_th": ""
   }
  ]
 }

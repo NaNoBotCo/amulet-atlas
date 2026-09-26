@@ -7,7 +7,12 @@
   "native": "taonga",
   "lang": "mi",
   "said": "TAH-ong-a",
-  "aliases": ["taonga", "Māori treasures", "taonga tūturu"]
+  "aliases": [
+   "taonga",
+   "Māori treasures",
+   "taonga tūturu"
+  ],
+  "th": "ตาองกาเมารี"
  },
  "etymology": {
   "root": "Māori taonga, a treasure; taonga tūturu, in New Zealand law, an object relating to Māori culture, history or society, made or modified in New Zealand by Māori, brought into New Zealand by Māori or used by Māori, and more than 50 years old",
@@ -15,14 +20,31 @@
   "tier": "cited",
   "source": "s:web-lawofart-protected-objects"
  },
- "region": ["aotearoa", "pacific"],
- "countries": ["NZ"],
- "facets": {"era": "living", "status": "living", "restricted": "limited", "language": "te reo Māori", "hemisphere": ["S", "E"]},
+ "region": [
+  "aotearoa",
+  "pacific"
+ ],
+ "countries": [
+  "NZ"
+ ],
+ "facets": {
+  "era": "living",
+  "status": "living",
+  "restricted": "limited",
+  "language": "te reo Māori",
+  "hemisphere": [
+   "S",
+   "E"
+  ]
+ },
  "text": {
   "what": "Treasures with whakapapa. A hei-tiki, a hei matau, an adze reworked into a pendant, a cloak, a carving: Te Papa's own description of taonga Māori covers ancestral carvings, personal ornaments, garments and weaponry, alongside archaeological material and contemporary Māori visual culture. The atlas files these here rather than under charms because the tradition's own account of what they do is about descent and relationship, not about luck. This record uses the tradition's words.",
   "story": "Start with what mana is and where it comes from, because that is the whole difference. Pounamu taonga increase in mana as they pass from one generation to another; the stone is held to absorb the mana of its past owners, and some heirloom pieces are named after a former owner in memory of their position and authority. The most prized taonga are those with known histories running back many generations, and those are the ones given as gifts to seal important agreements. Peace between groups was cemented by exchanging carved heirlooms — a tautau pounamu, a door of greenstone — as in the saying Me tautau pounamu, kia kore ai e pakaru, ake, ake: let us conclude a peace that may never be broken, for ever and ever.\n\nDougal Austin's 2014 thesis, supervised by Peter Adds and based on Te Papa's hei-tiki collection with early-contact examples in overseas collections, locates the mana of a hei-tiki in the 'agency of prolonged ancestral use'. That is an argument about time and handling, not about design. A hei-tiki was often buried when its kaitiaki — its guardian — died, and brought out again at tangihanga.\n\nThe objects are also functional history. Adze blades of pounamu were wanted for carving wood and stayed in use after metal tools arrived; when they were no longer useful as tools they were often reworked into hei tiki and other taonga. Pounamu crafting and trade mattered to the economy of Ngāi Tahu, the South Island iwi, and production increased after their arrival in the South Island in the middle of the 18th century. There were a dozen major pounamu trails and many minor routes, walked in summer by parties of six to twelve.\n\nHow the collections were formed is part of the record and the sources state it plainly. Te Papa holds over 200 hei-tiki and the British Museum about 50; some were exchanged or gifted to Europeans at the earliest point of contact, and, in the cited account's own words, 'the majority were stolen or improperly obtained through colonial processes'.\n\nTwo frameworks now sit over that. Te Papa works on a stated principle: 'Mana Taonga is a recognition of the power of taonga to communicate deep truths about our people.' The museum describes itself as recognising the role of communities in the care and understanding of collections and taonga, and names among its aspirations 'the reconnection of people to their tribal taonga' and 'the reclamation of Māori knowledge, language, and customs'. It also runs a repatriation programme, Karanga Aotearoa. And New Zealand law protects the objects by category: under the Protected Objects Act 1975, ngā taonga tūturu are one of nine classes of protected New Zealand object, unauthorised export of a protected object without permission from the chief executive of the Ministry for Culture and Heritage is an offence carrying fines of up to $100,000 for an individual and $200,000 for a body corporate, and the chief executive must consult two or more expert examiners on an application. Ownership of all naturally occurring pounamu was returned by the Crown to Ngāi Tahu in 1997 under the Ngāi Tahu Claims Settlement.\n\nThe modern trade runs alongside all of that and is argued about by name. Most hei matau are now carved from cattle bone; carvers who work whale bone must use ancient standings, pre-existing supplies, or bone from whales that strand, since Māori have first claim under New Zealand tradition and law on part of the skeleton of a stranded whale that cannot be refloated — a very limited supply. Manufacturers in China mass-produce items resembling hei matau for the New Zealand visitor market, usually in a paste of bone and resin, and have, in the cited account's words, 'attracted criticism for their appropriation of Māori designs'. Retailers also sell tourist versions of hei-tiki in jade, other stone, plastic and other materials, and much of the 'greenstone' in souvenir shops is jade sourced overseas rather than pounamu, which occurs only in New Zealand.\n\n*Inference —* an atlas of protective objects has to say where it has put this record and why. Taonga are here because the rest of the world meets them in the same museum cases and the same shop windows as charms, and because a reader who has just seen a hei matau on a cord deserves the tradition's own account of what it is. Calling one a lucky charm would be a category error the sources do not make, and this record does not make it either.",
   "how": "Carved, worn, handed on. Traditional method on a hei-tiki: the stone is first cut in the form of a small adze, smoothed by abrasive rubbing, shaped with sticks and water, the holes bored, then polished at length, and the finished pendant suspended on a plaited cord secured by a loop and toggle. The tilt of the head on one variety comes from the properties of the stone — its hardness and value make it important to remove as little as possible. Large pounamu boulders were and still are set at the entrances to significant sites as mauri stones, and visitors are invited to rub them gently with a dry or wet hand to connect with the mana of the place.",
   "today": "Live, and worn across New Zealand society. Bone and pounamu carvings relate to Māori cultural identity for many Māori, and are popular with young New Zealanders of all backgrounds for whom they relate to a more general New Zealand identity; several Māori tribal collectives create and export jewellery and other work. Pounamu appeared at London Fashion Week in 2013 in Kiri Nathan's collection. Te Papa charges international visitors an entrance fee and admits New Zealanders free."
+ },
+ "text_th": {
+  "what": "สมบัติที่มีฟาคาปาปา (whakapapa) เฮย์ติกิ เฮย์มาเตา (hei matau) ขวานถากที่นำมาทำใหม่เป็นจี้ เสื้อคลุม งานแกะสลัก คำอธิบายตาองกาเมารีของพิพิธภัณฑ์เตปาปา (Te Papa) เองครอบคลุมงานแกะสลักของบรรพบุรุษ เครื่องประดับส่วนตัว เครื่องนุ่งห่ม และอาวุธ รวมถึงวัตถุทางโบราณคดีและวัฒนธรรมทัศนศิลป์เมารีร่วมสมัย แอตลาสนี้จัดสิ่งเหล่านี้ไว้ที่นี่แทนที่จะจัดไว้ในหมวดเครื่องราง เพราะคำอธิบายของธรรมเนียมนี้เองว่าสิ่งเหล่านี้ทำอะไร เป็นเรื่องของสายเลือดและความสัมพันธ์ ไม่ใช่เรื่องโชค บันทึกนี้ใช้ถ้อยคำของธรรมเนียมนี้เอง"
  },
  "restricted": {
   "note": "This atlas follows the tradition's own published protocols here rather than summarising or completing them. That means three specific blanks. It prints no karakia and no rite. It prints no particular taonga's whakapapa or ancestral line — those belong to the descendants and to the iwi, not to an encyclopedia. And it does not attribute protective functions to taonga that the tradition's own publications do not attribute to them; where a source states what an object stands for, this atlas quotes the source and stops. Te Papa's stated position is that communities have a role in the care and understanding of taonga and that its aspirations include the reconnection of people to their tribal taonga; that is the framework, and the atlas works inside it.",
@@ -44,49 +66,156 @@
  },
  "object": {
   "form": "pendant",
-  "materials": ["jade", "bone", "shell", "wood", "thread"],
-  "worn": ["neck", "ear", "chest"],
+  "materials": [
+   "jade",
+   "bone",
+   "shell",
+   "wood",
+   "thread"
+  ],
+  "worn": [
+   "neck",
+   "ear",
+   "chest"
+  ],
   "made_by": "Māori carvers; several artistic collectives established by Māori tribal groups now create and export work. Ownership of all naturally occurring pounamu was returned to Ngāi Tahu in 1997.",
-  "colour": ["green", "white", "grey"],
+  "colour": [
+   "green",
+   "white",
+   "grey"
+  ],
   "single_use": false,
   "source": "s:wp-pounamu",
   "note": "Pounamu is the collective term: nephrite jade in the varieties Māori classify by colour — kahurangi, īnanga, kawakawa, kōkopu, totoweka — and the translucent bowenite called tangiwai. The article notes that the alternative English names mislead: not all pounamu is jade, and 'greenstone' is a generic term for unrelated stone from many countries."
  },
  "against": [
-  {"harm": "drowning", "who": "the hei matau, which the cited account says represents the land, prosperity, fertility and safe passage over water, and marks the relationship to Tangaroa, god of the sea", "source": "s:wp-hei-matau", "tier": "cited", "note": "reported as what the object is said to represent, in the source's own framing; this is not filed here as a protective claim of the kind the rest of this atlas collects"},
-  {"harm": "infertility", "who": "the practice recorded around the hei-tiki: because of the connection with Hineteiwaiwa, goddess of childbirth, hei-tiki were often given to a woman by her husband's family if she was having trouble conceiving", "source": "s:wp-hei-tiki", "tier": "cited"}
+  {
+   "harm": "drowning",
+   "who": "the hei matau, which the cited account says represents the land, prosperity, fertility and safe passage over water, and marks the relationship to Tangaroa, god of the sea",
+   "source": "s:wp-hei-matau",
+   "tier": "cited",
+   "note": "reported as what the object is said to represent, in the source's own framing; this is not filed here as a protective claim of the kind the rest of this atlas collects"
+  },
+  {
+   "harm": "infertility",
+   "who": "the practice recorded around the hei-tiki: because of the connection with Hineteiwaiwa, goddess of childbirth, hei-tiki were often given to a woman by her husband's family if she was having trouble conceiving",
+   "source": "s:wp-hei-tiki",
+   "tier": "cited"
+  }
  ],
  "holdings": [
-  {"museum": "te-papa", "what": "over 200 hei-tiki, and the taonga Māori collections", "source": "s:wp-hei-tiki"},
-  {"museum": "british-museum", "what": "about 50 hei-tiki", "source": "s:wp-hei-tiki", "note": "the cited account states that some were exchanged or gifted at earliest contact and that the majority were stolen or improperly obtained through colonial processes"}
+  {
+   "museum": "te-papa",
+   "what": "over 200 hei-tiki, and the taonga Māori collections",
+   "source": "s:wp-hei-tiki"
+  },
+  {
+   "museum": "british-museum",
+   "what": "about 50 hei-tiki",
+   "source": "s:wp-hei-tiki",
+   "note": "the cited account states that some were exchanged or gifted at earliest contact and that the majority were stolen or improperly obtained through colonial processes"
+  }
  ],
  "kin": [
-  {"to": "hei-tiki", "as": "the taonga this record is mostly written from — a treasure whose mana comes, in Austin's phrase, from prolonged ancestral use", "rel": "carries"},
-  {"to": "hei-matau", "as": "the other one the world meets, and the one whose overseas copies the tradition has publicly objected to", "rel": "carries"},
-  {"to": "jade", "as": "the material that is not a material here: pounamu is an inheritance, occurs only in New Zealand, and has belonged to Ngāi Tahu since 1997", "rel": "material"},
-  {"to": "inheriting", "as": "the practice the word itself contains — a taonga gains mana as it passes from one generation to the next", "rel": "practice"},
-  {"to": "te-papa", "as": "the museum that states its terms out loud, holds over 200 hei-tiki, and runs the Karanga Aotearoa repatriation programme", "rel": "org"},
-  {"to": "what-this-atlas-does-not-print", "as": "the rule this record is an application of: a tradition with published protocols of its own gets followed, not summarised", "rel": "story"},
-  {"to": "who-owns-a-charm", "as": "the long read this tradition is the sharpest case in — a resin copy made offshore, a statute with a $100,000 fine, and a collection whose sources are on the record", "rel": "story"},
-  {"to": "unesco-ich", "as": "the international framework where the community-recognition clause, rather than a list, is the part that does the work here", "rel": "org"}
+  {
+   "to": "hei-tiki",
+   "as": "the taonga this record is mostly written from — a treasure whose mana comes, in Austin's phrase, from prolonged ancestral use",
+   "rel": "carries"
+  },
+  {
+   "to": "hei-matau",
+   "as": "the other one the world meets, and the one whose overseas copies the tradition has publicly objected to",
+   "rel": "carries"
+  },
+  {
+   "to": "jade",
+   "as": "the material that is not a material here: pounamu is an inheritance, occurs only in New Zealand, and has belonged to Ngāi Tahu since 1997",
+   "rel": "material"
+  },
+  {
+   "to": "inheriting",
+   "as": "the practice the word itself contains — a taonga gains mana as it passes from one generation to the next",
+   "rel": "practice"
+  },
+  {
+   "to": "te-papa",
+   "as": "the museum that states its terms out loud, holds over 200 hei-tiki, and runs the Karanga Aotearoa repatriation programme",
+   "rel": "org"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the rule this record is an application of: a tradition with published protocols of its own gets followed, not summarised",
+   "rel": "story"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read this tradition is the sharpest case in — a resin copy made offshore, a statute with a $100,000 fine, and a collection whose sources are on the record",
+   "rel": "story"
+  },
+  {
+   "to": "unesco-ich",
+   "as": "the international framework where the community-recognition clause, rather than a list, is the part that does the work here",
+   "rel": "org"
+  }
  ],
  "links": [
-  {"label": "Taonga Māori at Te Papa", "url": "https://collections.tepapa.govt.nz/topic/1702"},
-  {"label": "Pounamu — Wikipedia", "url": "https://en.wikipedia.org/wiki/Pounamu"},
-  {"label": "Exporting objects under the Protected Objects Act 1975 — Lawof.Art", "url": "https://lawof.art/2024/07/17/exporting-objects-under-the-protected-objects-act-1975/"}
+  {
+   "label": "Taonga Māori at Te Papa",
+   "url": "https://collections.tepapa.govt.nz/topic/1702"
+  },
+  {
+   "label": "Pounamu — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pounamu"
+  },
+  {
+   "label": "Exporting objects under the Protected Objects Act 1975 — Lawof.Art",
+   "url": "https://lawof.art/2024/07/17/exporting-objects-under-the-protected-objects-act-1975/"
+  }
  ],
- "sources": ["s:web-tepapa-taonga-maori", "s:wp-pounamu", "s:wp-hei-tiki", "s:wp-hei-matau", "s:wp-te-papa", "s:web-tepapa-karanga-aotearoa", "s:web-tepapa-visit", "s:web-lawofart-protected-objects", "s:wp-british-museum", "s:wp-cultural-appropriation", "s:wp-repatriation-cultural-property"],
+ "sources": [
+  "s:web-tepapa-taonga-maori",
+  "s:wp-pounamu",
+  "s:wp-hei-tiki",
+  "s:wp-hei-matau",
+  "s:wp-te-papa",
+  "s:web-tepapa-karanga-aotearoa",
+  "s:web-tepapa-visit",
+  "s:web-lawofart-protected-objects",
+  "s:wp-british-museum",
+  "s:wp-cultural-appropriation",
+  "s:wp-repatriation-cultural-property"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:web-tepapa-taonga-maori"},
+  "default": {
+   "tier": "cited",
+   "source": "s:web-tepapa-taonga-maori"
+  },
   "fields": {
-   "dating": {"tier": "cited", "source": "s:wp-pounamu", "note": "the only date the sources read here attach to the craft, flagged in the note as later than the practice rather than presented as its start"},
-   "text.story": {"tier": "cited", "source": "s:wp-pounamu", "note": "Te Papa's statements are quoted from its own page; the Protected Objects Act figures are from the cited summary of the statute; the closing paragraph is marked inference where it appears"},
-   "restricted": {"tier": "cited", "source": "s:web-tepapa-taonga-maori"},
-   "against": {"tier": "cited", "note": "only two entries, both quoting what a source says an object represents. The atlas does not extend its harm vocabulary over this tradition, because the tradition does not describe taonga in those terms."}
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-pounamu",
+    "note": "the only date the sources read here attach to the craft, flagged in the note as later than the practice rather than presented as its start"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-pounamu",
+    "note": "Te Papa's statements are quoted from its own page; the Protected Objects Act figures are from the cited summary of the statute; the closing paragraph is marked inference where it appears"
+   },
+   "restricted": {
+    "tier": "cited",
+    "source": "s:web-tepapa-taonga-maori"
+   },
+   "against": {
+    "tier": "cited",
+    "note": "only two entries, both quoting what a source says an object represents. The atlas does not extend its harm vocabulary over this tradition, because the tradition does not describe taonga in those terms."
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Hei-tiki Te Papa.jpg", "File:Pounamu hei matau.jpg"],
+ "x_commons_files": [
+  "File:Hei-tiki Te Papa.jpg",
+  "File:Pounamu hei matau.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-17"
 }

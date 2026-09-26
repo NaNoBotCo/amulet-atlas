@@ -14,7 +14,8 @@
    "blood of Isis",
    "tit",
    "Gardiner V39"
-  ]
+  ],
+  "th": "ทิเยต (เครื่องรางปมอียิปต์)"
  },
  "etymology": {
   "root": "Egyptian tjt. The sign is usually translated 'welfare' or 'life', which is close to what the ankh means.",
@@ -43,6 +44,9 @@
   "story": "The sign is older than the goddess it belongs to. An early tyet comes from a First Dynasty tomb at Helwan, dug by Zaki Saad in the 1940s; it predates the first written references to Isis, so at that point it was probably not hers. Later it attaches to her, and to the healing that is a central part of her character.\n\nAs an amulet it starts in the early New Kingdom, about 1550 BCE, with the earliest examples in the reign of Amenhotep III. From then to the end of dynastic Egypt, few people were buried without one placed inside the mummy wrappings. That is an unusually strong statement to be able to make about any amulet anywhere: not that it was common, but that its absence was rare.\n\nChapter 156 gives the words. The red jasper tyet is laid at the neck and the spell says the power of Isis will be the protection of the mummy's body, and that the amulet will drive away whoever would commit a crime against him.\n\nA second knot gets confused with this one. From the Late Period, Egyptian women wore a large knot in a mantle, and because it turns up on Hellenistic and Roman statues of Isis it picked up the name 'Isis knot' — but Robert Bianchi's 1980 paper is titled 'Not the Isis-Knot', and apart from the name the two have nothing to do with each other. Elsewhere the comparison runs the other way: the Minoan sacral knot at Knossos, a knot with a loop projecting from it, is close enough in shape that Egyptologists set the two side by side.",
   "how": "Cut from red jasper, carnelian or red glass, or moulded in faience, and placed inside the wrappings on the upper torso — Chapter 156 puts it at the neck. Egyptian funerary texts carry spells to be recited over amulets, and this one has its own.",
   "today": "Not made and not placed. The sign is in Unicode's hieroglyphic block and in every Egyptology textbook, and it sells as jewellery in Cairo and online alongside the ankh and the wedjat. As of 2026 this project has read no account of anyone using one the way Chapter 156 describes."
+ },
+ "text_th": {
+  "what": "ปมเป็นห่วง มีแขนสองข้างห้อยลงและมีหางอยู่ด้านล่าง เหมือนอังค์ที่คานขวางห้อยตกลง ตัดเป็นชิ้นเล็กและวางไว้ในผ้าห่อศพ ส่วนใหญ่ที่ลำตัวส่วนบน บทที่ 156 ของคัมภีร์ผู้ตาย (Book of the Dead) กำหนดให้วางชิ้นที่ทำจากแจสเปอร์แดงไว้ที่คอมัมมี่ ชิ้นที่หลงเหลือมาเป็นแจสเปอร์แดง คาร์เนเลียน หรือแก้วสีแดง หรือไม่ก็เฟย็องส์สีเขียว ซึ่งนักอียิปต์วิทยาตีความสีว่าหมายถึงการฟื้นคืนของชีวิต"
  },
  "dating": {
   "period": "New Kingdom to the end of dynastic Egypt",
@@ -217,56 +221,72 @@
    "type": "amulet",
    "name": "Ankh amulet",
    "as": "the sign it may share an origin with — early ankhs draw the lower bar as two loose ends of a knot, which is what this is",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เครื่องรางอังค์",
+   "as_th": ""
   },
   {
    "to": "djed-pillar",
    "type": "amulet",
    "name": "Djed pillar",
    "as": "the sign it is written beside; paired, Egyptologists read the two as the duality of life",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เสาเจด",
+   "as_th": ""
   },
   {
    "to": "knot",
    "type": "motif",
    "name": "The knot",
    "as": "the family it belongs to — a tied thing worn because it is tied",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ปม",
+   "as_th": ""
   },
   {
    "to": "heart-scarab",
    "type": "amulet",
    "name": "Heart scarab",
    "as": "the other amulet the wrappings required, one organ lower and with a spell cut on it rather than spoken over it",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สคารับหัวใจ",
+   "as_th": ""
   },
   {
    "to": "carnelian",
    "type": "material",
    "name": "Carnelian",
    "as": "the red stone that stands in for the red jasper Chapter 156 asks for",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "คาร์เนเลียน",
+   "as_th": ""
   },
   {
    "to": "knotting",
    "type": "practice",
    "name": "Knotting",
    "as": "the practice the sign is a picture of, frozen in stone",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การผูกปม",
+   "as_th": ""
   },
   {
    "to": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "the practice this amulet exists inside, and the reason so many survive",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "to": "egyptian-amulet-craft",
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "the tradition that placed it — and the one case where the tradition's own text says where on the body it goes",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -476,49 +496,63 @@
    "type": "amulet",
    "name": "Ankh amulet",
    "as": "the sign it may share an origin with — Schäfer and Fischer read both as knots of cloth, and early ankhs show the lower bar as two loose ends",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เครื่องรางอังค์",
+   "as_th": ""
   },
   {
    "from": "djed-pillar",
    "type": "amulet",
    "name": "Djed pillar",
    "as": "the sign it is regularly paired with in writing; Egyptologists read the two together as the duality of life",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เสาเจด",
+   "as_th": ""
   },
   {
    "from": "heart-scarab",
    "type": "amulet",
    "name": "Heart scarab",
    "as": "another amulet the wrappings required, placed on the upper torso rather than the heart",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สคารับหัวใจ",
+   "as_th": ""
   },
   {
    "from": "egyptian-amulet-craft",
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "the one whose placement its own text specifies, down to the stone",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   },
   {
    "from": "knot",
    "type": "motif",
    "name": "The knot",
    "as": "the Egyptian amulet this sign is cut as, in red jasper at the mummy's neck",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ปม",
+   "as_th": ""
   },
   {
    "from": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "in the wrappings on the upper torso from Amenhotep III to the end of dynastic Egypt",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "from": "knotting",
    "type": "practice",
    "name": "Knotting",
    "as": "the knot cut in stone: Egypt's version, tied by a carver rather than by hand",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การผูกปม",
+   "as_th": ""
   }
  ]
 }

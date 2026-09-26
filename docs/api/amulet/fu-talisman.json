@@ -14,7 +14,8 @@
    "符箓",
    "talismanic script",
    "Taoist talisman"
-  ]
+  ],
+  "th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)"
  },
  "etymology": {
   "root": "Chinese 符 fú — instructions for deities and spirits, symbols for exorcism, and recipes for potions or charms used to treat ailments — with 籙 lù, a registry of the memberships of priests that also lists the skills they are trained in",
@@ -44,6 +45,9 @@
   "story": "The illegibility is the design, and it has a history. Yang Zhaohua notes that a number of the earliest known Taoist talismans were simple and legible, and that later examples became deliberately cryptic in order to signal their divinity. James Robson and Gil Raz have argued that the incomprehensibility of the written forms is central to a talisman's perceived authority and efficacy, and is one of talismanic script's defining features. By the Eastern Jin dynasty, 317 to 420, it was already held unnecessary for a user to be able to decipher the writing: Ge Hong wrote in the Baopuzi that as long as the inscription was correct, use did not depend on the user reading it. Ge Zhaoguang, of Fudan University, calls the unreadability a kind of linguistic archaism, built to be incomprehensible — \"a veil of unfathomable otherwordliness\" that lets only a small number of qualified clergy produce them properly.\n\nThe writing has been medicine for as long as it has been anything. Known in medical writings as zhuyou, the use of talismans ran alongside drugs, meditation, acupuncture, astrology and massage; the Way of the Taiping was healing patients with it at least as far back as the Eastern Han. Zhuyou held official support from the Sui to the late Ming, and declined when acupuncture was recognised by the imperial court as a medical discipline in the sixth century. It is rejected by traditional Chinese medicine and still widely used by folk healers, and in the twentieth century, as Western psychology arrived, it began to be read as a Chinese counterpart of hypnosis.\n\nThe script also travelled. Fulu are not confined to Taoism: they were taken into several forms of Chinese Buddhism, and they lie behind the ofuda used in Japanese Buddhism and Shinto and the bujeok of Korean shamanism. On coins, fulu usually open and close the inscription of a Taoist coin charm, and most of those charms ask Lei Gong, the god of thunder, to protect the carrier from evil spirits and misfortune. Many coin talismans in the script have not been deciphered; in one specimen talismanic script was written side by side with Chinese characters that may be its gloss.\n\nThe Daozang records the fulu sect's history in the second chapter of each of its three grottoes, where fulu are said to originate in the condensation of clouds in the sky.",
   "how": "Written by a priest of the fulu pai, an informal grouping of priests from different schools of Taoism. The way of writing the characters is passed down in secret from a Taoist priest to their disciples and treated as a special craft for communicating with local deities and spirits; style, incantations and the mudras used in making them differ from sect to sect, and even the invocations for a single deity vary. This atlas prints that and no script.",
   "today": "Still written. Zhuyou continues to be widely used among Chinese folk healers, and paper talismans are issued at temples across the Chinese-speaking world — the Taiwanese peace charm is the everyday form. Whether a talisman works has never been the question a priest is asked; the question is who wrote it."
+ },
+ "text_th": {
+  "what": "แผ่นหนึ่ง ส่วนใหญ่เป็นกระดาษ บางครั้งเป็นผ้า บางครั้งเป็นหน้าเหรียญ เขียนทับด้วยอักษรที่ไม่ได้ตั้งใจให้ใครอ่านออก ลายเส้นไม่สม่ำเสมอและคล้ายอักษรจีน มักยืดคำที่มีอยู่จริงจนผิดรูป และผสมเครื่องหมายที่ไม่ใช่อักษรเลย นักบวชเต๋าเป็นผู้ตีความอักษรนี้เป็นหลัก และอักษรต่างกันไปตามแต่ละสำนัก"
  },
  "restricted": {
   "note": "How the characters of talismanic script are written is passed from a Taoist priest to their disciples in secret, and differs from sect to sect. This atlas describes what the writing looks like and what scholars say about its illegibility, and does not reproduce a talisman or a method for drawing one.",
@@ -229,70 +233,90 @@
    "type": "amulet",
    "name": "Ping'an fu",
    "as": "the everyday form: this script folded into yellow paper, sleeved in red and issued at a Taiwanese temple",
-   "rel": "part"
+   "rel": "part",
+   "name_th": "ผิงอันฝู (ยันต์ขอความสงบสุข)",
+   "as_th": ""
   },
   {
    "to": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "the tradition of the priesthood that writes it and holds the script",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "the Japanese descendant — the same idea of a written slip from a shrine, reached through this script",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "bujeok",
    "type": "amulet",
    "name": "Bujeok",
    "as": "the Korean descendant, taken up by Korean shamanism",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "to": "charm-coin",
    "type": "amulet",
    "name": "Chinese charm coin",
    "as": "where the script goes when it is cast in bronze: fulu open and close the inscription of a Taoist coin charm",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เหรียญเครื่องรางจีน (เอี้ยนเซิ่งเฉียน)",
+   "as_th": ""
   },
   {
    "to": "fu-word",
    "type": "term",
    "name": "fu",
    "as": "the word, and the two different fu it keeps getting confused between — the tally and the fortune",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "ฝู (福)",
+   "as_th": ""
   },
   {
    "to": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "the sign family it belongs to: writing that acts because of whose name it is, not because of what it says",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "พระนาม",
+   "as_th": ""
   },
   {
    "to": "inscribing",
    "type": "practice",
    "name": "Inscribing",
    "as": "the practice itself, taught privately and differing by sect",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การลงอักขระ",
+   "as_th": ""
   },
   {
    "to": "bagua-mirror",
    "type": "amulet",
    "name": "Bagua mirror",
    "as": "the other Taoist fixture at a doorway, working by reflection where this works by writing",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กระจกปากั้ว (กระจกแปดทิศ)",
+   "as_th": ""
   },
   {
    "to": "the-drawn-signs",
    "type": "art",
    "name": "The drawn signs",
    "as": "the long read on signs made to be looked at rather than read",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "ภาพสัญลักษณ์ลายเส้น",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -481,84 +505,108 @@
    "type": "amulet",
    "name": "Bagua mirror",
    "as": "the written remedy at the same doorway, where this is the optical one",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กระจกปากั้ว (กระจกแปดทิศ)",
+   "as_th": ""
   },
   {
    "from": "bujeok",
    "type": "amulet",
    "name": "Bujeok",
    "as": "the Chinese Daoist ancestor — the same illegible-on-purpose script, one border north",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "from": "charm-coin",
    "type": "amulet",
    "name": "Chinese charm coin",
    "as": "the writing cast into the Taoist ones — fulu open and close their inscriptions",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เหรียญเครื่องรางจีน (เอี้ยนเซิ่งเฉียน)",
+   "as_th": ""
   },
   {
    "from": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "the Chinese ancestor: the Daoist talismanic sheet that reached Japan through Onmyōdō and set the form",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "ping-an-fu",
    "type": "amulet",
    "name": "Ping'an fu",
    "as": "the class it belongs to — this is the ordinary, household end of Taoist talismanic writing",
-   "rel": "whole"
+   "rel": "whole",
+   "name_th": "ผิงอันฝู (ยันต์ขอความสงบสุข)",
+   "as_th": ""
   },
   {
    "from": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "the object itself: the priest's written slip, and the reason this record prints no script",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "coin-square",
    "type": "motif",
    "name": "The square hole",
    "as": "the drawn Taoist talisman; some coin charms are cast as imperial decrees in the same voice",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "รูสี่เหลี่ยม",
+   "as_th": ""
   },
   {
    "from": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "the Taoist sheet whose script is meant not to be legible",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "พระนาม",
+   "as_th": ""
   },
   {
    "from": "ink",
    "type": "material",
    "name": "Ink",
    "as": "the Taoist charm whose script is deliberately unreadable, and whose authority rests on that",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "หมึก",
+   "as_th": "ยันต์เต๋าที่อักษรจงใจทำให้อ่านไม่ออก และอำนาจของมันตั้งอยู่บนสิ่งนั้น"
   },
   {
    "from": "paper",
    "type": "material",
    "name": "Paper",
    "as": "the Taoist written charm this whole family descends from",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กระดาษ",
+   "as_th": ""
   },
   {
    "from": "inscribing",
    "type": "practice",
    "name": "Inscribing",
    "as": "writing built to be unreadable, which is the point its own scholars make about it",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การลงอักขระ",
+   "as_th": "ตัวเขียนที่สร้างขึ้นให้อ่านไม่ออก ซึ่งคือประเด็นที่นักวิชาการของมันเองชี้ไว้"
   },
   {
    "from": "fu-word",
    "type": "term",
    "name": "fu",
    "as": "the object the second character names: the drawn Taoist talisman, written by a priest",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ฝู (福)",
+   "as_th": ""
   }
  ]
 }

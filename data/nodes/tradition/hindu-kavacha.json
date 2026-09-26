@@ -8,7 +8,14 @@
   "script": "Devanagari",
   "lang": "sa",
   "said": "KA-va-cha",
-  "aliases": ["kavaca", "kavacham", "kavach", "armour hymn", "Hindu protective amulet craft"]
+  "aliases": [
+   "kavaca",
+   "kavacham",
+   "kavach",
+   "armour hymn",
+   "Hindu protective amulet craft"
+  ],
+  "th": "กวจะ (เกราะคุ้มครองในคติฮินดู)"
  },
  "etymology": {
   "root": "Sanskrit kavaca, 'armour, coat of mail'",
@@ -16,14 +23,32 @@
   "tier": "cited",
   "source": "s:web-wisdomlib-kavaca"
  },
- "region": ["south-asia"],
- "countries": ["IN", "NP", "LK"],
- "facets": {"era": "medieval", "status": "living", "language": "Sanskrit", "restricted": "open", "hemisphere": ["N", "E"]},
+ "region": [
+  "south-asia"
+ ],
+ "countries": [
+  "IN",
+  "NP",
+  "LK"
+ ],
+ "facets": {
+  "era": "medieval",
+  "status": "living",
+  "language": "Sanskrit",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "A family of practice in which protection is armour, said or worn. A kavacha is first a hymn that covers the body part by part, naming a deity for each; it is also the written text carried on the person, and by extension the whole class of South Asian objects worn or hung because a text, a horoscope or a household rule says to. Its objects are a seed bead, nine graded stones, a diagram engraved on copper, a cylinder of folded paper on a thread, and a lime with seven chillies at a doorstep.",
   "story": "The armour is a recitation before it is a thing. The Devi Kavacham runs to 61 slokas and sits in the Markandeya Purana; it is one of the subsidiary texts recited before the Devi Mahatmya, and what it claims is exactly the shape of armour — that the Kavacham protects the reader in all parts of the body, in all places and in all difficulties. The Devi Mahatmya is generally dated 400 to 600 CE, around 550 by Wendy Doniger O'Flaherty, and before the seventh century on the evidence of the Dadhimati Mata inscription of 608 CE.\n\nThe word then walks out of the text and onto the body. In Tantric practice kavaca is one of the six limbs into which a deity's mantra is divided, alongside the heart, the head and the topknot — the armour syllable. In the Pancharatra, the Jñānāmṛtasārasaṃhita speaks of amulets, kavaca, worn as a necklace and holding mantras. Monier-Williams records the object plainly: bark, birch-leaf or any substance inscribed with mystical words and carried about. The Jain Jñānārṇava, of the eleventh century, keeps the metaphor without the object: like the hero well-clad in armour, who is not pierced by arrows.\n\n*Inference —* that is why this atlas files a seed, a ring, a plate and a lime under one head. They do not share a material, a maker or a price. They share a grammar: something is put between a person and what is coming, and a named authority — a text, an astrologer, a priest, a mother — says which something.\n\nThe authorities differ by object, and so does who may act. A yantra is consecrated and energised by a priest with the mantras of its deity, and practitioners hold that an unenergised one is lifeless. A navaratna is prescribed from a sidereal horoscope, and the tradition says to consult an astrologer before wearing one. A rudraksha needs nobody: it is strung and worn, and the texts promise merit rather than permission. The lime and chillies at a shop door need nobody either, and are hung by whoever opens the shop.\n\nThe tradition also borrows. A tawiz worn by Hindus often carries the Om sign instead of a Qur'anic verse — the Islamic container with the writing changed.",
   "how": "Recited, prescribed, consecrated, or simply hung. At the formal end, a priest energises the object with the mantra of a deity and the object stands in for that deity; at the astrological end, a specialist reads a chart and names a stone and its weight; at the household end, nobody is consulted at all.",
   "today": "Live at every level as of 2026: temple shops selling engraved copper plates and printed yantras, jewellers cutting navaratna to an astrologer's list, seed malas grown as a crop in Nepal and India, and limes and chillies at shop doors from Delhi to Karachi."
+ },
+ "text_th": {
+  "what": "ตระกูลการปฏิบัติที่การคุ้มครองคือเกราะ ทั้งที่สวดและที่สวมใส่ กวจะเป็นบทสวดก่อนอื่น ครอบคลุมร่างกายทีละส่วน โดยเอ่ยนามเทพองค์หนึ่งสำหรับแต่ละส่วน กวจะยังเป็นตัวบทที่เขียนไว้แล้วพกติดตัว และโดยขยายความ หมายถึงวัตถุทั้งหมวดในเอเชียใต้ที่สวมหรือแขวนเพราะตัวบท ดวงชะตา หรือกฎของครัวเรือนบอกให้ทำ วัตถุของธรรมเนียมนี้คือ ลูกปัดเมล็ดพืช หินเก้าชนิดที่คัดระดับ ยันต์ที่สลักบนแผ่นทองแดง กระดาษพับม้วนเป็นกระบอกร้อยด้าย และมะนาวกับพริกเจ็ดเม็ดที่ธรณีประตู"
  },
  "dating": {
   "period": "Puranic to the present",
@@ -38,33 +63,117 @@
   "note": "Dated from the Devi Mahatmya, generally put at 400–600 CE, with which the Devi Kavacham is recited; that is the earliest dated text read here that uses kavacha in this sense. The dictionary senses and the Pancharatra passage are undated in the sources read, and the practice is certainly older than this bar."
  },
  "against": [
-  {"harm": "bad-luck", "who": "the Devi Kavacham itself, which is said to protect the reader in all parts of the body, in all places and in all difficulties", "source": "s:wp-devi-mahatmya", "tier": "cited"},
-  {"harm": "evil-eye", "who": "households in North India and Pakistan, at the folk end of the same tradition, where nazar is the harm and a lime and seven chillies the answer", "source": "s:wp-nazar-battu", "tier": "cited"},
-  {"harm": "illness", "who": "users of occult yantras, for whom they serve as preventative medicine", "source": "s:wp-yantra", "tier": "cited"},
-  {"harm": "demons", "who": "Sri Suta Goswami in the Garuda Purana, on flawless gems", "source": "s:wp-navaratna", "tier": "cited"}
+  {
+   "harm": "bad-luck",
+   "who": "the Devi Kavacham itself, which is said to protect the reader in all parts of the body, in all places and in all difficulties",
+   "source": "s:wp-devi-mahatmya",
+   "tier": "cited"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "households in North India and Pakistan, at the folk end of the same tradition, where nazar is the harm and a lime and seven chillies the answer",
+   "source": "s:wp-nazar-battu",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "users of occult yantras, for whom they serve as preventative medicine",
+   "source": "s:wp-yantra",
+   "tier": "cited"
+  },
+  {
+   "harm": "demons",
+   "who": "Sri Suta Goswami in the Garuda Purana, on flawless gems",
+   "source": "s:wp-navaratna",
+   "tier": "cited"
+  }
  ],
  "kin": [
-  {"to": "rudraksha", "as": "the tradition's cheapest object and its most worn: a seed anybody may string, with no specialist between wearer and bead", "rel": "carries"},
-  {"to": "navaratna-ring", "as": "its most expensive: nine graded stones set to an astrologer's reading of one person's chart", "rel": "carries"},
-  {"to": "yantra-plate", "as": "its drawn form, and the one that needs a priest to be anything at all", "rel": "carries"},
-  {"to": "nimbu-mirchi", "as": "its household end — no text, no specialist, a lime at a doorstep", "rel": "carries"},
-  {"to": "tabiz", "as": "the Muslim neighbour it shares streets and shapes with, and which Hindu wearers borrow with the writing changed to Om", "rel": "kin"},
-  {"to": "sak-yant", "as": "what the drawn diagram became in mainland Southeast Asia — Indian yantras taken into a tattooing practice with its own rules", "rel": "descendant"},
-  {"to": "counting-beads", "as": "the practice that turns a string into an instrument: 108 and one", "rel": "practice"},
-  {"to": "consecration", "as": "the step that separates this tradition's formal objects from its household ones", "rel": "practice"},
-  {"to": "tibetan-protection", "as": "the northern neighbour that took the same diagrams and mantras and put them inside sealed boxes", "rel": "parallel"},
-  {"to": "kathmandu-thamel", "as": "the Himalayan street where the tradition's beads and plates reach buyers from outside it", "rel": "place"}
+  {
+   "to": "rudraksha",
+   "as": "the tradition's cheapest object and its most worn: a seed anybody may string, with no specialist between wearer and bead",
+   "rel": "carries"
+  },
+  {
+   "to": "navaratna-ring",
+   "as": "its most expensive: nine graded stones set to an astrologer's reading of one person's chart",
+   "rel": "carries"
+  },
+  {
+   "to": "yantra-plate",
+   "as": "its drawn form, and the one that needs a priest to be anything at all",
+   "rel": "carries"
+  },
+  {
+   "to": "nimbu-mirchi",
+   "as": "its household end — no text, no specialist, a lime at a doorstep",
+   "rel": "carries"
+  },
+  {
+   "to": "tabiz",
+   "as": "the Muslim neighbour it shares streets and shapes with, and which Hindu wearers borrow with the writing changed to Om",
+   "rel": "kin"
+  },
+  {
+   "to": "sak-yant",
+   "as": "what the drawn diagram became in mainland Southeast Asia — Indian yantras taken into a tattooing practice with its own rules",
+   "rel": "descendant"
+  },
+  {
+   "to": "counting-beads",
+   "as": "the practice that turns a string into an instrument: 108 and one",
+   "rel": "practice"
+  },
+  {
+   "to": "consecration",
+   "as": "the step that separates this tradition's formal objects from its household ones",
+   "rel": "practice"
+  },
+  {
+   "to": "tibetan-protection",
+   "as": "the northern neighbour that took the same diagrams and mantras and put them inside sealed boxes",
+   "rel": "parallel"
+  },
+  {
+   "to": "kathmandu-thamel",
+   "as": "the Himalayan street where the tradition's beads and plates reach buyers from outside it",
+   "rel": "place"
+  }
  ],
  "links": [
-  {"label": "Kavaca, Kavacha: 27 definitions — Wisdom Library", "url": "https://www.wisdomlib.org/definition/kavaca"},
-  {"label": "Devi Mahatmya — Wikipedia", "url": "https://en.wikipedia.org/wiki/Devi_Mahatmya"}
+  {
+   "label": "Kavaca, Kavacha: 27 definitions — Wisdom Library",
+   "url": "https://www.wisdomlib.org/definition/kavaca"
+  },
+  {
+   "label": "Devi Mahatmya — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Devi_Mahatmya"
+  }
  ],
- "sources": ["s:web-wisdomlib-kavaca", "s:wp-devi-mahatmya", "s:wp-yantra", "s:wp-navaratna", "s:wp-rudraksha", "s:wp-nazar-battu", "s:wp-amulet"],
+ "sources": [
+  "s:web-wisdomlib-kavaca",
+  "s:wp-devi-mahatmya",
+  "s:wp-yantra",
+  "s:wp-navaratna",
+  "s:wp-rudraksha",
+  "s:wp-nazar-battu",
+  "s:wp-amulet"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:web-wisdomlib-kavaca"},
+  "default": {
+   "tier": "cited",
+   "source": "s:web-wisdomlib-kavaca"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:wp-devi-mahatmya", "note": "the paragraph explaining why four unlike objects sit under one head is marked as this project's inference where it appears"},
-   "text.today": {"tier": "inference", "note": "the present-day picture is assembled from the object records' own sources, not from a survey of the trade"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-devi-mahatmya",
+    "note": "the paragraph explaining why four unlike objects sit under one head is marked as this project's inference where it appears"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "the present-day picture is assembled from the object records' own sources, not from a survey of the trade"
+   }
   }
  },
  "images": [],

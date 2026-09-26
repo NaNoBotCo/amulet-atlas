@@ -8,15 +8,32 @@
   "script": "Han",
   "lang": "ja",
   "said": "SEN-soh-jee",
-  "aliases": ["Asakusa Kannon", "Kinryū-zan Sensō-ji"]
+  "aliases": [
+   "Asakusa Kannon",
+   "Kinryū-zan Sensō-ji"
+  ],
+  "th": "วัดเซนโซจิ"
  },
- "region": ["japan"],
- "countries": ["JP"],
- "facets": {"kind": "shrine", "hemisphere": ["N", "E"]},
+ "region": [
+  "japan"
+ ],
+ "countries": [
+  "JP"
+ ],
+ "facets": {
+  "kind": "shrine",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "Tokyo's oldest-established Buddhist temple, in Asakusa, dedicated to Kannon, the bodhisattva of compassion. You reach the main hall through two gates and a shopping street: the Kaminarimon with its 700-kilogram red lantern, then Nakamise-dōri, 250 metres and about 72 shops, then the Hōzōmon. Omikuji stalls stand inside the precinct and along the approach — shake a numbered stick from a metal canister, read the answer out of one of a hundred drawers.",
   "story": "The temple's origin story is a statue in a net: in 628 two brothers fishing the Sumida pulled up an image of Kannon, and the village headman turned his house into a temple for it. The first documented mention is later, in the Kamakura-period Azuma Kagami, which has Asakusa carpenters called to Kamakura in 1181. Tokugawa Ieyasu made it an official place of prayer for the shogunate in 1590.\n\nThe shops came with permission. In 1685 the temple licensed businesses on the main approach in exchange for their cleaning the grounds, and Nakamise has been a selling street ever since — cleared by government order in May 1885, rebuilt in brick that December, flattened by the 1923 earthquake, rebuilt in concrete in 1925, burnt out in the firebombing of 10 March 1945. The main hall went in that raid too and was rebuilt between 1951 and 1958, now under a titanium roof.\n\nThe temple is the 13th stop on the Bandō Sanjūsankasho pilgrimage route and the most visited religious site in the world, at over 30 million people a year. For a suggested donation of 100 yen a visitor may consult the omikuji oracle.\n\n*Tradition holds —* the shops on a temple approach are not a later commercial layer but a continuous trade in selling to pilgrims who walked here, which is the encyclopedia's own framing of Nakamise.",
   "today": "Open, with the Nakamise shops on the approach and the omikuji stalls in use. This project has not read the temple's published timetable, so no day is marked open or closed below."
+ },
+ "text_th": {
+  "what": "วัดพุทธที่เก่าแก่ที่สุดของโตเกียว ในย่านอาซากุซะ อุทิศแด่พระโพธิสัตว์กวนอิม (คันนง) พระโพธิสัตว์แห่งความกรุณา เข้าถึงวิหารหลักผ่านประตูสองชั้นและถนนร้านค้าหนึ่งสาย: ประตูคามินาริมงพร้อมโคมแดงหนัก 700 กิโลกรัม จากนั้นถนนนากามิเซะ ยาว 250 เมตร มีร้านค้าราว 72 ร้าน แล้วจึงประตูโฮโซมง แผงเซียมซีโอมิกุจิตั้งอยู่ภายในเขตวัดและตามทางเข้า — เขย่ากระบอกโลหะให้ไม้เลขหล่นออกมา แล้วอ่านคำตอบจากลิ้นชักหนึ่งในร้อยลิ้นชัก"
  },
  "dating": {
   "period": "Asuka to the present",
@@ -30,8 +47,18 @@
   "source": "s:wp-sens-ji",
   "note": "628 is the legendary foundation; the first documented reference is the Kamakura-period Azuma Kagami, for 1181."
  },
- "geo": {"lat": 35.71472, "lon": 139.79675, "precision": "exact", "source": "the coordinate published in the English Wikipedia article Sensō-ji, read 2026-09-16"},
- "address": {"street": "Nakamise-dōri, Asakusa", "city": "Tokyo", "admin": "Taitō", "country": "JP"},
+ "geo": {
+  "lat": 35.71472,
+  "lon": 139.79675,
+  "precision": "exact",
+  "source": "the coordinate published in the English Wikipedia article Sensō-ji, read 2026-09-16"
+ },
+ "address": {
+  "street": "Nakamise-dōri, Asakusa",
+  "city": "Tokyo",
+  "admin": "Taitō",
+  "country": "JP"
+ },
  "restricted": {
   "note": "The temple's principal image of Kannon is a hibutsu — a hidden Buddha, never shown to the public. Accounts give it as gold and about 5.5 centimetres high, and say its true details are unknown. This atlas prints the restriction and stops there.",
   "who_says": "Sensō-ji's own practice, as recorded in the encyclopedia article on the temple",
@@ -39,30 +66,95 @@
   "url": "https://en.wikipedia.org/wiki/Sens%C5%8D-ji"
  },
  "kin": [
-  {"to": "omikuji", "as": "the drawn fortune, at 100 yen suggested and a hundred possible drawers, taken at stalls inside this precinct", "rel": "carries"},
-  {"to": "omamori", "as": "the packet a temple or shrine issues; Nakamise is the selling street that grew on this approach in 1685", "rel": "carries"},
-  {"to": "ofuda", "as": "the tablet carried home from a temple like this one to the household shelf", "rel": "carries"},
-  {"to": "daruma", "as": "the round vow-doll of Japan's market fairs, kin of what the approach's shops have always sold", "rel": "parallel"},
-  {"to": "japanese-engimono", "as": "the tradition of luck objects this approach trades in", "rel": "tradition"},
-  {"to": "buying-in-a-market", "as": "the practice, licensed by the temple in 1685 in exchange for sweeping the grounds", "rel": "practice"},
-  {"to": "fushimi-inari", "as": "the Kyoto shrine at the other scale — a mountain of donated gates instead of a street of shops", "rel": "parallel"},
-  {"to": "market-stall-sign", "as": "the drawn signage of a selling street, which Nakamise has carried through four rebuildings", "rel": "art"}
+  {
+   "to": "omikuji",
+   "as": "the drawn fortune, at 100 yen suggested and a hundred possible drawers, taken at stalls inside this precinct",
+   "rel": "carries"
+  },
+  {
+   "to": "omamori",
+   "as": "the packet a temple or shrine issues; Nakamise is the selling street that grew on this approach in 1685",
+   "rel": "carries"
+  },
+  {
+   "to": "ofuda",
+   "as": "the tablet carried home from a temple like this one to the household shelf",
+   "rel": "carries"
+  },
+  {
+   "to": "daruma",
+   "as": "the round vow-doll of Japan's market fairs, kin of what the approach's shops have always sold",
+   "rel": "parallel"
+  },
+  {
+   "to": "japanese-engimono",
+   "as": "the tradition of luck objects this approach trades in",
+   "rel": "tradition"
+  },
+  {
+   "to": "buying-in-a-market",
+   "as": "the practice, licensed by the temple in 1685 in exchange for sweeping the grounds",
+   "rel": "practice"
+  },
+  {
+   "to": "fushimi-inari",
+   "as": "the Kyoto shrine at the other scale — a mountain of donated gates instead of a street of shops",
+   "rel": "parallel"
+  },
+  {
+   "to": "market-stall-sign",
+   "as": "the drawn signage of a selling street, which Nakamise has carried through four rebuildings",
+   "rel": "art"
+  }
  ],
  "tags": [
-  {"tag": "market", "source": "s:wp-sens-ji", "tier": "cited", "note": "Nakamise-dōri: about 72 shops over 250 metres on the temple approach, licensed since 1685"},
-  {"tag": "pilgrimage", "source": "s:wp-sens-ji", "tier": "cited", "note": "the 13th stop on the Bandō Sanjūsankasho route; over 30 million visitors a year"}
+  {
+   "tag": "market",
+   "source": "s:wp-sens-ji",
+   "tier": "cited",
+   "note": "Nakamise-dōri: about 72 shops over 250 metres on the temple approach, licensed since 1685"
+  },
+  {
+   "tag": "pilgrimage",
+   "source": "s:wp-sens-ji",
+   "tier": "cited",
+   "note": "the 13th stop on the Bandō Sanjūsankasho route; over 30 million visitors a year"
+  }
  ],
- "links": [{"label": "Sensō-ji — Wikipedia", "url": "https://en.wikipedia.org/wiki/Sens%C5%8D-ji"}],
- "sources": ["s:wp-sens-ji", "s:wp-o-mikuji", "s:wp-omamori", "s:wp-ofuda"],
+ "links": [
+  {
+   "label": "Sensō-ji — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sens%C5%8D-ji"
+  }
+ ],
+ "sources": [
+  "s:wp-sens-ji",
+  "s:wp-o-mikuji",
+  "s:wp-omamori",
+  "s:wp-ofuda"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-sens-ji"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-sens-ji"
+  },
   "fields": {
-   "geo": {"tier": "cited", "source": "s:wp-sens-ji", "note": "the article's own coordinate, read 2026-09-16"},
-   "text.today": {"tier": "inference", "note": "reasoned from published accounts; this project has not read the temple's own opening times"}
+   "geo": {
+    "tier": "cited",
+    "source": "s:wp-sens-ji",
+    "note": "the article's own coordinate, read 2026-09-16"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "reasoned from published accounts; this project has not read the temple's own opening times"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Kaminarimon Sensoji.jpg", "File:Nakamise-dori Asakusa.jpg"],
+ "x_commons_files": [
+  "File:Kaminarimon Sensoji.jpg",
+  "File:Nakamise-dori Asakusa.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-16"
 }

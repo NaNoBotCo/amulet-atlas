@@ -6,16 +6,29 @@
   "name": "Museum of New Zealand Te Papa Tongarewa",
   "native": "Te Papa Tongarewa",
   "lang": "mi",
-  "aliases": ["Te Papa"],
-  "sort": "Te Papa Tongarewa"
+  "aliases": [
+   "Te Papa"
+  ],
+  "sort": "Te Papa Tongarewa",
+  "th": "พิพิธภัณฑ์นิวซีแลนด์ เตปาปาตองกาเรวา"
  },
- "region": ["aotearoa", "pacific"],
- "countries": ["NZ"],
- "facets": {"kind": "museum"},
+ "region": [
+  "aotearoa",
+  "pacific"
+ ],
+ "countries": [
+  "NZ"
+ ],
+ "facets": {
+  "kind": "museum"
+ },
  "text": {
   "what": "New Zealand's national museum, in Wellington, established by the Museum of New Zealand Te Papa Tongarewa Act 1992 and opened on 14 February 1998. Te Papa is Māori for 'the treasure box'. It runs on a bicultural philosophy built into the building's design process through the Treaty of Waitangi, and it is the institution that asks other museums, worldwide, for Māori ancestral remains back.",
   "story": "Te Papa came out of a merger — the National Museum of New Zealand and the National Art Gallery, whose own line runs back to the Colonial Museum of 1865. The design process was led by Cliff Whiting with Cheryll Sotheran and Ken Gorbey and followed bicultural principles; Pete Bossley of Jasmax was the architect. The cultural collections hold Māori taonga and Pacific material alongside photography.\n\nSince 2003 the museum has run a programme requesting the return of Māori remains held in institutions around the world. The clearest case in this atlas's range is the Musée du quai Branly: initially reluctant, it was able to move after a change in French law in 2010, and the mokomokai — tattooed preserved heads — were formally returned to New Zealand on 23 January 2012. They are held at Te Papa and are not on display.\n\nThe museum also draws the line inside its own building, and the argument about that is public. In 2010 it advised pregnant and menstruating women to avoid a behind-the-scenes tour of some collections; a spokeswoman said the policy was in place because of Māori beliefs surrounding the taonga collection included in the tour, \"for their own safety\". The advice generated outrage and claims that the museum was overbearing. This atlas reports both the reason given and the objection, and adjudicates neither.",
   "today": "Entry is free for New Zealanders and NZ$35 for international visitors as of September 2024. Collections Online publishes images under two rights statements, named on the museum's own page: some images are openly available with no restrictions on reuse, and others carry a Creative Commons Attribution – Non-Commercial – No Derivatives licence. For taonga the museum asks something further — that images of taonga be used only for research, study, personal and educational purposes, because the material holds significant cultural importance to iwi. *Inference —* that request is not a licence term, and this atlas treats it as binding anyway."
+ },
+ "text_th": {
+  "what": "พิพิธภัณฑ์แห่งชาติของนิวซีแลนด์ ในกรุงเวลลิงตัน ก่อตั้งโดยพระราชบัญญัติพิพิธภัณฑ์นิวซีแลนด์เตปาปาตองกาเรวา ค.ศ. 1992 และเปิดเมื่อวันที่ 14 กุมภาพันธ์ ค.ศ. 1998 \"เตปาปา\" เป็นภาษาเมารี แปลว่า \"หีบสมบัติ\" พิพิธภัณฑ์ดำเนินงานตามปรัชญาสองวัฒนธรรม ซึ่งผูกไว้ในกระบวนการออกแบบอาคารผ่านสนธิสัญญาไวทังงี และเป็นสถาบันที่ขอร่างบรรพบุรุษชาวเมารีคืนจากพิพิธภัณฑ์อื่น ๆ ทั่วโลก"
  },
  "restricted": {
   "note": "Te Papa asks that images of taonga be used only for research, study, personal and educational purposes, on the ground that the material holds significant cultural importance to iwi. This atlas does not reproduce Te Papa taonga images outside that scope, and does not print detail about restricted taonga beyond what the museum itself publishes.",
@@ -33,31 +46,100 @@
   "tier": "cited",
   "source": "s:wp-te-papa"
  },
- "geo": {"lat": -41.2905, "lon": 174.7821, "precision": "street", "source": "hand-placed on the Wellington waterfront at Cable Street, from the museum's stated location"},
- "address": {"street": "Cable Street", "city": "Wellington", "country": "NZ"},
+ "geo": {
+  "lat": -41.2905,
+  "lon": 174.7821,
+  "precision": "street",
+  "source": "hand-placed on the Wellington waterfront at Cable Street, from the museum's stated location"
+ },
+ "address": {
+  "street": "Cable Street",
+  "city": "Wellington",
+  "country": "NZ"
+ },
  "tags": [
-  {"tag": "open-images", "source": "s:web-tepapa-copyright", "tier": "cited", "note": "two statements applied per image: openly available with no restrictions on reuse, or Creative Commons Attribution – Non-Commercial – No Derivatives", "url": "https://www.tepapa.govt.nz/about/collections/all-te-papa-websites/copyright-and-terms-use"},
-  {"tag": "repatriation", "source": "s:wp-mus-e-du-quai-branly-jacques-chirac", "tier": "cited", "note": "requesting the return of Māori remains from institutions worldwide since 2003; mokomokai returned from France on 23 January 2012"}
+  {
+   "tag": "open-images",
+   "source": "s:web-tepapa-copyright",
+   "tier": "cited",
+   "note": "two statements applied per image: openly available with no restrictions on reuse, or Creative Commons Attribution – Non-Commercial – No Derivatives",
+   "url": "https://www.tepapa.govt.nz/about/collections/all-te-papa-websites/copyright-and-terms-use"
+  },
+  {
+   "tag": "repatriation",
+   "source": "s:wp-mus-e-du-quai-branly-jacques-chirac",
+   "tier": "cited",
+   "note": "requesting the return of Māori remains from institutions worldwide since 2003; mokomokai returned from France on 23 January 2012"
+  }
  ],
  "kin": [
-  {"to": "te-papa-taonga", "as": "the taonga display inside it, which is where a reader meets this collection", "rel": "place"},
-  {"to": "hei-tiki", "as": "the pounamu neck pendant the museum holds and interprets as taonga, not as a specimen", "rel": "carries"},
-  {"to": "hei-matau", "as": "the hook pendant held here in the same collections", "rel": "carries"},
-  {"to": "maori-taonga", "as": "the tradition whose terms this museum works on, by statute and by design", "rel": "tradition"},
-  {"to": "quai-branly", "as": "the Paris museum it asked for Māori remains, and got them back from in January 2012", "rel": "contrast"},
-  {"to": "what-this-atlas-does-not-print", "as": "the long read on restriction; Te Papa's taonga request is one of its worked examples", "rel": "story"},
-  {"to": "who-owns-a-charm", "as": "the long read on ownership, argued here from the claimant's side rather than the holder's", "rel": "story"}
+  {
+   "to": "te-papa-taonga",
+   "as": "the taonga display inside it, which is where a reader meets this collection",
+   "rel": "place"
+  },
+  {
+   "to": "hei-tiki",
+   "as": "the pounamu neck pendant the museum holds and interprets as taonga, not as a specimen",
+   "rel": "carries"
+  },
+  {
+   "to": "hei-matau",
+   "as": "the hook pendant held here in the same collections",
+   "rel": "carries"
+  },
+  {
+   "to": "maori-taonga",
+   "as": "the tradition whose terms this museum works on, by statute and by design",
+   "rel": "tradition"
+  },
+  {
+   "to": "quai-branly",
+   "as": "the Paris museum it asked for Māori remains, and got them back from in January 2012",
+   "rel": "contrast"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the long read on restriction; Te Papa's taonga request is one of its worked examples",
+   "rel": "story"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read on ownership, argued here from the claimant's side rather than the holder's",
+   "rel": "story"
+  }
  ],
  "links": [
-  {"label": "Te Papa — Wikipedia", "url": "https://en.wikipedia.org/wiki/Te_Papa"},
-  {"label": "Copyright and terms of use", "url": "https://www.tepapa.govt.nz/about/collections/all-te-papa-websites/copyright-and-terms-use"}
+  {
+   "label": "Te Papa — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Te_Papa"
+  },
+  {
+   "label": "Copyright and terms of use",
+   "url": "https://www.tepapa.govt.nz/about/collections/all-te-papa-websites/copyright-and-terms-use"
+  }
  ],
- "sources": ["s:wp-te-papa", "s:web-tepapa-copyright", "s:wp-mus-e-du-quai-branly-jacques-chirac", "s:wp-pounamu"],
+ "sources": [
+  "s:wp-te-papa",
+  "s:web-tepapa-copyright",
+  "s:wp-mus-e-du-quai-branly-jacques-chirac",
+  "s:wp-pounamu"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-te-papa"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-te-papa"
+  },
   "fields": {
-   "text.today": {"tier": "cited", "source": "s:web-tepapa-copyright", "note": "rights statements and the taonga request read on the museum's own page; the closing sentence is this project's own undertaking"},
-   "geo": {"tier": "inference", "note": "geocoded by hand to the Cable Street waterfront; no published coordinate was read"}
+   "text.today": {
+    "tier": "cited",
+    "source": "s:web-tepapa-copyright",
+    "note": "rights statements and the taonga request read on the museum's own page; the closing sentence is this project's own undertaking"
+   },
+   "geo": {
+    "tier": "inference",
+    "note": "geocoded by hand to the Cable Street waterfront; no published coordinate was read"
+   }
   }
  },
  "images": [],

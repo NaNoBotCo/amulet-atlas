@@ -15,7 +15,8 @@
    "ongjungseok 옹중석",
    "beoksumeori",
    "stone grandfather"
-  ]
+  ],
+  "th": "ทลฮารึบัง (รูปปู่หิน)"
  },
  "etymology": {
   "root": "Jeju language dol 돌 'stone' + hareubang 하르방 'grandfather' — stone grandfather",
@@ -44,6 +45,9 @@
   "story": "Nobody knows when the first ones were cut, and the record before 1914 on their number and location is thin. Three theories are in play: that a sea-faring people brought them to Jeju; that they developed out of jangseung or beoksu, the wooden guardian posts set up around mainland Korea; and a third the source leaves unnamed. What is on paper is this. Around 1416 six statues, in three pairs, reportedly stood on the island. By 1754 there were reportedly 48, of which 24 were at Jeju-mok — the town that is now Jeju City — four pairs each at the fortress's west, south and east gates. There is a record that ongjungseok statues were built at Jeju-mok in 1754, and some scholars take that as the earliest appearance of the figures in their present form. The reason given for the 1754 order is specific: after several famines in the reigns of Sukjong and Yeongjo, vengeful spirits were held to be roaming and tormenting the living, and the head of Jeju-mok ordered the statues built.\n\nThey were treated badly in the twentieth century. During the Japanese colonial period of 1910 to 1945 they were disregarded and moved around, and that continued through the rapid urban development after liberation. Because they were shifted, they wore, and it became hard to say where any of them came from. Research began in the 1960s; two were moved to the National Folk Museum of Korea in Seoul in 1968.\n\nThere are 47 or 48 pre-modern ones left. Twenty-one are in Jeju City, twelve in Seongeup-ri in Seogwipo, twelve across Inseong-ri, Anseong-ri and Boseong-ri, and two in Seoul. Everything else a visitor sees is recent.\n\nThe noses are worn down. One folk belief held that a woman with fertility trouble could secretly take a piece of a statue's nose, grind it to powder and swallow it; many statues have worn noses as a result. Others hold that touching the nose is enough.",
   "how": "Cut from volcanic basalt, set in pairs at a gate facing each other, sometimes on a stone platform called giseok — the statues at Jeju-seong and Jeongeuihyeon-seong tend to stand on one, those at Daejeonghyeon-seong do not. Grooves take the jeongnang logs. Some people reportedly paid their respects to the statues in passing. No consecration rite is described in this project's source, and none is invented here.",
   "today": "The figure is Jeju's emblem, and the souvenir trade is dated: the first replica was made in 1963 by the sculptor Song Jong-Won, a 25 cm copy of the statue at the south gate of Jeju-mok. Souvenir goods now run from miniatures to full-size recreations. Full-size ones have gone out as diplomatic gifts — to Mikhail Gorbachev at the 1991 Soviet–South Korean summit on Jeju, to Laizhou in China in 2002, and to the city hall of Santa Rosa, California, in 2003. Whether the thing on the shelf and the thing at the gate are the same object is the question this atlas puts and does not answer."
+ },
+ "text_th": {
+  "what": "รูปสลักยืนทำจากหินภูเขาไฟของเกาะเชจู สวมหมวกทรงกลม ตาโต ปากปิด และไหล่ข้างหนึ่งสูงกว่าอีกข้าง บางตัวมีหูใหญ่ มืออยู่ด้านหน้า บนท้อง หรืออ้อมไปด้านหลัง ไม่มีสองตัวใดเหมือนกัน หลายตัวมีร่องสลักไว้สำหรับวางท่อนไม้ — คานช็องนัง (jeongnang) ซึ่งตำแหน่งของคานบอกคนที่ผ่านไปมาว่าทางเข้าด้านหลังเปิดหรือปิดอยู่ รูปเหล่านี้ตั้งอยู่ที่ประตู และที่ทางเข้าป้อมปราการ ซึ่งก็คือที่ขอบของชุมชน โดยมากตั้งเป็นคู่หันหน้าเข้าหากัน"
  },
  "dating": {
   "period": "Joseon to the present",
@@ -199,56 +203,72 @@
    "type": "amulet",
    "name": "Bujeok",
    "as": "the other Korean guard in this atlas — paper, portable, and drawn by a mudang, where this is basalt and does not move",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "to": "korean-bujeok-craft",
    "type": "tradition",
    "name": "Bujeok craft",
    "as": "the Korean tradition of guarding a threshold that this stands at the monumental end of",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "บูจ็อก (ศาสตร์ยันต์เกาหลี)",
+   "as_th": ""
   },
   {
    "to": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "the practice at its heaviest: a doorway guard weighing more than the door",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "to": "phallic-sign",
    "type": "motif",
    "name": "The phallus",
    "as": "the sign read into the round hat, which is what ties the statue to the fertility use of its nose",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "สัญลักษณ์รูปลึงค์",
+   "as_th": ""
   },
   {
    "to": "ongon",
    "type": "amulet",
    "name": "Ongon",
    "as": "the steppe figure a spirit is seated in — the nearest thing in this atlas to a guardian carved to be inhabited",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "องกอน",
+   "as_th": ""
   },
   {
    "to": "hei-tiki",
    "type": "amulet",
    "name": "Hei-tiki",
    "as": "another carved ancestor-figure that became a national emblem and then a souvenir, and carries the same argument with it",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เฮย์ติกิ (จี้หยกเมารี)",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read this belongs in: 47 or 48 originals, an island's worth of replicas, and three of them given away as state gifts",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "insadong",
    "type": "place",
    "name": "Insa-dong",
    "as": "Seoul's antique and craft district, where the replica trade meets the buyer far from Jeju",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "อินซาดง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -381,28 +401,36 @@
    "type": "amulet",
    "name": "Bujeok",
    "as": "the other Korean guard in this atlas — that one stone and fixed at a gate, this one paper and pasted on an inside wall",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "from": "palad-khik",
    "type": "amulet",
    "name": "Palad khik",
    "as": "the other charm in this atlas whose fertility claim rests on a shape read as phallic — Jeju's stone grandfather and its worn nose",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ปลัดขิก",
+   "as_th": "เครื่องรางอีกชิ้นในแอตลาสนี้ที่คำอ้างเรื่องความอุดมสมบูรณ์ตั้งอยู่บนรูปทรงที่ถูกอ่านว่าเป็นองคชาต — ปู่หินแห่งเชจูกับจมูกที่ถูกลูบจนสึก"
   },
   {
    "from": "korean-bujeok-craft",
    "type": "tradition",
    "name": "Bujeok craft",
    "as": "the monumental end of Korean threshold-guarding — stone at a gate rather than paper on a wall",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "บูจ็อก (ศาสตร์ยันต์เกาหลี)",
+   "as_th": ""
   },
   {
    "from": "insadong",
    "type": "place",
    "name": "Insa-dong",
    "as": "the Jeju stone grandfather, the Korean object a visitor is likeliest to carry out of a shop here as a miniature",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "อินซาดง",
+   "as_th": ""
   }
  ]
 }

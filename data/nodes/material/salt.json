@@ -10,7 +10,8 @@
    "blessed salt",
    "shio",
    "sodium chloride"
-  ]
+  ],
+  "th": "เกลือ"
  },
  "region": [
   "japan",
@@ -35,6 +36,9 @@
   "what": "Sodium chloride, got by evaporating seawater in ponds, by mining rock salt, or from mineral springs. It preserves, it purifies, and it dissolves. That last property is why the archaeology of salt charms is always the container and never the salt.",
   "story": "Salt is a ritual material in more traditions than almost anything else in this atlas, and it is rarely worn. It is thrown, sprinkled, blessed, offered and put at thresholds.\n\nIn Judaism it is customary to spread salt on the bread or dip it in salt when it is passed round the table after the Kiddush. In Catholic practice salt is used in the Tridentine Mass and permitted in the preparation of holy water, and blessed salt is a sacramental: lay Catholics are not permitted to perform solemn exorcisms, but they may use holy water, blessed salt and other sacramentals for warding off evil. In Shinto, shio is used for ritual purification of places and entrances, and salt is among the offerings — with rice, water and sake — set before the kamidana beside the household ofuda. Mahayana Buddhists throw salt over the left shoulder on returning from a funeral. Hindu practice uses salt at house-warmings and weddings; Jains offer it before deities and sprinkle it on cremated remains. Aztec religion had Huixtocihuatl, a goddess of salt and saltwater.\n\nIt also goes inside other charms. The earliest documented witch bottles are salt-glazed stoneware Bellarmine jugs, and later bottles are filled with sand, stones, knotted thread, feathers, shells, herbs, flowers, salt, vinegar, oil, coins or ashes. A Turkish nazar bead is described as \"a mixture of molten glass, iron, copper, water, and salt, ingredients that are thought to shield people from evil\" — the salt is in the batch, fired into the glass.\n\nSalt was also a major traded good, moved along Mediterranean routes, along dedicated salt roads and by Saharan camel caravan. The English word salary comes from the Latin for salt, though the story that Roman legions were paid in it is unsubstantiated.\n\n*Inference —* every other material in this batch can be excavated. Salt cannot: it goes into water, into food, into the ground, and leaves nothing. A practice this widespread with this little to show for it is the clearest warning in the atlas against reading a museum drawer as a census.",
   "today": "Still sold at shrine gates, still blessed in churches, still thrown at doorways. Almost none of it is ever an object."
+ },
+ "text_th": {
+  "what": "โซเดียมคลอไรด์ ได้จากการระเหยน้ำทะเลในนาเกลือ จากการทำเหมืองเกลือหิน หรือจากน้ำพุแร่ เกลือถนอม ชำระให้บริสุทธิ์ และละลาย คุณสมบัติข้อสุดท้ายนี้เองทำให้หลักฐานทางโบราณคดีของเครื่องรางเกลือเป็นภาชนะเสมอ ไม่เคยเป็นตัวเกลือ"
  },
  "dating": {
   "period": "no floor this record can date; documented across the present",

@@ -12,7 +12,8 @@
    "dung beetle",
    "kheper sign",
    "Khepri"
-  ]
+  ],
+  "th": "ด้วง (สคารับ)"
  },
  "region": [
   "ancient-egypt",
@@ -45,6 +46,9 @@
   "what": "A dung beetle seen from above — head, wing case and legs indicated, the underside left flat so it can be engraved. Usually identified as Scarabaeus sacer. Standard ones run between 6 mm and 40 mm long, most between 10 mm and 20 mm, drilled end to end for a thread or a swivel ring. It is the only sign in this atlas that doubles as a signature: the flat base takes a name, a title or a motto and prints it in clay.",
   "story": "The reading Egyptians gave the beetle is stated in the sources: Khepri rolls the sun across the sky at daybreak the way the beetle rolls a ball of dung, so the sign stands for the sun's journey, for rebirth and for regeneration. The beetle-shaped amulet became enormously popular by the early Middle Kingdom, around 2000 BCE, and stayed popular for the rest of the pharaonic period and beyond. By the end of the First Intermediate Period, about 2055 BCE, scarabs had become extremely common and largely replaced cylinder seals and circular button seals with simple geometric designs.\n\nThe sign travelled as an object, not as an idea. From the middle Bronze Age other peoples of the Mediterranean and the Middle East imported scarabs from Egypt and made their own, in Egyptian or in local styles, especially in the Levant. A scarab inscribed with Nefertiti's name was among the luxury goods on the Uluburun wreck off Turkey. *Inference —* a portable seal that also functions as a charm is unusually easy to export, and the Levantine copies are evidence of trade in the thing rather than of the Egyptian theology travelling with it.\n\nWhat is cut on the base changed over time. Pharaohs' names in the Middle Kingdom, then officials' names and titles used as administrative seals, then short prayers or mottoes in the New Kingdom and Third Intermediate Period, which are hard to translate. Some carry hunting scenes. Commemorative scarabs were made for political purposes, notably the large ones of Amenhotep III.\n\nMaterials are the other half of the story. Most were carved from steatite — a soft stone that hardens when fired — or moulded in Egyptian faience, then glazed blue or green and fired. Hardstone examples are green jasper, amethyst and carnelian. Most were originally green or blue; weathering has left most steatite ones looking white or brown, so a museum tray reads paler than the original trade did.",
   "today": "Scarabs are made by the thousand as souvenirs in Egypt, and the shape is standard jewellery and tattoo flash worldwide. The ancient ones are also the most forged class of Egyptian antiquity this atlas covers, which is a matter for the long read on authentication rather than for this page."
+ },
+ "text_th": {
+  "what": "ด้วงมูลสัตว์ที่มองจากด้านบน — แสดงหัว ปีกแข็ง และขา ปล่อยด้านล่างให้แบนไว้สำหรับสลัก มักระบุว่าเป็นด้วงชนิดสคาราเบอุส ซาเซอร์ (Scarabaeus sacer) ชิ้นมาตรฐานยาวระหว่าง 6 mm ถึง 40 mm ส่วนใหญ่ 10 mm ถึง 20 mm เจาะรูตลอดความยาวสำหรับร้อยด้ายหรือใส่แหวนหมุน เป็นเครื่องหมายเดียวในแอตลาสนี้ที่ใช้เป็นลายมือชื่อได้ด้วย: ฐานแบนรับชื่อ ตำแหน่ง หรือคติพจน์ แล้วประทับลงบนดินเหนียว"
  },
  "kin": [
   {
@@ -250,63 +254,81 @@
    "type": "amulet",
    "name": "Scarab",
    "as": "the amulet and seal itself, which is the sign's body",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "สคารับ (ด้วงศักดิ์สิทธิ์อียิปต์)",
+   "as_th": ""
   },
   {
    "to": "heart-scarab",
    "type": "amulet",
    "name": "Heart scarab",
    "as": "the large one laid at the heart, inscribed to keep the heart from speaking against its owner",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "สคารับหัวใจ",
+   "as_th": ""
   },
   {
    "to": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "the other sign Egypt made by the thousand; the eye went over the incision, the beetle at the heart",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "faience",
    "type": "material",
    "name": "Faience",
    "as": "the glazed quartz paste that made it cheap enough to bury in quantity",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เฟยองซ์ (ควอตซ์เคลือบอียิปต์)",
+   "as_th": ""
   },
   {
    "to": "carnelian",
    "type": "material",
    "name": "Carnelian",
    "as": "the red hardstone version, cut rather than moulded",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "คาร์เนเลียน",
+   "as_th": ""
   },
   {
    "to": "egyptian-amulet-craft",
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "the tradition that produced it at industrial scale",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   },
   {
    "to": "inscribing",
    "type": "practice",
    "name": "Inscribing",
    "as": "the practice that makes the base matter more than the back",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การลงอักขระ",
+   "as_th": ""
   },
   {
    "to": "flinders-petrie",
    "type": "person",
    "name": "Flinders Petrie",
    "as": "the excavator whose typology of scarabs is still how museums sort them",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "ฟลินเดอร์ส พีทรี",
+   "as_th": ""
   },
   {
    "to": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the long read on authentication, which has a chapter's worth of scarabs in it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดของปลอม",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -532,14 +554,18 @@
    "type": "amulet",
    "name": "Heart scarab",
    "as": "the sign it carries, read as the sun rolled up at daybreak and so as rebirth",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "สคารับหัวใจ",
+   "as_th": ""
   },
   {
    "from": "scarab",
    "type": "amulet",
    "name": "Scarab",
    "as": "the sign this object is a body for: the beetle that rolls the sun up at daybreak",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "สคารับ (ด้วงศักดิ์สิทธิ์อียิปต์)",
+   "as_th": ""
   }
  ]
 }

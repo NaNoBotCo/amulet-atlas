@@ -12,7 +12,8 @@
    "sak yant designs",
    "yantra designs",
    "yant sheet"
-  ]
+  ],
+  "th": "แผ่นแบบลายยันต์"
  },
  "region": [
   "mainland-sea"
@@ -32,36 +33,47 @@
   "story": "The word splits cleanly. Sak is Khmer for tattoo, from the Proto-Mon-Khmer root *cɔkʔ, \"to prick\"; Chuon Nath's 1967 dictionary keeps it native rather than a loan from Sanskrit or Pali. Yant comes from Sanskrit yantra, from yam, \"to hold, to sustain\", plus the instrument suffix -tra: a device for containing and concentrating. Put together, the flash sheet shows instruments, not pictures.\n\nThe script on the sheet tells you where you are. Cambodia uses Khmer script. Central Thailand uses Khom, derived from Khmer. Northern Thailand may use Shan, Northern Thai or Tai Lu; Laos uses Lao Tham. A design that looks the same across a border is not written the same across it.\n\nThe practice is dated to the Khmer Empire around the ninth century, built on mainland Southeast Asian animist tattooing that has been traced back as far as 2,500 BCE, with the geometry coming from Indian yantras. Designs are applied by ruesi, by wicha practitioners, and by Buddhist monks or Brahmin priests, traditionally with a khem sak — a metal rod sharpened to a point.\n\nWhat the sheet cannot show is the condition attached. Masters and bearers both put a condition on it: the tattoo confers its effects only so long as the bearer keeps the rules and taboos he was given, such as abstaining from a named food. *Inference —* that is why a flash sheet is a weaker picture of this practice than of most others: the design is the visible half of a two-part transaction, and the other half is spoken. This atlas prints no kata, because no source it has read publishes one.",
   "today": "Flash travels now. Ajahn Noo Kanpai inked Angelina Jolie's yant in Old Khmer script in Thailand; she took a Bengal tiger design in 2004, to mark receiving Cambodian citizenship, and celebrity work of that kind is credited with making the designs popular with women. Whether a design chosen off a sheet in a walk-in shop is the same object as one given by a master under his own rules is a live argument with Thai and Cambodian voices on both sides, and this atlas reports it rather than settling it."
  },
+ "text_th": {
+  "what": "แผ่นแบบลายสำเร็จรูปที่ลูกค้าเลือกได้: ตารางเรขาคณิต เสือ หนุมาน แถวอักขระที่วิ่งวนรอบกรอบ ในวงการสักทั่วไป ลายสำเร็จรูปเรียกว่า \"แฟลช\" (flash) และแผ่นแฟลชถูกแขวนไว้ในร้านสักเพื่อให้ลูกค้าเลือกภาพที่วาดไว้แล้ว หรือใช้เป็นจุดตั้งต้น แฟลชยันต์คือวัตถุเดียวกันในลายมือแบบเอเชียตะวันออกเฉียงใต้ — ลายเดียวกันนี้ยังถูกลงบนผ้าและโลหะ แล้วแขวนไว้ในบ้าน ร้านค้า หรือรถบรรทุก",
+  "story": "คำนี้แยกได้ชัดเจน สัก เป็นคำเขมรแปลว่ารอยสัก มาจากรากศัพท์มอญ-เขมรดั้งเดิม *cɔkʔ \"แทง\" พจนานุกรมของจวน ณาต (Chuon Nath) ปี ค.ศ. 1967 ถือว่าเป็นคำเขมรดั้งเดิม ไม่ใช่คำยืมจากสันสกฤตหรือบาลี ยันต์ มาจากคำสันสกฤต ยันตร (yantra) จากรากศัพท์ ยมฺ (yam) \"ยึด ค้ำจุน\" บวกปัจจัยแสดงเครื่องมือ -ตร (-tra): อุปกรณ์สำหรับบรรจุและรวมศูนย์ เมื่อรวมกัน แผ่นแฟลชจึงแสดงเครื่องมือ ไม่ใช่รูปภาพ\n\nอักษรบนแผ่นบอกว่าคุณอยู่ที่ไหน กัมพูชาใช้อักษรเขมร ภาคกลางของไทยใช้อักษรขอม ซึ่งมาจากอักษรเขมร ภาคเหนือของไทยอาจใช้อักษรไทใหญ่ อักษรไทยเหนือ หรืออักษรไทลื้อ ลาวใช้อักษรธรรมลาว ลายที่ดูเหมือนกันข้ามพรมแดน ไม่ได้เขียนเหมือนกันข้ามพรมแดน\n\nการปฏิบัตินี้กำหนดอายุไว้ที่อาณาจักรเขมรราวคริสต์ศตวรรษที่ 9 ต่อยอดจากการสักตามคติวิญญาณนิยม (การนับถือผี) ของเอเชียตะวันออกเฉียงใต้ภาคพื้นทวีป ซึ่งสืบย้อนไปได้ไกลถึง 2,500 ปีก่อน ค.ศ. โดยเรขาคณิตมาจากยันตร์ของอินเดีย ผู้ลงลายได้แก่ฤๅษี ผู้ถือวิชา และพระสงฆ์หรือพราหมณ์ ตามธรรมเนียมใช้เข็มสัก — แท่งโลหะที่ฝนปลายให้แหลม\n\nสิ่งที่แผ่นแบบแสดงไม่ได้คือเงื่อนไขที่ผูกมาด้วย ทั้งอาจารย์และผู้สักต่างวางเงื่อนไขไว้: รอยสักให้ผลก็ต่อเมื่อผู้สักถือข้อปฏิบัติและข้อห้ามที่ได้รับมา เช่น งดอาหารบางอย่างที่ระบุไว้ *ข้อสันนิษฐาน —* นั่นคือเหตุที่แผ่นแฟลชเป็นภาพของการปฏิบัตินี้ที่อ่อนกว่าภาพของการปฏิบัติอื่นส่วนใหญ่: ลายคือครึ่งที่มองเห็นได้ของการแลกเปลี่ยนสองส่วน และอีกครึ่งหนึ่งเป็นคำพูด แอตลาสนี้ไม่พิมพ์คาถาใด ๆ เพราะไม่มีแหล่งข้อมูลที่อ่านมาฉบับใดเผยแพร่ไว้",
+  "today": "ทุกวันนี้แฟลชเดินทางไปทั่ว อาจารย์หนู กันภัย (Ajahn Noo Kanpai) สักยันต์ให้แองเจลินา โจลี ด้วยอักษรขอมโบราณในประเทศไทย เธอสักลายเสือเบงกอลใน พ.ศ. 2547 (ค.ศ. 2004) เพื่อระลึกถึงการได้รับสัญชาติกัมพูชา และงานสักของคนดังแบบนั้นถูกยกว่าทำให้ลายเหล่านี้เป็นที่นิยมในหมู่ผู้หญิง ลายที่เลือกจากแผ่นแบบในร้านที่เดินเข้าไปได้เลย เป็นวัตถุเดียวกับลายที่อาจารย์มอบให้ภายใต้ข้อปฏิบัติของท่านเองหรือไม่ เป็นข้อถกเถียงที่ยังดำเนินอยู่ โดยมีเสียงชาวไทยและชาวกัมพูชาอยู่ทั้งสองฝ่าย และแอตลาสนี้รายงานข้อถกเถียงนั้นแทนการตัดสิน"
+ },
  "kin": [
   {
    "to": "sak-yant",
    "as": "the tattoo this sheet is the menu for",
-   "rel": "carries"
+   "rel": "carries",
+   "as_th": "รอยสักที่แผ่นนี้เป็นรายการให้เลือก"
   },
   {
    "to": "yantra-plate",
    "as": "the same geometry on metal or paper instead of skin — the older medium of the two",
-   "rel": "parallel"
+   "rel": "parallel",
+   "as_th": "เรขาคณิตเดียวกันบนโลหะหรือกระดาษแทนผิวหนัง — สื่อที่เก่ากว่าในสองอย่างนี้"
   },
   {
    "to": "thai-wicha",
    "as": "the tradition whose practitioners draw these, and set the rules that come with them",
-   "rel": "tradition"
+   "rel": "tradition",
+   "as_th": "ประเพณีที่ผู้ถือวิชาเป็นผู้วาดลายเหล่านี้ และตั้งข้อปฏิบัติที่มาพร้อมกับลาย"
   },
   {
    "to": "tattooing",
    "as": "the practice the sheet exists to serve, needle and all",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "การปฏิบัติที่แผ่นนี้มีไว้รับใช้ รวมทั้งเข็มด้วย"
   },
   {
    "to": "takrut",
    "as": "sold from the same shops, and carrying the same script rolled up instead of laid out",
-   "rel": "kin"
+   "rel": "kin",
+   "as_th": "ขายจากร้านเดียวกัน และมีอักขระเดียวกัน แต่ม้วนไว้แทนที่จะคลี่วาง"
   },
   {
    "to": "the-drawn-signs",
    "as": "the atlas's own drawn glyphs, made on the same principle: a class of sign, not one object",
-   "rel": "parallel"
+   "rel": "parallel",
+   "as_th": "สัญลักษณ์ที่แอตลาสนี้วาดขึ้นเอง ซึ่งทำบนหลักเดียวกัน: ประเภทหนึ่งของเครื่องหมาย ไม่ใช่วัตถุชิ้นเดียว"
   }
  ],
  "links": [
@@ -122,42 +134,54 @@
    "type": "amulet",
    "name": "Sak yant",
    "as": "the tattoo this sheet is the menu for",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "สักยันต์",
+   "as_th": "รอยสักที่แผ่นนี้เป็นรายการให้เลือก"
   },
   {
    "to": "yantra-plate",
    "type": "amulet",
    "name": "Yantra plate",
    "as": "the same geometry on metal or paper instead of skin — the older medium of the two",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "แผ่นยันต์ (ยันตระ)",
+   "as_th": "เรขาคณิตเดียวกันบนโลหะหรือกระดาษแทนผิวหนัง — สื่อที่เก่ากว่าในสองอย่างนี้"
   },
   {
    "to": "thai-wicha",
    "type": "tradition",
    "name": "Thai wicha",
    "as": "the tradition whose practitioners draw these, and set the rules that come with them",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "วิชา",
+   "as_th": "ประเพณีที่ผู้ถือวิชาเป็นผู้วาดลายเหล่านี้ และตั้งข้อปฏิบัติที่มาพร้อมกับลาย"
   },
   {
    "to": "tattooing",
    "type": "practice",
    "name": "Tattooing",
    "as": "the practice the sheet exists to serve, needle and all",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การสัก",
+   "as_th": "การปฏิบัติที่แผ่นนี้มีไว้รับใช้ รวมทั้งเข็มด้วย"
   },
   {
    "to": "takrut",
    "type": "amulet",
    "name": "Takrut",
    "as": "sold from the same shops, and carrying the same script rolled up instead of laid out",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ตะกรุด",
+   "as_th": "ขายจากร้านเดียวกัน และมีอักขระเดียวกัน แต่ม้วนไว้แทนที่จะคลี่วาง"
   },
   {
    "to": "the-drawn-signs",
    "type": "art",
    "name": "The drawn signs",
    "as": "the atlas's own drawn glyphs, made on the same principle: a class of sign, not one object",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ภาพสัญลักษณ์ลายเส้น",
+   "as_th": "สัญลักษณ์ที่แอตลาสนี้วาดขึ้นเอง ซึ่งทำบนหลักเดียวกัน: ประเภทหนึ่งของเครื่องหมาย ไม่ใช่วัตถุชิ้นเดียว"
   }
  ],
  "source_list": [
@@ -248,35 +272,45 @@
    "type": "amulet",
    "name": "Sak yant",
    "as": "the sheet of designs a master works from, and the thing a visitor now picks off",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "สักยันต์",
+   "as_th": "แผ่นรวมลวดลายที่อาจารย์ใช้เป็นต้นแบบ และเป็นสิ่งที่ผู้มาเยือนในปัจจุบันชี้เลือกเอา"
   },
   {
    "from": "takrut",
    "type": "amulet",
    "name": "Takrut",
    "as": "the sheet of designs the yant on this tube is drawn from",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "ตะกรุด",
+   "as_th": "แผ่นรวมลวดลายที่ยันต์บนหลอดนี้คัดลอกมา"
   },
   {
    "from": "yantra-plate",
    "type": "amulet",
    "name": "Yantra plate",
    "as": "the sheets of designs a tattooist works from, which are these diagrams drawn for skin",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "แผ่นยันต์ (ยันตระ)",
+   "as_th": "แผ่นรวมแบบที่ช่างสักใช้เป็นต้นแบบ ซึ่งคือแผนภาพเหล่านี้ที่วาดขึ้นสำหรับผิวหนัง"
   },
   {
    "from": "thai-wicha",
    "type": "tradition",
    "name": "Thai wicha",
    "as": "the drawn sheets the practitioners work from, and the rules that come attached to them",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "วิชา",
+   "as_th": "แผ่นแบบยันต์ที่ผู้ถือวิชาใช้เป็นต้นแบบ พร้อมข้อห้ามข้อปฏิบัติที่ติดมาด้วย"
   },
   {
    "from": "skin",
    "type": "material",
    "name": "Skin",
    "as": "the drawn designs, which is as far as this atlas goes in showing them",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "ผิวหนัง",
+   "as_th": "ลายยันต์ที่วาดไว้ ซึ่งเป็นขอบเขตไกลที่สุดที่แอตลาสนี้จะแสดง"
   }
  ]
 }

@@ -16,7 +16,8 @@
    "Abraxas",
    "fulu",
    "talismanic script"
-  ]
+  ],
+  "th": "พระนาม"
  },
  "region": [
   "levant",
@@ -56,6 +57,9 @@
  "text": {
   "what": "A name of God, or of an angel, or a string of characters that stands in for one, written on the object and doing the work. Sometimes it is legible and sometimes it is deliberately not. On a mezuzah it is three Hebrew letters on the outside of the parchment. On an Islamic amulet it is one of the ninety-nine names, or a Qur'anic verse. On a Taoist fu it is a character that resembles Chinese writing and is not meant to be read.",
   "story": "Each tradition here has its own account and this record keeps them separate.\n\nIn Jewish practice the name on the doorpost is Shaddai, written on the outside of the mezuzah parchment opposite the space between the two passages; it also reads as an acronym for Shomer Daltot Yisrael, Guardian of Israel's doors, and many cases carry just the letter shin for it. The same three letters are built into tefillin: the head-strap's knot forms a dalet, the arm-strap's a yud, and with the shin on the head-box they spell Shaddai. But the practice is contested from inside. Maimonides allows the name on the outside and then condemns what people do with it: those who write the names of angels, other sacred names, verses or forms inside a mezuzah, he writes, are among those who do not have a portion in the world to come — they nullify the commandment, and turn a great commandment about the unity of God's name into a talisman for their own benefit. A bathroom and a small closet get no mezuzah, because the name of God is forbidden there.\n\nPractical Kabbalah, Kabbalah Ma'asit, is the branch that uses divine and angelic names for amulets and incantations. Gershom Scholem's account is that much of its content predates the speculative Kabbalah and does not depend on it, being an accumulation of magical practices from Talmudic times through the Middle Ages. The Talmud and Midrash call the theurgic technique using the Divine Name. In the Hekhalot literature the angels guarding each heavenly level are bound by formulae and seals. The tradition restricts itself: it was held to be permitted only to an elite, and only under conditions that were holy and pure, and most Kabbalists taught that its use is forbidden.\n\nIn Islamic practice the amulet usually contains one of God's ninety-nine names, or the names of angels or prophets, or a Qur'anic verse, a pious phrase or an invocation, and has been described as a supercharged prayer. Virtually all Muslim scholars permit a talisman that calls on God or on an intercessor; addressing jinn or demons is prohibited. Ayat al-Kursi, the Throne Verse, al-Baqara 2:255, is the verse most often used: hadith say reciting it turns away devils and fiends, and it is recited before a journey, before sleep, and after every obligatory prayer. Because of that association it is also used against the evil eye. Letter-and-number work, ʿilm al-ḥurūf, combines the letters of one of the ninety-nine names with those of a desired object — the technique called jafr.\n\nIn Taoist practice the writing is meant to defeat reading. Fulu are talismanic script written on talismans by Taoist priests. Ge Hong noted in the Baopuzi, by the Eastern Jin, 317–420, that it was already unnecessary for the user to decipher the writing for it to work. Scholars including James Robson and Gil Raz argue the incomprehensibility is central to the talisman's perceived authority; Ge Zhaoguang of Fudan University calls it a deliberate linguistic archaism. The method of writing the characters is passed in secret from a Taoist priest to their disciples. Fulu were taken into forms of Chinese Buddhism and inspired the Japanese ofuda and the Korean bujeok.\n\nGnostic gems give the oldest surviving objects in this family that carry a name and nothing else. Abrasax, later spelled Abraxas, appears in nearly all the legends on the gems, in the Greek Magical Papyri and in Gnostic texts; the attempts to derive the name from Greek, Hebrew, Coptic or Egyptian have not succeeded. The seven letters may stand for the seven classical planets.\n\n*Inference —* the four traditions agree on one thing only: the name is not decoration and the object is not the charm. What they disagree about is whether writing a name down is prayer, permitted craft, or an offence against the name itself."
+ },
+ "text_th": {
+  "what": "พระนามของพระเจ้า หรือนามของทูตสวรรค์ หรืออักขระชุดหนึ่งที่ใช้แทนพระนาม เขียนไว้บนวัตถุและเป็นตัวทำหน้าที่ บางครั้งอ่านออก บางครั้งจงใจให้อ่านไม่ออก บนเมซูซาห์ (mezuzah) เป็นอักษรฮีบรูสามตัวที่ด้านนอกของแผ่นหนัง บนเครื่องรางอิสลามเป็นหนึ่งในเก้าสิบเก้าพระนาม หรือโองการอัลกุรอาน บนฝู (fu) ของลัทธิเต๋าเป็นอักขระที่คล้ายอักษรจีนแต่ไม่ได้มีไว้ให้อ่าน"
  },
  "restricted": {
   "note": "Practical Kabbalah's techniques for writing divine and angelic names are restricted within the tradition itself: they were held to be reserved for an elite, to require conditions of holiness and purity, and most Kabbalists taught their use is forbidden. Isaac Luria forbade his students to write amulets. Most practical Kabbalistic writing stayed in manuscript rather than going into print. This atlas prints that position and does not reconstruct the formulae.",
@@ -341,84 +345,108 @@
    "type": "amulet",
    "name": "Mezuzah",
    "as": "the doorpost case with Shaddai written on the outside of its parchment",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เมซูซา",
+   "as_th": ""
   },
   {
    "to": "tefillin",
    "type": "amulet",
    "name": "Tefillin",
    "as": "the straps whose knots spell the same name with the box's shin",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เทฟิลลิน",
+   "as_th": ""
   },
   {
    "to": "kamea",
    "type": "amulet",
    "name": "Kamea",
    "as": "the Jewish written amulet this tradition's restrictions are about",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "คาเมอา (เครื่องรางแบบเขียนของชาวยิว)",
+   "as_th": ""
   },
   {
    "to": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the folded Islamic amulet the names and verses are written on",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "to": "quran-pendant",
    "type": "amulet",
    "name": "Qur'an pendant",
    "as": "the verse worn as an object, most often Ayat al-Kursi",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "จี้อัลกุรอาน",
+   "as_th": ""
   },
   {
    "to": "fu-talisman",
    "type": "amulet",
    "name": "Fu talisman",
    "as": "the Taoist sheet whose script is meant not to be legible",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "the Japanese descendant of that script, and bujeok is the Korean one",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "magical-gem",
    "type": "amulet",
    "name": "Magical gem",
    "as": "Abraxas stones — the oldest surviving objects here that carry a name and little else",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "อัญมณีเวทมนตร์ (หินสลักกรีก-อียิปต์)",
+   "as_th": ""
   },
   {
    "to": "magic-square",
    "type": "motif",
    "name": "The number square",
    "as": "regularly paired with the names in Islamic practice, and a different kind of writing",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ตารางตัวเลข (ตารางมหัศจรรย์)",
+   "as_th": ""
   },
   {
    "to": "palindrome-word",
    "type": "motif",
    "name": "The word that reads both ways",
    "as": "the neighbouring practice: writing that works by its shape rather than by whose name it is",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "คำที่อ่านได้สองทาง",
+   "as_th": ""
   },
   {
    "to": "washing-off-ink",
    "type": "practice",
    "name": "Washing off the ink",
    "as": "the practice of drinking the writing, which follows from the name being the active part",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การล้างหมึก",
+   "as_th": ""
   },
   {
    "to": "jewish-practical-kabbalah",
    "type": "tradition",
    "name": "Practical Kabbalah",
    "as": "the tradition that names this technique and then restricts it",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "คับบาลาห์ภาคปฏิบัติ",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -729,182 +757,234 @@
    "type": "amulet",
    "name": "Anting-anting",
    "as": "the sign on most of them — Latin words and holy names carried as the working part",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "อันติง-อันติง (เครื่องรางฟิลิปปินส์)",
+   "as_th": ""
   },
   {
    "from": "ethiopian-magic-scroll",
    "type": "amulet",
    "name": "Ethiopian talismanic scroll",
    "as": "what is written on it: prayers, saints, the Trinity, and the mystical names",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "คัมภีร์ม้วนเครื่องรางเอธิโอเปีย (คิตาบ)",
+   "as_th": ""
   },
   {
    "from": "fu-talisman",
    "type": "amulet",
    "name": "Fu talisman",
    "as": "the sign family it belongs to: writing that acts because of whose name it is, not because of what it says",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "hirz-pouch",
    "type": "amulet",
    "name": "Hirz",
    "as": "what is written inside — God's names, the names of angels or of prophets, or a verse",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ฮิรซ์ (ตลับใส่โองการอัลกุรอาน)",
+   "as_th": ""
   },
   {
    "from": "holy-rider-pendant",
    "type": "amulet",
    "name": "Holy rider pendant",
    "as": "the working part of the object: Solomon's seal, Arlaph, Sisinnios, and the demon's own name used against her",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "จี้นักบุญขี่ม้า",
+   "as_th": ""
   },
   {
    "from": "kamea",
    "type": "amulet",
    "name": "Kamea",
    "as": "the sign this object is made of, and the one it does not print here",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "คาเมอา (เครื่องรางแบบเขียนของชาวยิว)",
+   "as_th": ""
   },
   {
    "from": "magical-gem",
    "type": "amulet",
    "name": "Magical gem",
    "as": "the sign most of these stones actually carry, once the figure is set aside",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "อัญมณีเวทมนตร์ (หินสลักกรีก-อียิปต์)",
+   "as_th": ""
   },
   {
    "from": "mezuzah",
    "type": "amulet",
    "name": "Mezuzah",
    "as": "Shaddai on the back, read as an acronym for the Guardian of Israel's doors",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เมซูซา",
+   "as_th": ""
   },
   {
    "from": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "the sign it carries: the name of the kami or the Buddhist figure is the talisman's working part",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "quran-pendant",
    "type": "amulet",
    "name": "Qur'an pendant",
    "as": "the sign underneath: the names and attributes of God doing the work",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "จี้อัลกุรอาน",
+   "as_th": ""
   },
   {
    "from": "talismanic-shirt",
    "type": "amulet",
    "name": "Talismanic shirt",
    "as": "the sign doing the work: the names of God, of prophets, and of the angels",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เสื้อยันต์",
+   "as_th": ""
   },
   {
    "from": "islamic-talismanic",
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "the sign at the centre of it: one of the ninety-nine names, or an angel's, written out and carried",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "from": "jewish-practical-kabbalah",
    "type": "tradition",
    "name": "Practical Kabbalah",
    "as": "the technique this tradition is built on and then restricts: divine and angelic names used for amulets and incantations",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "คับบาลาห์ภาคปฏิบัติ",
+   "as_th": ""
   },
   {
    "from": "coin-square",
    "type": "motif",
    "name": "The square hole",
    "as": "Taoist charms carry writing meant to command rather than to be read, which is a different use of script from this one",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "รูสี่เหลี่ยม",
+   "as_th": ""
   },
   {
    "from": "fish",
    "type": "motif",
    "name": "The fish",
    "as": "the fish spells a name; it belongs with the written charms as much as with the animal ones",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ปลา",
+   "as_th": ""
   },
   {
    "from": "magic-square",
    "type": "motif",
    "name": "The number square",
    "as": "in Islamic practice the square is regularly paired with the names of God and of the archangels",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ตารางตัวเลข (ตารางมหัศจรรย์)",
+   "as_th": ""
   },
   {
    "from": "open-palm",
    "type": "motif",
    "name": "The open palm",
    "as": "in Jewish use the palm reads as the letter shin, for Shaddai — a hand that is also a name",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ฝ่ามือเปิด (ฮัมซา)",
+   "as_th": ""
   },
   {
    "from": "palindrome-word",
    "type": "motif",
    "name": "The word that reads both ways",
    "as": "the neighbouring practice: writing that works because of whose name it is, rather than because of its shape",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "คำที่อ่านได้สองทาง",
+   "as_th": ""
   },
   {
    "from": "counting-beads",
    "type": "practice",
    "name": "Counting beads",
    "as": "what the Muslim string is counting: the ninety-nine names, one bead each, or thirty-three taken three times",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "การนับลูกประคำ",
+   "as_th": "สิ่งที่สายของมุสลิมนับ: พระนามทั้งเก้าสิบเก้า เม็ดละหนึ่งพระนาม หรือสามสิบสามวนสามรอบ"
   },
   {
    "from": "inscribing",
    "type": "practice",
    "name": "Inscribing",
    "as": "the single most common thing written, from the Priestly Blessing to the names of God on a shirt",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "การลงอักขระ",
+   "as_th": "สิ่งเดียวที่ถูกเขียนบ่อยที่สุด ตั้งแต่พรของปุโรหิตไปจนถึงพระนามของพระเจ้าบนเสื้อ"
   },
   {
    "from": "quiapo-church",
    "type": "place",
    "name": "Quiapo Church",
    "as": "the sign most agimat carry, in Latin, cut or printed on metal",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "โบสถ์กีอาโป",
+   "as_th": ""
   },
   {
    "from": "campbell-bonner",
    "type": "person",
    "name": "Campbell Bonner",
    "as": "the sign his gems carry most consistently — names and vowel-strings cut beside the figure",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "แคมป์เบลล์ บอนเนอร์",
+   "as_th": ""
   },
   {
    "from": "joseph-naveh",
    "type": "person",
    "name": "Joseph Naveh",
    "as": "the sign his editions are mostly reading: the names written into the bowls and strips",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "โยเซฟ นาเวห์",
+   "as_th": ""
   },
   {
    "from": "shaul-shaked",
    "type": "person",
    "name": "Shaul Shaked",
    "as": "the sign the bowls turn on — whose names get written, and in which language",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ชาอูล ชาเกด",
+   "as_th": ""
   },
   {
    "from": "phylactery-word",
    "type": "term",
    "name": "phylactery",
    "as": "what is actually inside the boxes: text, not a sign",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ฟิแล็กเทอรี (phylactery)",
+   "as_th": ""
   },
   {
    "from": "taweez-word",
    "type": "term",
    "name": "taweez",
    "as": "what is written inside more often than anything else",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ตะวีซ",
+   "as_th": ""
   }
  ]
 }

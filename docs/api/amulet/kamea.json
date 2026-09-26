@@ -12,7 +12,8 @@
    "kame'a",
    "Jewish written amulet",
    "segullah object"
-  ]
+  ],
+  "th": "คาเมอา (เครื่องรางแบบเขียนของชาวยิว)"
  },
  "region": [
   "levant",
@@ -42,6 +43,9 @@
  "text": {
   "what": "A written amulet: a small sheet of parchment, paper or thin metal, inscribed in Hebrew with divine and angelic names, sometimes laid out as a grid of letters or numbers, then folded or rolled and carried, hung at a bed, or fixed in a house. What is written on it is the object; the case, where there is one, is a case.",
   "story": "The practice has a name in its own tradition — Kabbalah Ma'asit, practical Kabbalah — and that tradition mostly forbids it.\n\nGershom Scholem's point about it is the historical one: a large part of the content of practical Kabbalah predates speculative Kabbalah and does not depend on it. What ended up under the label was an agglomeration of all the magical practices that developed in Judaism from the Talmudic period through the Middle Ages, and the doctrine of the Sefirot hardly ever played a decisive role in them. Amulet-making using the esoteric names of angels dates from Talmudic times.\n\nThe split between contemplative and practical Kabbalah was complete by the beginning of the 14th century, and most of the writing of the practical branch was never published. Abraham Abulafia condemned it. One tradition of it flourished in Spain in the second half of the 15th century, before the Alhambra Decree, around a text called Sepher ha-Mashiv; Moshe Idel describes its practitioners as interested in demonology and in coercive incantations to summon demons, angels and even God, in order to hasten the Messianic Age. Joseph Della Reina's failure at that was held up by later Kabbalists as a warning.\n\nThen Isaac Luria, in 16th-century Safed, forbade his students to write amulets at all, and because Luria is the central teacher of modern Kabbalah and the foundation for later Hasidism, that prohibition carries authority rather than opinion. His reasoning was about purity: without the Temple and the ashes of the Red Heifer to purify with, the pursuit of practical Kabbalah by a person with an impure body is very detrimental.\n\nIt kept going anyway, at the border. The Baal Shem healers worked with methods between practical and meditative Kabbalah, amulets among them — Elijah Ba'al Shem of Chelm (1550–1583), the Baal Shem of London (1708–1782). Yisrael Baal Shem Tov (1698–1760) began as one, used amulets, and by the end of his life wrote only his own name on them, Yisrael ben Sara or Yisrael ben Eliezer, and no names of God at all. In the 1750s Jacob Emden accused Jonathan Eybeschütz of being a secret Sabbatean, chiefly on his reading of some amulets Eybeschütz had written. Rabbi Hirsch Fraenkel was imprisoned in Germany in 1713 for owning a library said to contain oaths and amulets for overcoming demons, seeing the future and speaking to the dead.\n\n*Inference —* a practice whose own authorities forbid it and whose writings were mostly never published is a practice an atlas can describe and should not demonstrate. This record names who restricts it and stops there; see the restricted note below.\n\nOne word of warning about the name. In Western ceremonial magic, 'kamea' also means the planetary number squares that Cornelius Agrippa expounded in De Occulta Philosophia in 1531, used as grids on which to trace the sigils of spirits by converting a name to numbers. That is a different object with a borrowed Hebrew word, and the atlas keeps them apart."
+ },
+ "text_th": {
+  "what": "เครื่องรางแบบเขียน เป็นแผ่นเล็ก ๆ ทำจากหนังฟอก กระดาษ หรือโลหะบาง จารึกเป็นภาษาฮีบรูด้วยพระนามของพระเจ้าและนามของทูตสวรรค์ บางครั้งจัดเป็นตารางตัวอักษรหรือตัวเลข แล้วพับหรือม้วน นำไปพกติดตัว แขวนที่เตียง หรือติดไว้ในบ้าน สิ่งที่เขียนไว้คือตัววัตถุ ส่วนตลับ ถ้ามี ก็เป็นเพียงตลับ"
  },
  "restricted": {
   "note": "Practical Kabbalah is restricted inside its own tradition. It was held to be permitted only to an elite who could keep its spiritual source separate from the realms of evil, and only under conditions of holiness and purity; most Kabbalists have taught that its use is forbidden outright. Isaac Luria forbade his students to write amulets and taught that, in generations without the Temple and the ashes of the Red Heifer, its pursuit by a person with an impure body is very detrimental. This atlas therefore prints no formula, no arrangement of divine or angelic names, and no construction for any kame'a. What is above is history and prohibition; the working content is not published here and is mostly not published anywhere.",
@@ -258,70 +262,90 @@
    "type": "tradition",
    "name": "Practical Kabbalah",
    "as": "the tradition this object is the whole material output of",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "คับบาลาห์ภาคปฏิบัติ",
+   "as_th": ""
   },
   {
    "to": "incantation-bowl",
    "type": "amulet",
    "name": "Incantation bowl",
    "as": "the same writing, seven centuries earlier, buried under a floor in Nippur instead of folded into a pocket",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "ชามคาถา",
+   "as_th": ""
   },
   {
    "to": "mezuzah",
    "type": "amulet",
    "name": "Mezuzah",
    "as": "the object Maimonides used to draw the line — write angel names inside one and you have turned a commandment into this",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เมซูซา",
+   "as_th": ""
   },
   {
    "to": "tefillin",
    "type": "amulet",
    "name": "Tefillin",
    "as": "the commandment the Talmud specifically differentiates from amulets, and which a kame'a is not",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เทฟิลลิน",
+   "as_th": ""
   },
   {
    "to": "magic-square",
    "type": "motif",
    "name": "The number square",
    "as": "the grid the Western occult tradition borrowed this word for, after Agrippa's planetary squares of 1531",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ตารางตัวเลข (ตารางมหัศจรรย์)",
+   "as_th": ""
   },
   {
    "to": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "the sign this object is made of, and the one it does not print here",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "พระนาม",
+   "as_th": ""
   },
   {
    "to": "ketef-hinnom-scrolls",
    "type": "amulet",
    "name": "Ketef Hinnom silver scrolls",
    "as": "the oldest surviving Hebrew written charm, six centuries before the Talmudic practice this record starts from",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "ม้วนแผ่นเงินเคเทฟฮินโนม",
+   "as_th": ""
   },
   {
    "to": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the Islamic parallel, argued over inside its own tradition on almost identical terms",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "to": "red-string",
    "type": "amulet",
    "name": "Red string",
    "as": "the one piece of this world that went fully public, and the one its own scholars are most dismissive of",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "to": "what-this-atlas-does-not-print",
    "type": "story",
    "name": "What this atlas does not print",
    "as": "the long read about the restricted block; this record is one of its examples",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สิ่งที่แอตลาสนี้ไม่ตีพิมพ์",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -524,84 +548,108 @@
    "type": "amulet",
    "name": "Incantation bowl",
    "as": "the descendant that keeps the writing and drops the bowl",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "ชามคาถา",
+   "as_th": ""
   },
   {
    "from": "ketef-hinnom-scrolls",
    "type": "amulet",
    "name": "Ketef Hinnom silver scrolls",
    "as": "the written Jewish amulet as a class, of which this is the oldest dated survivor",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "ม้วนแผ่นเงินเคเทฟฮินโนม",
+   "as_th": ""
   },
   {
    "from": "mezuzah",
    "type": "amulet",
    "name": "Mezuzah",
    "as": "the line Maimonides was drawing: write angel names inside a mezuzah and you have made one of these out of a mitzvah",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เมซูซา",
+   "as_th": ""
   },
   {
    "from": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the Jewish parallel, argued over inside its own tradition on almost the same terms",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "from": "tefillin",
    "type": "amulet",
    "name": "Tefillin",
    "as": "the written Jewish amulet these are constantly mistaken for and formally separated from",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เทฟิลลิน",
+   "as_th": ""
   },
   {
    "from": "yantra-plate",
    "type": "amulet",
    "name": "Yantra plate",
    "as": "the Jewish parallel: a written square worn or hung, made by a specialist who names what it is for",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "แผ่นยันต์ (ยันตระ)",
+   "as_th": "คู่เทียบของชาวยิว: ตารางที่เขียนขึ้นแล้วสวมหรือแขวน ทำโดยผู้ชำนาญที่ระบุว่ามีไว้เพื่ออะไร"
   },
   {
    "from": "jewish-practical-kabbalah",
    "type": "tradition",
    "name": "Practical Kabbalah",
    "as": "the whole material output of this tradition — the written amulet itself, and the object Emden read Eybeschütz's Sabbateanism out of",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "คับบาลาห์ภาคปฏิบัติ",
+   "as_th": ""
   },
   {
    "from": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "the Jewish written amulet this tradition's restrictions are about",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "พระนาม",
+   "as_th": ""
   },
   {
    "from": "magic-square",
    "type": "motif",
    "name": "The number square",
    "as": "the Jewish amulet that is a square of letters and numbers, from the tradition Abraham ibn Ezra fed into",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ตารางตัวเลข (ตารางมหัศจรรย์)",
+   "as_th": ""
   },
   {
    "from": "parchment",
    "type": "material",
    "name": "Parchment",
    "as": "the written Jewish amulet, on parchment where it is not on metal",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "แผ่นหนัง (พาร์ชเมนต์)",
+   "as_th": ""
   },
   {
    "from": "silver",
    "type": "material",
    "name": "Silver",
    "as": "the written Jewish amulet, put on parchment or on metal, and the metal is usually this one",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เงิน (โลหะเงิน)",
+   "as_th": ""
   },
   {
    "from": "phylactery-word",
    "type": "term",
    "name": "phylactery",
    "as": "the written Jewish amulet a careless writer will call a phylactery, though the tradition keeps them apart",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ฟิแล็กเทอรี (phylactery)",
+   "as_th": ""
   }
  ]
 }

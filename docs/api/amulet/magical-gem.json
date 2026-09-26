@@ -9,7 +9,8 @@
    "Abraxas stone",
    "gnostic gem",
    "magical intaglio"
-  ]
+  ],
+  "th": "อัญมณีเวทมนตร์ (หินสลักกรีก-อียิปต์)"
  },
  "region": [
   "ancient-egypt",
@@ -35,6 +36,9 @@
  "text": {
   "what": "A cut stone between one and three centimetres across, engraved on both faces and often round the edge as well. One face carries a figure — most famously the cock-headed, serpent-legged anguipede named Abrasax, holding a shield and a whip. The other carries names and lines of letters, many of them in no known language. It was set in a ring or pierced and hung. The Campbell Bonner Magical Gems Database, which catalogues them, describes gems \"designed to bring their owners health, prosperity and love\".",
   "story": "The name Abrasax, or Abraxas, appears on nearly all the legends on these gems, sometimes filling the whole face on its own. It turns up in the same breath as other names across the Greek magical papyri and on Greek metal curse tablets: \"I conjure you by Iaō Sabaōth Adōnai Abrasax, and by the great god, Iaeō.\" E. A. Wallis Budge described the composite figure as a Pantheus, an All-God, \"with the head of a cock (Phœbus) or of a lion (Ra or Mithras), the body of a man, and his legs are serpents which terminate in scorpions\".\n\nThe stones were classed and re-classed for three centuries by collectors who wanted to know whose they were. Antiquarians sorted them into Abraxas proper, taken as Basilidian and Gnostic; Abraxastes, older forms adapted; and Abraxoïdes, unconnected to Basilides altogether. The cited account is blunt about where that got them: no attempt to identify the figures on existing gems with the personages of Gnostic mythology has succeeded, and Abrasax is the only term in the legends that is not already known from other religions.\n\nWhat can be said is that the gems and the magic papyri reflect the same ideas, and that the papyri contain directions for making and using gems with similar figures and formulas — which is why, as the cited account puts it, it can scarcely be doubted that many of these stones are amulets and instruments of magic.\n\n*Inference —* this is the atlas's clearest case of a corpus without a findspot. The Campbell Bonner database lists contributing institutions across fifteen countries and a string of galleries and auction houses; the whole corpus is estimated at around 5,600 pieces. The countries on this record are where the gems were made and used according to the cited accounts, not where they were dug up, because for most of them nobody recorded that."
+ },
+ "text_th": {
+  "what": "หินเจียขนาดหนึ่งถึงสามเซนติเมตร สลักทั้งสองหน้าและบ่อยครั้งสลักรอบขอบด้วย หน้าหนึ่งมีรูปบุคคล — ที่โด่งดังที่สุดคือร่างหัวไก่ที่มีขาเป็นงู ชื่ออะบราซัส (Abrasax) ถือโล่และแส้ อีกหน้ามีชื่อและแถวตัวอักษร ซึ่งหลายแถวไม่ตรงกับภาษาใดที่รู้จัก ฝังไว้ในแหวนหรือเจาะรูแขวน ฐานข้อมูลอัญมณีเวทมนตร์แคมป์เบลล์ บอนเนอร์ (Campbell Bonner Magical Gems Database) ซึ่งจัดทำรายการของเหล่านี้ บรรยายว่าเป็นอัญมณี \"ที่ออกแบบมาเพื่อนำสุขภาพ ความมั่งคั่ง และความรักมาสู่เจ้าของ\""
  },
  "dating": {
   "period": "Roman Imperial",
@@ -250,70 +254,90 @@
    "type": "amulet",
    "name": "Curse tablet",
    "as": "the same voces magicae, the same divine names, scratched on lead and aimed at a person instead of hung on one",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "แผ่นคำสาป (คาตาเดสมอส)",
+   "as_th": ""
   },
   {
    "to": "greco-roman-apotropaic",
    "type": "tradition",
    "name": "Greek and Roman protective magic",
    "as": "the tradition, at its most literate and most expensive",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน",
+   "as_th": ""
   },
   {
    "to": "campbell-bonner",
    "type": "person",
    "name": "Campbell Bonner",
    "as": "the scholar the standing database of these stones is named for",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "แคมป์เบลล์ บอนเนอร์",
+   "as_th": ""
   },
   {
    "to": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "the sign most of these stones actually carry, once the figure is set aside",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "พระนาม",
+   "as_th": ""
   },
   {
    "to": "palindrome-word",
    "type": "motif",
    "name": "The word that reads both ways",
    "as": "the other class of written charm that works by the shape of the letters rather than their sense",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "คำที่อ่านได้สองทาง",
+   "as_th": ""
   },
   {
    "to": "carnelian",
    "type": "material",
    "name": "Carnelian",
    "as": "one of the stones cut for this, and the one the later Islamic tradition singles out as the Prophet's",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "คาร์เนเลียน",
+   "as_th": ""
   },
   {
    "to": "holy-rider-pendant",
    "type": "amulet",
    "name": "Holy rider pendant",
    "as": "what this practice turns into once it is Christian: named demons, named angels, and a rider",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "จี้นักบุญขี่ม้า",
+   "as_th": ""
   },
   {
    "to": "incantation-bowl",
    "type": "amulet",
    "name": "Incantation bowl",
    "as": "the eastern cousin — the same late-antique habit of writing names to bind a power, in ink on clay rather than cut in stone",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ชามคาถา",
+   "as_th": ""
   },
   {
    "to": "abracadabra",
    "type": "term",
    "name": "abracadabra",
    "as": "the word that came out of this world and outlived every deity named on these stones",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "อาบราคาดาบรา",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read; most of these gems reached museums through the trade, and their findspots went with the diggers",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -511,126 +535,162 @@
    "type": "amulet",
    "name": "Curse tablet",
    "as": "the same names and the same nonsense-words, cut in stone to protect a wearer instead of scratched in lead to harm a stranger — this record is that one inverted",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "แผ่นคำสาป (คาตาเดสมอส)",
+   "as_th": ""
   },
   {
    "from": "holy-rider-pendant",
    "type": "amulet",
    "name": "Holy rider pendant",
    "as": "the practice this grew out of — named powers, named demons, cut small and worn",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "จี้นักบุญขี่ม้า",
+   "as_th": ""
   },
   {
    "from": "navaratna-ring",
    "type": "amulet",
    "name": "Navaratna ring",
    "as": "the Mediterranean parallel — a cut stone prescribed by a specialist and worn against a named harm",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "แหวนนพเก้า",
+   "as_th": "สิ่งที่เทียบได้ในเมดิเตอร์เรเนียน — หินเจียระไนที่ผู้เชี่ยวชาญกำหนดให้ และสวมเพื่อกันภัยที่ระบุชื่อไว้"
   },
   {
    "from": "greco-roman-apotropaic",
    "type": "tradition",
    "name": "Greek and Roman protective magic",
    "as": "the literate and expensive end of it, cut in stone and written in names nobody can read",
-   "rel": "part"
+   "rel": "part",
+   "name_th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน",
+   "as_th": ""
   },
   {
    "from": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "Abraxas stones — the oldest surviving objects here that carry a name and little else",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "พระนาม",
+   "as_th": ""
   },
   {
    "from": "lion",
    "type": "motif",
    "name": "The lion",
    "as": "where the lion head ends up in late antiquity, stacked with a cock's head and serpent legs on the same figure",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "สิงโต",
+   "as_th": ""
   },
   {
    "from": "palindrome-word",
    "type": "motif",
    "name": "The word that reads both ways",
    "as": "Abraxas stones carry the word, and are the earliest objects it is found on",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "คำที่อ่านได้สองทาง",
+   "as_th": ""
   },
   {
    "from": "serpent",
    "type": "motif",
    "name": "The serpent",
    "as": "the engraved stones that carry snakes, snake-legged figures and serpent-haired heads",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "งู",
+   "as_th": "หินแกะสลักที่มีรูปงู รูปคนขาเป็นงู และศีรษะที่มีผมเป็นงู"
   },
   {
    "from": "carnelian",
    "type": "material",
    "name": "Carnelian",
    "as": "the Greek and Roman engraved gem, for which this stone's refusal to hold hot wax made it the seal-cutter's default",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "คาร์เนเลียน",
+   "as_th": ""
   },
   {
    "from": "gold",
    "type": "material",
    "name": "Gold",
    "as": "the engraved stone that was set in gold when the owner could manage it",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ทองคำ",
+   "as_th": ""
   },
   {
    "from": "lead",
    "type": "material",
    "name": "Lead",
    "as": "the protective side of the same late-antique workshop, cut in stone instead of scratched in lead",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ตะกั่ว",
+   "as_th": ""
   },
   {
    "from": "campbell-bonner",
    "type": "person",
    "name": "Campbell Bonner",
    "as": "the object class his 1950 book defined, named and made countable",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "แคมป์เบลล์ บอนเนอร์",
+   "as_th": ""
   },
   {
    "from": "christopher-faraone",
    "type": "person",
    "name": "Christopher A. Faraone",
    "as": "the Roman-period object his 2018 book tracks the Greek amulet turning into",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "คริสโตเฟอร์ เอ. ฟาราโอเน",
+   "as_th": ""
   },
   {
    "from": "wallis-budge",
    "type": "person",
    "name": "E. A. Wallis Budge",
    "as": "the Gnostic and Graeco-Egyptian engraved stones his 1930 compendium gathered and illustrated alongside everything else",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "อี. เอ. วอลลิส บัดจ์",
+   "as_th": ""
   },
   {
    "from": "abracadabra",
    "type": "term",
    "name": "abracadabra",
    "as": "where the word turns up cut in stone, on Abraxas stones worn as amulets",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "อาบราคาดาบรา",
+   "as_th": ""
   },
   {
    "from": "periapt",
    "type": "term",
    "name": "periapt",
    "as": "the class of object Victorian writers were usually describing when they reached for this word",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "เพริแอปต์ (เครื่องรางแขวนคอ)",
+   "as_th": ""
   },
   {
    "from": "talisman-word",
    "type": "term",
    "name": "talisman",
    "as": "exactly the thing the 1630s English sense named: a figure cut in stone under stated observances",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ทาลิสแมน",
+   "as_th": ""
   },
   {
    "from": "budge-plates",
    "type": "art",
    "name": "Budge's amulet plates",
    "as": "the Gnostic and Graeco-Egyptian stones that fill several of the plates",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "แผ่นภาพเครื่องรางของบัดจ์",
+   "as_th": ""
   }
  ]
 }

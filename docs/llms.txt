@@ -19,6 +19,7 @@ Note for machines: where a tradition restricts what may be published, the record
 - [Vocabularies](https://nanobotco.github.io/amulet-atlas/api/vocab/against.json)
 - [Sources registry](https://nanobotco.github.io/amulet-atlas/api/sources.json)
 - [Full text of every record](https://nanobotco.github.io/amulet-atlas/llms-full.txt)
+- [The Thai edition · ฉบับภาษาไทย](https://nanobotco.github.io/amulet-atlas/th/): the same records under /th/; a record's Thai is in `names.th`, `text_th` and `kin[].as_th`
 
 ## Amulets
 - [Agadez cross](https://nanobotco.github.io/amulet-atlas/amulet/tuareg-cross/): A cast pendant, usually silver, with a ring or loop at the top and a flared, spreading body below — sometimes a cross, more often a shape between a cross and a shield.

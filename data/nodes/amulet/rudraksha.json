@@ -8,7 +8,12 @@
   "script": "Devanagari",
   "lang": "sa",
   "said": "rud-RAAK-sha",
-  "aliases": ["rudraksha", "rudrākṣa", "blueberry bead"]
+  "aliases": [
+   "rudraksha",
+   "rudrākṣa",
+   "blueberry bead"
+  ],
+  "th": "รุทรากษ์"
  },
  "etymology": {
   "root": "Sanskrit rudra (Shiva) + akṣa (eye) — 'eye of Rudra'",
@@ -16,14 +21,35 @@
   "tier": "cited",
   "source": "s:wp-rudraksha"
  },
- "region": ["south-asia", "himalaya-tibet", "island-sea"],
- "countries": ["IN", "NP", "ID"],
- "facets": {"era": "medieval", "status": "living", "portable": "worn", "restricted": "open", "hemisphere": ["N", "S", "E"]},
+ "region": [
+  "south-asia",
+  "himalaya-tibet",
+  "island-sea"
+ ],
+ "countries": [
+  "IN",
+  "NP",
+  "ID"
+ ],
+ "facets": {
+  "era": "medieval",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "S",
+   "E"
+  ]
+ },
  "text": {
   "what": "A hard brown seed-stone, ridged from top to bottom, drilled and strung at the throat. The stone is the pit of the fruit of Elaeocarpus ganitrus, a fast-growing evergreen of the Himalayan foothills; ripe, the fruit wears a blue husk, which is why sellers call the bead a blueberry bead. The ridges are read as faces — mukha, Sanskrit for face — and the count of faces on one bead is the first thing a buyer looks for. Nepalese beads run 20 to 35 mm, Indonesian ones 5 to 25 mm.",
   "story": "The bead belongs to Shiva, and the texts say why. Several late-medieval Upanishads give a scene: the sage Bhusunda asks Kalagni Rudra where rudraksha begin, and the god answers that he closed his eyes to destroy the Tripurasura, drops fell from the closed eyes to the earth, and those tears became the stones. In the same passage the promise attached to the bead is not protection but merit — the god says that uttering the name alone earns the benefit of giving ten cows in charity, and seeing and touching it doubles that.\n\nThe Tamil Tirumurai reads the bead as a mark you can see across a street: those who walk the paths of charya and kriya wear twin rings in the earlobes and a twin rudraksha garland at the neck, and the text calls that a sign of piety.\n\nThe counts are specific and published. A bead may carry between one and twenty-one faces; instances of twenty-six or twenty-seven have been reported and are rare. One face, ekamukha, is the rarest of all. A rudraksha with eleven faces is worn by renunciants, a two-faced bead by the married, and a five-faced bead stands for Hanuman. Naturally joined beads have their own names — savar for a conjoined pair, Gauri Shankar where the two are of a size, Garbha Gauri where one is smaller, Ganesha where a bead carries a trunk-like protrusion, Trijuti for three grown together.\n\n*Inference —* every one of those distinctions is a price. A tradition that sorts a seed into twenty-one grades, then again by how many grew together, has built the apparatus a market needs, and the rarest grades are the ones a buyer cannot check by eye.",
   "how": "Strung as a mala — a garland — usually of 108 beads plus one, which the wearers call the meru, bindu or guru bead and use to mark where a cycle of recitation begins and ends. Shorter strings run 27+1 and 54+1. Silk or black or red cotton thread is the common stringing; jewellers less often use copper, silver or gold wire, and a bead strung too tightly can split. The Devi Bhagavata Purana describes how a garland is prepared. The recitation the beads count is most often Om Namah Shivaya.",
   "today": "Grown and sold as a crop. Cultivation centres on the Himalayan foothills in Nepal and India — Kathmandu and the Arun Valley in Nepal, Kulu and Rameshwaram in India — with groves in Uttarakhand, and a 184-acre grove, the Ch. Devi Lal Rudraksha Vatika in Yamunanagar district, Haryana, is planted to the tree along with some 400 endangered ayurvedic herbs. Nepal, India and Indonesia are the three sources named for the jewellery trade as of 2026, and the bead is priced alongside semi-precious stones."
+ },
+ "text_th": {
+  "what": "เมล็ดแข็งสีน้ำตาล มีร่องจากบนลงล่าง เจาะรูแล้วร้อยสวมที่คอ เมล็ดนี้คือแกนในของผลเอเลโอคาร์ปัส กานิทรัส (Elaeocarpus ganitrus) ไม้ไม่ผลัดใบที่โตเร็วบนเชิงเขาหิมาลัย ผลสุกมีเปลือกสีน้ำเงิน ผู้ขายจึงเรียกว่าลูกปัดบลูเบอร์รี ร่องต่าง ๆ ถูกนับเป็นหน้า เรียกว่า มุขะ (mukha) คำสันสกฤตที่แปลว่าหน้า และจำนวนหน้าบนเมล็ดหนึ่งเป็นสิ่งแรกที่ผู้ซื้อดู เมล็ดจากเนปาลขนาด 20 ถึง 35 มม. เมล็ดจากอินโดนีเซีย 5 ถึง 25 มม."
  },
  "dating": {
   "period": "late-medieval Upanishads to the present",
@@ -38,43 +64,121 @@
  },
  "object": {
   "form": "bead",
-  "materials": ["seed"],
-  "worn": ["neck", "wrist"],
+  "materials": [
+   "seed"
+  ],
+  "worn": [
+   "neck",
+   "wrist"
+  ],
   "made_by": "no restriction on who may wear one; Shaivas above all",
   "count": 108,
-  "colour": ["brown"],
+  "colour": [
+   "brown"
+  ],
   "single_use": false,
   "source": "s:wp-rudraksha",
   "note": "Measured ranges as published: Nepalese beads 20–35 mm, Indonesian 5–25 mm. The count given is the mala of 108 beads plus one; 27+1 and 54+1 strings are also standard."
  },
  "against": [
-  {"harm": "bad-luck", "who": "Shaiva wearers, as summarised in the source", "source": "s:wp-rudraksha", "tier": "tradition", "note": "The source says the stones are worn 'for protection and for chanting mantras' and names no particular harm. Nothing more specific was read, so nothing more specific is claimed here."},
-  {"harm": "poverty", "who": "Kalagni Rudra, in the Upanishadic dialogue with Sage Bhusunda", "quote": "\"By the mere utterance of the name of 'Rudraksha', one acquires the benefit of giving ten cows in charity.\"", "source": "s:wp-rudraksha", "tier": "cited", "note": "The promise in the text is merit, counted in cows given away, not defence against a named harm."}
+  {
+   "harm": "bad-luck",
+   "who": "Shaiva wearers, as summarised in the source",
+   "source": "s:wp-rudraksha",
+   "tier": "tradition",
+   "note": "The source says the stones are worn 'for protection and for chanting mantras' and names no particular harm. Nothing more specific was read, so nothing more specific is claimed here."
+  },
+  {
+   "harm": "poverty",
+   "who": "Kalagni Rudra, in the Upanishadic dialogue with Sage Bhusunda",
+   "quote": "\"By the mere utterance of the name of 'Rudraksha', one acquires the benefit of giving ten cows in charity.\"",
+   "source": "s:wp-rudraksha",
+   "tier": "cited",
+   "note": "The promise in the text is merit, counted in cows given away, not defence against a named harm."
+  }
  ],
  "kin": [
-  {"to": "counting-beads", "as": "the practice the string exists for — 108 beads plus a guru bead is a counter before it is an ornament", "rel": "practice"},
-  {"to": "seed", "as": "the material: a fruit stone, hard enough to drill and outlast the wearer", "rel": "material"},
-  {"to": "tree", "as": "the sign behind the object — this bead is the one amulet in the atlas that is simply a tree's fruit, named for a god's eye", "rel": "motif"},
-  {"to": "hindu-kavacha", "as": "the tradition that files it: an object worn on the body because a text says what wearing it does", "rel": "tradition"},
-  {"to": "navaratna-ring", "as": "the other South Asian body-worn prescription, and the opposite kind — nine bought stones set by an astrologer's reading, against one grown seed anyone may wear", "rel": "contrast"},
-  {"to": "dzi-bead", "as": "the Himalayan bead worn at the same throat, graded the same way by counting marks on its surface, and priced far higher", "rel": "parallel"},
-  {"to": "kathmandu-thamel", "as": "one of the streets the Nepalese beads reach a buyer on", "rel": "place"},
-  {"to": "crystal-pendant", "as": "what the bead becomes in a wellness shop outside the tradition — a stone sold by its properties, with no mantra to count", "rel": "contrast"}
+  {
+   "to": "counting-beads",
+   "as": "the practice the string exists for — 108 beads plus a guru bead is a counter before it is an ornament",
+   "rel": "practice"
+  },
+  {
+   "to": "seed",
+   "as": "the material: a fruit stone, hard enough to drill and outlast the wearer",
+   "rel": "material"
+  },
+  {
+   "to": "tree",
+   "as": "the sign behind the object — this bead is the one amulet in the atlas that is simply a tree's fruit, named for a god's eye",
+   "rel": "motif"
+  },
+  {
+   "to": "hindu-kavacha",
+   "as": "the tradition that files it: an object worn on the body because a text says what wearing it does",
+   "rel": "tradition"
+  },
+  {
+   "to": "navaratna-ring",
+   "as": "the other South Asian body-worn prescription, and the opposite kind — nine bought stones set by an astrologer's reading, against one grown seed anyone may wear",
+   "rel": "contrast"
+  },
+  {
+   "to": "dzi-bead",
+   "as": "the Himalayan bead worn at the same throat, graded the same way by counting marks on its surface, and priced far higher",
+   "rel": "parallel"
+  },
+  {
+   "to": "kathmandu-thamel",
+   "as": "one of the streets the Nepalese beads reach a buyer on",
+   "rel": "place"
+  },
+  {
+   "to": "crystal-pendant",
+   "as": "what the bead becomes in a wellness shop outside the tradition — a stone sold by its properties, with no mantra to count",
+   "rel": "contrast"
+  }
  ],
  "confusable_with": [
-  {"id": "dzi-bead", "tell": "rudraksha is a ridged brown seed and floats light in the hand; a dzi is banded agate, cold and heavy, with etched white patterns"}
+  {
+   "id": "dzi-bead",
+   "tell": "rudraksha is a ridged brown seed and floats light in the hand; a dzi is banded agate, cold and heavy, with etched white patterns"
+  }
  ],
- "links": [{"label": "Rudraksha — Wikipedia", "url": "https://en.wikipedia.org/wiki/Rudraksha"}],
- "sources": ["s:wp-rudraksha", "s:wp-amulet", "s:web-wisdomlib-kavaca"],
+ "links": [
+  {
+   "label": "Rudraksha — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rudraksha"
+  }
+ ],
+ "sources": [
+  "s:wp-rudraksha",
+  "s:wp-amulet",
+  "s:web-wisdomlib-kavaca"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-rudraksha"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-rudraksha"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:wp-rudraksha", "note": "the closing paragraph on grading and price is marked as this project's inference where it appears"},
-   "dating": {"tier": "cited", "source": "s:wp-rudraksha", "note": "no years, because the source gives none"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-rudraksha",
+    "note": "the closing paragraph on grading and price is marked as this project's inference where it appears"
+   },
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-rudraksha",
+    "note": "no years, because the source gives none"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Rudraksha.jpg", "File:Rudraksha mala.jpg"],
+ "x_commons_files": [
+  "File:Rudraksha.jpg",
+  "File:Rudraksha mala.jpg"
+ ],
  "confidence": "high",
  "needs_verification": true,
  "updated": "2026-09-16"

@@ -9,7 +9,8 @@
    "amuletum",
    "amulette",
    "amalettys"
-  ]
+  ],
+  "th": "อะมูเล็ต"
  },
  "etymology": {
   "root": "Latin amuletum > Middle French amulette > English amulet",
@@ -39,6 +40,9 @@
  "text": {
   "what": "The English cover-word for a protective object, and the word this atlas is written in. English-language museums, catalogues and scholarship use it as the wide category and file everything else inside it — Wikipedia's article calls amulet the proper, inclusive term and puts good luck charm and devotional article underneath it as subsets. Other writers split the pair: an amulet turns harm away, a talisman brings fortune in. The same encyclopedia carries both positions, one article apart. Which sense a reader meets depends on who wrote the label in front of them.",
   "story": "Pliny's Natural History pins the Latin word to a thing: an amuletum is an object that protects a person from trouble. Beyond that the Latin is dark. The Online Etymology Dictionary calls its origin uncertain, floats a link to amoliri, 'to avert, to carry away', and turns down the Arabic derivation that gets repeated in popular writing.\n\nEnglish took the word late, and then dropped it. The Online Etymology Dictionary records amalettys in the middle of the fifteenth century, probably through French, and then nothing again until about 1600. A hundred and fifty years of silence, and then it came back to stay.\n\nThe split with talisman is the argument the word carries. Wikipedia's amulet article states flatly that talismans and amulets have interchangeable meanings, and in the next breath that an amulet is generally worn for protection and made from a durable material. Its talisman article keeps the functions apart: protection against evil on one side, good fortune on the other. Museum labels follow one convention or the other without announcing which.\n\n*Inference —* the category is European and it was laid over the world from outside. An Egyptian wore a wedjat; a Bangkok collector buys a phra khrueang by temple and by monk; a visitor to a Kyoto shrine takes home an omamori. None of them reaches for a word meaning amulet-in-general. The wide word belongs to the cataloguer, and it is the word on the spine of this project. Saying so is the least the reader is owed."
+ },
+ "text_th": {
+  "what": "คำครอบคลุมในภาษาอังกฤษสำหรับวัตถุคุ้มครอง และเป็นคำที่แอตลาสนี้ใช้เขียน พิพิธภัณฑ์ บัญชีรายการ และงานวิชาการภาษาอังกฤษใช้คำนี้เป็นหมวดใหญ่ และจัดทุกอย่างไว้ข้างใน บทความในวิกิพีเดียเรียกอะมูเล็ตว่าเป็นคำที่ถูกต้องและครอบคลุม และจัดเครื่องรางนำโชคกับวัตถุเพื่อความศรัทธาไว้ใต้คำนี้เป็นหมวดย่อย นักเขียนคนอื่นแยกคู่คำนี้ออกจากกัน อะมูเล็ตหันภัยออกไป ทาลิสแมนนำโชคเข้ามา สารานุกรมเดียวกันมีทั้งสองจุดยืน ห่างกันเพียงบทความเดียว ผู้อ่านจะพบความหมายแบบไหนขึ้นอยู่กับว่าใครเขียนป้ายที่อยู่ตรงหน้า"
  },
  "dating": {
   "from_year": 1450,

@@ -12,7 +12,8 @@
    "lemon and chillies",
    "lime and seven chillies",
    "nazar battu"
-  ]
+  ],
+  "th": "นิมบู มีร์ชี (มะนาวกับพริก)"
  },
  "etymology": {
   "root": "Hindi nīmbū 'lime, lemon' + mirchī 'chilli' — the object is named by its two ingredients and nothing else",
@@ -42,6 +43,9 @@
   "story": "Two explanations of the same string circulate, and they disagree about who the string is for.\n\nIn Hindu households, especially in northern India, hanging a lime and seven green chillies at the doorstep is a ritual to either ward off or acknowledge Alakshmi, the goddess of misfortune and grief, whose name means not-Lakshmi. One version holds that the sourness of the lime and the pungency of the chillies together make a smell even Alakshmi cannot tolerate. The other holds that Alakshmi is pleased by sour and spicy offerings, and will take her share standing at the door — which makes the string a payment at the threshold rather than a barrier across it. Alakshmi is not named in Vedic, Upanishadic or early Puranic literature; she is named in the Linga Purana, the Padma Purana and the Śrī Sūkta.\n\nThe string also belongs to a wider North Indian and Pakistani class, the nazar battu, whose logic is spoilage. A nazar battu is often a deliberate blemish introduced to prevent perfection: a black mark on the face or neck of a loved one, a flaw built into an otherwise faultless house, a stitching or colouring error put into an expensive carpet or sari. Mothers lightly spit to the side of their children to imply disparagement, and children are marked with a black spot on the cheek, because excessive admiration — even from well-meaning people, even a mother's own love — is held to draw nazar.\n\n*Inference —* a lime and chillies at a shop door belong to that logic rather than to the eye-against-the-eye logic of the Mediterranean. The object is not looking back. It is either an imperfection hung where the perfect thing is, or a plate left out for the guest nobody wants inside.",
   "how": "Bought made up, at the price of a lime. Threaded so the chillies hang below the fruit, tied at a lintel, a counter, a bumper or a dashboard. It is a household act, not a specialist's: no source read here names a priest, a mantra or a consecration for it.",
   "today": "Ordinary street furniture in North Indian and Pakistani towns as of 2026, on shopfronts, new cars and trucks. The phrase nazar battu has also gone idiomatic: commentators in North India and Pakistan use it for a person or thing that is unwanted but has to be tolerated, as some of the press did of Pervez Musharraf during Pakistan's transition to democracy at the 2008 general election."
+ },
+ "text_th": {
+  "what": "มะนาวหนึ่งลูกกับพริกเขียวเจ็ดเม็ดร้อยเชือก แขวนไว้ที่ธรณีประตู เหนือเคาน์เตอร์ร้าน หรือท้ายรถ ไม่มีการสวมใส่และไม่มีการเขียนสิ่งใด ของนี้เน่าอยู่กลางแดด กลายเป็นสีน้ำตาล แล้วก็เปลี่ยนใหม่"
  },
  "dating": {
   "period": "not dated in the sources read",
@@ -194,49 +198,63 @@
    "type": "practice",
    "name": "Hanging at the door",
    "as": "the practice this object is: a charm that guards a threshold instead of a person",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "to": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "the harm it answers, though not the method — this string does not look back, it spoils the look",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "nazar",
    "type": "amulet",
    "name": "Nazar",
    "as": "the glass bead sold for the same harm two thousand kilometres west, and the one this atlas usually shows first",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "to": "tabiz",
    "type": "amulet",
    "name": "Tabiz",
    "as": "the written answer to nazar in the same streets, worn on the body while this hangs at the door",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตาบีซ (เครื่องรางคำอธิษฐาน)",
+   "as_th": ""
   },
   {
    "to": "horseshoe",
    "type": "amulet",
    "name": "Horseshoe",
    "as": "Europe's door-hung answer, nailed above the same opening for a different reason",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เกือกม้า",
+   "as_th": ""
   },
   {
    "to": "hindu-kavacha",
    "type": "tradition",
    "name": "Kavacha — the Hindu armour tradition",
    "as": "the tradition this sits at the household end of, far from any consecrated plate",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "กวจะ (เกราะคุ้มครองในคติฮินดู)",
+   "as_th": ""
   },
   {
    "to": "the-eye-everywhere",
    "type": "story",
    "name": "The eye everywhere",
    "as": "the long read that asks whether a lime in Delhi and a bead in Istanbul are answering the same thing",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ดวงตาทุกหนแห่ง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -386,42 +404,54 @@
    "type": "amulet",
    "name": "Tabiz",
    "as": "what hangs in the doorway of the same street against the same look, made of a lemon rather than a verse",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตาบีซ (เครื่องรางคำอธิษฐาน)",
+   "as_th": ""
   },
   {
    "from": "hindu-kavacha",
    "type": "tradition",
    "name": "Kavacha — the Hindu armour tradition",
    "as": "its household end — no text, no specialist, a lime at a doorstep",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "กวจะ (เกราะคุ้มครองในคติฮินดู)",
+   "as_th": ""
   },
   {
    "from": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "South Asia's answer to the same harm, hung in a doorway instead of worn",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "from": "herb",
    "type": "material",
    "name": "Herb and root",
    "as": "South Asia's hung plant charm, doing at a doorway what the Italian chili string does",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สมุนไพรและรากไม้",
+   "as_th": ""
   },
   {
    "from": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "South Asia's hanging version, strung in a doorway rather than fixed to it",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "from": "the-eye-everywhere",
    "type": "story",
    "name": "The eye everywhere",
    "as": "the South Asian answer, hung in a doorway rather than worn, and burnt afterwards",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ดวงตาทุกหนแห่ง",
+   "as_th": ""
   }
  ]
 }

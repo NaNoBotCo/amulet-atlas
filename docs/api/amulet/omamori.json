@@ -12,7 +12,8 @@
    "o-mamori",
    "お守り",
    "Japanese shrine charm"
-  ]
+  ],
+  "th": "โอมาโมริ (เครื่องรางญี่ปุ่น)"
  },
  "etymology": {
   "root": "Japanese mamori 守り 'protection', with the honorific prefix o- (sonkeigo) — 'the honoured protection'",
@@ -41,6 +42,9 @@
   "story": "Omamori are issued by Shinto shrines and by Buddhist temples alike, dedicated to particular kami or to Buddhist figures, and sold to anyone regardless of what they believe. The shrine consecrates the contents by rite; a Shinto one is described as holding busshin, spiritual offshoots of the deity, a Buddhist one kesshin, manifestations.\n\nThe folklorist Yanagita Kunio dated the thing a reader now recognises to the Tokugawa period at the earliest. Writing in 1969 he put it this way: \"Japanese have probably always believed in amulets of one kind or another, but the modern printed charms now given out by shrines and temples first became popular in the Tokugawa period or later, and the practice of a person wearing miniature charms is also new. The latter custom is particularly common in cities.\" Two claims sit in that sentence — the printed charm is early modern, the pocket-sized charm is later still, and urban.\n\nThe demand outgrew the shrines. Where a popular shrine or temple cannot keep up, it orders omamori from a factory, and priests have objected to the quality and to what they call the \"authenticity\" of the factory product. Both halves of that get reported here: the factory pouch and the hand-finished one come off the same counter, and the argument over whether they are the same object is an argument inside the tradition.\n\n*Inference —* a charm designed to be replaced every twelve months is a charm with a business model, and the New Year crowds are the year's trade. Fushimi Inari-taisha alone drew 2.69 million worshippers over three days at the New Year in 2006, a police figure and the largest in western Japan. No source this project has read publishes what any shrine takes in omamori money, so no figure is given here.",
   "how": "Received, not bought — the verb the tradition uses is sazukaru, to be granted, and the money handed over is hatsuhoryō, a first-fruit offering. If a visitor cannot find one for their need, they may ask a priest to have one made; if enough people ask for the same one, the shrine starts stocking it. The pouch is then carried, tied to a bag or a strap, and not opened; opening it loses what is in it. It is customarily swapped for a new one once a year. The old one goes back to the shrine or temple it came from, usually on or just after New Year, and is burnt rather than thrown out, at the Sagichō or Dondoyaki fire held at the Little New Year on 14 or 15 January. Most Shinto shrines will accept another shrine's omamori; many will not accept a Buddhist one, and the reverse holds too.",
   "today": "Still issued by nearly every shrine and temple in Japan as of 2026, in a spread of categories a buyer picks from: kōtsū-anzen for the road, gakugyō-jōju for exams, shōbai-hanjō for trade, en-musubi for finding a partner, anzan for a safe delivery, kanai-anzen for the household, yaku-yoke against a bad year. Alongside them, shops sell omamori-shaped goods with Mickey Mouse, Hello Kitty, Snoopy or Kewpie on them, issued by no shrine and consecrated by nobody — a separate product that borrows the shape."
+ },
+ "text_th": {
+  "what": "ถุงผ้าไหมยกดอกใบเล็ก สูงไม่กี่เซนติเมตร รูดปิดด้านบนด้วยเชือก และพิมพ์ชื่อศาลเจ้าหรือวัดที่ออกให้ ข้างในเป็นแผ่นกระดาษหรือชิ้นไม้ที่มีคำอธิษฐานหรือคำวิงวอน ถุงต้องปิดไว้เสมอ ไม่มีใครที่พกโอมาโมริเปิดมันออก ส่วนใหญ่แขวนไว้กับกระเป๋า กระเป๋านักเรียน สายห้อยโทรศัพท์ หรือกระจกรถ มากกว่าห้อยคอ"
  },
  "dating": {
   "period": "Tokugawa (Edo) to the present",
@@ -244,84 +248,108 @@
    "type": "amulet",
    "name": "Ofuda",
    "as": "the parent: omamori shares its origin with the ofuda and is the smaller, portable version of it, the one that leaves the house",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "omikuji",
    "type": "amulet",
    "name": "Omikuji",
    "as": "the other paper a visitor leaves the same counter with — but a drawn fortune, not a charm, and tied to a rack rather than carried",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "โอมิกุจิ (ใบเซียมซีญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "japanese-engimono",
    "type": "tradition",
    "name": "Engimono",
    "as": "the class of shrine-and-temple goods this belongs to, sold on the same trays as the daruma and the beckoning cat",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "the rule that shapes the whole object — twelve months, then a new one",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   },
   {
    "to": "burning-retirement",
    "type": "practice",
    "name": "Burning at retirement",
    "as": "how it ends: returned to the shrine and burnt at the Sagichō or Dondoyaki fire in mid-January",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเผาเครื่องรางเมื่อหมดวาระ",
+   "as_th": ""
   },
   {
    "to": "blessing-at-a-shrine",
    "type": "practice",
    "name": "Blessing at a shrine",
    "as": "the rite that makes the pouch more than brocade, performed before it reaches the counter",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การนำไปรับพรที่ศาสนสถาน",
+   "as_th": ""
   },
   {
    "to": "fushimi-inari",
    "type": "place",
    "name": "Fushimi Inari-taisha",
    "as": "the shrine whose New Year crowds are the clearest published measure of what this trade moves — 2.69 million over three days in 2006",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ศาลเจ้าฟูชิมิอินาริไทฉะ",
+   "as_th": ""
   },
   {
    "to": "senso-ji",
    "type": "place",
    "name": "Sensō-ji",
    "as": "a Buddhist counter issuing the same class of charm, in Tokyo's oldest temple",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "วัดเซนโซจิ",
+   "as_th": ""
   },
   {
    "to": "bujeok",
    "type": "amulet",
    "name": "Bujeok",
    "as": "Korea's paper charm carried in a small brocade bag — the same solution to the same problem, one sea away",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "to": "exam-charm",
    "type": "amulet",
    "name": "Exam charm",
    "as": "the genre omamori feeds: gakugyō-jōju is an exam charm printed and priced as one",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เครื่องรางสอบผ่าน (โกกากุ คิกัง)",
+   "as_th": ""
   },
   {
    "to": "phone-charm",
    "type": "amulet",
    "name": "Phone charm",
    "as": "where most of them now hang, which is the modern answer to 'worn at the neck'",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สายห้อยมือถือ",
+   "as_th": ""
   },
   {
    "to": "senninbari",
    "type": "amulet",
    "name": "Senninbari",
    "as": "the charm Japanese women made by hand for soldiers when a shrine pouch was not enough",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เซ็นนินบาริ (ผ้าพันฝีเข็ม)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -533,196 +561,252 @@
    "type": "amulet",
    "name": "Bujeok",
    "as": "Japan's pouch charm, which this matches move for move: a paper inside a small brocade bag, carried and not opened",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "from": "car-saint",
    "type": "amulet",
    "name": "Car saint",
    "as": "the Japanese object doing the same job from the same mirror: kōtsū-anzen, sold for traffic safety",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "นักบุญประจำรถ (เหรียญนักบุญคริสโตเฟอร์)",
+   "as_th": ""
   },
   {
    "from": "daruma",
    "type": "amulet",
    "name": "Daruma",
    "as": "the pocket charm from the same economy, working on the same twelve-month clock",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ดารุมะ",
+   "as_th": ""
   },
   {
    "from": "exam-charm",
    "type": "amulet",
    "name": "Exam charm",
    "as": "the object itself — this record is the one variety of it that has grown a supermarket aisle of its own",
-   "rel": "whole"
+   "rel": "whole",
+   "name_th": "เครื่องรางสอบผ่าน (โกกากุ คิกัง)",
+   "as_th": ""
   },
   {
    "from": "gau-box",
    "type": "amulet",
    "name": "Gau",
    "as": "Japan's sealed pouch, bought at a shrine and likewise not to be opened — the same rule reached by a different route",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กาอู (ตลับเครื่องรางทิเบต)",
+   "as_th": ""
   },
   {
    "from": "maneki-neko",
    "type": "amulet",
    "name": "Maneki-neko",
    "as": "the portable charm from the same shrine counter; this one never leaves the shop",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "แมวกวัก (มาเนกิเนโกะ)",
+   "as_th": ""
   },
   {
    "from": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "its own portable child — same origin, same counter, but sewn into a pouch and carried instead of stood on an altar",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "omikuji",
    "type": "amulet",
    "name": "Omikuji",
    "as": "the other paper from the same counter, and the opposite transaction: an omamori is chosen by category and carried shut, an omikuji is drawn blind and mostly left behind",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "โอมิกุจิ (ใบเซียมซีญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "phone-charm",
    "type": "amulet",
    "name": "Phone charm",
    "as": "the thing most often on the end of the cord in Japan, carrying its own rules about not being opened",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "สายห้อยมือถือ",
+   "as_th": ""
   },
   {
    "from": "ping-an-fu",
    "type": "amulet",
    "name": "Ping'an fu",
    "as": "Japan's sealed brocade pouch, taken from a shrine and returned to be burned a year later: the same cycle, the same year",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ผิงอันฝู (ยันต์ขอความสงบสุข)",
+   "as_th": ""
   },
   {
    "from": "senninbari",
    "type": "amulet",
    "name": "Senninbari",
    "as": "the shrine's version of the same errand, bought over a counter; this one was assembled from a thousand strangers on a street",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เซ็นนินบาริ (ผ้าพันฝีเข็ม)",
+   "as_th": ""
   },
   {
    "from": "st-christopher-medal",
    "type": "amulet",
    "name": "St Christopher medal",
    "as": "the Japanese object sold for the same road, with kōtsū-anzen written on it instead of a Latin rim",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เหรียญนักบุญคริสโตเฟอร์",
+   "as_th": ""
   },
   {
    "from": "teru-teru-bozu",
    "type": "amulet",
    "name": "Teru teru bōzu",
    "as": "the counterpart from the shrine counter — consecrated, bought, and for the year rather than for tomorrow",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เทรุเทรุโบซุ (ตุ๊กตาไล่ฝน)",
+   "as_th": ""
   },
   {
    "from": "japanese-engimono",
    "type": "tradition",
    "name": "Engimono",
    "as": "the tradition's signature object: a brocade bag nobody opens, replaced every year and burnt at the shrine that issued it",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "swastika-sign",
    "type": "motif",
    "name": "The swastika",
    "as": "sold at Japanese temples whose map symbol is this sign",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สวัสดิกะ",
+   "as_th": "มีจำหน่ายที่วัดญี่ปุ่นซึ่งใช้เครื่องหมายนี้เป็นสัญลักษณ์บนแผนที่"
   },
   {
    "from": "cloth",
    "type": "material",
    "name": "Cloth",
    "as": "paper or wood first, brocade bag afterwards — the cloth here is the wrapper, not the charm",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ผ้า",
+   "as_th": ""
   },
   {
    "from": "paper",
    "type": "material",
    "name": "Paper",
    "as": "the pocket version of the same sheet, sewn into brocade so the paper is never seen",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กระดาษ",
+   "as_th": ""
   },
   {
    "from": "blessing-at-a-shrine",
    "type": "practice",
    "name": "Blessing at a shrine",
    "as": "the outward direction in one object: a pouch made sacred by ritual before anyone sees it, then handed over for a donation",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การนำไปรับพรที่ศาสนสถาน",
+   "as_th": "ทิศทางขาออกในวัตถุชิ้นเดียว: ถุงผ้าที่ถูกทำให้ศักดิ์สิทธิ์ด้วยพิธีกรรมก่อนที่ใครจะได้เห็น แล้วส่งมอบให้แลกกับเงินบริจาค"
   },
   {
    "from": "burning-retirement",
    "type": "practice",
    "name": "Burning at retirement",
    "as": "the charm this fire is mostly made of, returned in January by the sackful",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การเผาเครื่องรางเมื่อหมดวาระ",
+   "as_th": ""
   },
   {
    "from": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the counter that refuses the verb — received, not bought, and the money a donation",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": "เคาน์เตอร์ที่ปฏิเสธคำกริยานี้ — ได้รับ ไม่ใช่ซื้อ และเงินคือเงินบริจาค"
   },
   {
    "from": "consecration",
    "type": "practice",
    "name": "Consecration",
    "as": "the packet made sacred through ritual, then never opened by the person carrying it",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การปลุกเสก",
+   "as_th": "ห่อที่ถูกทำให้ศักดิ์สิทธิ์ด้วยพิธีกรรม แล้วไม่เคยถูกเปิดโดยผู้ที่พกติดตัว"
   },
   {
    "from": "folding",
    "type": "practice",
    "name": "Folding",
    "as": "the sealed brocade bag nobody opens, which is this practice's strictest rule",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การม้วนและพับ",
+   "as_th": "ถุงผ้าไหมยกดอกที่ผนึกไว้และไม่มีใครเปิด ซึ่งเป็นกฎที่เคร่งที่สุดของการปฏิบัตินี้"
   },
   {
    "from": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "the charm with the clearest expiry: replaced yearly, returned to its shrine, burnt in January",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   },
   {
    "from": "wearing-hidden",
    "type": "practice",
    "name": "Wearing hidden",
    "as": "the opposite arrangement: carried in plain view and never opened",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "การสวมเครื่องรางแบบซ่อน",
+   "as_th": "การจัดการแบบตรงข้าม: พกอย่างเปิดเผย และไม่เคยเปิดดู"
   },
   {
    "from": "fushimi-inari",
    "type": "place",
    "name": "Fushimi Inari-taisha",
    "as": "the brocade packet a shrine issues and renews each year; this is the head shrine of the kami most of Japan asks for business luck",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ศาลเจ้าฟูชิมิอินาริไทฉะ",
+   "as_th": ""
   },
   {
    "from": "senso-ji",
    "type": "place",
    "name": "Sensō-ji",
    "as": "the packet a temple or shrine issues; Nakamise is the selling street that grew on this approach in 1685",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "วัดเซนโซจิ",
+   "as_th": ""
   },
   {
    "from": "omamori-word",
    "type": "term",
    "name": "omamori",
    "as": "the object the word names, bag and prayer and all",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "โอมาโมริ",
+   "as_th": ""
   },
   {
    "from": "the-charm-goes-digital",
    "type": "story",
    "name": "The charm goes digital",
    "as": "the object every case in this record is copying, including the ones that drop its contents",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "เครื่องรางในโลกดิจิทัล",
+   "as_th": "วัตถุที่ทุกกรณีในบันทึกนี้ลอกแบบมา รวมทั้งกรณีที่ตัดสิ่งที่อยู่ข้างในทิ้งไป"
   }
  ]
 }

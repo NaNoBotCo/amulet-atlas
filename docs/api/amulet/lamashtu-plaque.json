@@ -12,7 +12,8 @@
    "Lamashtu amulet",
    "Lamastu plaque",
    "Dimme amulet"
-  ]
+  ],
+  "th": "แผ่นเครื่องรางลามัชตู"
  },
  "region": [
   "mesopotamia"
@@ -34,6 +35,9 @@
  "text": {
   "what": "A small plaque, pierced or looped so it can hang, carrying the figure of the demon it is aimed at. Lamashtu is cut on it as a composite: a lion's or dog's head, donkey's teeth, bare breasts, bird-of-prey talons, a serpent gripped in each hand. She stands on a donkey in a boat; a dog and a piglet suckle at her. Her seven names, and an incantation telling her to keep away, run across the object in cuneiform. Bronze is the material of the big Neo-Assyrian examples; smaller ones are fired clay and cut stone.",
   "story": "Lamashtu is the daughter of the sky god Anu, and she acts on nobody's instructions but her own — the reason Assyriologists argue she is a goddess rather than a demon, and the reason her name is written with the cuneiform sign that marks deity. Her victims are the unborn and the newly born. She touches a pregnant woman's stomach seven times to kill the baby, or takes it from the wet nurse. Adolescents, adults and the old are on her list too, as a bringer of disease.\n\nThe incantations open by addressing her directly. One amulet, catalogued as AO 8184, runs through her names — 'Dimme', 'Daughter of Anu', 'Who was named by the gods', 'Victoria, heroine among ladies' — and then delivers the whole point of the object: \"you must not approach (this) person.\" The names matter because knowing them is the hold.\n\nThe largest surviving pieces are scenes rather than signs. The Neo-Assyrian plaque in the Louvre known as the Plaque des Enfers sets divine symbols above a sickroom: a patient on a bed, ritual specialists at work, and in the bottom register Lamashtu on her donkey in the boat with the serpents in her fists, while Pazuzu drives her off down the river.\n\n*Inference —* the object is not a picture of the demon so much as a place to put her. Iconographic studies distinguish an earlier threatening figure with raised hands, a middle type holding a comb and spindle, and the elaborate serpent-holding compositions of the first millennium BCE; what stays constant across all three is that she is shown named, held, and on her way out."
+ },
+ "text_th": {
+  "what": "แผ่นเครื่องรางขนาดเล็ก เจาะรูหรือทำห่วงไว้ให้แขวนได้ มีรูปปีศาจที่มันมุ่งจะต่อต้าน ลามัชตูถูกสลักเป็นร่างผสม: หัวสิงโตหรือหัวสุนัข ฟันลา หน้าอกเปลือย กรงเล็บนกล่าเหยื่อ และงูในมือแต่ละข้าง นางยืนอยู่บนลาในเรือ มีสุนัขและลูกหมูดูดนมนาง ชื่อทั้งเจ็ดของนาง และคาถาที่สั่งให้นางอยู่ห่าง ๆ จารึกด้วยอักษรรูปลิ่มไปทั่ววัตถุ ชิ้นใหญ่สมัยอัสซีเรียใหม่ทำจากสำริด ชิ้นที่เล็กกว่าทำจากดินเผาและหินสลัก"
  },
  "dating": {
   "period": "Neo-Assyrian and Neo-Babylonian",
@@ -212,63 +216,81 @@
    "type": "amulet",
    "name": "Pazuzu head",
    "as": "the counter-figure cut on the same plaques, shown chasing her down the river; a household could own both and they were not opposites in the tray",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เศียรปาซูซู",
+   "as_th": ""
   },
   {
    "to": "mesopotamian-apotropaic",
    "type": "tradition",
    "name": "Mesopotamian household protection",
    "as": "the tradition this object is the centre of — a named demon, a named opponent, an incantation, and a thing to hang",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "การคุ้มครองบ้านเรือนแบบเมโสโปเตเมีย",
+   "as_th": ""
   },
   {
    "to": "incantation-bowl",
    "type": "amulet",
    "name": "Incantation bowl",
    "as": "the same soil a thousand years later, with the demon caught in a spiral of ink under the floor instead of nailed to a wall",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "ชามคาถา",
+   "as_th": ""
   },
   {
    "to": "holy-rider-pendant",
    "type": "amulet",
    "name": "Holy rider pendant",
    "as": "the childbirth demon again, now called Abyzou and trampled by a rider on Byzantine bronze",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "จี้นักบุญขี่ม้า",
+   "as_th": ""
   },
   {
    "to": "taweret-amulet",
    "type": "amulet",
    "name": "Taweret amulet",
    "as": "Egypt's answer to the same danger, and a guardian rather than a demon held off",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางเทพีทาเวเรต",
+   "as_th": ""
   },
   {
    "to": "bes-amulet",
    "type": "amulet",
    "name": "Bes amulet",
    "as": "the Egyptian household protector scholars compare to Pazuzu, and so to this plaque's other half",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางเทพเบส",
+   "as_th": ""
   },
   {
    "to": "serpent",
    "type": "motif",
    "name": "The serpent",
    "as": "the sign in both her fists on the first-millennium compositions",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "งู",
+   "as_th": ""
   },
   {
    "to": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "where these went — beds, doorways, and the places a household counted as open",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "to": "most-of-them-are-for-children",
    "type": "story",
    "name": "Most of them are for children",
    "as": "the long read this object opens: the oldest named amulet-demon in the atlas hunts newborns",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ส่วนใหญ่ทำเพื่อเด็ก",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -453,49 +475,63 @@
    "type": "amulet",
    "name": "Holy rider pendant",
    "as": "the same demon's job description two thousand years earlier and one region east — A. A. Barb traced this family of she-demons back to the Mesopotamian primeval sea",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "จี้นักบุญขี่ม้า",
+   "as_th": ""
   },
   {
    "from": "incantation-bowl",
    "type": "amulet",
    "name": "Incantation bowl",
    "as": "the same argument in bronze a millennium earlier, with the demon pictured instead of written",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "ชามคาถา",
+   "as_th": ""
   },
   {
    "from": "pazuzu-head",
    "type": "amulet",
    "name": "Pazuzu head",
    "as": "the demon he is bought for; the necklace in the Uruk texts exists because she is in the room",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เศียรปาซูซู",
+   "as_th": ""
   },
   {
    "from": "taweret-amulet",
    "type": "amulet",
    "name": "Taweret amulet",
    "as": "Mesopotamia's answer to the same fear — but there the danger to mother and baby is the figure on the plaque, and here she is the guard",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เครื่องรางเทพีทาเวเรต",
+   "as_th": ""
   },
   {
    "from": "mesopotamian-apotropaic",
    "type": "tradition",
    "name": "Mesopotamian household protection",
    "as": "the object at the centre of it — the demon, named and held, on a thing you can hang",
-   "rel": "part"
+   "rel": "part",
+   "name_th": "การคุ้มครองบ้านเรือนแบบเมโสโปเตเมีย",
+   "as_th": ""
   },
   {
    "from": "lion",
    "type": "motif",
    "name": "The lion",
    "as": "the lion head on the demon rather than on the guard, which is what makes this family two-sided",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "สิงโต",
+   "as_th": ""
   },
   {
    "from": "most-of-them-are-for-children",
    "type": "story",
    "name": "Most of them are for children",
    "as": "the oldest named answer in this class: a plaque against the demon the incantations say takes the unborn and the newly born",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ส่วนใหญ่ทำเพื่อเด็ก",
+   "as_th": ""
   }
  ]
 }

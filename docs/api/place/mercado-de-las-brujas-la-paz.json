@@ -11,7 +11,8 @@
   "aliases": [
    "La Hechicería",
    "The Witches' Market, La Paz"
-  ]
+  ],
+  "th": "ตลาดแม่มด (เอลเมร์กาโดเดลาสบรูฆัส)"
  },
  "region": [
   "andes"
@@ -30,6 +31,9 @@
   "what": "A run of stalls on Calle Linares in the El Rosario neighbourhood of La Paz, spilling into Jiménez, Santa Cruz and Illampu. Stock: medicinal plants, retama, amulets, talismans, powders, dried frogs, armadillos, and the sullus — dried llama foetuses — that are buried under the foundations of Bolivian houses as an offering to Pachamama.",
   "story": "The market's Spanish name was chosen to be recognisable to foreigners, which is a fact about naming rather than about what is sold. Most of the stallholders are Aymara women, the chifreras. The yatiri who work here are identifiable by their black hats and coca pouches, and the pouches hold amulets, talismans and powders sold for luck, beauty and fertility; they also read fortunes and take commissions for love work and for curses.\n\nThe year has a shape. October is the busiest month, because Pachamama offerings cluster there — sellers put roughly 60 per cent of the year's sales in that one month — and February, at Carnival, is the other peak.\n\nOne street over in the calendar sits Alasitas. From 24 January, for a month, La Paz holds a fair for Ekeko, the Aymara god of abundance, where people buy miniature versions of what they want — food, tools, a house, a car, a diploma — to give to somebody else, on the understanding that the full-sized version follows within the year. Men and, less often, women acting as shaman bless the miniatures; at midday on 24 January the Catholic Church blesses them too, at the cathedral. The name is Aymara for buy from me.\n\nIn 2019 the market was named Intangible Cultural Heritage of La Paz. *Tradition holds —* many of the rituals served here have been adapted to an urban setting, which the encyclopedia attributes to the long aftermath of colonisation rather than to tourism.",
   "today": "Trading, on published accounts. October and Carnival are the peaks. No day is marked open or closed below; stall hours are the sellers' own."
+ },
+ "text_th": {
+  "what": "แถวแผงร้านบนถนนกาเยลินาเรส (Calle Linares) ในย่านเอลโรซาริโอของกรุงลาปาซ ล้นออกไปถึงถนนฮิเมเนซ ซานตาครูซ และอิยัมปู สินค้า: พืชสมุนไพร เรตามา เครื่องราง ยันต์ ผง กบตากแห้ง ตัวนิ่ม และซุยยุส (sullus) — ตัวอ่อนลามะตากแห้ง — ที่ฝังไว้ใต้ฐานรากบ้านในโบลิเวียเป็นเครื่องบูชาแด่ปาชามามา"
  },
  "dating": {
   "period": "modern, on older ground",
@@ -168,56 +172,72 @@
    "type": "amulet",
    "name": "Ekeko",
    "as": "the god of abundance whose fair, Alasitas, runs from 24 January in the same streets",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เอเคโก (ตุ๊กตาชาวแอนดีส)",
+   "as_th": ""
   },
   {
    "to": "illa",
    "type": "amulet",
    "name": "Illa",
    "as": "the Andean miniature that stands for the thing wanted — bought here, blessed, and given away",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "อิยา (รูปสัตว์หินแอนดีส)",
+   "as_th": ""
   },
   {
    "to": "andean-illa-practice",
    "type": "tradition",
    "name": "Illa practice",
    "as": "the tradition this market supplies, from the house offering to the miniature",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "คติอิยา (เครื่องรางจำลองแห่งแอนดีส)",
+   "as_th": ""
   },
   {
    "to": "foundation-deposit",
    "type": "practice",
    "name": "Foundation deposit",
    "as": "the practice the sullus are bought for: an offering under the foundations of a house",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ของฝังใต้ฐานรากอาคาร",
+   "as_th": ""
   },
   {
    "to": "herb",
    "type": "material",
    "name": "Herb and root",
    "as": "the working stock of the stalls, retama among it",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "สมุนไพรและรากไม้",
+   "as_th": ""
   },
   {
    "to": "mercado-de-las-brujas-lima",
    "type": "place",
    "name": "Mercado de Brujas de Gamarra",
    "as": "the Lima market carrying the same foreign name, in a garment district rather than a tourist quarter",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตลาดแม่มดกามาร์รา (ลิมา)",
+   "as_th": ""
   },
   {
    "to": "mercado-de-sonora",
    "type": "place",
    "name": "Mercado de Sonora",
    "as": "the Mexico City counterpart, where the same pairing of plants and ritual goods fills two aisles",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตลาดโซโนรา (เมร์กาโด เด โซโนรา)",
+   "as_th": ""
   },
   {
    "to": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the practice, with a calendar: 60 per cent of the year's trade in October",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -317,35 +337,45 @@
    "type": "amulet",
    "name": "Ekeko",
    "as": "the La Paz market where he is sold year-round, not only in January",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "เอเคโก (ตุ๊กตาชาวแอนดีส)",
+   "as_th": ""
   },
   {
    "from": "andean-illa-practice",
    "type": "tradition",
    "name": "Illa practice",
    "as": "the market that supplies it year-round, with roughly 60 per cent of the year's trade falling in October",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "คติอิยา (เครื่องรางจำลองแห่งแอนดีส)",
+   "as_th": ""
   },
   {
    "from": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the practice with a published season — roughly 60 per cent of the year's trade in October",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": "การปฏิบัตินี้ที่มีฤดูกาลเผยแพร่ไว้ — ราวร้อยละ 60 ของการค้าทั้งปีอยู่ในเดือนตุลาคม"
   },
   {
    "from": "mercado-de-las-brujas-lima",
    "type": "place",
    "name": "Mercado de Brujas de Gamarra",
    "as": "the La Paz market that shares this one's foreign name and sells to a different clientele",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตลาดแม่มดกามาร์รา (ลิมา)",
+   "as_th": ""
   },
   {
    "from": "mercado-de-sonora",
    "type": "place",
    "name": "Mercado de Sonora",
    "as": "the La Paz counterpart, where the sellers are Aymara and the goods are Andean",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตลาดโซโนรา (เมร์กาโด เด โซโนรา)",
+   "as_th": ""
   }
  ]
 }

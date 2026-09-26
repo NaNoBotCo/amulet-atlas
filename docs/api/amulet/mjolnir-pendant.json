@@ -13,7 +13,8 @@
    "hammer amulet",
    "Torshammare",
    "Thorshammer"
-  ]
+  ],
+  "th": "จี้มโยลเนียร์ (ค้อนธอร์)"
  },
  "etymology": {
   "root": "Old Norse Mjǫllnir, from Proto-Norse *melluniaR. Historical linguists disagree on where it goes next: one derivation links it to Old Church Slavonic mlŭnuji and Russian molnija 'lightning', giving 'lightning-maker'; a second to Old Norse mjǫll 'new snow', giving 'shining lightning weapon'; a third to Old Norse mala 'to grind', giving 'the grinder'.",
@@ -55,6 +56,9 @@
   "story": "Around a thousand hammer pendants have come out of the ground in what are now the Nordic countries, England, northern Germany, the Baltic states and Russia. As of 2004, a tenth of the finds came from graves, nearly all cremations, and those burials are often identified as women's. The rest turn up in hoards and in the dirt of trading towns.\n\nThe pendants appear to have grown out of an older north Germanic habit of wearing pendants, and scholars have connected them to the club-of-Hercules amulet worn by other ancient Germanic peoples. Their surge in popularity during the Viking Age, and some of the shapes that surge produced, may have been an answer to Christian cross pendants, which were appearing in the same region as Christianisation advanced. Two signs, two workshops, one neck.\n\nWhat the hammer was for is said out loud on one object. The Kvinneby amulet, an 11th-century copper plate from Öland in Sweden, was likely worn at the neck and carries a Younger futhark inscription that runologists Mindy MacLeod and Bernard Mees translate: \"May Thor protect him with his hammer which came from out of the sea. Flee from evil!\" The poems agree on the hammer's second job. In Þrymskviða, Mjölnir is fetched to hallow a bride; in Gylfaginning, Thor consecrates Baldr's burning ship with it. A hammer that kills is also a hammer that blesses.\n\nIn 1999 the German archaeologist Jörn Staecker proposed a typology of the finds by decoration and material — amber, iron, silver. In 2019 the American scholar Katherine Suzanne Beard extended it by hammer shape and suspension type and launched Eitri, an online database of hammer finds with their composition and discovery context.\n\nThe second span starts much later. The hammer is worn again today by adherents of Heathenry, and scholars Jenny Blain and Robert J. Wallis wrote in 2006 that Thor's hammer is the most common of heathen sacred artefacts. In the United States the National Cemetery Administration issues the Hammer of Thor as emblem #55 for veterans' headstones. The symbol has also been taken up in white nationalist and neo-Nazi circles: the Anti-Defamation League's symbol database records that white supremacists sometimes build swastikas and other hate symbols into the decoration, while noting that its traditional origins are non-racist. Beard's position is that \"most people who wear hammer pendants today do so for cultural, religious, or decorative reasons and maintain absolutely no ties to any racist groups or beliefs\". The dating block below covers the excavated Viking-Age span only; the revival is a separate, living span that this record describes in prose rather than folding into the same bar.",
   "how": "Cast or cut in iron or silver, occasionally amber, pierced or looped at the haft end, and strung. In Viking-Age cremation graves around Mälaren, in Åland and in Russia, archaeologists also find Thor's hammer-rings: iron rings hung with several amulets, many but not all of them hammers, recovered from cinerary urns and found in graves of both sexes but more often women's. Their exact function is unknown, and this atlas leaves it unknown.",
   "today": "Made and sold worldwide as of 2026, in silver, steel and pewter, by museum shops, by Heathen craftworkers and by mass-market jewellers. Whether a cast reproduction is the same object as an excavated one is the argument this atlas reports rather than settles; so is who gets to wear the sign, and the ADL entry and Beard's sentence above are the two ends of it."
+ },
+ "text_th": {
+  "what": "ค้อนเล็ก ๆ ที่ห้อยเอาหัวลงไว้ที่คอ: ด้ามสั้น หัวกว้างบานออก มีห่วงหรือวงแหวนสำหรับแขวนอยู่ตรงที่ควรเป็นปลายด้าม ส่วนใหญ่เป็นเหล็กหรือเงินเรียบ ๆ ในราวพันชิ้นที่รู้จัก มีราวร้อยชิ้นที่มีลวดลายประดับ เมื่อสวม อาวุธจะห้อยกลับหัว ซึ่งเป็นวิธีแยกมันออกจากกางเขนเมื่อมองจากระยะเอื้อมแขน"
  },
  "dating": {
   "period": "Viking Age",
@@ -250,77 +254,99 @@
    "type": "material",
    "name": "Iron",
    "as": "the commonest metal these pendants are cut from, and the metal the rest of northern Europe reaches for against the same kind of harm",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เหล็ก",
+   "as_th": ""
   },
   {
    "to": "silver",
    "type": "material",
    "name": "Silver",
    "as": "the other common metal, and the one the ornamented hundred are nearly all made in",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เงิน (โลหะเงิน)",
+   "as_th": ""
   },
   {
    "to": "amber",
    "type": "material",
    "name": "Amber",
    "as": "the third material in Jörn Staecker's 1999 typology of the finds",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "อำพัน",
+   "as_th": ""
   },
   {
    "to": "cross",
    "type": "motif",
    "name": "The cross",
    "as": "the sign arriving from the other direction — hammer pendants multiply as cross pendants spread through Scandinavia, and scholars read the one as an answer to the other",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "กางเขน",
+   "as_th": ""
   },
   {
    "to": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "the wider northern European habit of wearing metal against harm that this pendant is the oldest dated member of in Scandinavia",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "to": "swastika-sign",
    "type": "motif",
    "name": "The swastika",
    "as": "the other Germanic Iron Age sign this atlas carries, and the one whose modern politics run closest to the hammer's",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สวัสดิกะ",
+   "as_th": ""
   },
   {
    "to": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "the practice that put a tenth of these pendants where archaeologists found them, mostly in cremations, mostly in women's graves",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "to": "horseshoe",
    "type": "amulet",
    "name": "Horseshoe",
    "as": "the other iron object northern Europe hangs against harm, and the one that outlived it by a thousand years",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เกือกม้า",
+   "as_th": ""
   },
   {
    "to": "st-christopher-medal",
    "type": "amulet",
    "name": "St Christopher medal",
    "as": "what a Christian traveller in the same waters wore instead, once the north had changed religion",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เหรียญนักบุญคริสโตเฟอร์",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read this pendant forces: a sign claimed at once by Heathen practitioners, by a national cemetery service and by white supremacists",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "the-swastika-problem",
    "type": "story",
    "name": "The swastika problem",
    "as": "the companion argument, about a sign from the same region with the same modern wound",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ปัญหาเรื่องสวัสติกะ",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -511,7 +537,9 @@
    "type": "amulet",
    "name": "Keris pusaka",
    "as": "the other weapon worn as a charm in this atlas, though that one is a hammer in miniature and this one is a working blade",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กริชปูซากา (กริชมรดก)",
+   "as_th": ""
   }
  ]
 }

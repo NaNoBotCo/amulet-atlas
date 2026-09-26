@@ -4,13 +4,39 @@
  "type": "story",
  "names": {
   "name": "The charm in the wall",
-  "aliases": ["concealed objects", "spiritual middens", "what builders find"]
+  "aliases": [
+   "concealed objects",
+   "spiritual middens",
+   "what builders find"
+  ],
+  "th": "เครื่องรางในกำแพง"
  },
- "region": ["britain-ireland", "western-europe", "north-america", "mesopotamia", "ancient-egypt"],
- "countries": ["GB", "BE", "DE", "US", "CA", "AU", "IQ", "EG"],
- "facets": {"kind": "essay", "era": "early-modern"},
+ "region": [
+  "britain-ireland",
+  "western-europe",
+  "north-america",
+  "mesopotamia",
+  "ancient-egypt"
+ ],
+ "countries": [
+  "GB",
+  "BE",
+  "DE",
+  "US",
+  "CA",
+  "AU",
+  "IQ",
+  "EG"
+ ],
+ "facets": {
+  "kind": "essay",
+  "era": "early-modern"
+ },
  "text": {
   "what": "A whole class of amulet was never meant to be seen again. It goes up a chimney, under a floor, above a ceiling, into a roof void, beside a door frame, or into a pit cut before the first course of brick. Nobody wore it, nobody showed it, and its owners took trouble to make sure nobody found it. What we have instead is a record produced by demolition: every count in this record is a count of buildings that came apart, and the practice that made these objects is measured by the rate at which other people knock houses down."
+ },
+ "text_th": {
+  "what": "เครื่องรางทั้งประเภทหนึ่งไม่เคยมีไว้ให้ใครเห็นอีก มันขึ้นไปอยู่ในปล่องไฟ ใต้พื้น เหนือเพดาน ในช่องใต้หลังคา ข้างวงกบประตู หรือในหลุมที่ขุดไว้ก่อนก่ออิฐแถวแรก ไม่มีใครสวม ไม่มีใครอวด และเจ้าของยังลงแรงเพื่อให้แน่ใจว่าไม่มีใครพบ สิ่งที่เรามีแทนคือบันทึกที่เกิดจากการรื้อถอน: ทุกตัวเลขในรายการนี้คือจำนวนอาคารที่ถูกรื้อลง และธรรมเนียมที่สร้างวัตถุเหล่านี้ถูกวัดด้วยอัตราที่คนอื่นทุบบ้านทิ้ง"
  },
  "sections": [
   {
@@ -47,30 +73,94 @@
   "note": "Opens at the earliest dated deposit this record can name with a source — pegs at the Temple of Ningirsu at Girsu, about 2130 BCE — and closes at the last dated instance, the Knebworth House shoe of 1991. Not marked living: the British shoe custom is reported as having died out during the twentieth century, while witch bottles are still made. The two halves of this record end on different dates and the span takes the later one."
  },
  "kin": [
-  {"to": "concealed-shoe", "as": "the object the Northampton index counts, and the reason half the numbers in this record exist at all", "rel": "carries"},
-  {"to": "witch-bottle", "as": "the other common deposit, and the only one whose contents have been through a laboratory", "rel": "carries"},
-  {"to": "foundation-deposit", "as": "the practice under all of it: an object placed where nobody is meant to look again", "rel": "practice"},
-  {"to": "wearing-hidden", "as": "the same logic on a body instead of in a wall — a charm that works by not being seen", "rel": "practice"},
-  {"to": "burying", "as": "the act itself, which in this class is not disposal but installation", "rel": "practice"},
-  {"to": "incantation-bowl", "as": "Mesopotamia's version, buried face down under a threshold", "rel": "parallel"},
-  {"to": "curse-tablet", "as": "the deposit aimed at somebody rather than for them, put in the same kinds of hole", "rel": "contrast"},
-  {"to": "iron", "as": "what the bottles are filled with — pins, needles and nails, the metal the tradition trusts", "rel": "material"},
-  {"to": "european-folk-apotropaic", "as": "the tradition both British classes belong to", "rel": "tradition"},
-  {"to": "hanging-at-door", "as": "the visible answer to the same fear: the horseshoe over the door, where the bottle goes under it", "rel": "contrast"}
+  {
+   "to": "concealed-shoe",
+   "as": "the object the Northampton index counts, and the reason half the numbers in this record exist at all",
+   "rel": "carries"
+  },
+  {
+   "to": "witch-bottle",
+   "as": "the other common deposit, and the only one whose contents have been through a laboratory",
+   "rel": "carries"
+  },
+  {
+   "to": "foundation-deposit",
+   "as": "the practice under all of it: an object placed where nobody is meant to look again",
+   "rel": "practice"
+  },
+  {
+   "to": "wearing-hidden",
+   "as": "the same logic on a body instead of in a wall — a charm that works by not being seen",
+   "rel": "practice"
+  },
+  {
+   "to": "burying",
+   "as": "the act itself, which in this class is not disposal but installation",
+   "rel": "practice"
+  },
+  {
+   "to": "incantation-bowl",
+   "as": "Mesopotamia's version, buried face down under a threshold",
+   "rel": "parallel"
+  },
+  {
+   "to": "curse-tablet",
+   "as": "the deposit aimed at somebody rather than for them, put in the same kinds of hole",
+   "rel": "contrast"
+  },
+  {
+   "to": "iron",
+   "as": "what the bottles are filled with — pins, needles and nails, the metal the tradition trusts",
+   "rel": "material"
+  },
+  {
+   "to": "european-folk-apotropaic",
+   "as": "the tradition both British classes belong to",
+   "rel": "tradition"
+  },
+  {
+   "to": "hanging-at-door",
+   "as": "the visible answer to the same fear: the horseshoe over the door, where the bottle goes under it",
+   "rel": "contrast"
+  }
  ],
  "links": [
-  {"label": "Concealed shoes — Wikipedia", "url": "https://en.wikipedia.org/wiki/Concealed_shoes"},
-  {"label": "Witch bottle — Wikipedia", "url": "https://en.wikipedia.org/wiki/Witch_bottle"}
+  {
+   "label": "Concealed shoes — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Concealed_shoes"
+  },
+  {
+   "label": "Witch bottle — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Witch_bottle"
+  }
  ],
- "sources": ["s:wp-concealed-shoes", "s:wp-witch-bottle", "s:wp-apotropaic-magic", "s:web-foundation-deposit", "s:web-foundation-figure", "s:wp-incantation-bowl", "s:wp-curse-tablet"],
+ "sources": [
+  "s:wp-concealed-shoes",
+  "s:wp-witch-bottle",
+  "s:wp-apotropaic-magic",
+  "s:web-foundation-deposit",
+  "s:web-foundation-figure",
+  "s:wp-incantation-bowl",
+  "s:wp-curse-tablet"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-concealed-shoes"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-concealed-shoes"
+  },
   "fields": {
-   "sections": {"tier": "cited", "source": "s:wp-concealed-shoes", "note": "the two stretches of this project's own reasoning are labelled inline; dried cats and horse skulls are named by the sources but carry no published count here, and the record says so rather than estimating"}
+   "sections": {
+    "tier": "cited",
+    "source": "s:wp-concealed-shoes",
+    "note": "the two stretches of this project's own reasoning are labelled inline; dried cats and horse skulls are named by the sources but carry no published count here, and the record says so rather than estimating"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Bellarmine jug.jpg", "File:Concealed shoe.jpg"],
+ "x_commons_files": [
+  "File:Bellarmine jug.jpg",
+  "File:Concealed shoe.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-17"
 }

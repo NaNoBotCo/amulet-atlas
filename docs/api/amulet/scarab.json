@@ -13,7 +13,8 @@
    "scarabaeus",
    "dung-beetle amulet",
    "royal-name scarab"
-  ]
+  ],
+  "th": "สคารับ (ด้วงศักดิ์สิทธิ์อียิปต์)"
  },
  "etymology": {
   "root": "Latin scarabaeus 'beetle' — the museum's word, not Egypt's. The beetle the shape copies is usually identified as Scarabaeus sacer, and the god it stands for is Khepri.",
@@ -54,6 +55,9 @@
   "story": "The scarab is the one Egyptian amulet that is also a signature. From the end of the First Intermediate Period, about 2055 BCE, it becomes extremely common, and it pushes aside the cylinder seal and the button seal with its geometric designs. In the Middle Kingdom, officials have their names and titles cut on the base and press them into clay: the same object that guards its wearer also signs his letters.\n\nBy the early Middle Kingdom, about 2000 BCE, the beetle shape is enormously popular, and it stays popular through the rest of the pharaonic period. Neighbours take it up. From the middle Bronze Age, other peoples of the Mediterranean and the Near East import Egyptian scarabs and cut their own in Egyptian or in local styles, most of all in the Levant. Canaanite engravers add cross-hatching, native animals and the palm branch. Phoenician engravers pick the shape up in the Achaemenid period, from the later sixth century BCE into the mid-fourth, and Tharros on Sardinia becomes a production centre; Greek and Phoenician merchants carry them to the Etruscans in the fifth century BCE, and the Etruscan scarab runs at Vulci and Tarquinia from the last decades of the sixth century BCE.\n\nDating one is harder than it looks. A scarab bearing a pharaoh's name is usually of his reign — but not always. Scarabs carrying Old Kingdom names like Khufu, Khafre and Unas were most probably made much later, in the Twenty-fifth or Twenty-sixth Dynasty, when the old kings were being imitated. The throne name of Thutmose III, Men Kheper Re, turns up in vast numbers, many of them centuries after him: the hieroglyphs themselves came to be treated as protective, and the carver may not have understood what he was reproducing. *Inference —* an amulet whose whole point is a name is the amulet most likely to be copied, which is why the scarab is both the best dating tool Egyptology has and one of its worst traps.\n\nOne scarab fixes a shipwreck. A golden scarab inscribed with the name of Queen Nefertiti was lifted from the Uluburun wreck off Turkey, among the luxury cargo, and its inscription gives a frame for when the ship went down.",
   "how": "Carved from steatite and fired hard, or moulded in faience and glazed blue or green. The base is cut with the inscription, the back drilled lengthways, and the thing strung on thread, hung from a necklace or mounted on a swivel ring. Ring mounts change over time: threads tied to the finger in the Old Kingdom, bezels in the Middle Kingdom, cast scarabs on gold wire in the New Kingdom. Most glazes have worn off, so a steatite scarab that reads white or brown in a museum tray was green or blue when it was made.\n\nThree classes go with the dead rather than the living: heart scarabs, pectoral scarabs sewn onto the chest with a separate pair of outstretched wings from the Twenty-fifth Dynasty on, and naturalistic scarabs, 2 to 3 cm long, carved in the round with a suspension loop running crossways.",
   "today": "The shape outlived the practice. Scarabs are made now as jewellery and sold in Cairo, Luxor and the airport shops, and cut stone and faience versions turn up in every dealer's tray. Forgery is old: the Twenty-fifth Dynasty was already making scarabs with fourth-dynasty names on them, so a 'later copy' is a category inside the ancient material, not only a modern problem. As of 2026 no source read for this record puts a figure on how much of the market is modern."
+ },
+ "text_th": {
+  "what": "ด้วงที่แกะหรือหล่อ ด้านล่างแบนและสลักเป็นตราประทับ ด้านหลังแสดงหัว ปีกแข็ง และขา ด้านฐานจารึกอักษรไฮโรกลิฟิก — พระนามของกษัตริย์ ตำแหน่งของขุนนาง คำอธิษฐานสั้น ๆ ภาพการล่าสัตว์ ส่วนใหญ่เจาะรูตลอดความยาวเพื่อร้อยด้ายหรือใส่ในแหวนแบบหมุนได้ ความยาวทั่วไป 6 mm ถึง 40 mm ส่วนใหญ่อยู่ระหว่าง 10 mm ถึง 20 mm แกะจากสตีไทต์ หินเนื้ออ่อนที่แข็งขึ้นเมื่อเผา หรือหล่อจากเฟยองซ์ คือเนื้อควอตซ์ที่เคลือบสีฟ้าหรือเขียวในเตาเผา ชิ้นราคาสูงทำจากแจสเปอร์เขียว อเมทิสต์ หรือคาร์เนเลียน"
  },
  "dating": {
   "period": "Middle Kingdom to the late pharaonic period",
@@ -286,70 +290,90 @@
    "type": "amulet",
    "name": "Heart scarab",
    "as": "the funerary member of this family — same beetle, but sized to the chest, inscribed with a spell and told to keep quiet at the weighing",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "สคารับหัวใจ",
+   "as_th": ""
   },
   {
    "to": "scarab-sign",
    "type": "motif",
    "name": "The beetle",
    "as": "the sign this object is a body for: the beetle that rolls the sun up at daybreak",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ด้วง (สคารับ)",
+   "as_th": ""
   },
   {
    "to": "wedjat-eye",
    "type": "amulet",
    "name": "Wedjat eye",
    "as": "the other amulet Egypt made by the thousand; the eye went over the embalmer's incision, the scarab over the heart",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ตาเวดจัต (ดวงตาแห่งฮอรัส)",
+   "as_th": ""
   },
   {
    "to": "egyptian-amulet-craft",
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "the tradition that cut it, and the one that turned an amulet into an office seal",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   },
   {
    "to": "faience",
    "type": "material",
    "name": "Faience",
    "as": "the moulded material that made it cheap by the tray",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เฟยองซ์ (ควอตซ์เคลือบอียิปต์)",
+   "as_th": ""
   },
   {
    "to": "carnelian",
    "type": "material",
    "name": "Carnelian",
    "as": "the hardstone version, cut not moulded, and costlier",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "คาร์เนเลียน",
+   "as_th": ""
   },
   {
    "to": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "the practice that is why so many survive at all",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "to": "flinders-petrie",
    "type": "person",
    "name": "Flinders Petrie",
    "as": "the excavator whose sequence work made a scarab something you could date a layer with",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "ฟลินเดอร์ส พีทรี",
+   "as_th": ""
   },
   {
    "to": "dating-a-charm",
    "type": "story",
    "name": "Dating a charm",
    "as": "the long read on how a charm gets a date — and this object is its hardest case, because a king's name on it need not be his century",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การระบุอายุเครื่องราง",
+   "as_th": ""
   },
   {
    "to": "met-egyptian-galleries",
    "type": "place",
    "name": "The Egyptian galleries, the Metropolitan Museum of Art",
    "as": "a room where a tray of them can be read against each other",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ห้องจัดแสดงอียิปต์ พิพิธภัณฑ์ศิลปะเมโทรโพลิแทน",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -608,98 +632,126 @@
    "type": "amulet",
    "name": "Cowrie strand",
    "as": "the Egyptian seal-amulet whose cowrie-shaped cousin, the cowroid, copies this shell in stone and faience from the early second millennium BCE",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สายเปลือกหอยเบี้ย",
+   "as_th": ""
   },
   {
    "from": "heart-scarab",
    "type": "amulet",
    "name": "Heart scarab",
    "as": "the parent shape — the same beetle, worn by the living and used to stamp their letters",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "สคารับหัวใจ",
+   "as_th": ""
   },
   {
    "from": "wedjat-eye",
    "type": "amulet",
    "name": "Wedjat eye",
    "as": "the other amulet Egypt made by the thousand; the scarab went under the wrappings at the heart, the eye over the incision",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ตาเวดจัต (ดวงตาแห่งฮอรัส)",
+   "as_th": ""
   },
   {
    "from": "egyptian-amulet-craft",
    "type": "tradition",
    "name": "Egyptian amulet craft",
    "as": "its other mass product, and the one that doubled as an office seal",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "งานเครื่องรางอียิปต์โบราณ",
+   "as_th": ""
   },
   {
    "from": "scarab-sign",
    "type": "motif",
    "name": "The beetle",
    "as": "the amulet and seal itself, which is the sign's body",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ด้วง (สคารับ)",
+   "as_th": ""
   },
   {
    "from": "carnelian",
    "type": "material",
    "name": "Carnelian",
    "as": "sard is named as a stone of Egyptian and Phoenician scarabs, engraved on the flat underside",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "คาร์เนเลียน",
+   "as_th": ""
   },
   {
    "from": "cowrie",
    "type": "material",
    "name": "Cowrie",
    "as": "the cowroid is the Egyptian seal amulet that copies this shell, cut the way a scarab is cut",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "หอยเบี้ย",
+   "as_th": ""
   },
   {
    "from": "faience",
    "type": "material",
    "name": "Faience",
    "as": "the form the sources name first when they say what faience was mostly used for",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เฟยองซ์ (ควอตซ์เคลือบอียิปต์)",
+   "as_th": ""
   },
   {
    "from": "foundation-deposit",
    "type": "practice",
    "name": "Foundation deposit",
    "as": "among the objects Egyptian deposits were filled with, alongside amulets, food and miniature tools",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ของฝังใต้ฐานรากอาคาร",
+   "as_th": ""
   },
   {
    "from": "khan-el-khalili",
    "type": "place",
    "name": "Khan el-Khalili",
    "as": "sold here now as jewellery; the excavated ones are a mile away in the Egyptian Museum",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ข่านเอลคาลีลี",
+   "as_th": ""
   },
   {
    "from": "met-egyptian-galleries",
    "type": "place",
    "name": "The Egyptian galleries, the Metropolitan Museum of Art",
    "as": "the other Egyptian class the 1906–1941 seasons supplied with find-spots attached",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ห้องจัดแสดงอียิปต์ พิพิธภัณฑ์ศิลปะเมโทรโพลิแทน",
+   "as_th": ""
   },
   {
    "from": "flinders-petrie",
    "type": "person",
    "name": "Flinders Petrie",
    "as": "the other Egyptian mass-produced amulet his sequence dating and his typology both had to handle",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ฟลินเดอร์ส พีทรี",
+   "as_th": ""
   },
   {
    "from": "metropolitan-museum",
    "type": "org",
    "name": "The Metropolitan Museum of Art",
    "as": "another Egyptian class the 1906–1941 excavations supplied with find-spots attached",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "พิพิธภัณฑ์ศิลปะเมโทรโพลิทัน (เดอะเมต)",
+   "as_th": "เครื่องรางอียิปต์อีกประเภทหนึ่งที่การขุดค้นระหว่าง ค.ศ. 1906–1941 ให้มาพร้อมจุดที่พบ"
   },
   {
    "from": "petrie-amulet-plates",
    "type": "art",
    "name": "Petrie's amulet plates",
    "as": "the other class that runs to page after page here",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "แผ่นภาพเครื่องรางของพีทรี",
+   "as_th": ""
   }
  ]
 }

@@ -14,7 +14,8 @@
    "calling cat",
    "marushime-neko",
    "zhāocáimāo 招財貓"
-  ]
+  ],
+  "th": "แมวกวัก (มาเนกิเนโกะ)"
  },
  "etymology": {
   "root": "Japanese maneki 招き 'beckoning' + neko 猫 'cat' — the beckoning cat",
@@ -46,6 +47,9 @@
   "story": "The dated record starts in 1852. The Bukō nenpyō, a chronology of Edo, carries an entry for that year; Utagawa Hiroshige's print Joruri-machi Hanka no zu, also 1852, shows the marushime-neko — a variant of the beckoning cat — being sold at Sensō-ji in Asakusa. A Meiji newspaper picked it up in 1876, kimono-clad ones were handed out at an Osaka shrine around then, and by a 1902 advertisement the thing was established.\n\nBehind that lies clay. Potting clay was found at Imado in Asakusa during the Tenshō era of the Azuchi-Momoyama period, local people started making Imado ware, potters from Mikawa Province moved in and developed it, and in the Genroku era (1688–1704) Imado dolls appear — which is the lineage most accounts give the beckoning cat.\n\n*Tradition holds —* four different origin stories, each with a temple attached. Ii Naotaka's hawking party shelters at Gōtoku-ji in the Kan'ei era after a cat beckons them in at the gate, a thunderstorm breaks, and the Ii clan makes the temple its own. Ōta Dōkan, lost and outnumbered at Ekodahara, is beckoned into Jishōin and wins. A poor old woman near Imado Shrine dreams of the cat she had to give up, makes an Imado-ware figure of it, sells it at Asakusa Shrine and prospers. The courtesan Usugumo of Miuraya in Yoshiwara loses her cat to a rumour and a sword; the severed head kills the snake in the privy that would have killed her, and a customer gives her a wooden cat in its place. Each temple claims the birthplace.\n\nIt is routinely taken for Chinese. It is made and sold in China too, as zhāocáimāo, and in Chinatowns abroad it is often labelled a Chinese lucky cat or a golden cat. That is a fact about where the object circulates, not an error to be corrected off the page.",
   "how": "Bought, not consecrated: this is a shop-counter object with no shrine rite behind it, though shrines and temples sell them. Which paw is up carries a reading, and the reading varies with time and place — a raised left paw for more customers, a raised right for more money; hence also the saying that the left is for a business and the right is for a house. Colour was added later, in combination with feng shui: the original white is for good fortune generally, black to turn away evil, red for health, yellow or gold for wealth, pink for romance. It is not retired, renewed or burnt. It sits by the till until it breaks.",
   "today": "Mass-produced worldwide as of 2026, in ceramic, plastic, keychains, piggy banks, air fresheners and pots. Hikone City's mascot Hikonyan is drawn from the Gōtoku-ji story and the Ii clan; the cat has been worked into Pokémon's Meowth and into the card game Balatro; a Trinidad and Tobago party ran one in an election advertisement in 2015, waving goodbye to the incumbent prime minister."
+ },
+ "text_th": {
+  "what": "แมวนั่ง ยกขาหน้าข้างหนึ่งขึ้นโดยคว่ำฝ่าเท้าลงในท่ากวักเรียก ขาอีกข้างมักถือเหรียญโคบังทรงรี แบบคลาสสิกเป็นแมวหางกุดญี่ปุ่น (Japanese Bobtail) ลายสามสี ปัจจุบันทำจากเซรามิกหรือพลาสติก ชิ้นโบราณแกะจากไม้ หิน หล่อจากโลหะ หรือทำจากกระเบื้องพอร์ซเลนด้วยมือ ตั้งไว้ใกล้ทางเข้าร้านค้า ร้านอาหาร ร้านปาจิงโกะ ร้านซักรีดหยอดเหรียญ บาร์ โรงแรม และในบ้าน บางตัวมีขากลไกที่แกว่งได้ ขับเคลื่อนด้วยแบตเตอรี่หรือเซลล์แสงอาทิตย์ผ่านขดลวดกับแม่เหล็ก"
  },
  "dating": {
   "period": "late Edo to the present",
@@ -237,56 +241,72 @@
    "type": "tradition",
    "name": "Engimono",
    "as": "the class it belongs to — a shop-luck object sold at shrine markets beside the daruma and the rake",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "daruma",
    "type": "amulet",
    "name": "Daruma",
    "as": "the other figure on the same shelf, and the opposite contract: the daruma is bought blank and burnt in a year, this one just sits there",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ดารุมะ",
+   "as_th": ""
   },
   {
    "to": "senso-ji",
    "type": "place",
    "name": "Sensō-ji",
    "as": "where Hiroshige drew it being sold in 1852 — the earliest picture of the thing in trade",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "วัดเซนโซจิ",
+   "as_th": ""
   },
   {
    "to": "charm-coin",
    "type": "amulet",
    "name": "Chinese charm coin",
    "as": "the coin in its paw: a koban, which makes this a coin charm with a cat wrapped round it",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เหรียญเครื่องรางจีน (เอี้ยนเซิ่งเฉียน)",
+   "as_th": ""
   },
   {
    "to": "ekeko",
    "type": "amulet",
    "name": "Ekeko",
    "as": "the Andean household figure loaded with goods and asked for more of them — the same job, a hemisphere away",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เอเคโก (ตุ๊กตาชาวแอนดีส)",
+   "as_th": ""
   },
   {
    "to": "mascot-word",
    "type": "term",
    "name": "mascot",
    "as": "what it became: a corporate and civic mascot, Hikonyan included, which is where the charm and the brand meet",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "มาสคอต",
+   "as_th": ""
   },
   {
    "to": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "what sits behind the same till in Japan, consecrated where this is not",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "omamori",
    "type": "amulet",
    "name": "Omamori",
    "as": "the portable charm from the same shrine counter; this one never leaves the shop",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -474,42 +494,54 @@
    "type": "amulet",
    "name": "Daruma",
    "as": "the other figure sold off the same tray, and the opposite deal: this one has a year and a fire waiting at the end of it",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ดารุมะ",
+   "as_th": ""
   },
   {
    "from": "ekeko",
    "type": "amulet",
    "name": "Ekeko",
    "as": "the other figure in this atlas that sits at a till and is expected to pull custom in",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เอเคโก (ตุ๊กตาชาวแอนดีส)",
+   "as_th": ""
   },
   {
    "from": "phone-charm",
    "type": "amulet",
    "name": "Phone charm",
    "as": "one of the figures the strap trade shrank to thumb size, and the shop-counter original it came from",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สายห้อยมือถือ",
+   "as_th": ""
   },
   {
    "from": "japanese-engimono",
    "type": "tradition",
    "name": "Engimono",
    "as": "the shop-luck end of the tradition, dated from 1852 by a chronicle entry and a Hiroshige print of it being sold at Sensō-ji",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เองิโมโนะ (ของมงคลญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "fushimi-inari",
    "type": "place",
    "name": "Fushimi Inari-taisha",
    "as": "the beckoning cat a shop keeps for the same reason a company pays for a torii here",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ศาลเจ้าฟูชิมิอินาริไทฉะ",
+   "as_th": ""
   },
   {
    "from": "luck-word",
    "type": "term",
    "name": "luck",
    "as": "what the word is used to translate in a Japanese shop window, flattening a beckoning cat into a luck object",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ลัก (luck, โชค)",
+   "as_th": ""
   }
  ]
 }

@@ -11,7 +11,8 @@
   "aliases": [
    "Insadong",
    "Mary's Alley"
-  ]
+  ],
+  "th": "อินซาดง"
  },
  "region": [
   "korea"
@@ -30,6 +31,9 @@
   "what": "A neighbourhood of Jongno District, Seoul, 12.7 hectares of galleries, antique shops, paper and brush shops and tea houses along Insadong-gil and the alleys off it. It holds 40 per cent of South Korea's antique shops and art galleries and 90 per cent of its traditional stationery shops — which means it is where the brush, the ink and the paper a talisman is written on are bought.",
   "story": "The antique trade here began as a forced sale. During the Japanese occupation wealthy Korean residents were made to move and to sell their belongings, and the district became the place that trade happened. After the Korean War it turned into a centre of artistic life and cafés; foreign visitors in the 1960s called it Mary's Alley; the 1988 Olympics brought the international trade. In 2000 the area was renovated, and after protest its rapid modernisation was halted for two years.\n\nThe temple in the neighbourhood is Jogyesa, a principal Korean Buddhist temple; the central temple of Cheondoism stands nearby, finished in 1921. Calligraphy is demonstrated on the street daily.\n\nThe Korean protective charm does not come from a shop here, and the distinction is the point of this record. A pujŏk — bujeok — is produced by a mudang, a shaman, usually built out of hanja characters, handed to clients at the end of a rite and stuck to the inside wall of a house. Mudang are concentrated in Seoul more thickly than anywhere else in the country except Jeju; a late 20th-century Korean Gallup survey found 38 per cent of South Korean adults had consulted one. *Inference —* what Insadong sells is the material and the antique, not the charm; the charm is commissioned, and this atlas has read no source that puts a bujeok counter on this street.",
   "today": "Trading, with the backstreets gentrified into cafés and guest houses. About 100,000 visitors on a Sunday were reported in 2000. No day is marked below: the shops keep their own hours and nobody publishes them as one timetable."
+ },
+ "text_th": {
+  "what": "ย่านหนึ่งในเขตจงโน กรุงโซล พื้นที่ 12.7 เฮกตาร์ มีแกลเลอรี ร้านของเก่า ร้านกระดาษและพู่กัน และร้านน้ำชา ตามถนนอินซาดงกิล (Insadong-gil) และตรอกที่แยกออกไป ที่นี่มีร้านของเก่าและหอศิลป์ร้อยละ 40 ของเกาหลีใต้ และร้านเครื่องเขียนแบบดั้งเดิมร้อยละ 90 ซึ่งหมายความว่าที่นี่คือที่ซื้อพู่กัน หมึก และกระดาษที่ใช้เขียนยันต์"
  },
  "dating": {
   "period": "Japanese colonial period to the present",
@@ -157,49 +161,63 @@
    "type": "amulet",
    "name": "Bujeok",
    "as": "the Korean written charm — made by a mudang, not sold over a counter; this district supplies the paper and ink it is drawn with",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "to": "korean-bujeok-craft",
    "type": "tradition",
    "name": "Bujeok craft",
    "as": "the tradition behind that charm, concentrated in Seoul more than anywhere else in the country",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "บูจ็อก (ศาสตร์ยันต์เกาหลี)",
+   "as_th": ""
   },
   {
    "to": "paper",
    "type": "material",
    "name": "Paper",
    "as": "the material 90 per cent of the country's traditional stationery shops sell from these alleys",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "กระดาษ",
+   "as_th": ""
   },
   {
    "to": "ink",
    "type": "material",
    "name": "Ink",
    "as": "the other half of a written charm, ground and demonstrated on this street daily",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "หมึก",
+   "as_th": ""
   },
   {
    "to": "inscribing",
    "type": "practice",
    "name": "Inscribing",
    "as": "the practice a stationery district exists to equip",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การลงอักขระ",
+   "as_th": ""
   },
   {
    "to": "dolhareubang",
    "type": "amulet",
    "name": "Dol hareubang",
    "as": "the Jeju stone grandfather, the Korean object a visitor is likeliest to carry out of a shop here as a miniature",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ทลฮารึบัง (รูปปู่หิน)",
+   "as_th": ""
   },
   {
    "to": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the long read on copies, which an antiques quarter holding 40 per cent of a country's dealers lives inside",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดของปลอม",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -283,28 +301,36 @@
    "type": "amulet",
    "name": "Bujeok",
    "as": "the Seoul district where paper talismans reach a buyer through the antique and craft trade rather than through a rite",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "บูจอก (ยันต์กระดาษเกาหลี)",
+   "as_th": ""
   },
   {
    "from": "dolhareubang",
    "type": "amulet",
    "name": "Dol hareubang",
    "as": "Seoul's antique and craft district, where the replica trade meets the buyer far from Jeju",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ทลฮารึบัง (รูปปู่หิน)",
+   "as_th": ""
   },
   {
    "from": "exam-charm",
    "type": "amulet",
    "name": "Exam charm",
    "as": "the Seoul quarter where the Korean end of this shelf is sold",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "เครื่องรางสอบผ่าน (โกกากุ คิกัง)",
+   "as_th": ""
   },
   {
    "from": "korean-bujeok-craft",
    "type": "tradition",
    "name": "Bujeok craft",
    "as": "the Seoul quarter where the printed retail version concentrates",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "บูจ็อก (ศาสตร์ยันต์เกาหลี)",
+   "as_th": ""
   }
  ]
 }

@@ -8,15 +8,34 @@
   "script": "Latin",
   "lang": "tr",
   "said": "ka-pa-luh-CHAR-shuh, 'the covered market'",
-  "aliases": ["Kapalicarsi", "Büyük Çarşı", "Covered Market, Istanbul"]
+  "aliases": [
+   "Kapalicarsi",
+   "Büyük Çarşı",
+   "Covered Market, Istanbul"
+  ],
+  "th": "แกรนด์บาซาร์ (คาปาลึชาร์ชึ)"
  },
- "region": ["anatolia", "balkans"],
- "countries": ["TR"],
- "facets": {"kind": "market", "hemisphere": ["N", "E"]},
+ "region": [
+  "anatolia",
+  "balkans"
+ ],
+ "countries": [
+  "TR"
+ ],
+ "facets": {
+  "kind": "market",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "A roofed market of 61 streets and more than 4,000 shops on 30,700 square metres in the walled city of Istanbul, between the Beyazit and Nuruosmaniye mosques. Traders of one good still hold one street, the way the guilds arranged it. Two domed stone halls, the bedestens, sit at the centre; the eye beads a visitor carries out are sold in the jewellers' and souvenir lanes around them.",
   "story": "Mehmed II started it in the winter of 1455/56, months after taking Constantinople, with a building for textiles and jewels: the Cevahir Bedesten, the Bedesten of Gems, finished in the winter of 1460/61 and endowed to the waqf of Hagia Sophia. A second hall, the Sandal Bedesten, followed. Sellers filled the ground between them, and a quarter grew that did nothing but trade.\n\nBy the 17th century the shape was fixed: 67 named streets, 18 gates opened at dawn and shut at dusk, 3,000 shops plus 300 in the surrounding hans. Evliya Çelebi described it around 1638. Until the repairs that followed the 1894 earthquake there were no shops as western Europe knew them — a merchant sat on a wooden divan in a space six to eight feet wide and three to four feet deep, the precious stock kept in cabinets rather than displayed, and the day ended by drawing a drape across it.\n\nThe eye bead is the market's smallest export. In Turkey it is the nazar boncuğu; in Greece the same object is the máti. It is blue glass with white, black and yellow at the centre, a design whose written record and surviving examples run back to about 1500 BCE, and it is now, in the encyclopedia's flat phrase, a popular choice of souvenir with tourists.\n\n*Inference —* a market that concentrated one trade per street for five centuries is the reason the bead has a fixed look at all. Mass production did not flatten this design; a guild had already fixed it.",
   "today": "Employs 26,000 people and takes between 250,000 and 400,000 visitors a day. Wikipedia's account, read on 16 September 2026, states the complex opens each day except Sundays and bank holidays, from 9:00 to 19:00. This project has not read that timetable on the bazaar's own page, so no day is marked open or closed below."
+ },
+ "text_th": {
+  "what": "ตลาดมีหลังคา มี 61 ถนนและร้านค้ากว่า 4,000 ร้าน บนพื้นที่ 30,700 ตารางเมตรในเขตเมืองเก่าที่มีกำแพงล้อมของอิสตันบูล ระหว่างมัสยิดเบยาซิต (Beyazit) กับมัสยิดนูรูออสมานิเย (Nuruosmaniye) พ่อค้าสินค้าชนิดเดียวกันยังคงอยู่ถนนเดียวกัน ตามที่สมาคมช่างเคยจัดไว้ ตรงกลางมีโถงหินหลังคาโดมสองหลัง เรียกว่าเบเดสเตน (bedesten) ลูกปัดตาที่ผู้มาเยือนถือติดมือกลับไปขายอยู่ในตรอกร้านเครื่องประดับและร้านของที่ระลึกรอบ ๆ โถงนั้น"
  },
  "dating": {
   "period": "Ottoman to the present",
@@ -29,32 +48,102 @@
   "source": "s:wp-grand-bazaar-istanbul",
   "note": "Construction of the core Bedesten began in the winter of 1455/56 and ended in the winter of 1460/61."
  },
- "geo": {"lat": 41.01058, "lon": 28.96793, "precision": "exact", "source": "the coordinate published in the English Wikipedia article Grand Bazaar, Istanbul, read 2026-09-16"},
- "address": {"street": "Kalpakçılar Caddesi", "city": "Istanbul", "admin": "Fatih", "country": "TR"},
+ "geo": {
+  "lat": 41.01058,
+  "lon": 28.96793,
+  "precision": "exact",
+  "source": "the coordinate published in the English Wikipedia article Grand Bazaar, Istanbul, read 2026-09-16"
+ },
+ "address": {
+  "street": "Kalpakçılar Caddesi",
+  "city": "Istanbul",
+  "admin": "Fatih",
+  "country": "TR"
+ },
  "kin": [
-  {"to": "nazar", "as": "the bead this market sells by the tray, and the reason most of the world pictures the eye as blue glass", "rel": "carries"},
-  {"to": "eye", "as": "the sign under the glass — the same interception the Nile cut in faience, four thousand years later", "rel": "motif"},
-  {"to": "glass", "as": "the material that made the sign cheap, and the trade that has worked it here since the bedesten was built for gems", "rel": "material"},
-  {"to": "evil-eye-bracelet", "as": "what the bead becomes on a string, sold at the airport as well as here", "rel": "descendant"},
-  {"to": "buying-in-a-market", "as": "the practice under a roof, with the gates locked at night and a guild deciding who may sell", "rel": "practice"},
-  {"to": "monastiraki", "as": "the Athens lanes where the same bead is sold under its Greek name, máti", "rel": "parallel"},
-  {"to": "khan-el-khalili", "as": "the Mamluk quarter al-Ghuri rebuilt in 1511, possibly in imitation of complexes like this one", "rel": "parallel"},
-  {"to": "the-fake-market", "as": "the long read on copies and their price, which a market of 4,000 shops cannot avoid", "rel": "story"}
+  {
+   "to": "nazar",
+   "as": "the bead this market sells by the tray, and the reason most of the world pictures the eye as blue glass",
+   "rel": "carries"
+  },
+  {
+   "to": "eye",
+   "as": "the sign under the glass — the same interception the Nile cut in faience, four thousand years later",
+   "rel": "motif"
+  },
+  {
+   "to": "glass",
+   "as": "the material that made the sign cheap, and the trade that has worked it here since the bedesten was built for gems",
+   "rel": "material"
+  },
+  {
+   "to": "evil-eye-bracelet",
+   "as": "what the bead becomes on a string, sold at the airport as well as here",
+   "rel": "descendant"
+  },
+  {
+   "to": "buying-in-a-market",
+   "as": "the practice under a roof, with the gates locked at night and a guild deciding who may sell",
+   "rel": "practice"
+  },
+  {
+   "to": "monastiraki",
+   "as": "the Athens lanes where the same bead is sold under its Greek name, máti",
+   "rel": "parallel"
+  },
+  {
+   "to": "khan-el-khalili",
+   "as": "the Mamluk quarter al-Ghuri rebuilt in 1511, possibly in imitation of complexes like this one",
+   "rel": "parallel"
+  },
+  {
+   "to": "the-fake-market",
+   "as": "the long read on copies and their price, which a market of 4,000 shops cannot avoid",
+   "rel": "story"
+  }
  ],
  "tags": [
-  {"tag": "market", "source": "s:wp-grand-bazaar-istanbul", "tier": "cited", "note": "61 covered streets and over 4,000 shops; 250,000 to 400,000 visitors daily"}
+  {
+   "tag": "market",
+   "source": "s:wp-grand-bazaar-istanbul",
+   "tier": "cited",
+   "note": "61 covered streets and over 4,000 shops; 250,000 to 400,000 visitors daily"
+  }
  ],
- "links": [{"label": "Grand Bazaar, Istanbul — Wikipedia", "url": "https://en.wikipedia.org/wiki/Grand_Bazaar,_Istanbul"}],
- "sources": ["s:wp-grand-bazaar-istanbul", "s:wp-nazar-amulet", "s:wp-evil-eye"],
+ "links": [
+  {
+   "label": "Grand Bazaar, Istanbul — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Grand_Bazaar,_Istanbul"
+  }
+ ],
+ "sources": [
+  "s:wp-grand-bazaar-istanbul",
+  "s:wp-nazar-amulet",
+  "s:wp-evil-eye"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-grand-bazaar-istanbul"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-grand-bazaar-istanbul"
+  },
   "fields": {
-   "geo": {"tier": "cited", "source": "s:wp-grand-bazaar-istanbul", "note": "the article's own coordinate, read 2026-09-16"},
-   "text.story": {"tier": "cited", "source": "s:wp-grand-bazaar-istanbul", "note": "the closing paragraph is marked as this project's inference where it appears"}
+   "geo": {
+    "tier": "cited",
+    "source": "s:wp-grand-bazaar-istanbul",
+    "note": "the article's own coordinate, read 2026-09-16"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-grand-bazaar-istanbul",
+    "note": "the closing paragraph is marked as this project's inference where it appears"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Grand Bazaar Istanbul 2013.jpg", "File:Nazar boncugu.jpg"],
+ "x_commons_files": [
+  "File:Grand Bazaar Istanbul 2013.jpg",
+  "File:Nazar boncugu.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-16"
 }

@@ -11,7 +11,8 @@
   "aliases": [
    "apotropaion",
    "apotropaia"
-  ]
+  ],
+  "th": "อะโพโทรเพอิก (กันภัย)"
  },
  "etymology": {
   "root": "Greek apo 'away' + tropos 'turn' > apotrepō (ἀποτρέπω) 'to turn away, to ward off' > apotropaios (ἀποτρόπαιος) 'averting' > English apotropaic",
@@ -39,6 +40,9 @@
  "text": {
   "what": "The scholar's adjective, and nobody's own. No wearer calls a bead apotropaic. It is the word a museum label, an excavation report and a doctoral thesis use for anything meant to turn harm aside — and its one virtue is that it names a purpose without taking a view on whether the purpose is met. This atlas uses it for that reason and no other.",
   "story": "Greek did not need one word, because it had a crowd of them. The ancient sources carry apotropaia, probaskania, periammata, periapta, profylaktika, phylaktiria, antipharmaca, alexicaca, alexipharmaca and alexima pharmaca, all for protective objects, with no one of them dominant.\n\nThe gods came in matching sets. Offerings went to the apotropaioi theoi, the averting gods, and to the Apopompaioi theoi, who send evil away, and the Apōsikakoi theoi, the evil-averting gods. Zeus, Apollo, Heracles and Leucothea all carried the epithet Alexicacus, averter of evil; Heracles was also Keramyntes, another averter.\n\nEnglish boiled the crowd down to one adjective and handed it to the academy. *Inference —* that reduction is why an Egyptian birth tusk, a Roman fascinum, an Irish Brigid's cross and a Japanese ofuda can hang on one wall under one heading. The category is a translation choice, made once, in Greek, and then carried by people writing in English about everybody else.\n\n*Tradition holds —* the practices the word covers rarely describe themselves as a category at all. A household rite in Egypt, spitting into the folds of a garment in Greece, a grasshopper hung before the Acropolis by Peisistratus: these were separate acts to the people doing them, and the adjective that gathers them is ours."
+ },
+ "text_th": {
+  "what": "คำคุณศัพท์ของนักวิชาการ และไม่ใช่คำของใครเอง ไม่มีผู้สวมคนใดเรียกลูกปัดว่า \"อะโพโทรเพอิก\" นี่คือคำที่ป้ายพิพิธภัณฑ์ รายงานการขุดค้น และวิทยานิพนธ์ปริญญาเอก ใช้เรียกสิ่งใดก็ตามที่มุ่งจะปัดเป่าภัย — และข้อดีข้อเดียวของมันคือ มันระบุจุดประสงค์ได้โดยไม่แสดงความเห็นว่าจุดประสงค์นั้นสำเร็จหรือไม่ แอตลาสนี้ใช้คำนี้ด้วยเหตุผลนั้น และไม่ใช่เหตุผลอื่น"
  },
  "dating": {
   "period": "Greek antiquity to the present",

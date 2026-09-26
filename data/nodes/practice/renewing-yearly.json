@@ -4,17 +4,47 @@
  "type": "practice",
  "names": {
   "name": "Renewing yearly",
-  "aliases": ["annual replacement", "tokowaka", "jamasan", "the year's charm"],
-  "said": "swapping last year's for this year's"
+  "aliases": [
+   "annual replacement",
+   "tokowaka",
+   "jamasan",
+   "the year's charm"
+  ],
+  "said": "swapping last year's for this year's",
+  "th": "การเปลี่ยนใหม่ทุกปี"
  },
- "region": ["japan", "balkans", "island-sea", "britain-ireland", "levant", "himalaya-tibet"],
- "countries": ["JP", "BG", "MK", "RO", "ID", "IE", "IL", "BT", "NP"],
- "facets": {"stage": "renew", "era": "early-modern", "status": "living"},
+ "region": [
+  "japan",
+  "balkans",
+  "island-sea",
+  "britain-ireland",
+  "levant",
+  "himalaya-tibet"
+ ],
+ "countries": [
+  "JP",
+  "BG",
+  "MK",
+  "RO",
+  "ID",
+  "IE",
+  "IL",
+  "BT",
+  "NP"
+ ],
+ "facets": {
+  "stage": "renew",
+  "era": "early-modern",
+  "status": "living"
+ },
  "text": {
   "what": "A charm with an expiry date. The old one is taken down, returned, burnt, buried or tied to a tree, and a new one takes its place on a fixed day. The date is usually a turn in the calendar — a new year, a saint's feast, the first day of spring — and the swap is the practice, not the object.",
   "how": "Take it off or take it down; return it, burn it, bury it or leave it on a branch; obtain the replacement; put it where the old one was. In Java the equivalent is not replacement but cleaning: jamasan, the yearly cleaning of a kris, is required by the tradition and has left ancient blades worn thin.",
   "story": "Japan does this at scale and gives a reason. Japanese practice places great weight on purity and newness — tokowaka, eternal youth — and it is on that ground that annual replacement of ofuda and omamori is encouraged. New ofuda are obtained before the end of the year or during the New Year season; the old ones are returned to the shrine or temple where they came from as a form of thanks, though most Shinto shrines in practice accept talismans from other shrines. Omamori are customarily replaced once a year and returned on or shortly after the New Year, so that the coming year starts with a fresh one. Old ones are not thrown away: they are burnt at a ceremony called Sagichō or Dondoyaki held at the Little New Year, on 14 or 15 January.\n\nDaruma dolls date the system precisely. Charms drawn at Shorinzan Daruma Temple in Takasaki were given with an effectiveness of one year, so parishioners needed new ones every year; the ninth priest, Togaku, handled the demand by giving the people wooden block moulds and letting them make their own papier-mâché charms, near the beginning of the Meiwa period, 1764–72. Takasaki now produces eighty per cent of Japan's daruma, and the city's annual Daruma Doll Festival draws, by the city's own account, more than 400,000 people buying the year's dolls.\n\nBulgaria and North Macedonia run a spring version. Martenitsi go on at Baba Marta Day, 1 March, and come off when the wearer first sees a stork, a swallow or a blossoming tree — or at the end of March. The old one is tied to the branch of a fruit tree, giving the tree the health and luck the wearer had while wearing it, or put under a stone to be read the next day by whichever creature is nearest it. Ireland weaves a new Saint Brigid's cross on 1 February from rushes gathered the evening before; crosses were either taken down annually and replaced or left to accumulate between feasts, and discarded ones were burned or buried, with burial preferred because of Brigid's associations with agriculture.\n\nJewish practice keeps a different clock and it is worth naming as a contrast. A mezuzah is not replaced annually; many observant Jews have a qualified scribe check the parchments for tears and faded lettering at least twice every seven years. The object is meant to last, and the maintenance is inspection rather than replacement.\n\n*Inference —* the parallel between a Japanese year-end burning, a martenitsa on a March branch and a yearly kris cleaning is real at the level of structure: each treats potency as something that runs down and has to be topped up on a date the calendar sets, not on a date the owner picks. What is this project's own reading, and not any tradition's claim, is the further step of grouping them — the reasons given differ completely, purity in one case, the return of spring in another, upkeep of a blade in a third, and no source read here connects them.",
   "today": "Live, and commercially organised. Japanese shrines and temples stock the year's talismans in quantity and hold the January fires; Takasaki's daruma market runs annually. Martenitsi are sold across Bulgaria and North Macedonia every February and hang on fruit trees through April. Mezuzah checking is a paid scribal service."
+ },
+ "text_th": {
+  "what": "เครื่องรางที่มีวันหมดอายุ อันเก่าถูกปลดลง ส่งคืน เผา ฝัง หรือผูกไว้กับต้นไม้ และอันใหม่มาแทนที่ในวันที่กำหนด วันนั้นมักเป็นจุดเปลี่ยนของปฏิทิน เช่น ปีใหม่ วันฉลองนักบุญ วันแรกของฤดูใบไม้ผลิ และการสับเปลี่ยนนี้เองคือการปฏิบัติ ไม่ใช่ตัววัตถุ"
  },
  "dating": {
   "period": "Edo Japan to the present",
@@ -30,43 +60,135 @@
  },
  "object": {
   "form": "folded-paper",
-  "materials": ["paper", "wood", "thread", "iron"],
-  "worn": ["wall", "lintel", "wrist", "hearth"],
+  "materials": [
+   "paper",
+   "wood",
+   "thread",
+   "iron"
+  ],
+  "worn": [
+   "wall",
+   "lintel",
+   "wrist",
+   "hearth"
+  ],
   "made_by": "a shrine, a temple, a household, or in the Takasaki case the parishioners themselves, using the temple's moulds",
   "single_use": true,
   "source": "s:wp-ofuda"
  },
  "against": [
-  {"harm": "bad-luck", "who": "the omamori custom, in which amulets are replaced once a year to ward off the previous year's bad luck", "source": "s:wp-omamori", "tier": "cited"},
-  {"harm": "illness", "who": "Bulgarian and Macedonian wearers, for whom the red and white threads carry a wish for health and are then given to a fruit tree", "source": "s:wp-martenitsa", "tier": "cited"},
-  {"harm": "house", "who": "Irish households, who hung a new Brigid's cross in the rafters on 1 February for the saint's blessing over the year", "source": "s:wp-brigid-s-cross", "tier": "cited"}
+  {
+   "harm": "bad-luck",
+   "who": "the omamori custom, in which amulets are replaced once a year to ward off the previous year's bad luck",
+   "source": "s:wp-omamori",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "Bulgarian and Macedonian wearers, for whom the red and white threads carry a wish for health and are then given to a fruit tree",
+   "source": "s:wp-martenitsa",
+   "tier": "cited"
+  },
+  {
+   "harm": "house",
+   "who": "Irish households, who hung a new Brigid's cross in the rafters on 1 February for the saint's blessing over the year",
+   "source": "s:wp-brigid-s-cross",
+   "tier": "cited"
+  }
  ],
  "kin": [
-  {"to": "omamori", "as": "the charm with the clearest expiry: replaced yearly, returned to its shrine, burnt in January", "rel": "carried-by"},
-  {"to": "ofuda", "as": "the household talisman whose replacement is argued for on the ground of purity, not of wear", "rel": "carried-by"},
-  {"to": "daruma", "as": "the doll sold with an effectiveness of one year — and the reason a temple started handing out moulds", "rel": "carried-by"},
-  {"to": "martenitsa", "as": "the spring version, whose end date is set by a bird rather than by a date", "rel": "carried-by"},
-  {"to": "brigids-cross", "as": "woven fresh each 1 February from rushes gathered the night before", "rel": "carried-by"},
-  {"to": "keris-pusaka", "as": "the blade that is cleaned annually rather than replaced, and worn thin by the cleaning", "rel": "carried-by"},
-  {"to": "mezuzah", "as": "the opposite clock: checked by a scribe twice in seven years, and meant to last", "rel": "contrast"},
-  {"to": "burning-retirement", "as": "where last year's charm goes on 14 or 15 January", "rel": "practice"},
-  {"to": "japanese-engimono", "as": "the tradition that runs this cycle at national scale", "rel": "tradition"},
-  {"to": "buying-in-a-market", "as": "the other half of the cycle — an annual expiry is also an annual sale", "rel": "practice"}
+  {
+   "to": "omamori",
+   "as": "the charm with the clearest expiry: replaced yearly, returned to its shrine, burnt in January",
+   "rel": "carried-by"
+  },
+  {
+   "to": "ofuda",
+   "as": "the household talisman whose replacement is argued for on the ground of purity, not of wear",
+   "rel": "carried-by"
+  },
+  {
+   "to": "daruma",
+   "as": "the doll sold with an effectiveness of one year — and the reason a temple started handing out moulds",
+   "rel": "carried-by"
+  },
+  {
+   "to": "martenitsa",
+   "as": "the spring version, whose end date is set by a bird rather than by a date",
+   "rel": "carried-by"
+  },
+  {
+   "to": "brigids-cross",
+   "as": "woven fresh each 1 February from rushes gathered the night before",
+   "rel": "carried-by"
+  },
+  {
+   "to": "keris-pusaka",
+   "as": "the blade that is cleaned annually rather than replaced, and worn thin by the cleaning",
+   "rel": "carried-by"
+  },
+  {
+   "to": "mezuzah",
+   "as": "the opposite clock: checked by a scribe twice in seven years, and meant to last",
+   "rel": "contrast"
+  },
+  {
+   "to": "burning-retirement",
+   "as": "where last year's charm goes on 14 or 15 January",
+   "rel": "practice"
+  },
+  {
+   "to": "japanese-engimono",
+   "as": "the tradition that runs this cycle at national scale",
+   "rel": "tradition"
+  },
+  {
+   "to": "buying-in-a-market",
+   "as": "the other half of the cycle — an annual expiry is also an annual sale",
+   "rel": "practice"
+  }
  ],
  "links": [
-  {"label": "Ofuda — Wikipedia", "url": "https://en.wikipedia.org/wiki/Ofuda"},
-  {"label": "Daruma doll — Wikipedia", "url": "https://en.wikipedia.org/wiki/Daruma_doll"}
+  {
+   "label": "Ofuda — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ofuda"
+  },
+  {
+   "label": "Daruma doll — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Daruma_doll"
+  }
  ],
- "sources": ["s:wp-ofuda", "s:wp-omamori", "s:wp-daruma-doll", "s:wp-martenitsa", "s:wp-brigid-s-cross", "s:wp-kris", "s:wp-mezuzah"],
+ "sources": [
+  "s:wp-ofuda",
+  "s:wp-omamori",
+  "s:wp-daruma-doll",
+  "s:wp-martenitsa",
+  "s:wp-brigid-s-cross",
+  "s:wp-kris",
+  "s:wp-mezuzah"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-ofuda"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-ofuda"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:wp-omamori", "note": "the cross-tradition comparison in the last paragraph is this project's own reading and says so"},
-   "object": {"tier": "inference", "note": "no single object; the fields describe the commonest case, the Japanese paper talisman"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-omamori",
+    "note": "the cross-tradition comparison in the last paragraph is this project's own reading and says so"
+   },
+   "object": {
+    "tier": "inference",
+    "note": "no single object; the fields describe the commonest case, the Japanese paper talisman"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Dondoyaki.jpg", "File:Daruma dolls Takasaki.jpg"],
+ "x_commons_files": [
+  "File:Dondoyaki.jpg",
+  "File:Daruma dolls Takasaki.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-16"
 }

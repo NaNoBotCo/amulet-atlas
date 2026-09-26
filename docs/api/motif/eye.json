@@ -8,7 +8,8 @@
    "eye motif",
    "apotropaic eye",
    "eye-against-the-eye"
-  ]
+  ],
+  "th": "ดวงตา"
  },
  "region": [
   "world",
@@ -54,6 +55,9 @@
  "text": {
   "what": "An eye, drawn or moulded, worn where another person will see it. It is the most widespread sign in this atlas and the only one whose logic is stated out loud by its carriers everywhere it appears: harm arrives by looking, so the answer looks back.",
   "story": "Amulets against a harmful look have been found dating to around five thousand years ago, and the belief runs through the Mediterranean, the Balkans, Eastern Europe, West Asia, Central Asia, South Asia, Africa, the Caribbean and Latin America. Jewish rabbinic literature returns to it repeatedly.\n\nThe sign takes two different bodies. In Egypt it is a drawn eye with a falcon's cheek-line, cut in faience and carnelian from the Old Kingdom onward. Around the eastern Mediterranean it becomes a bead: after glass-bead production got going in the region around 1500 BCE, blue-and-white concentric eye beads spread among Phoenicians, Persians, Greeks, Romans, Arabs and Ottomans, and that bead is what a shop in Istanbul or Athens sells today.\n\nWhat is striking is what stands in for the eye where the eye is not drawn. Illyrians used shapes of the phallus, the hand, the leg and animal teeth against the same harm. Romans used the fascinum, a winged phallus. Southern Italy still cuts a horn. *Inference —* the substitutions have one thing in common: each is a thing that catches a glance. The mechanism carriers describe is interception, and anything startling enough to take a look can do the job. That is why this atlas files the horn, the hand and the fist as kin of the eye rather than as unrelated signs.\n\n*Tradition holds —* the harm is usually attributed to envy, and often to admiration that has not been qualified. That is why the eye is put on children, on livestock and on new houses more than on anything else."
+ },
+ "text_th": {
+  "what": "ดวงตาที่วาดหรือปั้นขึ้น สวมไว้ในที่ที่คนอื่นจะมองเห็น เป็นสัญลักษณ์ที่แพร่หลายที่สุดในแอตลาสนี้ และเป็นสัญลักษณ์เดียวที่ผู้พกพูดถึงเหตุผลของมันออกมาตรง ๆ ในทุกที่ที่พบ คือภัยมาทางการมอง คำตอบจึงคือการมองกลับ"
  },
  "dating": {
   "period": "Bronze Age to the present",
@@ -276,70 +280,90 @@
    "type": "amulet",
    "name": "Wedjat eye",
    "as": "the oldest dated amulet in this family, and the one that fixes the sign's shape for three thousand years",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ตาเวดจัต (ดวงตาแห่งฮอรัส)",
+   "as_th": ""
   },
   {
    "to": "nazar",
    "type": "amulet",
    "name": "Nazar",
    "as": "the sign as a glass bead, which is the form most of the world now buys it in",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "to": "hamsa",
    "type": "amulet",
    "name": "Hamsa",
    "as": "the hand that usually has this eye set in its palm — two signs stacked on one object",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ฮัมซา (มือกันภัย)",
+   "as_th": ""
   },
   {
    "to": "horn",
    "type": "motif",
    "name": "The horn",
    "as": "the substitute sign in southern Italy, doing the same interception with a different shape",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เขา (คอร์นิเชลโล)",
+   "as_th": ""
   },
   {
    "to": "fist",
    "type": "motif",
    "name": "The fig fist",
    "as": "another substitute: a gesture frozen in coral or jet, aimed at the same look",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กำปั้นฟิก (มาโนฟิกา)",
+   "as_th": ""
   },
   {
    "to": "phallic-sign",
    "type": "motif",
    "name": "The phallus",
    "as": "the Roman substitute — the fascinum caught the glance meant for the child",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สัญลักษณ์รูปลึงค์",
+   "as_th": ""
   },
   {
    "to": "nimbu-mirchi",
    "type": "amulet",
    "name": "Nimbu mirchi",
    "as": "South Asia's answer to the same harm, hung in a doorway instead of worn",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "นิมบู มีร์ชี (มะนาวกับพริก)",
+   "as_th": ""
   },
   {
    "to": "the-eye-everywhere",
    "type": "story",
    "name": "The eye everywhere",
    "as": "the long read that follows this sign across four continents and asks what travelled and what was invented twice",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ดวงตาทุกหนแห่ง",
+   "as_th": ""
   },
   {
    "to": "frederick-elworthy",
    "type": "person",
    "name": "Frederick Thomas Elworthy",
    "as": "the Victorian who catalogued the sign across Europe in 1895 and is still the reason many of these objects are grouped together",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "เฟรเดอริก โทมัส เอลเวิร์ที",
+   "as_th": ""
   },
   {
    "to": "glass",
    "type": "material",
    "name": "Glass",
    "as": "the material that turned the sign into something a market could sell by the tray",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "แก้ว",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -605,280 +629,360 @@
    "type": "amulet",
    "name": "Cimaruta",
    "as": "the harm this charm is aimed at, stated in its own language as mal'occhio",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ชีมารูตา (กิ่งต้นรูเครื่องรางอิตาลี)",
+   "as_th": ""
   },
   {
    "from": "cornicello",
    "type": "amulet",
    "name": "Cornicello",
    "as": "the harm it answers; southern Italy substitutes a horn where the eastern Mediterranean draws an eye",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "คอร์นิเชลโล (เขานำโชคอิตาลี)",
+   "as_th": ""
   },
   {
    "from": "cowrie-strand",
    "type": "amulet",
    "name": "Cowrie strand",
    "as": "the sign one modern ethnographic author reads in the shell's slit underside — an attribution the source makes and this atlas repeats as an attribution",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "สายเปลือกหอยเบี้ย",
+   "as_th": ""
   },
   {
    "from": "dzi-bead",
    "type": "amulet",
    "name": "Dzi bead",
    "as": "the sign counted on its surface — an eye here is a circle, and the number of them sets the price",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "หินดีซี (ลูกปัดทิเบต)",
+   "as_th": ""
   },
   {
    "from": "ethiopian-magic-scroll",
    "type": "amulet",
    "name": "Ethiopian talismanic scroll",
    "as": "the sign painted on it in geometric pairs, rimmed in red, against the harm that arrives by looking",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "คัมภีร์ม้วนเครื่องรางเอธิโอเปีย (คิตาบ)",
+   "as_th": ""
   },
   {
    "from": "evil-eye-bracelet",
    "type": "amulet",
    "name": "Evil eye bracelet",
    "as": "the sign, and the reason a factory bead and a hand-blown one make the same claim",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "สร้อยข้อมือนาซาร์ (ลูกปัดตากันตาร้าย)",
+   "as_th": ""
   },
   {
    "from": "fascinum",
    "type": "amulet",
    "name": "Fascinum",
    "as": "the thing it is aimed at, and on the Leptis Magna and Hadrian's Wall reliefs, literally",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ฟัสซินุม (เครื่องรางรูปองคชาตโรมัน)",
+   "as_th": ""
   },
   {
    "from": "figa",
    "type": "amulet",
    "name": "Figa",
    "as": "the sign this substitutes for — something startling enough to take a look",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ฟีกา (กำปั้นกันภัย)",
+   "as_th": ""
   },
   {
    "from": "gorgoneion",
    "type": "amulet",
    "name": "Gorgoneion",
    "as": "the sign underneath this one; the gorgoneion's whole force sits in the glare, and Homer describes the eyes before anything else",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "กอร์โกเนออน (ศีรษะกอร์กอน)",
+   "as_th": ""
   },
   {
    "from": "hagstone",
    "type": "amulet",
    "name": "Hagstone",
    "as": "the family this atlas files a hole-you-look-through beside — though no source in this record says the hagstone is an eye, and this record does not say it either",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "หินรู (แฮกสโตน)",
+   "as_th": ""
   },
   {
    "from": "hamsa",
    "type": "amulet",
    "name": "Hamsa",
    "as": "the sign usually set in the palm; two charms stacked on one piece of silver",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ฮัมซา (มือกันภัย)",
+   "as_th": ""
   },
   {
    "from": "nazar",
    "type": "amulet",
    "name": "Nazar",
    "as": "the sign, in the form most of the world now buys it in",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "from": "nimbu-mirchi",
    "type": "amulet",
    "name": "Nimbu mirchi",
    "as": "the harm it answers, though not the method — this string does not look back, it spoils the look",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "นิมบู มีร์ชี (มะนาวกับพริก)",
+   "as_th": ""
   },
   {
    "from": "ojo-de-venado",
    "type": "amulet",
    "name": "Ojo de venado",
    "as": "the sign this seed already is without anybody cutting it — a dark band on a pale ground, read as a pupil",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "โอโฮ เด เวนาโด (ตากวาง)",
+   "as_th": ""
   },
   {
    "from": "tama-votive",
    "type": "amulet",
    "name": "Tama",
    "as": "one of the shapes stamped on them, here meaning an eye that hurts rather than an eye that looks",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ทามา (แผ่นโลหะถวายของกรีก)",
+   "as_th": ""
   },
   {
    "from": "wedjat-eye",
    "type": "amulet",
    "name": "Wedjat eye",
    "as": "the sign this amulet carries, and the oldest dated member of the family that runs from here to a glass bead in Istanbul",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ตาเวดจัต (ดวงตาแห่งฮอรัส)",
+   "as_th": ""
   },
   {
    "from": "greco-roman-apotropaic",
    "type": "tradition",
    "name": "Greek and Roman protective magic",
    "as": "the sign the whole practice is organised around, whether it is drawn or substituted for",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน",
+   "as_th": ""
   },
   {
    "from": "coin-square",
    "type": "motif",
    "name": "The square hole",
    "as": "the square hole is called an eye in Chinese, which is a pun and not this atlas's eye family",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "รูสี่เหลี่ยม",
+   "as_th": ""
   },
   {
    "from": "crescent",
    "type": "motif",
    "name": "The crescent",
    "as": "the harm Roman amulets were worn against, this one included",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "พระจันทร์เสี้ยว",
+   "as_th": ""
   },
   {
    "from": "fist",
    "type": "motif",
    "name": "The fig fist",
    "as": "the harm all of this is aimed at — the fist is one of the shapes that takes the look",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กำปั้นฟิก (มาโนฟิกา)",
+   "as_th": ""
   },
   {
    "from": "hand",
    "type": "motif",
    "name": "The hand",
    "as": "the sign usually set in this one's palm; two answers to the same harm stacked on one object",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "มือ",
+   "as_th": ""
   },
   {
    "from": "horn",
    "type": "motif",
    "name": "The horn",
    "as": "the harm it is aimed at, and the sign it stands in for in southern Italy",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เขา (คอร์นิเชลโล)",
+   "as_th": ""
   },
   {
    "from": "mirror-sign",
    "type": "motif",
    "name": "The mirror",
    "as": "the other sign whose stated mechanism is sending a look back where it came from",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กระจก",
+   "as_th": ""
   },
   {
    "from": "open-palm",
    "type": "motif",
    "name": "The open palm",
    "as": "the sign set in this palm more often than any other",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ฝ่ามือเปิด (ฮัมซา)",
+   "as_th": ""
   },
   {
    "from": "phallic-sign",
    "type": "motif",
    "name": "The phallus",
    "as": "the harm it is aimed at, and in Roman art the thing it is drawn attacking",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สัญลักษณ์รูปลึงค์",
+   "as_th": "ภัยที่มันเล็งไป และในศิลปะโรมันคือสิ่งที่มันถูกวาดว่ากำลังโจมตี"
   },
   {
    "from": "scarab-sign",
    "type": "motif",
    "name": "The beetle",
    "as": "the other sign Egypt made by the thousand; the eye went over the incision, the beetle at the heart",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ด้วง (สคารับ)",
+   "as_th": ""
   },
   {
    "from": "serpent",
    "type": "motif",
    "name": "The serpent",
    "as": "the other sign that is both the harm and the answer to it",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "งู",
+   "as_th": "เครื่องหมายอีกอย่างที่เป็นทั้งภัยและทางแก้ภัยนั้น"
   },
   {
    "from": "tooth-and-claw",
    "type": "motif",
    "name": "The tooth and the claw",
    "as": "Illyrians used animal teeth against the same harm the eye is aimed at, in the same substitution set",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เขี้ยวเล็บ",
+   "as_th": ""
   },
   {
    "from": "glass",
    "type": "material",
    "name": "Glass",
    "as": "the sign glass carries better than any other material, because a dot of colour set in a dot of colour is what glass does easily",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "แก้ว",
+   "as_th": ""
   },
   {
    "from": "seed",
    "type": "material",
    "name": "Seed and nut",
    "as": "the sign in the name: rudra-aksha, the eye of Rudra, and in Mexico the eye of a deer",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เมล็ดพืชและลูกเปลือกแข็ง",
+   "as_th": ""
   },
   {
    "from": "grand-bazaar",
    "type": "place",
    "name": "The Grand Bazaar",
    "as": "the sign under the glass — the same interception the Nile cut in faience, four thousand years later",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "แกรนด์บาซาร์ (คาปาลึชาร์ชึ)",
+   "as_th": ""
   },
   {
    "from": "mercado-de-sonora",
    "type": "place",
    "name": "Mercado de Sonora",
    "as": "the harm the seed answers, named in Spanish as mal de ojo and stocked here by the tray",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ตลาดโซโนรา (เมร์กาโด เด โซโนรา)",
+   "as_th": ""
   },
   {
    "from": "monastiraki",
    "type": "place",
    "name": "Monastiraki",
    "as": "the sign itself, in a city whose writers were describing the harmful look 2,400 years ago",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "โมนาสติรากิ",
+   "as_th": ""
   },
   {
    "from": "alan-dundes",
    "type": "person",
    "name": "Alan Dundes",
    "as": "the sign his 1992 casebook assembled the arguments about, from a dozen scholars at once",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "อลัน ดันดีส",
+   "as_th": ""
   },
   {
    "from": "frederick-elworthy",
    "type": "person",
    "name": "Frederick Thomas Elworthy",
    "as": "the sign he catalogued across Europe in 1895, and the reason many of these objects are grouped together at all",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เฟรเดอริก โทมัส เอลเวิร์ที",
+   "as_th": ""
   },
   {
    "from": "siegfried-seligmann",
    "type": "person",
    "name": "Siegfried Seligmann",
    "as": "the sign his two 1910 volumes chased through every language he could read",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ซีกฟรีด เซลิกมันน์",
+   "as_th": ""
   },
   {
    "from": "nazar-word",
    "type": "term",
    "name": "nazar",
    "as": "the sign the word is about, and the one thing every language in its range agrees on",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "นาซาร์",
+   "as_th": ""
   },
   {
    "from": "the-drawn-signs",
    "type": "art",
    "name": "The drawn signs",
    "as": "the first glyph in the set, and the one the whole drawing style was settled on",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ภาพสัญลักษณ์ลายเส้น",
+   "as_th": ""
   },
   {
    "from": "most-of-them-are-for-children",
    "type": "story",
    "name": "Most of them are for children",
    "as": "the sign behind most of this class — harm arrives by an admiring look, and the admired thing is usually somebody's child",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ส่วนใหญ่ทำเพื่อเด็ก",
+   "as_th": ""
   },
   {
    "from": "the-eye-everywhere",
    "type": "story",
    "name": "The eye everywhere",
    "as": "the sign this read follows, and the record that holds its physical forms",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ดวงตาทุกหนแห่ง",
+   "as_th": ""
   }
  ]
 }

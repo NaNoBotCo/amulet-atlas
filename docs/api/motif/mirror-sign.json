@@ -14,7 +14,8 @@
    "toli",
    "neker-toli",
    "shaman's mirror"
-  ]
+  ],
+  "th": "กระจก"
  },
  "region": [
   "china",
@@ -43,6 +44,9 @@
  "text": {
   "what": "A disc of polished metal, worn or hung so it faces outward. Two well-documented kinds: the Chinese bagua mirror, octagonal or circular, with the eight trigrams ringed around a flat, convex or concave glass, fixed above a door or window; and the Mongolian and Buryat toli, a round brass, copper or bronze mirror ornamented on one face and polished on the other, worn at a shaman's neck or sewn in quantity onto the deel or apron.",
   "story": "The bagua mirror is a feng shui remedy rather than a feng shui instrument, and its users are clear about the difference: a luopan measures, this one acts. Modern ones descend from ancient bronze-cast versions used by Taoist masters to perform mirror techniques, 鏡術, said to reveal or destroy evil spirits and to overcome natural calamities. The three shapes do three jobs in the tradition's own account: flat reflects, convex disperses, concave converges or absorbs external sha qi — poison arrows — and so changes the feng shui of a house.\n\nWhat counts as a poison arrow is concrete: the sharp corner of a neighbouring building, or an open road running at your front door. Hang a mirror above the door or window facing it and the arrow is turned away. The problem is where it goes. Anything reflected is understood to be sent in the direction the mirror faces, so pointing a bagua mirror at a neighbour's house is offensive and is a feng shui taboo. The mirrors are cheap and self-installed, which makes them easy to misuse; feuds over offensively aimed mirrors are well known in Hong Kong and other dense Chinese communities, and have been parodied in popular culture. *Inference —* this is the only charm in this atlas whose standard grievance is that somebody else used one correctly.\n\nThe toli is worn, not hung. Shamans in parts of Mongolia and in the Republic of Buryatia wear them at the neck or on the ritual costume, which is often called armour, because these pieces protect the shaman from hostile spirit attack. Among the Daur the front and back of the costume were covered with small toli laid like overlapping scales, with up to eight large mirrors on the front and a medium one over the heart — the neker-toli, sometimes plated in nickel. The mirrors are also said to collect and store the power called wind horse, to house helper spirits, and to purify water or vodka. Among the Daur the number a shaman owns says how powerful they are.\n\n*Inference —* a polished disc worn outward does the same physical thing in both traditions: it sends back whatever arrives. The explanations attached to it are not the same, and this record keeps them apart rather than writing one logic across both."
+ },
+ "text_th": {
+  "what": "แผ่นโลหะขัดเงา สวมหรือแขวนให้หันออกด้านนอก มีสองแบบที่มีเอกสารบันทึกไว้ดี แบบแรกคือกระจกโป๊ยก่วย (ปากั้ว) ของจีน ทรงแปดเหลี่ยมหรือทรงกลม มีสัญลักษณ์ขีดสามชั้นทั้งแปด (ตรีแกรม) เรียงรอบกระจกแบบแบน นูน หรือเว้า ติดไว้เหนือประตูหรือหน้าต่าง แบบที่สองคือโตลี (toli) ของชาวมองโกลและชาวบูร์ยัต กระจกกลมทองเหลือง ทองแดง หรือสำริด ด้านหนึ่งมีลวดลาย อีกด้านขัดเงา ชามานสวมที่คอ หรือเย็บติดเสื้อคลุมเดล (deel) หรือผ้ากันเปื้อนเป็นจำนวนมาก"
  },
  "kin": [
   {
@@ -235,56 +239,72 @@
    "type": "amulet",
    "name": "Bagua mirror",
    "as": "the Chinese object itself — trigrams round a disc, fixed above a door",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กระจกปากั้ว (กระจกแปดทิศ)",
+   "as_th": ""
   },
   {
    "to": "toli-mirror",
    "type": "amulet",
    "name": "Toli",
    "as": "the Mongolian and Buryat shaman's mirror, worn on the body rather than fixed to a building",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "โตลี (กระจกของชามาน)",
+   "as_th": ""
   },
   {
    "to": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "the other sign whose stated mechanism is sending a look back where it came from",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "the practice the bagua mirror belongs to, and the one that makes it a neighbour's problem",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "to": "coin-square",
    "type": "motif",
    "name": "The square hole",
    "as": "sold from the same shelf, and appearing on Chinese lock charms as a design",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "รูสี่เหลี่ยม",
+   "as_th": ""
   },
   {
    "to": "ongon",
    "type": "amulet",
    "name": "Ongon",
    "as": "the Mongolian spirit-figure the same shamans keep; the mirror houses helper spirits too",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "องกอน",
+   "as_th": ""
   },
   {
    "to": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "the tradition the bagua mirror's mirror techniques belong to",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "wearing-hidden",
    "type": "practice",
    "name": "Wearing hidden",
    "as": "the contrast the toli sets up: this is armour worn on the outside, where it can be seen",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "การสวมเครื่องรางแบบซ่อน",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -465,42 +485,54 @@
    "type": "amulet",
    "name": "Bagua mirror",
    "as": "the sign family it belongs to: a surface that sends a thing back where it came from",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "กระจกปากั้ว (กระจกแปดทิศ)",
+   "as_th": ""
   },
   {
    "from": "nkisi",
    "type": "amulet",
    "name": "Nkisi",
    "as": "the reflective disc over the belly cavity and in the eyes, which is how the nkisi is said to see into the spirit world",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "เอ็นกีซี",
+   "as_th": ""
   },
   {
    "from": "toli-mirror",
    "type": "amulet",
    "name": "Toli",
    "as": "the sign it is — a polished surface that sends a thing back, worn instead of hung",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "โตลี (กระจกของชามาน)",
+   "as_th": ""
   },
   {
    "from": "bakongo-nkisi-craft",
    "type": "tradition",
    "name": "Bakongo nkisi craft",
    "as": "the reflective disc over the cavity and in the eyes, held to be how the nkisi sees into the spirit world",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "งานสร้างนคิซีของชาวบาคองโก",
+   "as_th": ""
   },
   {
    "from": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "the other technique it holds — deflection, which needs no script at all",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "fushimi-inari",
    "type": "place",
    "name": "Fushimi Inari-taisha",
    "as": "the sign in the sanctuary — Inari shrines leave the mirror in open view",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ศาลเจ้าฟูชิมิอินาริไทฉะ",
+   "as_th": ""
   }
  ]
 }

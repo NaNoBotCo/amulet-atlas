@@ -13,7 +13,8 @@
    "ta'wiz",
    "taʿwīdh",
    "तावीज़"
-  ]
+  ],
+  "th": "ตาบีซ (เครื่องรางคำอธิษฐาน)"
  },
  "etymology": {
   "root": "Arabic taʿwīdh 'amulet, charm', from the verb ʿawwadha, 'to fortify someone with an amulet or incantation'; into Urdu and Hindi as ta'wiz",
@@ -45,6 +46,9 @@
   "story": "The writing is the object. In Muslim practice the texts chosen for amulets are prayers, passages from the Qur'an, hadith, religious narratives and religious names; the word Allah is especially common, and many hold that touching or seeing it turns evil away. Names of prophets and of religious figures are used to connect the wearer to the person named — Solomon, Ali ibn Abi Talib and his sons Hasan and Husain, and the Seven Sleepers of Ephesus are among the favoured.\n\nThe oldest dated thing of this kind read for this record is not South Asian. In the medieval Mediterranean Islamic world, prayers were printed from a block or die — tarsh — onto paper, then folded down small enough for a tubular case. The Aga Khan Museum in Toronto holds an Egyptian block-printed amulet of the tenth or eleventh century, ink on paper at 7.2 by 5.5 cm, whose last line is Qur'an 20:46: 'So God will safeguard you from them. He is All-Hearing and All-Knowing.' Such text amulets were housed in lead cases stamped with surat al-Ikhlas, with lugs so the package could be sewn to clothing or hung from the body. The cases were most likely kept sealed, which means the contents were invisible to an owner who could not afford a hand-written one.\n\nIn South Asia the tabiz crosses the line the word implies. Amulets in North India and Pakistan include threads with a taveez attached — a small cylinder holding a prayer verse — worn against nazar, the harmful look. A tabiz worn by Hindus often bears the Om sign instead.\n\nWhether a Muslim should wear one at all is argued in the tradition, not about it. Some hadith condemn wearing talismans, and some Muslims, notably Salafis, hold that amulets and talismans are forbidden. On the other side, virtually all Muslim scholars permit a talisman that invokes God or an intercessor — Muhammad, Ali, the saints — while addressing jinn or demons is prohibited; and Sunni Muslims are permitted to wear ta'wiz so long as it strengthens the wearer's bond with Allah and does not come from a belief that the ta'wiz itself cures or protects.",
   "how": "Written by hand, or pre-made. Texts packaged in tawiz are most often pre-made for the public, though a literate wearer can change the verse at will. The paper is folded, sometimes to a triangle, and closed in metal; in Central and West Asia triangular packets holding a sacred verse are fastened to the clothes of babies and small children. The same triangle is woven into kilims, where, as the carpet scholar Jon Thompson puts it, the amulet in a rug is not a theme: \"the device in the rug has a materiality, it generates a field of force able to interact with other unseen forces and is not merely an intellectual abstraction.\"",
   "today": "Worn and sold across Pakistan, India and Afghanistan as of 2026. In Afghanistan fortunetellers work from small shops or outside mosques and shrines and sell amulets against evil spirits alongside marriage advice, and their clients are mostly women and the elderly; the same trade is widespread in Iran and Pakistan."
+ },
+ "text_th": {
+  "what": "คำอธิษฐานที่เขียนไว้ พับให้เล็กแล้วปิดไว้ในบางสิ่ง ในเอเชียใต้ ภาชนะนั้นมักเป็นตลับโลหะทรงแบนหรือทรงกระบอก ห้อยคอด้วยเชือกสีดำหรือผูกไว้ที่ต้นแขน กระดาษข้างในมีโองการอัลกุรอาน หะดีษ พระนามหนึ่งในเก้าสิบเก้าพระนามของอัลลอฮ์ หรือนามของบรรดานบีและเศาะหาบะฮ์ (สหายของท่านนบี) ตาบีซอาจเป็นจี้ที่สลักข้อความลงบนโลหะโดยตรง หรือบทดุอาอ์ใส่กรอบแขวนผนังก็ได้ ตลับมีไว้ให้ปิดตลอด ผู้สวมส่วนใหญ่จึงไม่เคยเห็นหน้ากระดาษที่ตนพกอยู่"
  },
  "dating": {
   "period": "medieval Islamic world to the present",
@@ -240,70 +244,90 @@
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the same object under its Arabic name, written up from the Arabic-speaking side of the practice",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "to": "taweez-word",
    "type": "term",
    "name": "taweez",
    "as": "the word itself, and the verb it comes from — to fortify someone with an amulet",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "ตะวีซ",
+   "as_th": ""
   },
   {
    "to": "islamic-talismanic",
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "the tradition that sets what may be written on it and who may be addressed by it",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "to": "quran-pendant",
    "type": "amulet",
    "name": "Qur'an pendant",
    "as": "the same text worn without a fold — the verse legible on the surface rather than sealed in a case",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "จี้อัลกุรอาน",
+   "as_th": ""
   },
   {
    "to": "nimbu-mirchi",
    "type": "amulet",
    "name": "Nimbu mirchi",
    "as": "what hangs in the doorway of the same street against the same look, made of a lemon rather than a verse",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "นิมบู มีร์ชี (มะนาวกับพริก)",
+   "as_th": ""
   },
   {
    "to": "nazar",
    "type": "amulet",
    "name": "Nazar",
    "as": "the glass answer to the harm this paper answers in words",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "to": "sewing-in",
    "type": "practice",
    "name": "Sewing in",
    "as": "the practice the lugs on a lead case were for — the amulet stitched to clothing rather than hung",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเย็บเครื่องรางไว้ในผ้า",
+   "as_th": ""
   },
   {
    "to": "gau-box",
    "type": "amulet",
    "name": "Gau",
    "as": "the Himalayan neighbour: another sealed metal container whose contents the wearer is not expected to open",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กาอู (ตลับเครื่องรางทิเบต)",
+   "as_th": ""
   },
   {
    "to": "hindu-kavacha",
    "type": "tradition",
    "name": "Kavacha — the Hindu armour tradition",
    "as": "the tradition next door that borrowed the object and changed the writing to Om",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "กวจะ (เกราะคุ้มครองในคติฮินดู)",
+   "as_th": ""
   },
   {
    "to": "paper",
    "type": "material",
    "name": "Paper",
    "as": "the material that made a prayer portable, and printable from a block long before Europe printed",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "กระดาษ",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -506,35 +530,45 @@
    "type": "amulet",
    "name": "Gau",
    "as": "the same idea two mountain ranges west: a written text sealed in metal that the wearer is not meant to open",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กาอู (ตลับเครื่องรางทิเบต)",
+   "as_th": ""
   },
   {
    "from": "nimbu-mirchi",
    "type": "amulet",
    "name": "Nimbu mirchi",
    "as": "the written answer to nazar in the same streets, worn on the body while this hangs at the door",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "นิมบู มีร์ชี (มะนาวกับพริก)",
+   "as_th": ""
   },
   {
    "from": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the South Asian object under the same word, carried by Muslims and by Hindus with an Om on it instead",
-   "rel": "same-word"
+   "rel": "same-word",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "from": "taweret-amulet",
    "type": "amulet",
    "name": "Taweret amulet",
    "as": "a later charm for the same fear, made of a written verse in a case rather than a goddess in faience",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางเทพีทาเวเรต",
+   "as_th": ""
   },
   {
    "from": "hindu-kavacha",
    "type": "tradition",
    "name": "Kavacha — the Hindu armour tradition",
    "as": "the Muslim neighbour it shares streets and shapes with, and which Hindu wearers borrow with the writing changed to Om",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กวจะ (เกราะคุ้มครองในคติฮินดู)",
+   "as_th": ""
   }
  ]
 }

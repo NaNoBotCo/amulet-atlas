@@ -4,17 +4,71 @@
  "type": "practice",
  "names": {
   "name": "Consecration",
-  "aliases": ["charging", "empowerment", "blessing an object", "phutthaphisek", "abhiseka", "batèms"],
-  "said": "the step that turns an object into a charm"
+  "aliases": [
+   "charging",
+   "empowerment",
+   "blessing an object",
+   "phutthaphisek",
+   "abhiseka",
+   "batèms"
+  ],
+  "said": "the step that turns an object into a charm",
+  "th": "การปลุกเสก"
  },
- "region": ["world", "mainland-sea", "japan", "china", "south-asia", "himalaya-tibet", "central-africa", "west-africa", "caribbean", "western-europe"],
- "countries": ["TH", "JP", "IN", "LK", "CN", "CD", "BJ", "HT", "IT", "VA", "NG"],
- "facets": {"stage": "charge", "era": "living", "status": "living", "restricted": "limited"},
+ "region": [
+  "world",
+  "mainland-sea",
+  "japan",
+  "china",
+  "south-asia",
+  "himalaya-tibet",
+  "central-africa",
+  "west-africa",
+  "caribbean",
+  "western-europe"
+ ],
+ "countries": [
+  "TH",
+  "JP",
+  "IN",
+  "LK",
+  "CN",
+  "CD",
+  "BJ",
+  "HT",
+  "IT",
+  "VA",
+  "NG"
+ ],
+ "facets": {
+  "stage": "charge",
+  "era": "living",
+  "status": "living",
+  "restricted": "limited"
+ },
  "text": {
   "what": "The step that makes a made thing a charm. A clay tablet pressed in a temple yard is clay until somebody chants over it; a printed slip is paper until a shrine stamps and empowers it. Traditions that agree on almost nothing agree on this: the object arrives inert and a qualified person, in a set rite, puts something into it. Who counts as qualified is the part each tradition guards.",
   "story": "Thailand states the labour plainly. Monks chant and bless amulets in a process that can take from a week to several years, and an amulet's later value turns on which temple pressed it and which monk consecrated it. Takrut — rolled metal or palm-leaf scrolls — were being made by monks in Thailand by 1200–1300 CE, on a practice the sources say predates Buddhism's arrival there.\n\nHinduism puts the requirement as a negative. Occult yantras are consecrated and energised by a priest using mantras tied to the specific deity, and practitioners hold that a yantra not energised with a mantra is lifeless. Japan says the same thing about paper: an ofuda carries the kami's essence, in the words of the practice, by virtue of its consecration, and omamori are made sacred through ritual and said to contain busshin — spiritual offshoots — in a Shinto frame, or kesshin, manifestations, in a Buddhist one.\n\nIn Kongo practice the substances go in and the figure is then woken. The nails driven into an nkisi nkondi are not ornament: each nail or metal piece stands for a vow or an agreement, and scholars of the tradition describe the driving as a requirement of awakening the spirit. In Haitian Vodou a batèm, a baptism, makes an object a vessel for the lwa, and an object consecrated for ritual use is held to contain nanm, a spiritual essence; the ason rattle cannot be used before it. The Catholic Church files the same move under law: the Catechism lists three kinds of sacramental — blessings, consecrations and dedications, and exorcisms.\n\n*Inference —* set those side by side and the shared structure is a transfer with a gatekeeper. The rite differs, the gate does not. That is also why consecration is the point where this atlas stops writing.",
   "how": "Structure only, which is all that is public in several of these traditions: an object is made; a person the tradition recognises — monk, priest, nganga, oungan, sofer's client, shrine office — performs a set rite over it, often with words fixed by the lineage; the object is then handled differently from how it was handled an hour earlier. In Thailand mass consecrations are held in temple halls with many monks chanting over trays of amulets for hours or days. In Japan the object then bears a shrine's seal. In Tibetan Buddhism the equivalent transfer runs the other way, into a person: an initiation or empowerment (Sanskrit abhiseka, Tibetan wangkur) consecrates a practitioner into a particular tantric practice.",
   "today": "Live everywhere, and contested at the edges. Japanese priests have complained about the quality of factory-made omamori that shrines order when demand outruns their own production, and shops sell generic omamori carrying licensed characters that no shrine issued. Among Yoruba egúngún societies, some people make masks for sale on the international art market without consecrating or using them, and other members of the society disapprove of the practice. Both arguments are about the same thing: whether an unconsecrated copy is the object at all."
+ },
+ "text_th": {
+  "what": "ขั้นตอนที่ทำให้สิ่งที่ถูกสร้างขึ้นกลายเป็นเครื่องราง แผ่นดินเหนียวที่กดพิมพ์ในลานวัดยังเป็นดินอยู่จนกว่าจะมีผู้สวดปลุกเสก ใบพิมพ์กระดาษยังเป็นกระดาษอยู่จนกว่าศาลเจ้าจะประทับตราและทำให้มีพลัง ธรรมเนียมที่แทบไม่เห็นตรงกันในเรื่องใดเลยกลับเห็นตรงกันในเรื่องนี้: วัตถุมาถึงในสภาพไร้พลัง และบุคคลที่มีคุณสมบัติ ในพิธีที่กำหนดไว้ ใส่บางสิ่งเข้าไปในวัตถุนั้น ใครนับว่ามีคุณสมบัติ คือส่วนที่แต่ละธรรมเนียมหวงแหนไว้",
+  "story": "ประเทศไทยระบุแรงงานนี้ไว้ตรง ๆ พระสงฆ์สวดและปลุกเสกพระเครื่องในกระบวนการที่อาจกินเวลาตั้งแต่หนึ่งสัปดาห์ไปจนถึงหลายปี และมูลค่าของพระในภายหลังขึ้นอยู่กับว่าวัดไหนกดพิมพ์ และพระสงฆ์รูปใดปลุกเสก ตะกรุด — แผ่นโลหะหรือใบลานที่ม้วนเป็นหลอด — มีพระสงฆ์ในประเทศไทยสร้างขึ้นแล้วภายในราว พ.ศ. 1743–1843 (ค.ศ. 1200–1300) ตามธรรมเนียมที่แหล่งข้อมูลกล่าวว่ามีมาก่อนพระพุทธศาสนาจะเข้ามาถึงที่นั่น\n\nศาสนาฮินดูระบุข้อกำหนดนี้ในเชิงปฏิเสธ ยันต์ที่ใช้ทางเวทมนตร์ได้รับการปลุกเสกและเสริมพลังโดยนักบวช ด้วยมนต์ที่ผูกกับเทพองค์นั้นโดยเฉพาะ และผู้ปฏิบัติถือว่ายันต์ที่ไม่ได้รับพลังจากมนต์นั้นไร้ชีวิต ญี่ปุ่นกล่าวสิ่งเดียวกันเกี่ยวกับกระดาษ: โอฟุดะ (ofuda) บรรจุแก่นสารของคามิ (เทพเจ้าในศาสนาชินโต) ตามถ้อยคำของธรรมเนียมเอง ด้วยอำนาจของพิธีทำให้ศักดิ์สิทธิ์ และโอมาโมริ (omamori) ถูกทำให้ศักดิ์สิทธิ์ด้วยพิธีกรรม และกล่าวกันว่าบรรจุ บุสชิน (busshin) คือส่วนแยกทางจิตวิญญาณ ในกรอบชินโต หรือ เคสชิน (kesshin) คือการสำแดงองค์ ในกรอบพุทธ\n\nในธรรมเนียมคองโก สารต่าง ๆ ถูกใส่เข้าไปก่อน แล้วรูปจึงถูกปลุกให้ตื่น ตะปูที่ตอกลงบนนกีซี เอ็นคอนดี (nkisi nkondi) ไม่ใช่เครื่องประดับ: ตะปูหรือชิ้นโลหะแต่ละชิ้นแทนคำปฏิญาณหรือข้อตกลง และนักวิชาการที่ศึกษาธรรมเนียมนี้อธิบายว่าการตอกเป็นข้อกำหนดของการปลุกวิญญาณให้ตื่น ในศาสนาโวดู (Vodou) ของเฮติ บาแตม (batèm) หรือพิธีล้างบาป ทำให้วัตถุกลายเป็นภาชนะของลวา (lwa) และวัตถุที่ผ่านพิธีสำหรับใช้ในพิธีกรรมถือกันว่ามี นาม (nanm) คือแก่นสารทางจิตวิญญาณ อยู่ภายใน ลูกเขย่าอาซอน (ason) ใช้ไม่ได้ก่อนผ่านพิธีนี้ พระศาสนจักรคาทอลิกจัดการกระทำเดียวกันนี้ไว้ในกฎหมาย: หนังสือคำสอนพระศาสนจักรคาทอลิกระบุสิ่งคล้ายศีลไว้สามประเภท — การอวยพร การเสกและการถวาย และการขับไล่ปีศาจ\n\n*ข้อสันนิษฐาน —* เมื่อวางทั้งหมดนี้เคียงกัน โครงสร้างร่วมคือการถ่ายทอดที่มีผู้เฝ้าประตู พิธีต่างกัน แต่ประตูไม่ต่าง และนั่นคือเหตุที่การปลุกเสกเป็นจุดที่แอตลาสนี้หยุดเขียน",
+  "how": "เฉพาะโครงสร้างเท่านั้น ซึ่งคือทั้งหมดที่เปิดเผยต่อสาธารณะในหลายธรรมเนียมเหล่านี้: สร้างวัตถุขึ้น บุคคลที่ธรรมเนียมยอมรับ — พระสงฆ์ นักบวช งกังกา (nganga) อุงกัน (oungan) ลูกค้าของโซเฟอร์ (sofer ผู้คัดเขียนคัมภีร์) สำนักงานของศาลเจ้า — ประกอบพิธีที่กำหนดไว้เหนือวัตถุนั้น มักใช้ถ้อยคำที่สายครูกำหนดไว้ตายตัว จากนั้นวัตถุจะถูกปฏิบัติต่างไปจากเมื่อชั่วโมงก่อน ในประเทศไทย พิธีพุทธาภิเษกครั้งใหญ่จัดขึ้นในศาลาหรือวิหารของวัด มีพระสงฆ์จำนวนมากสวดเหนือถาดพระเครื่องเป็นเวลาหลายชั่วโมงหรือหลายวัน ในญี่ปุ่น วัตถุจะมีตราประทับของศาลเจ้าหลังจากนั้น ในพุทธศาสนาแบบทิเบต การถ่ายทอดที่เทียบเท่ากันไหลไปอีกทาง คือเข้าสู่ตัวบุคคล: การอภิเษกหรือการรับมอบพลัง (ภาษาสันสกฤตว่า อภิเษก ภาษาทิเบตว่า วังกูร์ (wangkur)) เป็นการประกอบพิธีรับผู้ปฏิบัติเข้าสู่การปฏิบัติตันตระแบบหนึ่งโดยเฉพาะ",
+  "today": "ยังดำเนินอยู่ทุกแห่ง และมีข้อโต้แย้งตามขอบ ๆ นักบวชญี่ปุ่นบ่นถึงคุณภาพของโอมาโมริที่ผลิตจากโรงงาน ซึ่งศาลเจ้าสั่งทำเมื่อความต้องการเกินกำลังการผลิตของศาลเจ้าเอง และร้านค้าขายโอมาโมริทั่วไปที่มีตัวการ์ตูนลิขสิทธิ์ ซึ่งไม่มีศาลเจ้าใดออกให้ ในหมู่สมาคมเอกุนกุน (egúngún) ของชาวโยรูบา บางคนทำหน้ากากเพื่อขายในตลาดศิลปะนานาชาติโดยไม่ได้ปลุกเสกหรือนำไปใช้ และสมาชิกคนอื่นของสมาคมไม่เห็นด้วยกับการทำเช่นนั้น ข้อโต้แย้งทั้งสองเป็นเรื่องเดียวกัน: สำเนาที่ไม่ได้ผ่านพิธีนั้นนับเป็นวัตถุชิ้นนั้นได้หรือไม่"
+ },
+ "th_fields": {
+  "dating.period": "มีหลักฐานตั้งแต่สมัยกลาง และเก่ากว่านั้นตามที่แต่ละประเพณีเล่าเอง",
+  "dating.note": "ระบุอายุจากกรณีเก่าที่สุดที่แหล่งข้อมูลเหล่านี้ให้ปีไว้ — ตะกรุดที่พระสงฆ์ในประเทศไทยสร้างขึ้นในช่วง พ.ศ. 1743–1843 (ค.ศ. 1200–1300) การปฏิบัตินี้เก่ากว่านั้นอย่างเห็นได้ชัดในทุกที่ที่ปรากฏ บันทึกนี้ระบุอายุตามที่อ้างอิงได้ ไม่ใช่ตามที่สันนิษฐาน",
+  "object.made_by": "ในแต่ละประเพณี คือผู้ที่ประเพณีนั้นยอมรับ: พระภิกษุที่อุปสมบทแล้ว นักบวชผู้ประกอบพิธีปลุกเสก งันกา (nganga) อุงกันหรือมันโบ (oungan, manbo) หรือสำนักงานของศาลเจ้า",
+  "object.note": "ที่นี่ไม่มีวัตถุชิ้นเดียว รูปแบบที่ให้ไว้คือสิ่งที่ถูกปลุกเสกบ่อยที่สุดในประเพณีที่บันทึกนี้อ้างถึง",
+  "against.0.who": "การปฏิบัติเรื่องพระเครื่องของไทย ตามที่แหล่งข้อมูลที่อ้างถึงสรุปไว้",
+  "against.0.note": "ข้ออ้างเรื่องการคุ้มครองของพระเครื่องตั้งอยู่บนการปลุกเสก พระที่กดพิมพ์แล้วแต่ยังไม่ผ่านการปลุกเสก จะไม่ถูกนำออกให้เช่าบูชาในฐานะพระเครื่อง",
+  "against.1.who": "บันกันกาแห่งคองโก (banganga) ตามที่นักวิชาการผู้ศึกษามินกิซี (minkisi) บรรยายไว้",
+  "against.1.note": "การตอกตะปูถูกบรรยายว่าเป็นการปลุกวิญญาณที่ทำหน้าที่นั้นให้ตื่นขึ้น",
+  "against.2.who": "การปฏิบัติจู้โหยว (zhuyou) ของลัทธิเต๋า ซึ่งใช้ในจีนควบคู่กับการแพทย์ การทำสมาธิ การฝังเข็ม และการนวด",
+  "restricted.note": "ถ้อยคำที่กล่าวเหนือวัตถุเป็นสิ่งหวงห้ามในหลายประเพณีเหล่านี้ และแอตลาสนี้ไม่พิมพ์ถ้อยคำเหล่านั้น พุทธศาสนาแบบทิเบตจำกัดการเข้าถึงตัวการปฏิบัติเอง: หากยังไม่ได้รับอภิเษก โดยทั่วไปจะไม่ได้รับอนุญาตให้ปฏิบัติตันตระชั้นสูง ศาสตร์การทำยันต์ของลัทธิเต๋าถ่ายทอดกันอย่างลับจากนักบวชสู่ศิษย์ ในที่ที่พิธีเป็นพิธีปิด บันทึกนี้บรรยายโครงสร้างและจุดประสงค์ของพิธี แล้วหยุดเพียงนั้น"
  },
  "dating": {
   "period": "attested from the medieval period; older in every tradition's own account",
@@ -30,8 +84,17 @@
  },
  "object": {
   "form": "plaque",
-  "materials": ["terracotta", "paper", "copper", "wood"],
-  "worn": ["neck", "wall", "shop"],
+  "materials": [
+   "terracotta",
+   "paper",
+   "copper",
+   "wood"
+  ],
+  "worn": [
+   "neck",
+   "wall",
+   "shop"
+  ],
   "made_by": "in each tradition, a person that tradition recognises: an ordained monk, a consecrating priest, an nganga, an oungan or manbo, a shrine office",
   "single_use": false,
   "source": "s:wp-thai-buddha-amulet",
@@ -43,39 +106,150 @@
   "source": "s:wp-tibetan-buddhism"
  },
  "against": [
-  {"harm": "bad-luck", "who": "Thai amulet practice, as summarised in the cited account", "source": "s:wp-thai-buddha-amulet", "tier": "cited", "note": "consecration is what the amulet's protective claim rests on; an unconsecrated press is not sold as one"},
-  {"harm": "spirits", "who": "Kongo banganga, as described by scholars of minkisi", "source": "s:wp-nkisi", "tier": "cited", "note": "the driving of nails is described as awakening the spirit that does the work"},
-  {"harm": "illness", "who": "Taoist zhuyou practice, used in China alongside medicine, meditation, acupuncture and massage", "source": "s:wp-fulu", "tier": "cited"}
+  {
+   "harm": "bad-luck",
+   "who": "Thai amulet practice, as summarised in the cited account",
+   "source": "s:wp-thai-buddha-amulet",
+   "tier": "cited",
+   "note": "consecration is what the amulet's protective claim rests on; an unconsecrated press is not sold as one"
+  },
+  {
+   "harm": "spirits",
+   "who": "Kongo banganga, as described by scholars of minkisi",
+   "source": "s:wp-nkisi",
+   "tier": "cited",
+   "note": "the driving of nails is described as awakening the spirit that does the work"
+  },
+  {
+   "harm": "illness",
+   "who": "Taoist zhuyou practice, used in China alongside medicine, meditation, acupuncture and massage",
+   "source": "s:wp-fulu",
+   "tier": "cited"
+  }
  ],
  "kin": [
-  {"to": "phra-khrueang", "as": "the object this step is priced by — which temple pressed it and which monk chanted over it is most of its value", "rel": "practice"},
-  {"to": "takrut", "as": "the earliest dated thing in this record: monks in Thailand rolling and empowering metal scrolls by 1200–1300 CE", "rel": "practice"},
-  {"to": "ofuda", "as": "paper that carries a kami's essence, in the practice's own words, by virtue of this step", "rel": "practice"},
-  {"to": "omamori", "as": "the packet made sacred through ritual, then never opened by the person carrying it", "rel": "practice"},
-  {"to": "yantra-plate", "as": "the diagram a priest energises with a mantra; practitioners hold that one left un-energised is lifeless", "rel": "practice"},
-  {"to": "nkisi", "as": "the figure woken rather than blessed — each nail a vow driven into it", "rel": "practice"},
-  {"to": "agnus-dei", "as": "the Catholic wax disc whose whole standing comes from who blessed it", "rel": "practice"},
-  {"to": "catholic-sacramentals", "as": "the tradition that wrote this step into canon law: blessings, consecrations and dedications, exorcisms", "rel": "tradition"},
-  {"to": "thai-wicha", "as": "the tradition where the consecrating monk's name is the object's provenance", "rel": "tradition"},
-  {"to": "blessing-at-a-shrine", "as": "the same transfer done over the counter, to a stranger, for a donation", "rel": "parallel"},
-  {"to": "inscribing", "as": "the step before this one — the writing that has to be right before anyone chants over it", "rel": "practice"},
-  {"to": "tattooing", "as": "consecration with no object at all: the words go over skin, and the rules stay on the person", "rel": "parallel"}
+  {
+   "to": "phra-khrueang",
+   "as": "the object this step is priced by — which temple pressed it and which monk chanted over it is most of its value",
+   "rel": "practice",
+   "as_th": "วัตถุที่ขั้นตอนนี้ใช้ตีราคา — วัดไหนกดพิมพ์ และพระสงฆ์รูปใดสวดปลุกเสก คือมูลค่าส่วนใหญ่ของมัน"
+  },
+  {
+   "to": "takrut",
+   "as": "the earliest dated thing in this record: monks in Thailand rolling and empowering metal scrolls by 1200–1300 CE",
+   "rel": "practice",
+   "as_th": "สิ่งที่มีการระบุอายุเก่าที่สุดในบันทึกนี้: พระสงฆ์ในประเทศไทยม้วนและปลุกเสกแผ่นโลหะภายในราว พ.ศ. 1743–1843 (ค.ศ. 1200–1300)"
+  },
+  {
+   "to": "ofuda",
+   "as": "paper that carries a kami's essence, in the practice's own words, by virtue of this step",
+   "rel": "practice",
+   "as_th": "กระดาษที่บรรจุแก่นสารของคามิ ตามถ้อยคำของธรรมเนียมเอง ด้วยอำนาจของขั้นตอนนี้"
+  },
+  {
+   "to": "omamori",
+   "as": "the packet made sacred through ritual, then never opened by the person carrying it",
+   "rel": "practice",
+   "as_th": "ห่อที่ถูกทำให้ศักดิ์สิทธิ์ด้วยพิธีกรรม แล้วไม่เคยถูกเปิดโดยผู้ที่พกติดตัว"
+  },
+  {
+   "to": "yantra-plate",
+   "as": "the diagram a priest energises with a mantra; practitioners hold that one left un-energised is lifeless",
+   "rel": "practice",
+   "as_th": "แผนภาพที่นักบวชเสริมพลังด้วยมนต์ ผู้ปฏิบัติถือว่าแผ่นที่ไม่ได้รับพลังนั้นไร้ชีวิต"
+  },
+  {
+   "to": "nkisi",
+   "as": "the figure woken rather than blessed — each nail a vow driven into it",
+   "rel": "practice",
+   "as_th": "รูปที่ถูกปลุกให้ตื่น ไม่ใช่ได้รับพร — ตะปูแต่ละตัวคือคำปฏิญาณที่ตอกลงไป"
+  },
+  {
+   "to": "agnus-dei",
+   "as": "the Catholic wax disc whose whole standing comes from who blessed it",
+   "rel": "practice",
+   "as_th": "แผ่นขี้ผึ้งของคาทอลิกที่สถานะทั้งหมดมาจากว่าใครเป็นผู้อวยพร"
+  },
+  {
+   "to": "catholic-sacramentals",
+   "as": "the tradition that wrote this step into canon law: blessings, consecrations and dedications, exorcisms",
+   "rel": "tradition",
+   "as_th": "ธรรมเนียมที่เขียนขั้นตอนนี้ไว้ในกฎหมายพระศาสนจักร: การอวยพร การเสกและการถวาย และการขับไล่ปีศาจ"
+  },
+  {
+   "to": "thai-wicha",
+   "as": "the tradition where the consecrating monk's name is the object's provenance",
+   "rel": "tradition",
+   "as_th": "ธรรมเนียมที่ชื่อของพระสงฆ์ผู้ปลุกเสกคือที่มาของวัตถุ"
+  },
+  {
+   "to": "blessing-at-a-shrine",
+   "as": "the same transfer done over the counter, to a stranger, for a donation",
+   "rel": "parallel",
+   "as_th": "การถ่ายทอดแบบเดียวกันที่ทำผ่านเคาน์เตอร์ ให้คนแปลกหน้า แลกกับเงินบริจาค"
+  },
+  {
+   "to": "inscribing",
+   "as": "the step before this one — the writing that has to be right before anyone chants over it",
+   "rel": "practice",
+   "as_th": "ขั้นตอนก่อนหน้านี้ — การเขียนที่ต้องถูกต้องก่อนที่ใครจะสวดเหนือมัน"
+  },
+  {
+   "to": "tattooing",
+   "as": "consecration with no object at all: the words go over skin, and the rules stay on the person",
+   "rel": "parallel",
+   "as_th": "การปลุกเสกที่ไม่มีวัตถุเลย: ถ้อยคำลงบนผิวหนัง และข้อปฏิบัติก็ติดอยู่กับตัวบุคคล"
+  }
  ],
  "links": [
-  {"label": "Thai Buddha amulet — Wikipedia", "url": "https://en.wikipedia.org/wiki/Thai_Buddha_amulet"},
-  {"label": "Ofuda — Wikipedia", "url": "https://en.wikipedia.org/wiki/Ofuda"}
+  {
+   "label": "Thai Buddha amulet — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thai_Buddha_amulet"
+  },
+  {
+   "label": "Ofuda — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ofuda"
+  }
  ],
- "sources": ["s:wp-thai-buddha-amulet", "s:wp-takrut", "s:wp-yantra", "s:wp-ofuda", "s:wp-omamori", "s:wp-nkisi", "s:wp-haitian-vodou", "s:wp-sacramental", "s:wp-tibetan-buddhism", "s:wp-fulu", "s:wp-west-african-vod-n"],
+ "sources": [
+  "s:wp-thai-buddha-amulet",
+  "s:wp-takrut",
+  "s:wp-yantra",
+  "s:wp-ofuda",
+  "s:wp-omamori",
+  "s:wp-nkisi",
+  "s:wp-haitian-vodou",
+  "s:wp-sacramental",
+  "s:wp-tibetan-buddhism",
+  "s:wp-fulu",
+  "s:wp-west-african-vod-n"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-thai-buddha-amulet"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-thai-buddha-amulet"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:wp-thai-buddha-amulet", "note": "the closing paragraph is marked as this project's inference where it appears"},
-   "text.how": {"tier": "tradition", "note": "structure only; the cited sources describe that a rite happens and who may perform it, not what is said in it, and this record does not fill that gap"},
-   "object": {"tier": "inference", "note": "there is no single consecrated object; the form and materials are the commonest cases in the cited traditions"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-thai-buddha-amulet",
+    "note": "the closing paragraph is marked as this project's inference where it appears"
+   },
+   "text.how": {
+    "tier": "tradition",
+    "note": "structure only; the cited sources describe that a rite happens and who may perform it, not what is said in it, and this record does not fill that gap"
+   },
+   "object": {
+    "tier": "inference",
+    "note": "there is no single consecrated object; the form and materials are the commonest cases in the cited traditions"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Thai amulets.jpg", "File:Ofuda of Ise Jingu.jpg"],
+ "x_commons_files": [
+  "File:Thai amulets.jpg",
+  "File:Ofuda of Ise Jingu.jpg"
+ ],
  "confidence": "medium",
  "needs_verification": true,
  "updated": "2026-09-16"

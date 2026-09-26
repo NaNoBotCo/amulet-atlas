@@ -11,7 +11,8 @@
    "yarn",
    "cord",
    "stitches"
-  ]
+  ],
+  "th": "ด้ายและเชือก"
  },
  "region": [
   "levant",
@@ -40,6 +41,9 @@
   "what": "The cheapest amulet material there is, and the only one whose meaning is carried by an action rather than by a shape. A thread charm is made by tying, winding, knotting or stitching; the colour is nearly always red, or red and white, and the count usually matters.",
   "story": "The Jewish red string is thin scarlet or crimson wool, khutt hashani, worn as a band on the wrist against the evil eye. A scarlet thread tied about the wrist appears in Genesis 38, at the birth of Tamar's twins; commentators as early as Rabbi Shmuel ben Hafni Gaon noted that a red string placed on the hand may be a good omen. The custom is popularly tied to Kabbalah, and the same red string is worn in Hindu and Chinese practice, for luck, for love, and against harm.\n\nIn Bulgaria and North Macedonia the martenitsa is white and red yarn, usually made into two small wool dolls, Pizho the male in white and Penda the female in red. It goes on at Baba Marta, 1 March, and comes off when the wearer first sees a stork, a swallow or a tree in blossom. Ethnologists read the red and white as life and purity, sunset and melting snow, and the pair as a balance. Romania and Moldova keep the same custom as martisor, Albania as verore, worn on 14 March.\n\nJapan counts. A senninbari, a thousand-person-stitch belt, is a strip of cloth carrying a thousand stitches, each normally sewn by a different woman, and given to a soldier leaving for war. They are typically 15 cm wide and 90 to 120 cm long, most often white cloth with a thousand red stitches, sometimes worked into tigers or into the slogan bu-un cho-kyu, \"eternal good luck in war\". The custom began in the First Sino-Japanese War of 1894-95. Not everyone who wore one accepted the claim: some soldiers rejected the idea that it could protect them and carried it instead as a keepsake of the women who made it.\n\nThread also holds other charms together, and the holding is graded. In a Han jade burial suit the plaques are sewn with gold wire for an emperor, silver for princes and marquises, copper for their children, and silk thread for lesser aristocrats.\n\n*Inference —* thread is the material that leaves no museum tray. It rots, it is cut off at the end of its term by design, and its whole cost is a person's time. Every count in this record — a thousand stitches, two dolls, one wrist — is doing the work a carved stone does elsewhere.",
   "how": "Tied on, wound, knotted, or stitched, usually by somebody other than the wearer. Most thread charms have an end written into them: the martenitsa comes off at the first stork, the senninbari goes to war and does not come back."
+ },
+ "text_th": {
+  "what": "วัสดุเครื่องรางที่ถูกที่สุด และเป็นวัสดุเดียวที่ความหมายอยู่ที่การกระทำ ไม่ใช่รูปทรง เครื่องรางด้ายทำขึ้นด้วยการผูก พัน ขมวดปม หรือเย็บ สีเกือบทุกครั้งเป็นสีแดง หรือแดงกับขาว และจำนวนมักมีความสำคัญ"
  },
  "dating": {
   "period": "Han China to the present",
@@ -233,63 +237,81 @@
    "type": "amulet",
    "name": "Red string",
    "as": "the simplest object in this atlas: scarlet wool, a wrist, a knot",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "to": "martenitsa",
    "type": "amulet",
    "name": "Martenitsa",
    "as": "white and red yarn with an expiry date written into the custom — the first stork ends it",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "มาร์เตนิตซา",
+   "as_th": ""
   },
   {
    "to": "senninbari",
    "type": "amulet",
    "name": "Senninbari",
    "as": "a thousand stitches by a thousand women, 15 cm by 90-120 cm, given to a man going to war",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เซ็นนินบาริ (ผ้าพันฝีเข็ม)",
+   "as_th": ""
   },
   {
    "to": "red-thread",
    "type": "motif",
    "name": "The red thread",
    "as": "the sign this material is, wherever it is worn",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "to": "knot",
    "type": "motif",
    "name": "The knot",
    "as": "what thread turns into when the tying itself is the charm",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ปม",
+   "as_th": ""
   },
   {
    "to": "knotting",
    "type": "practice",
    "name": "Knotting",
    "as": "the practice that makes it, and the reason the count is recorded",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การผูกปม",
+   "as_th": ""
   },
   {
    "to": "sewing-in",
    "type": "practice",
    "name": "Sewing in",
    "as": "the practice of stitching a charm into clothing, where the thread is both charm and fixing",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเย็บเครื่องรางไว้ในผ้า",
+   "as_th": ""
   },
   {
    "to": "rudraksha",
    "type": "amulet",
    "name": "Rudraksha",
    "as": "beads strung on silk or on black or red cotton — the cord is specified, not incidental",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "รุทรากษ์",
+   "as_th": ""
   },
   {
    "to": "gold",
    "type": "material",
    "name": "Gold",
    "as": "the thread of an emperor's burial suit, where rank is written in what the stitching is made of",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ทองคำ",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -465,77 +487,99 @@
    "type": "amulet",
    "name": "Dreamcatcher",
    "as": "the material that does the catching — nettle fibre, then sinew, then nylon",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เครื่องดักฝัน",
+   "as_th": ""
   },
   {
    "from": "martenitsa",
    "type": "amulet",
    "name": "Martenitsa",
    "as": "the material; wool, twisted, and nothing else",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "มาร์เตนิตซา",
+   "as_th": ""
   },
   {
    "from": "red-string",
    "type": "amulet",
    "name": "Red string",
    "as": "the whole material inventory of this object",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "from": "senninbari",
    "type": "amulet",
    "name": "Senninbari",
    "as": "the whole material argument: a thousand stitches were said to strengthen the cloth, and the strength to pass to the man in it",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เซ็นนินบาริ (ผ้าพันฝีเข็ม)",
+   "as_th": ""
   },
   {
    "from": "knot",
    "type": "motif",
    "name": "The knot",
    "as": "what most of these are made of, and the reason so few old ones survive",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ปม",
+   "as_th": ""
   },
   {
    "from": "red-thread",
    "type": "motif",
    "name": "The red thread",
    "as": "the material, and the reason almost none of these survive in a museum drawer",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "from": "cloth",
    "type": "material",
    "name": "Cloth",
    "as": "what cloth is made of, and what does the work when the count matters more than the fabric",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ผ้า",
+   "as_th": ""
   },
   {
    "from": "hair",
    "type": "material",
    "name": "Hair",
    "as": "the other material that leaves no museum tray, and for the same reason",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เส้นผม",
+   "as_th": ""
   },
   {
    "from": "seed",
    "type": "material",
    "name": "Seed and nut",
    "as": "the cord the tradition specifies — silk, or black or red cotton — and the part that rots first",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เมล็ดพืชและลูกเปลือกแข็ง",
+   "as_th": ""
   },
   {
    "from": "knotting",
    "type": "practice",
    "name": "Knotting",
    "as": "the material that makes this the cheapest charm in the atlas",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "การผูกปม",
+   "as_th": ""
   },
   {
    "from": "sewing-in",
    "type": "practice",
    "name": "Sewing in",
    "as": "the material that does the work here — the stitch is the closure and, in the senninbari, the charm itself",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "การเย็บเครื่องรางไว้ในผ้า",
+   "as_th": ""
   }
  ]
 }

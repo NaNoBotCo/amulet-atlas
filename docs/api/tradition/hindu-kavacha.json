@@ -14,7 +14,8 @@
    "kavach",
    "armour hymn",
    "Hindu protective amulet craft"
-  ]
+  ],
+  "th": "กวจะ (เกราะคุ้มครองในคติฮินดู)"
  },
  "etymology": {
   "root": "Sanskrit kavaca, 'armour, coat of mail'",
@@ -45,6 +46,9 @@
   "story": "The armour is a recitation before it is a thing. The Devi Kavacham runs to 61 slokas and sits in the Markandeya Purana; it is one of the subsidiary texts recited before the Devi Mahatmya, and what it claims is exactly the shape of armour — that the Kavacham protects the reader in all parts of the body, in all places and in all difficulties. The Devi Mahatmya is generally dated 400 to 600 CE, around 550 by Wendy Doniger O'Flaherty, and before the seventh century on the evidence of the Dadhimati Mata inscription of 608 CE.\n\nThe word then walks out of the text and onto the body. In Tantric practice kavaca is one of the six limbs into which a deity's mantra is divided, alongside the heart, the head and the topknot — the armour syllable. In the Pancharatra, the Jñānāmṛtasārasaṃhita speaks of amulets, kavaca, worn as a necklace and holding mantras. Monier-Williams records the object plainly: bark, birch-leaf or any substance inscribed with mystical words and carried about. The Jain Jñānārṇava, of the eleventh century, keeps the metaphor without the object: like the hero well-clad in armour, who is not pierced by arrows.\n\n*Inference —* that is why this atlas files a seed, a ring, a plate and a lime under one head. They do not share a material, a maker or a price. They share a grammar: something is put between a person and what is coming, and a named authority — a text, an astrologer, a priest, a mother — says which something.\n\nThe authorities differ by object, and so does who may act. A yantra is consecrated and energised by a priest with the mantras of its deity, and practitioners hold that an unenergised one is lifeless. A navaratna is prescribed from a sidereal horoscope, and the tradition says to consult an astrologer before wearing one. A rudraksha needs nobody: it is strung and worn, and the texts promise merit rather than permission. The lime and chillies at a shop door need nobody either, and are hung by whoever opens the shop.\n\nThe tradition also borrows. A tawiz worn by Hindus often carries the Om sign instead of a Qur'anic verse — the Islamic container with the writing changed.",
   "how": "Recited, prescribed, consecrated, or simply hung. At the formal end, a priest energises the object with the mantra of a deity and the object stands in for that deity; at the astrological end, a specialist reads a chart and names a stone and its weight; at the household end, nobody is consulted at all.",
   "today": "Live at every level as of 2026: temple shops selling engraved copper plates and printed yantras, jewellers cutting navaratna to an astrologer's list, seed malas grown as a crop in Nepal and India, and limes and chillies at shop doors from Delhi to Karachi."
+ },
+ "text_th": {
+  "what": "ตระกูลการปฏิบัติที่การคุ้มครองคือเกราะ ทั้งที่สวดและที่สวมใส่ กวจะเป็นบทสวดก่อนอื่น ครอบคลุมร่างกายทีละส่วน โดยเอ่ยนามเทพองค์หนึ่งสำหรับแต่ละส่วน กวจะยังเป็นตัวบทที่เขียนไว้แล้วพกติดตัว และโดยขยายความ หมายถึงวัตถุทั้งหมวดในเอเชียใต้ที่สวมหรือแขวนเพราะตัวบท ดวงชะตา หรือกฎของครัวเรือนบอกให้ทำ วัตถุของธรรมเนียมนี้คือ ลูกปัดเมล็ดพืช หินเก้าชนิดที่คัดระดับ ยันต์ที่สลักบนแผ่นทองแดง กระดาษพับม้วนเป็นกระบอกร้อยด้าย และมะนาวกับพริกเจ็ดเม็ดที่ธรณีประตู"
  },
  "dating": {
   "period": "Puranic to the present",
@@ -198,70 +202,90 @@
    "type": "amulet",
    "name": "Rudraksha",
    "as": "the tradition's cheapest object and its most worn: a seed anybody may string, with no specialist between wearer and bead",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "รุทรากษ์",
+   "as_th": ""
   },
   {
    "to": "navaratna-ring",
    "type": "amulet",
    "name": "Navaratna ring",
    "as": "its most expensive: nine graded stones set to an astrologer's reading of one person's chart",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "แหวนนพเก้า",
+   "as_th": ""
   },
   {
    "to": "yantra-plate",
    "type": "amulet",
    "name": "Yantra plate",
    "as": "its drawn form, and the one that needs a priest to be anything at all",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "แผ่นยันต์ (ยันตระ)",
+   "as_th": ""
   },
   {
    "to": "nimbu-mirchi",
    "type": "amulet",
    "name": "Nimbu mirchi",
    "as": "its household end — no text, no specialist, a lime at a doorstep",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "นิมบู มีร์ชี (มะนาวกับพริก)",
+   "as_th": ""
   },
   {
    "to": "tabiz",
    "type": "amulet",
    "name": "Tabiz",
    "as": "the Muslim neighbour it shares streets and shapes with, and which Hindu wearers borrow with the writing changed to Om",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ตาบีซ (เครื่องรางคำอธิษฐาน)",
+   "as_th": ""
   },
   {
    "to": "sak-yant",
    "type": "amulet",
    "name": "Sak yant",
    "as": "what the drawn diagram became in mainland Southeast Asia — Indian yantras taken into a tattooing practice with its own rules",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "สักยันต์",
+   "as_th": ""
   },
   {
    "to": "counting-beads",
    "type": "practice",
    "name": "Counting beads",
    "as": "the practice that turns a string into an instrument: 108 and one",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การนับลูกประคำ",
+   "as_th": ""
   },
   {
    "to": "consecration",
    "type": "practice",
    "name": "Consecration",
    "as": "the step that separates this tradition's formal objects from its household ones",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การปลุกเสก",
+   "as_th": ""
   },
   {
    "to": "tibetan-protection",
    "type": "tradition",
    "name": "Tibetan protection craft",
    "as": "the northern neighbour that took the same diagrams and mantras and put them inside sealed boxes",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "งานเครื่องรางป้องกันภัยทิเบต (ซุงวา)",
+   "as_th": ""
   },
   {
    "to": "kathmandu-thamel",
    "type": "place",
    "name": "Thamel",
    "as": "the Himalayan street where the tradition's beads and plates reach buyers from outside it",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ทาเมล",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -425,77 +449,99 @@
    "type": "amulet",
    "name": "Navaratna ring",
    "as": "the tradition it belongs to — an object worn on the body because a text and a horoscope together say which object",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "แหวนนพเก้า",
+   "as_th": "ประเพณีที่มันสังกัด — วัตถุที่สวมบนร่างกาย เพราะคัมภีร์กับดวงชะตาร่วมกันบอกว่าต้องเป็นวัตถุใด"
   },
   {
    "from": "nimbu-mirchi",
    "type": "amulet",
    "name": "Nimbu mirchi",
    "as": "the tradition this sits at the household end of, far from any consecrated plate",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "นิมบู มีร์ชี (มะนาวกับพริก)",
+   "as_th": ""
   },
   {
    "from": "rudraksha",
    "type": "amulet",
    "name": "Rudraksha",
    "as": "the tradition that files it: an object worn on the body because a text says what wearing it does",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "รุทรากษ์",
+   "as_th": ""
   },
   {
    "from": "tabiz",
    "type": "amulet",
    "name": "Tabiz",
    "as": "the tradition next door that borrowed the object and changed the writing to Om",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ตาบีซ (เครื่องรางคำอธิษฐาน)",
+   "as_th": ""
   },
   {
    "from": "yantra-plate",
    "type": "amulet",
    "name": "Yantra plate",
    "as": "the tradition that consecrates it and decides who may",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "แผ่นยันต์ (ยันตระ)",
+   "as_th": "ธรรมเนียมที่ปลุกเสกแผ่นยันต์ และตัดสินว่าใครทำได้"
   },
   {
    "from": "thai-wicha",
    "type": "tradition",
    "name": "Thai wicha",
    "as": "where the geometry comes from: the Indian yantra, arriving through the Khmer Empire and staying under a Thai name",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "วิชา",
+   "as_th": "ที่มาของรูปทรงเรขาคณิต คือยันตระของอินเดีย ซึ่งเดินทางผ่านอาณาจักรเขมรเข้ามา แล้วอยู่ต่อภายใต้ชื่อไทย"
   },
   {
    "from": "tibetan-protection",
    "type": "tradition",
    "name": "Tibetan protection craft",
    "as": "the southern tradition its diagrams and mantras come out of",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "งานเครื่องรางป้องกันภัยทิเบต (ซุงวา)",
+   "as_th": ""
   },
   {
    "from": "seed",
    "type": "material",
    "name": "Seed and nut",
    "as": "the tradition that sets out which beads may be strung, in what order, and on what",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เมล็ดพืชและลูกเปลือกแข็ง",
+   "as_th": ""
   },
   {
    "from": "counting-beads",
    "type": "practice",
    "name": "Counting beads",
    "as": "the tradition that turns a string into an instrument: 108 and one",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "การนับลูกประคำ",
+   "as_th": "ธรรมเนียมที่เปลี่ยนสายให้เป็นเครื่องมือ: 108 กับอีกหนึ่ง"
   },
   {
    "from": "yantra-word",
    "type": "term",
    "name": "yantra",
    "as": "the tradition the diagram belongs to at home",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ยันตระ (ยันต์)",
+   "as_th": "ธรรมเนียมที่แผนภาพนี้เป็นของ ณ ถิ่นกำเนิด"
   },
   {
    "from": "the-swastika-problem",
    "type": "story",
    "name": "The swastika problem",
    "as": "the tradition in which the sign goes on the doorway, the account book and the newborn's welcome",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ปัญหาเรื่องสวัสติกะ",
+   "as_th": "ธรรมเนียมที่เครื่องหมายนี้ถูกวาดไว้ที่ประตูบ้าน บนสมุดบัญชี และในการต้อนรับทารกแรกเกิด"
   }
  ]
 }

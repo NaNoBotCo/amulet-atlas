@@ -4,14 +4,41 @@
  "type": "amulet",
  "names": {
   "name": "Magical gem",
-  "aliases": ["Graeco-Egyptian magical gem", "Abraxas stone", "gnostic gem", "magical intaglio"]
+  "aliases": [
+   "Graeco-Egyptian magical gem",
+   "Abraxas stone",
+   "gnostic gem",
+   "magical intaglio"
+  ],
+  "th": "อัญมณีเวทมนตร์ (หินสลักกรีก-อียิปต์)"
  },
- "region": ["ancient-egypt", "greece-aegean", "rome-italy", "levant"],
- "countries": ["EG", "GR", "IT"],
- "facets": {"era": "classical", "status": "archaeological", "portable": "worn", "restricted": "open", "hemisphere": ["N", "E"]},
+ "region": [
+  "ancient-egypt",
+  "greece-aegean",
+  "rome-italy",
+  "levant"
+ ],
+ "countries": [
+  "EG",
+  "GR",
+  "IT"
+ ],
+ "facets": {
+  "era": "classical",
+  "status": "archaeological",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "A cut stone between one and three centimetres across, engraved on both faces and often round the edge as well. One face carries a figure — most famously the cock-headed, serpent-legged anguipede named Abrasax, holding a shield and a whip. The other carries names and lines of letters, many of them in no known language. It was set in a ring or pierced and hung. The Campbell Bonner Magical Gems Database, which catalogues them, describes gems \"designed to bring their owners health, prosperity and love\".",
   "story": "The name Abrasax, or Abraxas, appears on nearly all the legends on these gems, sometimes filling the whole face on its own. It turns up in the same breath as other names across the Greek magical papyri and on Greek metal curse tablets: \"I conjure you by Iaō Sabaōth Adōnai Abrasax, and by the great god, Iaeō.\" E. A. Wallis Budge described the composite figure as a Pantheus, an All-God, \"with the head of a cock (Phœbus) or of a lion (Ra or Mithras), the body of a man, and his legs are serpents which terminate in scorpions\".\n\nThe stones were classed and re-classed for three centuries by collectors who wanted to know whose they were. Antiquarians sorted them into Abraxas proper, taken as Basilidian and Gnostic; Abraxastes, older forms adapted; and Abraxoïdes, unconnected to Basilides altogether. The cited account is blunt about where that got them: no attempt to identify the figures on existing gems with the personages of Gnostic mythology has succeeded, and Abrasax is the only term in the legends that is not already known from other religions.\n\nWhat can be said is that the gems and the magic papyri reflect the same ideas, and that the papyri contain directions for making and using gems with similar figures and formulas — which is why, as the cited account puts it, it can scarcely be doubted that many of these stones are amulets and instruments of magic.\n\n*Inference —* this is the atlas's clearest case of a corpus without a findspot. The Campbell Bonner database lists contributing institutions across fifteen countries and a string of galleries and auction houses; the whole corpus is estimated at around 5,600 pieces. The countries on this record are where the gems were made and used according to the cited accounts, not where they were dug up, because for most of them nobody recorded that."
+ },
+ "text_th": {
+  "what": "หินเจียขนาดหนึ่งถึงสามเซนติเมตร สลักทั้งสองหน้าและบ่อยครั้งสลักรอบขอบด้วย หน้าหนึ่งมีรูปบุคคล — ที่โด่งดังที่สุดคือร่างหัวไก่ที่มีขาเป็นงู ชื่ออะบราซัส (Abrasax) ถือโล่และแส้ อีกหน้ามีชื่อและแถวตัวอักษร ซึ่งหลายแถวไม่ตรงกับภาษาใดที่รู้จัก ฝังไว้ในแหวนหรือเจาะรูแขวน ฐานข้อมูลอัญมณีเวทมนตร์แคมป์เบลล์ บอนเนอร์ (Campbell Bonner Magical Gems Database) ซึ่งจัดทำรายการของเหล่านี้ บรรยายว่าเป็นอัญมณี \"ที่ออกแบบมาเพื่อนำสุขภาพ ความมั่งคั่ง และความรักมาสู่เจ้าของ\""
  },
  "dating": {
   "period": "Roman Imperial",
@@ -27,8 +54,17 @@
  },
  "object": {
   "form": "pendant",
-  "materials": ["agate", "carnelian", "lapis", "glass"],
-  "worn": ["neck", "finger", "grave"],
+  "materials": [
+   "agate",
+   "carnelian",
+   "lapis",
+   "glass"
+  ],
+  "worn": [
+   "neck",
+   "finger",
+   "grave"
+  ],
   "made_by": "gem-cutters working to formulae that also circulate in the Greek magical papyri",
   "inscription": "divine and angelic names — Abrasax, Iaō, Sabaōth, Adōnai, Michaēl, Gabriēl — alongside strings of letters in no identifiable language",
   "script": "Greek",
@@ -37,41 +73,138 @@
   "note": "The database gives the size as 1 to 3 centimetres; 30 mm is the top of that published range, not a measurement of any one stone. Materials are the classes named in the cited accounts; jasper and haematite, which are common in this corpus, have no key in the vocabulary yet."
  },
  "against": [
-  {"harm": "illness", "who": "the Campbell Bonner Magical Gems Database", "quote": "designed to bring their owners health, prosperity and love", "source": "s:web-cbd-magical-gems", "tier": "cited"},
-  {"harm": "poverty", "who": "the same description, which names prosperity as one of the three things an owner wanted", "source": "s:web-cbd-magical-gems", "tier": "cited"},
-  {"harm": "loneliness", "who": "the same description, which names love as the third", "source": "s:web-cbd-magical-gems", "tier": "cited"},
-  {"harm": "witchcraft", "who": "the cited account of the stones, which reads many of them as amulets and instruments of magic, written in the same formulae as the papyri", "source": "s:wp-abraxas", "tier": "cited"},
-  {"harm": "attraction", "who": "the Roman gem tradition generally: stones were paired with gods so the wearer took on the associated powers, rather than out of piety", "source": "s:wp-amulet", "tier": "cited"}
+  {
+   "harm": "illness",
+   "who": "the Campbell Bonner Magical Gems Database",
+   "quote": "designed to bring their owners health, prosperity and love",
+   "source": "s:web-cbd-magical-gems",
+   "tier": "cited"
+  },
+  {
+   "harm": "poverty",
+   "who": "the same description, which names prosperity as one of the three things an owner wanted",
+   "source": "s:web-cbd-magical-gems",
+   "tier": "cited"
+  },
+  {
+   "harm": "loneliness",
+   "who": "the same description, which names love as the third",
+   "source": "s:web-cbd-magical-gems",
+   "tier": "cited"
+  },
+  {
+   "harm": "witchcraft",
+   "who": "the cited account of the stones, which reads many of them as amulets and instruments of magic, written in the same formulae as the papyri",
+   "source": "s:wp-abraxas",
+   "tier": "cited"
+  },
+  {
+   "harm": "attraction",
+   "who": "the Roman gem tradition generally: stones were paired with gods so the wearer took on the associated powers, rather than out of piety",
+   "source": "s:wp-amulet",
+   "tier": "cited"
+  }
  ],
  "holdings": [
-  {"museum": "other", "what": "the Campbell Bonner Magical Gems Database, run by the Collection of Classical Antiquities of the Museum of Fine Arts, Budapest, gathers gems from dozens of institutions across Austria, the Czech Republic, Denmark, France, Germany, Great Britain, Hungary, Italy, the Netherlands, Poland, Spain, Switzerland, Turkey, the United States and the Vatican", "url": "http://cbd.mfab.hu/about_us", "source": "s:web-cbd-about", "open_access": false}
+  {
+   "museum": "other",
+   "what": "the Campbell Bonner Magical Gems Database, run by the Collection of Classical Antiquities of the Museum of Fine Arts, Budapest, gathers gems from dozens of institutions across Austria, the Czech Republic, Denmark, France, Germany, Great Britain, Hungary, Italy, the Netherlands, Poland, Spain, Switzerland, Turkey, the United States and the Vatican",
+   "url": "http://cbd.mfab.hu/about_us",
+   "source": "s:web-cbd-about",
+   "open_access": false
+  }
  ],
  "kin": [
-  {"to": "curse-tablet", "as": "the same voces magicae, the same divine names, scratched on lead and aimed at a person instead of hung on one", "rel": "contrast"},
-  {"to": "greco-roman-apotropaic", "as": "the tradition, at its most literate and most expensive", "rel": "tradition"},
-  {"to": "campbell-bonner", "as": "the scholar the standing database of these stones is named for", "rel": "person"},
-  {"to": "divine-name", "as": "the sign most of these stones actually carry, once the figure is set aside", "rel": "motif"},
-  {"to": "palindrome-word", "as": "the other class of written charm that works by the shape of the letters rather than their sense", "rel": "motif"},
-  {"to": "carnelian", "as": "one of the stones cut for this, and the one the later Islamic tradition singles out as the Prophet's", "rel": "material"},
-  {"to": "holy-rider-pendant", "as": "what this practice turns into once it is Christian: named demons, named angels, and a rider", "rel": "descendant"},
-  {"to": "incantation-bowl", "as": "the eastern cousin — the same late-antique habit of writing names to bind a power, in ink on clay rather than cut in stone", "rel": "parallel"},
-  {"to": "abracadabra", "as": "the word that came out of this world and outlived every deity named on these stones", "rel": "term"},
-  {"to": "who-owns-a-charm", "as": "the long read; most of these gems reached museums through the trade, and their findspots went with the diggers", "rel": "story"}
+  {
+   "to": "curse-tablet",
+   "as": "the same voces magicae, the same divine names, scratched on lead and aimed at a person instead of hung on one",
+   "rel": "contrast"
+  },
+  {
+   "to": "greco-roman-apotropaic",
+   "as": "the tradition, at its most literate and most expensive",
+   "rel": "tradition"
+  },
+  {
+   "to": "campbell-bonner",
+   "as": "the scholar the standing database of these stones is named for",
+   "rel": "person"
+  },
+  {
+   "to": "divine-name",
+   "as": "the sign most of these stones actually carry, once the figure is set aside",
+   "rel": "motif"
+  },
+  {
+   "to": "palindrome-word",
+   "as": "the other class of written charm that works by the shape of the letters rather than their sense",
+   "rel": "motif"
+  },
+  {
+   "to": "carnelian",
+   "as": "one of the stones cut for this, and the one the later Islamic tradition singles out as the Prophet's",
+   "rel": "material"
+  },
+  {
+   "to": "holy-rider-pendant",
+   "as": "what this practice turns into once it is Christian: named demons, named angels, and a rider",
+   "rel": "descendant"
+  },
+  {
+   "to": "incantation-bowl",
+   "as": "the eastern cousin — the same late-antique habit of writing names to bind a power, in ink on clay rather than cut in stone",
+   "rel": "parallel"
+  },
+  {
+   "to": "abracadabra",
+   "as": "the word that came out of this world and outlived every deity named on these stones",
+   "rel": "term"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read; most of these gems reached museums through the trade, and their findspots went with the diggers",
+   "rel": "story"
+  }
  ],
  "links": [
-  {"label": "Campbell Bonner Magical Gems Database", "url": "http://cbd.mfab.hu/"},
-  {"label": "Abraxas — Wikipedia", "url": "https://en.wikipedia.org/wiki/Abraxas"}
+  {
+   "label": "Campbell Bonner Magical Gems Database",
+   "url": "http://cbd.mfab.hu/"
+  },
+  {
+   "label": "Abraxas — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Abraxas"
+  }
  ],
- "sources": ["s:web-cbd-magical-gems", "s:web-cbd-about", "s:wp-abraxas", "s:wp-amulet", "s:wp-curse-tablet"],
+ "sources": [
+  "s:web-cbd-magical-gems",
+  "s:web-cbd-about",
+  "s:wp-abraxas",
+  "s:wp-amulet",
+  "s:wp-curse-tablet"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:web-cbd-magical-gems"},
+  "default": {
+   "tier": "cited",
+   "source": "s:web-cbd-magical-gems"
+  },
   "fields": {
-   "countries": {"tier": "inference", "note": "where the cited accounts place manufacture and use, not findspots; most of the corpus is unprovenanced"},
-   "object": {"tier": "cited", "source": "s:web-cbd-magical-gems", "note": "the measurement is the published range, stated as such"}
+   "countries": {
+    "tier": "inference",
+    "note": "where the cited accounts place manufacture and use, not findspots; most of the corpus is unprovenanced"
+   },
+   "object": {
+    "tier": "cited",
+    "source": "s:web-cbd-magical-gems",
+    "note": "the measurement is the published range, stated as such"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Abraxas gem.jpg", "File:Magical gem British Museum.jpg"],
+ "x_commons_files": [
+  "File:Abraxas gem.jpg",
+  "File:Magical gem British Museum.jpg"
+ ],
  "confidence": "medium",
  "needs_verification": true,
  "updated": "2026-09-16"

@@ -11,7 +11,8 @@
   "aliases": [
    "Monastiraki flea market",
    "Monastiraki Square"
-  ]
+  ],
+  "th": "โมนาสติรากิ"
  },
  "region": [
   "greece-aegean"
@@ -30,6 +31,9 @@
   "what": "A flea-market neighbourhood in the old town of Athens, built round Monastiraki Square and running along Pandrossou and Adrianou streets. Clothing, souvenirs and specialist shops; a metro station on the square; and, in the souvenir windows, trays of the blue glass eye.",
   "story": "The district takes its name from the square, and the square from the Church of the Pantanassa standing in it. It is one of Athens's main shopping districts and its best-known bargain quarter.\n\nThe object this atlas comes for has a Greek name. The bead a Turkish seller calls nazar boncuğu is máti in Greek, the eye, and it belongs to a tradition Greek authors were already describing in classical antiquity: Hesiod, Callimachus, Plato, Theocritus and Plutarch all mention the harmful look, and Peter Walcot's Envy and the Greeks listed more than a hundred ancient works that do. Greeks hung talismans in the house and wore amulets; Peisistratus hung a grasshopper figure before the Acropolis, a few hundred metres uphill from this square.\n\nThe trade is not a museum piece. A 2015 Pew survey of central and eastern Europe found a median of 48 per cent of adults reporting belief in the evil eye, with 66 per cent in Greece — the joint highest figure in the survey. The bead is also, in the encyclopedia's phrase, a popular choice of souvenir with tourists, and both those sentences describe the same stall.\n\n*Inference —* the Monastiraki article itemises no charm, and this record does not claim a particular shop. What it claims is the pairing: the densest souvenir trade in Athens, in a country where two adults in three report the belief the object answers.",
   "today": "Trading, as a flea market and a tourist quarter. No day is marked open or closed below; the shops keep their own hours and no timetable is published for the district."
+ },
+ "text_th": {
+  "what": "ย่านตลาดนัดของเก่าในเมืองเก่าของเอเธนส์ ตั้งอยู่รอบจัตุรัสโมนาสติรากิ และทอดไปตามถนนปันดรอซู (Pandrossou) และถนนอาเดรียนู (Adrianou) มีเสื้อผ้า ของที่ระลึก และร้านเฉพาะทาง มีสถานีรถไฟใต้ดินที่จัตุรัส และในตู้กระจกร้านของที่ระลึกมีถาดลูกตาแก้วสีฟ้าวางอยู่"
  },
  "geo": {
   "lat": 37.97639,
@@ -151,56 +155,72 @@
    "type": "amulet",
    "name": "Nazar",
    "as": "the bead sold here under its Greek name, máti",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "to": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "the sign itself, in a city whose writers were describing the harmful look 2,400 years ago",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "greco-roman-apotropaic",
    "type": "tradition",
    "name": "Greek and Roman protective magic",
    "as": "the tradition this ground is the home of — Peisistratus hung his figure just uphill",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน",
+   "as_th": ""
   },
   {
    "to": "gorgoneion",
    "type": "amulet",
    "name": "Gorgoneion",
    "as": "the older Greek answer to the same look, cut on shields and temple roofs instead of strung on a cord",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กอร์โกเนออน (ศีรษะกอร์กอน)",
+   "as_th": ""
   },
   {
    "to": "glass",
    "type": "material",
    "name": "Glass",
    "as": "the material the eye travels in, made in the eastern Mediterranean since about 1500 BCE",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "แก้ว",
+   "as_th": ""
   },
   {
    "to": "grand-bazaar",
    "type": "place",
    "name": "The Grand Bazaar",
    "as": "the Istanbul market selling the identical bead under a Turkish name, two hours by air",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "แกรนด์บาซาร์ (คาปาลึชาร์ชึ)",
+   "as_th": ""
   },
   {
    "to": "evil-eye-bracelet",
    "type": "amulet",
    "name": "Evil eye bracelet",
    "as": "the same eye on elastic, which is how most of the world now buys it",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "สร้อยข้อมือนาซาร์ (ลูกปัดตากันตาร้าย)",
+   "as_th": ""
   },
   {
    "to": "the-eye-everywhere",
    "type": "story",
    "name": "The eye everywhere",
    "as": "the long read that follows this sign across four continents",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ดวงตาทุกหนแห่ง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -289,21 +309,27 @@
    "type": "amulet",
    "name": "Nazar",
    "as": "the Athens equivalent, where the same bead is called máti",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "from": "tama-votive",
    "type": "amulet",
    "name": "Tama",
    "as": "one Athens market where the religious-goods shops selling these are within a few streets",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ทามา (แผ่นโลหะถวายของกรีก)",
+   "as_th": ""
   },
   {
    "from": "grand-bazaar",
    "type": "place",
    "name": "The Grand Bazaar",
    "as": "the Athens lanes where the same bead is sold under its Greek name, máti",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "แกรนด์บาซาร์ (คาปาลึชาร์ชึ)",
+   "as_th": ""
   }
  ]
 }

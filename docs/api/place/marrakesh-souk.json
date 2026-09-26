@@ -11,7 +11,8 @@
   "aliases": [
    "Souks of Marrakesh",
    "Marrakech souks"
-  ]
+  ],
+  "th": "ตลาดซูกมาร์ราเกช"
  },
  "region": [
   "maghreb"
@@ -30,6 +31,9 @@
   "what": "The market streets of the Marrakesh medina, running north from the square called Jemaa el-Fnaa into the old city. The lanes follow the road that once linked the Almoravid stone fortress to the city's first Friday mosque, and they still hold the main axis of the souks. Each lane is one trade.",
   "story": "Marrakesh was founded in 1070. Its two focal points were the Ksar el-Hajjar, the fortress of stone, and the first Friday mosque; the souk streets grew along the roads between them and have kept that line ever since. At the fortress end lay a large open space for temporary and weekly markets, called Rahbat al-Ksar, then as-Saha al-Kubra, the grand square. That space is today's Jemaa el-Fnaa, and the souk is edged along one side by it.\n\nWhat the square sells changes by the hour. By day: orange juice, water sellers with leather bags and brass cups, snake charmers. Later the charmers leave and the square fills with storytellers, musicians, magicians and peddlers of traditional medicines; after dark, food stalls. UNESCO's programme for intangible heritage began with people worried about exactly this square, and the label followed.\n\nThe written trade is documented across the region rather than lane by lane. The scholar Remke Kruk found books on magic and sorcery well represented in street stalls and bookshops from Marrakesh to Cairo to Yemen around 2005; from about 1990 religious pamphlets condemning those practices sold beside them.\n\n*Inference —* the herbalists' stalls are what most visitors come away describing, and this atlas has not yet read a source it can cite for them. The record therefore names the square's medicine peddlers, which is published, and stops there rather than furnishing the lanes from guidebooks it could not open.",
   "today": "Trading. The square went into a renovation programme from May 2025, budgeted at 160 million dirhams and scheduled to finish by the end of that year, to rework infrastructure and reorganise the public and commercial space. Hours are the stallholders' own; none are marked below."
+ },
+ "text_th": {
+  "what": "ถนนตลาดในเมดินาของมาร์ราเกช ทอดไปทางเหนือจากลานที่เรียกว่าจามาเอลฟนา (Jemaa el-Fnaa) เข้าสู่เมืองเก่า ตรอกเหล่านี้ไปตามแนวถนนที่ครั้งหนึ่งเชื่อมป้อมหินของราชวงศ์อัลโมราวิดกับมัสยิดวันศุกร์แห่งแรกของเมือง และยังคงเป็นแกนหลักของย่านตลาด ตรอกแต่ละสายคือการค้าหนึ่งอย่าง"
  },
  "dating": {
   "period": "Almoravid to the present",
@@ -161,42 +165,54 @@
    "type": "amulet",
    "name": "Hamsa",
    "as": "the hand this region cuts in silver, and the sign a Moroccan market is likeliest to sell",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ฮัมซา (มือกันภัย)",
+   "as_th": ""
   },
   {
    "to": "islamic-talismanic",
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "the tradition whose handbooks Kruk found on stalls here, with the pamphlets against them alongside",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "to": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the written charm those handbooks instruct; the writing is a specialist's work, not a stall's",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "to": "khan-el-khalili",
    "type": "place",
    "name": "Khan el-Khalili",
    "as": "the other end of Kruk's line, Cairo to Marrakesh, selling the same books",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ข่านเอลคาลีลี",
+   "as_th": ""
   },
   {
    "to": "herb",
    "type": "material",
    "name": "Herb and root",
    "as": "the material the square's medicine peddlers trade in, named in UNESCO's file on the place",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "สมุนไพรและรากไม้",
+   "as_th": ""
   },
   {
    "to": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the practice, in lanes laid out by trade since 1070",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -297,21 +313,27 @@
    "type": "amulet",
    "name": "Agadez cross",
    "as": "the northern market where Saharan silver of this kind reaches buyers",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "กางเขนอากาเดซ",
+   "as_th": ""
   },
   {
    "from": "khan-el-khalili",
    "type": "place",
    "name": "Khan el-Khalili",
    "as": "the other end of Kruk's line, where the same books are sold",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ข่านเอลคาลีลี",
+   "as_th": ""
   },
   {
    "from": "hamsa-word",
    "type": "term",
    "name": "hamsa",
    "as": "a market where the Arabic word and the French nickname are both on the same stall",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ฮัมซา",
+   "as_th": ""
   }
  ]
 }

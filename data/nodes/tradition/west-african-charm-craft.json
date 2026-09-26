@@ -8,16 +8,47 @@
   "script": "Latin",
   "lang": "fon",
   "said": "the Fon word for a charm is bǒ; Francophone Beninese say gris gris; the Hausa-derived English word is juju",
-  "aliases": ["bo", "gris-gris making", "juju", "marabout charms", "Karamokobara"]
+  "aliases": [
+   "bo",
+   "gris-gris making",
+   "juju",
+   "marabout charms",
+   "Karamokobara"
+  ],
+  "th": "งานเครื่องรางแอฟริกาตะวันตก"
  },
- "region": ["west-africa"],
- "countries": ["BJ", "TG", "GH", "NG", "SN", "ML", "NE", "CM"],
- "facets": {"era": "living", "status": "living", "restricted": "closed", "language": "Fon, Mande, Hausa", "hemisphere": ["N", "W", "E"]},
+ "region": [
+  "west-africa"
+ ],
+ "countries": [
+  "BJ",
+  "TG",
+  "GH",
+  "NG",
+  "SN",
+  "ML",
+  "NE",
+  "CM"
+ ],
+ "facets": {
+  "era": "living",
+  "status": "living",
+  "restricted": "closed",
+  "language": "Fon, Mande, Hausa",
+  "hemisphere": [
+   "N",
+   "W",
+   "E"
+  ]
+ },
  "text": {
   "what": "Not one practice but a shelf of them, made by different specialists for different clients across Benin, Togo, Ghana, Nigeria, Senegal, Mali, Niger and Cameroon: written Qur'anic charms sewn into cloth sacks; assembled charms of plant and animal matter activated by words; carved figures; cast shells read for answers. Four different vocabularies cover them, and this record keeps them apart rather than merging them.",
   "story": "Start with the words, because they belong to different peoples and get used interchangeably in English.\n\nBǒ is Fon, and translates as charm. Bǒ are amulets made from zoological and botanical material, activated with secret incantations in a language called bǒgbé, 'bǒ's language'. Families and individuals keep their recipes closely guarded, on a widespread belief that anyone who learns the exact ingredients gains power over the maker. Many Francophone Beninese call them gris gris. They are sold: tourists buy them for love, for wealth, or for protection while travelling, and a diviner — a bokónó — charges a rate that varies with who the client is, less for family, more for a tourist or a middle-class Beninese client.\n\nGris-gris is Mande, and the line behind it is Muslim and scholarly. Mande speakers such as the Dyula distributed Islamic charms under that name; the Dagomba wrote extensive Arabic manuscripts with formulae and prescriptions for preparing amulets. The craft has a curriculum: Karamokobara, divided into seli, prayer, and siri, path. Seli produces karamokos, scholars of Qur'anic law; siri produces marabouts, scholars of the written charms. The tools of the siri side are spoken prayers, numerical squares called katemi, and written Qur'anic inscriptions. Islam shows up inside non-Islamic practice too — Vodún charms occasionally use Islamic script.\n\nJuju is from Hausa, where it means evil spirit; some derive it instead from the French joujou, a plaything. In its general English use it covers magical properties to do with luck of either kind, and it has been applied to West African traditional religions broadly. A juju man is a man vetted by local tradition and versed in traditional spiritual medicines; the practice is most often used for treating physical and spiritual ailments, and is also used to enforce a contract or ensure compliance, with the practitioner paid for the service. The same word gets attached to serious crime: the source records that crimes have been committed using the practice, human trafficking being the most extreme and prominent example, and that nineteenth-century traders and travellers in the Niger Delta and Benin published accounts of a list of practices they said they had witnessed. *Inference —* those nineteenth-century accounts were written by men with commercial and colonial interests in the region, and this atlas reports that they exist and who wrote them rather than treating them as a neutral inventory.\n\nCowries run through all of it as a fourth strand. They are cast in divination among the Yoruba, in Ifá, and in the annual customs of Dahomey in Benin, and in Brazil the same shells are thrown to consult the Orixás — a direct line out of this coast.\n\nAnd there is a market with an address. The Akodessawa Fetish Market, Marché des Féticheurs, in the Akodessawa district of Lomé, Togo, sells the materials used in vodún practice: monkey heads, skulls, dead birds, crocodiles, skins and other products of dead animals. It is described as the largest such market in the world. *Tradition holds —* what is sold there is raw material for a specialist, not a finished charm for a buyer.",
   "how": "By specialist and by rule, and the rules are not the same from one strand to the next. A marabout writes; a bokónó divines and then supplies; a bǒ-maker assembles plant and animal matter and speaks over it in bǒgbé; a diviner casts cowries and reads what falls. Payment is normal and openly discussed in the sources: fees scale with the client.",
   "today": "Living, commercial and mixed with other religions rather than sealed off from them. Many people in West Africa draw on traditional religion, Christianity and Islam at once to deal with a problem, and a Vodún practitioner may read Jesus as a vodún. Since the 1990s there have been growing efforts to bring foreign visitors to West Africa to be initiated into Vodún, which puts the tourist inside the practice rather than outside it — an argument this atlas reports and does not settle. As of 2026 no figure has been read here for what any of this is worth."
+ },
+ "text_th": {
+  "what": "ไม่ใช่การปฏิบัติเดียว แต่เป็นทั้งชั้นวาง ทำโดยผู้ชำนาญต่างกลุ่มให้ผู้มาขอต่างกลุ่ม ทั่วเบนิน โตโก กานา ไนจีเรีย เซเนกัล มาลี ไนเจอร์ และแคเมอรูน ได้แก่ เครื่องรางที่เขียนข้อความจากอัลกุรอานแล้วเย็บใส่ถุงผ้า เครื่องรางที่ประกอบจากพืชและชิ้นส่วนสัตว์ซึ่งปลุกให้ทำงานด้วยถ้อยคำ รูปแกะสลัก และเปลือกหอยที่โยนแล้วอ่านหาคำตอบ มีคำศัพท์สี่ชุดที่ครอบคลุมสิ่งเหล่านี้ และบันทึกนี้แยกไว้ต่างหาก ไม่รวมเข้าด้วยกัน"
  },
  "restricted": {
   "note": "No recipe and no incantation is printed here. Bǒ recipes are kept as a closely guarded secret by the families and individuals who hold them, on the stated reasoning that whoever learns the exact ingredients gains power over the maker; bǒgbé, the language the charms are activated in, is not reproduced. The marabout's written formulae are a course of study and are not printed either.",
@@ -38,49 +69,174 @@
  },
  "object": {
   "form": "bag",
-  "materials": ["cloth", "paper", "ink", "herb", "bone", "cowrie", "wood", "leather"],
-  "worn": ["neck", "pocket", "upper-arm", "door"],
+  "materials": [
+   "cloth",
+   "paper",
+   "ink",
+   "herb",
+   "bone",
+   "cowrie",
+   "wood",
+   "leather"
+  ],
+  "worn": [
+   "neck",
+   "pocket",
+   "upper-arm",
+   "door"
+  ],
   "made_by": "a marabout, a bokónó, a bǒ-maker or a juju man, depending on the strand; each is vetted by its own tradition",
   "script": "Arabic",
   "source": "s:wp-west-african-vod-n"
  },
  "against": [
-  {"harm": "bad-luck", "who": "the source on gris-gris: wearers hold that it protects from evil or brings luck", "source": "s:wp-gris-gris-talisman", "tier": "cited"},
-  {"harm": "illness", "who": "the source on juju, which says it is most commonly used for treating both physical and spiritual ailments", "source": "s:wp-juju", "tier": "cited"},
-  {"harm": "curse", "who": "the same source, which names counteracting and neutralising curses among its uses", "source": "s:wp-juju", "tier": "cited"},
-  {"harm": "travel", "who": "buyers of bǒ, who the source says buy them to aid in attracting love, wealth, or protection while travelling", "source": "s:wp-west-african-vod-n", "tier": "cited"},
-  {"harm": "attraction", "who": "the same buyers, for love", "source": "s:wp-west-african-vod-n", "tier": "cited"},
-  {"harm": "lawsuit", "who": "the source on juju: it is sometimes used to enforce a contract or ensure compliance, and the practitioner requires payment for the service", "source": "s:wp-juju", "tier": "cited"},
-  {"harm": "infertility", "who": "women in Senegal in a 1982 survey, who named charms among the three traditional contraceptive methods known to them", "source": "s:wp-gris-gris-talisman", "tier": "cited"}
+  {
+   "harm": "bad-luck",
+   "who": "the source on gris-gris: wearers hold that it protects from evil or brings luck",
+   "source": "s:wp-gris-gris-talisman",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the source on juju, which says it is most commonly used for treating both physical and spiritual ailments",
+   "source": "s:wp-juju",
+   "tier": "cited"
+  },
+  {
+   "harm": "curse",
+   "who": "the same source, which names counteracting and neutralising curses among its uses",
+   "source": "s:wp-juju",
+   "tier": "cited"
+  },
+  {
+   "harm": "travel",
+   "who": "buyers of bǒ, who the source says buy them to aid in attracting love, wealth, or protection while travelling",
+   "source": "s:wp-west-african-vod-n",
+   "tier": "cited"
+  },
+  {
+   "harm": "attraction",
+   "who": "the same buyers, for love",
+   "source": "s:wp-west-african-vod-n",
+   "tier": "cited"
+  },
+  {
+   "harm": "lawsuit",
+   "who": "the source on juju: it is sometimes used to enforce a contract or ensure compliance, and the practitioner requires payment for the service",
+   "source": "s:wp-juju",
+   "tier": "cited"
+  },
+  {
+   "harm": "infertility",
+   "who": "women in Senegal in a 1982 survey, who named charms among the three traditional contraceptive methods known to them",
+   "source": "s:wp-gris-gris-talisman",
+   "tier": "cited"
+  }
  ],
  "kin": [
-  {"to": "gris-gris", "as": "the object this tradition is best known abroad by, and the one that crossed the Atlantic under its own name", "rel": "carries"},
-  {"to": "akuaba-figure", "as": "the Akan carving in the same region, made for a wish rather than against a harm", "rel": "carries"},
-  {"to": "cowrie-strand", "as": "the shells this tradition casts to get answers, and wears for fertility and luck", "rel": "carries"},
-  {"to": "tuareg-cross", "as": "the Saharan silver worn at the northern edge of the same trade routes, and called a grigri by some of its wearers", "rel": "kin"},
-  {"to": "juju-word", "as": "the Hausa-derived word English took, and what it covers and does not", "rel": "term"},
-  {"to": "gris-gris-word", "as": "the Mande word, and its change of meaning between Dakar, Port-au-Prince and New Orleans", "rel": "term"},
-  {"to": "fetish-word", "as": "the European label stuck on this whole region's objects from the sixteenth century on, and the market in Lomé that now carries it as a name", "rel": "term"},
-  {"to": "islamic-talismanic", "as": "the tradition the gris-gris strand belongs to as much as to this one — the writing is Qur'anic and the maker is a marabout", "rel": "parallel"},
-  {"to": "bakongo-nkisi-craft", "as": "the Central African practice it is regularly confused with, and shouldn't be: different peoples, different specialists, different objects", "rel": "contrast"},
-  {"to": "akodessewa-market", "as": "the Lomé market that sells this tradition's raw materials in the open", "rel": "place"},
-  {"to": "inscribing", "as": "the practice at the centre of the Muslim strand: the verse is the charm and the sack is the carrier", "rel": "practice"},
-  {"to": "buying-in-a-market", "as": "the practice the sources describe without embarrassment — fees are set, and they scale with the client", "rel": "practice"}
+  {
+   "to": "gris-gris",
+   "as": "the object this tradition is best known abroad by, and the one that crossed the Atlantic under its own name",
+   "rel": "carries"
+  },
+  {
+   "to": "akuaba-figure",
+   "as": "the Akan carving in the same region, made for a wish rather than against a harm",
+   "rel": "carries"
+  },
+  {
+   "to": "cowrie-strand",
+   "as": "the shells this tradition casts to get answers, and wears for fertility and luck",
+   "rel": "carries"
+  },
+  {
+   "to": "tuareg-cross",
+   "as": "the Saharan silver worn at the northern edge of the same trade routes, and called a grigri by some of its wearers",
+   "rel": "kin"
+  },
+  {
+   "to": "juju-word",
+   "as": "the Hausa-derived word English took, and what it covers and does not",
+   "rel": "term"
+  },
+  {
+   "to": "gris-gris-word",
+   "as": "the Mande word, and its change of meaning between Dakar, Port-au-Prince and New Orleans",
+   "rel": "term"
+  },
+  {
+   "to": "fetish-word",
+   "as": "the European label stuck on this whole region's objects from the sixteenth century on, and the market in Lomé that now carries it as a name",
+   "rel": "term"
+  },
+  {
+   "to": "islamic-talismanic",
+   "as": "the tradition the gris-gris strand belongs to as much as to this one — the writing is Qur'anic and the maker is a marabout",
+   "rel": "parallel"
+  },
+  {
+   "to": "bakongo-nkisi-craft",
+   "as": "the Central African practice it is regularly confused with, and shouldn't be: different peoples, different specialists, different objects",
+   "rel": "contrast"
+  },
+  {
+   "to": "akodessewa-market",
+   "as": "the Lomé market that sells this tradition's raw materials in the open",
+   "rel": "place"
+  },
+  {
+   "to": "inscribing",
+   "as": "the practice at the centre of the Muslim strand: the verse is the charm and the sack is the carrier",
+   "rel": "practice"
+  },
+  {
+   "to": "buying-in-a-market",
+   "as": "the practice the sources describe without embarrassment — fees are set, and they scale with the client",
+   "rel": "practice"
+  }
  ],
  "links": [
-  {"label": "West African Vodún — Wikipedia", "url": "https://en.wikipedia.org/wiki/West_African_Vod%C3%BAn"},
-  {"label": "Juju — Wikipedia", "url": "https://en.wikipedia.org/wiki/Juju"}
+  {
+   "label": "West African Vodún — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/West_African_Vod%C3%BAn"
+  },
+  {
+   "label": "Juju — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Juju"
+  }
  ],
- "sources": ["s:wp-west-african-vod-n", "s:wp-gris-gris-talisman", "s:wp-juju", "s:wp-akuaba", "s:wp-cowrie", "s:wp-akodessawa-fetish-market", "s:wp-fetishism", "s:wp-islam-and-magic"],
+ "sources": [
+  "s:wp-west-african-vod-n",
+  "s:wp-gris-gris-talisman",
+  "s:wp-juju",
+  "s:wp-akuaba",
+  "s:wp-cowrie",
+  "s:wp-akodessawa-fetish-market",
+  "s:wp-fetishism",
+  "s:wp-islam-and-magic"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-west-african-vod-n"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-west-african-vod-n"
+  },
   "fields": {
-   "dating": {"tier": "inference", "source": "s:wp-west-african-vod-n", "note": "the year records documentation, not practice; the note says so"},
-   "text.story": {"tier": "cited", "source": "s:wp-west-african-vod-n", "note": "the paragraph on nineteenth-century traders' published accounts carries an inference marker where this project comments on who wrote them"}
+   "dating": {
+    "tier": "inference",
+    "source": "s:wp-west-african-vod-n",
+    "note": "the year records documentation, not practice; the note says so"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-west-african-vod-n",
+    "note": "the paragraph on nineteenth-century traders' published accounts carries an inference marker where this project comments on who wrote them"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Akodessewa Fetish Market Lome.jpg"],
+ "x_commons_files": [
+  "File:Akodessewa Fetish Market Lome.jpg"
+ ],
  "confidence": "medium",
  "needs_verification": true,
  "updated": "2026-09-16"

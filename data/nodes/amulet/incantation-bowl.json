@@ -4,14 +4,40 @@
  "type": "amulet",
  "names": {
   "name": "Incantation bowl",
-  "aliases": ["magic bowl", "demon bowl", "devil-trap bowl", "Aramaic incantation bowl"]
+  "aliases": [
+   "magic bowl",
+   "demon bowl",
+   "devil-trap bowl",
+   "Aramaic incantation bowl"
+  ],
+  "th": "ชามคาถา"
  },
- "region": ["mesopotamia", "iran-persia", "levant"],
- "countries": ["IQ", "IR", "SY"],
- "facets": {"era": "ancient", "status": "archaeological", "portable": "placed", "restricted": "open", "hemisphere": ["N", "E"]},
+ "region": [
+  "mesopotamia",
+  "iran-persia",
+  "levant"
+ ],
+ "countries": [
+  "IQ",
+  "IR",
+  "SY"
+ ],
+ "facets": {
+  "era": "ancient",
+  "status": "archaeological",
+  "portable": "placed",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "A plain earthenware bowl with writing inside it. The text is inked in a spiral that starts at the rim and winds inward to the centre, most often in Jewish Babylonian Aramaic, sometimes Mandaic, Syriac, Arabic or Persian. Then the bowl is turned upside down and buried — under a threshold, in a courtyard, in the corner of a house where somebody has just died, in a cemetery. Around one in ten carries no real language at all.",
   "story": "John Charles Arnold sets out the mechanism the way its users described it: \"When placed upside down under each corner of a house, demons would follow the inscribed charms that spiraled from the outer rim inward, only to be caught in the center.\"\n\nThe bowls belong to Sasanian Mesopotamia, sixth to eighth century, in a population that was Christian, Manichaean, Mandaean, Jewish, Zoroastrian or still Babylonian in religion, and largely Aramaic-speaking whatever else it was. They were commissioned across those lines. Nearly eighty Jewish bowls survive from Babylon under Sasanian rule, most from the Jewish settlement at Nippur, where almost every excavated house had them buried in it. They name what they are against: the evil eye, Lilith, Bagdana. Their inscriptions quote scripture and rabbinic texts alike, which scholars read as evidence that the rabbinic material was held to carry the same power as the biblical.\n\nTwo things follow that are worth stating plainly. The bowls often call themselves amulets, and the Talmud, which was being written in the same place and period, discusses the use of amulets to drive away demons — so the text on these bowls is the only written material documenting Jewish language and religion recovered from that time and place. And the corpus is a scandal: about 2,000 bowls are registered as archaeological finds, while the trade digs them up freely, so there may be tens of thousands in private hands.\n\nThere is an Islamic branch. In the medieval period, talismanic bowls did the same work in metal rather than clay, covered in Arabic — Qur'anic verses, a hadith, sometimes numerology or astrology — and used for healing by drinking water left standing in them overnight."
+ },
+ "text_th": {
+  "what": "ชามดินเผาเรียบ ๆ มีตัวหนังสืออยู่ด้านใน ข้อความเขียนด้วยหมึกเป็นเกลียว เริ่มจากขอบวนเข้าไปถึงกลางชาม ส่วนใหญ่เป็นภาษาอราเมอิกบาบิโลนแบบยิว บางครั้งเป็นภาษามันดาอิก ซีเรียก อาหรับ หรือเปอร์เซีย จากนั้นคว่ำชามแล้วฝัง ใต้ธรณีประตู ในลานบ้าน ที่มุมบ้านที่มีคนเพิ่งตาย หรือในสุสาน ราวหนึ่งในสิบใบไม่มีภาษาจริงอยู่เลย"
  },
  "dating": {
   "period": "Sasanian and early Islamic Mesopotamia",
@@ -27,8 +53,17 @@
  },
  "object": {
   "form": "bowl",
-  "materials": ["terracotta", "ink", "copper"],
-  "worn": ["foundation", "door", "grave", "hearth"],
+  "materials": [
+   "terracotta",
+   "ink",
+   "copper"
+  ],
+  "worn": [
+   "foundation",
+   "door",
+   "grave",
+   "hearth"
+  ],
   "made_by": "scribes writing to commission, across religious lines; about ten per cent of the bowls are in pseudo-script and are thought to be the work of scribes who could not write, sold to clients who could not read",
   "inscription": "a spiral incantation from rim to centre, naming the household and the demons it is aimed at, and quoting scripture and rabbinic texts",
   "script": "Jewish Babylonian Aramaic, Mandaic, Syriac; a handful in Arabic or Persian",
@@ -37,34 +72,121 @@
   "note": "Form is a household bowl; there is no bowl key in the vocabulary yet."
  },
  "against": [
-  {"harm": "demons", "who": "the bowls themselves, which name Lilith and Bagdana", "quote": "When placed upside down under each corner of a house, demons would follow the inscribed charms that spiraled from the outer rim inward, only to be caught in the center.", "source": "s:wp-incantation-bowl", "tier": "cited", "note": "quoted from John Charles Arnold, as given in the cited article"},
-  {"harm": "evil-eye", "who": "the Jewish bowls from Nippur, which list it among the evil influences they are set against", "source": "s:wp-incantation-bowl", "tier": "cited"},
-  {"harm": "house", "who": "the users, who buried them under thresholds, in courtyards and in the corners of houses", "source": "s:wp-incantation-bowl", "tier": "cited"},
-  {"harm": "illness", "who": "the medieval Islamic talismanic bowls, used for healing by drinking the water left in them overnight", "source": "s:wp-incantation-bowl", "tier": "cited"}
+  {
+   "harm": "demons",
+   "who": "the bowls themselves, which name Lilith and Bagdana",
+   "quote": "When placed upside down under each corner of a house, demons would follow the inscribed charms that spiraled from the outer rim inward, only to be caught in the center.",
+   "source": "s:wp-incantation-bowl",
+   "tier": "cited",
+   "note": "quoted from John Charles Arnold, as given in the cited article"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "the Jewish bowls from Nippur, which list it among the evil influences they are set against",
+   "source": "s:wp-incantation-bowl",
+   "tier": "cited"
+  },
+  {
+   "harm": "house",
+   "who": "the users, who buried them under thresholds, in courtyards and in the corners of houses",
+   "source": "s:wp-incantation-bowl",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the medieval Islamic talismanic bowls, used for healing by drinking the water left in them overnight",
+   "source": "s:wp-incantation-bowl",
+   "tier": "cited"
+  }
  ],
  "holdings": [
-  {"museum": "british-museum", "what": "Mandaic and Aramaic incantation bowls", "source": "s:wp-incantation-bowl"},
-  {"museum": "other", "what": "the Moussaieff Collection; the Frau Professor Hilprecht Collection of Babylonian Antiquities, Jena; the Vorderasiatisches Museum, Berlin", "source": "s:wp-incantation-bowl", "note": "named in the cited article and in the editions listed there; this project read no catalogue page, so no accession numbers appear"}
+  {
+   "museum": "british-museum",
+   "what": "Mandaic and Aramaic incantation bowls",
+   "source": "s:wp-incantation-bowl"
+  },
+  {
+   "museum": "other",
+   "what": "the Moussaieff Collection; the Frau Professor Hilprecht Collection of Babylonian Antiquities, Jena; the Vorderasiatisches Museum, Berlin",
+   "source": "s:wp-incantation-bowl",
+   "note": "named in the cited article and in the editions listed there; this project read no catalogue page, so no accession numbers appear"
+  }
  ],
  "kin": [
-  {"to": "jewish-practical-kabbalah", "as": "the tradition these bowls are the earliest bulk evidence for — written amulets in divine and angelic names, centuries before anyone called it that", "rel": "tradition"},
-  {"to": "mesopotamian-apotropaic", "as": "the older practice in the same ground: name the demon, bind it, put the object where it enters", "rel": "origin"},
-  {"to": "lamashtu-plaque", "as": "the same argument in bronze a millennium earlier, with the demon pictured instead of written", "rel": "origin"},
-  {"to": "kamea", "as": "the descendant that keeps the writing and drops the bowl", "rel": "descendant"},
-  {"to": "joseph-naveh", "as": "with Shaul Shaked, the editor whose 1985 Amulets and Magic Bowls put these texts in front of readers who are not Aramaists", "rel": "person"},
-  {"to": "shaul-shaked", "as": "the other half of that edition, and the reason a bowl text can be quoted at all here", "rel": "person"},
-  {"to": "islamic-talismanic", "as": "the tradition that carried the bowl on in metal, inscribed with Qur'an and hadith and drunk from", "rel": "descendant"},
-  {"to": "foundation-deposit", "as": "the practice that puts protection under the floor rather than on the body", "rel": "practice"},
-  {"to": "holy-rider-pendant", "as": "the same demon-naming logic in the Byzantine west, worn instead of buried", "rel": "parallel"},
-  {"to": "who-owns-a-charm", "as": "the long read this corpus forces: 2,000 bowls excavated, tens of thousands dug and sold", "rel": "story"}
+  {
+   "to": "jewish-practical-kabbalah",
+   "as": "the tradition these bowls are the earliest bulk evidence for — written amulets in divine and angelic names, centuries before anyone called it that",
+   "rel": "tradition"
+  },
+  {
+   "to": "mesopotamian-apotropaic",
+   "as": "the older practice in the same ground: name the demon, bind it, put the object where it enters",
+   "rel": "origin"
+  },
+  {
+   "to": "lamashtu-plaque",
+   "as": "the same argument in bronze a millennium earlier, with the demon pictured instead of written",
+   "rel": "origin"
+  },
+  {
+   "to": "kamea",
+   "as": "the descendant that keeps the writing and drops the bowl",
+   "rel": "descendant"
+  },
+  {
+   "to": "joseph-naveh",
+   "as": "with Shaul Shaked, the editor whose 1985 Amulets and Magic Bowls put these texts in front of readers who are not Aramaists",
+   "rel": "person"
+  },
+  {
+   "to": "shaul-shaked",
+   "as": "the other half of that edition, and the reason a bowl text can be quoted at all here",
+   "rel": "person"
+  },
+  {
+   "to": "islamic-talismanic",
+   "as": "the tradition that carried the bowl on in metal, inscribed with Qur'an and hadith and drunk from",
+   "rel": "descendant"
+  },
+  {
+   "to": "foundation-deposit",
+   "as": "the practice that puts protection under the floor rather than on the body",
+   "rel": "practice"
+  },
+  {
+   "to": "holy-rider-pendant",
+   "as": "the same demon-naming logic in the Byzantine west, worn instead of buried",
+   "rel": "parallel"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read this corpus forces: 2,000 bowls excavated, tens of thousands dug and sold",
+   "rel": "story"
+  }
  ],
- "links": [{"label": "Incantation bowl — Wikipedia", "url": "https://en.wikipedia.org/wiki/Incantation_bowl"}],
- "sources": ["s:wp-incantation-bowl", "s:wp-practical-kabbalah", "s:wp-amulet", "s:wp-islam-and-magic"],
+ "links": [
+  {
+   "label": "Incantation bowl — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Incantation_bowl"
+  }
+ ],
+ "sources": [
+  "s:wp-incantation-bowl",
+  "s:wp-practical-kabbalah",
+  "s:wp-amulet",
+  "s:wp-islam-and-magic"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-incantation-bowl"}
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-incantation-bowl"
+  }
  },
  "images": [],
- "x_commons_files": ["File:Incantation bowl.jpg", "File:Aramaic incantation bowl.jpg"],
+ "x_commons_files": [
+  "File:Incantation bowl.jpg",
+  "File:Aramaic incantation bowl.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-16"
 }

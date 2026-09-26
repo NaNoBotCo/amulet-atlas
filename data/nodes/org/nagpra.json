@@ -4,16 +4,29 @@
  "type": "org",
  "names": {
   "name": "The Native American Graves Protection and Repatriation Act",
-  "aliases": ["NAGPRA", "Pub. L. 101–601"],
-  "sort": "NAGPRA"
+  "aliases": [
+   "NAGPRA",
+   "Pub. L. 101–601"
+  ],
+  "sort": "NAGPRA",
+  "th": "รัฐบัญญัติคุ้มครองและส่งคืนหลุมฝังศพชนพื้นเมืองอเมริกัน (NAGPRA)"
  },
- "region": ["north-america"],
- "countries": ["US"],
- "facets": {"kind": "registry"},
+ "region": [
+  "north-america"
+ ],
+ "countries": [
+  "US"
+ ],
+ "facets": {
+  "kind": "registry"
+ },
  "text": {
   "what": "United States federal law, Pub. L. 101–601, enacted on 16 November 1990. It requires federal agencies and any institution receiving federal funding to return Native American cultural items — human remains, funerary objects, sacred objects and objects of cultural patrimony — to lineal descendants and to culturally affiliated tribes, Alaska Native villages and Native Hawaiian organizations. It also makes trafficking in those items a criminal offence.",
   "story": "The Act has three sets of provisions, and the difference between them decides most arguments about it. The repatriation provisions reach backwards: they apply to remains or objects discovered at any time, before or after 1990, wherever found, so long as the holder receives federal funding. The disposition provisions govern discovery or excavation on federal or tribal land after 16 November 1990, and they do not apply to private or state land outside a reservation boundary. The criminal provisions make trafficking an offence.\n\nMaria Pearson is generally credited as the first catalyst. In the early 1970s her husband, an Iowa Department of Transportation engineer, told her that road construction at Glenwood had turned up both white and Native American remains: twenty-six white burials were reburied quickly, while the remains of a Native American mother and child went to a lab. She sat outside Governor Robert D. Ray's office in traditional dress until he saw her. \"You can give me back my people's bones and you can quit digging them up.\" The Iowa Burials Protection Act of 1976 followed, then a decade of lobbying, then the looting of the Slack Farm mound in Kentucky in 1987 and the protests at Dickson Mounds in Illinois, and then the federal Act.\n\nIt has moved a great deal of material: the remains of about 32,000 individuals, nearly 670,000 funerary objects, 120,000 unassociated funerary objects and 3,500 sacred objects. It is also slow, and the burden of proving cultural affiliation falls on tribes, which is hardest in California, where many small bands were extinguished before they could be federally recognised. Some archaeologists object that remains untraceable to a historic tribe are being put beyond study. The Act itself says Congress meant to strike a balance between scientific examination and the fact that Native Americans, like people from every culture, hold their ancestors' remains in religious and spiritual reverence.\n\nPenalties were raised in 2022. A first conviction for trafficking Native American human remains went from twelve months to one year and one day, which makes it a felony, and a subsequent conviction from five years to ten. A first conviction for trafficking cultural items remains a misdemeanour of up to one year; a subsequent one went from five years to ten.",
   "today": "Revised Interior Department regulations took effect on 12 January 2024 and state that museums and federal agencies \"must defer to the Native American traditional knowledge of lineal descendants, Indian Tribes, and Native Hawaiian organizations\". The gaps are still real. ProPublica reported in April 2023 that the Metropolitan Museum of Art had held Indigenous American objects on long-term loan rather than owning them, and objects on loan do not trigger the repatriation process. *Inference —* the law is a US statute with a funding hook; it does nothing about a private collector, a foreign museum or an object sold abroad before 1990, and a reader should not treat it as a general rule about who owns a charm."
+ },
+ "text_th": {
+  "what": "กฎหมายของรัฐบาลกลางสหรัฐอเมริกา Pub. L. 101–601 ประกาศใช้เมื่อวันที่ 16 พฤศจิกายน ค.ศ. 1990 กำหนดให้หน่วยงานของรัฐบาลกลาง และสถาบันใดก็ตามที่ได้รับเงินทุนจากรัฐบาลกลาง ส่งคืนวัตถุทางวัฒนธรรมของชนพื้นเมืองอเมริกัน — ร่างมนุษย์ วัตถุที่ฝังร่วมกับศพ วัตถุศักดิ์สิทธิ์ และวัตถุที่เป็นมรดกทางวัฒนธรรม — แก่ผู้สืบสายเลือดโดยตรง และแก่ชนเผ่า หมู่บ้านชนพื้นเมืองอะแลสกา และองค์กรชาวพื้นเมืองฮาวาย ที่มีความเกี่ยวพันทางวัฒนธรรม และยังกำหนดให้การค้าวัตถุเหล่านั้นเป็นความผิดทางอาญา"
  },
  "dating": {
   "period": "1990 to now",
@@ -26,23 +39,68 @@
   "source": "s:wp-native-american-graves-protection-and-repatriation-act"
  },
  "kin": [
-  {"to": "metropolitan-museum", "as": "the museum reported in 2023 to have held Indigenous American objects on loan rather than owning them, which kept them outside this Act", "rel": "contrast"},
-  {"to": "dreamcatcher", "as": "the Ojibwe object most often sold by people with no claim to it — a market this Act does not touch", "rel": "contrast"},
-  {"to": "grave-deposit", "as": "the practice the Act exists to answer: what was buried with somebody, and who it still belongs to", "rel": "practice"},
-  {"to": "aiatsis", "as": "the Australian counterpart, working by protocol and deposit conditions where this works by statute and funding", "rel": "contrast"},
-  {"to": "te-papa", "as": "the national museum running the same argument from the claimant's side, across borders rather than inside one", "rel": "parallel"},
-  {"to": "who-owns-a-charm", "as": "the long read on ownership, of which this is the only piece of binding law in the set", "rel": "story"},
-  {"to": "what-this-atlas-does-not-print", "as": "the long read on restriction; the Act's categories of sacred object and cultural patrimony are one workable definition of the line", "rel": "story"}
+  {
+   "to": "metropolitan-museum",
+   "as": "the museum reported in 2023 to have held Indigenous American objects on loan rather than owning them, which kept them outside this Act",
+   "rel": "contrast"
+  },
+  {
+   "to": "dreamcatcher",
+   "as": "the Ojibwe object most often sold by people with no claim to it — a market this Act does not touch",
+   "rel": "contrast"
+  },
+  {
+   "to": "grave-deposit",
+   "as": "the practice the Act exists to answer: what was buried with somebody, and who it still belongs to",
+   "rel": "practice"
+  },
+  {
+   "to": "aiatsis",
+   "as": "the Australian counterpart, working by protocol and deposit conditions where this works by statute and funding",
+   "rel": "contrast"
+  },
+  {
+   "to": "te-papa",
+   "as": "the national museum running the same argument from the claimant's side, across borders rather than inside one",
+   "rel": "parallel"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read on ownership, of which this is the only piece of binding law in the set",
+   "rel": "story"
+  },
+  {
+   "to": "what-this-atlas-does-not-print",
+   "as": "the long read on restriction; the Act's categories of sacred object and cultural patrimony are one workable definition of the line",
+   "rel": "story"
+  }
  ],
  "links": [
-  {"label": "NAGPRA — Wikipedia", "url": "https://en.wikipedia.org/wiki/Native_American_Graves_Protection_and_Repatriation_Act"}
+  {
+   "label": "NAGPRA — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Native_American_Graves_Protection_and_Repatriation_Act"
+  }
  ],
- "sources": ["s:wp-native-american-graves-protection-and-repatriation-act", "s:wp-metropolitan-museum-of-art"],
+ "sources": [
+  "s:wp-native-american-graves-protection-and-repatriation-act",
+  "s:wp-metropolitan-museum-of-art"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-native-american-graves-protection-and-repatriation-act"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-native-american-graves-protection-and-repatriation-act"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:wp-native-american-graves-protection-and-repatriation-act", "note": "statutory facts, penalty figures and return totals are taken from the cited summary of the Act and were not checked against the United States Code; treat the numbers as reported rather than as read off the statute"},
-   "text.today": {"tier": "cited", "source": "s:wp-metropolitan-museum-of-art", "note": "the loan loophole is the reported finding; the closing paragraph is marked as this project's inference"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-native-american-graves-protection-and-repatriation-act",
+    "note": "statutory facts, penalty figures and return totals are taken from the cited summary of the Act and were not checked against the United States Code; treat the numbers as reported rather than as read off the statute"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-metropolitan-museum-of-art",
+    "note": "the loan loophole is the reported finding; the closing paragraph is marked as this project's inference"
+   }
   }
  },
  "images": [],

@@ -8,7 +8,8 @@
    "repatriation",
    "returning amulets",
    "whose object is it"
-  ]
+  ],
+  "th": "ใครเป็นเจ้าของเครื่องราง"
  },
  "region": [
   "world",
@@ -34,6 +35,9 @@
  },
  "text": {
   "what": "A museum drawer of amulets is the hardest kind of collection to hand back and the easiest kind to have taken. The objects are small, they were bought by the handful, most were never accessioned with a name attached, and a proportion of them were never anybody's to sell. This record sets out the law where there is law, the returns and the refusals where they are on the record with dates and institutions attached, and the specific reason amulets sit at the difficult end of the problem."
+ },
+ "text_th": {
+  "what": "ลิ้นชักเครื่องรางในพิพิธภัณฑ์คือคอลเลกชันประเภทที่ส่งคืนยากที่สุด และถูกนำไปได้ง่ายที่สุด วัตถุมีขนาดเล็ก ถูกซื้อมาทีละกำมือ ส่วนใหญ่ไม่เคยลงทะเบียนพร้อมชื่อกำกับ และส่วนหนึ่งไม่เคยเป็นของที่ใครมีสิทธิ์ขายเลย รายการนี้วางกฎหมายไว้ในที่ที่มีกฎหมาย วางการส่งคืนและการปฏิเสธไว้ในที่ที่มีบันทึกพร้อมวันที่และชื่อสถาบัน และวางเหตุผลเฉพาะที่ทำให้เครื่องรางอยู่ปลายด้านที่ยากของปัญหานี้"
  },
  "sections": [
   {
@@ -231,77 +235,99 @@
    "type": "org",
    "name": "The Native American Graves Protection and Repatriation Act",
    "as": "the statute this read opens with, and the only one in the set that makes return a legal duty",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "รัฐบัญญัติคุ้มครองและส่งคืนหลุมฝังศพชนพื้นเมืองอเมริกัน (NAGPRA)",
+   "as_th": ""
   },
   {
    "to": "aiatsis",
    "type": "org",
    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
    "as": "the body running Australia's Return of Cultural Heritage programme since 2019",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "สถาบันการศึกษาชาวอะบอริจินและชาวเกาะช่องแคบทอร์เรสแห่งออสเตรเลีย (AIATSIS)",
+   "as_th": ""
   },
   {
    "to": "british-museum",
    "type": "org",
    "name": "The British Museum",
    "as": "the institution that refuses most often, and publishes the Act it refuses under",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์บริติช (บริติชมิวเซียม)",
+   "as_th": ""
   },
   {
    "to": "pitt-rivers-museum",
    "type": "org",
    "name": "The Pitt Rivers Museum",
    "as": "the museum that removed its human remains in 2020 and published the reasoning",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์พิตต์ ริเวอร์ส",
+   "as_th": ""
   },
   {
    "to": "te-papa",
    "type": "org",
    "name": "Museum of New Zealand Te Papa Tongarewa",
    "as": "where the toi moko went back to in 2008, and where the terms are set by the originating people",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์นิวซีแลนด์ เตปาปาตองกาเรวา",
+   "as_th": ""
   },
   {
    "to": "wellcome-collection",
    "type": "org",
    "name": "Wellcome Collection",
    "as": "17,500 amulets, an acknowledgement in 2021, and a return to India in 2025",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "เวลคัมคอลเลกชัน",
+   "as_th": ""
   },
   {
    "to": "quai-branly",
    "type": "org",
    "name": "Musée du quai Branly — Jacques Chirac",
    "as": "the French collection at the centre of the restitution argument Sarr and Savoy opened in 2018",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "พิพิธภัณฑ์เก บรันลี – ฌัก ชีรัก",
+   "as_th": ""
   },
   {
    "to": "nkisi",
    "type": "amulet",
    "name": "Nkisi",
    "as": "a class collected in quantity out of Central Africa, and one where the object's own community defines what it is",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เอ็นกีซี",
+   "as_th": ""
   },
   {
    "to": "hei-tiki",
    "type": "amulet",
    "name": "Hei-tiki",
    "as": "a taonga whose return is governed by the tradition's own terms, not by a museum's",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เฮย์ติกิ (จี้หยกเมารี)",
+   "as_th": ""
   },
   {
    "to": "lovett-collection",
    "type": "art",
    "name": "The Lovett collection",
    "as": "the counter-example — a collector who wrote down who was carrying each charm",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "คอลเลกชันของโลเวตต์",
+   "as_th": ""
   },
   {
    "to": "what-this-atlas-does-not-print",
    "type": "story",
    "name": "What this atlas does not print",
    "as": "the companion read: what may be said, once you have settled what may be kept",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สิ่งที่แอตลาสนี้ไม่ตีพิมพ์",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -429,441 +455,567 @@
    "type": "amulet",
    "name": "Ankh amulet",
    "as": "the long read this sign lands in — worn now by Kemetists, by goths and by people with no line to Egypt at all",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เครื่องรางอังค์",
+   "as_th": ""
   },
   {
    "from": "cimaruta",
    "type": "amulet",
    "name": "Cimaruta",
    "as": "the long read the Stregheria argument belongs in: who a folk object belongs to once a revival claims it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ชีมารูตา (กิ่งต้นรูเครื่องรางอิตาลี)",
+   "as_th": ""
   },
   {
    "from": "cippus-of-horus",
    "type": "amulet",
    "name": "Cippus of Horus",
    "as": "the long read it lands in: a pasha's gift to a prince, a castle in Bohemia, and a New York accession in 1950",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ซิปปัสแห่งฮอรัส (ศิลาฮอรัส)",
+   "as_th": ""
   },
   {
    "from": "coptic-cross-tattoo",
    "type": "amulet",
    "name": "Coptic cross tattoo",
    "as": "the long read this mark belongs to — the tattooists call it resistance and solidarity, which is a statement about who may wear it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "รอยสักกางเขนคอปติก",
+   "as_th": ""
   },
   {
    "from": "corn-dolly",
    "type": "amulet",
    "name": "Corn dolly",
    "as": "the long read the 1950s revival belongs in: new folklore attached to an old craft, and the source saying so outright",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตุ๊กตาฟางข้าว (คอร์นดอลลี)",
+   "as_th": ""
   },
   {
    "from": "cowrie-strand",
    "type": "amulet",
    "name": "Cowrie strand",
    "as": "the long read this shell complicates: 30 billion of them reached the Bight of Benin as trade goods in the era of Atlantic slavery",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สายเปลือกหอยเบี้ย",
+   "as_th": ""
   },
   {
    "from": "crystal-pendant",
    "type": "amulet",
    "name": "Crystal pendant",
    "as": "the long read where a supply chain and a spiritual claim end up in the same paragraph",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "จี้คริสตัล",
+   "as_th": ""
   },
   {
    "from": "dolhareubang",
    "type": "amulet",
    "name": "Dol hareubang",
    "as": "the long read this belongs in: 47 or 48 originals, an island's worth of replicas, and three of them given away as state gifts",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ทลฮารึบัง (รูปปู่หิน)",
+   "as_th": ""
   },
   {
    "from": "dreamcatcher",
    "type": "amulet",
    "name": "Dreamcatcher",
    "as": "the long read this record is the test case for — who may make a thing, and what changes when somebody else does",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เครื่องดักฝัน",
+   "as_th": ""
   },
   {
    "from": "hei-tiki",
    "type": "amulet",
    "name": "Hei-tiki",
    "as": "the long read this record is central to",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เฮย์ติกิ (จี้หยกเมารี)",
+   "as_th": ""
   },
   {
    "from": "hex-sign",
    "type": "amulet",
    "name": "Hex sign",
    "as": "the long read for the rest of it: neopagans making them, the Amish refusing them, and a state radiation office using one as a logo",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เฮ็กซ์ไซน์ (ป้ายดาวบนโรงนา)",
+   "as_th": ""
   },
   {
    "from": "illa",
    "type": "amulet",
    "name": "Illa",
    "as": "the long read this belongs in — nearly every illa in a museum left a corral to get there",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "อิยา (รูปสัตว์หินแอนดีส)",
+   "as_th": ""
   },
   {
    "from": "incantation-bowl",
    "type": "amulet",
    "name": "Incantation bowl",
    "as": "the long read this corpus forces: 2,000 bowls excavated, tens of thousands dug and sold",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ชามคาถา",
+   "as_th": ""
   },
   {
    "from": "keris-pusaka",
    "type": "amulet",
    "name": "Keris pusaka",
    "as": "the long read the Banyu Sumurup workshop belongs in: one bench, one blade for an enthusiast's shrine and one for a visitor's shelf",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "กริชปูซากา (กริชมรดก)",
+   "as_th": ""
   },
   {
    "from": "magical-gem",
    "type": "amulet",
    "name": "Magical gem",
    "as": "the long read; most of these gems reached museums through the trade, and their findspots went with the diggers",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "อัญมณีเวทมนตร์ (หินสลักกรีก-อียิปต์)",
+   "as_th": ""
   },
   {
    "from": "mjolnir-pendant",
    "type": "amulet",
    "name": "Mjölnir pendant",
    "as": "the long read this pendant forces: a sign claimed at once by Heathen practitioners, by a national cemetery service and by white supremacists",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "จี้มโยลเนียร์ (ค้อนธอร์)",
+   "as_th": ""
   },
   {
    "from": "nkisi",
    "type": "amulet",
    "name": "Nkisi",
    "as": "the long read this object is the centre of: purchased, confiscated or removed by colonial authorities, and argued over by name since 2018",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เอ็นกีซี",
+   "as_th": ""
   },
   {
    "from": "rabbits-foot",
    "type": "amulet",
    "name": "Rabbit's foot",
    "as": "the long read it belongs in: a Black folk-magic object sold as generic American luck, with the lineage left off the packet",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตีนกระต่ายนำโชค",
+   "as_th": ""
   },
   {
    "from": "red-string",
    "type": "amulet",
    "name": "Red string",
    "as": "the long read; a custom with no textual basis, sold worldwide under the name of a restricted tradition",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ด้ายแดง",
+   "as_th": ""
   },
   {
    "from": "sak-yant",
    "type": "amulet",
    "name": "Sak yant",
    "as": "the long read the 2011 ministry move belongs in, with both sides named",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สักยันต์",
+   "as_th": "บทความยาวที่การเคลื่อนไหวของกระทรวงเมื่อปี พ.ศ. 2554 อยู่ในนั้น โดยระบุชื่อทั้งสองฝ่าย"
   },
   {
    "from": "senninbari",
    "type": "amulet",
    "name": "Senninbari",
    "as": "the long read this belongs in: a belt made by a thousand named-nobody women, now bought and sold as militaria",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เซ็นนินบาริ (ผ้าพันฝีเข็ม)",
+   "as_th": ""
   },
   {
    "from": "bakongo-nkisi-craft",
    "type": "tradition",
    "name": "Bakongo nkisi craft",
    "as": "the long read this tradition sits at the centre of: purchased, confiscated or removed, and argued over by name since 2018",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "งานสร้างนคิซีของชาวบาคองโก",
+   "as_th": ""
   },
   {
    "from": "maori-taonga",
    "type": "tradition",
    "name": "Taonga Māori",
    "as": "the long read this tradition is the sharpest case in — a resin copy made offshore, a statute with a $100,000 fine, and a collection whose sources are on the record",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตาองกาเมารี",
+   "as_th": ""
   },
   {
    "from": "swastika-sign",
    "type": "motif",
    "name": "The swastika",
    "as": "the long read on who gets to say what a sign means, which this record is the hardest case for",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สวัสดิกะ",
+   "as_th": "บทความยาวว่าใครมีสิทธิ์บอกว่าเครื่องหมายหนึ่งหมายถึงอะไร ซึ่งระเบียนนี้เป็นกรณีที่ยากที่สุด"
   },
   {
    "from": "bone-ivory",
    "type": "material",
    "name": "Bone and ivory",
    "as": "the long read for objects whose trade is now illegal and whose display is argued about",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "กระดูกและงา",
+   "as_th": "บทความยาวว่าด้วยวัตถุที่ปัจจุบันซื้อขายไม่ได้ตามกฎหมายและการจัดแสดงยังเป็นที่ถกเถียง"
   },
   {
    "from": "cowrie",
    "type": "material",
    "name": "Cowrie",
    "as": "the long read for a material whose supply history is the Atlantic slave trade",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "หอยเบี้ย",
+   "as_th": ""
   },
   {
    "from": "gold",
    "type": "material",
    "name": "Gold",
    "as": "the long read on value, ownership and what happens to a charm worth melting",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ทองคำ",
+   "as_th": ""
   },
   {
    "from": "jade",
    "type": "material",
    "name": "Jade",
    "as": "the long read this stone's 1997 settlement belongs to",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "หยก",
+   "as_th": ""
   },
   {
    "from": "skin",
    "type": "material",
    "name": "Skin",
    "as": "the long read the 2011 Thai argument belongs to",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ผิวหนัง",
+   "as_th": "บทความยาวที่ข้อถกเถียงในไทยเมื่อ พ.ศ. 2554 (ค.ศ. 2011) สังกัดอยู่"
   },
   {
    "from": "terracotta",
    "type": "material",
    "name": "Fired clay",
    "as": "the long read this record's last paragraph belongs to: bowls dug without a findspot, and who ends up holding them",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ดินเผา",
+   "as_th": "บทความยาวที่ย่อหน้าสุดท้ายของบันทึกนี้สังกัดอยู่ คือชามที่ถูกขุดขึ้นมาโดยไม่รู้จุดที่พบ และใครเป็นผู้ถือครองในที่สุด"
   },
   {
    "from": "tooth",
    "type": "material",
    "name": "Tooth, tusk and claw",
    "as": "the long read for an object under export caps, permits and a 2007 repatriation",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ฟัน งา และกรงเล็บ",
+   "as_th": ""
   },
   {
    "from": "wood",
    "type": "material",
    "name": "Wood",
    "as": "the long read behind the Fante dolls that ended up in European museums after the 1800s",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ไม้",
+   "as_th": ""
   },
   {
    "from": "feeding-the-charm",
    "type": "practice",
    "name": "Feeding the charm",
    "as": "the long read this practice complicates: a figure that is no longer fed is, in its own tradition's account, not the object on the shelf",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การเลี้ยงเครื่องราง",
+   "as_th": ""
   },
   {
    "from": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "the long read this practice leads straight into",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "from": "inheriting",
    "type": "practice",
    "name": "Inheriting",
    "as": "the long read that starts where an heirloom leaves the family",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การสืบทอดเครื่องราง",
+   "as_th": ""
   },
   {
    "from": "akodessewa-market",
    "type": "place",
    "name": "Akodessawa fetish market",
    "as": "the long read this market sits inside: who gets to describe a practice, and in whose words",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดเครื่องรางอาโกเดสซาวา",
+   "as_th": ""
   },
   {
    "from": "british-museum-room-1",
    "type": "place",
    "name": "Room 1: Enlightenment, the British Museum",
    "as": "the long read on ownership; Wall Press 96 is where it stops being abstract",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ห้อง 1: ยุคเรืองปัญญา พิพิธภัณฑ์บริติช",
+   "as_th": ""
   },
   {
    "from": "pitt-rivers-charms",
    "type": "place",
    "name": "The amulet and charm cases, Pitt Rivers Museum",
    "as": "the long read; this museum answers it out loud, on its own labels, since 2020",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตู้เครื่องรางและของขลัง พิพิธภัณฑ์พิตต์ริเวอร์ส",
+   "as_th": ""
   },
   {
    "from": "quiapo-church",
    "type": "place",
    "name": "Quiapo Church",
    "as": "the long read this address argues in public: two systems, one plaza, both naming the other",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "โบสถ์กีอาโป",
+   "as_th": ""
   },
   {
    "from": "te-papa-taonga",
    "type": "place",
    "name": "Mana Whenua, Te Papa",
    "as": "the long read on ownership, argued from the claimant's side — 850 ancestors returned since 2003",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "มานาเฟนูอา ที่พิพิธภัณฑ์เตปาปา",
+   "as_th": ""
   },
   {
    "from": "wellcome-lovett",
    "type": "place",
    "name": "The Lovett charms at Wellcome Collection",
    "as": "the long read; a charm swapped face to face on a barrow is the awkward case in it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เครื่องรางของโลเวตต์ที่เวลคัมคอลเลกชัน",
+   "as_th": ""
   },
   {
    "from": "augustus-pitt-rivers",
    "type": "person",
    "name": "Augustus Pitt Rivers",
    "as": "the long read; his museum is where the question of who a charm in a case belongs to is asked most directly",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ออกัสตัส พิตต์ ริเวอร์ส",
+   "as_th": ""
   },
   {
    "from": "wallis-budge",
    "type": "person",
    "name": "E. A. Wallis Budge",
    "as": "the long read on acquisition; his own account of getting tablets out of Baghdad is one of its documents",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "อี. เอ. วอลลิส บัดจ์",
+   "as_th": ""
   },
   {
    "from": "walter-hildburgh",
    "type": "person",
    "name": "Walter Leo Hildburgh",
    "as": "the long read on how a charm changes hands; a Hildburgh object has usually changed them four times",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "วอลเตอร์ ลีโอ ฮิลด์เบิร์ก",
+   "as_th": ""
   },
   {
    "from": "aiatsis",
    "type": "org",
    "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
    "as": "the long read on ownership; the deposit clause here is the clearest model of a collection held under somebody else's conditions",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สถาบันการศึกษาชาวอะบอริจินและชาวเกาะช่องแคบทอร์เรสแห่งออสเตรเลีย (AIATSIS)",
+   "as_th": ""
   },
   {
    "from": "british-museum",
    "type": "org",
    "name": "The British Museum",
    "as": "the long read on ownership; the 1963 Act argument is its clearest statement of one side",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "พิพิธภัณฑ์บริติช (บริติชมิวเซียม)",
+   "as_th": ""
   },
   {
    "from": "metropolitan-museum",
    "type": "org",
    "name": "The Metropolitan Museum of Art",
    "as": "the long read on ownership, where seizures and returns since 2006 are the evidence",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "พิพิธภัณฑ์ศิลปะเมโทรโพลิทัน (เดอะเมต)",
+   "as_th": "บทความขนาดยาวเรื่องความเป็นเจ้าของ ซึ่งการยึดและการส่งคืนตั้งแต่ ค.ศ. 2006 คือหลักฐาน"
   },
   {
    "from": "nagpra",
    "type": "org",
    "name": "The Native American Graves Protection and Repatriation Act",
    "as": "the long read on ownership, of which this is the only piece of binding law in the set",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "รัฐบัญญัติคุ้มครองและส่งคืนหลุมฝังศพชนพื้นเมืองอเมริกัน (NAGPRA)",
+   "as_th": ""
   },
   {
    "from": "pitt-rivers-museum",
    "type": "org",
    "name": "The Pitt Rivers Museum",
    "as": "the long read on ownership; this museum's own labels since 2020 are part of the argument",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "พิพิธภัณฑ์พิตต์ ริเวอร์ส",
+   "as_th": ""
   },
   {
    "from": "quai-branly",
    "type": "org",
    "name": "Musée du quai Branly — Jacques Chirac",
    "as": "the long read on ownership; the Sarr–Savoy report of 2018 is its clearest recent document",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "พิพิธภัณฑ์เก บรันลี – ฌัก ชีรัก",
+   "as_th": ""
   },
   {
    "from": "te-papa",
    "type": "org",
    "name": "Museum of New Zealand Te Papa Tongarewa",
    "as": "the long read on ownership, argued here from the claimant's side rather than the holder's",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "พิพิธภัณฑ์นิวซีแลนด์ เตปาปาตองกาเรวา",
+   "as_th": ""
   },
   {
    "from": "unesco-ich",
    "type": "org",
    "name": "UNESCO Intangible Cultural Heritage",
    "as": "the long read on ownership, where inscription is the thing most often mistaken for a property claim",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "มรดกทางวัฒนธรรมที่จับต้องไม่ได้ของยูเนสโก",
+   "as_th": "บทความยาวเรื่องความเป็นเจ้าของ ซึ่งการขึ้นทะเบียนคือสิ่งที่ถูกเข้าใจผิดว่าเป็นการอ้างกรรมสิทธิ์บ่อยที่สุด"
   },
   {
    "from": "wikimedia-commons",
    "type": "org",
    "name": "Wikimedia Commons",
    "as": "the long read on ownership; a free licence on a photograph settles nothing about the object in it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "วิกิมีเดียคอมมอนส์",
+   "as_th": ""
   },
   {
    "from": "fetish-word",
    "type": "term",
    "name": "fetish",
    "as": "the long read this record feeds: who gets to name a thing, and what the naming does",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เฟติช",
+   "as_th": ""
   },
   {
    "from": "mascot-word",
    "type": "term",
    "name": "mascot",
    "as": "the long read the Native American mascot argument belongs to",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "มาสคอต",
+   "as_th": ""
   },
   {
    "from": "mojo-word",
    "type": "term",
    "name": "mojo",
    "as": "the long read on words and objects that leave the community that built them",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "โมโจ",
+   "as_th": ""
   },
   {
    "from": "vodou-not-voodoo",
    "type": "term",
    "name": "Vodou and Vodún — and the spelling this atlas does not use",
    "as": "the long read on naming: who gets to spell somebody else's religion, and what the spelling then carries",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "โวดูและโวดุน — กับตัวสะกดที่แอตลาสนี้ไม่ใช้",
+   "as_th": ""
   },
   {
    "from": "budge-plates",
    "type": "art",
    "name": "Budge's amulet plates",
    "as": "the long read that starts from how objects like these reached London",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "แผ่นภาพเครื่องรางของบัดจ์",
+   "as_th": ""
   },
   {
    "from": "lovett-collection",
    "type": "art",
    "name": "The Lovett collection",
    "as": "the long read about how collections were formed, and what the Wellcome has since said about its own",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "คอลเลกชันของโลเวตต์",
+   "as_th": ""
   },
   {
    "from": "free-to-use",
    "type": "story",
    "name": "Free to use",
    "as": "the same question about objects instead of about text: what may be kept, and by whom",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใช้ได้อย่างเสรี",
+   "as_th": ""
   },
   {
    "from": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "what happens after an object with no provenance reaches a museum",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดของปลอม",
+   "as_th": "สิ่งที่เกิดขึ้นหลังจากวัตถุที่ไม่มีประวัติที่มาไปถึงพิพิธภัณฑ์"
   },
   {
    "from": "the-swastika-problem",
    "type": "story",
    "name": "The swastika problem",
    "as": "the same question one step over: who gets to decide what a sign or an object means now",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ปัญหาเรื่องสวัสติกะ",
+   "as_th": "คำถามเดียวกันที่ขยับไปอีกขั้น: ใครเป็นผู้ตัดสินว่าเครื่องหมายหรือวัตถุชิ้นหนึ่งมีความหมายอะไรในวันนี้"
   },
   {
    "from": "what-this-atlas-does-not-print",
    "type": "story",
    "name": "What this atlas does not print",
    "as": "the companion read — this one is about what may be said, that one about what may be kept",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "สิ่งที่แอตลาสนี้ไม่ตีพิมพ์",
+   "as_th": ""
   }
  ]
 }

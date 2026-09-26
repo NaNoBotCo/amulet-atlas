@@ -8,7 +8,8 @@
    "lucky horseshoe",
    "door horseshoe",
    "cold iron shoe"
-  ]
+  ],
+  "th": "เกือกม้า"
  },
  "region": [
   "britain-ireland",
@@ -48,6 +49,9 @@
   "story": "The object arrives late and the charm arrives after it. Historians differ on the origin of the nailed shoe, partly because worn iron was valuable and got reforged; there is no hard evidence that the Druids invented it. Four bronze horseshoes with apparent nail holes were found in an Etruscan tomb in 1897, dated around 400 BCE, and a horseshoe complete with nails came out of the tomb of the Frankish king Childeric I at Tournai, dated to the fifth century CE. Written references are later: the earliest clear record of iron horseshoes is a mention of \"crescent figured irons and their nails\" in 910, with occasional mentions by 973. Around 1000 CE cast bronze shoes with nail holes were common in Europe; the thirteenth and fourteenth centuries brought widespread iron manufacture, and during the Crusades iron was valuable enough that horseshoes were accepted in lieu of coin to pay taxes.\n\nWhy this piece of scrap and not another: they were made of iron, a material held to turn away evil spirits, and they were held on with seven nails, seven being the luckiest number. Worn shoes were put above or beside doorways to guard houses, barns and stables, a custom whose remnants can still be seen across Italy, Germany, Britain and Scandinavia. In the Middle East the same shape is made as blue-glazed terracotta plaques; in Turkey metal or blue glass horseshoes are combined with the all-seeing eye.\n\nThen there is the argument about which way up. In much of Europe, the Middle East and Latin America the shoe is hung facing downward, so that blessing pours onto whoever passes beneath. In parts of Ireland and Britain it is hung upward, so the luck is caught and cannot run out. Both went to the United States with their emigrants: English and Irish descent hangs it up, French, German, Italian, Spanish and Balkan descent hangs it down. Other conditions get attached in some traditions and not others — that the shoe must have been used and not new, that it must have been found and not bought, that any luck belongs to the owner of the shoe rather than to whoever hung it.\n\nThe Christian version names a blacksmith. Saint Dunstan, who worked as a smith before becoming Archbishop of Canterbury in 959, is said to have been asked by the Devil to shoe his horse, and to have nailed the shoe to the Devil's own foot instead, removing it only on a promise that the Devil would never enter a household with a horseshoe nailed to the door.\n\nOne English town has been collecting them since the fifteenth century. Every noble visiting Oakham, the county town of Rutland, presents a horseshoe to the Lord of the Manor, and it is nailed to the wall of Oakham Castle; the oldest of that accumulation date from the 1400s. The county flag is a golden horseshoe on a field of acorns.",
   "how": "Found, not bought, in the strictest versions. Nailed up over a door, a barn or a stable, points up or points down according to which tradition you inherited, ideally with seven nails. Nothing is done to charge it. It is not retired: it stays on the door until the door goes.",
   "today": "Still nailed over doors across northern Europe and North America, still sold new in gift shops as a wedding token, and still hung as a decorative wall piece with no claim attached. Edward Lovett found them on Sussex bedsteads in 1928, beside holed stones, against nightmares. *Inference —* a new shoe bought for luck breaks two of the tradition's own rules at once, and the people who sell them and the people who quote the rules are rarely the same people."
+ },
+ "text_th": {
+  "what": "เหล็กรูปตัว U เจาะรูตะปู ซึ่งชีวิตแรกของมันคือถูกตอกติดกับกีบม้า เมื่อใช้เป็นเครื่องราง ต้องเป็นเกือกที่ใช้แล้ว: ปลายด้านหน้าสึกบาง ยังมีโคนตะปูติดอยู่ ติดไว้เหนือประตู ตามธรรมเนียมตรึงไว้ด้วยตะปูเจ็ดตัว เกือกม้าจำลองทำจากกระดาษแข็งและพลาสติกใช้มอบให้กันในงานแต่งงาน และเกือกกระดาษใส่ปนไปในกระดาษโปรย"
  },
  "dating": {
   "period": "Medieval to the present",
@@ -286,77 +290,99 @@
    "type": "material",
    "name": "Iron",
    "as": "the reason it was picked up in the first place: cold iron, the metal European folklore says contains and repels",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เหล็ก",
+   "as_th": ""
   },
   {
    "to": "crescent",
    "type": "motif",
    "name": "The crescent",
    "as": "the shape it shares with an older sign, and the shape the earliest written record names it by — crescent figured irons",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "พระจันทร์เสี้ยว",
+   "as_th": ""
   },
   {
    "to": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "the practice in its plainest form, and the one this atlas has the longest argument about direction in",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "to": "nazar",
    "type": "amulet",
    "name": "Nazar",
    "as": "what it is combined with in Turkey — the shoe and the all-seeing eye on one object",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "to": "hagstone",
    "type": "amulet",
    "name": "Hagstone",
    "as": "what Edward Lovett found hanging beside it on Sussex bedsteads in 1928, against the same nightmares",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "หินรู (แฮกสโตน)",
+   "as_th": ""
   },
   {
    "to": "cornicello",
    "type": "amulet",
    "name": "Cornicello",
    "as": "the southern European answer at the same doorway, and now on the same rear-view mirror",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คอร์นิเชลโล (เขานำโชคอิตาลี)",
+   "as_th": ""
   },
   {
    "to": "four-leaf-clover",
    "type": "amulet",
    "name": "Four-leaf clover",
    "as": "the other charm that must be found rather than bought, and the other one a factory now supplies anyway",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ใบโคลเวอร์สี่แฉก",
+   "as_th": ""
   },
   {
    "to": "rabbits-foot",
    "type": "amulet",
    "name": "Rabbit's foot",
    "as": "the two objects Theodore Roosevelt was given: a gold-mounted rabbit's foot from John L. Sullivan, and a penholder Bob Fitzsimmons made out of a horseshoe",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตีนกระต่ายนำโชค",
+   "as_th": ""
   },
   {
    "to": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "the tradition it belongs to, and its most-copied object",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "to": "luck-word",
    "type": "term",
    "name": "luck",
    "as": "the word that has replaced protection in most present-day talk about it",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ลัก (luck, โชค)",
+   "as_th": ""
   },
   {
    "to": "edward-lovett",
    "type": "person",
    "name": "Edward Lovett",
    "as": "the collector who recorded it in London and Sussex homes in the 1920s rather than in the past tense",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "เอ็ดเวิร์ด เลิฟเวตต์",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -597,112 +623,144 @@
    "type": "amulet",
    "name": "Corn dolly",
    "as": "a shape it is plaited into — the Suffolk Horseshoe is a corn dolly, not a piece of iron",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตุ๊กตาฟางข้าว (คอร์นดอลลี)",
+   "as_th": ""
   },
   {
    "from": "four-leaf-clover",
    "type": "amulet",
    "name": "Four-leaf clover",
    "as": "the other object whose oldest rule is that it must be found and not bought",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ใบโคลเวอร์สี่แฉก",
+   "as_th": ""
   },
   {
    "from": "hagstone",
    "type": "amulet",
    "name": "Hagstone",
    "as": "the object Edward Lovett found beside it on Sussex bedsteads in 1928, doing the same job against the same night",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "หินรู (แฮกสโตน)",
+   "as_th": ""
   },
   {
    "from": "hex-sign",
    "type": "amulet",
    "name": "Hex sign",
    "as": "the other thing on an American barn, and the one whose protective claim nobody disputes",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เฮ็กซ์ไซน์ (ป้ายดาวบนโรงนา)",
+   "as_th": ""
   },
   {
    "from": "mjolnir-pendant",
    "type": "amulet",
    "name": "Mjölnir pendant",
    "as": "the other iron object northern Europe hangs against harm, and the one that outlived it by a thousand years",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "จี้มโยลเนียร์ (ค้อนธอร์)",
+   "as_th": ""
   },
   {
    "from": "nimbu-mirchi",
    "type": "amulet",
    "name": "Nimbu mirchi",
    "as": "Europe's door-hung answer, nailed above the same opening for a different reason",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "นิมบู มีร์ชี (มะนาวกับพริก)",
+   "as_th": ""
   },
   {
    "from": "rabbits-foot",
    "type": "amulet",
    "name": "Rabbit's foot",
    "as": "the two objects Theodore Roosevelt was given — this from John L. Sullivan, and a penholder Bob Fitzsimmons made out of a shoe",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ตีนกระต่ายนำโชค",
+   "as_th": ""
   },
   {
    "from": "rowan-cross",
    "type": "amulet",
    "name": "Rowan cross",
    "as": "the iron answer to the same door, and the one that stayed up all year",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "กางเขนไม้โรวัน",
+   "as_th": ""
   },
   {
    "from": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "its most-copied object, and the one whose own carriers argue about which way up it goes",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "from": "copper",
    "type": "material",
    "name": "Copper and bronze",
    "as": "bronze before it was iron: the Etruscan tomb of c. 400 BCE and the cast shoes of c. 1000 CE both predate the iron ones",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ทองแดงและสำริด",
+   "as_th": ""
   },
   {
    "from": "iron",
    "type": "material",
    "name": "Iron",
    "as": "the commonest iron charm in Europe, and the one whose rules — used, found, touchable — are all about where the metal came from",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เหล็ก",
+   "as_th": ""
   },
   {
    "from": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "iron nailed over the opening, with an argument about which way up that crossed the Atlantic intact",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "from": "mercado-de-sonora",
    "type": "place",
    "name": "Mercado de Sonora",
    "as": "sold here too — a European charm that crossed and stayed",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ตลาดโซโนรา (เมร์กาโด เด โซโนรา)",
+   "as_th": ""
   },
   {
    "from": "augustus-pitt-rivers",
    "type": "person",
    "name": "Augustus Pitt Rivers",
    "as": "the kind of ordinary English object his scheme put in a case beside its equivalents from everywhere else",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ออกัสตัส พิตต์ ริเวอร์ส",
+   "as_th": ""
   },
   {
    "from": "ward-word",
    "type": "term",
    "name": "ward",
    "as": "the object an English speaker is likeliest to use the verb about — nailed up, it wards",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "วอร์ด (ปัดเป่า)",
+   "as_th": ""
   },
   {
    "from": "lovett-collection",
    "type": "art",
    "name": "The Lovett collection",
    "as": "the street charm he found nailed above more London doors than any other",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "คอลเลกชันของโลเวตต์",
+   "as_th": ""
   }
  ]
 }

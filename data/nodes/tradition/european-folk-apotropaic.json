@@ -5,21 +5,58 @@
  "names": {
   "name": "European folk apotropaic craft",
   "said": "ap-oh-TROH-pay-ik, from Greek apotrepo, 'to turn away'",
-  "aliases": ["European protective folk practice", "household charms of Europe", "cold-iron and threshold craft"]
+  "aliases": [
+   "European protective folk practice",
+   "household charms of Europe",
+   "cold-iron and threshold craft"
+  ],
+  "th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป"
  },
  "etymology": {
   "root": "The label is Greek — apotrepo, 'to turn away' — and it is a scholar's word, not a carrier's. English speakers inside the practice said ward, charm, luck.",
   "note": "Nobody nailing a horseshoe to a barn in Somerset called it apotropaic. The word arrives with the collectors in the 1890s and is applied backwards.",
   "tier": "inference"
  },
- "region": ["britain-ireland", "western-europe", "rome-italy", "iberia", "nordic", "balkans", "baltic-slavic"],
- "countries": ["GB", "IE", "IT", "ES", "DE", "BG", "DK", "LT", "EE", "RU"],
- "facets": {"era": "modern", "status": "living", "restricted": "open", "language": "many", "hemisphere": ["N", "E", "W"]},
+ "region": [
+  "britain-ireland",
+  "western-europe",
+  "rome-italy",
+  "iberia",
+  "nordic",
+  "balkans",
+  "baltic-slavic"
+ ],
+ "countries": [
+  "GB",
+  "IE",
+  "IT",
+  "ES",
+  "DE",
+  "BG",
+  "DK",
+  "LT",
+  "EE",
+  "RU"
+ ],
+ "facets": {
+  "era": "modern",
+  "status": "living",
+  "restricted": "open",
+  "language": "many",
+  "hemisphere": [
+   "N",
+   "E",
+   "W"
+  ]
+ },
  "text": {
   "what": "Protective objects made and kept by European households outside the church's list: iron over a door, a bottle in a hearth, a shoe in a wall, rowan bound with red thread, a cross of rushes in the rafters, a bead against a look. No priesthood, no manual, no initiation. The maker is whoever needs the thing — a farmer, a mother, a blacksmith, a child gathering rushes on 31 January — and most of it is made at home from what the house already holds.",
   "story": "Start at the threshold, because the tradition does. Doorways and windows were held to be where harm gets in, and the answer went on them: grotesque faces cut over oven and kiln doors, gargoyles and sheela na gigs and hunky punks on churches and castles, a horseshoe nailed above a door, an iron knife buried under the entrance, a lantern cut from a turnip or a swede at Samhain. Everything else in this record is a variation on a guarded opening.\n\nIron carries most of the load. Cold iron is recorded across Britain, Ireland and Scandinavia as repelling, containing or harming ghosts, fairies and witches — hence the horseshoe on the door, hence the iron fence round a graveyard, said to hold the dead in rather than keep anything out. The horseshoe is where the tradition's internal disagreements become visible. Points up so the luck does not fall out; points down so it pours onto whoever stands beneath; in some tellings either is fine so long as the shoe was used, was found rather than bought, and can be touched. Where luck attaches to the owner and not the hanger, a stolen or borrowed shoe carries it back to the owner. One reputed origin is the story of St Dunstan, a blacksmith who became Archbishop of Canterbury in 959, nailing a shoe to the Devil's hoof and removing it only on a promise never to enter a house with one over the door.\n\nThe calendar does the rest. On 31 January Irish families gathered rushes; that night the head of the household supervised the weaving of Brigid's crosses; on 1 February they went up in the dwelling, the outhouses and the stables, and a year later they were taken down and burnt or buried, burial preferred because of Brigid's link to agriculture. The practice is first attested in the 17th century and was in decline by the 20th, partly because house renovations left nowhere to hang them. That is an unusually complete account of a folk object: a start date, a decline, and a building-trade reason for it.\n\n*Inference —* the thing that makes this a tradition rather than a pile of customs is the absence of a gate. Every other tradition in this atlas restricts something — a script, a lineage, an initiation, a clan. This one's objects are made by the person who needs them, from rushes, rowan, a worn shoe, a bottle from the kitchen, a stone with a hole in it. That is why its evidence is so lopsided: what survives is what got walled in or thrown down a well, and what was said over it was almost never written.\n\nIt was assembled as a subject late, and by three men buying. Frederick Elworthy published The Evil Eye in 1895 and Horns of Honour in 1900, buying in Spain and Italy as he wrote. Siegfried Seligmann, a German ophthalmologist, put out the two volumes of Der böse Blick und Verwandtes in 1910 and gathered more than 1,500 amulets doing it. Edward Lovett, a bank cashier in the City of London, collected what Londoners were carrying in their pockets — a mole's foot, a dried frog, a blue bead, a caul — and published Magic in Modern London in 1925. *Inference —* the shape of every museum case of European charms follows the shape of those three men's buying, and so, to a degree this atlas cannot measure, does the shape of this record.",
   "how": "Made at home, from the house's own materials, usually at a fixed point in the year or at a moment of threat. Rushes woven on the eve of a feast; rowan cut and bound with red thread; a bottle filled and put under the hearth when the house was built or when somebody suspected a neighbour; a worn shoe pushed into a chimney breast during building work; a horseshoe found in a lane and nailed up. Renewal is annual where the object is vegetable and never where it is iron. Retirement is by fire or by burial, and the choice between them is itself traditional — Irish practice preferred burying a year-old Brigid's cross to burning it.",
   "today": "Alive and mostly unremarked. Horseshoes still go over doors, four-leaf clovers are still looked for, amber necklaces are still sold for teething in Europe and warned against by the American Academy of Pediatrics and the FDA, and Bulgarian martenitsi still go up on 1 March. The objects have largely left the farm for the souvenir shelf, and workshops like those on Via San Gregorio Armeno in Naples supply both at once. Whether a cornicello bought in a Naples lane by a visitor is the same object as one worn by the seller is a live argument with named people on both sides, and this atlas reports it on the object records rather than settling it here."
+ },
+ "text_th": {
+  "what": "วัตถุคุ้มครองที่ครัวเรือนในยุโรปทำและเก็บไว้ นอกรายการของศาสนจักร: เหล็กเหนือประตู ขวดในเตาไฟ รองเท้าในกำแพง กิ่งโรวันมัดด้วยด้ายแดง กางเขนกกบนขื่อหลังคา ลูกปัดกันสายตา ไม่มีนักบวช ไม่มีคู่มือ ไม่มีพิธีรับเข้า ผู้ทำคือใครก็ตามที่ต้องการสิ่งนั้น — ชาวนา แม่ ช่างตีเหล็ก เด็กที่เก็บต้นกกในวันที่ 31 มกราคม — และส่วนใหญ่ทำที่บ้านจากสิ่งที่มีอยู่ในบ้านแล้ว"
  },
  "dating": {
   "period": "Late medieval to the present",
@@ -35,59 +72,233 @@
  },
  "object": {
   "form": "door-piece",
-  "materials": ["iron", "wood", "thread", "glass", "herb", "amber", "leather", "cloth", "silver"],
-  "worn": ["door", "lintel", "hearth", "wall", "roof", "neck", "pocket", "cradle", "foundation"],
+  "materials": [
+   "iron",
+   "wood",
+   "thread",
+   "glass",
+   "herb",
+   "amber",
+   "leather",
+   "cloth",
+   "silver"
+  ],
+  "worn": [
+   "door",
+   "lintel",
+   "hearth",
+   "wall",
+   "roof",
+   "neck",
+   "pocket",
+   "cradle",
+   "foundation"
+  ],
   "made_by": "anybody. This is the tradition's defining fact and the reason it has no restricted block: the sources describe householders, farmers, blacksmiths and children making these things, and name no gate.",
-  "colour": ["red", "iron-grey", "silver"],
+  "colour": [
+   "red",
+   "iron-grey",
+   "silver"
+  ],
   "single_use": false,
   "source": "s:wp-apotropaic-magic",
   "note": "There is no single object. Form and materials here are the commonest cases across the European records in this atlas."
  },
  "against": [
-  {"harm": "witchcraft", "who": "English and Irish households, per the cited survey — grotesque faces cut on churches and castles to frighten off witches, rowan chosen for a chimney post or mantel to discourage it, an iron knife buried under a threshold to keep witches out", "source": "s:wp-apotropaic-magic", "tier": "cited"},
-  {"harm": "spirits", "who": "the cold-iron rule, recorded across Britain, Ireland and Scandinavia: iron repels, contains or harms ghosts, fairies and witches", "source": "s:wp-iron-in-folklore", "tier": "cited"},
-  {"harm": "fire", "who": "Irish households at Imbolc — a Brigid's cross hung in the rafters to bring the saint's blessing and protection for the rest of the year", "source": "s:wp-brigid-s-cross", "tier": "cited"},
-  {"harm": "bad-luck", "who": "Irish households at Samhain, who fixed a 'parshell' of sticks and straw over the doorway against bad luck, illness and witchcraft", "source": "s:wp-apotropaic-magic", "tier": "cited"},
-  {"harm": "evil-eye", "who": "carriers across the Mediterranean, the Balkans and Eastern Europe; Frederick Elworthy assembled the European half of it into one subject in 1895", "source": "s:wp-evil-eye", "tier": "cited"},
-  {"harm": "child-harm", "who": "European households, for whom an amber necklace is a traditional remedy for colic or teething pain — the American Academy of Pediatrics and the FDA have warned strongly against them as a choking and strangulation hazard", "source": "s:wp-amber", "tier": "cited"},
-  {"harm": "livestock", "who": "Irish families, who mounted the crosses in outhouses and stables as well as in the dwelling", "source": "s:wp-brigid-s-cross", "tier": "cited"}
+  {
+   "harm": "witchcraft",
+   "who": "English and Irish households, per the cited survey — grotesque faces cut on churches and castles to frighten off witches, rowan chosen for a chimney post or mantel to discourage it, an iron knife buried under a threshold to keep witches out",
+   "source": "s:wp-apotropaic-magic",
+   "tier": "cited"
+  },
+  {
+   "harm": "spirits",
+   "who": "the cold-iron rule, recorded across Britain, Ireland and Scandinavia: iron repels, contains or harms ghosts, fairies and witches",
+   "source": "s:wp-iron-in-folklore",
+   "tier": "cited"
+  },
+  {
+   "harm": "fire",
+   "who": "Irish households at Imbolc — a Brigid's cross hung in the rafters to bring the saint's blessing and protection for the rest of the year",
+   "source": "s:wp-brigid-s-cross",
+   "tier": "cited"
+  },
+  {
+   "harm": "bad-luck",
+   "who": "Irish households at Samhain, who fixed a 'parshell' of sticks and straw over the doorway against bad luck, illness and witchcraft",
+   "source": "s:wp-apotropaic-magic",
+   "tier": "cited"
+  },
+  {
+   "harm": "evil-eye",
+   "who": "carriers across the Mediterranean, the Balkans and Eastern Europe; Frederick Elworthy assembled the European half of it into one subject in 1895",
+   "source": "s:wp-evil-eye",
+   "tier": "cited"
+  },
+  {
+   "harm": "child-harm",
+   "who": "European households, for whom an amber necklace is a traditional remedy for colic or teething pain — the American Academy of Pediatrics and the FDA have warned strongly against them as a choking and strangulation hazard",
+   "source": "s:wp-amber",
+   "tier": "cited"
+  },
+  {
+   "harm": "livestock",
+   "who": "Irish families, who mounted the crosses in outhouses and stables as well as in the dwelling",
+   "source": "s:wp-brigid-s-cross",
+   "tier": "cited"
+  }
  ],
  "holdings": [
-  {"museum": "pitt-rivers", "what": "the English amulet cases, built largely on Edward Lovett's street collecting", "source": "s:web-prm-amulets-guide"},
-  {"museum": "wellcome", "what": "Lovett material in the Wellcome collection", "source": "s:wp-wellcome-collection"}
+  {
+   "museum": "pitt-rivers",
+   "what": "the English amulet cases, built largely on Edward Lovett's street collecting",
+   "source": "s:web-prm-amulets-guide"
+  },
+  {
+   "museum": "wellcome",
+   "what": "Lovett material in the Wellcome collection",
+   "source": "s:wp-wellcome-collection"
+  }
  ],
  "kin": [
-  {"to": "iron", "as": "the tradition's one near-universal rule: cold iron turns the thing away, and a horseshoe is the cheapest piece of it a house could get", "rel": "material"},
-  {"to": "horseshoe", "as": "its most-copied object, and the one whose own carriers argue about which way up it goes", "rel": "carries"},
-  {"to": "witch-bottle", "as": "its best-documented recipe, and the only one it writes down", "rel": "carries"},
-  {"to": "concealed-shoe", "as": "its most thoroughly counted object — a worn shoe walled into a chimney or a roof, by the thousand, and never explained in writing by anyone who did it", "rel": "carries"},
-  {"to": "brigids-cross", "as": "the calendar half of it: rushes gathered on 31 January, woven that night, hung on 1 February, taken down and burnt or buried a year later", "rel": "carries"},
-  {"to": "hagstone", "as": "the object that shows what the tradition costs — a stone with a hole, found not bought, made by nobody", "rel": "carries"},
-  {"to": "rowan-cross", "as": "its clearest case of a plant used the way iron is used, bound with red thread and kept at a door", "rel": "carries"},
-  {"to": "caul", "as": "its one charm nobody can choose to acquire, and the one with a documented resale market", "rel": "carries"},
-  {"to": "catholic-sacramentals", "as": "the neighbouring tradition, which this one has spent a thousand years borrowing from and being disowned by; a Brigid's cross sits on the line", "rel": "contrast"},
-  {"to": "greco-roman-apotropaic", "as": "the ancient layer underneath, which supplied the word and some of the shapes and none of the households", "rel": "origin"},
-  {"to": "frederick-elworthy", "as": "the man who made this a single subject in English, in 1895, by buying the objects while he wrote about them", "rel": "person"},
-  {"to": "edward-lovett", "as": "the collector who proved it was still alive, by taking a mole's foot and a blue bead off London streets in the 1900s rather than reading about the countryside", "rel": "person"}
+  {
+   "to": "iron",
+   "as": "the tradition's one near-universal rule: cold iron turns the thing away, and a horseshoe is the cheapest piece of it a house could get",
+   "rel": "material"
+  },
+  {
+   "to": "horseshoe",
+   "as": "its most-copied object, and the one whose own carriers argue about which way up it goes",
+   "rel": "carries"
+  },
+  {
+   "to": "witch-bottle",
+   "as": "its best-documented recipe, and the only one it writes down",
+   "rel": "carries"
+  },
+  {
+   "to": "concealed-shoe",
+   "as": "its most thoroughly counted object — a worn shoe walled into a chimney or a roof, by the thousand, and never explained in writing by anyone who did it",
+   "rel": "carries"
+  },
+  {
+   "to": "brigids-cross",
+   "as": "the calendar half of it: rushes gathered on 31 January, woven that night, hung on 1 February, taken down and burnt or buried a year later",
+   "rel": "carries"
+  },
+  {
+   "to": "hagstone",
+   "as": "the object that shows what the tradition costs — a stone with a hole, found not bought, made by nobody",
+   "rel": "carries"
+  },
+  {
+   "to": "rowan-cross",
+   "as": "its clearest case of a plant used the way iron is used, bound with red thread and kept at a door",
+   "rel": "carries"
+  },
+  {
+   "to": "caul",
+   "as": "its one charm nobody can choose to acquire, and the one with a documented resale market",
+   "rel": "carries"
+  },
+  {
+   "to": "catholic-sacramentals",
+   "as": "the neighbouring tradition, which this one has spent a thousand years borrowing from and being disowned by; a Brigid's cross sits on the line",
+   "rel": "contrast"
+  },
+  {
+   "to": "greco-roman-apotropaic",
+   "as": "the ancient layer underneath, which supplied the word and some of the shapes and none of the households",
+   "rel": "origin"
+  },
+  {
+   "to": "frederick-elworthy",
+   "as": "the man who made this a single subject in English, in 1895, by buying the objects while he wrote about them",
+   "rel": "person"
+  },
+  {
+   "to": "edward-lovett",
+   "as": "the collector who proved it was still alive, by taking a mole's foot and a blue bead off London streets in the 1900s rather than reading about the countryside",
+   "rel": "person"
+  }
  ],
  "links": [
-  {"label": "Apotropaic magic — Wikipedia", "url": "https://en.wikipedia.org/wiki/Apotropaic_magic"},
-  {"label": "Iron in folklore — Wikipedia", "url": "https://en.wikipedia.org/wiki/Iron_in_folklore"}
+  {
+   "label": "Apotropaic magic — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Apotropaic_magic"
+  },
+  {
+   "label": "Iron in folklore — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Iron_in_folklore"
+  }
  ],
- "sources": ["s:wp-apotropaic-magic", "s:wp-iron-in-folklore", "s:wp-horseshoe", "s:wp-concealed-shoes", "s:wp-witch-bottle", "s:wp-brigid-s-cross", "s:wp-rowan", "s:wp-corn-dolly", "s:wp-cimaruta", "s:wp-cornicello", "s:wp-hex-sign", "s:wp-amber", "s:wp-four-leaf-clover", "s:wp-martenitsa", "s:web-unesco-march-1", "s:wp-via-san-gregorio-armeno", "s:wp-evil-eye", "s:wp-frederick-thomas-elworthy", "s:wp-edward-lovett", "s:web-siegfried-seligmann-dewiki", "s:wp-pitt-rivers-museum", "s:web-prm-amulets-guide", "s:wp-wellcome-collection", "s:wp-british-folklore"],
+ "sources": [
+  "s:wp-apotropaic-magic",
+  "s:wp-iron-in-folklore",
+  "s:wp-horseshoe",
+  "s:wp-concealed-shoes",
+  "s:wp-witch-bottle",
+  "s:wp-brigid-s-cross",
+  "s:wp-rowan",
+  "s:wp-corn-dolly",
+  "s:wp-cimaruta",
+  "s:wp-cornicello",
+  "s:wp-hex-sign",
+  "s:wp-amber",
+  "s:wp-four-leaf-clover",
+  "s:wp-martenitsa",
+  "s:web-unesco-march-1",
+  "s:wp-via-san-gregorio-armeno",
+  "s:wp-evil-eye",
+  "s:wp-frederick-thomas-elworthy",
+  "s:wp-edward-lovett",
+  "s:web-siegfried-seligmann-dewiki",
+  "s:wp-pitt-rivers-museum",
+  "s:web-prm-amulets-guide",
+  "s:wp-wellcome-collection",
+  "s:wp-british-folklore"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-apotropaic-magic"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-apotropaic-magic"
+  },
   "fields": {
-   "etymology": {"tier": "inference", "note": "the point that the word is the collectors' and not the carriers' is this project's, reasoned from the dates of the sources"},
-   "text.story": {"tier": "cited", "source": "s:wp-apotropaic-magic", "note": "two stretches are marked inference where they appear: the argument about the missing gate, and the point about collector-shaped evidence"},
-   "text.today": {"tier": "cited", "source": "s:wp-amber", "note": "the present-tense claims here are each carried by a named source — amber and the FDA warning, the martenitsa date, the Naples workshops; no market survey stands behind the word 'unremarked', which is this project's"},
-   "dating": {"tier": "cited", "source": "s:wp-concealed-shoes", "note": "the start is the earliest dated object in this atlas's European records, stated as a floor in the note"},
-   "object": {"tier": "inference", "note": "no single object; the fields are the commonest cases across the European records, not a published composite"},
-   "countries": {"tier": "cited", "note": "each is named in a source read here: Britain and Ireland throughout, Italy for the cimaruta and cornicello, Spain for Elworthy's buying, Denmark, Lithuania and Estonia for the horseshoe, Bulgaria for the martenitsa, Germany for Seligmann's survey, Russia for the ladanka"}
+   "etymology": {
+    "tier": "inference",
+    "note": "the point that the word is the collectors' and not the carriers' is this project's, reasoned from the dates of the sources"
+   },
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-apotropaic-magic",
+    "note": "two stretches are marked inference where they appear: the argument about the missing gate, and the point about collector-shaped evidence"
+   },
+   "text.today": {
+    "tier": "cited",
+    "source": "s:wp-amber",
+    "note": "the present-tense claims here are each carried by a named source — amber and the FDA warning, the martenitsa date, the Naples workshops; no market survey stands behind the word 'unremarked', which is this project's"
+   },
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-concealed-shoes",
+    "note": "the start is the earliest dated object in this atlas's European records, stated as a floor in the note"
+   },
+   "object": {
+    "tier": "inference",
+    "note": "no single object; the fields are the commonest cases across the European records, not a published composite"
+   },
+   "countries": {
+    "tier": "cited",
+    "note": "each is named in a source read here: Britain and Ireland throughout, Italy for the cimaruta and cornicello, Spain for Elworthy's buying, Denmark, Lithuania and Estonia for the horseshoe, Bulgaria for the martenitsa, Germany for Seligmann's survey, Russia for the ladanka"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Horseshoe on a door.jpg", "File:Brigid's cross.jpg", "File:Witch bottle Museum of London.jpg"],
+ "x_commons_files": [
+  "File:Horseshoe on a door.jpg",
+  "File:Brigid's cross.jpg",
+  "File:Witch bottle Museum of London.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-17"
 }

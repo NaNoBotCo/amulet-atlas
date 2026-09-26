@@ -14,7 +14,8 @@
    "phone dangler",
    "phone lanyard",
    "phone chain"
-  ]
+  ],
+  "th": "สายห้อยมือถือ"
  },
  "etymology": {
   "root": "Japanese 携帯 keitai, 'portable', used on its own for a mobile phone, plus English strap borrowed as ストラップ sutorappu",
@@ -52,6 +53,9 @@
   "story": "This started as a safety feature and turned into a charm rack, and the sequence is documented.\n\nThe Japanese account gives the mechanism first: handsets carried a ストラップホール, a strap hole, and a thin loop was passed through it. One explanation it records for why straps spread in Japan is the Product Liability Law of 1995: carriers told users to put a hand through the strap so the phone would not be dropped. 落下防止 — fall prevention. That is a claim about gravity, and it is the only claim in this record that nobody argues with.\n\nThen the hole filled up. By the late 1990s and early 2000s, hanging ten or more straps at once was a fashion among young people in Japan, to the point where the straps could outweigh the phone. The English account says phone charms \"first originated in Japan and later in the United States\", and spread from there to the United Kingdom and Ireland. When the iPhone 3GS arrived in 2008 without an attachment slot, a Korean company answered with hanging charms fixed by screws. The British designer Anya Hindmarch put charms into a collection called Pimp Your Phones in 2018.\n\nWhat gets hung there is the reason this object is in an amulet atlas rather than an accessories one. Omamori — the brocade pouches Japanese shrines and temples issue, with a prayer or an invocation sealed inside and a rule against opening them — are, in the cited account's words, \"often spotted on bags, hung on cellphone straps, in cars, etc.\" The shrine's range is specific about what each is for: kōtsū-anzen for traffic safety, gakugyō-jōju for passing examinations, en-musubi for finding a partner, anzan for a safe delivery, shōbai-hanjō for business. Dazaifu Tenmangū sells a keychain amulet for safe travel and a bracelet amulet, which is the same shift in fastening. *Inference —* a charm designed to be tied to something found a phone waiting with a hole already drilled in it, and the reason there was a hole had nothing to do with the charm.\n\nThe argument attached to this object is the usual one and the shrines are on record in it. The cited account notes that when demand outruns what a shrine can make, popular shrines and temples turn to factories, and that \"priests have been known to complain about the quality and authenticity of the products made by factories\". It also records the other end: generic omamori sold in ordinary Japanese shops with Mickey Mouse, Hello Kitty, Snoopy or Kewpie on them, issued by no shrine and typically not spiritual in nature. That is two named positions, and this atlas reports both and settles neither.\n\n*Inference —* the strap is also the clearest case in this atlas of a charm losing its mounting. The flip phone had a hole; the slab phone mostly does not, and the workarounds — the jack plug, the screw, the case with a loop moulded in — are all later inventions answering the same problem. What happens to a carried charm when the thing it was tied to changes shape is a question this collection will keep meeting.",
   "how": "Bought at a phone shop, a shrine office, a souvenir counter, a convenience store, or given away with a drink or as promotional merchandise. Attached with a cow-hitch or lark's-head knot through the strap hole, or by whatever adapter the handset forces. An omamori on a strap follows the omamori rules: not opened, replaced about once a year, returned to the shrine it came from to be burnt. A character strap follows no rules at all.",
   "today": "Still sold in 2026, and still standard on Japanese shrine counters, where the strap format is one of several the same prayer is sold in. No dated price was read for this record, and neither the Japanese nor the English account this project read publishes a market figure."
+ },
+ "text_th": {
+  "what": "ตุ๊กตาตัวเล็ก ลูกปัด พู่ หรือถุงผ้าไหมยกดอก ห้อยกับเชือกเส้นเล็ก ผูกด้วยเงื่อนผูกวัว (lark's head) ผ่านรูบนโทรศัพท์หรือเคส ถ้าเครื่องไม่มีรู ก็ใช้จุกซิลิโคนเสียบช่องเสียบ ตะขอก้ามปู ห่วงสลัก หรือสายคล้อง เชือกคือตัววัตถุ สิ่งที่ห้อยอยู่ปลายเชือกเปลี่ยนได้"
  },
  "dating": {
   "period": "the mobile phone era",
@@ -276,70 +280,90 @@
    "type": "amulet",
    "name": "Omamori",
    "as": "the thing most often on the end of the cord in Japan, carrying its own rules about not being opened",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "exam-charm",
    "type": "amulet",
    "name": "Exam charm",
    "as": "the variety a student hangs there in January, and the one with a chocolate bar attached to it",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เครื่องรางสอบผ่าน (โกกากุ คิกัง)",
+   "as_th": ""
   },
   {
    "to": "maneki-neko",
    "type": "amulet",
    "name": "Maneki-neko",
    "as": "one of the figures the strap trade shrank to thumb size, and the shop-counter original it came from",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "แมวกวัก (มาเนกิเนโกะ)",
+   "as_th": ""
   },
   {
    "to": "daruma",
    "type": "amulet",
    "name": "Daruma",
    "as": "another, and the other Japanese object that is bought small as a souvenir and large as a vow",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ดารุมะ",
+   "as_th": ""
   },
   {
    "to": "evil-eye-bracelet",
    "type": "amulet",
    "name": "Evil eye bracelet",
    "as": "the other charm in this atlas whose cited worn-list already includes a phone",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สร้อยข้อมือนาซาร์ (ลูกปัดตากันตาร้าย)",
+   "as_th": ""
   },
   {
    "to": "worry-stone",
    "type": "amulet",
    "name": "Worry stone",
    "as": "the other thing in a modern pocket that gets touched all day without being looked at",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "หินคลายกังวล",
+   "as_th": ""
   },
   {
    "to": "car-saint",
    "type": "amulet",
    "name": "Car saint",
    "as": "what hangs from the mirror where this hangs from the handset, doing the same job from the next surface over",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "นักบุญประจำรถ (เหรียญนักบุญคริสโตเฟอร์)",
+   "as_th": ""
   },
   {
    "to": "knotting",
    "type": "practice",
    "name": "Knotting",
    "as": "the practice that attaches it — a lark's head through a drilled hole, which is the oldest technique in this record",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การผูกปม",
+   "as_th": ""
   },
   {
    "to": "the-charm-goes-digital",
    "type": "story",
    "name": "The charm goes digital",
    "as": "the long read this is the hinge of: the charm did not go into the phone, it was tied to the outside of it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เครื่องรางในโลกดิจิทัล",
+   "as_th": ""
   },
   {
    "to": "senso-ji",
    "type": "place",
    "name": "Sensō-ji",
    "as": "one temple where the strap format sits on the counter beside every other format of the same prayer",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "วัดเซนโซจิ",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -517,28 +541,36 @@
    "type": "amulet",
    "name": "Exam charm",
    "as": "where a student's omamori actually hangs — the cited account says they are often spotted on cellphone straps",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เครื่องรางสอบผ่าน (โกกากุ คิกัง)",
+   "as_th": ""
   },
   {
    "from": "omamori",
    "type": "amulet",
    "name": "Omamori",
    "as": "where most of them now hang, which is the modern answer to 'worn at the neck'",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "worry-stone",
    "type": "amulet",
    "name": "Worry stone",
    "as": "the other thing in a modern pocket that gets touched all day without being looked at",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "หินคลายกังวล",
+   "as_th": ""
   },
   {
    "from": "the-charm-goes-digital",
    "type": "story",
    "name": "The charm goes digital",
    "as": "the physical charm hung on the device — the step before the charm moves onto the screen",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เครื่องรางในโลกดิจิทัล",
+   "as_th": "เครื่องรางจริงที่ห้อยไว้กับตัวเครื่อง ขั้นก่อนที่เครื่องรางจะย้ายเข้าไปอยู่บนหน้าจอ"
   }
  ]
 }

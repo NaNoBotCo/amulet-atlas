@@ -8,7 +8,8 @@
    "concealed objects",
    "spiritual middens",
    "what builders find"
-  ]
+  ],
+  "th": "เครื่องรางในกำแพง"
  },
  "region": [
   "britain-ireland",
@@ -33,6 +34,9 @@
  },
  "text": {
   "what": "A whole class of amulet was never meant to be seen again. It goes up a chimney, under a floor, above a ceiling, into a roof void, beside a door frame, or into a pit cut before the first course of brick. Nobody wore it, nobody showed it, and its owners took trouble to make sure nobody found it. What we have instead is a record produced by demolition: every count in this record is a count of buildings that came apart, and the practice that made these objects is measured by the rate at which other people knock houses down."
+ },
+ "text_th": {
+  "what": "เครื่องรางทั้งประเภทหนึ่งไม่เคยมีไว้ให้ใครเห็นอีก มันขึ้นไปอยู่ในปล่องไฟ ใต้พื้น เหนือเพดาน ในช่องใต้หลังคา ข้างวงกบประตู หรือในหลุมที่ขุดไว้ก่อนก่ออิฐแถวแรก ไม่มีใครสวม ไม่มีใครอวด และเจ้าของยังลงแรงเพื่อให้แน่ใจว่าไม่มีใครพบ สิ่งที่เรามีแทนคือบันทึกที่เกิดจากการรื้อถอน: ทุกตัวเลขในรายการนี้คือจำนวนอาคารที่ถูกรื้อลง และธรรมเนียมที่สร้างวัตถุเหล่านี้ถูกวัดด้วยอัตราที่คนอื่นทุบบ้านทิ้ง"
  },
  "sections": [
   {
@@ -216,70 +220,90 @@
    "type": "amulet",
    "name": "Concealed shoe",
    "as": "the object the Northampton index counts, and the reason half the numbers in this record exist at all",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "รองเท้าซ่อนในบ้าน",
+   "as_th": ""
   },
   {
    "to": "witch-bottle",
    "type": "amulet",
    "name": "Witch bottle",
    "as": "the other common deposit, and the only one whose contents have been through a laboratory",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ขวดแม่มด",
+   "as_th": ""
   },
   {
    "to": "foundation-deposit",
    "type": "practice",
    "name": "Foundation deposit",
    "as": "the practice under all of it: an object placed where nobody is meant to look again",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ของฝังใต้ฐานรากอาคาร",
+   "as_th": ""
   },
   {
    "to": "wearing-hidden",
    "type": "practice",
    "name": "Wearing hidden",
    "as": "the same logic on a body instead of in a wall — a charm that works by not being seen",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การสวมเครื่องรางแบบซ่อน",
+   "as_th": ""
   },
   {
    "to": "burying",
    "type": "practice",
    "name": "Burying",
    "as": "the act itself, which in this class is not disposal but installation",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การฝัง",
+   "as_th": ""
   },
   {
    "to": "incantation-bowl",
    "type": "amulet",
    "name": "Incantation bowl",
    "as": "Mesopotamia's version, buried face down under a threshold",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ชามคาถา",
+   "as_th": ""
   },
   {
    "to": "curse-tablet",
    "type": "amulet",
    "name": "Curse tablet",
    "as": "the deposit aimed at somebody rather than for them, put in the same kinds of hole",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "แผ่นคำสาป (คาตาเดสมอส)",
+   "as_th": ""
   },
   {
    "to": "iron",
    "type": "material",
    "name": "Iron",
    "as": "what the bottles are filled with — pins, needles and nails, the metal the tradition trusts",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เหล็ก",
+   "as_th": ""
   },
   {
    "to": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "the tradition both British classes belong to",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "to": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "the visible answer to the same fear: the horseshoe over the door, where the bottle goes under it",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -408,35 +432,45 @@
    "type": "amulet",
    "name": "Concealed shoe",
    "as": "the long read this record is the backbone of: 1,900 indexed finds and nobody's word for why",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "รองเท้าซ่อนในบ้าน",
+   "as_th": ""
   },
   {
    "from": "djed-pillar",
    "type": "amulet",
    "name": "Djed pillar",
    "as": "the long read on charms built into structures — and the raised djed is the largest one Egypt built",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "เสาเจด",
+   "as_th": ""
   },
   {
    "from": "witch-bottle",
    "type": "amulet",
    "name": "Witch bottle",
    "as": "the long read about objects built into houses, which begins with this bottle and the shoe beside it",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ขวดแม่มด",
+   "as_th": ""
   },
   {
    "from": "burying",
    "type": "practice",
    "name": "Burying",
    "as": "the long read that follows what builders find when they take a house apart",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การฝัง",
+   "as_th": ""
   },
   {
    "from": "foundation-deposit",
    "type": "practice",
    "name": "Foundation deposit",
    "as": "the long read about what comes out of houses during renovation",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ของฝังใต้ฐานรากอาคาร",
+   "as_th": ""
   }
  ]
 }

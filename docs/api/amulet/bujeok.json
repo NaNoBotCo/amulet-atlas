@@ -12,7 +12,8 @@
    "pujŏk",
    "符籍",
    "Korean paper talisman"
-  ]
+  ],
+  "th": "บูจอก (ยันต์กระดาษเกาหลี)"
  },
  "etymology": {
   "root": "Korean 부적, from Sino-Korean 符籍 — fu, a tally or talismanic mark, plus a register; the same fu that stands at the head of the Chinese fulu",
@@ -41,6 +42,9 @@
   "story": "Bujeok descend from fulu, the Daoist talismanic script of China — the same stock that produced Japan's ofuda. Fulu are described by their own scholars as deliberately hard to read: Yang Zhaohua notes that the earliest Taoist talismans were simple and legible and that later ones became cryptic to signal their divinity, and Ge Zhaoguang of Fudan University calls their unreadability a linguistic archaism designed so that only qualified clergy can produce them. A bujeok inherits that logic in Hanja.\n\nWho draws one matters more than what is on it. Mudang — the majority of them women — are the specialists of Musok, and they hand these out to the people who attended a gut, the large rite that is their central work, at the end of it. Korean vernacular religion also runs ritual specialists who divine and make amulets without performing gut at all.\n\nThe practice has been under pressure for six hundred years and is still here. Under the Joseon dynasty Confucian elites taxed and prosecuted the mudang: they were one of eight outcast groups expelled from the capital, the Gyeonggukdaejeon prescribed a hundred public lashes for anyone who supported them, a mudang was beheaded in 1398, and the Jeju governor Yi Hyŏngsang purged the island's simbang in 1702, destroying 129 shrines. The ritual taxes ran until the Kabo reforms of 1895. In 1896 police arrested mudang, pulled down shrines and burnt their equipment. Suppression continued in the mid-twentieth century through Syngman Rhee's New Life Movement and Park Chung Hee's Saemaul Undong, with a surge of police action against mudang in the 1970s.\n\nThen it turned. From the late 1970s the mudang were re-read as carriers of Korean cultural identity, several were tied to the minjung pro-democracy movement, and from the 1980s the South Korean government designated certain mudang Human Cultural Treasures. By 2009 ten regional gut styles were on the national intangible heritage register, and one of them — the Yŏngdŭng gut of Ch'ilmŏri Shrine on Jeju — went onto UNESCO's Representative List that year. Disapproval has not gone away: the anthropologist Chongho Kim's account and the survey this record draws on both record that mudang are still widely regarded in South Korea as charlatans, Christians especially.",
   "how": "Drawn by a mudang, in figures built from Hanja. Distributed to those present at the end of a gut, or made on commission. Then either sealed into a small brocade bag and kept on the body, or pasted up on the inside wall of a house. This project has read no published account of the drawing itself — what is used, in what order, with what said over it — and prints none.",
   "today": "South Korea holds over 200,000 mudang as of the survey this record draws on, and practitioners work abroad as well. Mudang have advertised on the internet since the 1990s and have been steadily visible on South Korean television since the 2010s, which has improved their standing. Paper talismans are sold in tourist and antique districts too, Insadong among them."
+ },
+ "text_th": {
+  "what": "ยันต์กระดาษที่มูดัง (mudang) ผู้ประกอบพิธีในศาสนาพื้นบ้านของเกาหลีเป็นผู้วาด รูปบนยันต์สร้างจากอักษรฮันจา (Hanja) คืออักษรจีนแบบที่ใช้ในเกาหลี นำมาดัดเป็นรูปทรงที่ไม่ใช่การเขียนหนังสือตามปกติ ยันต์นี้ใช้ได้สองทาง คือพับใส่ถุงผ้าไหมยกดอกใบเล็กแล้วพกติดตัว หรือแปะไว้บนผนังด้านในบ้านของผู้มาขอ"
  },
  "dating": {
   "period": "Goryeo to the present",
@@ -212,70 +216,90 @@
    "type": "tradition",
    "name": "Bujeok craft",
    "as": "the tradition that makes it, and the six centuries of state pressure it survived",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "บูจ็อก (ศาสตร์ยันต์เกาหลี)",
+   "as_th": ""
   },
   {
    "to": "fu-talisman",
    "type": "amulet",
    "name": "Fu talisman",
    "as": "the Chinese Daoist ancestor — the same illegible-on-purpose script, one border north",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "the Japanese sibling out of the same fulu stock, printed with a shrine seal where this is drawn by hand",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "omamori",
    "type": "amulet",
    "name": "Omamori",
    "as": "Japan's pouch charm, which this matches move for move: a paper inside a small brocade bag, carried and not opened",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "the craft the script comes from, where the unreadability is the point",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "dolhareubang",
    "type": "amulet",
    "name": "Dol hareubang",
    "as": "the other Korean guard in this atlas — that one stone and fixed at a gate, this one paper and pasted on an inside wall",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ทลฮารึบัง (รูปปู่หิน)",
+   "as_th": ""
   },
   {
    "to": "insadong",
    "type": "place",
    "name": "Insa-dong",
    "as": "the Seoul district where paper talismans reach a buyer through the antique and craft trade rather than through a rite",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "อินซาดง",
+   "as_th": ""
   },
   {
    "to": "inscribing",
    "type": "practice",
    "name": "Inscribing",
    "as": "the act that makes it: Hanja pushed out of legibility into a figure",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การลงอักขระ",
+   "as_th": ""
   },
   {
    "to": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "the half of its use that never leaves the house, pasted to an interior wall after a gut",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "to": "unesco-ich",
    "type": "org",
    "name": "UNESCO Intangible Cultural Heritage",
    "as": "the body that listed the Jeju Yŏngdŭng gut in 2009, one of the rites these talismans are handed out at the end of",
-   "rel": "org"
+   "rel": "org",
+   "name_th": "มรดกทางวัฒนธรรมที่จับต้องไม่ได้ของยูเนสโก",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -430,77 +454,99 @@
    "type": "amulet",
    "name": "Dol hareubang",
    "as": "the other Korean guard in this atlas — paper, portable, and drawn by a mudang, where this is basalt and does not move",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ทลฮารึบัง (รูปปู่หิน)",
+   "as_th": ""
   },
   {
    "from": "exam-charm",
    "type": "amulet",
    "name": "Exam charm",
    "as": "the Korean written talisman, made by a specialist where the exam gift is made by a confectioner",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เครื่องรางสอบผ่าน (โกกากุ คิกัง)",
+   "as_th": ""
   },
   {
    "from": "fu-talisman",
    "type": "amulet",
    "name": "Fu talisman",
    "as": "the Korean descendant, taken up by Korean shamanism",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "the Korean cousin out of the same Daoist stock, drawn from Hanja rather than printed with a shrine seal",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "omamori",
    "type": "amulet",
    "name": "Omamori",
    "as": "Korea's paper charm carried in a small brocade bag — the same solution to the same problem, one sea away",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โอมาโมริ (เครื่องรางญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "ping-an-fu",
    "type": "amulet",
    "name": "Ping'an fu",
    "as": "the Korean paper charm from the same root, and the third of the three",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ผิงอันฝู (ยันต์ขอความสงบสุข)",
+   "as_th": ""
   },
   {
    "from": "korean-bujeok-craft",
    "type": "tradition",
    "name": "Bujeok craft",
    "as": "the object itself — handed out at the end of a rite and pinned to an inside wall, not bought at a gate",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "บูจ็อก (ศาสตร์ยันต์เกาหลี)",
+   "as_th": ""
   },
   {
    "from": "bell",
    "type": "motif",
    "name": "The bell",
    "as": "the Korean written charm made in the same tradition as the bells, by the same practitioners",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กระดิ่ง",
+   "as_th": ""
   },
   {
    "from": "paper",
    "type": "material",
    "name": "Paper",
    "as": "the Korean paper talisman, carried inside a small brocade bag",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กระดาษ",
+   "as_th": ""
   },
   {
    "from": "insadong",
    "type": "place",
    "name": "Insa-dong",
    "as": "the Korean written charm — made by a mudang, not sold over a counter; this district supplies the paper and ink it is drawn with",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "อินซาดง",
+   "as_th": ""
   },
   {
    "from": "fu-word",
    "type": "term",
    "name": "fu",
    "as": "the Korean descendant of the same script, kept in a small brocade bag",
-   "rel": "descendant"
+   "rel": "descendant",
+   "name_th": "ฝู (福)",
+   "as_th": ""
   }
  ]
 }

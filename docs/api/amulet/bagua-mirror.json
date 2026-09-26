@@ -12,7 +12,8 @@
    "Pa Kua mirror",
    "eight trigram mirror",
    "feng shui mirror"
-  ]
+  ],
+  "th": "กระจกปากั้ว (กระจกแปดทิศ)"
  },
  "etymology": {
   "root": "Chinese 八卦 bāguà, 'eight trigrams', + 鏡 jìng, 'mirror'",
@@ -43,6 +44,9 @@
   "story": "The thing it answers is a direction, not a person. In feng shui, sharp corners of neighbouring buildings and an open road running at a house count as sources of poison-arrows — Sha Qi, 煞氣 — and a bagua mirror is hung to deal with the arrow rather than the archer. A flat mirror is held to reflect it, a convex one to disperse it, a concave one to converge or absorb it, and so to alter the feng shui of the residence.\n\nModern bagua mirrors are described as evolved from ancient bronze-cast versions used by Taoist masters to perform Mirror Techniques, 鏡術, said to reveal or destroy evil spirits, or even to overcome natural calamities. The household version is the cheap end of that: an inexpensive, often self-administered quick fix to a specific feng shui concern.\n\nWhich is exactly where the trouble is. Whatever the mirror sends back goes in the direction the mirror faces, so pointing one at a neighbour's home is generally considered offensive and is a feng shui taboo — and the do-it-yourself nature of the object makes it easy to misuse for a private vendetta. Conflicts caused by offensive installations are well known in dense Chinese communities such as Hong Kong, and feng shui mirror feuds have been parodied in popular culture. *Inference —* this is one of the few charms in this atlas whose recorded quarrels are between neighbours rather than between believers and sceptics; the argument is not whether it works but where it is aimed.",
   "how": "Bought ready-made and mounted by the householder, above a door or a window, facing the corner or the road that is the problem. No consecration is described in the source read, and no specialist is required — which is the difference between this and the bronze mirrors of the Taoist masters it is said to descend from.",
   "today": "Sold in hardware shops, feng shui shops and online across the Chinese-speaking world as of 2026, in plastic and wood as often as in metal. A mirror over a doorway is also read by neighbours, which is why some cities treat their appearance as news."
+ },
+ "text_th": {
+  "what": "แผ่นแปดเหลี่ยมหรือแผ่นกลม มีสัญลักษณ์ปากั้วทั้งแปด (ไตรแกรม) เรียงอยู่รอบกระจกที่อยู่ตรงกลาง กระจกอาจเป็นกระจกเรียบ กระจกนูน หรือกระจกเว้า และชนิดของกระจกเป็นตัวกำหนดว่าวัตถุนี้อ้างว่าทำหน้าที่อะไร มักขันสกรูหรือแขวนไว้เหนือประตูหน้าบ้านหรือหน้าต่าง โดยหันออกด้านนอก รูปร่างคล้ายหลัวผาน (luopan) ซึ่งเป็นเข็มทิศฮวงจุ้ย แต่มันไม่ใช่เครื่องมือ — ไม่มีการอ่านค่าใด ๆ จากมัน"
  },
  "dating": {
   "period": "descended from bronze Taoist mirrors; the household form is modern and undated in the source",
@@ -201,63 +205,81 @@
    "type": "motif",
    "name": "The mirror",
    "as": "the sign family it belongs to: a surface that sends a thing back where it came from",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "กระจก",
+   "as_th": ""
   },
   {
    "to": "toli-mirror",
    "type": "amulet",
    "name": "Toli",
    "as": "the steppe cousin — a metal mirror worn on a shaman's body as armour, where this one is bolted to a building",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โตลี (กระจกของชามาน)",
+   "as_th": ""
   },
   {
    "to": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "the tradition behind the Taoist mirror techniques it is said to descend from",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "charm-coin",
    "type": "amulet",
    "name": "Chinese charm coin",
    "as": "the pocket-sized carrier of the same eight trigrams, cast in bronze",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เหรียญเครื่องรางจีน (เอี้ยนเซิ่งเฉียน)",
+   "as_th": ""
   },
   {
    "to": "fu-talisman",
    "type": "amulet",
    "name": "Fu talisman",
    "as": "the written remedy at the same doorway, where this is the optical one",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "to": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "the practice: a charm fixed to a building, aimed outward, guarding a threshold and not a body",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "to": "hex-sign",
    "type": "amulet",
    "name": "Hex sign",
    "as": "Pennsylvania's painted answer on the same part of a building, argued over in the same way",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เฮ็กซ์ไซน์ (ป้ายดาวบนโรงนา)",
+   "as_th": ""
   },
   {
    "to": "nazar",
    "type": "amulet",
    "name": "Nazar",
    "as": "the other thing hung facing out over a door, which answers a look rather than a corner",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "to": "ping-an-fu",
    "type": "amulet",
    "name": "Ping'an fu",
    "as": "the portable Taiwanese charm for the same household, renewed yearly while this stays up",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ผิงอันฝู (ยันต์ขอความสงบสุข)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -428,70 +450,90 @@
    "type": "amulet",
    "name": "Chinese charm coin",
    "as": "the other object that puts the eight trigrams to work, on a wall rather than in a pocket",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เหรียญเครื่องรางจีน (เอี้ยนเซิ่งเฉียน)",
+   "as_th": ""
   },
   {
    "from": "fu-talisman",
    "type": "amulet",
    "name": "Fu talisman",
    "as": "the other Taoist fixture at a doorway, working by reflection where this works by writing",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ยันต์ฮู้ (ฝูลู่ ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "hex-sign",
    "type": "amulet",
    "name": "Hex sign",
    "as": "the other painted geometric disc in this atlas fixed to the outside of a building, and a useful comparison because nobody argues about what that one is for",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เฮ็กซ์ไซน์ (ป้ายดาวบนโรงนา)",
+   "as_th": ""
   },
   {
    "from": "ping-an-fu",
    "type": "amulet",
    "name": "Ping'an fu",
    "as": "the fixed version at the same door: this one rides in a pocket, that one is screwed above the lintel",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ผิงอันฝู (ยันต์ขอความสงบสุข)",
+   "as_th": ""
   },
   {
    "from": "toli-mirror",
    "type": "amulet",
    "name": "Toli",
    "as": "the Chinese neighbour doing the same optical job from a doorway, on a building rather than on a body",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "โตลี (กระจกของชามาน)",
+   "as_th": ""
   },
   {
    "from": "chinese-fu-craft",
    "type": "tradition",
    "name": "Fulu — Taoist talismanic craft",
    "as": "the door-piece whose techniques the tradition is credited with, and the one household object here that works by reflection rather than by writing",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ฝูลู่ (ศาสตร์ยันต์เต๋า)",
+   "as_th": ""
   },
   {
    "from": "coin-square",
    "type": "motif",
    "name": "The square hole",
    "as": "hung on the same walls and sold from the same shelf, and appearing on lock charms as a design",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "รูสี่เหลี่ยม",
+   "as_th": ""
   },
   {
    "from": "mirror-sign",
    "type": "motif",
    "name": "The mirror",
    "as": "the Chinese object itself — trigrams round a disc, fixed above a door",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กระจก",
+   "as_th": ""
   },
   {
    "from": "hanging-at-door",
    "type": "practice",
    "name": "Hanging at the door",
    "as": "the Chinese door fitting that answers the same question about what arrives at an entrance",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "การแขวนไว้ที่ประตู",
+   "as_th": ""
   },
   {
    "from": "the-eye-everywhere",
    "type": "story",
    "name": "The eye everywhere",
    "as": "the case this read declines to claim: a parallel with no documented line back to Sumeria",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ดวงตาทุกหนแห่ง",
+   "as_th": ""
   }
  ]
 }

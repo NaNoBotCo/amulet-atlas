@@ -12,7 +12,8 @@
    "Thai amulet craft",
    "saiyasat",
    "Thai protective craft"
-  ]
+  ],
+  "th": "วิชา"
  },
  "etymology": {
   "root": "Thai wicha, 'knowledge, subject, learned craft', from Sanskrit vidyā through Pali vijjā — the same root as the yantra word the practice inscribes",
@@ -43,6 +44,30 @@
   "story": "The tablets come first and they are older than the idea of a charm. Buddhism reached what is now Thailand in the Dvaravati period carrying India's votive-tablet practice, and Dvaravati tablets were made to perpetuate the religion. Under Srivijaya and Mahayana influence, tablets were pressed to dedicate merit to the dead and toward becoming a bodhisattva. By Ayutthaya they were being made for protection, and warriors carried them into battle in place of the phrajiat, the takrut or a herbal charm. In the early Rattanakosin period the protective amulet took off, the class acquired the name phra khrueang, and temples began using them to raise funds — a monk would give one as a gift in return for a donation. The term 'amulet' in this sense first appears under King Rama IV.\n\nTakrut are older than Thai Buddhism in the sources' own account. They are the form the Khun Chang Khun Phaen epic mentions most, and after Buddhism took root monks were making them in 1200–1300 CE. The tattoo comes from the other direction: sak yant originates in the Khmer Empire around the ninth century, built on mainland Southeast Asian animist tattooing that the sources run back as far as 2,500 BCE, with the geometry drawn from Indian yantras. Cambodia writes them in Khmer script, central Thailand in Khom, northern Thailand in Shan, Northern Thai or Tai Lu, Laos in Lao Tham.\n\nThe craft states its own rules and they run on the bearer, not the object. A yant confers what it confers only while the person carrying it observes the taboos taken on with it — abstaining from a named food is the example the source gives. Break them and it stops. Three classes of effect are named: one that works on the bearer, making them more eloquent; one that protects, taken by soldiers, police, taxi drivers and people in trades they count as dangerous; one that works on everyone else, invoking fear.\n\nAnd there is a live economy with dated figures. In 1987 a policeman, Khun Phantharak Rajjadej, created the Jatukham Rammathep amulet for the founding of Nakhon Si Thammarat's city pillar; it names two Srivijaya princes the city holds to be its guardians, is round, and runs about 5 cm across. It caught on in the early 2000s, hard, from the time of its creator's funeral on 5 July 2006 into mid-2007. As many as 150 series were planned for production in 2007, and the market for that one amulet reached twenty billion baht that year. In late 2007 the bubble burst: the popularity faded fast, leaving plenty of stock that could be had at low prices. The source gives no figure for what the collapse cost anybody, so none is given here.\n\nThe other prices are collectors' prices and carry what their source carries. The Benja Phakhi — Phra Somdej, Phra Rod, Phra Nang Phaya, Phra Phong Suphan, Phra Sum Kor — are valued at over 10 million baht, with no year attached in the source, so none is printed. A Phra Somdet Jitlada, one of no more than 3,000 made by King Bhumibol and awarded between 1965 and 1970 with a numbered certificate naming its recipient, was worth at least two million baht as of 2013.\n\n*Inference —* the argument about whether this is devotion or trade is Thai, conducted in Thai, and older than any foreign observer's version of it. The atlas reports both halves: temples have funded themselves this way since the early Rattanakosin period and say so plainly, and a market that can move twenty billion baht in twelve months behaves like a market. Neither half is a debunking of the other.",
   "how": "Amulets are pressed from plaster, metal, wood or bone, often with ash, a monk's hair or temple relics mixed in, then chanted over and blessed in a process that can take from a week to several years, and usually cased before wear. Takrut are inscribed with yant in Khom, Lan Na Tai Tham or another script, rolled into a tube, cased, and tied to the body — at the neck, at chest level, at the waist, or over a body part the wearer wants covered. Value afterwards turns on appearance, scarcity, maker, age and reputation, which is why buyers arrive at a market with a loupe and why specialist authenticators are part of the trade. A sak yant is applied by needle by a monk, a Brahmin priest, a ruesi or a lay wicha practitioner, and the rules travel home with the bearer.",
   "today": "Live and internationally visible, with the frictions that brings. Angelina Jolie was tattooed by Ajahn Noo Ganpai in Old Khmer script and took a Bengal tiger yant in 2004 on acquiring Cambodian citizenship, which the source credits with the practice's popularity among women abroad. In 2011 Thailand's Culture Ministry moved against parlours inking Buddha images on non-Buddhist visitors. Wat Bang Phra in Nakhon Pathom holds its Wai Khru on the grounds once a year in March, when the tattoos of those who come are renewed. In 2021 a Thai project put monk-blessed amulets on a blockchain as NFTs. Tha Phrachan market in Bangkok still trades the tablets, and forgery is common enough that expert authentication is a standing part of the transaction."
+ },
+ "text_th": {
+  "what": "วิชาที่สืบทอดกันด้วยการสอน อยู่เบื้องหลังวัตถุคุ้มครองของไทย ได้แก่ แบบลวดลาย อักขระ คาถา และข้อห้ามข้อปฏิบัติที่มาพร้อมกัน สิ่งที่วิชานี้สร้างขึ้นมีทั้งพระพิมพ์ดินหรือโลหะที่กดเป็นรูปพระพุทธเจ้าหรือพระเกจิอาจารย์ ตะกรุดที่ม้วนจากแผ่นโลหะหรือใบลานแล้วใส่ปลอก ปลัดขิกชิ้นเล็กที่แกะเป็นรูปลึงค์ห้อยสายคาดเอว และรอยสัก สิ่งที่ผูกทั้งหมดไว้ด้วยกันไม่ใช่รูปทรง แต่คือการสืบทอด ยันต์หนึ่งแบบกับคาถาที่ใช้เสกยันต์นั้นเป็นของสายครูสายหนึ่ง และราคาของพระเครื่ององค์หนึ่งขึ้นอยู่กับว่าวัดใดกดพิมพ์ และพระสงฆ์รูปใดปลุกเสก",
+  "story": "พระพิมพ์มาก่อน และมีมาก่อนความคิดเรื่องเครื่องรางเสียอีก พระพุทธศาสนาเข้ามาถึงดินแดนที่เป็นประเทศไทยในปัจจุบันในสมัยทวารวดี พร้อมกับธรรมเนียมการสร้างพระพิมพ์แบบอินเดีย และพระพิมพ์สมัยทวารวดีสร้างขึ้นเพื่อสืบต่ออายุพระศาสนา ในสมัยศรีวิชัยซึ่งได้รับอิทธิพลมหายาน มีการกดพระพิมพ์เพื่ออุทิศบุญแก่ผู้ล่วงลับ และเพื่อมุ่งสู่การเป็นพระโพธิสัตว์ พอถึงสมัยอยุธยา พระพิมพ์ถูกสร้างเพื่อการคุ้มครอง และนักรบนำติดตัวออกศึกแทนผ้าประเจียด ตะกรุด หรือเครื่องรางสมุนไพร ในสมัยรัตนโกสินทร์ตอนต้น พระเครื่องเพื่อการคุ้มครองได้รับความนิยมอย่างมาก วัตถุกลุ่มนี้ได้ชื่อเรียกว่า พระเครื่อง และวัดเริ่มใช้พระเครื่องหาทุน โดยพระสงฆ์จะมอบให้เป็นของที่ระลึกตอบแทนผู้ทำบุญ คำเรียก \"เครื่องราง\" ในความหมายนี้ปรากฏครั้งแรกในรัชสมัยพระบาทสมเด็จพระจอมเกล้าเจ้าอยู่หัว รัชกาลที่ 4\n\nตามที่แหล่งข้อมูลเล่าไว้เอง ตะกรุดเก่าแก่กว่าพระพุทธศาสนาในไทย ตะกรุดเป็นเครื่องรางที่วรรณคดีเรื่องขุนช้างขุนแผนกล่าวถึงบ่อยที่สุด และหลังจากพระพุทธศาสนาหยั่งรากแล้ว พระสงฆ์ก็สร้างตะกรุดกันในช่วง พ.ศ. 1743–1843 (ค.ศ. 1200–1300) ส่วนรอยสักมาจากอีกทางหนึ่ง สักยันต์มีต้นกำเนิดในอาณาจักรเขมรราวคริสต์ศตวรรษที่ 9 ต่อยอดจากการสักตามคติผีของผู้คนในภาคพื้นทวีปเอเชียตะวันออกเฉียงใต้ ซึ่งแหล่งข้อมูลสืบย้อนไปได้ไกลถึง 2,500 ปีก่อน ค.ศ. โดยรูปทรงเรขาคณิตได้มาจากยันตระของอินเดีย กัมพูชาเขียนยันต์ด้วยอักษรเขมร ภาคกลางของไทยใช้อักษรขอม ภาคเหนือของไทยใช้อักษรไทใหญ่ อักษรธรรมล้านนา หรืออักษรไทลื้อ ส่วนลาวใช้อักษรธรรมลาว\n\nวิชานี้กำหนดกฎของตัวเองไว้ และกฎเหล่านั้นผูกอยู่กับผู้ถือ ไม่ใช่กับวัตถุ ยันต์จะให้ผลตามที่ว่าไว้ก็ต่อเมื่อผู้ถือรักษาข้อห้ามที่รับมาพร้อมกับยันต์ แหล่งข้อมูลยกตัวอย่างการงดกินอาหารบางอย่าง หากผิดข้อห้าม ยันต์ก็หมดผล ผลที่กล่าวถึงแบ่งเป็น 3 แบบ แบบแรกเกิดกับตัวผู้ถือ ทำให้พูดจาคล่องแคล่วน่าฟัง แบบที่สองคุ้มครองป้องกัน ซึ่งทหาร ตำรวจ คนขับแท็กซี่ และผู้ที่ทำงานที่ตนถือว่าเสี่ยงอันตรายนิยมรับ แบบที่สามเกิดกับผู้อื่นทุกคน คือทำให้เกิดความเกรงกลัว\n\nและยังมีเศรษฐกิจที่ดำเนินอยู่จริงพร้อมตัวเลขที่ระบุปีได้ ในปี พ.ศ. 2530 (ค.ศ. 1987) ตำรวจนายหนึ่ง คือ ขุนพันธรักษ์ราชเดช ได้สร้างพระเครื่องจตุคามรามเทพขึ้นในวาระการสร้างหลักเมืองนครศรีธรรมราช ชื่อจตุคามรามเทพเป็นชื่อของเจ้าชายสองพระองค์แห่งศรีวิชัยซึ่งชาวเมืองถือว่าเป็นผู้พิทักษ์เมือง องค์พระเป็นทรงกลม ขนาดราว 5 ซม. จตุคามรามเทพเริ่มได้รับความนิยมในช่วงต้นคริสต์ทศวรรษ 2000 และนิยมอย่างรุนแรง ตั้งแต่ช่วงงานศพของผู้สร้างเมื่อวันที่ 5 กรกฎาคม พ.ศ. 2549 ไปจนถึงกลางปี พ.ศ. 2550 มีการวางแผนจะสร้างมากถึง 150 รุ่นในปี พ.ศ. 2550 และตลาดของพระเครื่องรุ่นนี้เพียงอย่างเดียวมีมูลค่าถึง 20,000 ล้านบาทในปีนั้น ปลายปี พ.ศ. 2550 ฟองสบู่ก็แตก ความนิยมจางหายไปอย่างรวดเร็ว เหลือของค้างอยู่จำนวนมากที่หาเช่าได้ในราคาต่ำ แหล่งข้อมูลไม่ได้ให้ตัวเลขว่าการล่มครั้งนั้นทำให้ใครเสียหายเท่าใด ที่นี่จึงไม่ใส่ตัวเลขไว้\n\nราคาอื่น ๆ เป็นราคาของนักสะสม และมีรายละเอียดเท่าที่แหล่งข้อมูลให้ไว้ พระชุดเบญจภาคี ได้แก่ พระสมเด็จ พระรอด พระนางพญา พระผงสุพรรณ และพระซุ้มกอ มีมูลค่ากว่า 10 ล้านบาท แหล่งข้อมูลไม่ได้ระบุปี ที่นี่จึงไม่ระบุปีไว้ พระสมเด็จจิตรลดา ซึ่งมีไม่เกิน 3,000 องค์ พระบาทสมเด็จพระบรมชนกาธิเบศร มหาภูมิพลอดุลยเดชมหาราช บรมนาถบพิตร ทรงสร้าง และพระราชทานระหว่าง พ.ศ. 2508–2513 พร้อมใบกำกับที่มีหมายเลขและระบุชื่อผู้ได้รับพระราชทาน มีมูลค่าอย่างน้อย 2 ล้านบาท ณ พ.ศ. 2556\n\n*ข้อสันนิษฐาน —* ข้อถกเถียงว่าเรื่องนี้เป็นศรัทธาหรือการค้าเป็นข้อถกเถียงของคนไทย ถกกันเป็นภาษาไทย และมีมาก่อนที่ผู้สังเกตการณ์ชาวต่างชาติคนใดจะหยิบมาพูด แอตลาสนี้รายงานทั้งสองด้าน วัดต่าง ๆ หาทุนด้วยวิธีนี้มาตั้งแต่สมัยรัตนโกสินทร์ตอนต้นและพูดถึงเรื่องนี้อย่างตรงไปตรงมา ขณะเดียวกัน ตลาดที่เงินหมุนเวียนได้ถึง 20,000 ล้านบาทในสิบสองเดือนก็มีพฤติกรรมอย่างตลาด ไม่มีด้านใดหักล้างอีกด้านหนึ่ง",
+  "how": "พระเครื่องกดพิมพ์จากปูน โลหะ ไม้ หรือกระดูก มักผสมเถ้า เส้นเกศาของพระสงฆ์ หรือพระธาตุลงไปในเนื้อพระ จากนั้นจึงปลุกเสกและอธิษฐานจิต ซึ่งอาจใช้เวลาตั้งแต่หนึ่งสัปดาห์ไปจนถึงหลายปี และมักเลี่ยมกรอบก่อนนำมาห้อยคอ ตะกรุดจารึกยันต์ด้วยอักษรขอม อักษรธรรมล้านนา หรืออักษรอื่น แล้วม้วนเป็นหลอด ใส่ปลอก และผูกติดตัว ที่คอ ระดับอก ที่เอว หรือทับส่วนของร่างกายที่ผู้สวมต้องการให้คุ้มครอง หลังจากนั้น มูลค่าขึ้นอยู่กับลักษณะองค์พระ ความหายาก ผู้สร้าง อายุ และชื่อเสียง ผู้เช่าบูชาจึงพกกล้องส่องพระมาที่ตลาด และผู้เชี่ยวชาญที่รับตรวจสอบพระก็เป็นส่วนหนึ่งของวงการ สักยันต์สักด้วยเข็มโดยพระสงฆ์ พราหมณ์ ฤๅษี หรืออาจารย์ฆราวาสผู้ถือวิชา และข้อห้ามข้อปฏิบัติก็ติดตัวผู้ถือกลับบ้านไปด้วย",
+  "today": "ยังมีชีวิตอยู่และเป็นที่รู้จักในระดับนานาชาติ พร้อมกับแรงเสียดทานที่ตามมา แองเจลินา โจลี (Angelina Jolie) ได้รับการสักจากอาจารย์หนู กันภัย ด้วยอักษรเขมรโบราณ และสักยันต์เสือเบงกอลเมื่อปี พ.ศ. 2547 (ค.ศ. 2004) ในโอกาสที่ได้รับสัญชาติกัมพูชา แหล่งข้อมูลระบุว่าเหตุการณ์นี้ทำให้สักยันต์เป็นที่นิยมในหมู่ผู้หญิงต่างชาติ ในปี พ.ศ. 2554 กระทรวงวัฒนธรรมของไทยเคลื่อนไหวเพื่อจัดการกับร้านสักที่สักรูปพระพุทธเจ้าให้ผู้มาเยือนที่ไม่ได้นับถือพระพุทธศาสนา วัดบางพระ จังหวัดนครปฐม จัดพิธีไหว้ครูในบริเวณวัดปีละครั้งในเดือนมีนาคม และในพิธีนั้นรอยสักของผู้ที่มาร่วมจะได้รับการครอบใหม่ ในปี พ.ศ. 2564 โครงการหนึ่งของไทยนำพระเครื่องที่พระสงฆ์ปลุกเสกแล้วขึ้นบล็อกเชนในรูปแบบ NFT ตลาดพระท่าพระจันทร์ในกรุงเทพฯ ยังคงมีการเช่าบูชาพระพิมพ์ และพระปลอมก็มีมากพอที่การให้ผู้เชี่ยวชาญตรวจสอบจะเป็นขั้นตอนปกติของการเช่าบูชา"
+ },
+ "th_fields": {
+  "etymology.root": "คำไทย วิชา หมายถึง 'ความรู้ วิชาการ ศาสตร์ที่เรียนกันมา' มาจากภาษาสันสกฤต วิทยา (vidyā) ผ่านภาษาบาลี วิชชา (vijjā) — เป็นรากเดียวกับคำในยันต์ที่วิชานี้ลงอักขระ",
+  "etymology.note": "คำนี้เรียกสิ่งที่สืบทอดกัน ไม่ใช่สิ่งที่ซื้อขายกัน ยันต์เป็นของสายครู ส่วนพระเครื่องเป็นของผู้ที่เช่าบูชาไป",
+  "dating.period": "สมัยอาณาจักรเขมรถึงปัจจุบัน",
+  "dating.note": "ปีเริ่มต้น (from_year) คือต้นกำเนิดในอาณาจักรเขมรราวคริสต์ศตวรรษที่ 9 ที่แหล่งข้อมูลให้ไว้สำหรับการสักยันต์ ซึ่งเป็นปีที่เก่าที่สุดที่สายใดสายหนึ่งของวิชานี้มี การสักตามคติผีที่อยู่เบื้องล่าง แหล่งข้อมูลเดียวกันระบุอายุย้อนไปไกลถึง 2,500 ปีก่อน ค.ศ. แต่ในฐานะธรรมเนียมของภูมิภาค ไม่ใช่ในฐานะวิชานี้ การที่พระสงฆ์สร้างตะกรุดระบุอายุไว้ที่ พ.ศ. 1743–1843 (ค.ศ. 1200–1300) และวัตถุกลุ่มนี้ได้ชื่อว่า พระเครื่อง ในสมัยรัตนโกสินทร์ตอนต้น",
+  "object.made_by": "พระสงฆ์ พราหมณ์ ฤๅษี หรือฆราวาสผู้ถือวิชา ซึ่งทำงานอยู่ในสายครูที่ระบุชื่อได้ วัดเป็นผู้ดำเนินการกดพิมพ์และพิธีปลุกเสกหมู่ และชื่อของพระสงฆ์ผู้ปลุกเสกคือประวัติที่มาของวัตถุชิ้นนั้น",
+  "object.inscription": "ยันต์ — เรขาคณิตศักดิ์สิทธิ์พร้อมคาถาบาลีและบทสวดทางพุทธศาสนา — เขียนด้วยอักษรขอมบาลีในภาคกลางของไทย อักษรเขมรในกัมพูชา อักษรธรรมล้านนา ไทใหญ่ หรือไทลื้อในภาคเหนือ และอักษรธรรมลาวในลาว",
+  "object.note": "ขนาดเดียวที่มีระบุไว้คือของจตุคามรามเทพ กว้างราว 5 ซม. และเป็นขนาดของพระแบบนั้นเท่านั้น จึงอยู่ในส่วนเรื่องราว ไม่ใช่ที่นี่",
+  "against.0.who": "หมวดของวิชาเองคือ คงกระพัน คือความอยู่ยงคงกระพัน และตะกรุดที่ปลุกเสกไว้เพื่อคุ้มครองให้ปลอดภัย ส่วนสักยันต์เพื่อการคุ้มครองนั้น ทหาร ตำรวจ และคนขับแท็กซี่นิยมรับ",
+  "against.1.who": "คำอธิบายเรื่องพระเครื่องที่อ้างถึง ซึ่งระบุการคุ้มครองจากคุณไสยไว้ควบคู่กับภัยอันตรายและภัยพิบัติ",
+  "against.2.who": "หมวดของวิชาคือ มหาเสน่ห์ (แรงดึงดูด) และเมตตามหานิยม (ความเป็นที่รักใคร่และความสำเร็จในการค้า) พระขุนแผนได้ชื่อตามตัวละครในเรื่องเล่าพื้นบ้านที่ใช้คาถาเสน่ห์",
+  "against.3.who": "หมวดเดียวกัน — มหาโภคทรัพย์ คือการเรียกทรัพย์ — และเจ้าของร้านที่ตั้งปลัดขิกไว้ข้างลิ้นชักเก็บเงินเพื่อให้ขายดี",
+  "against.4.who": "ผู้หญิงไทย ซึ่งแหล่งข้อมูลกล่าวว่าพกปลัดขิกไว้ในกระเป๋าถือเพื่อป้องกันการข่มขืนและการจี้ชิงทรัพย์",
+  "against.5.who": "พระกริ่ง ซึ่งสร้างเป็นรูปพระไภษัชยคุรุ พระพุทธเจ้าแห่งการรักษาโรค ตามคติกล่าวว่าผู้ใดได้ยินพระนามของพระองค์แม้เพียงผ่าน ๆ หรือได้เห็นพระรูป จะหายจากโรค",
+  "against.6.who": "นักรบสมัยอยุธยา ซึ่งนำพระพิมพ์ติดตัวออกศึกแทนผ้าประเจียด ตะกรุด หรือเครื่องรางสมุนไพร",
+  "holdings.0.what": "พระพิมพ์และวัตถุทางพุทธศาสนาของไทย",
+  "restricted.note": "แบบของยันต์และถ้อยคำที่ใช้เสกยันต์นั้นเป็นของสายครูที่ถือวิชานั้นไว้ และคาถาก็ต่างกันไปในแต่ละสำนัก แอตลาสนี้ลงเฉพาะสิ่งที่ธรรมเนียมนี้เปิดเผยเอง — ผลแบ่งเป็นกี่หมวด ใครเป็นผู้ลงยันต์ และยันต์มาพร้อมข้อปฏิบัติ — และไม่ลงคาถา ถ้อยคำปลุกเสก หรือข้อห้ามเฉพาะที่อาจารย์ท่านหนึ่งกำหนดให้ผู้ถือคนหนึ่ง ทั้งไม่นำมาปะติดปะต่อขึ้นจากแหล่งข้อมูลที่กระจัดกระจายด้วย ช่องว่างนี้เว้นไว้โดยเจตนา"
  },
  "restricted": {
   "note": "A yant's design and the words said over it belong to the master's lineage that holds them, and the incantations differ from school to school. This atlas prints what the tradition publishes — what the classes of effect are, who applies them, that rules come with them — and does not print an incantation, a consecration wording, or the specific taboos a particular master sets on a particular bearer. It does not reconstruct them from scattered sources either. The blank is deliberate.",
@@ -146,62 +171,74 @@
   {
    "to": "phra-khrueang",
    "as": "the tradition's central object, and the one whose price is a monk's name and a temple's date",
-   "rel": "carries"
+   "rel": "carries",
+   "as_th": "วัตถุหลักของวิชานี้ และเป็นวัตถุที่ราคาคือชื่อของพระสงฆ์และปีที่วัดสร้าง"
   },
   {
    "to": "takrut",
    "as": "its oldest strand — rolled metal or palm-leaf, made here before Buddhism arrived and by monks from 1200–1300 CE",
-   "rel": "carries"
+   "rel": "carries",
+   "as_th": "สายที่เก่าแก่ที่สุดของวิชานี้ ม้วนจากแผ่นโลหะหรือใบลาน สร้างกันที่นี่ก่อนพระพุทธศาสนาจะเข้ามา และพระสงฆ์สร้างในช่วง พ.ศ. 1743–1843 (ค.ศ. 1200–1300)"
   },
   {
    "to": "sak-yant",
    "as": "the same craft with the object removed: the yant goes into skin, and the rules stay on the person",
-   "rel": "carries"
+   "rel": "carries",
+   "as_th": "วิชาเดียวกันโดยไม่มีวัตถุ ยันต์ลงไปอยู่บนผิวหนัง และข้อห้ามข้อปฏิบัติอยู่กับตัวคน"
   },
   {
    "to": "palad-khik",
    "as": "the piece of the kit that can go where the Buddha may not — a bar, a gambling house, a brothel",
-   "rel": "carries"
+   "rel": "carries",
+   "as_th": "เครื่องรางในชุดนี้ที่ไปได้ในที่ที่พระพุทธรูปไปไม่ได้ เช่น บาร์ บ่อนการพนัน หรือซ่องโสเภณี"
   },
   {
    "to": "yant-flash",
    "as": "the drawn sheets the practitioners work from, and the rules that come attached to them",
-   "rel": "art"
+   "rel": "art",
+   "as_th": "แผ่นแบบยันต์ที่ผู้ถือวิชาใช้เป็นต้นแบบ พร้อมข้อห้ามข้อปฏิบัติที่ติดมาด้วย"
   },
   {
    "to": "consecration",
    "as": "the step this tradition prices by: a week to several years of chanting, and the consecrating monk's name as provenance",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "ขั้นตอนที่วิชานี้ใช้กำหนดราคา คือการปลุกเสกตั้งแต่หนึ่งสัปดาห์ไปจนถึงหลายปี โดยชื่อของพระผู้ปลุกเสกคือประวัติที่มาของพระ"
   },
   {
    "to": "tattooing",
    "as": "the practice that holds the lineages, the refusals and the annual renewal at Wat Bang Phra",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "การปฏิบัติที่รักษาสายครู การปฏิเสธไม่สักให้ และการครอบรอยสักประจำปีที่วัดบางพระ"
   },
   {
    "to": "buying-in-a-market",
    "as": "the practice at its most monetised anywhere in this atlas — loupe, certificate, forgery, and a twenty-billion-baht year on the record",
-   "rel": "practice"
+   "rel": "practice",
+   "as_th": "การปฏิบัติที่เกี่ยวกับเงินมากที่สุดในแอตลาสนี้ มีทั้งกล้องส่องพระ ใบรับรอง ของปลอม และปีที่ตลาดมีมูลค่า 20,000 ล้านบาทอยู่ในบันทึก"
   },
   {
    "to": "tha-phrachan",
    "as": "the market this tradition's economy runs through, beside Thammasat University in Bangkok",
-   "rel": "place"
+   "rel": "place",
+   "as_th": "ตลาดที่เศรษฐกิจของวิชานี้ไหลผ่าน อยู่ข้างมหาวิทยาลัยธรรมศาสตร์ในกรุงเทพฯ"
   },
   {
    "to": "hindu-kavacha",
    "as": "where the geometry comes from: the Indian yantra, arriving through the Khmer Empire and staying under a Thai name",
-   "rel": "origin"
+   "rel": "origin",
+   "as_th": "ที่มาของรูปทรงเรขาคณิต คือยันตระของอินเดีย ซึ่งเดินทางผ่านอาณาจักรเขมรเข้ามา แล้วอยู่ต่อภายใต้ชื่อไทย"
   },
   {
    "to": "yantra-word",
    "as": "the word at the other end of that journey, shortened to yant",
-   "rel": "term"
+   "rel": "term",
+   "as_th": "คำที่อยู่อีกปลายหนึ่งของเส้นทางนั้น ซึ่งหดสั้นลงเหลือ ยันต์"
   },
   {
    "to": "the-fake-market",
    "as": "the long read on authentication, which is a standing cost of doing business in this tradition rather than an occasional scandal",
-   "rel": "story"
+   "rel": "story",
+   "as_th": "บทความยาวว่าด้วยการตรวจสอบพระ ซึ่งในวิชานี้เป็นต้นทุนประจำของการค้า ไม่ใช่เรื่องอื้อฉาวนาน ๆ ครั้ง"
   }
  ],
  "links": [
@@ -280,84 +317,108 @@
    "type": "amulet",
    "name": "Phra khrueang",
    "as": "the tradition's central object, and the one whose price is a monk's name and a temple's date",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "พระเครื่อง",
+   "as_th": "วัตถุหลักของวิชานี้ และเป็นวัตถุที่ราคาคือชื่อของพระสงฆ์และปีที่วัดสร้าง"
   },
   {
    "to": "takrut",
    "type": "amulet",
    "name": "Takrut",
    "as": "its oldest strand — rolled metal or palm-leaf, made here before Buddhism arrived and by monks from 1200–1300 CE",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ตะกรุด",
+   "as_th": "สายที่เก่าแก่ที่สุดของวิชานี้ ม้วนจากแผ่นโลหะหรือใบลาน สร้างกันที่นี่ก่อนพระพุทธศาสนาจะเข้ามา และพระสงฆ์สร้างในช่วง พ.ศ. 1743–1843 (ค.ศ. 1200–1300)"
   },
   {
    "to": "sak-yant",
    "type": "amulet",
    "name": "Sak yant",
    "as": "the same craft with the object removed: the yant goes into skin, and the rules stay on the person",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "สักยันต์",
+   "as_th": "วิชาเดียวกันโดยไม่มีวัตถุ ยันต์ลงไปอยู่บนผิวหนัง และข้อห้ามข้อปฏิบัติอยู่กับตัวคน"
   },
   {
    "to": "palad-khik",
    "type": "amulet",
    "name": "Palad khik",
    "as": "the piece of the kit that can go where the Buddha may not — a bar, a gambling house, a brothel",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ปลัดขิก",
+   "as_th": "เครื่องรางในชุดนี้ที่ไปได้ในที่ที่พระพุทธรูปไปไม่ได้ เช่น บาร์ บ่อนการพนัน หรือซ่องโสเภณี"
   },
   {
    "to": "yant-flash",
    "type": "art",
    "name": "Yant flash",
    "as": "the drawn sheets the practitioners work from, and the rules that come attached to them",
-   "rel": "art"
+   "rel": "art",
+   "name_th": "แผ่นแบบลายยันต์",
+   "as_th": "แผ่นแบบยันต์ที่ผู้ถือวิชาใช้เป็นต้นแบบ พร้อมข้อห้ามข้อปฏิบัติที่ติดมาด้วย"
   },
   {
    "to": "consecration",
    "type": "practice",
    "name": "Consecration",
    "as": "the step this tradition prices by: a week to several years of chanting, and the consecrating monk's name as provenance",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การปลุกเสก",
+   "as_th": "ขั้นตอนที่วิชานี้ใช้กำหนดราคา คือการปลุกเสกตั้งแต่หนึ่งสัปดาห์ไปจนถึงหลายปี โดยชื่อของพระผู้ปลุกเสกคือประวัติที่มาของพระ"
   },
   {
    "to": "tattooing",
    "type": "practice",
    "name": "Tattooing",
    "as": "the practice that holds the lineages, the refusals and the annual renewal at Wat Bang Phra",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การสัก",
+   "as_th": "การปฏิบัติที่รักษาสายครู การปฏิเสธไม่สักให้ และการครอบรอยสักประจำปีที่วัดบางพระ"
   },
   {
    "to": "buying-in-a-market",
    "type": "practice",
    "name": "Buying one in a market",
    "as": "the practice at its most monetised anywhere in this atlas — loupe, certificate, forgery, and a twenty-billion-baht year on the record",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การซื้อหาเครื่องรางในตลาด",
+   "as_th": "การปฏิบัติที่เกี่ยวกับเงินมากที่สุดในแอตลาสนี้ มีทั้งกล้องส่องพระ ใบรับรอง ของปลอม และปีที่ตลาดมีมูลค่า 20,000 ล้านบาทอยู่ในบันทึก"
   },
   {
    "to": "tha-phrachan",
    "type": "place",
    "name": "Tha Phrachan amulet market",
    "as": "the market this tradition's economy runs through, beside Thammasat University in Bangkok",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตลาดพระเครื่องท่าพระจันทร์",
+   "as_th": "ตลาดที่เศรษฐกิจของวิชานี้ไหลผ่าน อยู่ข้างมหาวิทยาลัยธรรมศาสตร์ในกรุงเทพฯ"
   },
   {
    "to": "hindu-kavacha",
    "type": "tradition",
    "name": "Kavacha — the Hindu armour tradition",
    "as": "where the geometry comes from: the Indian yantra, arriving through the Khmer Empire and staying under a Thai name",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "กวจะ (เกราะคุ้มครองในคติฮินดู)",
+   "as_th": "ที่มาของรูปทรงเรขาคณิต คือยันตระของอินเดีย ซึ่งเดินทางผ่านอาณาจักรเขมรเข้ามา แล้วอยู่ต่อภายใต้ชื่อไทย"
   },
   {
    "to": "yantra-word",
    "type": "term",
    "name": "yantra",
    "as": "the word at the other end of that journey, shortened to yant",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ยันตระ (ยันต์)",
+   "as_th": "คำที่อยู่อีกปลายหนึ่งของเส้นทางนั้น ซึ่งหดสั้นลงเหลือ ยันต์"
   },
   {
    "to": "the-fake-market",
    "type": "story",
    "name": "The fake market",
    "as": "the long read on authentication, which is a standing cost of doing business in this tradition rather than an occasional scandal",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ตลาดของปลอม",
+   "as_th": "บทความยาวว่าด้วยการตรวจสอบพระ ซึ่งในวิชานี้เป็นต้นทุนประจำของการค้า ไม่ใช่เรื่องอื้อฉาวนาน ๆ ครั้ง"
   }
  ],
  "source_list": [
@@ -685,91 +746,117 @@
    "type": "amulet",
    "name": "Navaratna ring",
    "as": "the Thai side of it: in Thailand the nine gems are a royal honour as well as a charm",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "แหวนนพเก้า",
+   "as_th": "ด้านไทยของเรื่องนี้: ในไทย นพรัตน์เป็นทั้งเกียรติยศที่พระมหากษัตริย์พระราชทานและเครื่องราง"
   },
   {
    "from": "palad-khik",
    "type": "amulet",
    "name": "Palad khik",
    "as": "the craft it belongs to, whose incantations run by lineage rather than by book",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ปลัดขิก",
+   "as_th": "วิชาที่มันสังกัด ซึ่งคาถาสืบทอดกันตามสาย ไม่ใช่ตามตำรา"
   },
   {
    "from": "phra-khrueang",
    "type": "amulet",
    "name": "Phra khrueang",
    "as": "the body of craft and lineage this belongs to, and the reason a monk's name sets a price",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "พระเครื่อง",
+   "as_th": "องค์ความรู้ด้านการสร้างและสายครูที่พระเครื่องสังกัดอยู่ และเหตุที่ชื่อของพระสงฆ์เป็นตัวกำหนดราคา"
   },
   {
    "from": "sak-yant",
    "type": "amulet",
    "name": "Sak yant",
    "as": "the craft that holds the designs, the lineages and the rules for the bearer",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "สักยันต์",
+   "as_th": "วิชาที่รักษาลวดลาย สายครู และข้อห้ามข้อปฏิบัติของผู้ถือ"
   },
   {
    "from": "takrut",
    "type": "amulet",
    "name": "Takrut",
    "as": "the craft that makes it, in which the yant and the incantation are a lineage's property",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ตะกรุด",
+   "as_th": "วิชาที่สร้างตะกรุด ซึ่งยันต์และคาถาเป็นสมบัติของสายครู"
   },
   {
    "from": "footprint",
    "type": "motif",
    "name": "The footprint",
    "as": "the tradition that keeps Phra Phutthabat and presses its amulets",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "รอยพระพุทธบาท",
+   "as_th": "ประเพณีที่ดูแลพระพุทธบาทและกดพิมพ์พระเครื่องของที่นั่น"
   },
   {
    "from": "palm-leaf",
    "type": "material",
    "name": "Palm leaf",
    "as": "the tradition whose written charms this leaf carried before metal was common",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ใบลาน",
+   "as_th": "ธรรมเนียมที่เครื่องรางแบบเขียนของตนเคยอยู่บนใบลานนี้ ก่อนที่โลหะจะแพร่หลาย"
   },
   {
    "from": "consecration",
    "type": "practice",
    "name": "Consecration",
    "as": "the tradition where the consecrating monk's name is the object's provenance",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "การปลุกเสก",
+   "as_th": "ธรรมเนียมที่ชื่อของพระสงฆ์ผู้ปลุกเสกคือที่มาของวัตถุ"
   },
   {
    "from": "tattooing",
    "type": "practice",
    "name": "Tattooing",
    "as": "the tradition that holds the lineages, the rules and the refusals",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "การสัก",
+   "as_th": "ธรรมเนียมที่รักษาสายครู ข้อห้ามข้อปฏิบัติ และการปฏิเสธไม่สักให้"
   },
   {
    "from": "tha-phrachan",
    "type": "place",
    "name": "Tha Phrachan amulet market",
    "as": "the tradition whose economy this market is",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ตลาดพระเครื่องท่าพระจันทร์",
+   "as_th": "ธรรมเนียมที่ตลาดนี้คือระบบเศรษฐกิจของมัน"
   },
   {
    "from": "unesco-ich",
    "type": "org",
    "name": "UNESCO Intangible Cultural Heritage",
    "as": "the kind of living craft tradition the Convention's traditional-craftsmanship domain is written for",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "มรดกทางวัฒนธรรมที่จับต้องไม่ได้ของยูเนสโก",
+   "as_th": "ประเพณีงานช่างที่ยังมีชีวิต ในแบบที่ขอบเขตงานช่างฝีมือดั้งเดิมของอนุสัญญาเขียนขึ้นมาเพื่อมัน"
   },
   {
    "from": "yantra-word",
    "type": "term",
    "name": "yantra",
    "as": "the tradition it belongs to at the other end of the journey",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ยันตระ (ยันต์)",
+   "as_th": "ธรรมเนียมที่แผนภาพนี้เป็นของ ณ ปลายทางอีกฝั่งของการเดินทาง"
   },
   {
    "from": "yant-flash",
    "type": "art",
    "name": "Yant flash",
    "as": "the tradition whose practitioners draw these, and set the rules that come with them",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "แผ่นแบบลายยันต์",
+   "as_th": "ประเพณีที่ผู้ถือวิชาเป็นผู้วาดลายเหล่านี้ และตั้งข้อปฏิบัติที่มาพร้อมกับลาย"
   }
  ]
 }

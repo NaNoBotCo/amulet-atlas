@@ -4,7 +4,8 @@
  "type": "person",
  "names": {
   "name": "Siegfried Seligmann",
-  "sort": "Seligmann, Siegfried"
+  "sort": "Seligmann, Siegfried",
+  "th": "ซีกฟรีด เซลิกมันน์"
  },
  "region": [
   "western-europe",
@@ -26,6 +27,9 @@
   "what": "German ophthalmologist and independent scholar, 1870–1926, who wrote the largest survey of the evil eye anybody has attempted. \"Der böse Blick und Verwandtes\", two volumes, 1910, collects the belief and its objects across languages and centuries; German scholarship still calls it an indispensable standard work. He assembled a collection of more than 1,500 amulets while writing it.",
   "story": "Seligmann was born at Wandsbek on 12 June 1870 and practised in Hamburg. An eye doctor writing about the eye that harms is a coincidence he does not seem to have made much of; what he did was read everything. \"Der böse Blick und Verwandtes\" in 1910 was followed by \"Die Zauberkraft des Auges und das Berufen\" in 1922 and, after his death on 10 November 1926, by \"Die magischen Heil- und Schutzmittel aus der unbelebten Natur\" in 1927 — the protective and healing materials drawn from the mineral world.\n\nHe married Alice Bettina Warburg in 1904, and the family connection shows in where his papers went. His ethnological library was taken into the Warburg Kulturwissenschaftliche Bibliothek in Hamburg; since 1987 his papers have been held by the Warburg Institute in London. The amulet collection itself was bought in 1927 for Hamburg's ethnological museum.\n\nThe German Wikipedia entry records that his Hamburg residence later became a Judenhaus — one of the buildings into which Jewish residents were forced under Nazi persecution. That happened after his death.\n\n*Inference —* the reason this atlas cites Seligmann rather than paraphrasing him is that his footnotes name sources this project can chase; he was compiling, not theorising, and the compilation is what has lasted.",
   "today": "The books are in German and mostly untranslated, which is why English writing on the eye tends to reach for Elworthy's 1895 volume first even though Seligmann's is larger and later. His collection and his papers sit in two different cities and two different countries, which is the ordinary fate of a private amulet collection."
+ },
+ "text_th": {
+  "what": "จักษุแพทย์และนักวิชาการอิสระชาวเยอรมัน (ค.ศ. 1870–1926) ผู้เขียนงานสำรวจเรื่องตาร้ายที่ใหญ่ที่สุดเท่าที่เคยมีผู้พยายามทำ \"ตาร้ายและสิ่งที่เกี่ยวข้อง\" (Der böse Blick und Verwandtes) สองเล่ม ค.ศ. 1910 รวบรวมความเชื่อและวัตถุของมันข้ามภาษาและข้ามศตวรรษ วงวิชาการเยอรมันยังคงเรียกงานนี้ว่างานมาตรฐานที่ขาดไม่ได้ เขารวบรวมเครื่องรางไว้มากกว่า 1,500 ชิ้นระหว่างที่เขียน"
  },
  "dating": {
   "period": "Wilhelmine and Weimar Germany",
@@ -142,42 +146,54 @@
    "type": "motif",
    "name": "The eye",
    "as": "the sign his two 1910 volumes chased through every language he could read",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "nazar",
    "type": "amulet",
    "name": "Nazar",
    "as": "the bead form of the sign, one of the many he catalogued rather than one he singled out",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เครื่องรางนาซาร์ (ลูกปัดตาสีฟ้า)",
+   "as_th": ""
   },
   {
    "to": "frederick-elworthy",
    "type": "person",
    "name": "Frederick Thomas Elworthy",
    "as": "his English counterpart, fifteen years earlier and far shorter; Seligmann read him",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เฟรเดอริก โทมัส เอลเวิร์ที",
+   "as_th": ""
   },
   {
    "to": "walter-hildburgh",
    "type": "person",
    "name": "Walter Leo Hildburgh",
    "as": "another private amulet collector of the same decades whose collection also ended up in a public museum",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "วอลเตอร์ ลีโอ ฮิลด์เบิร์ก",
+   "as_th": ""
   },
   {
    "to": "european-folk-apotropaic",
    "type": "tradition",
    "name": "European folk apotropaic craft",
    "as": "the tradition his survey covers most densely, though he reached well past Europe",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางกันภัยพื้นบ้านยุโรป",
+   "as_th": ""
   },
   {
    "to": "the-eye-everywhere",
    "type": "story",
    "name": "The eye everywhere",
    "as": "the long read; his 1910 volumes are its largest single source in any language",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ดวงตาทุกหนแห่ง",
+   "as_th": ""
   }
  ],
  "source_list": [

@@ -8,7 +8,13 @@
   "script": "Egyptian hieroglyphic",
   "lang": "egy",
   "said": "ANK, a modern guess at the Egyptian ꜥnḫ",
-  "aliases": ["ankh", "key of life", "crux ansata", "handled cross"]
+  "aliases": [
+   "ankh",
+   "key of life",
+   "crux ansata",
+   "handled cross"
+  ],
+  "th": "เครื่องรางอังค์"
  },
  "etymology": {
   "root": "Egyptian ꜥnḫ, three consonants that spell 'live', 'life', and also 'mirror', 'floral bouquet' and 'oath' — Egyptian oaths opened with a form of the word 'live'. The Coptic stage of the language gives ⲱⲛϩ, ōnh.",
@@ -16,14 +22,41 @@
   "tier": "cited",
   "source": "s:wp-ankh"
  },
- "region": ["ancient-egypt", "nubia-sudan", "levant", "anatolia", "greece-aegean"],
- "countries": ["EG", "SD", "SY", "LB", "IL", "PS", "TR", "GR"],
- "facets": {"era": "ancient", "status": "revived", "portable": "worn", "restricted": "open", "hemisphere": ["N", "E"]},
+ "region": [
+  "ancient-egypt",
+  "nubia-sudan",
+  "levant",
+  "anatolia",
+  "greece-aegean"
+ ],
+ "countries": [
+  "EG",
+  "SD",
+  "SY",
+  "LB",
+  "IL",
+  "PS",
+  "TR",
+  "GR"
+ ],
+ "facets": {
+  "era": "ancient",
+  "status": "revived",
+  "portable": "worn",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "A T with a loop on top, the loop shaped like a droplet. As an amulet it is small and strung at the neck; the earliest ones are gold or electrum, the alloy of gold and silver, and later ones are mostly faience — quartz paste glazed blue or green in the kiln. Painted versions in tomb and temple art are blue or black. The Coptic variant, the crux ansata, swaps the droplet for a circle.",
   "story": "The ankh is everywhere in Egyptian art and rare as an amulet, and the gap is the interesting part. Amulets cut in the shape of a hieroglyph were meant to hand the wearer whatever the sign meant, and this sign meant life itself; yet ankh-shaped amulets first appear only late in the Old Kingdom, around 2700 to 2200 BCE, and stay uncommon right through to the late first millennium BCE. The composite amulet — ankh, was and djed run together, 'life, dominion and stability' — was more widespread than the ankh on its own.\n\nOn walls the sign is a thing gods hold. They carry it by the loop, they hold it up to the king's nose as the breath of life, and in scenes of purification the zigzag lines that usually mean water are replaced by chains of ankhs poured over the king's head. Before the end of the Middle Kingdom almost nobody but the pharaoh is shown receiving one. Because the same three consonants spelled 'mirror' and 'floral bouquet', mirrors, mirror cases and bouquets were made in the sign's shape.\n\nIt travelled. Syria and Canaan took it up in the Middle Bronze Age, about 1950 to 1500 BCE, and of all the Egyptian hieroglyphs they borrowed it was by far the most common. Anatolian hieroglyphs absorbed it for the word 'life'. Minoan artists on Crete combined it, or the related tyet, with the double axe. Meroitic Nubia used it heavily in temples, in funerary art and on pottery. A clay seal of King Hezekiah of Judah, about 700 BCE, found in Jerusalem in 2015, carries ankhs on either side of a winged sun.\n\nThen Christianity kept it. When Christians were pulling down the Serapeum in Alexandria in 391 CE, according to Socrates of Constantinople, cross-like signs turned up cut into the stone blocks; the pagans present said the sign meant 'life to come' and the Christians said the sign was theirs. Egyptian Coptic Christians used the crux ansata in many media, especially on textiles. There is little evidence for it in the western half of the Roman Empire.",
   "how": "Cut from gold or electrum in the earliest examples, moulded in faience later — that ceramic is usually blue or green, and the colour is read as life and regeneration, which may be why it took over. Pierced and strung, or built into the composite ankh-was-djed amulet. On a wall it is painted blue or black.",
   "today": "Worn worldwide. The sign came back through the counterculture of the 1960s and its interest in ancient religions, and it is now a standard design for jewellery and tattoos. People of African descent in the United States and Europe wear it as a sign of African cultural identity; Kemetism, a group of movements built on the religion of ancient Egypt, uses it as its symbol; the goth subculture adopted it, tied to vampires, after an ankh pendant featured in the 1983 film The Hunger. In the twenty-first century it is the most widely recognised symbol of Egyptian, and more broadly of African, origin in the Western world. Unicode encodes it twice: U+2625 ☥ and U+132F9 𓋹."
+ },
+ "text_th": {
+  "what": "รูปตัว T ที่มีห่วงอยู่ด้านบน ห่วงเป็นรูปหยดน้ำ เมื่อทำเป็นเครื่องรางจะมีขนาดเล็กและร้อยห้อยคอ ชิ้นที่เก่าที่สุดทำจากทองคำหรืออิเล็กตรัม (electrum) ซึ่งเป็นโลหะผสมของทองคำกับเงิน ส่วนชิ้นรุ่นหลังส่วนใหญ่เป็นเฟยองซ์ (faience) คือเนื้อผงควอตซ์ที่เคลือบสีน้ำเงินหรือสีเขียวในเตาเผา ภาพอังค์ที่วาดไว้ในงานศิลปะของสุสานและวิหารเป็นสีน้ำเงินหรือสีดำ แบบของชาวคอปต์ที่เรียกว่าครักซ์ อันซาตา (crux ansata) เปลี่ยนห่วงรูปหยดน้ำเป็นวงกลม"
  },
  "dating": {
   "period": "late Old Kingdom to the late first millennium BCE, and again from the twentieth century",
@@ -39,49 +72,145 @@
  },
  "object": {
   "form": "pendant",
-  "materials": ["gold", "silver", "faience"],
-  "worn": ["neck", "grave"],
+  "materials": [
+   "gold",
+   "silver",
+   "faience"
+  ],
+  "worn": [
+   "neck",
+   "grave"
+  ],
   "made_by": "no restriction on who could wear one; before the late Middle Kingdom, art shows the sign given to the pharaoh and rarely to anyone else",
   "inscription": "the sign is itself the writing — a triliteral for ꜥ-n-ḫ",
   "script": "Egyptian hieroglyphic",
-  "colour": ["blue", "green", "black", "gold"],
+  "colour": [
+   "blue",
+   "green",
+   "black",
+   "gold"
+  ],
   "single_use": false,
   "source": "s:wp-ankh",
   "note": "Electrum, the gold-silver alloy the earliest examples use, is entered here as its two metals. No measurement was read, so length_mm is absent."
  },
  "against": [
-  {"harm": "illness", "who": "Egyptian amulet practice as summarised in the source, which says amulets cut as hieroglyphs 'were meant to impart to the wearer the qualities represented by the sign' — and this sign's quality is life", "source": "s:wp-ankh", "tier": "cited"},
-  {"harm": "the-dead", "who": "Egyptians who placed them in tombs, the source says, 'to ensure the well-being of the deceased in the afterlife'", "source": "s:wp-ankh", "tier": "cited"}
+  {
+   "harm": "illness",
+   "who": "Egyptian amulet practice as summarised in the source, which says amulets cut as hieroglyphs 'were meant to impart to the wearer the qualities represented by the sign' — and this sign's quality is life",
+   "source": "s:wp-ankh",
+   "tier": "cited"
+  },
+  {
+   "harm": "the-dead",
+   "who": "Egyptians who placed them in tombs, the source says, 'to ensure the well-being of the deceased in the afterlife'",
+   "source": "s:wp-ankh",
+   "tier": "cited"
+  }
  ],
  "holdings": [
-  {"museum": "british-museum", "what": "ankh amulets and crux ansata textiles in the Egyptian and Coptic collections", "source": "s:wp-british-museum"},
-  {"museum": "met", "what": "ankh-shaped objects in the Egyptian galleries", "source": "s:wp-metropolitan-museum-of-art", "open_access": true}
+  {
+   "museum": "british-museum",
+   "what": "ankh amulets and crux ansata textiles in the Egyptian and Coptic collections",
+   "source": "s:wp-british-museum"
+  },
+  {
+   "museum": "met",
+   "what": "ankh-shaped objects in the Egyptian galleries",
+   "source": "s:wp-metropolitan-museum-of-art",
+   "open_access": true
+  }
  ],
  "kin": [
-  {"to": "tyet-knot", "as": "the sign it may share an origin with — Schäfer and Fischer read both as knots of cloth, and early ankhs show the lower bar as two loose ends", "rel": "kin"},
-  {"to": "djed-pillar", "as": "the third of the run 'life, dominion and stability'; the composite amulet joining them was commoner than the ankh alone", "rel": "kin"},
-  {"to": "wedjat-eye", "as": "made in the same workshops and strung on the same cords, and far more often — the eye is what Egypt actually wore", "rel": "contrast"},
-  {"to": "coptic-cross-tattoo", "as": "the sign's Christian afterlife in Egypt: the crux ansata is an ankh with a round loop, and the cross Copts carry is the same faith in a different mark", "rel": "descendant"},
-  {"to": "cross", "as": "the sign it is most often mistaken for, and the sign it fed", "rel": "motif"},
-  {"to": "knot", "as": "the family most Egyptologists put its origin in", "rel": "motif"},
-  {"to": "faience", "as": "the material that made it cheap, and whose blue-green the source ties to life and regeneration", "rel": "material"},
-  {"to": "egyptian-amulet-craft", "as": "the tradition that cut it and the one that mostly preferred other shapes", "rel": "tradition"},
-  {"to": "who-owns-a-charm", "as": "the long read this sign lands in — worn now by Kemetists, by goths and by people with no line to Egypt at all", "rel": "story"}
+  {
+   "to": "tyet-knot",
+   "as": "the sign it may share an origin with — Schäfer and Fischer read both as knots of cloth, and early ankhs show the lower bar as two loose ends",
+   "rel": "kin"
+  },
+  {
+   "to": "djed-pillar",
+   "as": "the third of the run 'life, dominion and stability'; the composite amulet joining them was commoner than the ankh alone",
+   "rel": "kin"
+  },
+  {
+   "to": "wedjat-eye",
+   "as": "made in the same workshops and strung on the same cords, and far more often — the eye is what Egypt actually wore",
+   "rel": "contrast"
+  },
+  {
+   "to": "coptic-cross-tattoo",
+   "as": "the sign's Christian afterlife in Egypt: the crux ansata is an ankh with a round loop, and the cross Copts carry is the same faith in a different mark",
+   "rel": "descendant"
+  },
+  {
+   "to": "cross",
+   "as": "the sign it is most often mistaken for, and the sign it fed",
+   "rel": "motif"
+  },
+  {
+   "to": "knot",
+   "as": "the family most Egyptologists put its origin in",
+   "rel": "motif"
+  },
+  {
+   "to": "faience",
+   "as": "the material that made it cheap, and whose blue-green the source ties to life and regeneration",
+   "rel": "material"
+  },
+  {
+   "to": "egyptian-amulet-craft",
+   "as": "the tradition that cut it and the one that mostly preferred other shapes",
+   "rel": "tradition"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read this sign lands in — worn now by Kemetists, by goths and by people with no line to Egypt at all",
+   "rel": "story"
+  }
  ],
  "confusable_with": [
-  {"id": "coptic-cross-tattoo", "tell": "an ankh has a closed loop over the crossbar; the Coptic cross is four arms of equal length, each ending in three points"},
-  {"id": "tyet-knot", "tell": "the tyet's arms curve down; the ankh's crossbar is straight"}
+  {
+   "id": "coptic-cross-tattoo",
+   "tell": "an ankh has a closed loop over the crossbar; the Coptic cross is four arms of equal length, each ending in three points"
+  },
+  {
+   "id": "tyet-knot",
+   "tell": "the tyet's arms curve down; the ankh's crossbar is straight"
+  }
  ],
- "links": [{"label": "Ankh — Wikipedia", "url": "https://en.wikipedia.org/wiki/Ankh"}],
- "sources": ["s:wp-ankh", "s:wp-tyet", "s:wp-djed", "s:wp-egyptian-faience", "s:wp-coptic-cross", "s:wp-british-museum", "s:wp-metropolitan-museum-of-art"],
+ "links": [
+  {
+   "label": "Ankh — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ankh"
+  }
+ ],
+ "sources": [
+  "s:wp-ankh",
+  "s:wp-tyet",
+  "s:wp-djed",
+  "s:wp-egyptian-faience",
+  "s:wp-coptic-cross",
+  "s:wp-british-museum",
+  "s:wp-metropolitan-museum-of-art"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-ankh"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-ankh"
+  },
   "fields": {
-   "dating": {"tier": "cited", "source": "s:wp-ankh", "note": "the closing year renders a phrase, not a dated find; see the dating note"}
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-ankh",
+    "note": "the closing year renders a phrase, not a dated find; see the dating note"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Ankh.svg", "File:Ankh amulet MET DP109377.jpg"],
+ "x_commons_files": [
+  "File:Ankh.svg",
+  "File:Ankh amulet MET DP109377.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-16"
 }

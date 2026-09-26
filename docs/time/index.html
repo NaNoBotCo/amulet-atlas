@@ -154,6 +154,15 @@ mark.tier{background:transparent;color:var(--mute);font-style:italic}
 .shareme .said{font-size:.85rem;color:var(--mute);margin-left:.4rem}
 .shareme .copy{border-color:var(--carn);color:#fff;background:var(--carn)}
 .shareme .copy:hover{color:#fff;filter:brightness(1.08)}
+
+.skip{position:absolute;left:-9999px;top:0;z-index:9;background:var(--ink);color:var(--bg);padding:.5rem .9rem}
+.skip:focus{left:8px;top:8px}
+:lang(th){letter-spacing:0!important;text-transform:none!important}
+html:lang(th) body{line-height:1.8;font-family:"Sukhumvit Set","Thonburi","Noto Sans Thai","Leelawadee UI",var(--body)}
+html:lang(th) :is(h1,h2,h3,.brand,.kin a.card b,.card a.t,.glyphgrid .nm){font-family:"Sukhumvit Set","Thonburi","Noto Sans Thai",var(--display);line-height:1.35}
+html:lang(th) h1{text-wrap:balance}
+.no-th{font-size:.85rem;border-left:3px solid var(--gold);padding-left:.6rem}
+nav.crumbs sup{font-size:.62em;color:var(--mute)}
 </style>
 
 <meta name="google" content="notranslate">
@@ -161,9 +170,10 @@ mark.tier{background:transparent;color:var(--mute);font-style:italic}
 <script>if(/[.]translate[.]goog$/.test(location.hostname))location.replace("https://"+location.hostname.slice(0,-15).replace(/--/g,"~").replace(/-/g,".").replace(/~/g,"-")+location.pathname+location.search.replace(/([?&])_x_tr_[^&]*/g,"$1").replace(/[?&]+$/,"").replace(/[?]&+/,"?")+location.hash)</script>
 </head>
 <body>
+<a class="skip" href="#main">Skip to the record</a>
 <header class="top"><a class="brand" href="../index.html">Amulet <b>Atlas</b></a>
 <nav class="crumbs"><a href="../index.html">Everything</a> · <a href="../map/index.html">The map</a> · <a href="../time/index.html">The timeline</a> · <a href="../against/index.html">What it stops</a> · <a href="../wear/index.html">Where it goes</a> · <a href="../signs/index.html">The signs</a> · <a href="../materials/index.html">Materials</a> · <a href="../places/index.html">Places</a> · <a href="../stories/index.html">Long reads</a> · <a href="../numbers/index.html">Numbers</a> · <a href="../quiz/index.html">Pick me one</a> · <a href="../search/index.html">Search</a> · <a href="../words/index.html">Words</a> · <a href="../sources/index.html">Where we got it</a> · <a href="../coverage/index.html">Where we stop</a> · <a href="../api/index.json">API</a> · <a href="../llms.txt">llms.txt</a> · <a class="wander" href="../wander.html" title="a record at random">🎲 Wander</a></nav></header>
-<main>
+<main id="main">
 
 <h1><span class="kind">Amulet Atlas</span>The timeline</h1>
 <p class="lede">241 records with a date on them, from the oldest to the one somebody

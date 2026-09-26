@@ -8,7 +8,12 @@
   "script": "Hebrew",
   "lang": "he",
   "said": "tfi-LIN; singular tefillah",
-  "aliases": ["phylacteries", "shel yad", "shel rosh"]
+  "aliases": [
+   "phylacteries",
+   "shel yad",
+   "shel rosh"
+  ],
+  "th": "เทฟิลลิน"
  },
  "etymology": {
   "root": "Mishnaic Hebrew plural of tefillah; Jastrow connects it to Syriac tefiltha, 'attachments' or 'hangings'. In the Hebrew Bible the objects are totafot, 'headband' or 'frontlet', from a reduplicated root ṭ-p-ṭ-p meaning 'to encircle'",
@@ -17,14 +22,34 @@
   "tier": "cited",
   "source": "s:wp-tefillin"
  },
- "region": ["levant", "diaspora", "north-america"],
- "countries": ["IL", "US"],
- "facets": {"era": "living", "status": "living", "portable": "worn", "restricted": "limited", "hemisphere": ["N", "E", "W"]},
+ "region": [
+  "levant",
+  "diaspora",
+  "north-america"
+ ],
+ "countries": [
+  "IL",
+  "US"
+ ],
+ "facets": {
+  "era": "living",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "limited",
+  "hemisphere": [
+   "N",
+   "E",
+   "W"
+  ]
+ },
  "text": {
   "what": "Two small black leather boxes with long black straps. The arm box goes on the upper non-dominant arm and its strap winds down the forearm, round the hand and round the middle finger; the head box sits between the eyes at the hairline. Each box is made from a single piece of hide, cubical, on a wider base, with a passage at the back for the strap. On both sides of the head box the letter shin is moulded — with four branches on the wearer's left instead of three. The head strap's knot forms a dalet, the arm strap's a yud; with the shin those three letters spell Shaddai. Inside are parchment scrolls with four Torah passages: Exodus 13:1–10, Exodus 13:11–16, Deuteronomy 6:4–9 and Deuteronomy 11:13–21. Three thousand one hundred and eighty-eight letters, and a scribe can take as long as fifteen hours to write a set.",
   "story": "Like the mezuzah, tefillin are a commandment and not an amulet, and the tradition guards that distinction itself. The cited account puts it exactly: tefillin are sometimes mentioned together with amulets in the Talmud because of certain similarities of form, but they are never identified as such — they are specifically differentiated from them. Maimonides counts the arm box and the head box as two separate positive commandments. His account of what they do is about the wearer's mind: as long as they are on the head and the arm of a man, \"he is modest and God-fearing and will not be attracted by hilarity or idle talk\". The Sefer ha-Chinuch, in the 14th century, adds that they help subjugate worldly desire. Joseph Caro, in the 16th, explains the positions: next to the heart and above the brain, to show both organs willing to serve.\n\nThe argument that they are also apotropaic is made, and made by named people. Yehudah B. Cohn argues that tefillin should be read as an invented tradition, aimed at countering the popularity of Greek amulets with a Jewish one. Joshua Trachtenberg took every ornament worn on the body, whatever its declared function, to have begun as an amulet. And the early rabbinic sources are explicit enough on their own: Numbers Rabbah 12:3 has tefillin defeating \"a thousand demons\" coming up on the left side; rabbis Yohanan and Nahman use their sets to repel the demons of privies; Elisha the Winged, scrupulous in this mitzvah, is saved from Roman persecution. Tefillin are also credited with lengthening life, and are listed in one breath with objects that are amuletic in nature.\n\nSo the atlas includes them and states the objection rather than dissolving it. The object is dated: Jews were wearing physical tefillin by at least the first century CE, which is shown by the finds at Qumran and by the reference in Matthew 23. Karaite Judaism reads the commandment as metaphor and does not.\n\nWho wears them is governed. The obligation rests on Jewish males from thirteen; women are exempt, as they are from most time-bound positive commandments, and since Rema in the 16th century the prevalent practice among religious Jews has strongly discouraged women from wearing them. Claims that Rashi's daughters and the wife of Chaim ibn Attar wore tefillin have no historical evidence behind them. In Orthodox practice it remains a male obligation; Conservative women often wrap; SAR High School in Riverdale allowed girls to wrap at morning prayer from 2013, probably the first Modern Orthodox high school in the United States to do so; a Jerusalem District Court judge ruled in 2013 that Women of the Wall wearing tefillin at the Western Wall did not violate 'local custom'; in 2018 students at Hebrew College in Boston made a series of videos teaching female and transgender Jews to wrap.",
   "how": "Cubical boxes from a single piece of hide, in three grades — peshutim, made with several pieces of parchment forming the inner walls of the head box; dakkot, stretched from one thin piece; and the more durable gassot. Painted black by custom now, though the archaeological finds do not show that this was always so. Straps must be black on the outside and any colour but red inside. The four passages go on one strip in the arm box, which has a single compartment, and on four separate scrolls in the head box, which has four — because the verses name the hand device in the singular and the head device in the plural. Written by a scribe in Ashuri script in one of three lettering styles: Beis Yosef for Ashkenazim, Arizal for Hasidim, Velish for Sefardim. The letters must be written in order; a mistake found later cannot be corrected, because the replacement would be out of sequence, and the set is invalid. Talmudic commentators disagreed on the order of the scrolls: Rashi held to the order the passages appear in the Torah, Rabbeinu Tam switched the last two. Most follow Rashi; some also lay Rabbeinu Tam briefly, a custom of the Ari taken up by Hasidim, many Sephardic communities and some Ashkenazim. The Vilna Gaon, who wore Rashi's, rejected the stringency, pointing out that there are 64 possible arrangements and one cannot put on 64 sets. Worn during Shacharit on weekdays and removed after morning services; Jewish men once wore them all day.",
   "today": "Worn daily wherever weekday morning prayer is kept, as of 2026. The live question inside the tradition is gender, and it is being answered differently by different communities — see the story above, which names the rulings and the dates."
+ },
+ "text_th": {
+  "what": "กล่องหนังสีดำใบเล็กสองใบ พร้อมสายหนังสีดำยาว กล่องสำหรับแขนสวมที่ต้นแขนข้างที่ไม่ถนัด และสายพันลงมาตามแขนท่อนล่าง รอบมือ และรอบนิ้วกลาง กล่องสำหรับศีรษะวางอยู่ระหว่างดวงตาตรงแนวไรผม กล่องแต่ละใบทำจากหนังสัตว์ชิ้นเดียว ทรงลูกบาศก์ บนฐานที่กว้างกว่า มีช่องด้านหลังสำหรับร้อยสาย ทั้งสองด้านของกล่องศีรษะมีตัวอักษรชิน (shin) ขึ้นรูปไว้ — ด้านซ้ายของผู้สวมมีสี่แฉกแทนสามแฉก ปมของสายศีรษะเป็นรูปตัวดาเลต (dalet) ปมของสายแขนเป็นรูปตัวยุด (yud) เมื่อรวมกับชิน ตัวอักษรทั้งสามสะกดเป็น ชัดดัย (Shaddai) ข้างในมีม้วนหนังพาร์ชเมนต์บรรจุข้อความจากโทราห์สี่ตอน: อพยพ 13:1–10 อพยพ 13:11–16 เฉลยธรรมบัญญัติ 6:4–9 และเฉลยธรรมบัญญัติ 11:13–21 รวม 3,188 ตัวอักษร และอาลักษณ์อาจใช้เวลานานถึง 15 ชั่วโมงในการเขียนหนึ่งชุด"
  },
  "dating": {
   "period": "Second Temple period to the present",
@@ -40,41 +65,124 @@
  },
  "object": {
   "form": "box",
-  "materials": ["leather", "parchment", "ink"],
-  "worn": ["head", "upper-arm", "finger"],
+  "materials": [
+   "leather",
+   "parchment",
+   "ink"
+  ],
+  "worn": [
+   "head",
+   "upper-arm",
+   "finger"
+  ],
   "made_by": "a trained scribe writes the scrolls; the boxes are made to hundreds of detailed rules, in grades called peshutim, dakkot and gassot",
   "inscription": "Exodus 13:1–10, Exodus 13:11–16, Deuteronomy 6:4–9, Deuteronomy 11:13–21 — 3,188 letters in all",
   "script": "Hebrew, in Ashuri script",
-  "colour": ["black"],
+  "colour": [
+   "black"
+  ],
   "count": 4,
   "single_use": false,
   "source": "s:wp-tefillin",
   "note": "Count is the four Torah passages: one strip in the arm box, four scrolls in the four compartments of the head box."
  },
  "against": [
-  {"harm": "demons", "who": "Numbers Rabbah 12:3, which has tefillin defeating a thousand demons emerging on the left side, and the rabbis Yohanan and Nahman, who used their sets against the demons of privies", "source": "s:wp-tefillin", "tier": "cited", "note": "Jewish law classes tefillin as commandments and the Talmud specifically differentiates them from amulets; this entry reports a documented reading, not the tradition's own category"},
-  {"harm": "illness", "who": "the early rabbinic tradition, in which tefillin are credited with life-lengthening qualities", "source": "s:wp-tefillin", "tier": "cited"},
-  {"harm": "war", "who": "the story of Elisha the Winged, scrupulous in this mitzvah and saved from Roman persecution", "source": "s:wp-tefillin", "tier": "cited"}
+  {
+   "harm": "demons",
+   "who": "Numbers Rabbah 12:3, which has tefillin defeating a thousand demons emerging on the left side, and the rabbis Yohanan and Nahman, who used their sets against the demons of privies",
+   "source": "s:wp-tefillin",
+   "tier": "cited",
+   "note": "Jewish law classes tefillin as commandments and the Talmud specifically differentiates them from amulets; this entry reports a documented reading, not the tradition's own category"
+  },
+  {
+   "harm": "illness",
+   "who": "the early rabbinic tradition, in which tefillin are credited with life-lengthening qualities",
+   "source": "s:wp-tefillin",
+   "tier": "cited"
+  },
+  {
+   "harm": "war",
+   "who": "the story of Elisha the Winged, scrupulous in this mitzvah and saved from Roman persecution",
+   "source": "s:wp-tefillin",
+   "tier": "cited"
+  }
  ],
  "kin": [
-  {"to": "mezuzah", "as": "the partner commandment, carrying two of the same four passages, fixed to the door instead of bound to the body — and the object Maimonides used to say what happens when a mitzvah is treated as a talisman", "rel": "kin"},
-  {"to": "phylactery-word", "as": "the Greek word for 'safeguard' that English fastened onto these, and that the tradition's own usage never uses", "rel": "same-word"},
-  {"to": "ketef-hinnom-scrolls", "as": "the oldest surviving Hebrew verses written small and carried — six centuries before the earliest tefillin finds", "rel": "origin"},
-  {"to": "red-string", "as": "in the 1490s, when Jews were barred from wearing tefillin, Rabbi Abraham Saba recommended a red string on the hand to remember this commandment — the one documented moment where one substitutes for the other", "rel": "parallel"},
-  {"to": "kamea", "as": "the written Jewish amulet these are constantly mistaken for and formally separated from", "rel": "contrast"},
-  {"to": "jewish-practical-kabbalah", "as": "the tradition the apotropaic reading of tefillin belongs to, named here and not joined", "rel": "contrast"},
-  {"to": "parchment", "as": "what the passages are written on, and where a single out-of-order letter invalidates the set", "rel": "material"},
-  {"to": "talismanic-shirt", "as": "scripture worn on the body in another book's tradition, with none of this one's objection to the word", "rel": "parallel"},
-  {"to": "inscribing", "as": "the practice at its most exacting: 3,188 letters, in order, no corrections", "rel": "practice"},
-  {"to": "amulet-or-talisman", "as": "the long read; this record is here under protest from the tradition it belongs to, and says so", "rel": "story"}
+  {
+   "to": "mezuzah",
+   "as": "the partner commandment, carrying two of the same four passages, fixed to the door instead of bound to the body — and the object Maimonides used to say what happens when a mitzvah is treated as a talisman",
+   "rel": "kin"
+  },
+  {
+   "to": "phylactery-word",
+   "as": "the Greek word for 'safeguard' that English fastened onto these, and that the tradition's own usage never uses",
+   "rel": "same-word"
+  },
+  {
+   "to": "ketef-hinnom-scrolls",
+   "as": "the oldest surviving Hebrew verses written small and carried — six centuries before the earliest tefillin finds",
+   "rel": "origin"
+  },
+  {
+   "to": "red-string",
+   "as": "in the 1490s, when Jews were barred from wearing tefillin, Rabbi Abraham Saba recommended a red string on the hand to remember this commandment — the one documented moment where one substitutes for the other",
+   "rel": "parallel"
+  },
+  {
+   "to": "kamea",
+   "as": "the written Jewish amulet these are constantly mistaken for and formally separated from",
+   "rel": "contrast"
+  },
+  {
+   "to": "jewish-practical-kabbalah",
+   "as": "the tradition the apotropaic reading of tefillin belongs to, named here and not joined",
+   "rel": "contrast"
+  },
+  {
+   "to": "parchment",
+   "as": "what the passages are written on, and where a single out-of-order letter invalidates the set",
+   "rel": "material"
+  },
+  {
+   "to": "talismanic-shirt",
+   "as": "scripture worn on the body in another book's tradition, with none of this one's objection to the word",
+   "rel": "parallel"
+  },
+  {
+   "to": "inscribing",
+   "as": "the practice at its most exacting: 3,188 letters, in order, no corrections",
+   "rel": "practice"
+  },
+  {
+   "to": "amulet-or-talisman",
+   "as": "the long read; this record is here under protest from the tradition it belongs to, and says so",
+   "rel": "story"
+  }
  ],
- "links": [{"label": "Tefillin — Wikipedia", "url": "https://en.wikipedia.org/wiki/Tefillin"}],
- "sources": ["s:wp-tefillin", "s:wp-mezuzah", "s:wp-phylactery", "s:wp-practical-kabbalah", "s:wp-red-string-kabbalah"],
+ "links": [
+  {
+   "label": "Tefillin — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tefillin"
+  }
+ ],
+ "sources": [
+  "s:wp-tefillin",
+  "s:wp-mezuzah",
+  "s:wp-phylactery",
+  "s:wp-practical-kabbalah",
+  "s:wp-red-string-kabbalah"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-tefillin"}
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-tefillin"
+  }
  },
  "images": [],
- "x_commons_files": ["File:Tefillin.jpg", "File:Man wearing tefillin.jpg"],
+ "x_commons_files": [
+  "File:Tefillin.jpg",
+  "File:Man wearing tefillin.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-16"
 }

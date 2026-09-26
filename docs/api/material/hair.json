@@ -12,7 +12,8 @@
    "nail clippings",
    "ousia",
    "conjure hair"
-  ]
+  ],
+  "th": "เส้นผม"
  },
  "region": [
   "greece-aegean",
@@ -36,6 +37,9 @@
   "story": "The Greek binding spells give the theory. Curse tablets included hair or pieces of clothing, and the cited account explains why: this was seen as a way to give them strength through the inclusion of the central essence — ousia — of the person. Love spells are the strongest case, calling for \"hair from the head of the love target\", and some have been found \"folded around some hair\", probably to bind the spell itself.\n\nEngland put it in a bottle. A witch bottle historically contained the victim's urine, hair or nail clippings, or red thread from sprite traps; older accounts list rusty nails, urine, thorns, hair, menstrual blood, and pieces of glass, wood and bone. The bottle was buried at the farthest corner of a property, under the hearth, or hidden in a wall, and was held to work as long as it stayed hidden and unbroken.\n\nOne of those bottles has been opened in a laboratory, which is the only time in this record that hair gets analysed rather than described. A glass bottle found buried in the threshold of a house at Trelissick in Cornwall appeared on Antiques Roadshow in 2016; a 2019 episode reported that Loughborough University had analysed the contents and identified \"urine, a tiny bit of alcohol, and one human hair\", alongside brass pins dating from the late 1840s and an ostracod.\n\nIn the American South the same component travels under a different name. A former slave from Texas described how a conjure bag was assembled: they \"would take hair and brass nails and thimbles and needles and mix them up in a conjure bag.\" A goofer bag is made with goofer-root, cloth, strands of hair, needles and graveyard dirt, and camel hair is added to increase a bundle's potency.\n\n*Inference —* one hair, from one Cornish bottle, is the entire physical record this atlas can point to. Hair survives in the right conditions — dry, sealed, frozen — and rots everywhere else, and the bottles that preserved it did so by accident of being corked. Set that single strand against the thousands of surviving lead tablets that once had hair folded into them, and the shape of the gap is visible: the metal is in the museum and the person is gone.",
   "how": "Cut, or collected after cutting, and then enclosed — folded inside a lead sheet, corked into a bottle, sewn into a flannel bag. The enclosing is the point. Hair on its own is not treated as a charm in any account read here.",
   "notes": "This record describes a component taken from a named living person, sometimes without that person's knowledge. It names no living person and reproduces no procedure for obtaining it."
+ },
+ "text_th": {
+  "what": "เส้นผมที่ตัดจากบุคคลที่ระบุชื่อ แล้วใส่ไว้ในสิ่งอื่น แทบไม่เคยเป็นเครื่องรางด้วยตัวเอง มันคือส่วนประกอบที่ทำให้สูตรทั่วไปชี้ไปยังร่างกายของคนคนหนึ่งโดยเฉพาะ และทุกธรรมเนียมในที่นี้ก็พูดเช่นนั้นออกมาตรง ๆ"
  },
  "dating": {
   "period": "Classical Greece to the present",
@@ -209,63 +213,81 @@
    "type": "amulet",
    "name": "Curse tablet",
    "as": "where the theory is written down: hair carries the ousia, the essence, and makes the sheet point at one person",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "แผ่นคำสาป (คาตาเดสมอส)",
+   "as_th": ""
   },
   {
    "to": "witch-bottle",
    "type": "amulet",
    "name": "Witch bottle",
    "as": "the container that preserved the only analysed strand in this atlas, corked under a Cornish threshold",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ขวดแม่มด",
+   "as_th": ""
   },
   {
    "to": "gris-gris",
    "type": "amulet",
    "name": "Gris-gris",
    "as": "the West African bagged charm whose American descendants take hair among their ingredients",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กรีกรี (ถุงเครื่องรางแอฟริกาตะวันตก)",
+   "as_th": ""
   },
   {
    "to": "cloth",
    "type": "material",
    "name": "Cloth",
    "as": "the other component curse tablets took from a person's body — a piece of clothing, doing the same pointing job",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ผ้า",
+   "as_th": ""
   },
   {
    "to": "thread",
    "type": "material",
    "name": "Thread and cord",
    "as": "the other material that leaves no museum tray, and for the same reason",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ด้ายและเชือก",
+   "as_th": ""
   },
   {
    "to": "lead",
    "type": "material",
    "name": "Lead",
    "as": "the sheet the hair was folded into, and the half of the pair that survived",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ตะกั่ว",
+   "as_th": ""
   },
   {
    "to": "sewing-in",
    "type": "practice",
    "name": "Sewing in",
    "as": "the practice of enclosing, which is the only thing done to this material",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเย็บเครื่องรางไว้ในผ้า",
+   "as_th": ""
   },
   {
    "to": "burying",
    "type": "practice",
    "name": "Burying",
    "as": "how a hair charm is delivered: the farthest corner of the property, or under the hearth",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การฝัง",
+   "as_th": ""
   },
   {
    "to": "dating-a-charm",
    "type": "story",
    "name": "Dating a charm",
    "as": "the long read on why the timeline in this atlas looks the way it does, which this record is the extreme case of",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "การระบุอายุเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -392,28 +414,36 @@
    "type": "amulet",
    "name": "Senninbari",
    "as": "what some belts were lined with — one woman's, or several — a custom recorded as coming from Okinawa",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เซ็นนินบาริ (ผ้าพันฝีเข็ม)",
+   "as_th": ""
   },
   {
    "from": "bone-ivory",
    "type": "material",
    "name": "Bone and ivory",
    "as": "the other material taken from a body, and the one that does not survive as well",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "กระดูกและงา",
+   "as_th": "วัสดุอีกชนิดที่เอามาจากร่างกาย และเป็นชนิดที่หลงเหลือได้ไม่ดีเท่า"
   },
   {
    "from": "cloth",
    "type": "material",
    "name": "Cloth",
    "as": "the other thing curse tablets took from a person: hair, or a piece of their clothing",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ผ้า",
+   "as_th": ""
   },
   {
    "from": "lead",
    "type": "material",
    "name": "Lead",
    "as": "what gets folded into the sheet to make the writing point at one named person",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ตะกั่ว",
+   "as_th": ""
   }
  ]
 }

@@ -4,7 +4,8 @@
   "name": "Gold",
   "aliases": [
    "aurum"
-  ]
+  ],
+  "th": "ทองคำ"
  },
  "region": [
   "ancient-egypt",
@@ -30,6 +31,9 @@
   "what": "A bright yellow metal, dense at 19.3 grams per cubic centimetre, soft, and so malleable that a single gram beats out into a sheet a metre square. It occurs native, usually in solid solution with silver. It does not corrode and it does not tarnish, which is the property every tradition that uses it eventually says something about.",
   "story": "Gold is the earliest metal on the human record. Small quantities appear in Spanish caves from around 40,000 BCE; the oldest gold artefacts in the world come from the Varna Necropolis in Bulgaria, fifth millennium BCE — the same cemetery that produced the first faceted carnelian beads. Egyptian and Mesopotamian gold objects follow in the fourth millennium BCE.\n\nIn amulets, gold's job is usually to say who is wearing it. A Roman boy wore a bulla, a locket-like pouch with a protective amulet inside, from nine days after birth until he put on the toga of manhood. Upper-class families could afford bullae of gold or covered in gold foil; everyone else used lead, leather and cloth. The girls' equivalent is defined by Isidore of Seville: \"Lunulae are female ornaments in the likeness of the moon, little hanging gold bullae.\" Plautus has Epidicus ask a girl, \"Don't you remember my bringing you a gold lunula on your birthday, and a little gold ring for your finger?\" The same charm, on two children, in two price brackets.\n\nElsewhere gold is one option in a list. Egyptian amulets were made of faience above all, but also of stone, metal, bone, wood and gold. Late antique sheet amulets from Palestine and Syria were rolled from silver, gold, copper and lead. Milagros, the Latin American votive charms, are made from gold, silver, tin, lead, wood, bone or wax, depending on local custom and on what the person can spend. Part of the Thetford treasure in Norfolk is a gold box made to hang round the neck, found to contain sulphur for its evil-repelling qualities.\n\nGold is also the benchmark other materials are measured against, and sometimes beaten by. Jade reaching the Chinese court from Khotan is described as having status-value exceeding that of gold or silver. In the Han jade burial suits the gold is demoted to thread: emperors' suits were sewn with gold wire, princes and marquises with silver, their children with copper, lesser aristocrats with silk. *Inference —* a material hierarchy written into a burial regulation is the clearest statement in this atlas that what a charm is made of is a claim about the person in it.",
   "today": "Gold amulets are sold everywhere amulets are sold, and are the class of charm most likely to be melted rather than kept — which is a survival bias running the opposite way to faience. The Aztecs, the gold literature notes, called the metal literally \"god excrement\"."
+ },
+ "text_th": {
+  "what": "โลหะสีเหลืองสดใส หนาแน่น 19.3 กรัมต่อลูกบาศก์เซนติเมตร อ่อน และตีแผ่ได้ดีจนทองหนึ่งกรัมตีเป็นแผ่นได้กว้างหนึ่งตารางเมตร พบเป็นทองคำธรรมชาติ ส่วนใหญ่อยู่ในรูปสารละลายของแข็งกับเงิน ไม่ผุกร่อนและไม่หมอง ซึ่งเป็นคุณสมบัติที่ทุกธรรมเนียมที่ใช้ทองคำล้วนพูดถึงในที่สุด"
  },
  "dating": {
   "period": "Chalcolithic to the present",
@@ -214,63 +218,81 @@
    "type": "amulet",
    "name": "Bulla",
    "as": "gold for the families that could pay for gold, lead and leather for the rest — the same charm, sorted by price",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "บุลลา (ล็อกเกตของเด็กชายโรมัน)",
+   "as_th": ""
   },
   {
    "to": "lunula",
    "type": "amulet",
    "name": "Lunula",
    "as": "defined in the sources as a little hanging gold bulla in the likeness of the moon",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ลูนูลา (จี้พระจันทร์เสี้ยวโรมัน)",
+   "as_th": ""
   },
   {
    "to": "milagro",
    "type": "amulet",
    "name": "Milagro",
    "as": "made in gold, silver, tin, lead, wood, bone or wax, according to local custom and what the giver has",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "มิลาโกร (แผ่นโลหะแก้บน)",
+   "as_th": ""
   },
   {
    "to": "jade",
    "type": "material",
    "name": "Jade",
    "as": "the material that outranked gold at the Chinese court, and demoted it to the thread holding a burial suit together",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "หยก",
+   "as_th": ""
   },
   {
    "to": "silver",
    "type": "material",
    "name": "Silver",
    "as": "the metal one step down, and the one most of the world's amulets are actually made of",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เงิน (โลหะเงิน)",
+   "as_th": ""
   },
   {
    "to": "lead",
    "type": "material",
    "name": "Lead",
    "as": "the poor man's bulla, named as such in the same sentence",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ตะกั่ว",
+   "as_th": ""
   },
   {
    "to": "greco-roman-apotropaic",
    "type": "tradition",
    "name": "Greek and Roman protective magic",
    "as": "the tradition whose charms for children this metal grades",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เวทมนตร์ป้องกันภัยของกรีกและโรมัน",
+   "as_th": ""
   },
   {
    "to": "magical-gem",
    "type": "amulet",
    "name": "Magical gem",
    "as": "the engraved stone that was set in gold when the owner could manage it",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "อัญมณีเวทมนตร์ (หินสลักกรีก-อียิปต์)",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read on value, ownership and what happens to a charm worth melting",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -434,49 +456,63 @@
    "type": "amulet",
    "name": "Bulla",
    "as": "the material at the top of the range; lead, leather and cloth did the same job for families who could not buy gold",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "บุลลา (ล็อกเกตของเด็กชายโรมัน)",
+   "as_th": ""
   },
   {
    "from": "djed-pillar",
    "type": "amulet",
    "name": "Djed pillar",
    "as": "the material the Book of the Dead's spell specifies for it",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เสาเจด",
+   "as_th": ""
   },
   {
    "from": "lunula",
    "type": "amulet",
    "name": "Lunula",
    "as": "the metal Isidore specifies and Plautus's characters can afford",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ลูนูลา (จี้พระจันทร์เสี้ยวโรมัน)",
+   "as_th": ""
   },
   {
    "from": "navaratna-ring",
    "type": "amulet",
    "name": "Navaratna ring",
    "as": "the usual setting, and — in Yogananda's account — part of the prescription rather than the frame",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "แหวนนพเก้า",
+   "as_th": "ตัวเรือนตามปกติ และ — ตามคำของโยคานันทะ — เป็นส่วนหนึ่งของข้อกำหนด ไม่ใช่แค่กรอบ"
   },
   {
    "from": "jade",
    "type": "material",
    "name": "Jade",
    "as": "the metal jade outranked at the Chinese court, and reduced to thread in a burial suit",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "หยก",
+   "as_th": ""
   },
   {
    "from": "silver",
    "type": "material",
    "name": "Silver",
    "as": "the metal above it, and the one a household reaches for only when it can",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เงิน (โลหะเงิน)",
+   "as_th": ""
   },
   {
    "from": "thread",
    "type": "material",
    "name": "Thread and cord",
    "as": "the thread of an emperor's burial suit, where rank is written in what the stitching is made of",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ด้ายและเชือก",
+   "as_th": ""
   }
  ]
 }

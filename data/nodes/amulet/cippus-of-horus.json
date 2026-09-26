@@ -5,7 +5,14 @@
  "names": {
   "name": "Cippus of Horus",
   "said": "SIP-us, plural cippi, from the Latin for a small pillar or marker",
-  "aliases": ["magical stela", "healing stela", "Horus on the Crocodiles", "Horus stela", "Horus cippus"]
+  "aliases": [
+   "magical stela",
+   "healing stela",
+   "Horus on the Crocodiles",
+   "Horus stela",
+   "Horus cippus"
+  ],
+  "th": "ซิปปัสแห่งฮอรัส (ศิลาฮอรัส)"
  },
  "etymology": {
   "root": "Latin cippus, a small pillar or boundary stone — an archaeologist's borrowing, not an Egyptian word for the object.",
@@ -13,14 +20,30 @@
   "tier": "cited",
   "source": "s:wp-horus-on-the-crocodiles"
  },
- "region": ["ancient-egypt"],
- "countries": ["EG"],
- "facets": {"era": "ancient", "status": "archaeological", "portable": "fixed", "restricted": "open", "hemisphere": ["N", "E"]},
+ "region": [
+  "ancient-egypt"
+ ],
+ "countries": [
+  "EG"
+ ],
+ "facets": {
+  "era": "ancient",
+  "status": "archaeological",
+  "portable": "fixed",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "A slab of stone carved with the child Horus standing on two crocodiles, gripping snakes and scorpions in his fists, and often an antelope by the horns and a lion by the tail. Rows of hieroglyphs cover the rest of it. Sizes run from house-sized stelae down to amulets small enough to carry: the Metternich Stela is one block of greywacke about 35.8 inches tall and 13.25 wide, and the Metropolitan Museum also holds a miniature.",
   "story": "This is an amulet you drink. The instruction is on the object: water is poured over the carved spells and the carved figures, collected at the base, and given to the person who has been bitten or stung, to swallow or to wash the wound with. The words come off the stone into the water. Priests recited alongside.\n\nThe Metternich Stela is the fullest of them. It dates to about 380–342 BCE, the Thirtieth Dynasty, under Nectanebo II, and it carries thirteen spells against venomous bites and wounds and against the illnesses they cause — including the story of Isis and the Seven Scorpions, which is among the most complete versions found on any monument. The logic is precedent: Horus as a child was stung in the marshes at Khemmis and was cured, and the spell puts the patient in the child's place.\n\nIt disappeared for two thousand years and turned up in a wall excavated in a Franciscan monastery. Muhammad Ali Pasha gave it to Prince Metternich in 1828; it sat at Kynžvart Castle in Bohemia until 1950, when the Metropolitan Museum of Art acquired it.\n\nThe class runs from the Third Intermediate Period to the end of Ptolemaic rule in Egypt. Not all of them are museum monuments — some are amulet-sized, and the same image of Horus on the crocodiles is carried. The Egyptian Museum in Cairo holds the healing statue of Djedhor, the Louvre a Priest of Bastet statue, and the Brooklyn Museum another cippus; Keith Seele, Robert Ritner and Jane Draycott have written on them.\n\n*Inference —* an amulet that is used up by being washed is a different kind of object from one that is worn, and it puts this stone closer to an Ethiopian scroll read aloud, or to a Qur'anic bowl rinsed and drunk, than to the faience beetle in the next tray.",
   "how": "Carved in stone with the Horus figure on the front and the spells around it. Water is poured over it, caught, and drunk or applied to the body by the person suffering the poisoning, with rites recited by priests. The large ones stay where they stand; the small ones are carried.",
   "today": "Not in use. Cippi are museum objects — the Metropolitan Museum shows them at The Met Fifth Avenue, and the Brooklyn Museum, the Louvre and the Egyptian Museum in Cairo hold others. As of 2026 this project has read no account of water being poured over one for a patient."
+ },
+ "text_th": {
+  "what": "แผ่นหินสลักรูปฮอรัสในวัยเด็ก ยืนอยู่บนจระเข้สองตัว กำงูและแมงป่องไว้ในกำปั้น และบ่อยครั้งจับละมั่งไว้ที่เขาและจับสิงโตไว้ที่หาง ส่วนที่เหลือเต็มไปด้วยแถวอักษรไฮโรกลิฟิก ขนาดมีตั้งแต่ศิลาจารึกขนาดเท่าบ้านลงไปจนถึงเครื่องรางที่เล็กพอจะพกติดตัว ศิลาเมทเทอร์นิช (Metternich Stela) ทำจากหินเกรย์แวกเกก้อนเดียว สูงราว 35.8 นิ้ว กว้าง 13.25 นิ้ว และพิพิธภัณฑ์เมโทรโพลิแทนก็มีชิ้นขนาดจิ๋วอยู่ด้วย"
  },
  "dating": {
   "period": "Third Intermediate Period to the end of Ptolemaic Egypt",
@@ -36,52 +59,150 @@
  },
  "object": {
   "form": "plaque",
-  "materials": ["earth"],
-  "worn": ["wall", "neck"],
+  "materials": [
+   "earth"
+  ],
+  "worn": [
+   "wall",
+   "neck"
+  ],
   "made_by": "temple workshops; the rites over it were recited by priests",
   "inscription": "spells against venomous bites and stings and the illnesses they cause — the Metternich Stela carries thirteen, including the story of Isis and the Seven Scorpions",
   "script": "Egyptian hieroglyphic",
   "length_mm": 909,
-  "colour": ["grey-green"],
+  "colour": [
+   "grey-green"
+  ],
   "single_use": false,
   "source": "s:wp-metternich-stela",
   "note": "909 mm converts the source's published 35.8 inches for the Metternich Stela; the width it gives is 13.25 inches. That is one object, and the class runs down to amulet size. Greywacke, the stone the Metternich Stela is cut from, has no key in materials.json."
  },
  "against": [
-  {"harm": "snakebite", "who": "the spells cut on the stela itself, as summarised by the Metropolitan Museum's Wikipedia entry: 'thirteen magic spells to protect against venomous bites and wounds and to cure the illnesses caused by them'", "source": "s:wp-metternich-stela", "tier": "cited"},
-  {"harm": "animal-attack", "who": "the carving — Horus holds a lion by the tail and an antelope by the horns while standing on two crocodiles", "source": "s:wp-metternich-stela", "tier": "cited"},
-  {"harm": "illness", "who": "the instructions on the cippi, which the source says were used to heal afflictions caused by snake or scorpion venom", "source": "s:wp-horus-on-the-crocodiles", "tier": "cited"}
+  {
+   "harm": "snakebite",
+   "who": "the spells cut on the stela itself, as summarised by the Metropolitan Museum's Wikipedia entry: 'thirteen magic spells to protect against venomous bites and wounds and to cure the illnesses caused by them'",
+   "source": "s:wp-metternich-stela",
+   "tier": "cited"
+  },
+  {
+   "harm": "animal-attack",
+   "who": "the carving — Horus holds a lion by the tail and an antelope by the horns while standing on two crocodiles",
+   "source": "s:wp-metternich-stela",
+   "tier": "cited"
+  },
+  {
+   "harm": "illness",
+   "who": "the instructions on the cippi, which the source says were used to heal afflictions caused by snake or scorpion venom",
+   "source": "s:wp-horus-on-the-crocodiles",
+   "tier": "cited"
+  }
  ],
  "holdings": [
-  {"museum": "met", "what": "the Metternich Stela, acquired in 1950, and a miniature cippus", "source": "s:wp-metternich-stela", "open_access": true, "note": "no accession number is entered because this project read none off a catalogue page"},
-  {"museum": "louvre", "what": "the Priest of Bastet statue, named by the source among the well-documented examples", "source": "s:wp-horus-on-the-crocodiles"},
-  {"museum": "egyptian-museum-cairo", "what": "the Djedhor healing statue", "source": "s:wp-horus-on-the-crocodiles"}
+  {
+   "museum": "met",
+   "what": "the Metternich Stela, acquired in 1950, and a miniature cippus",
+   "source": "s:wp-metternich-stela",
+   "open_access": true,
+   "note": "no accession number is entered because this project read none off a catalogue page"
+  },
+  {
+   "museum": "louvre",
+   "what": "the Priest of Bastet statue, named by the source among the well-documented examples",
+   "source": "s:wp-horus-on-the-crocodiles"
+  },
+  {
+   "museum": "egyptian-museum-cairo",
+   "what": "the Djedhor healing statue",
+   "source": "s:wp-horus-on-the-crocodiles"
+  }
  ],
  "kin": [
-  {"to": "washing-off-ink", "as": "the practice this object is built for — the spell leaves the stone in the water and is swallowed", "rel": "practice"},
-  {"to": "ethiopian-magic-scroll", "as": "a later charm on the same principle, further up the Nile: words that have to be got off the page and into the patient", "rel": "parallel"},
-  {"to": "incantation-bowl", "as": "Mesopotamia's written-spell vessel — the same trick of putting the words on the container", "rel": "parallel"},
-  {"to": "wedjat-eye", "as": "the eye of the same god, worn small; this is the god himself as a child, carved large and rinsed", "rel": "kin"},
-  {"to": "egyptian-amulet-craft", "as": "the tradition that cut it, at the end of its long life and at its most textual", "rel": "tradition"},
-  {"to": "serpent", "as": "the sign in his fists, and the harm the stone is aimed at", "rel": "motif"},
-  {"to": "inscribing", "as": "the step that does the work — without the cut spells the water is water", "rel": "practice"},
-  {"to": "met-egyptian-galleries", "as": "where the Metternich Stela stands, two thousand years after somebody walled it up", "rel": "held-at"},
-  {"to": "who-owns-a-charm", "as": "the long read it lands in: a pasha's gift to a prince, a castle in Bohemia, and a New York accession in 1950", "rel": "story"}
+  {
+   "to": "washing-off-ink",
+   "as": "the practice this object is built for — the spell leaves the stone in the water and is swallowed",
+   "rel": "practice"
+  },
+  {
+   "to": "ethiopian-magic-scroll",
+   "as": "a later charm on the same principle, further up the Nile: words that have to be got off the page and into the patient",
+   "rel": "parallel"
+  },
+  {
+   "to": "incantation-bowl",
+   "as": "Mesopotamia's written-spell vessel — the same trick of putting the words on the container",
+   "rel": "parallel"
+  },
+  {
+   "to": "wedjat-eye",
+   "as": "the eye of the same god, worn small; this is the god himself as a child, carved large and rinsed",
+   "rel": "kin"
+  },
+  {
+   "to": "egyptian-amulet-craft",
+   "as": "the tradition that cut it, at the end of its long life and at its most textual",
+   "rel": "tradition"
+  },
+  {
+   "to": "serpent",
+   "as": "the sign in his fists, and the harm the stone is aimed at",
+   "rel": "motif"
+  },
+  {
+   "to": "inscribing",
+   "as": "the step that does the work — without the cut spells the water is water",
+   "rel": "practice"
+  },
+  {
+   "to": "met-egyptian-galleries",
+   "as": "where the Metternich Stela stands, two thousand years after somebody walled it up",
+   "rel": "held-at"
+  },
+  {
+   "to": "who-owns-a-charm",
+   "as": "the long read it lands in: a pasha's gift to a prince, a castle in Bohemia, and a New York accession in 1950",
+   "rel": "story"
+  }
  ],
  "links": [
-  {"label": "Horus on the Crocodiles — Wikipedia", "url": "https://en.wikipedia.org/wiki/Horus_on_the_Crocodiles"},
-  {"label": "Metternich Stela — Wikipedia", "url": "https://en.wikipedia.org/wiki/Metternich_Stela"}
+  {
+   "label": "Horus on the Crocodiles — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Horus_on_the_Crocodiles"
+  },
+  {
+   "label": "Metternich Stela — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Metternich_Stela"
+  }
  ],
- "sources": ["s:wp-horus-on-the-crocodiles", "s:wp-metternich-stela", "s:wp-taweret", "s:wp-eye-of-horus", "s:wp-metropolitan-museum-of-art"],
+ "sources": [
+  "s:wp-horus-on-the-crocodiles",
+  "s:wp-metternich-stela",
+  "s:wp-taweret",
+  "s:wp-eye-of-horus",
+  "s:wp-metropolitan-museum-of-art"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-horus-on-the-crocodiles"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-horus-on-the-crocodiles"
+  },
   "fields": {
-   "dating": {"tier": "cited", "source": "s:wp-horus-on-the-crocodiles", "note": "period names converted to years by this project; the conversions are named in the dating note"},
-   "object": {"tier": "cited", "source": "s:wp-metternich-stela", "note": "the measurement is one object's, converted from inches"}
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-horus-on-the-crocodiles",
+    "note": "period names converted to years by this project; the conversions are named in the dating note"
+   },
+   "object": {
+    "tier": "cited",
+    "source": "s:wp-metternich-stela",
+    "note": "the measurement is one object's, converted from inches"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Metternich Stela MET DP237045.jpg", "File:Cippus of Horus.jpg"],
+ "x_commons_files": [
+  "File:Metternich Stela MET DP237045.jpg",
+  "File:Cippus of Horus.jpg"
+ ],
  "confidence": "medium",
  "needs_verification": true,
  "updated": "2026-09-16"

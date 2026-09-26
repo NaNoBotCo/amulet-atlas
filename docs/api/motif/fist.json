@@ -16,7 +16,8 @@
    "kukish",
    "shish",
    "dulya"
-  ]
+  ],
+  "th": "กำปั้นฟิก (มาโนฟิกา)"
  },
  "region": [
   "rome-italy",
@@ -62,6 +63,9 @@
   "what": "A closed fist with the thumb pushed up between the index and middle fingers, carved or cast small and hung at the neck. In jet it is black and matte; in coral it is red; in silver it is the size of a thumb joint. The gesture it copies is obscene, and that is the working part.",
   "story": "Rome called it the manus fica. The pater familias made it during the Lemuria to turn away the spirits of the dead. Early Christians called the same shape the manus obscena, the obscene hand. Greeks wore amulets of the gesture at the neck against the evil eye and drew it in their art; what they took to be an overtly sexual gesture was expected to distract harm from its target.\n\nThe fist also fused with another sign. Roman soldiers carried the fist-and-phallus amulet — a phallic pendant with a clenched fist at the base of the shaft, facing away from the glans, several of them making the fig sign. The largest known collection of them comes from Camulodunum, Roman Colchester. Some examples carry vulvar imagery as well.\n\nThe insult and the amulet never separated. In Italy the gesture was rude enough that Dante uses it in Inferno XXV; it has long since fallen out of use there. In Russia, Belarus and Ukraine it is shish, kukish or dulya, a flat refusal. In Turkey it is the equivalent of the middle finger. In Poland it means no. In Croatia, Serbia and Slovenia a fig hidden in a pocket marks a false oath.\n\nIn Portugal, Brazil and parts of Spain — Galicia and Asturias — the same hand is a wish of good luck and a guard against the evil eye. Asturian ones are made of jet and it is usual to give them to young children; Spanish calls them higas, Galician and Portuguese figas, Asturleonese ciguas. *Inference —* the same shape reads as a curse in one country and a christening present in the next, which is the clearest case in this atlas of a sign whose meaning is entirely local. In Britain, Ireland, France, Germany and North America it survives mainly as the game where an adult pretends to have stolen a child's nose.",
   "today": "Jet figas are still made and sold in Asturias and at Santiago de Compostela, where the jet trade grew up around pilgrims at the end of the Middle Ages. Brazilian figas are sold in wood, horn and gold."
+ },
+ "text_th": {
+  "what": "กำปั้นที่ดันนิ้วโป้งขึ้นระหว่างนิ้วชี้กับนิ้วกลาง แกะสลักหรือหล่อขนาดเล็กแล้วห้อยคอ ถ้าทำจากเจ็ตจะเป็นสีดำด้าน ถ้าทำจากปะการังจะเป็นสีแดง ถ้าทำจากเงินจะมีขนาดเท่าข้อนิ้วโป้ง ท่ามือที่มันเลียนแบบเป็นท่าหยาบคาย และนั่นคือส่วนที่ทำหน้าที่"
  },
  "kin": [
   {
@@ -283,56 +287,72 @@
    "type": "amulet",
    "name": "Figa",
    "as": "the amulet itself, cut in jet and put on a baby in Asturias and Brazil",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ฟีกา (กำปั้นกันภัย)",
+   "as_th": ""
   },
   {
    "to": "phallic-sign",
    "type": "motif",
    "name": "The phallus",
    "as": "the sign it is welded to on the Roman fist-and-phallus pendants soldiers carried",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สัญลักษณ์รูปลึงค์",
+   "as_th": ""
   },
   {
    "to": "hand",
    "type": "motif",
    "name": "The hand",
    "as": "the wider family of hand signs; this is the closed one",
-   "rel": "whole"
+   "rel": "whole",
+   "name_th": "มือ",
+   "as_th": ""
   },
   {
    "to": "open-palm",
    "type": "motif",
    "name": "The open palm",
    "as": "the other hand, flat and public, aimed at the same harm from the opposite posture",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ฝ่ามือเปิด (ฮัมซา)",
+   "as_th": ""
   },
   {
    "to": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "the harm all of this is aimed at — the fist is one of the shapes that takes the look",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "jet",
    "type": "material",
    "name": "Jet",
    "as": "the black stone Asturias cuts it from, and the reason so many survive",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เจ็ต (หินเจ็ต)",
+   "as_th": ""
   },
   {
    "to": "azabache",
    "type": "amulet",
    "name": "Azabache",
    "as": "the Spanish jet charm the figa is the commonest form of",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "อาซาบาเช (เครื่องรางหินเจ็ต)",
+   "as_th": ""
   },
   {
    "to": "cornicello",
    "type": "amulet",
    "name": "Cornicello",
    "as": "Naples reaches for a horn where Asturias reaches for a fist",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คอร์นิเชลโล (เขานำโชคอิตาลี)",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -571,63 +591,81 @@
    "type": "amulet",
    "name": "Azabache",
    "as": "the sign, filed in this atlas with the eye and the horn as things that catch a glance",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "อาซาบาเช (เครื่องรางหินเจ็ต)",
+   "as_th": ""
   },
   {
    "from": "cornicello",
    "type": "amulet",
    "name": "Cornicello",
    "as": "the gesture-amulet family the mano cornuta belongs to — a hand frozen mid-sign against the same eye",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คอร์นิเชลโล (เขานำโชคอิตาลี)",
+   "as_th": ""
   },
   {
    "from": "fascinum",
    "type": "amulet",
    "name": "Fascinum",
    "as": "the second sign bolted onto it in the soldiers' type — a clenched hand making the fig",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ฟัสซินุม (เครื่องรางรูปองคชาตโรมัน)",
+   "as_th": ""
   },
   {
    "from": "figa",
    "type": "amulet",
    "name": "Figa",
    "as": "the sign itself, and this is its commonest carved form",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ฟีกา (กำปั้นกันภัย)",
+   "as_th": ""
   },
   {
    "from": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "another substitute: a gesture frozen in coral or jet, aimed at the same look",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "from": "hand",
    "type": "motif",
    "name": "The hand",
    "as": "the closed posture — a rude gesture cast in silver and hung on a baby",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "มือ",
+   "as_th": ""
   },
   {
    "from": "open-palm",
    "type": "motif",
    "name": "The open palm",
    "as": "the other hand, closed and obscene, aimed at the same harm",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ฝ่ามือเปิด (ฮัมซา)",
+   "as_th": ""
   },
   {
    "from": "phallic-sign",
    "type": "motif",
    "name": "The phallus",
    "as": "the hand fused to the shaft on the soldiers' fist-and-phallus pendants",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สัญลักษณ์รูปลึงค์",
+   "as_th": "มือที่หลอมติดกับลำลึงค์บนจี้กำปั้นและลึงค์ของทหาร"
   },
   {
    "from": "coral",
    "type": "material",
    "name": "Red coral",
    "as": "the other sign it is cut into, for the same harm and the same wearer",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ปะการังแดง",
+   "as_th": ""
   }
  ]
 }

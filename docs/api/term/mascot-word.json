@@ -11,7 +11,8 @@
   "aliases": [
    "mascotte",
    "masco"
-  ]
+  ],
+  "th": "มาสคอต"
  },
  "etymology": {
   "root": "Provençal masco 'sorceress, witch' > French mascotte 'lucky charm' > English mascot",
@@ -40,6 +41,9 @@
  "text": {
   "what": "The only word in this batch whose modern sense is a job. A mascot is a human, an animal or an object thought to bring luck, or anything that stands for a group with a common public identity — a school, a team, a society, a military unit, a brand. The luck sense is still the first one the word carries; the costume is a twentieth-century addition.",
   "story": "The route is short and well-marked: masco, a Provençal word for a sorceress, into French mascotte meaning a lucky charm, used for anything that brought luck to a household. Wikipedia's article dates the first record to 1867 and the arrival in English to 1881, in the sense of a specific living creature attached to a human organisation as a symbol or live logo. What moved it from French gamblers' slang into general use was a stage piece: Edmond Audran's La mascotte, performed in December 1880.\n\nBefore all that the word sat on objects of a kind this atlas is full of — a lock of hair, a figurehead on a sailing ship.\n\nThe costume came later, and it came from puppetry. Animals were used first, by sports organisations, to entertain spectators and to unsettle opponents. Stylistic changes in American puppetry in the middle of the twentieth century, including the work of Jim Henson and of Sid and Marty Krofft, were adapted to sports mascots, and the three-dimensional costumed character followed — the Phillie Phanatic, the Flyers' Gritty, the Seattle Kraken's Buoy, the Washington Commanders' Major Tuddy. Marketers took the form from there.\n\nThe live argument attached to the word is over mascots based on human likenesses. Mascots using Native American tribes are contested, and many argue they are offensive exploitations of an oppressed culture. Several tribes have taken the other position: the Utah Utes and the Central Michigan Chippewas are sanctioned by local tribes, and Florida State's use of Osceola and Renegade is supported by the Seminole Tribe of Florida, though the university declines to call them mascots. Both sides are named here and neither is joined."
+ },
+ "text_th": {
+  "what": "คำเดียวในชุดนี้ที่ความหมายสมัยใหม่เป็นงานอาชีพ มาสคอตคือคน สัตว์ หรือสิ่งของที่เชื่อกันว่านำโชค หรือสิ่งใดก็ตามที่เป็นตัวแทนของกลุ่มที่มีอัตลักษณ์สาธารณะร่วมกัน เช่น โรงเรียน ทีม สมาคม หน่วยทหาร แบรนด์ ความหมายเรื่องโชคยังเป็นความหมายแรกที่คำนี้มี ส่วนชุดตัวมาสคอตเป็นสิ่งที่เพิ่มเข้ามาในคริสต์ศตวรรษที่ 20"
  },
  "dating": {
   "from_year": 1867,
@@ -152,42 +156,54 @@
    "type": "term",
    "name": "luck",
    "as": "the word it imports into English commerce — mascotte glossed as lucky charm, nothing more complicated",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ลัก (luck, โชค)",
+   "as_th": ""
   },
   {
    "to": "charm-word",
    "type": "term",
    "name": "charm",
    "as": "the older English word it took the luck-bringing job from, in sport and in advertising",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ชาร์ม (charm)",
+   "as_th": ""
   },
   {
    "to": "game-day-charm",
    "type": "amulet",
    "name": "Game-day charm",
    "as": "what a supporter carries, where the mascot is what the club owns",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ของนำโชควันแข่ง",
+   "as_th": ""
   },
   {
    "to": "challenge-coin",
    "type": "amulet",
    "name": "Challenge coin",
    "as": "the military parallel: an object that stands for a unit and is carried by its members",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เหรียญชาเลนจ์คอยน์ (เหรียญประจำหน่วย)",
+   "as_th": ""
   },
   {
    "to": "exam-charm",
    "type": "amulet",
    "name": "Exam charm",
    "as": "the private version of the same idea, with no costume and no crowd",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "เครื่องรางสอบผ่าน (โกกากุ คิกัง)",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read the Native American mascot argument belongs to",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -268,49 +284,63 @@
    "type": "amulet",
    "name": "Challenge coin",
    "as": "the word for a thing that stands for a group, which is what this coin is before it is anything else",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "เหรียญชาเลนจ์คอยน์ (เหรียญประจำหน่วย)",
+   "as_th": ""
   },
   {
    "from": "daruma",
    "type": "amulet",
    "name": "Daruma",
    "as": "what Takasaki turned it into, and the route from a temple charm to a civic emblem",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ดารุมะ",
+   "as_th": ""
   },
   {
    "from": "four-leaf-clover",
    "type": "amulet",
    "name": "Four-leaf clover",
    "as": "where it ends up: an emblem on a racing car and a rocket patch rather than an object in a pocket",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ใบโคลเวอร์สี่แฉก",
+   "as_th": ""
   },
   {
    "from": "game-day-charm",
    "type": "amulet",
    "name": "Game-day charm",
    "as": "the word for this whole family, and a gamblers' slang term before it was a costume",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ของนำโชควันแข่ง",
+   "as_th": ""
   },
   {
    "from": "maneki-neko",
    "type": "amulet",
    "name": "Maneki-neko",
    "as": "what it became: a corporate and civic mascot, Hikonyan included, which is where the charm and the brand meet",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "แมวกวัก (มาเนกิเนโกะ)",
+   "as_th": ""
   },
   {
    "from": "charm-word",
    "type": "term",
    "name": "charm",
    "as": "the nineteenth-century French import that took over the luck-bringing sense in sport and in advertising",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ชาร์ม (charm)",
+   "as_th": ""
   },
   {
    "from": "luck-word",
    "type": "term",
    "name": "luck",
    "as": "the French import that took the luck-bringing job in sport and commerce four centuries later",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ลัก (luck, โชค)",
+   "as_th": ""
   }
  ]
 }

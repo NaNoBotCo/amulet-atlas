@@ -13,7 +13,8 @@
    "tılsımlı gömlek",
    "pirâhan telesmat",
    "talismanic tunic"
-  ]
+  ],
+  "th": "เสื้อยันต์"
  },
  "region": [
   "anatolia",
@@ -41,6 +42,9 @@
  "text": {
   "what": "A shirt covered in writing. Verses from the Qur'an, the names of God, the names of prophets, or numbers, laid across the cloth in blocks and grids and roundels, sometimes with astrological images or magic squares among them. Four types are distinguished by style and by which symbols they use: Ottoman, Safavid, Mughal and West African.",
   "story": "The shirt has a scriptural warrant, and it is a specific one. In Surah Yusuf, Joseph's shirt protects him and works miracles; he sends it to cure his father's blindness. \"Go with this my shirt, and cast it over the face of my father: he will come to see\" — Qur'an 12:93. A shirt that heals by being put on a body is the model, and the shirts follow it.\n\nMost of them, though, are for battle. The Ottoman ruler Suleiman the Magnificent was given one by his wife Hürrem Sultan, who told him its inscriptions would protect him from bullets. His shirt is in the Topkapı Palace Museum, along with one made for Sultan Cem in 1480, while Cem was still a şehzade — unusual in that the beginning and the end of its manufacture are both inscribed on it, which makes it one of the few objects in this atlas that dates itself.\n\nThe earliest surviving shirts were made in or near the fifteenth century; one in the Turkish and Islamic Arts Museum in Istanbul is dated to the end of the fourteenth or the beginning of the fifteenth. The cited account adds that the tradition might be much older, and does not say how much. Two of the Khalili Collection's four shirts, from seventeenth-century Turkey and sixteenth- or seventeenth-century Mughal India, are covered with the holy sites of Mecca and Medina alongside prayers and Qur'anic extracts; the Turkish one is unusual for depicting the sites realistically rather than schematically. The latest named example belonged to Jembulat Boletoqo, Chemguy Grand Prince of Circassia from 1827 to 1836, and is displayed at the National Museum of the Republic of Adygea.\n\n*Inference —* every other written charm in this batch is small enough to hide. This one is a garment, which means it is either worn under armour where nobody sees it or worn where everybody does. The atlas has read no account of which, and says so."
+ },
+ "text_th": {
+  "what": "เสื้อที่มีตัวเขียนเต็มไปทั้งตัว ข้อความจากคัมภีร์อัลกุรอาน พระนามของพระเจ้า นามของศาสดา หรือตัวเลข จัดวางบนผ้าเป็นช่อง ตาราง และวงกลม บางครั้งมีภาพทางโหราศาสตร์หรือตารางมหัศจรรย์แทรกอยู่ด้วย แบ่งได้สี่แบบตามลีลาและสัญลักษณ์ที่ใช้ คือ ออตโตมัน ซาฟาวิด โมกุล และแอฟริกาตะวันตก"
  },
  "dating": {
   "period": "Ottoman, Safavid and Mughal",
@@ -249,63 +253,81 @@
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "the tradition, in its most expensive and most royal form",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "to": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the same writing folded into a packet instead of spread across a body",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "to": "quran-pendant",
    "type": "amulet",
    "name": "Qur'an pendant",
    "as": "the same verses in a case at the throat",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "จี้อัลกุรอาน",
+   "as_th": ""
   },
   {
    "to": "magic-square",
    "type": "motif",
    "name": "The number square",
    "as": "the wafq that appears among the inscriptions, and the reason numbers sit beside scripture on these shirts",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ตารางตัวเลข (ตารางมหัศจรรย์)",
+   "as_th": ""
   },
   {
    "to": "senninbari",
    "type": "amulet",
    "name": "Senninbari",
    "as": "Japan's thousand-stitch belt: another textile a soldier wore into battle, made by somebody else's hands for him",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เซ็นนินบาริ (ผ้าพันฝีเข็ม)",
+   "as_th": ""
   },
   {
    "to": "tefillin",
    "type": "amulet",
    "name": "Tefillin",
    "as": "scripture bound to the body under a law that refuses to call it an amulet — the contrast this record is sharpest against",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "เทฟิลลิน",
+   "as_th": ""
   },
   {
    "to": "cloth",
    "type": "material",
    "name": "Cloth",
    "as": "the material, and the one that turns a text into a thing you can put on",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "ผ้า",
+   "as_th": ""
   },
   {
    "to": "divine-name",
    "type": "motif",
    "name": "The name",
    "as": "the sign doing the work: the names of God, of prophets, and of the angels",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "พระนาม",
+   "as_th": ""
   },
   {
    "to": "sak-yant",
    "type": "amulet",
    "name": "Sak yant",
    "as": "the Southeast Asian answer to the same problem — script worn against blades, cut into skin instead of onto cotton",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "สักยันต์",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -478,91 +500,117 @@
    "type": "amulet",
    "name": "Anting-anting",
    "as": "Sakay's vest belongs with these — a written garment worn against shot",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "อันติง-อันติง (เครื่องรางฟิลิปปินส์)",
+   "as_th": ""
   },
   {
    "from": "ethiopian-magic-scroll",
    "type": "amulet",
    "name": "Ethiopian talismanic scroll",
    "as": "another garment-shaped text amulet, cut to a body and covered in writing",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "คัมภีร์ม้วนเครื่องรางเอธิโอเปีย (คิตาบ)",
+   "as_th": ""
   },
   {
    "from": "quran-pendant",
    "type": "amulet",
    "name": "Qur'an pendant",
    "as": "the same verses at the scale of a garment",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "จี้อัลกุรอาน",
+   "as_th": ""
   },
   {
    "from": "senninbari",
    "type": "amulet",
    "name": "Senninbari",
    "as": "the Islamic garment written over against blades and shot — the same idea worn, in ink rather than thread",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เซ็นนินบาริ (ผ้าพันฝีเข็ม)",
+   "as_th": ""
   },
   {
    "from": "taweez",
    "type": "amulet",
    "name": "Ta'wiz",
    "as": "the same writing scaled up until it is a garment",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ตะอ์วีซ",
+   "as_th": ""
   },
   {
    "from": "tefillin",
    "type": "amulet",
    "name": "Tefillin",
    "as": "scripture worn on the body in another book's tradition, with none of this one's objection to the word",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เทฟิลลิน",
+   "as_th": ""
   },
   {
    "from": "islamic-talismanic",
    "type": "tradition",
    "name": "Islamic talismanic craft",
    "as": "the tradition at its most expensive: the whole text scaled up to a garment, worn under armour, surviving from the 15th century",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ศาสตร์เครื่องรางอิสลาม (ฏิลัสม์)",
+   "as_th": ""
   },
   {
    "from": "magic-square",
    "type": "motif",
    "name": "The number square",
    "as": "the garment magic squares get painted onto, alongside Qur'anic text",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ตารางตัวเลข (ตารางมหัศจรรย์)",
+   "as_th": ""
   },
   {
    "from": "cloth",
    "type": "material",
    "name": "Cloth",
    "as": "the garment that is the charm, and the record that says in one sentence how much older the tradition may be than its oldest surviving example",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "ผ้า",
+   "as_th": ""
   },
   {
    "from": "ink",
    "type": "material",
    "name": "Ink",
    "as": "ink on a garment: Qur'anic verses, the names of God and of prophets, or numbers, worn into battle",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "หมึก",
+   "as_th": "หมึกบนเครื่องแต่งกาย: โองการอัลกุรอาน พระนามของพระเจ้าและนามของนบี หรือตัวเลข สวมเข้าสู่สนามรบ"
   },
   {
    "from": "inscribing",
    "type": "practice",
    "name": "Inscribing",
    "as": "a whole garment as the writing surface, Quranic verse over the body in battle",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การลงอักขระ",
+   "as_th": "เครื่องแต่งกายทั้งตัวเป็นพื้นผิวสำหรับเขียน โองการอัลกุรอานคลุมร่างกายในสนามรบ"
   },
   {
    "from": "sewing-in",
    "type": "practice",
    "name": "Sewing in",
    "as": "the garment version — the writing goes on the cloth and the cloth goes under the armour",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "การเย็บเครื่องรางไว้ในผ้า",
+   "as_th": ""
   },
   {
    "from": "talisman-word",
    "type": "term",
    "name": "talisman",
    "as": "the largest object the word covers — a garment written all over and worn under armour",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ทาลิสแมน",
+   "as_th": ""
   }
  ]
 }

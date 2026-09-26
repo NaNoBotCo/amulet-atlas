@@ -8,7 +8,13 @@
   "script": "Greek",
   "lang": "el",
   "said": "TAH-ma, plural tamata",
-  "aliases": ["tamata", "τάματα", "Greek votive plaque", "Orthodox votive"]
+  "aliases": [
+   "tamata",
+   "τάματα",
+   "Greek votive plaque",
+   "Orthodox votive"
+  ],
+  "th": "ทามา (แผ่นโลหะถวายของกรีก)"
  },
  "etymology": {
   "root": "Greek τάμα, plural τάματα — the vow itself, used for the metal thing that carries it",
@@ -16,14 +22,34 @@
   "tier": "cited",
   "source": "s:wp-tama-votive"
  },
- "region": ["greece-aegean", "rome-italy", "balkans", "diaspora"],
- "countries": ["GR", "IT"],
- "facets": {"era": "medieval", "status": "living", "portable": "placed", "restricted": "open", "hemisphere": ["N", "E"]},
+ "region": [
+  "greece-aegean",
+  "rome-italy",
+  "balkans",
+  "diaspora"
+ ],
+ "countries": [
+  "GR",
+  "IT"
+ ],
+ "facets": {
+  "era": "medieval",
+  "status": "living",
+  "portable": "placed",
+  "restricted": "open",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "A small metal plaque, base metal or precious, with an image embossed on it: a heart, an eye, a hand, a leg, a whole kneeling figure, a house, a baby, a ship. A ribbon runs through it. It gets hung on a pole or a hook beside the icon of a saint, and it is left there.",
   "story": "Go and stand in front of a much-visited Greek icon and you will not see the icon. You will see silver.\n\nA tama is offered either as a reminder of what the petitioner needs or in thanks for a prayer already answered — the cited account puts both uses on the same object and does not separate them, and the offering is usually made with a prayer and sometimes with a votive candle lit beside it. The shape aims it. A heart may mean a heart condition or it may mean love. Eyes mean an eye affliction. Hands or legs mean maladies of the limbs.\n\nThe Spanish-speaking world's milagro is the same object and the atlas says so on that record. Here is what a reader standing on this page gets that the milagro page cannot give: the tama has a named origin story with a hand in it. John of Damascus, serving as vizier to the caliph al-Walid I, was falsely accused of treachery and had his hand cut off. Praying before an icon of the Theotokos, he found the hand restored. In thanks he had a silver replica of it made and fixed it to the icon. That icon, called Trojeručica — the Three-handed — is preserved at Hilandar Monastery on Mount Athos, and it is the reason the story is not just a story: the object it describes is still on the wall.\n\n*Inference —* the difference between the two traditions is where the metal goes, not what it means. A milagro hangs on a robe or a retablo in a Catholic church and also, sometimes, gets carried in a pocket for luck. A tama goes onto the icon, and the icon is not a picture of a saint in Orthodox practice but the place the saint is met. The plaque is therefore pinned to a person, in the tradition's own terms, rather than to a painting of one.\n\nTamata are not the only thing left. Orthodox Christians also offer candles, prosphora — the bread baked for the liturgy — wine, oil and incense, and many leave something of their own worth instead: jewellery, a pectoral cross, a military decoration. *Inference —* a medal a man was given for war, hung on an icon because a prayer was answered, is the most compressed object in this whole atlas.\n\nThey are bought in shops selling Greek Orthodox religious goods, and the practice runs beyond Greece: the cited account records tamata in Italy too, particularly in the south, where they stand next to the Catholic ex-voto trade rather than instead of it.",
   "how": "Stamped or cast, pierced, threaded with a ribbon, and hung on a pole or a hook by the icon — the hanging done by the petitioner, with a prayer, sometimes with a candle. Nothing consecrates the plaque before it is offered; the offering is the act. They accumulate. What a church does with a wall of them after some years is not described by the sources read here, and this record does not guess.",
   "today": "Still sold in Greek Orthodox religious-goods shops and still hung on icons in Greece and in southern Italy, and wherever the Greek diaspora has built a church. No dated price was read for this record."
+ },
+ "text_th": {
+  "what": "แผ่นโลหะขนาดเล็ก ทั้งโลหะทั่วไปและโลหะมีค่า ดุนเป็นรูป: หัวใจ ดวงตา มือ ขา รูปคนคุกเข่าทั้งตัว บ้าน ทารก เรือ มีริบบิ้นร้อยผ่าน นำไปแขวนบนราวหรือตะขอข้างรูปเคารพ (ไอคอน) ของนักบุญ และทิ้งไว้ที่นั่น"
  },
  "dating": {
   "period": "not dated by the sources read here",
@@ -38,11 +64,20 @@
  },
  "object": {
   "form": "plaque",
-  "materials": ["silver", "gold", "copper"],
-  "worn": ["wall"],
+  "materials": [
+   "silver",
+   "gold",
+   "copper"
+  ],
+  "worn": [
+   "wall"
+  ],
   "made_by": "metal stampers selling through Greek Orthodox religious-goods shops; no restriction on who may offer one",
   "inscription": "usually none — the embossed image is the message",
-  "colour": ["silver", "gold"],
+  "colour": [
+   "silver",
+   "gold"
+  ],
   "single_use": true,
   "source": "s:wp-tama-votive",
   "note": "The cited source says the plaques 'may be of base or precious metal' without naming which base metals, so tin and brass are not asserted here. single_use is true in the sense that a tama is offered once and left; it is not worn or renewed. No published measurement was read, so no length_mm is entered."
@@ -63,22 +98,67 @@
   }
  ],
  "kin": [
-  {"to": "milagro", "as": "the same object in Spanish — the cited accounts on both sides call them equivalents, and this is the one that goes on an icon rather than on a robe", "rel": "parallel"},
-  {"to": "ex-voto-wall", "as": "what a much-visited icon looks like after some hundreds of these have been hung on it", "rel": "art"},
-  {"to": "ladanka", "as": "the other Orthodox object in this atlas — that one is worn on the body, this one is given away", "rel": "kin"},
-  {"to": "votive-wall", "as": "the wall this ends up on, and the form the offering takes when there are enough of them", "rel": "art"},
-  {"to": "silver", "as": "the metal of the costly version, and the reason a wall of these is worth something", "rel": "material"},
-  {"to": "eye", "as": "one of the shapes stamped on them, here meaning an eye that hurts rather than an eye that looks", "rel": "motif"},
-  {"to": "hand", "as": "the shape with the oldest story attached to it — John of Damascus had a silver one made for the hand he said was restored", "rel": "motif"},
-  {"to": "blessing-at-a-shrine", "as": "the act the object exists for, done by the petitioner and not by a priest", "rel": "practice"},
-  {"to": "monastiraki", "as": "one Athens market where the religious-goods shops selling these are within a few streets", "rel": "place"}
+  {
+   "to": "milagro",
+   "as": "the same object in Spanish — the cited accounts on both sides call them equivalents, and this is the one that goes on an icon rather than on a robe",
+   "rel": "parallel"
+  },
+  {
+   "to": "ex-voto-wall",
+   "as": "what a much-visited icon looks like after some hundreds of these have been hung on it",
+   "rel": "art"
+  },
+  {
+   "to": "ladanka",
+   "as": "the other Orthodox object in this atlas — that one is worn on the body, this one is given away",
+   "rel": "kin"
+  },
+  {
+   "to": "votive-wall",
+   "as": "the wall this ends up on, and the form the offering takes when there are enough of them",
+   "rel": "art"
+  },
+  {
+   "to": "silver",
+   "as": "the metal of the costly version, and the reason a wall of these is worth something",
+   "rel": "material"
+  },
+  {
+   "to": "eye",
+   "as": "one of the shapes stamped on them, here meaning an eye that hurts rather than an eye that looks",
+   "rel": "motif"
+  },
+  {
+   "to": "hand",
+   "as": "the shape with the oldest story attached to it — John of Damascus had a silver one made for the hand he said was restored",
+   "rel": "motif"
+  },
+  {
+   "to": "blessing-at-a-shrine",
+   "as": "the act the object exists for, done by the petitioner and not by a priest",
+   "rel": "practice"
+  },
+  {
+   "to": "monastiraki",
+   "as": "one Athens market where the religious-goods shops selling these are within a few streets",
+   "rel": "place"
+  }
  ],
  "confusable_with": [
-  {"id": "milagro", "tell": "there is no reliable tell in the metal — the shapes and the thickness match. The tell is the wall: a tama hangs on a ribbon beside an Orthodox icon, a milagro is pinned to a Catholic saint's robe or a retablo"}
+  {
+   "id": "milagro",
+   "tell": "there is no reliable tell in the metal — the shapes and the thickness match. The tell is the wall: a tama hangs on a ribbon beside an Orthodox icon, a milagro is pinned to a Catholic saint's robe or a retablo"
+  }
  ],
  "links": [
-  {"label": "Tama (votive) — Wikipedia", "url": "https://en.wikipedia.org/wiki/Tama_(votive)"},
-  {"label": "Votive offering — Wikipedia", "url": "https://en.wikipedia.org/wiki/Votive_offering"}
+  {
+   "label": "Tama (votive) — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Tama_(votive)"
+  },
+  {
+   "label": "Votive offering — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Votive_offering"
+  }
  ],
  "sources": [
   "s:wp-tama-votive",
@@ -87,15 +167,32 @@
   "s:wp-milagro-votive"
  ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-tama-votive"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-tama-votive"
+  },
   "fields": {
-   "text.story": {"tier": "cited", "source": "s:wp-votive-offering", "note": "the John of Damascus account and the list of other Orthodox offerings come from the votive offering article, which reports the hand story as tradition; the two stretches marked *Inference —* are this project's"},
-   "text.today": {"tier": "inference", "note": "current sale reasoned from the cited accounts; no market figure and no dated price read"},
-   "text.how": {"tier": "cited", "source": "s:wp-tama-votive", "note": "what happens to an accumulated wall of tamata is not described by the sources read here, and this record says so rather than borrowing the answer from the milagro record"}
+   "text.story": {
+    "tier": "cited",
+    "source": "s:wp-votive-offering",
+    "note": "the John of Damascus account and the list of other Orthodox offerings come from the votive offering article, which reports the hand story as tradition; the two stretches marked *Inference —* are this project's"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "current sale reasoned from the cited accounts; no market figure and no dated price read"
+   },
+   "text.how": {
+    "tier": "cited",
+    "source": "s:wp-tama-votive",
+    "note": "what happens to an accumulated wall of tamata is not described by the sources read here, and this record says so rather than borrowing the answer from the milagro record"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Tamata.jpg", "File:Greek votive offerings tamata.jpg"],
+ "x_commons_files": [
+  "File:Tamata.jpg",
+  "File:Greek votive offerings tamata.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-17"
 }

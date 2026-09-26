@@ -10,7 +10,8 @@
   "aliases": [
    "ancient Egyptian amulets",
    "pharaonic amulet practice"
-  ]
+  ],
+  "th": "งานเครื่องรางอียิปต์โบราณ"
  },
  "region": [
   "ancient-egypt",
@@ -35,6 +36,9 @@
   "story": "Egypt's amulets come in two economies and the same workshops served both.\n\nThe living wore them strung at the neck. The dead were wrapped in them, by rule. What went where was not a matter of taste: the funerary texts say which amulet goes on which part of the body, which stone it should be cut from, and what is to be recited over it. Chapter 156 of the Book of the Dead asks for a tyet of red jasper at the mummy's neck. Chapter 30B goes on a heart scarab laid over the heart. A gold djed at the neck comes with a spell that promises the mummy the use of its spine back. That is an unusual thing for an amulet tradition to have: a manual.\n\nThe material made the scale possible. Faience is cheap, mouldable and does not rot, so a single mould turns out eyes and beetles and ankhs by the tray, and three thousand years later they are all still there. *Inference —* that is also the tradition's largest distortion. The reed, cloth, dough and wax charms that stood beside the faience ones are gone; what survives is what survives, and a museum drawer is a record of durability, not a census of what Egypt wore.\n\nThe shapes are hieroglyphs. An amulet cut in the form of a sign was meant to hand its wearer the quality the sign wrote: life for the ankh, stability for the djed, soundness for the wedjat, protection for the sa that Taweret holds. Composites run several signs together — ankh and was and djed, 'life, dominion and stability' — and were worn more often than the ankh on its own.\n\nNot all of it was writing. Bes and Taweret are household gods with faces and bodies, moulded onto baby bottles, chairs, headrests and jars, and worn on the thigh as tattoos. The cippi are slabs you rinse and drink from. The scarab was an office seal as well as a charm.\n\nThe practice ended with the religion that needed it. Nothing in Egypt is now made to do what Chapter 156 describes. The shapes went on: the ankh survived into Coptic Christianity as the crux ansata, the wedjat into a worldwide jewellery trade, and Bes and Taweret into museum cases and fiction.",
   "how": "Moulded in faience or cut from stone — carnelian, lapis, green jasper, steatite fired hard — then pierced and strung, or set in gold. For the dead, placed by the embalmers at the position the funerary text specifies, with the spell recited over it. For the living, worn at the neck or the wrist, or set on a swivel ring.",
   "today": "Archaeological. The tradition is studied rather than practised, and the objects are concentrated in a handful of museums: the British Museum, the Metropolitan Museum's Egyptian galleries, the Petrie Museum of Egyptian Archaeology in London, the Egyptian Museum in Cairo. Flinders Petrie's excavation and sorting of amulets into classes is still the framework museums label by. The modern trade in Egyptian-shaped jewellery, sold in Cairo, Luxor and the airports and worn worldwide, is a separate thing and is described on the object records rather than here."
+ },
+ "text_th": {
+  "what": "วิธีปฏิบัติในการทำ สวม และฝังวัตถุป้องกันภัยขนาดเล็กในอียิปต์โบราณ: รูปทรงที่ตัดจากหินหรือหล่อพิมพ์จากเฟยองซ์ — เนื้อผงควอตซ์เคลือบสีน้ำเงินหรือสีเขียวในเตาเผา — เจาะรูและร้อยสาย สวมในยามมีชีวิต และบรรจุไว้ในผ้าห่อศพเมื่อตาย วิธีปฏิบัตินี้ดำเนินมาราวสามพันปี ผลิตเครื่องรางนับล้านชิ้น และเป็นหลักฐานด้านเครื่องรางกลุ่มใหญ่ที่สุดกลุ่มเดียวบนโลก"
  },
  "dating": {
   "period": "Predynastic to the Arab conquest",
@@ -261,84 +265,108 @@
    "type": "amulet",
    "name": "Wedjat eye",
    "as": "the shape this tradition made more of than any other, for the living and for the dead",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ตาเวดจัต (ดวงตาแห่งฮอรัส)",
+   "as_th": ""
   },
   {
    "to": "scarab",
    "type": "amulet",
    "name": "Scarab",
    "as": "its other mass product, and the one that doubled as an office seal",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "สคารับ (ด้วงศักดิ์สิทธิ์อียิปต์)",
+   "as_th": ""
   },
   {
    "to": "heart-scarab",
    "type": "amulet",
    "name": "Heart scarab",
    "as": "the piece it made to argue on a dead person's behalf at a trial",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "สคารับหัวใจ",
+   "as_th": ""
   },
   {
    "to": "ankh-amulet",
    "type": "amulet",
    "name": "Ankh amulet",
    "as": "the sign everybody knows and the amulet it rarely actually cut",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เครื่องรางอังค์",
+   "as_th": ""
   },
   {
    "to": "tyet-knot",
    "type": "amulet",
    "name": "Tyet",
    "as": "the one whose placement its own text specifies, down to the stone",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ทิเยต (เครื่องรางปมอียิปต์)",
+   "as_th": ""
   },
   {
    "to": "djed-pillar",
    "type": "amulet",
    "name": "Djed pillar",
    "as": "the spine it hung at a mummy's neck, and raised as a column at the Sed festival",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เสาเจด",
+   "as_th": ""
   },
   {
    "to": "bes-amulet",
    "type": "amulet",
    "name": "Bes amulet",
    "as": "the household half of the tradition — a god who guarded a door and a cradle rather than a tomb",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เครื่องรางเทพเบส",
+   "as_th": ""
   },
   {
    "to": "taweret-amulet",
    "type": "amulet",
    "name": "Taweret amulet",
    "as": "its oldest shape, and the one whose sales peaked at the very end",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "เครื่องรางเทพีทาเวเรต",
+   "as_th": ""
   },
   {
    "to": "cippus-of-horus",
    "type": "amulet",
    "name": "Cippus of Horus",
    "as": "its most textual object: a spell you wash off a stone and drink",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "ซิปปัสแห่งฮอรัส (ศิลาฮอรัส)",
+   "as_th": ""
   },
   {
    "to": "faience",
    "type": "material",
    "name": "Faience",
    "as": "the material that made the whole scale of it possible",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "เฟยองซ์ (ควอตซ์เคลือบอียิปต์)",
+   "as_th": ""
   },
   {
    "to": "flinders-petrie",
    "type": "person",
    "name": "Flinders Petrie",
    "as": "the excavator whose classes museums still label by",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "ฟลินเดอร์ส พีทรี",
+   "as_th": ""
   },
   {
    "to": "wallis-budge",
    "type": "person",
    "name": "E. A. Wallis Budge",
    "as": "the British Museum keeper through whose translations most English readers met the spells",
-   "rel": "person"
+   "rel": "person",
+   "name_th": "อี. เอ. วอลลิส บัดจ์",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -665,140 +693,180 @@
    "type": "amulet",
    "name": "Ankh amulet",
    "as": "the tradition that cut it and the one that mostly preferred other shapes",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เครื่องรางอังค์",
+   "as_th": ""
   },
   {
    "from": "bes-amulet",
    "type": "amulet",
    "name": "Bes amulet",
    "as": "the tradition that made him, and the part of it that stayed in the house instead of going into the tomb",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เครื่องรางเทพเบส",
+   "as_th": ""
   },
   {
    "from": "cippus-of-horus",
    "type": "amulet",
    "name": "Cippus of Horus",
    "as": "the tradition that cut it, at the end of its long life and at its most textual",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ซิปปัสแห่งฮอรัส (ศิลาฮอรัส)",
+   "as_th": ""
   },
   {
    "from": "djed-pillar",
    "type": "amulet",
    "name": "Djed pillar",
    "as": "the tradition that placed it, by the rules of a funeral",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เสาเจด",
+   "as_th": ""
   },
   {
    "from": "heart-scarab",
    "type": "amulet",
    "name": "Heart scarab",
    "as": "the tradition that placed it, by the rules of a funeral rather than by a wearer's choice",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "สคารับหัวใจ",
+   "as_th": ""
   },
   {
    "from": "scarab",
    "type": "amulet",
    "name": "Scarab",
    "as": "the tradition that cut it, and the one that turned an amulet into an office seal",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "สคารับ (ด้วงศักดิ์สิทธิ์อียิปต์)",
+   "as_th": ""
   },
   {
    "from": "taweret-amulet",
    "type": "amulet",
    "name": "Taweret amulet",
    "as": "the tradition that made her, and the oldest amulet shape in it",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เครื่องรางเทพีทาเวเรต",
+   "as_th": ""
   },
   {
    "from": "tyet-knot",
    "type": "amulet",
    "name": "Tyet",
    "as": "the tradition that placed it — and the one case where the tradition's own text says where on the body it goes",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ทิเยต (เครื่องรางปมอียิปต์)",
+   "as_th": ""
   },
   {
    "from": "wedjat-eye",
    "type": "amulet",
    "name": "Wedjat eye",
    "as": "the tradition that produced it, on a scale no other ancient practice matches",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ตาเวดจัต (ดวงตาแห่งฮอรัส)",
+   "as_th": ""
   },
   {
    "from": "mesopotamian-apotropaic",
    "type": "tradition",
    "name": "Mesopotamian household protection",
    "as": "the neighbouring workshop tradition, which made more objects and named fewer demons",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "การคุ้มครองบ้านเรือนแบบเมโสโปเตเมีย",
+   "as_th": ""
   },
   {
    "from": "lion",
    "type": "motif",
    "name": "The lion",
    "as": "the other tradition in the pair, and the one whose objects turned up in Iran",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "สิงโต",
+   "as_th": ""
   },
   {
    "from": "scarab-sign",
    "type": "motif",
    "name": "The beetle",
    "as": "the tradition that produced it at industrial scale",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ด้วง (สคารับ)",
+   "as_th": ""
   },
   {
    "from": "carnelian",
    "type": "material",
    "name": "Carnelian",
    "as": "the workshops that cut this stone alongside the moulds that undercut it",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "คาร์เนเลียน",
+   "as_th": ""
   },
   {
    "from": "faience",
    "type": "material",
    "name": "Faience",
    "as": "the tradition this material industrialised",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "เฟยองซ์ (ควอตซ์เคลือบอียิปต์)",
+   "as_th": ""
   },
   {
    "from": "foundation-deposit",
    "type": "practice",
    "name": "Foundation deposit",
    "as": "the tradition that filled lined pits under temples with the same amulets it buried with people",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ของฝังใต้ฐานรากอาคาร",
+   "as_th": ""
   },
   {
    "from": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "the tradition that made this the default destination for a small object",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "from": "khan-el-khalili",
    "type": "place",
    "name": "Khan el-Khalili",
    "as": "the tradition whose shapes are cut in this city's gold four thousand years after the workshops that invented them closed",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ข่านเอลคาลีลี",
+   "as_th": ""
   },
   {
    "from": "met-egyptian-galleries",
    "type": "place",
    "name": "The Egyptian galleries, the Metropolitan Museum of Art",
    "as": "the tradition these rooms document more completely than any other single building in the Americas",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ห้องจัดแสดงอียิปต์ พิพิธภัณฑ์ศิลปะเมโทรโพลิแทน",
+   "as_th": ""
   },
   {
    "from": "flinders-petrie",
    "type": "person",
    "name": "Flinders Petrie",
    "as": "the tradition he catalogued; his class names are the ones the shelving still uses",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "ฟลินเดอร์ส พีทรี",
+   "as_th": ""
   },
   {
    "from": "petrie-amulet-plates",
    "type": "art",
    "name": "Petrie's amulet plates",
    "as": "the tradition these plates put in order",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "แผ่นภาพเครื่องรางของพีทรี",
+   "as_th": ""
   }
  ]
 }

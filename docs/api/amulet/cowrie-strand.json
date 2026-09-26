@@ -12,7 +12,8 @@
    "whiteshells",
    "bulikula",
    "nzimbu"
-  ]
+  ],
+  "th": "สายเปลือกหอยเบี้ย"
  },
  "etymology": {
   "root": "Hindi कौडि kaudi, from Sanskrit कपर्द kaparda. The Italian word for the shell, porcellana, is where English gets 'porcelain', from the resemblance.",
@@ -60,6 +61,9 @@
   "story": "This is the only amulet in the atlas that was also, for centuries and across three continents, money. Cowries were used as currency by Africans for centuries, and the money cowrie was almost impossible to counterfeit until the late nineteenth century. The Classical Chinese character for money, 貝, began as a stylised drawing of a Maldivian cowrie shell, and characters for money, property and wealth still carry it as a radical.\n\nThe volume matters for what follows. After the 1500s European traders, chiefly through the slave trade, moved huge numbers of Maldivian cowries into Africa; between 1500 and 1875 at least 30 billion were imported to the Bight of Benin, making up 44% of the total value of trade there. Around 1850 the German explorer Heinrich Barth found them still in use at Kano, Kuka, Gando and Timbuktu, and reported that in Muniyoma, an old division of Bornu, the king's revenue was reckoned at 30,000,000 shells, with every adult male owing 1,000 a year for himself, 1,000 for each pack-ox and 2,000 for each enslaved person he held. In parts of British West Africa cowries were accepted for tax until the early twentieth century, and their use as currency persisted in unregulated settings into the 1960s. Ghana's national currency, introduced in 1965, is the cedi, named after the shell.\n\nWhat the shell does when it is not money is spread just as far. Yoruba diviners in West Africa cast cowries, as do the annual customs of Dahomey in Benin. In Brazil, as a result of the Atlantic slave trade, the shells — búzios — are cast to consult the Orixás and to hear their replies. The Kaniyar Panicker astrologers of Kerala used them among their devices. In West Bengal a cowrie is the token fare for the departed soul's ferry across the Vaitarani, and cowries are used at cremations and in the worship of Lakshmi. In Nepal sixteen are thrown in a gambling game at Tihar, and in the same festival the shells are worshipped as a sign of Lakshmi and of wealth.\n\nAs a charm it is tied to the body and to birth. In certain parts of Africa cowries were prized charms, said to be associated with fecundity, sexual pleasure and good luck. In Mende and in Kikuyu culture the shells stand for womanhood, fertility, birth and wealth. One modern ethnographic author reads the underside as a vulva or an eye — the source attributes that reading rather than asserting it, and so does this atlas.\n\nAnd it goes in graves. In predynastic Egypt and the Neolithic southern Levant, cowries were placed in the graves of young girls, and modified Levantine cowries were found ritually arranged around the skull in female burials. In the Bronze Age they became more common as funerary goods, again with women and children. Egypt made an imitation of it: the cowroid, a seal amulet in the shape of a cowrie, with copies in stone or faience appearing in the early second millennium BCE.\n\nThe Ojibwe use miigis shells in Midewiwin ceremonies, and how shells from a warm-sea species reached that far inland and that far north is an open question. Oral stories and birch-bark scrolls say the shells were found in the ground, or washed up on the shores of lakes and rivers.\n\nOn the Fiji Islands, a golden cowrie — bulikula, Cypraea aurantium — was drilled at both ends and worn on a string at the neck by chieftains as a badge of rank.",
   "how": "Drilled at the ends or ground open on the back, then strung, sewn or hung. In divination they are not worn at all but thrown: a set number goes down and the reading is made from which ones land aperture-up. That same throw is a dice mechanism in Pachisi and Ashta Chamma.",
   "today": "Still worn, still cast, still sold by the sack in West African and Indian markets. The cedi is still named after it. As of 2026 this project has read no source that dates the end of any of these uses."
+ },
+ "text_th": {
+  "what": "เปลือกหอยทะเลตัวเล็ก ทรงไข่ มันวาว ด้านล่างที่แบนมีร่องยาวเป็นซี่ฟัน ร้อยกับเชือก เย็บติดผ้า แขวนที่คอ หรือโยนทีละกำมือ ส่วนใหญ่ขนาดราวเล็บหัวแม่มือ ทั้งวงศ์มีขนาดตั้งแต่ 5 มม. ถึง 19 ซม. แล้วแต่ชนิด หอยเบี้ยจั่น (Monetaria moneta) หอยเบี้ยที่ใช้เป็นเงิน คือชนิดที่เดินทางไปไกล"
  },
  "restricted": {
   "note": "This record does not describe Midewiwin ceremony. The Ojibwe use of miigis shells is named here and stops there: what the shells do in that ceremony is not printed, and no neighbouring practice is used to fill the gap.",
@@ -302,70 +306,90 @@
    "type": "material",
    "name": "Cowrie",
    "as": "the material this object is — and the only material in the atlas that was legal tender for tax in living memory",
-   "rel": "material"
+   "rel": "material",
+   "name_th": "หอยเบี้ย",
+   "as_th": ""
   },
   {
    "to": "west-african-charm-craft",
    "type": "tradition",
    "name": "West African charm craft",
    "as": "the tradition that casts them for divination, in Ifá and in the customs of Dahomey",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานเครื่องรางแอฟริกาตะวันตก",
+   "as_th": ""
   },
   {
    "to": "eye",
    "type": "motif",
    "name": "The eye",
    "as": "the sign one modern ethnographic author reads in the shell's slit underside — an attribution the source makes and this atlas repeats as an attribution",
-   "rel": "motif"
+   "rel": "motif",
+   "name_th": "ดวงตา",
+   "as_th": ""
   },
   {
    "to": "charm-coin",
    "type": "amulet",
    "name": "Chinese charm coin",
    "as": "the other object here that is money and charm at once, cast in bronze rather than grown in the sea",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เหรียญเครื่องรางจีน (เอี้ยนเซิ่งเฉียน)",
+   "as_th": ""
   },
   {
    "to": "scarab",
    "type": "amulet",
    "name": "Scarab",
    "as": "the Egyptian seal-amulet whose cowrie-shaped cousin, the cowroid, copies this shell in stone and faience from the early second millennium BCE",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "สคารับ (ด้วงศักดิ์สิทธิ์อียิปต์)",
+   "as_th": ""
   },
   {
    "to": "grave-deposit",
    "type": "practice",
    "name": "Grave deposit",
    "as": "the practice that put them around the skulls of girls in predynastic Egypt and the Neolithic Levant",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "ของฝังในหลุมศพ",
+   "as_th": ""
   },
   {
    "to": "counting-beads",
    "type": "practice",
    "name": "Counting beads",
    "as": "the practice of handling a set number, which here becomes a throw and a reading",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การนับลูกประคำ",
+   "as_th": ""
   },
   {
    "to": "akodessewa-market",
    "type": "place",
    "name": "Akodessawa fetish market",
    "as": "a West African market where shells and charm materials are traded by the sack",
-   "rel": "place"
+   "rel": "place",
+   "name_th": "ตลาดเครื่องรางอาโกเดสซาวา",
+   "as_th": ""
   },
   {
    "to": "hei-matau",
    "type": "amulet",
    "name": "Hei matau",
    "as": "another shell-and-sea charm worn at the neck, on the far side of the Pacific",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "เฮย์ มาเตา (จี้ตะขอเบ็ดเมารี)",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read this shell complicates: 30 billion of them reached the Bight of Benin as trade goods in the era of Atlantic slavery",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -607,35 +631,45 @@
    "type": "amulet",
    "name": "Chinese charm coin",
    "as": "what the burial money started as, before replica coins replaced shells to deter grave robbers",
-   "rel": "origin"
+   "rel": "origin",
+   "name_th": "เหรียญเครื่องรางจีน (เอี้ยนเซิ่งเฉียน)",
+   "as_th": ""
   },
   {
    "from": "patua",
    "type": "amulet",
    "name": "Patuá",
    "as": "the other object built from the same shell, strung instead of sewn in",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ปาตูอา (ถุงเครื่องรางบราซิล)",
+   "as_th": ""
   },
   {
    "from": "west-african-charm-craft",
    "type": "tradition",
    "name": "West African charm craft",
    "as": "the shells this tradition casts to get answers, and wears for fertility and luck",
-   "rel": "carries"
+   "rel": "carries",
+   "name_th": "งานเครื่องรางแอฟริกาตะวันตก",
+   "as_th": ""
   },
   {
    "from": "cowrie",
    "type": "material",
    "name": "Cowrie",
    "as": "the strung form of this shell, and the amulet most of the world means when it says cowrie",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "หอยเบี้ย",
+   "as_th": ""
   },
   {
    "from": "counting-beads",
    "type": "practice",
    "name": "Counting beads",
    "as": "the other fixed-number string in this atlas, where handling a set number becomes a throw and a reading rather than a tally",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "การนับลูกประคำ",
+   "as_th": "สายอีกแบบในแอตลาสนี้ที่มีจำนวนตายตัว ซึ่งการจับถือตามจำนวนที่กำหนดกลายเป็นการโยนและการอ่านคำทำนาย แทนที่จะเป็นการนับ"
   }
  ]
 }

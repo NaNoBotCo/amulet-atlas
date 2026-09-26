@@ -10,7 +10,8 @@
    "gelucke",
    "gelücke",
    "good luck charm"
-  ]
+  ],
+  "th": "ลัก (luck, โชค)"
  },
  "etymology": {
   "root": "Middle Low German, Dutch or Frisian luk, a short form of gelucke (Middle High German gelücke) > English luck",
@@ -41,6 +42,9 @@
  "text": {
   "what": "The word the whole 'good luck charm' category hangs on in English, and a late arrival that came in through a card game. Wikipedia's article sets out three conditions for it: luck is good or bad, luck is the result of chance, and luck applies to a sentient being. Nothing in that definition involves a god, which is exactly what changed when the word arrived.",
   "story": "English managed without it until the 1480s. What it had instead was speed — Old English spēd — which meant good fortune and also prosperity, profit and abundance, and which named help rather than chance. A bestower of success could be called a speed. Then luck came in from Low German, Dutch or Frisian, probably at a gaming table, and it named something else: a personal chance event, with nobody behind it.\n\nThe idea it needed had arrived a couple of centuries earlier. Chance, from Old French cheance and Late Latin cadentia, literally describes an outcome as a falling — as of dice — and English took it from the late thirteenth century. Fortuna, the Roman goddess, was a popular medieval allegory, and learned writers of the High Middle Ages made her a servant of God distributing success and failure in a fickle way, which is how chance was fitted into a Christian frame without being given a will of its own.\n\nThe symbols the word gathers are local and contradictory. Seven is a lucky number in Christian-influenced cultures, eight in Chinese-influenced ones. In Chinese and Japanese, four is unlucky because it sounds like the word for death. Greek practice counts entering and leaving a house by different doors, and breaking a mirror, as unlucky; Navajo practice counts throwing rocks into a whirlwind. In Western practice, opening an umbrella indoors may be counted unlucky partly because it can poke somebody in the eye, and shaking hands with a chimney sweep counted lucky partly because it is a kind but unpleasant thing to do.\n\nThe gods stayed on for a while beside it: Fortuna and Felicitas in Roman religion, Dedun in Nubian religion, the Seven Lucky Gods in Japan, Lakshmi and her inauspicious counterpart Alakshmi in Hinduism.\n\n*Inference —* the arrival of luck is the arrival of the idea that the outcome is nobody's decision. An object bought against that is a different object from one bought to petition somebody, even when it is the same object on the same string. Half the arguments in this atlas about whether a charm is devotional or commercial are really arguments about which of those two words the buyer is using."
+ },
+ "text_th": {
+  "what": "คำที่หมวดหมู่ 'เครื่องรางนำโชค' ทั้งหมดในภาษาอังกฤษพึ่งอยู่ และเป็นคำที่มาถึงช้า เข้ามาทางเกมไพ่ บทความในวิกิพีเดียวางเงื่อนไขไว้สามข้อ: โชคมีทั้งดีและร้าย โชคเป็นผลของความบังเอิญ และโชคใช้กับสิ่งมีชีวิตที่มีความรู้สึกนึกคิด ไม่มีอะไรในนิยามนี้เกี่ยวข้องกับพระเจ้า และนั่นคือสิ่งที่เปลี่ยนไปเมื่อคำนี้มาถึง"
  },
  "dating": {
   "from_year": 1480,
@@ -161,49 +165,63 @@
    "type": "term",
    "name": "charm",
    "as": "the word it is welded to — good luck charm is the compound, and neither half means what it used to",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ชาร์ม (charm)",
+   "as_th": ""
   },
   {
    "to": "mascot-word",
    "type": "term",
    "name": "mascot",
    "as": "the French import that took the luck-bringing job in sport and commerce four centuries later",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "มาสคอต",
+   "as_th": ""
   },
   {
    "to": "four-leaf-clover",
    "type": "amulet",
    "name": "Four-leaf clover",
    "as": "the object an English speaker names first when the word is said",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ใบโคลเวอร์สี่แฉก",
+   "as_th": ""
   },
   {
    "to": "rabbits-foot",
    "type": "amulet",
    "name": "Rabbit's foot",
    "as": "the other one, and the one that shows how little the word cares where an object came from",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ตีนกระต่ายนำโชค",
+   "as_th": ""
   },
   {
    "to": "maneki-neko",
    "type": "amulet",
    "name": "Maneki-neko",
    "as": "what the word is used to translate in a Japanese shop window, flattening a beckoning cat into a luck object",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "แมวกวัก (มาเนกิเนโกะ)",
+   "as_th": ""
   },
   {
    "to": "fu-word",
    "type": "term",
    "name": "fu",
    "as": "the Chinese character English renders as luck, losing the pun the whole practice runs on",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ฝู (福)",
+   "as_th": ""
   },
   {
    "to": "game-day-charm",
    "type": "amulet",
    "name": "Game-day charm",
    "as": "the sense at its most modern and most literal: an object carried against one specific uncertain outcome",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ของนำโชควันแข่ง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -296,63 +314,81 @@
    "type": "amulet",
    "name": "Four-leaf clover",
    "as": "the word that has entirely replaced protection here — nothing in this record names a harm it turns away",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ใบโคลเวอร์สี่แฉก",
+   "as_th": ""
   },
   {
    "from": "game-day-charm",
    "type": "amulet",
    "name": "Game-day charm",
    "as": "the word the whole practice runs on, and the one nobody in a clubhouse defines",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ของนำโชควันแข่ง",
+   "as_th": ""
   },
   {
    "from": "horseshoe",
    "type": "amulet",
    "name": "Horseshoe",
    "as": "the word that has replaced protection in most present-day talk about it",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "เกือกม้า",
+   "as_th": ""
   },
   {
    "from": "omikuji",
    "type": "amulet",
    "name": "Omikuji",
    "as": "the word this object grades, in seven or nine steps from great blessing to great misfortune",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "โอมิกุจิ (ใบเซียมซีญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "from": "rabbits-foot",
    "type": "amulet",
    "name": "Rabbit's foot",
    "as": "the single word that now covers everything this charm was once specific about",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "ตีนกระต่ายนำโชค",
+   "as_th": ""
   },
   {
    "from": "alan-dundes",
    "type": "person",
    "name": "Alan Dundes",
    "as": "the word whose folk use he treated as data rather than as error",
-   "rel": "term"
+   "rel": "term",
+   "name_th": "อลัน ดันดีส",
+   "as_th": ""
   },
   {
    "from": "charm-word",
    "type": "term",
    "name": "charm",
    "as": "the word it is welded to — good luck charm is the compound most English speakers actually use",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "ชาร์ม (charm)",
+   "as_th": ""
   },
   {
    "from": "fu-word",
    "type": "term",
    "name": "fu",
    "as": "the English word that translates 福 and carries none of the pun",
-   "rel": "contrast"
+   "rel": "contrast",
+   "name_th": "ฝู (福)",
+   "as_th": ""
   },
   {
    "from": "mascot-word",
    "type": "term",
    "name": "mascot",
    "as": "the word it imports into English commerce — mascotte glossed as lucky charm, nothing more complicated",
-   "rel": "kin"
+   "rel": "kin",
+   "name_th": "มาสคอต",
+   "as_th": ""
   }
  ]
 }

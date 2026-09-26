@@ -8,24 +8,88 @@
   "script": "Arabic",
   "lang": "ar",
   "said": "KHAM-sa, Arabic for five",
-  "aliases": ["khamsa", "khmisa", "hand of Fatima", "hand of Miriam", "hand of Mary", "afus", "Mano Pantea"]
+  "aliases": [
+   "khamsa",
+   "khmisa",
+   "hand of Fatima",
+   "hand of Miriam",
+   "hand of Mary",
+   "afus",
+   "Mano Pantea"
+  ],
+  "th": "ฝ่ามือเปิด (ฮัมซา)"
  },
- "region": ["maghreb", "levant", "iberia", "anatolia", "diaspora"],
- "countries": ["MA", "DZ", "TN", "LY", "EG", "IL", "PS", "SY", "TR", "ES"],
- "facets": {"era": "ancient", "family": "hand", "hemisphere": ["N", "E"]},
+ "region": [
+  "maghreb",
+  "levant",
+  "iberia",
+  "anatolia",
+  "diaspora"
+ ],
+ "countries": [
+  "MA",
+  "DZ",
+  "TN",
+  "LY",
+  "EG",
+  "IL",
+  "PS",
+  "SY",
+  "TR",
+  "ES"
+ ],
+ "facets": {
+  "era": "ancient",
+  "family": "hand",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "A flat hand, palm forward, five fingers spread and usually symmetrical — the two outer fingers drawn as thumbs so the sign reads the same either way up. Cast in silver or brass, cut in gold, pressed in glass. An eye is often set in the middle of the palm. It hangs at a neck, over a door and off a mirror from Morocco to Iraq.",
   "story": "Five is the count and the name. The standard Arabic term is khamsa, five, with Maghrebi khmisa beside it. Hand of Fatima is a French colonial nickname, popularised by Europeans in North Africa rather than used in Arabic; in colonial-era French, fatma meant a Muslim or Arab woman. Sephardi and Mizrahi Jews say hand of Miriam. Levantine Christians say kef Miryam, hand of Mary. Berber afus just means hand.\n\nInside the Islamic world the amulet's documented use sits in the west — the Maghreb and historic al-Andalus — and is sparse in the Mashriq, where a hand in ritual use more often belongs to Shi'i iconography and not to this tradition. Von Kemnitz traces the route: Berbers brought the khamsa to al-Andalus; the expelled Muslim and Jewish population carried it back to North Africa with new motifs and techniques. In al-Andalus its use as an amulet is well documented from the thirteenth century.\n\nThe sign has an Egyptian claimant too. One account connects the khamsa with the Mano Pantea, an amulet Egyptians knew as the Two Fingers, where the two fingers stand for Isis and Osiris and the thumb for their child Horus, invoking a parent's protection over a child. *Inference —* that is a theory of origin, offered as one among several, and this atlas prints it as a theory.\n\nIn Jewish use the hand doubles as the letter shin, first letter of Shaddai, a name of God — one sign carrying two readings at once. It decorates ketubot and Torah pointers. It largely dropped out of Ashkenazi use by the mid-twentieth century and stayed in Sephardi and Mizrahi practice throughout.",
   "today": "Sold everywhere on the Mediterranean rim and online, in silver, in enamel, on phone cases and on keyrings, worn by people with no tie to any of the five naming communities. Whether a mass-produced khamsa is the same object as a Moroccan silversmith's is an argument with named people on both sides; this atlas reports it and does not settle it."
  },
+ "text_th": {
+  "what": "มือแบน หันฝ่ามือออก นิ้วทั้งห้ากางออกและมักสมมาตร — นิ้วสองนิ้วด้านนอกวาดเป็นนิ้วโป้งทั้งคู่ เครื่องหมายจึงอ่านได้เหมือนกันไม่ว่าจะหันด้านไหนขึ้น หล่อด้วยเงินหรือทองเหลือง ตัดจากทองคำ อัดจากแก้ว บ่อยครั้งมีดวงตาอยู่กลางฝ่ามือ ห้อยที่คอ เหนือประตู และจากกระจกรถ ตั้งแต่โมร็อกโกไปจนถึงอิรัก"
+ },
  "kin": [
-  {"to": "hamsa", "as": "the amulet itself — this record is the sign, that record is the object in the tray", "rel": "carried-by"},
-  {"to": "hand", "as": "the wider family of hand signs, of which this is the open posture", "rel": "whole"},
-  {"to": "eye", "as": "the sign set in this palm more often than any other", "rel": "kin"},
-  {"to": "fist", "as": "the other hand, closed and obscene, aimed at the same harm", "rel": "contrast"},
-  {"to": "divine-name", "as": "in Jewish use the palm reads as the letter shin, for Shaddai — a hand that is also a name", "rel": "parallel"},
-  {"to": "nazar", "as": "the bead it is most often sold with, and often set with", "rel": "kin"},
-  {"to": "silver", "as": "the metal the Maghreb casts it in", "rel": "material"}
+  {
+   "to": "hamsa",
+   "as": "the amulet itself — this record is the sign, that record is the object in the tray",
+   "rel": "carried-by"
+  },
+  {
+   "to": "hand",
+   "as": "the wider family of hand signs, of which this is the open posture",
+   "rel": "whole"
+  },
+  {
+   "to": "eye",
+   "as": "the sign set in this palm more often than any other",
+   "rel": "kin"
+  },
+  {
+   "to": "fist",
+   "as": "the other hand, closed and obscene, aimed at the same harm",
+   "rel": "contrast"
+  },
+  {
+   "to": "divine-name",
+   "as": "in Jewish use the palm reads as the letter shin, for Shaddai — a hand that is also a name",
+   "rel": "parallel"
+  },
+  {
+   "to": "nazar",
+   "as": "the bead it is most often sold with, and often set with",
+   "rel": "kin"
+  },
+  {
+   "to": "silver",
+   "as": "the metal the Maghreb casts it in",
+   "rel": "material"
+  }
  ],
  "dating": {
   "period": "Iron Age to the present",
@@ -41,27 +105,71 @@
  },
  "object": {
   "form": "pendant",
-  "materials": ["silver", "gold", "brass", "glass"],
-  "worn": ["neck", "door", "wall", "vehicle"],
+  "materials": [
+   "silver",
+   "gold",
+   "brass",
+   "glass"
+  ],
+  "worn": [
+   "neck",
+   "door",
+   "wall",
+   "vehicle"
+  ],
   "inscription": "Qur'anic verses or phrases drawn from the Qur'an on Morisco examples",
   "count": 5,
   "source": "s:wp-hamsa"
  },
  "against": [
-  {"harm": "evil-eye", "who": "carriers across North Africa and the Middle East", "source": "s:wp-hamsa", "tier": "cited"},
-  {"harm": "infertility", "who": "the Hand-of-Venus and Hand-of-Mary names, attached to hand amulets said to protect women, help lactation and strengthen a pregnancy", "source": "s:wp-hamsa", "tier": "cited"},
-  {"harm": "child-harm", "who": "the Mano Pantea reading, in which the sign calls a child's parents to protect it", "source": "s:wp-hamsa", "tier": "cited"}
+  {
+   "harm": "evil-eye",
+   "who": "carriers across North Africa and the Middle East",
+   "source": "s:wp-hamsa",
+   "tier": "cited"
+  },
+  {
+   "harm": "infertility",
+   "who": "the Hand-of-Venus and Hand-of-Mary names, attached to hand amulets said to protect women, help lactation and strengthen a pregnancy",
+   "source": "s:wp-hamsa",
+   "tier": "cited"
+  },
+  {
+   "harm": "child-harm",
+   "who": "the Mano Pantea reading, in which the sign calls a child's parents to protect it",
+   "source": "s:wp-hamsa",
+   "tier": "cited"
+  }
  ],
- "links": [{"label": "Hamsa — Wikipedia", "url": "https://en.wikipedia.org/wiki/Hamsa"}],
- "sources": ["s:wp-hamsa", "s:wp-evil-eye", "s:wp-islam-and-magic", "s:wp-kabbalah"],
+ "links": [
+  {
+   "label": "Hamsa — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hamsa"
+  }
+ ],
+ "sources": [
+  "s:wp-hamsa",
+  "s:wp-evil-eye",
+  "s:wp-islam-and-magic",
+  "s:wp-kabbalah"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-hamsa"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-hamsa"
+  },
   "fields": {
-   "text.today": {"tier": "inference", "note": "the present-day market is reasoned from the object's ubiquity; no market survey was read"}
+   "text.today": {
+    "tier": "inference",
+    "note": "the present-day market is reasoned from the object's ubiquity; no market survey was read"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Hamsa.svg", "File:Main de Fatma.jpg"],
+ "x_commons_files": [
+  "File:Hamsa.svg",
+  "File:Main de Fatma.jpg"
+ ],
  "confidence": "high",
  "updated": "2026-09-16"
 }

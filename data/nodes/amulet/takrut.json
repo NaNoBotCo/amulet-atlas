@@ -8,7 +8,11 @@
   "script": "Thai",
   "lang": "th",
   "said": "tà-krùt",
-  "aliases": ["tangkai", "rolled yant scroll"]
+  "aliases": [
+   "tangkai",
+   "rolled yant scroll"
+  ],
+  "th": "ตะกรุด"
  },
  "etymology": {
   "root": "Thai ตะกรุด; the word is the same in singular and plural, and takes no -s",
@@ -16,14 +20,50 @@
   "tier": "cited",
   "source": "s:wp-takrut"
  },
- "region": ["mainland-sea"],
- "countries": ["TH"],
- "facets": {"era": "medieval", "status": "living", "portable": "worn", "restricted": "limited", "hemisphere": ["N", "E"]},
+ "region": [
+  "mainland-sea"
+ ],
+ "countries": [
+  "TH"
+ ],
+ "facets": {
+  "era": "medieval",
+  "status": "living",
+  "portable": "worn",
+  "restricted": "limited",
+  "hemisphere": [
+   "N",
+   "E"
+  ]
+ },
  "text": {
   "what": "A tube. A thin sheet of metal or a strip of palm leaf is inscribed with yant — sacred geometry and Pali phrases — then rolled tight into an elongated scroll and bound with cord, or sealed in a case. Nothing on the outside shows what is inside. It is tied to the body on a cord at the waist, hung at the chest on a chain, or worn like any other piece of jewellery. Some are small enough to hold between the teeth.",
   "story": "The takrut is the amulet Thai literature reaches for first. It is the form mentioned more often than any other in Khun Chang Khun Phaen, the Thai epic, and the source this record follows puts it in Thai culture before Buddhism arrived, with the monk-made takrut becoming the earliest form of Buddhist amulet around 1200 to 1300 CE. That last claim carries no citation in the source, so it is dated here with a flag rather than a full stop.\n\nWhat goes on the sheet is yant — yantra — incantations and geometric designs carrying Pali gatha and Buddhist invocations. The script is usually Khom Pali, the variant of Khmer script used in Thailand; in the north, Lan Na Tai Tham. The same writing appears on cloth, on metal plates and in skin, so a takrut is one surface among several for a single body of design.\n\nThe demand was practical. In older Thailand, with constant warfare and poor security, takrut were blessed mainly for safe keeping — invulnerability — and issued to people going to work, to travel on business, or to war.\n\nThe positions carry meanings. A takrut is worn about a part of the body to protect that part, or to grant it power. The one held between the teeth is for speech: the power is called sariga, after the golden-tongued celestial magpie of Vedic and Thai Buddhist legend, and it makes the carrier a stronger speaker.",
   "how": "Inscribe the yant on metal foil — or on palm leaf — roll it into a tube, bind it with cord, case it. Which yant, and what is said over it, belongs to the maker's lineage. Thai amulet rules place the takrut outside the Buddha-image restrictions: because it carries no monk and no Buddha image, it may be put in a trouser pocket, where an amulet bearing the Buddha may not go below the waist at all. Worn at the waist or at the chest, the purpose is the same either way — protection of the person carrying it.",
   "today": "Still made, still sold, still worn, and sold from the same trays as the pressed Buddha tablets at Tha Phrachan in Bangkok, as of the accounts this project has read. Online dealers list them by monk, by temple and by year in the same way collectors grade a phra khrueang."
+ },
+ "text_th": {
+  "what": "หลอดหนึ่งหลอด แผ่นโลหะบาง ๆ หรือใบลานหนึ่งแถบ ถูกจารึกยันต์ ซึ่งเป็นเรขาคณิตศักดิ์สิทธิ์และคาถาภาษาบาลี แล้วม้วนให้แน่นเป็นหลอดยาว มัดด้วยเชือก หรือบรรจุไว้ในปลอก ด้านนอกไม่มีอะไรบอกว่าข้างในคืออะไร ตะกรุดผูกติดตัวด้วยเชือกคาดเอว ห้อยไว้ที่อกด้วยสร้อย หรือสวมเหมือนเครื่องประดับทั่วไป บางดอกเล็กพอจะคาบไว้ในปากได้",
+  "story": "ตะกรุดคือเครื่องรางที่วรรณคดีไทยนึกถึงเป็นอย่างแรก เป็นเครื่องรางที่ถูกกล่าวถึงบ่อยกว่าแบบอื่นใดในขุนช้างขุนแผน วรรณคดีไทยเรื่องนี้ และแหล่งข้อมูลที่บันทึกนี้ยึดตามระบุว่าตะกรุดมีอยู่ในวัฒนธรรมไทยก่อนพระพุทธศาสนาจะเข้ามา โดยตะกรุดที่พระสงฆ์สร้างกลายเป็นพระเครื่องทางพุทธศาสนารูปแบบแรกสุด ราว พ.ศ. 1743–1843 (ค.ศ. 1200–1300) ข้อความหลังนี้ไม่มีการอ้างอิงในแหล่งข้อมูล ที่นี่จึงระบุช่วงเวลาไว้พร้อมข้อสังเกต ไม่ได้ยืนยันเป็นข้อยุติ\n\nสิ่งที่ลงบนแผ่นคือยันต์ หรือยันตระ คือคาถาและลวดลายเรขาคณิตที่มีคาถาภาษาบาลีและบทอัญเชิญทางพุทธศาสนาอยู่ อักษรที่ใช้มักเป็นอักษรขอมบาลี ซึ่งเป็นอักษรเขมรแบบที่ใช้ในประเทศไทย ส่วนในภาคเหนือใช้อักษรธรรมล้านนา อักขระแบบเดียวกันนี้ปรากฏบนผ้า บนแผ่นโลหะ และบนผิวหนัง ตะกรุดจึงเป็นเพียงพื้นผิวหนึ่งในหลายพื้นผิวของลวดลายชุดเดียวกัน\n\nความต้องการนั้นเป็นเรื่องทางปฏิบัติ ในเมืองไทยสมัยก่อน ซึ่งมีสงครามอยู่ตลอดและบ้านเมืองไม่ปลอดภัย ตะกรุดถูกปลุกเสกเพื่อคุ้มครองตัวเป็นหลัก คือเพื่อความคงกระพัน และมอบให้ผู้ที่ออกไปทำงาน เดินทางไปค้าขาย หรือออกศึก\n\nตำแหน่งที่สวมมีความหมาย ตะกรุดจะสวมไว้ที่ส่วนใดของร่างกายก็เพื่อคุ้มครองส่วนนั้น หรือเพื่อให้ส่วนนั้นมีอานุภาพ ตะกรุดที่คาบไว้ในปากเป็นเรื่องของการพูด อานุภาพนี้เรียกว่า สาลิกา ตามชื่อนกสาลิกาลิ้นทองในตำนานพระเวทและตำนานพุทธศาสนาแบบไทย และทำให้ผู้ถือพูดจามีน้ำหนักขึ้น",
+  "how": "จารึกยันต์ลงบนแผ่นโลหะบาง หรือบนใบลาน ม้วนเป็นหลอด มัดด้วยเชือก แล้วใส่ปลอก ยันต์ใด และคาถาที่ใช้เสก เป็นของสายครูของผู้สร้าง ธรรมเนียมเรื่องพระเครื่องของไทยจัดตะกรุดไว้นอกข้อห้ามเรื่องพระพุทธรูป เพราะตะกรุดไม่มีรูปพระสงฆ์และไม่มีรูปพระพุทธเจ้า จึงใส่ไว้ในกระเป๋ากางเกงได้ ขณะที่พระเครื่องที่มีรูปพระพุทธเจ้าจะอยู่ต่ำกว่าเอวไม่ได้เลย จะสวมที่เอวหรือที่อก จุดประสงค์ก็เหมือนกัน คือการคุ้มครองผู้ที่พกติดตัว",
+  "today": "ยังมีการสร้าง ยังมีการเช่าบูชา และยังมีผู้สวม และมีให้เช่าบูชาจากถาดเดียวกับพระพิมพ์ที่ท่าพระจันทร์ในกรุงเทพฯ ตามบันทึกเท่าที่โครงการนี้ได้อ่านมา ร้านค้าออนไลน์ลงรายการตะกรุดตามชื่อพระสงฆ์ ชื่อวัด และปีที่สร้าง แบบเดียวกับที่นักสะสมจัดระดับพระเครื่อง"
+ },
+ "th_fields": {
+  "etymology.root": "คำไทย ตะกรุด ใช้รูปเดียวกันทั้งเอกพจน์และพหูพจน์ เมื่อเขียนเป็นอักษรโรมันจึงไม่เติม -s",
+  "etymology.note": "ในบางถิ่นใกล้เคียงเรียกว่า ตังไก (tangkai) คำไทยนี้ใช้เรียกวัตถุนี้ไม่ว่าข้างในจะม้วนอะไรไว้",
+  "dating.period": "ไทยก่อนรับพระพุทธศาสนา แล้วเป็นของทางพุทธศาสนาตั้งแต่ราวคริสต์ศตวรรษที่ 13",
+  "dating.note": "แหล่งข้อมูลระบุว่าตะกรุดมีมาก่อนพระพุทธศาสนาในประเทศไทย และตะกรุดที่พระสงฆ์สร้างกลายเป็นเครื่องรางทางพุทธศาสนารูปแบบแรกสุดในช่วง พ.ศ. 1743–1843 (ค.ศ. 1200–1300) ข้อความนั้นไม่มีการอ้างอิงในแหล่งข้อมูลเอง บันทึกนี้จึงทำเครื่องหมายไว้และกำหนดระดับความเชื่อมั่นเป็นปานกลาง",
+  "object.made_by": "พระสงฆ์และฆราวาสผู้เป็นอาจารย์ที่ทำงานอยู่ในสายครูที่ระบุชื่อได้ ยันต์แบบใดและคาถาบทใด เป็นเรื่องของสายครูนั้น",
+  "object.inscription": "ยันต์ — ลวดลายเรขาคณิตพร้อมคาถาบาลีและบทสวดทางพุทธศาสนา",
+  "object.note": "ทรงยาว เป็นม้วน ผูกติดตัวด้วยเชือก มักเก็บไว้ในปลอก ยังไม่ได้อ่านพบขนาดที่มีการเผยแพร่",
+  "against.0.who": "ผู้สวมชาวไทย ในหมวดคงกระพัน คือความอยู่ยงคงกระพัน แหล่งข้อมูลกล่าวว่าตะกรุดปลุกเสกขึ้นเพื่อคุ้มครองให้ปลอดภัยเป็นหลัก",
+  "against.1.who": "ธรรมเนียมไทยในยุคที่มีสงครามไม่ขาดสาย ซึ่งปลุกเสกตะกรุดให้ผู้ที่จะออกศึก",
+  "against.2.who": "ผู้สวมชาวไทย ซึ่งปลุกเสกไว้เพื่อความปลอดภัยในการทำงานประจำวันและการเดินทางไปทำธุรกิจ",
+  "against.3.who": "ผู้สวมชาวไทย ในหมวดมหาเสน่ห์ (แรงดึงดูด) เมตตามหานิยม (ความเป็นที่รักใคร่และความสำเร็จในการค้า) และมหาโภคทรัพย์ (การเรียกทรัพย์)",
+  "against.4.who": "ผู้สวมชาวไทย ในหมวดมหาลาภ — การเรียกความมั่งคั่ง",
+  "confusable_with.0.tell": "ตะกรุดเป็นหลอดม้วนเรียบ ๆ ไม่มีอะไรให้ดู ส่วนพระเครื่องมีรูปนูนอยู่บนองค์",
+  "confusable_with.1.tell": "ทั้งสองอย่างเป็นเครื่องรางที่เขียนแล้วม้วนใส่ปลอก — ตะกรุดลงยันต์อักษรขอมบาลี ส่วนตะอ์วีซเขียนภาษาอาหรับ",
+  "restricted.note": "ยันต์แบบใดที่ลงบนตะกรุด และคาถาที่ใช้เสก เป็นของสำนักและสายครูของผู้สร้าง แอตลาสนี้ลงเฉพาะสิ่งที่แหล่งข้อมูลเผยแพร่เกี่ยวกับตัววัตถุ และไม่ลงบทปลุกเสก"
  },
  "dating": {
   "period": "pre-Buddhist Thailand, then Buddhist from around the 13th century",
@@ -39,8 +79,21 @@
  },
  "object": {
   "form": "scroll",
-  "materials": ["silver", "gold", "copper", "lead", "palm-leaf", "ink", "thread"],
-  "worn": ["waist", "neck", "chest", "pocket"],
+  "materials": [
+   "silver",
+   "gold",
+   "copper",
+   "lead",
+   "palm-leaf",
+   "ink",
+   "thread"
+  ],
+  "worn": [
+   "waist",
+   "neck",
+   "chest",
+   "pocket"
+  ],
   "made_by": "monks and lay masters working in a named lineage; which yant and which incantation belongs to that lineage",
   "inscription": "yant — geometric designs with Pali gatha and Buddhist invocations",
   "script": "Khom Pali, a Khmer-derived script used in Thailand; Lan Na Tai Tham in the north",
@@ -49,11 +102,36 @@
   "note": "Elongated, scroll-shaped, tied to the body with a cord, often kept in a case. No published measurement was read."
  },
  "against": [
-  {"harm": "weapons", "who": "Thai wearers, in the category Kong Grapan — invincibility; the source says takrut are blessed mainly for safe keeping", "source": "s:wp-takrut", "tier": "cited"},
-  {"harm": "war", "who": "Thai practice in a period of constant warfare, when takrut were blessed for people going to war", "source": "s:wp-takrut", "tier": "cited"},
-  {"harm": "travel", "who": "Thai wearers, blessed for safety in daily work and on business trips", "source": "s:wp-takrut", "tier": "cited"},
-  {"harm": "attraction", "who": "Thai wearers, in the categories Maha Sanaeh (attraction), Metta Mahaniyom (popularity and business success) and Maha Pokasap (drawing riches)", "source": "s:wp-takrut", "tier": "cited"},
-  {"harm": "poverty", "who": "Thai wearers, in the category Maha Lap — the drawing of wealth", "source": "s:wp-takrut", "tier": "cited"}
+  {
+   "harm": "weapons",
+   "who": "Thai wearers, in the category Kong Grapan — invincibility; the source says takrut are blessed mainly for safe keeping",
+   "source": "s:wp-takrut",
+   "tier": "cited"
+  },
+  {
+   "harm": "war",
+   "who": "Thai practice in a period of constant warfare, when takrut were blessed for people going to war",
+   "source": "s:wp-takrut",
+   "tier": "cited"
+  },
+  {
+   "harm": "travel",
+   "who": "Thai wearers, blessed for safety in daily work and on business trips",
+   "source": "s:wp-takrut",
+   "tier": "cited"
+  },
+  {
+   "harm": "attraction",
+   "who": "Thai wearers, in the categories Maha Sanaeh (attraction), Metta Mahaniyom (popularity and business success) and Maha Pokasap (drawing riches)",
+   "source": "s:wp-takrut",
+   "tier": "cited"
+  },
+  {
+   "harm": "poverty",
+   "who": "Thai wearers, in the category Maha Lap — the drawing of wealth",
+   "source": "s:wp-takrut",
+   "tier": "cited"
+  }
  ],
  "restricted": {
   "note": "Which yant goes on a takrut, and the incantation said over it, belong to the maker's school and lineage. This atlas prints what the sources publish about the object and does not print a consecration formula.",
@@ -61,32 +139,111 @@
   "source": "s:wp-palad-khik"
  },
  "kin": [
-  {"to": "phra-khrueang", "as": "the pressed tablet it hangs beside, and the rule that separates them: no Buddha image here, so this one may go in a pocket", "rel": "kin"},
-  {"to": "sak-yant", "as": "the same yant, same script, same lineages — put into skin instead of rolled into foil", "rel": "parallel"},
-  {"to": "yantra-plate", "as": "the South Asian version of the design on metal, flat rather than rolled", "rel": "parallel"},
-  {"to": "taweez", "as": "the Islamic rolled written charm in a case — the same solution reached along a different road", "rel": "parallel"},
-  {"to": "ethiopian-magic-scroll", "as": "the other great rolled text in this atlas: written protection kept in a tube and carried on the body", "rel": "parallel"},
-  {"to": "thai-wicha", "as": "the craft that makes it, in which the yant and the incantation are a lineage's property", "rel": "tradition"},
-  {"to": "inscribing", "as": "the act that charges it: the writing, not the metal, is the amulet", "rel": "practice"},
-  {"to": "wearing-hidden", "as": "how it works — a sealed tube whose contents nobody sees, tied under the clothes", "rel": "practice"},
-  {"to": "tha-phrachan", "as": "the Bangkok market that sells it from the same tray as the clay tablets", "rel": "place"},
-  {"to": "yant-flash", "as": "the sheet of designs the yant on this tube is drawn from", "rel": "art"}
+  {
+   "to": "phra-khrueang",
+   "as": "the pressed tablet it hangs beside, and the rule that separates them: no Buddha image here, so this one may go in a pocket",
+   "rel": "kin",
+   "as_th": "พระพิมพ์ที่ห้อยอยู่ข้างกัน และกฎที่แยกทั้งสองออกจากกัน คือที่นี่ไม่มีรูปพระพุทธเจ้า ตะกรุดจึงใส่กระเป๋าได้"
+  },
+  {
+   "to": "sak-yant",
+   "as": "the same yant, same script, same lineages — put into skin instead of rolled into foil",
+   "rel": "parallel",
+   "as_th": "ยันต์เดียวกัน อักษรเดียวกัน สายครูเดียวกัน แต่สักลงบนผิวหนังแทนที่จะม้วนอยู่ในแผ่นโลหะ"
+  },
+  {
+   "to": "yantra-plate",
+   "as": "the South Asian version of the design on metal, flat rather than rolled",
+   "rel": "parallel",
+   "as_th": "ลวดลายแบบเอเชียใต้บนแผ่นโลหะ ที่แบนแทนที่จะม้วน"
+  },
+  {
+   "to": "taweez",
+   "as": "the Islamic rolled written charm in a case — the same solution reached along a different road",
+   "rel": "parallel",
+   "as_th": "เครื่องรางเขียนของศาสนาอิสลามที่ม้วนใส่ปลอก เป็นทางออกแบบเดียวกันที่ได้มาจากคนละเส้นทาง"
+  },
+  {
+   "to": "ethiopian-magic-scroll",
+   "as": "the other great rolled text in this atlas: written protection kept in a tube and carried on the body",
+   "rel": "parallel",
+   "as_th": "ม้วนข้อความสำคัญอีกชิ้นในแอตลาสนี้ คือการคุ้มครองที่เขียนไว้ เก็บในหลอด และพกติดตัว"
+  },
+  {
+   "to": "thai-wicha",
+   "as": "the craft that makes it, in which the yant and the incantation are a lineage's property",
+   "rel": "tradition",
+   "as_th": "วิชาที่สร้างตะกรุด ซึ่งยันต์และคาถาเป็นสมบัติของสายครู"
+  },
+  {
+   "to": "inscribing",
+   "as": "the act that charges it: the writing, not the metal, is the amulet",
+   "rel": "practice",
+   "as_th": "การกระทำที่ให้อานุภาพแก่ตะกรุด คือการเขียน ไม่ใช่ตัวโลหะ ที่เป็นเครื่องราง"
+  },
+  {
+   "to": "wearing-hidden",
+   "as": "how it works — a sealed tube whose contents nobody sees, tied under the clothes",
+   "rel": "practice",
+   "as_th": "วิธีที่ตะกรุดทำงาน คือหลอดที่ปิดผนึกซึ่งไม่มีใครเห็นสิ่งที่อยู่ข้างใน ผูกไว้ใต้เสื้อผ้า"
+  },
+  {
+   "to": "tha-phrachan",
+   "as": "the Bangkok market that sells it from the same tray as the clay tablets",
+   "rel": "place",
+   "as_th": "ตลาดในกรุงเทพฯ ที่ให้เช่าบูชาตะกรุดจากถาดเดียวกับพระพิมพ์ดิน"
+  },
+  {
+   "to": "yant-flash",
+   "as": "the sheet of designs the yant on this tube is drawn from",
+   "rel": "art",
+   "as_th": "แผ่นรวมลวดลายที่ยันต์บนหลอดนี้คัดลอกมา"
+  }
  ],
  "confusable_with": [
-  {"id": "phra-khrueang", "tell": "a takrut is a plain rolled tube with nothing to look at; a phra khrueang carries an image in relief"},
-  {"id": "taweez", "tell": "both are rolled written charms in a case — a takrut carries yant in Khom Pali, a taweez carries Arabic"}
+  {
+   "id": "phra-khrueang",
+   "tell": "a takrut is a plain rolled tube with nothing to look at; a phra khrueang carries an image in relief"
+  },
+  {
+   "id": "taweez",
+   "tell": "both are rolled written charms in a case — a takrut carries yant in Khom Pali, a taweez carries Arabic"
+  }
  ],
- "links": [{"label": "Takrut — Wikipedia", "url": "https://en.wikipedia.org/wiki/Takrut"}],
- "sources": ["s:wp-takrut", "s:wp-thai-buddha-amulet", "s:wp-yantra-tattooing", "s:wp-yantra", "s:wp-palad-khik"],
+ "links": [
+  {
+   "label": "Takrut — Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Takrut"
+  }
+ ],
+ "sources": [
+  "s:wp-takrut",
+  "s:wp-thai-buddha-amulet",
+  "s:wp-yantra-tattooing",
+  "s:wp-yantra",
+  "s:wp-palad-khik"
+ ],
  "provenance": {
-  "default": {"tier": "cited", "source": "s:wp-takrut"},
+  "default": {
+   "tier": "cited",
+   "source": "s:wp-takrut"
+  },
   "fields": {
-   "dating": {"tier": "cited", "source": "s:wp-takrut", "note": "the 1200–1300 CE date is uncited in the source; it is carried here with that flag and the record's confidence set to medium"},
-   "text.today": {"tier": "inference", "note": "reasoned from published accounts of the Bangkok trade; nobody from this project has stood at the stalls"}
+   "dating": {
+    "tier": "cited",
+    "source": "s:wp-takrut",
+    "note": "the 1200–1300 CE date is uncited in the source; it is carried here with that flag and the record's confidence set to medium"
+   },
+   "text.today": {
+    "tier": "inference",
+    "note": "reasoned from published accounts of the Bangkok trade; nobody from this project has stood at the stalls"
+   }
   }
  },
  "images": [],
- "x_commons_files": ["File:Takrut.jpg"],
+ "x_commons_files": [
+  "File:Takrut.jpg"
+ ],
  "confidence": "medium",
  "needs_verification": true,
  "updated": "2026-09-16"

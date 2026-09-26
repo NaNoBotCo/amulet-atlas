@@ -9,7 +9,8 @@
    "manje lwa",
    "offerings to an object"
   ],
-  "said": "giving the thing something, so it keeps working"
+  "said": "giving the thing something, so it keeps working",
+  "th": "การเลี้ยงเครื่องราง"
  },
  "region": [
   "north-america",
@@ -41,6 +42,9 @@
   "story": "Hoodoo states it outright. A mojo bag is first fixed — filled and, in the cited account's words, awakened to life, by smoking it over incense and candles, or breathing on it, with prayers said over it. Once prepared it is dressed or fed with a liquid: alcohol, perfume, water or bodily fluids. The reason given for feeding is that the bag is alive with spirit, and feeding keeps it working.\n\nIn Kongo practice the substances go in at the start and the object is kept in service by use. The bilongo or milongo packed into an nkisi are usually translated as medicine, though they are not applied to or swallowed by the sick; scholars of the tradition suggest therapeutic substances is closer, and note the ingredients are often chosen for metaphor — bird claws to catch a wrongdoer. In the aggressive subclass, nkondi, each nail or metal piece driven in stands for a vow, a signed agreement or an effort to abolish an evil, so the object accumulates its history in iron.\n\nHaitian Vodou feeds the spirits rather than the object, and does it constantly. Offering rites are termed manje lwa, feeding the lwa, and offering food and drink is the most common ritual in the religion, done communally and at home; Danbala takes white foods, especially eggs, Legba's offerings are grilled on a fire, the Ogu and Nago lwa prefer raw rum or clairin, and Ayizan avoids alcohol.\n\nThe Andes feeds on a timetable. Ekeko figures are loaded with miniature goods, and banknotes are clipped to them as offerings; modern statues have a hole in the mouth for a cigarette, and the recent custom is that Ekeko smokes one lit cigarette a year to secure a year of prosperity. Grain is offered for good harvests. Japan feeds the household altar: the Association of Shinto Shrines recommends daily worship before the shinsatsu, with offerings of rice, salt, water or sake, and more food on special occasions. In Java, warriors made offerings to their kris at a shrine, because specific rites had to be completed to avoid calling down bad fates.\n\n*Inference —* feeding is the clearest test of whether a tradition treats a charm as an object or as a resident. Nobody feeds a lucky coin. The traditions here that feed also say, in their own words, that something lives in the thing — and those are the same traditions whose objects a museum has the hardest time labelling, because a fed figure that stops being fed is, by its own tradition's account, not the same object on the shelf.",
   "how": "Pour, light, set down, or drive in. A liquid is poured or rubbed on a cloth bag. A cigarette is lit in a figure's mouth. Food and drink are set in front of an altar or a figure and left. A nail is hammered into a carved body to seal an agreement. Each has its own schedule, from daily to once a year.",
   "today": "Live. Conjure workers still fix and dress mojo bags commercially. Ekeko figures are sold loaded at the Alasitas fair in La Paz every January and smoke through the year in Bolivian houses. Japanese households keep kamidana and make the daily offerings the Association of Shinto Shrines recommends. Minkisi in European and American museums are not fed, and Kongo commentators and curators disagree about what that makes them."
+ },
+ "text_th": {
+  "what": "การให้สิ่งที่วัตถุจะบริโภคได้ เหล้าที่ราดลงบนถุงผ้า บุหรี่จุดไฟเสียบในปากรูปปั้นปูนปลาสเตอร์ ข้าว เกลือ และน้ำวางไว้หน้ายันต์กระดาษ ตะปูที่ตอกเข้าไปในรูปแกะสลัก ธนบัตรที่หนีบไว้กับรูปปั้น ธรรมเนียมที่ทำเช่นนี้กล่าวถึงเครื่องรางว่ามีชีวิต และการเลี้ยงคือสิ่งที่ทำให้เครื่องรางยังทำงานต่อไป ไม่ใช่การขอบคุณสำหรับงานที่ทำไปแล้ว"
  },
  "dating": {
   "period": "sixteenth century to the present",
@@ -270,70 +274,90 @@
    "type": "amulet",
    "name": "Nkisi",
    "as": "the object this practice is clearest in — loaded, woken, and nailed once per agreement",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เอ็นกีซี",
+   "as_th": ""
   },
   {
    "to": "gris-gris",
    "type": "amulet",
    "name": "Gris-gris",
    "as": "fed with alcohol, perfume or water because, in the tradition's words, it is alive",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กรีกรี (ถุงเครื่องรางแอฟริกาตะวันตก)",
+   "as_th": ""
   },
   {
    "to": "ekeko",
    "type": "amulet",
    "name": "Ekeko",
    "as": "the figure that smokes one cigarette a year and wears banknotes the rest of it",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "เอเคโก (ตุ๊กตาชาวแอนดีส)",
+   "as_th": ""
   },
   {
    "to": "ofuda",
    "type": "amulet",
    "name": "Ofuda",
    "as": "the paper on the household altar in front of which rice, salt, water and sake are set out daily",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "โอฟุดะ (แผ่นยันต์ศาลเจ้าญี่ปุ่น)",
+   "as_th": ""
   },
   {
    "to": "keris-pusaka",
    "type": "amulet",
    "name": "Keris pusaka",
    "as": "the blade warriors made offerings to at a shrine, and still wash once a year",
-   "rel": "carried-by"
+   "rel": "carried-by",
+   "name_th": "กริชปูซากา (กริชมรดก)",
+   "as_th": ""
   },
   {
    "to": "bakongo-nkisi-craft",
    "type": "tradition",
    "name": "Bakongo nkisi craft",
    "as": "the tradition that keeps the ledger of vows in nails",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "งานสร้างนคิซีของชาวบาคองโก",
+   "as_th": ""
   },
   {
    "to": "andean-illa-practice",
    "type": "tradition",
    "name": "Illa practice",
    "as": "the tradition where feeding and buying happen on the same January morning",
-   "rel": "tradition"
+   "rel": "tradition",
+   "name_th": "คติอิยา (เครื่องรางจำลองแห่งแอนดีส)",
+   "as_th": ""
   },
   {
    "to": "consecration",
    "type": "practice",
    "name": "Consecration",
    "as": "the step that wakes the thing; feeding is what keeps it awake",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การปลุกเสก",
+   "as_th": ""
   },
   {
    "to": "renewing-yearly",
    "type": "practice",
    "name": "Renewing yearly",
    "as": "the calendar version of the same upkeep, done to the object instead of with food",
-   "rel": "parallel"
+   "rel": "parallel",
+   "name_th": "การเปลี่ยนใหม่ทุกปี",
+   "as_th": ""
   },
   {
    "to": "who-owns-a-charm",
    "type": "story",
    "name": "Who owns a charm",
    "as": "the long read this practice complicates: a figure that is no longer fed is, in its own tradition's account, not the object on the shelf",
-   "rel": "story"
+   "rel": "story",
+   "name_th": "ใครเป็นเจ้าของเครื่องราง",
+   "as_th": ""
   }
  ],
  "source_list": [
@@ -576,56 +600,72 @@
    "type": "amulet",
    "name": "Ekeko",
    "as": "the practice this record turns on: banknotes clipped on, grain offered, a cigarette lit once a year",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เอเคโก (ตุ๊กตาชาวแอนดีส)",
+   "as_th": ""
   },
   {
    "from": "illa",
    "type": "amulet",
    "name": "Illa",
    "as": "what the hole in its back is for — fat, blood, and offerings poured in",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "อิยา (รูปสัตว์หินแอนดีส)",
+   "as_th": ""
   },
   {
    "from": "keris-pusaka",
    "type": "amulet",
    "name": "Keris pusaka",
    "as": "jamasan, the yearly cleaning the blade is owed, which wears old blades thin",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "กริชปูซากา (กริชมรดก)",
+   "as_th": ""
   },
   {
    "from": "nkisi",
    "type": "amulet",
    "name": "Nkisi",
    "as": "the practice of keeping a charged object working, which here means waking and enraging it for a task",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "เอ็นกีซี",
+   "as_th": ""
   },
   {
    "from": "andean-illa-practice",
    "type": "tradition",
    "name": "Illa practice",
    "as": "the practice at the centre of it — the cavity in the illa's back and the opening in Ekeko's mouth are the same idea in two materials",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "คติอิยา (เครื่องรางจำลองแห่งแอนดีส)",
+   "as_th": ""
   },
   {
    "from": "bakongo-nkisi-craft",
    "type": "tradition",
    "name": "Bakongo nkisi craft",
    "as": "the practice of keeping a charged object working — here, waking it and sometimes enraging it for a task",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "งานสร้างนคิซีของชาวบาคองโก",
+   "as_th": ""
   },
   {
    "from": "herb",
    "type": "material",
    "name": "Herb and root",
    "as": "the practice that keeps a plant charm renewed, since the material itself will not last",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "สมุนไพรและรากไม้",
+   "as_th": ""
   },
   {
    "from": "sewing-in",
    "type": "practice",
    "name": "Sewing in",
    "as": "what happens after the bag is stitched — fixed, woken and dressed",
-   "rel": "practice"
+   "rel": "practice",
+   "name_th": "การเย็บเครื่องรางไว้ในผ้า",
+   "as_th": ""
   }
  ]
 }
