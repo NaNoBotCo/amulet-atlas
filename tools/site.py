@@ -887,7 +887,7 @@ def node_page(r: dict, by_id: dict, places: list) -> str:
     body.append(holdings_block(r))
 
     if r.get("confusable_with"):
-        body.append(f'<h2>{L("Not to be confused with", "อย่าสับสนกับ")}</h2><ul>' + "".join(
+        body.append(f'<h2>{L("Not to be confused with", "อย่าสับสนกับ")}</h2><ul>' + "".join(  # stylecheck: allow — the heading label "Not to be confused with"
             f'<li><a href="../../{PATH_OF[by_id[c["id"]]["type"]]}/{E(c["id"])}/index.html">'
             f'{E(rname(by_id[c["id"]]))}</a> — {tf(r, f"confusable_with.{i}.tell", c["tell"])}</li>'
             for i, c in enumerate(r["confusable_with"]) if c["id"] in by_id) + "</ul>")
