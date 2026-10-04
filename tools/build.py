@@ -143,7 +143,7 @@ def enrich(r: dict, by_id: dict, sources: dict) -> dict:
 
 
 def backlinks(recs: list[dict]):
-    """Every record learns who links to it, with that record's own sentence. Never invented prose."""
+    """Every record learns who links to it, with that record's own sentence. Never invented prose."""  # stylecheck: allow — code docstring
     by_id = {r["id"]: r for r in recs}
     for r in recs:
         r["kin_in"] = []

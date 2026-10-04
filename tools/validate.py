@@ -309,10 +309,10 @@ def validate_all(strict=False, quiet=False) -> int:
             warns.append(f"{tag}: tier {prov['default']['tier']} but sources is empty")
     if not quiet:
         for w in warns:
-            print("warn ", w)
+            print("warn ", w)  # stylecheck: allow — developer log line
         for e in errors:
             print("ERROR", e)
-        print(f"{len(recs)} records · {len(errors)} errors · {len(warns)} warnings")
+        print(f"{len(recs)} records · {len(errors)} errors · {len(warns)} warnings")  # stylecheck: allow — developer log line
     if errors or (strict and warns):
         return 1
     return 0
