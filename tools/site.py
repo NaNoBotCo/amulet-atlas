@@ -21,6 +21,7 @@ import json
 import os
 
 import fleet
+import ogcards
 import random
 import re
 import shutil
@@ -1479,6 +1480,7 @@ def main() -> int:
     if SITE.exists():
         shutil.rmtree(SITE)
     SITE.mkdir(parents=True)
+    ogcards.copy(ROOT, SITE)
     shutil.copytree(API, SITE / "api")
     shutil.copytree(ROOT / "schema", SITE / "schema")
     (SITE / "vendor").mkdir()
@@ -1511,7 +1513,7 @@ def main() -> int:
             shutil.copy(src, dst)
 
     (SITE / "index.html").write_text(front_page(recs, by_id, types, atlas, timeline, against, cov), encoding="utf-8")
-    (SITE / "wander.html").write_text(wander_page(recs), encoding="utf-8")
+    (SITE / "wander.html").write_text(ogcards.apply(wander_page(recs), "wander.html", SITE_URL), encoding="utf-8")
     for t in types["entries"]:
         if t["key"] in FOLDED:
             continue
@@ -1528,7 +1530,7 @@ def main() -> int:
     LANG = "th"
     tdir = SITE / "th"
     tdir.mkdir()
-    (tdir / "index.html").write_text(front_page(recs, by_id, types, atlas, timeline, against, cov), encoding="utf-8")
+    (tdir / "index.html").write_text(ogcards.apply(front_page(recs, by_id, types, atlas, timeline, against, cov), "th/index.html", SITE_URL), encoding="utf-8")
     (tdir / "wander.html").write_text(wander_page(recs), encoding="utf-8")
     for t in types["entries"]:
         if t["key"] in FOLDED:
