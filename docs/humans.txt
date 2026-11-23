@@ -14,6 +14,7 @@ Made by Hongdam (https://hongdam.net/), a bilingual web studio in Chiang Rai.
 Everything this publisher holds, counted: https://nanobotco.github.io/index/
 The roster, as JSON: https://nanobotco.github.io/index/fleet.json
 Mot Dang — https://motdang.net/
+The Plan — https://motdang.net/the-plan/
 Chiang Rai, Slowly — https://motdang.net/chiang-rai/
 The Mae Hong Son Loop — https://nanobotco.github.io/mae-hong-son-loop/
 Muay Thai — https://motdang.net/muay-thai/
@@ -46,3 +47,41 @@ NaNoBotCo — https://nanobotco.github.io/
 ฮักฝรั่ง — https://hakfarang.net/
 Offrampt — https://offrampt.net/
 Poplucky — https://poplucky.net/
+What Bots Craaave — https://nanobotco.github.io/bots-crave/
+The Pacific Crest Trail — https://nanobotco.github.io/pct/
+Rain in Chiang Mai — https://nanobotco.github.io/rain-chiang-mai/
+Chemtrails? It's ice. — https://nanobotco.github.io/chemtrails/
+The Rhine Deck — https://nanobotco.github.io/rhine/
+Nitpick — https://nanobotco.github.io/nitpick/
+All Factored — https://nanobotco.github.io/all-factored/
+The Golden Gate Bridge — https://nanobotco.github.io/golden-gate/
+Chains, Drawn — https://nanobotco.github.io/chains-drawn/
+Hired Burglars — https://nanobotco.github.io/hired-burglars/
+Hodie · Saint Expedite — https://nanobotco.github.io/expedite/
+Psar Phnom Penh — https://nanobotco.github.io/phnom-penh/
+Moving Day — https://nanobotco.github.io/moving-day/
+Warp and Weft — https://nanobotco.github.io/warp-and-weft/
+Birds of Chiang Mai — https://nanobotco.github.io/birds-chiang-mai/
+Lersi · the hermit's stretches — https://nanobotco.github.io/lersi/
+Tham Luang, Drawn — https://nanobotco.github.io/tham-luang/
+GC-MS: Who Tests It — https://nanobotco.github.io/gc-ms/
+Kranok, Drawn — https://motdang.net/sites/kranok/
+Play with Fractals — https://nanobotco.github.io/fractals/
+Telling Time in Thai — https://nanobotco.github.io/thai-time/
+The Bayeux Tapestry, Unrolled — https://nanobotco.github.io/bayeux-tapestry/
+Khom Loi, Drawn — https://motdang.net/sites/khom-loi/
+Krathong, Drawn — https://motdang.net/sites/krathong/
+Kin Jay — https://motdang.net/sites/kin-jay/
+The Voynich Manuscript — https://nanobotco.github.io/voynich/
+Cosmic Weaponry, Drawn — https://nanobotco.github.io/cosmic-weaponry/
+Ghosts, Drawn — https://nanobotco.github.io/ghosts-drawn/
+The Bridge Vial — https://nanobotco.github.io/bridge-vial/
+Cursitor — https://nanobotco.github.io/cursitor/
+Bag Knots — https://nanobotco.github.io/bag-knots/
+The Word Garden — https://nanobotco.github.io/suan-kham/
+Gargoyles, Drawn — https://nanobotco.github.io/gargoyles/
+Newlife Impex Stock — https://nanobotco.github.io/newlife-stock/
+100 Days of Vibe-Coding Insanity — https://nanobotco.github.io/100-days/
+Hodie — https://nanobotco.github.io/hodie/
+Pells — https://nanobotco.github.io/pells/
+Chirograph — https://nanobotco.github.io/chirograph/
