@@ -900,8 +900,7 @@ def node_page(r: dict, by_id: dict, places: list) -> str:
             f'<li><a href="{E(l["url"])}">{E(l["label"])}</a></li>' for l in r["links"]) + "</ul>")
     body.append(f'<p class="legend">{L("Record updated", "ปรับปรุงบันทึก")} {E(r["updated"])}{L(".", "")} '
                 f'<a href="../../api/{E(r["type"])}/{E(r["id"])}.json">{L("This record as JSON", "บันทึกนี้ในรูปแบบ JSON")}</a>{L(".", "")} '
-                + L("Every field carries its own provenance; the tier chips above say which.",
-                    "ช่องข้อมูลบอกที่มาของตัวเอง ป้ายระดับด้านบนบอกว่าเป็นระดับใด") + '</p>')
+                + '</p>')
     return page(f'{title_name} — {SITE_NAME_TH if th else SITE_NAME}', "".join(body), 2, tblurb(r), node_jsonld(r),
                 f"{SITE_URL}/{url_of(r)}", alt_json=f"{SITE_URL}/api/{r['type']}/{r['id']}.json",
                 og_type="article" if r["type"] in ("story", "art") else "website", card=r["id"])
