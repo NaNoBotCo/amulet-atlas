@@ -226,7 +226,7 @@
   "updated": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
   "tags": {
    "type": "array",
-   "description": "Claims about a place a reader might pick it by. Every tag names its evidence.",
+   "description": "Claims about a place a reader might pick it by.",
    "items": {
     "type": "object", "required": ["tag", "source"], "additionalProperties": false,
     "properties": {
